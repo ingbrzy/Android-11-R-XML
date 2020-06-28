@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">উপরে নেভিগেট করুন</string>
+    <string name="abc_action_mode_done">হয়ে গেছে</string>
+    <string name="abc_capital_off">বন্ধ আছে</string>
+    <string name="abc_capital_on">চালু করুন</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">মুছুন</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">সার্চ করুন…</string>
+    <string name="abc_searchview_description_clear">কোয়েরি মুছে ফেলুন</string>
+    <string name="abc_searchview_description_search">সার্চ করুন</string>
+    <string name="abc_searchview_description_submit">কোয়েরি জমা দিন</string>
+    <string name="abc_searchview_description_voice">ভয়েস সার্চ করুন</string>
+    <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
+    <string name="accessibility_no_wifi">ওয়াই-ফাই ডিসকানেক্ট হয়েছে।</string>
+    <string name="accessibility_wifi_one_bar">ওয়াই-ফাইতে একটি বার।</string>
+    <string name="accessibility_wifi_security_type_none">ওপেন নেটওয়ার্ক</string>
+    <string name="accessibility_wifi_security_type_secured">সুরক্ষিত নেটওয়ার্ক</string>
+    <string name="accessibility_wifi_signal_full">ওয়াই-ফাইতে সম্পূর্ণ সিগন্যাল।</string>
+    <string name="accessibility_wifi_three_bars">ওয়াই-ফাইতে তিনটি বার।</string>
+    <string name="accessibility_wifi_two_bars">ওয়াই-ফাইতে দুটি বার।</string>
+    <string name="account_exists_info">"আপনার ইমেল, পরিচিতি, ক্যালেন্ডার ইভেন্ট এবং আরও অনেক কিছু এগুলিতে সিঙ্ক করা হবে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}। আপনি Google Play থেকে অ্যাপ, মিউজিক এবং গেম ডাউনলোড শুরু করার জন্যও প্রস্তুত।
+
+আপনি সেটিংস > অ্যাকাউন্টে গিয়ে পরে অ্যাকাউন্ট যোগ করতে বা মুছে ফেলতে পারেন।"</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> প্রস্তুত৷</string>
+    <string name="account_exists_text_unknown_name">আপনার অ্যাকাউন্ট প্রস্তুত৷</string>
+    <string name="account_exists_title">{accounts,plural, =1{টি অ্যাকাউন্ট যোগ করা হয়েছে}one{টি অ্যাকাউন্ট যোগ করা হয়েছে}other{টি অ্যাকাউন্ট যোগ করা হয়েছে}}</string>
+    <string name="activating_carrier_service_text">এতে কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="activating_unknown_carrier_service_title">চালু করা হচ্ছে…</string>
+    <string name="activation_failed_message">"আপনি যা করতে পারেন:
+"<ul><li>আবার মোবাইল ডেটাতে কানেক্ট করার চেষ্টা</li>"
+"<li>সেট-আপ করার জন্য অন্য একটি নেটওয়ার্ক ব্যবহার করা</li></ul>"
+
+এর পরেও কাজ না হলে, আপনার {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} রিস্টার্ট করে আবার চেষ্টা করা।"</string>
+    <string name="activation_failed_title">মোবাইল ডেটাতে সংযোগ করা যাচ্ছে না</string>
+    <string name="activation_progress_flow">"খুব দেরি হচ্ছে?
+
+মোবাইল ডেটাতে সংযোগ করতে একটু সময় লাগছে। আপনি ফিরে গিয়ে অন্য কোনো নেটওয়ার্কে সংযোগ করার চেষ্টা করতে পারেন।"</string>
+    <string name="activation_title">মোবাইল পরিষেবার সাথে কানেক্ট করা হচ্ছে…</string>
+    <string name="activation_unprovisioned_sim_message">এগুলি রিস্টার্ট করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} এবং আবার চেষ্টা করুন অথবা সেট-আপ করার জন্য ওয়াই-ফাই-তে কানেক্ট করুন। তারপরেও মোবাইল ডেটা সক্রিয় করতে সমস্যা হলে পরিষেবা প্রদানকারীর সাথে যোগাযোগ করুন।</string>
+    <string name="activation_unprovisioned_title">মোবাইল ডেটা সক্রিয় করা যায়নি</string>
+    <string name="android_privacy_policy_title">অতিরিক্ত গোপনীয়তার নীতি</string>
+    <string name="available_via_carrier">%1$s এর মাধ্যমে পাওয়া যাচ্ছে</string>
+    <string name="cancel_button_label">বাতিল করুন</string>
+    <string name="captive_portal_connection_unsuccessful">ইন্টারনেটে সংযোগ করা গেল না</string>
+    <string name="captive_portal_description_text">কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="captive_portal_ssl_error_text">এই সংযোগটি একটি অনিরাপদ বা ভুল সার্টিফিকেট ব্যবহার করছে। অন্য নেটওয়ার্ক নির্বাচন করে আবার চেষ্টা করুন।</string>
+    <string name="captive_portal_title">সংযুক্ত হচ্ছে...</string>
+    <string name="chrome_privacy_title">"Chrome'র গোপনীয়তা বিজ্ঞপ্তি"</string>
+    <string name="chrome_tos_title">"Chrome'র পরিষেবার শর্তাবলী"</string>
+    <string name="close_button_label">বন্ধ করুন</string>
+    <string name="common_google_play_services_enable_button">সক্ষম করুন</string>
+    <string name="common_google_play_services_enable_text">আপনি Google Play পরিষেবা সক্ষম না করা পর্যন্ত %1$s কাজ করবে না।</string>
+    <string name="common_google_play_services_enable_title">Google Play পরিষেবা সক্ষম করুন</string>
+    <string name="common_google_play_services_install_button">ইনস্টল করুন</string>
+    <string name="common_google_play_services_install_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যা আপনার ডিভাইসে অনুপস্থিত।</string>
+    <string name="common_google_play_services_install_title">Google Play পরিষেবা পান</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play পরিষেবার উপলভ্যতা</string>
+    <string name="common_google_play_services_notification_ticker">Google Play পরিষেবার ত্রুটি</string>
+    <string name="common_google_play_services_unknown_issue">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="common_google_play_services_unsupported_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যেটি আপনার ডিভাইসে সমর্থিত নয়৷</string>
+    <string name="common_google_play_services_update_button">আপডেট করুন</string>
+    <string name="common_google_play_services_update_text">আপনি Google Play পরিষেবা আপডেট না করা পর্যন্ত %1$s চলবে না।</string>
+    <string name="common_google_play_services_update_title">Google Play পরিষেবা আপডেট করুন</string>
+    <string name="common_google_play_services_updating_text">Google Play পরিষেবা ছাড়া %1$s চলবে না যা বর্তমানে আপডেট হচ্ছে।</string>
+    <string name="connect_to_wifi_btn_text">ওয়াই-ফাই সেটিংস</string>
+    <string name="connect_to_wifi_message">চালিয়ে যেতে ওয়াই-ফাইয়ের সাথে কানেক্ট করুন</string>
+    <string name="connect_to_wifi_title">অ্যাপের আপডেট প্রস্তুত আছে</string>
+    <string name="connected_via_app">%1$s-এর মাধ্যমে কানেক্ট করা আছে</string>
+    <string name="connected_via_carrier">%1$s এর মাধ্যমে কানেক্ট হয়েছে</string>
+    <string name="connected_via_network_scorer_default">নেটওয়ার্কের রেটিং প্রদানকারীর মাধ্যমে অটোমেটিক কানেক্ট</string>
+    <string name="consolidate_captive_portal_description_text">এটি করতে কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="consolidate_captive_portal_title">আপডেট করার জন্য যাচাই করা হচ্ছে…</string>
+    <string name="continue_for_a11y">সহজ ব্যবহার মোড সক্ষম করতে আপনি যতক্ষণ না একটি হুইসেল শুনতে পাচ্ছেন, স্ক্রিনটি স্পর্শ করা চালিয়ে যান৷</string>
+    <string name="date_time_current_date">তারিখ</string>
+    <string name="date_time_current_time">সময়</string>
+    <string name="date_time_message">প্রয়োজনে সামঞ্জস্য করুন৷</string>
+    <string name="date_time_setup_title">তারিখ ও সময়</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">চালিয়ে যান</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">"অতিরিক্ত ধাপগুলির মধ্যে রয়েছে, Google অ্যাসিস্ট্যান্ট, Google Pay, 'এখন চলছে' ফিচার, ফন্ট সাইজ, ওয়ালপেপার, এবং আরও অনেক কিছু সেট-আপ করা"</string>
+    <string name="decision_point_leave_setup">বেরিয়ে আসুন এবং রিমাইন্ডার পান</string>
+    <string name="decision_point_now_playing">এখন চলছে</string>
+    <string name="default_device_name_device">ডিভাইস</string>
+    <string name="default_device_name_phone">ফোন</string>
+    <string name="default_device_name_tablet">ট্যাবলেট</string>
+    <string name="deferred_notification_prompt_title">আপনার ^1-এর সেট-আপ শেষ করুন</string>
+    <string name="deferred_setup_button_label">সেট-আপ শেষ করুন</string>
+    <string name="deferred_setup_wizard_reason_assistant">অ্যাসিস্ট্যান্টের সাথে কথা বলুন</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">Google অ্যাসিস্ট্যান্টের সাথে কথা বলুন</string>
+    <string name="deferred_setup_wizard_reason_default">আর মাত্র কয়েকটি ধাপ বাকি</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">ডেটা কপি করুন</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay অ্যাপ ব্যবহার করুন</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay-এর মাধ্যমে আরও দ্রুত পেমেন্ট করুন</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 এবং অন্যান্য কারণ</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 এবং আরও অনেক কিছু</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">আর কয়েকটি ছোট ধাপ পেরোলেই আপনার ^1 ব্যবহারের জন্য প্রস্তুত হয়ে যাবে</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">ওয়ালপেপার সেট করুন</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">ওয়ালপেপার সেট করুন</string>
+    <string name="deferred_setup_wizard_title">আপনার ডিভাইসের সেট-আপ শেষ করুন</string>
+    <string name="deferred_snooze_dialog_option_never">কখনই নয়</string>
+    <string name="deferred_snooze_dialog_option_today">আজকের মধ্যে</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">আগামীকাল</string>
+    <string name="deferred_snooze_dialog_title">রিমাইন্ডার পেতে চাই</string>
+    <string name="deferred_welcome_airplane_mode_message">"শেষ কয়েকটি ধাপ করার জন্য আপনার নেটওয়ার্ক সংযোগ প্রয়োজন। 
+
+যদি বিমান মোড চালু থাকে তবে ওয়াই-ফাই, মোবাইল নেটওয়ার্ক এবং ব্লুটুথ সংযোগ বিচ্ছিন্ন থাকবে।"</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">পরে সেট-আপ করুন</string>
+    <string name="deferred_welcome_airplane_mode_title">বিমান মোড বন্ধ করবেন?</string>
+    <string name="deferred_welcome_screen_cancel_button">আমায় পরে মনে করানো হোক</string>
+    <string name="deferred_welcome_title">^1 এর সেট-আপ শেষ করুন</string>
+    <string name="deferred_welcome_turn_off_button_label">বন্ধ করুন</string>
+    <string name="device_owner_continue">সেট-আপ চালিয়ে যান</string>
+    <string name="device_owner_reset">এগুলি রিসেট করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}</string>
+    <string name="device_owner_warning">{0} এগুলি ম্যানেজ করছে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} এবং আপনার তথ্য অ্যাক্সেস করতে পারে। {0}-এর অ্যাক্সেস রাখতে না চাইলে এগুলি রিসেট করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}।</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} -এর উপর নজর রাখা যেতে পারে</string>
+    <string name="dialog_back_button_label">ফিরুন</string>
+    <string name="dialog_continue_button_label">চালিয়ে যান</string>
+    <string name="early_update_installing_updates_text">আপডেট ইনস্টল হচ্ছে</string>
+    <string name="early_update_text">কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="early_update_timeout_text">অনেক বেশি সময় নিচ্ছে? ফিরে গিয়ে আলাদা কোনও নেটওয়ার্কে কানেক্ট করার চেষ্টা করুন।</string>
+    <string name="early_update_title">আপডেটের জন্য চেক করা হচ্ছে…</string>
+    <string name="emergency_dial">জরুরি কল</string>
+    <string name="enabled_a11y">সহজ ব্যবহার মোড সক্ষম করা আছে৷</string>
+    <string name="esim_option_button_summary">ই-সিম ব্যবহার করে নম্বর যোগ করুন</string>
+    <string name="esim_option_button_title">পরিবর্তে সিম ডাউনলোড করতে চান?</string>
+    <string name="esim_warning_title">আপনার সিম ডাউনলোড করুন</string>
+    <string name="esim_warning_txt">আপনি %1$s সদস্য হলে কল, মেসেজ, এবং ডেটা ইত্যাদি সিম কার্ড ব্যবহার না করেও ই-সিম ডাউনলোড করে এগুলি পাবেন।</string>
+    <string name="esim_warning_txt_default">সাধারণত আপনার সিম কার্ডে থাকা তথ্যটি ডাউনলোড করে আপনার মোবাইল নেটওয়ার্কে কানেক্ট করুন। এটি স্ট্যান্ডার্ড সিম কার্ডকে পরিবর্তন করে এবং এটি নিরাপদ।</string>
+    <string name="exit_loading_launcher">লঞ্চার লোড হচ্ছে…</string>
+    <string name="factory_reset_button">মুছুন এবং রিসেট করুন</string>
+    <string name="factory_reset_confirmation">এগুলিতে থাকা সব অ্যাকাউন্ট এবং ডেটা মুছে ফেলবেন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}? আগের অবস্থায় আর ফিরিয়ে আনতে পারবেন না!</string>
+    <string name="factory_reset_confirmation_title">আবার সেট করবেন?</string>
+    <string name="factory_reset_instructions">সতর্কতা: রিসেট করা হলে সব অ্যাকাউন্ট ও ডেটা মুছে যাবে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}-এর ইন্টারনাল স্টোরেজ থেকে।</string>
+    <string name="factory_reset_title">এগুলি রিসেট করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}</string>
+    <string name="final_hold_description_text">কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="final_hold_title">শেষের কয়েকটি জিনিস যোগ করা হচ্ছে…</string>
+    <string name="final_hold_title_setup_work_account">কাজের প্রোফাইল সেট-আপ করার প্রস্তুতি চলছে…</string>
+    <string name="gms_account_checkin_title">অ্যাকাউন্টের তথ্য সংগ্রহ করা হচ্ছে…</string>
+    <string name="gms_checkin_description_text">কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="gms_checkin_description_text_timeout">অনেক বেশি সময় নিচ্ছে? ফিরে গিয়ে আলাদা কোনও নেটওয়ার্কে সংযোগ করার চেষ্টা করুন।</string>
+    <string name="gms_checkin_title">আপডেটের জন্য চেক করা হচ্ছে…</string>
+    <string name="go_back_button_label">ফিরে যান</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play পরিষেবার শর্তাবলী</string>
+    <string name="google_plus_privacy_policy_title">Google Plus গোপনীয়তা নীতি</string>
+    <string name="google_privacy_policy_title">Google এর গোপনীয়তার নীতি</string>
+    <string name="google_provisioning_disclaimer_content">Google পরিষেবার শর্তাবলী এবং গোপনীয়তা নীতি প্রযোজ্য। আরও বিবরণের জন্য &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> দেখুন।</string>
+    <string name="google_terms_of_service_title">Google পরিষেবার শর্তাবলী</string>
+    <string name="invalid_phone_number">অজানা ফোন নম্বর</string>
+    <string name="invalid_qr_code_content">আপনার আইটি অ্যাডমিনের থেকে সঠিক কোডটি চান</string>
+    <string name="invalid_qr_code_retry">আবার চেষ্টা করুন</string>
+    <string name="invalid_qr_code_title">ভুল QR কোড</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari এবং iTunes হল Apple Inc. এর ট্রেডমার্ক, যা মার্কিন যুক্তরাষ্ট্র এবং অন্যান্য দেশে রেজিস্টার করা আছে।</string>
+    <string name="language_picker_section_all">সকল ভাষা</string>
+    <string name="language_picker_section_suggested">প্রস্তাবিত</string>
+    <string name="migrate_from_ios_description">এই ধাপগুলি অনুসরণ করুন:</string>
+    <string name="migrate_from_ios_header">আপনার ডেটা কপি করুন</string>
+    <string name="migrate_from_ios_instructions_1">১. Safari® খুলুন</string>
+    <string name="migrate_from_ios_instructions_2">২. <b>android.com/switch</b>-এ যান</string>
+    <string name="migrate_from_ios_instructions_3">৩) নির্দেশাবলী অনুসরণ করুন</string>
+    <string name="network_description_text">নেটওয়ার্ক বেছে নিন</string>
+    <string name="network_description_text_esim">আপনার সিম ডাউনলোড করতে ওয়াই-ফাইয়ে কানেক্ট করুন</string>
+    <string name="network_see_all_wifi">সমস্ত ওয়াই-ফাই নেটওয়ার্ক দেখুন</string>
+    <string name="network_timeout_description_text">অন্য কোনও নেটওয়ার্ক ব্যবহার করে আবার চেষ্টা করুন। কোনও কানেকশন ছাড়াই চালিয়ে গেলে সেট-আপের কিছু ধাপ পরেও শেষ করতে পারেন।</string>
+    <string name="network_timeout_title">কানেক্ট করা যায়নি</string>
+    <string name="network_timeout_try_another_network_button">অন্য কোনও নেটওয়ার্ক ব্যবহার করে দেখুন</string>
+    <string name="network_title">ওয়াই-ফাইতে কানেক্ট করুন</string>
+    <string name="network_use_cellular">সেট-আপ করার জন্য মোবাইল নেটওয়ার্ক ব্যবহার করুন</string>
+    <string name="network_use_cellular_carrier">পরে ওয়াই-ফাইয়ে কানেক্ট করুন</string>
+    <string name="network_wifi_continue_button">চালিয়ে যান</string>
+    <string name="not_set">সেট করা হয়নি</string>
+    <string name="notification_channel_name_deferred">অতিরিক্ত সেট-আপ</string>
+    <string name="notification_channel_name_initial">সেট-আপ করুন</string>
+    <string name="notification_channel_name_restore">ডেটা পুনরুদ্ধার</string>
+    <string name="notification_channel_security_name_warnings">নিরাপত্তার সতর্কবার্তা</string>
+    <string name="ok_button_label">ঠিক আছে</string>
+    <string name="ota_agreement_text">চালিয়ে যাওয়ার মাধ্যমে এবং এই সফ্টওয়্যার আপডেটটি গ্রহণ করার মাধ্যমে আপনি <annotation link="tos">Google পরিষেবার শর্তাবলী</annotation> এবং <annotation link="google_privacy">গোপনীয়তা নীতি</annotation> এ সম্মত হন৷</string>
+    <string name="ota_info">আপনার {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} -এ একটি আপডেট ডাউনলোড করে রিস্টার্ট করতে হবে।</string>
+    <string name="ota_size">আকার: %s</string>
+    <string name="ota_update_title">এগুলি আপডেট করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}</string>
+    <string name="predeferred_prepare_setup">সেট-আপের জন্য প্রস্তুত করা হচ্ছে…</string>
+    <string name="predeferred_prepare_setup_details">আপনি শীঘ্রই আপনার ^1 সেট-আপ করে নিতে পারবেন</string>
+    <string name="predeferred_wifi_required_notification_connect_button">ওয়াই-ফাইতে কানেক্ট করুন</string>
+    <string name="predeferred_wifi_required_notification_content">চালিয়ে যেতে ওয়াই-ফাইয়ের সাথে কানেক্ট করুন</string>
+    <string name="predeferred_wifi_required_notification_title">অ্যাপের আপডেট রেডি আছে</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">একটি QR কোড স্ক্যান করা হচ্ছে</string>
+    <string name="region_picker_section_all">সমস্ত অঞ্চল</string>
+    <string name="restart_setup_wizard_button_label">এগুলি সেট-আপ করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}</string>
+    <string name="restart_setup_wizard_dialog_text">"এগুলি ব্যবহার করতে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}, আগে আপনাকে, কোনও মালিকের Google অ্যাকাউন্টে সাইন-ইন করতে হবে , যেটি এই {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} শেষবার রিসেটের সময় ব্যবহার হয়েছিল।
+
+আপনি এটি না করায়, আপনাকে এগুলি সেট-আপ করতে হবে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} আবার।"</string>
+    <string name="restart_setup_wizard_dialog_title">প্রবেশ করেননি</string>
+    <string name="restore_failed_message">ব্যাক-আপ পুনরুদ্ধার করা যাচ্ছে না</string>
+    <string name="restore_no_backup_message">আপনার অন্য ডিভাইসে কোনো ব্যাকআপ উপলব্ধ নেই</string>
+    <string name="restore_no_backup_title">পুনরুদ্ধার করা যাচ্ছে না</string>
+    <string name="restore_stopped_message">ব্যাক-আপ পুনরূদ্ধার সম্পন্ন করা যায়নি</string>
+    <string name="restore_title">পুনরুদ্ধার হচ্ছে...</string>
+    <string name="setup_ongoing_notification_text">^1-এর সেট-আপ শেষ করতে ট্যাপ করুন</string>
+    <string name="setup_ongoing_notification_title">^1-এর সেট-আপ চলছে</string>
+    <string name="setup_wizard_title">Android সেট-আপ</string>
+    <string name="sim_locked_text">"অন্য পরিষেবা প্রদানকারীর দ্বারা এই ফোনটি বর্তমানে অবরুদ্ধ করা হয়েছে৷ আপনাকে একটি বৈধ সিম কার্ড ব্যবহার করতে হবে৷
+
+আপনি আপনার সিম কার্ডটি ঢোকানোর পর, এটি সক্রিয় হতে কয়েক সেকেন্ড সময় নিতে পারে৷"</string>
+    <string name="sim_locked_title">সিম কার্ডটি সমর্থিত নয়</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{আপনার কাছে কোনও সিম কার্ড থাকলে সেটি এখন ঢোকান}one{আপনার কাছে কোনও সিম কার্ড থাকলে সেগুলি এখন ঢোকান}other{আপনার কাছে কোনও সিম কার্ড থাকলে সেগুলি এখন ঢোকান}}</string>
+    <string name="sim_missing_title">মোবাইল নেটওয়ার্কে কানেক্ট করুন</string>
+    <string name="sim_ready_message">%1$s ব্যবহার করা যাবে</string>
+    <string name="sim_ready_message_carrier_app">%1$s নম্বরটি চালু করতে, %2$s অ্যাপটি ডাউনলোড করতে হবে। এখন, আপনার ফোন সেট-আপের কাজটি শেষ করুন।</string>
+    <string name="sim_ready_message_invalid_phone_number">ফোন নম্বর ব্যবহার করা যাবে</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">আপনার নম্বরটি চালু করতে %1$s অ্যাপটি ডাউনলোড করতে হবে। এখন, আপনার ফোন সেট-আপের কাজটি শেষ করুন।</string>
+    <string name="sim_ready_title">%1$s এখন চালু আছে</string>
+    <string name="sim_ready_title_carrier_app">%1$s-এর সাথে পরে কানেক্ট করুন</string>
+    <string name="sim_setup_ask_every_time">প্রতিবার জিজ্ঞাসা করুন</string>
+    <string name="sim_setup_select_data">মোবাইল ডেটার জন্য সিম বেছে নিন</string>
+    <string name="sim_setup_select_data_description">মোবাইল ডেটা ব্যবহার করার জন্য ফোন নম্বর বেছে নিন</string>
+    <string name="sim_setup_select_text">এসএমএস পাঠানোর জন্য সিম বেছে নিন</string>
+    <string name="sim_setup_select_text_description">মেসেজ পাঠানোর জন্য একটি নম্বর বেছে নিন (চালু থাকা সব নম্বরেই মেসেজ আসবে)</string>
+    <string name="sim_setup_select_voice">ভয়েস কলের জন্য সিম বেছে নিন</string>
+    <string name="sim_setup_select_voice_description">কল করার জন্য একটি নম্বর বেছে নিন (চালু থাকা সব নম্বরেই কল ধরা যাবে)</string>
+    <string name="sim_setup_title">সিম কার্ডগুলি সেট-আপ করুন</string>
+    <string name="skip_anyway_button_label">তবুও এড়িয়ে যান</string>
+    <string name="skip_button_label">এড়িয়ে যান</string>
+    <string name="skip_toast">সেটআপ উইজার্ড উপেক্ষা করা হয়েছে</string>
+    <string name="slots_selection_item_summary_activating">চালু করা হচ্ছে…</string>
+    <string name="slots_selection_item_summary_error">এই মুহূর্তে চালু করা যাবে না</string>
+    <string name="slots_selection_title">ব্যবহার করতে একটি নম্বর বেছে নিন</string>
+    <string name="speed_label_fast">দ্রুত</string>
+    <string name="speed_label_okay">ঠিক আছে</string>
+    <string name="speed_label_slow">ধীরে</string>
+    <string name="speed_label_very_fast">খুব দ্রুত</string>
+    <string name="sud_back_button_label">ফিরে যান</string>
+    <string name="sud_more_button_label">আরও</string>
+    <string name="sud_next_button_label">পরবর্তী</string>
+    <string name="suggested_actions_description">এখনই আরও কিছু সেট-আপ করুন অথবা পরে সেগুলি সেটিংসে খুঁজে নিন</string>
+    <string name="suggested_actions_description_single_item">আপনার ^1 এ সেট-আপ করার মতো আরেকটি জিনিষ। আপনি পরেও এটি সেটিংসে খুঁজে পেতে পারেন।</string>
+    <string name="suggested_actions_done_label">হয়ে গেছে</string>
+    <string name="suggested_actions_no_thanks_label">না থাক</string>
+    <string name="suggested_actions_title">আর কী বাকি থাকলো?</string>
+    <string name="switch_camera">ক্যামেরা স্যুইচ করুন</string>
+    <string name="switch_to_back_camera_button_content_description">পিছনের ক্যামেরা</string>
+    <string name="switch_to_front_camera_button_content_description">সামনের ক্যামেরা</string>
+    <string name="switched_to_back_camera_announcement">বোতামটিকে এখন সামনের ক্যামেরার জন্য ব্যবহার করা হবে</string>
+    <string name="switched_to_front_camera_announcement">বোতামটিকে এখন পিছনের ক্যামেরার জন্য ব্যবহার করা হবে</string>
+    <string name="tap_to_sign_up">সাইন-আপ করতে ট্যাপ করুন</string>
+    <string name="terminate_toast">"সেট-আপ উইজার্ড বাতিল করা হয়েছে
+ডিভাইস প্রস্তুত নয়"</string>
+    <string name="try_again_button_label">আবার চেষ্টা করুন</string>
+    <string name="url_load_unsuccessful_message">আপনার {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} কোনও মোবাইল ডেটা পরিষেবার সাথে কানেক্ট করা নেই। এখনই এই তথ্য দেখতে, ওয়েব ব্রাউজারে {0} খুলুন।</string>
+    <string name="url_load_unsuccessful_message_wifi_only">আপনার {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} কোনও ওয়াই-ফাই নেটওয়ার্কের সাথে কানেক্ট করা নেই। এই তথ্যটি এখনই দেখতে, একটি ওয়েব ব্রাউজারের মাধ্যমে {0}-এ যান।</string>
+    <string name="user_warning_cannot_switch_message">ব্যবহারকারী পরিবর্তন করা যাবে না। পরে আবার চেষ্টা করুন।</string>
+    <string name="user_warning_label_continue">চালিয়ে যান</string>
+    <string name="user_warning_label_quit">বাতিল করুন</string>
+    <string name="user_warning_quit_dialog_button_keep">ব্যবহারকারীকে রাখুন</string>
+    <string name="user_warning_quit_dialog_button_remove">ব্যবহারকারীকে সরান</string>
+    <string name="user_warning_quit_dialog_message">ব্যবহারকারীকে সরাবেন?</string>
+    <string name="user_warning_title">নতুন ব্যবহারকারী কে জুড়ুন</string>
+    <string name="wait_msg">একটু অপেক্ষা করুন…</string>
+    <string name="web_dialog_unable_to_view">এই তথ্যটি এখনই দেখতে ওয়েব ব্রাউজারে ^1 দেখুন।</string>
+    <string name="welcome_accessibility_button">ভিসন সেটিংস</string>
+    <string name="welcome_language_picker_content_description">ভাষা: %s</string>
+    <string name="welcome_language_picker_dialog_title">আপনার ভাষা বেছে নিন</string>
+    <string name="welcome_message">নমস্কার</string>
+    <string name="welcome_secondary_user_added_text">আপনাকে এগুলিতে যোগ করা হয়েছে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}</string>
+    <string name="welcome_secondary_user_info_text"><b>গুরুত্বপূর্ণ:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}}-এর মালিকরা আপনার অ্যাপগুলি আনইনস্টল করতে বা আপনার ব্যবহারকারীর প্রোফাইল ছবি সম্পূর্নভাবে মুছে ফেলতে পারে</li>"
+
+"<li>অন্য যেকোনও ব্যবহারকারী আপডেট করা অ্যাপের অনুমতি স্বীকার করতে পারেন</li>"
+
+"<li>শুধুমাত্র তাদের সাথেই এগুলি শেয়ার করুন {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} যাদের আপনি বিশ্বাস করেন</li></ul></string>
+    <string name="welcome_start_button_label">শুরু করুন</string>
+    <string name="wifi_add_new_network">নতুন নেটওয়ার্ক যোগ করুন</string>
+    <string name="wifi_and_mobile_skipped_message">"কোনও ওয়াই-ফাই বা মোবাইল নেটওয়ার্কের সাথে কানেক্ট করা হলে তা আপনাকে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} দ্রুত সেট-আপ করার কাজে সাহায্য করবে।
+
+কোনও কানেকশন না থাকলে, আপনি এই কাজগুলি করতে পারবেন না:
+
+"<ul><li>আপনার Google অ্যাকাউন্টে সাইন-ইন</li>"
+
+"<li>অ্যাপ এবং ডেটা রিস্টোর</li>"
+
+"<li>সফ্টওয়্যারের আপডেটগুলি পাওয়া</li>"
+
+"<li>নিজে থেকে সময় ও তারিখ সেট-আপ</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"কোনও ওয়াই-ফাই বা মোবাইল নেটওয়ার্কের সাথে কানেক্ট করা হলে তা আপনাকে {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} দ্রুত সেট-আপ করার কাজে সাহায্য করবে।
+
+কোনও কানেকশন না থাকলে, আপনি এই কাজগুলি করতে পারবেন না:
+
+"<ul><li>আপনার Google অ্যাকাউন্টে সাইন-ইন</li>"
+
+"<li>অ্যাপ এবং ডেটা রিস্টোর</li>"
+
+"<li>সিম ডাউনলোড করা</li>"
+
+"<li>সফ্টওয়্যারের আপডেটগুলি পাওয়া</li>"
+
+"<li>নিজে থেকে সময় ও তারিখ সেট-আপ করা</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">এই মুহূর্তে অ্যাক্সেস পয়েন্টের কোনও কানেকশন ফাঁকা নেই</string>
+    <string name="wifi_check_password_try_again">পাসওয়ার্ড দেখে আবার চেষ্টা করুন</string>
+    <string name="wifi_connected_no_internet">কানেক্ট, ইন্টারনেট নেই</string>
+    <string name="wifi_disabled_by_recommendation_provider">খারাপ নেটওয়ার্কের কারণে কানেক্ট নয়</string>
+    <string name="wifi_disabled_generic">অক্ষম হয়েছে</string>
+    <string name="wifi_disabled_network_failure">IP কনফিগারেশনের ব্যর্থতা</string>
+    <string name="wifi_disabled_password_failure">যাচাইকরণ সমস্যা</string>
+    <string name="wifi_fail_to_scan">নেটওয়ার্কগুলির জন্য স্ক্যান করা যাবে না</string>
+    <string name="wifi_ip_address_not_available">অনুপলব্ধ</string>
+    <string name="wifi_ip_address_title">IP ঠিকানা</string>
+    <string name="wifi_limited_connection">সীমিত কানেকশন</string>
+    <string name="wifi_mac_address_not_available">অনুপলব্ধ</string>
+    <string name="wifi_mac_address_title">MAC ঠিকানা</string>
+    <string name="wifi_metered_label">মিটার্ড</string>
+    <string name="wifi_no_internet">ইন্টারনেট অ্যাক্সেস নেই</string>
+    <string name="wifi_no_internet_no_reconnect">অটোমেটিক কানেক্ট করবে না</string>
+    <string name="wifi_not_in_range">পরিসরের মধ্যে নয়</string>
+    <string name="wifi_remembered">সংরক্ষিত</string>
+    <string name="wifi_scanning">ওয়াই-ফাই নেটওয়ার্ক খোঁজা হচ্ছে...</string>
+    <string name="wifi_set_up_offline_title">অফলাইনে সেট-আপ করবেন?</string>
+    <string name="wifi_skip_button_label">অফলাইনে সেট-আপ করুন</string>
+    <string name="wifi_skipped_message">আপনার {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} সেট-আপ চলাকালীন মোবাইল নেটওয়ার্ক ব্যবহার করবে এবং এই ডেটা ব্যবহারের জন্য ডেটার চার্জ প্রযোজ্য হতে পারে। সম্ভাব্য চার্জ এড়ানোর জন্য, ওয়াই-ফাই-তে কানেক্ট করুন।</string>
+    <string name="wifi_skipped_title">সম্ভাব্য ডেটা চার্জ</string>
+    <string name="wifi_title">ওয়াই-ফাইতে কানেক্ট করুন</string>
+    <string name="wifi_unmetered_label">পরিমাপ করা নয়</string>
+    <string name="work_profile_setup_description">কাজের জন্য এই ডিভাইস সেট-আপ করতে এবং ব্যক্তিগত ডেটার থেকে কাজের ডেটা আলাদা রাখার জন্য</string>
+    <string name="work_profile_setup_next">পরের</string>
+    <string name="work_profile_setup_skip">কাজের অ্যাকাউন্ট সেট-আপ এড়িয়ে যান</string>
+    <string name="work_profile_setup_title">আপনার কাজের অ্যাকাউন্ট যোগ করুন</string>
+    <string name="work_setup_interrupted">"আমরা এই {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইসে}} কিছু অস্বাভাবিক অ্যাক্টিভিটি দেখেছি, এবং আপনি যদি এখনও চালিয়ে যেতে চান তাহলে ডেটা নিরাপদ নাও থাকতে পারে।
+
+আবার শুরু করতে, এই {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস }} রিসেট করুন।"</string>
+    <string name="work_setup_interrupted_title">এই {DEVICE_TYPE,select, PHONE{ফোন}TABLET{ট্যাবলেট}other{ডিভাইস}} নিরাপদ নাও হতে পারে</string>
+</resources>

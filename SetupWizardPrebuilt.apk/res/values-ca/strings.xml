@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="accessibility_no_wifi">Wi‑Fi desconnectada.</string>
+    <string name="accessibility_wifi_one_bar">Senyal Wi‑Fi: una barra.</string>
+    <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
+    <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
+    <string name="accessibility_wifi_signal_full">Senyal Wi‑Fi: complet.</string>
+    <string name="accessibility_wifi_three_bars">Senyal Wi‑Fi: tres barres.</string>
+    <string name="accessibility_wifi_two_bars">Senyal Wi‑Fi: dues barres.</string>
+    <string name="account_exists_info">"Els correus electrònics, els contactes, els esdeveniments del calendari i altres elements se sincronitzaran amb {DEVICE_TYPE,select, PHONE{aquest telèfon}TABLET{aquesta tauleta}other{aquest dispositiu}}. També pots començar a baixar aplicacions, música i jocs de Google Play.
+
+Pots afegir i suprimir comptes més endavant des de Configuració > Comptes."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation>" ja s'ha afegit."</string>
+    <string name="account_exists_text_unknown_name">El teu compte ja està a punt.</string>
+    <string name="account_exists_title">"{accounts,plural, =1{El compte s'ha afegit}other{Els comptes s'han afegit}}"</string>
+    <string name="activating_carrier_service_text">Aquest procés pot tardar uns minuts</string>
+    <string name="activating_unknown_carrier_service_title">"S'està activant…"</string>
+    <string name="activation_failed_message">"Pots fer el següent:
+"<ul><li>Tornar a provar de connectar-te a les dades mòbils.</li>"
+"<li>Utilitzar una altra xarxa per a la configuració.</li></ul>"
+
+Si aquestes opcions no funcionen, també pots reiniciar {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}} i tornar-ho a provar."</string>
+    <string name="activation_failed_title">No es pot connectar a les dades mòbils</string>
+    <string name="activation_progress_flow">"Està tardant massa?
+
+La connexió a les dades mòbils està tardant. Pots tornar enrere i provar de connectar-te a una altra xarxa."</string>
+    <string name="activation_title">Connectant el servei de dades mòbils…</string>
+    <string name="activation_unprovisioned_sim_message">"Reinicia {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}} i torna-ho a provar o connecta't a la Wi‑Fi per dur a terme la configuració. Si continues tenint problemes per activar les dades mòbils, contacta amb el teu operador de telefonia mòbil."</string>
+    <string name="activation_unprovisioned_title">"No s'han pogut activar les dades mòbils"</string>
+    <string name="android_privacy_policy_title">Política de privadesa addicional</string>
+    <string name="available_via_carrier">Disponible mitjançant %1$s</string>
+    <string name="cancel_button_label">Cancel·la</string>
+    <string name="captive_portal_connection_unsuccessful">"No s'ha pogut connectar a Internet"</string>
+    <string name="captive_portal_description_text">Aquest procés pot tardar uns minuts</string>
+    <string name="captive_portal_ssl_error_text">Aquesta connexió està utilitzant un certificat que no és segur o bé no és vàlid. Tria una altra xarxa i torna-ho a provar.</string>
+    <string name="captive_portal_title">"S'està connectant…"</string>
+    <string name="chrome_privacy_title">Avís de privadesa de Chrome</string>
+    <string name="chrome_tos_title">Termes i condicions de Chrome</string>
+    <string name="close_button_label">Tanca</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si Serveis de Google Play no està instal·lat al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu.</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
+    <string name="connect_to_wifi_btn_text">Configuració de Wi-Fi</string>
+    <string name="connect_to_wifi_message">"Connecta't a la Wi-Fi per continuar"</string>
+    <string name="connect_to_wifi_title">"Actualitzacions d'aplicacions a punt"</string>
+    <string name="connected_via_app">Connectat mitjançant %1$s</string>
+    <string name="connected_via_carrier">Connectat mitjançant %1$s</string>
+    <string name="connected_via_network_scorer_default">"Connectada automàticament a través d'un proveïdor de valoració de xarxes"</string>
+    <string name="consolidate_captive_portal_description_text">Aquest procés pot tardar uns quants minuts</string>
+    <string name="consolidate_captive_portal_title">"S'estan cercant actualitzacions…"</string>
+    <string name="continue_for_a11y">"Continua tocant la pantalla fins que escoltis un so per activar el mode d'accessibilitat."</string>
+    <string name="date_time_current_date">Data</string>
+    <string name="date_time_current_time">Hora</string>
+    <string name="date_time_message">Ajusta-les, si cal.</string>
+    <string name="date_time_setup_title">Data i hora</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Continua</string>
+    <string name="decision_point_google_assistant">Assistent de Google</string>
+    <string name="decision_point_illustration_description">Altres accions possibles: Assistent de Google, Google Pay, Està sonant, mida de la lletra, fons de pantalla i més</string>
+    <string name="decision_point_leave_setup">Surt i rep un recordatori</string>
+    <string name="decision_point_now_playing">Està sonant</string>
+    <string name="default_device_name_device">dispositiu</string>
+    <string name="default_device_name_phone">telèfon</string>
+    <string name="default_device_name_tablet">tauleta</string>
+    <string name="deferred_notification_prompt_title">Acaba de configurar el dispositiu ^1</string>
+    <string name="deferred_setup_button_label">Finalitza la configuració</string>
+    <string name="deferred_setup_wizard_reason_assistant">"parlar amb l'Assistent"</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">"parla amb l'Assistent de Google"</string>
+    <string name="deferred_setup_wizard_reason_default">Només cal fer uns quants passos més</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">copiar les dades</string>
+    <string name="deferred_setup_wizard_reason_google_pay">utilitzar Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">paga més de pressa amb Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 i més</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 i més</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Només cal que segueixis uns quants passos ràpids i el dispositiu ^1 estarà a punt</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">establir el fons de pantalla</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">defineix el fons de pantalla</string>
+    <string name="deferred_setup_wizard_title">Acaba de configurar el teu dispositiu</string>
+    <string name="deferred_snooze_dialog_option_never">Mai</string>
+    <string name="deferred_snooze_dialog_option_today">Avui més tard</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Demà</string>
+    <string name="deferred_snooze_dialog_title">"Recorda-m'ho"</string>
+    <string name="deferred_welcome_airplane_mode_message">"T'has de connectar per finalitzar els últims passos de configuració.
+
+Quan el mode d'avió està activat, la Wi‑Fi, les xarxes mòbils i el Bluetooth no tenen connexió."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Configura més tard</string>
+    <string name="deferred_welcome_airplane_mode_title">"Vols desactivar el mode d'avió?"</string>
+    <string name="deferred_welcome_screen_cancel_button">"Recorda-m'ho més tard"</string>
+    <string name="deferred_welcome_title">Finalitza la configuració del dispositiu ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Desactiva</string>
+    <string name="device_owner_continue">Continua amb la configuració</string>
+    <string name="device_owner_reset">Restableix {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}</string>
+    <string name="device_owner_warning">{0} està gestionant {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}} i pot accedir a la teva informació. Si no vols que {0} hi tingui accés, restableix {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{El telèfon}TABLET{La tauleta}other{El dispositiu}} es pot supervisar</string>
+    <string name="dialog_back_button_label">Enrere</string>
+    <string name="dialog_continue_button_label">Continua</string>
+    <string name="early_update_installing_updates_text">"S'estan instal·lant les actualitzacions"</string>
+    <string name="early_update_text">Aquest procés pot tardar uns minuts</string>
+    <string name="early_update_timeout_text">Està trigant massa? Prova de tornar enrere i connectar-te a una altra xarxa.</string>
+    <string name="early_update_title">"S'estan cercant actualitzacions…"</string>
+    <string name="emergency_dial">"Trucada d'emergència"</string>
+    <string name="enabled_a11y">"S'ha activat el mode d'accessibilitat."</string>
+    <string name="esim_option_button_summary">Afegeix un número utilitzant una eSIM</string>
+    <string name="esim_option_button_title">Vols baixar una targeta SIM?</string>
+    <string name="esim_warning_title">Baixa la targeta SIM</string>
+    <string name="esim_warning_txt">"Si estàs subscrit a %1$s, pots baixar-te una eSIM en comptes d'inserir una targeta SIM per rebre trucades, missatges i dades."</string>
+    <string name="esim_warning_txt_default">"Connecta't a la xarxa mòbil baixant la informació que normalment inclou la targeta SIM. Aquesta informació substitueix la targeta SIM estàndard i és igual de segura."</string>
+    <string name="exit_loading_launcher">"S'està carregant el menú d'aplicacions…"</string>
+    <string name="factory_reset_button">Esborra i restableix</string>
+    <string name="factory_reset_confirmation">"Vols esborrar tots els comptes i totes les dades {DEVICE_TYPE,select, PHONE{d'aquest telèfon}TABLET{d'aquesta tauleta}other{d'aquest dispositiu}}? Aquesta acció no es pot desfer."</string>
+    <string name="factory_reset_confirmation_title">Restablir?</string>
+    <string name="factory_reset_instructions">"Advertiment: en restablir {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}, s'esborraran tots els comptes i totes les dades que s'hagin desat a l'emmagatzematge intern."</string>
+    <string name="factory_reset_title">Restableix {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}</string>
+    <string name="final_hold_description_text">Aquest procés pot tardar uns quants minuts</string>
+    <string name="final_hold_title">Estem fent els últims retocs…</string>
+    <string name="final_hold_title_setup_work_account">Preparant per a configuració professional…</string>
+    <string name="gms_account_checkin_title">"S'està obtenint la informació del compte…"</string>
+    <string name="gms_checkin_description_text">Aquest procés pot tardar uns minuts</string>
+    <string name="gms_checkin_description_text_timeout">Està trigant massa? Prova de tornar enrere i connectar-te a una altra xarxa.</string>
+    <string name="gms_checkin_title">"S'estan cercant actualitzacions…"</string>
+    <string name="go_back_button_label">Torna</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Termes i condicions de Google Play</string>
+    <string name="google_plus_privacy_policy_title">Política de privadesa de Google Plus</string>
+    <string name="google_privacy_policy_title">Política de privadesa de Google</string>
+    <string name="google_provisioning_disclaimer_content">"S'hi apliquen les condicions del servei i la política de privadesa de Google. Per obtenir més informació, visita &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>."</string>
+    <string name="google_terms_of_service_title">Termes i condicions de Google</string>
+    <string name="invalid_phone_number">Número de telèfon desconegut</string>
+    <string name="invalid_qr_code_content">"Sol·licita el codi correcte a l'administrador de TI"</string>
+    <string name="invalid_qr_code_retry">Torna-ho a provar</string>
+    <string name="invalid_qr_code_title">Codi QR incorrecte</string>
+    <string name="ios_trademarks_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari i iTunes són marques comercials d'Apple Inc., registrades als Estats Units i en altres països."</string>
+    <string name="language_picker_section_all">Tots els idiomes</string>
+    <string name="language_picker_section_suggested">Suggerits</string>
+    <string name="migrate_from_ios_description">Segueix aquests passos:</string>
+    <string name="migrate_from_ios_header">Copia les teves dades</string>
+    <string name="migrate_from_ios_instructions_1">1. Obre Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Ves a <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Segueix les instruccions</string>
+    <string name="network_description_text">Selecciona una xarxa</string>
+    <string name="network_description_text_esim">"Per baixar la SIM, connecta't a una xarxa Wi‑Fi"</string>
+    <string name="network_see_all_wifi">Mostra totes les xarxes Wi‑Fi</string>
+    <string name="network_timeout_description_text">Torna-ho a provar amb una altra xarxa. Si continues sense connexió, pots finalitzar alguns passos de la configuració més tard.</string>
+    <string name="network_timeout_title">"No s'ha pogut connectar"</string>
+    <string name="network_timeout_try_another_network_button">Prova una altra xarxa</string>
+    <string name="network_title">"Connecta't a la Wi-Fi"</string>
+    <string name="network_use_cellular">Utilitza una xarxa mòbil per a la configuració</string>
+    <string name="network_use_cellular_carrier">"Connecta't a la Wi‑Fi més tard"</string>
+    <string name="network_wifi_continue_button">Continua</string>
+    <string name="not_set">Sense definir</string>
+    <string name="notification_channel_name_deferred">Configuració addicional</string>
+    <string name="notification_channel_name_initial">Configuració</string>
+    <string name="notification_channel_name_restore">Restauració de dades</string>
+    <string name="notification_channel_security_name_warnings">Advertiments de seguretat</string>
+    <string name="ok_button_label">"D'acord"</string>
+    <string name="ota_agreement_text">Si continues i reps aquesta actualització de programari, vol dir que acceptes les <annotation link="tos">Termes i condicions de Google</annotation> i la <annotation link="google_privacy">Política de privadesa</annotation>.</string>
+    <string name="ota_info">{DEVICE_TYPE,select, PHONE{El telèfon}TABLET{La tauleta}other{El dispositiu}} necessita baixar una actualització i reiniciar-se.</string>
+    <string name="ota_size">Mida: %s</string>
+    <string name="ota_update_title">Actualitza {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}</string>
+    <string name="predeferred_prepare_setup">"S'està preparant el dispositiu per configurar-lo…"</string>
+    <string name="predeferred_prepare_setup_details">Aviat podràs acabar de configurar el teu ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">"Connecta't a la Wi-Fi"</string>
+    <string name="predeferred_wifi_required_notification_content">"Connecta't a la Wi-Fi per continuar"</string>
+    <string name="predeferred_wifi_required_notification_title">"Actualitzacions d'aplicacions a punt"</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">"S'està escanejant un codi QR"</string>
+    <string name="region_picker_section_all">Totes les regions</string>
+    <string name="restart_setup_wizard_button_label">Configura {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Per fer servir {DEVICE_TYPE,select, PHONE{aquest telèfon}TABLET{aquesta tauleta}other{aquest dispositiu}}, primer cal que hi iniciïs la sessió amb un Compte de Google de propietari que es fes servir en {DEVICE_TYPE,select, PHONE{aquest telèfon}TABLET{aquesta tauleta}other{aquest dispositiu}} l'última vegada que es va restablir.
+
+Com que no ho has fet, has de configurar {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}} un altre cop."</string>
+    <string name="restart_setup_wizard_dialog_title">No has iniciat la sessió</string>
+    <string name="restore_failed_message">No es pot restaurar la còpia de seguretat</string>
+    <string name="restore_no_backup_message">"No hi ha cap còpia de seguretat disponible a l'altre dispositiu"</string>
+    <string name="restore_no_backup_title">No es poden restaurar dades</string>
+    <string name="restore_stopped_message">"No s'ha pogut acabar de restaurar la còpia de seguretat"</string>
+    <string name="restore_title">"S'està restablint…"</string>
+    <string name="setup_ongoing_notification_text">Toca per finalitzar la configuració del dispositiu ^1</string>
+    <string name="setup_ongoing_notification_title">La configuració del dispositiu ^1 està en curs</string>
+    <string name="setup_wizard_title">"Configuració d'Android"</string>
+    <string name="sim_locked_text">"Actualment, aquest telèfon només es pot fer servir amb un altre operador de telefonia mòbil. Hauràs de fer servir una targeta SIM vàlida.
+
+Una vegada hagis inserit la targeta, és possible que tardi uns segons a activar-se."</string>
+    <string name="sim_locked_title">"No s'admet la targeta SIM"</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Si tens una targeta SIM, insereix-la ara}other{Si tens targetes SIM, insereix-les ara}}</string>
+    <string name="sim_missing_title">"Connecta't a la xarxa mòbil"</string>
+    <string name="sim_ready_message">Ja pots utilitzar el número de telèfon %1$s</string>
+    <string name="sim_ready_message_carrier_app">"Per acabar d'activar el número %1$s, cal que baixis l'aplicació %2$s. Per ara, acabem de configurar el telèfon."</string>
+    <string name="sim_ready_message_invalid_phone_number">Ja pots utilitzar el número</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">"Per acabar d'activar el número, cal que baixis l'aplicació %1$s. Per ara, acabem de configurar el telèfon."</string>
+    <string name="sim_ready_title">%1$s està actiu</string>
+    <string name="sim_ready_title_carrier_app">"Connecta't a l'operador %1$s més tard"</string>
+    <string name="sim_setup_ask_every_time">Pregunta sempre</string>
+    <string name="sim_setup_select_data">Preferència de dades mòbils</string>
+    <string name="sim_setup_select_data_description">Tria un número per utilitzar-lo per a les dades mòbils</string>
+    <string name="sim_setup_select_text">Preferència per a SMS</string>
+    <string name="sim_setup_select_text_description">Tria un número per enviar SMS (tots els números actius en poden rebre)</string>
+    <string name="sim_setup_select_voice">Preferència de trucades</string>
+    <string name="sim_setup_select_voice_description">Tria un número per fer trucades (tots els números actius en poden rebre)</string>
+    <string name="sim_setup_title">Configuració de targetes SIM</string>
+    <string name="skip_anyway_button_label">Omet igualment</string>
+    <string name="skip_button_label">Omet</string>
+    <string name="skip_toast">"S'ha omès l'auxiliar de configuració."</string>
+    <string name="slots_selection_item_summary_activating">"S'està activant…"</string>
+    <string name="slots_selection_item_summary_error">"No s'ha pogut activar en aquests moments"</string>
+    <string name="slots_selection_title">Tria el número que vols utilitzar</string>
+    <string name="speed_label_fast">Ràpida</string>
+    <string name="speed_label_okay">Correcta</string>
+    <string name="speed_label_slow">Lenta</string>
+    <string name="speed_label_very_fast">Molt ràpida</string>
+    <string name="sud_back_button_label">Enrere</string>
+    <string name="sud_more_button_label">Més</string>
+    <string name="sud_next_button_label">Següent</string>
+    <string name="suggested_actions_description">"Configura la resta d'opcions ara o fes-ho més tard a Configuració"</string>
+    <string name="suggested_actions_description_single_item">Aquesta és una altra opció que pots configurar al teu ^1. També pots fer-ho més tard a Configuració.</string>
+    <string name="suggested_actions_done_label">Tot llest per ara</string>
+    <string name="suggested_actions_no_thanks_label">No, gràcies</string>
+    <string name="suggested_actions_title">Vols fer res més?</string>
+    <string name="switch_camera">Canvia de càmera</string>
+    <string name="switch_to_back_camera_button_content_description">Càmera posterior</string>
+    <string name="switch_to_front_camera_button_content_description">Càmera frontal</string>
+    <string name="switched_to_back_camera_announcement">El botó ara és la càmera frontal</string>
+    <string name="switched_to_front_camera_announcement">El botó ara és la càmera posterior</string>
+    <string name="tap_to_sign_up">Toca per registrar-te</string>
+    <string name="terminate_toast">"S'ha tancat l'auxiliar de configuració.
+Dispositiu no subministrat"</string>
+    <string name="try_again_button_label">Torna-ho a provar</string>
+    <string name="url_load_unsuccessful_message">{DEVICE_TYPE,select, PHONE{El telèfon}TABLET{La tauleta}other{El dispositiu}} no té connexió a un servei de dades mòbils. Per consultar aquesta informació ara, ves a {0} en un navegador web.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{El telèfon}TABLET{La tauleta}other{El dispositiu}} no té connexió a cap xarxa Wi-Fi. Per consultar aquesta informació ara, ves a {0} en un navegador web.</string>
+    <string name="user_warning_cannot_switch_message">"No es pot tornar a l'usuari propietari. Torna-ho a provar més tard."</string>
+    <string name="user_warning_label_continue">Continua</string>
+    <string name="user_warning_label_quit">Cancel·la</string>
+    <string name="user_warning_quit_dialog_button_keep">"Conserva l'usuari"</string>
+    <string name="user_warning_quit_dialog_button_remove">"Elimina l'usuari"</string>
+    <string name="user_warning_quit_dialog_message">"Vols eliminar l'usuari?"</string>
+    <string name="user_warning_title">Configura un usuari nou</string>
+    <string name="wait_msg">Un segon...</string>
+    <string name="web_dialog_unable_to_view">Per veure aquesta informació ara, visita ^1 amb un navegador web.</string>
+    <string name="welcome_accessibility_button">Configuració de visió</string>
+    <string name="welcome_language_picker_content_description">Idioma: %s</string>
+    <string name="welcome_language_picker_dialog_title">Tria el teu idioma</string>
+    <string name="welcome_message">Hola!</string>
+    <string name="welcome_secondary_user_added_text">"El teu compte s'ha afegit a {DEVICE_TYPE,select, PHONE{aquest telèfon}TABLET{aquesta tauleta}other{aquest dispositiu}}"</string>
+    <string name="welcome_secondary_user_info_text"><b>Important</b>":
+
+"<ul><li>"El propietari {DEVICE_TYPE,select, PHONE{del telèfon}TABLET{de la tauleta}other{del dispositiu}} pot desinstal·lar les teves aplicacions o suprimir el teu perfil d'usuari completament."</li>"
+
+"<li>Qualsevol altre usuari pot acceptar permisos actualitzats de les aplicacions.</li>"
+
+"<li>Comparteix {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}} només amb persones de confiança.</li></ul></string>
+    <string name="welcome_start_button_label">Comença</string>
+    <string name="wifi_add_new_network">Afegeix una xarxa</string>
+    <string name="wifi_and_mobile_skipped_message">"Si et connectes a una xarxa Wi‑Fi o mòbil, pots configurar ràpidament {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}.
+
+Sense connexió, no pots fer el següent:
+
+"<ul><li>Iniciar la sessió al teu Compte de Google.</li>"
+
+"<li>Restaurar aplicacions i dades.</li>"
+
+"<li>Obtenir actualitzacions de programari.</li>"
+
+"<li>"Configurar automàticament la data i l'hora."</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Si et connectes a una xarxa Wi‑Fi o mòbil, pots configurar ràpidament {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}.
+
+Sense connexió, no pots fer el següent:
+
+"<ul><li>Iniciar la sessió al teu Compte de Google.</li>"
+
+"<li>Restaurar aplicacions i dades.</li>"
+
+"<li>Baixar una SIM.</li>"
+
+"<li>Obtenir actualitzacions de programari.</li>"
+
+"<li>"Configurar automàticament la data i l'hora."</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">"El punt d'accés està temporalment ple"</string>
+    <string name="wifi_check_password_try_again">Comprova la contrasenya i torna-ho a provar</string>
+    <string name="wifi_connected_no_internet">Connectada, sense Internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">"No s'ha connectat a la xarxa perquè la qualitat és baixa"</string>
+    <string name="wifi_disabled_generic">Desactivat</string>
+    <string name="wifi_disabled_network_failure">"Error de configuració d'IP"</string>
+    <string name="wifi_disabled_password_failure">"Problema d'autenticació"</string>
+    <string name="wifi_fail_to_scan">No es poden cercar xarxes</string>
+    <string name="wifi_ip_address_not_available">No disponible</string>
+    <string name="wifi_ip_address_title">Adreça IP</string>
+    <string name="wifi_limited_connection">Connexió limitada</string>
+    <string name="wifi_mac_address_not_available">No disponible</string>
+    <string name="wifi_mac_address_title">Adreça MAC</string>
+    <string name="wifi_metered_label">"D'ús mesurat"</string>
+    <string name="wifi_no_internet">No hi ha accés a Internet</string>
+    <string name="wifi_no_internet_no_reconnect">No es connectarà automàticament</string>
+    <string name="wifi_not_in_range">"Fora de l'abast"</string>
+    <string name="wifi_remembered">Desat</string>
+    <string name="wifi_scanning">"S'estan cercant xarxes Wi-Fi…"</string>
+    <string name="wifi_set_up_offline_title">Vols fer la configuració sense connexió?</string>
+    <string name="wifi_skip_button_label">Configura sense connexió</string>
+    <string name="wifi_skipped_message">"{DEVICE_TYPE,select, PHONE{El telèfon}TABLET{La tauleta}other{El dispositiu}} utilitzarà la xarxa mòbil durant la configuració, i és possible que se't cobri aquest ús de dades. Per evitar els possibles càrrecs, connecta't a la Wi‑Fi."</string>
+    <string name="wifi_skipped_title">Possibles càrrecs per ús de dades</string>
+    <string name="wifi_title">"Connecta't a la Wi-Fi"</string>
+    <string name="wifi_unmetered_label">"D'ús no mesurat"</string>
+    <string name="work_profile_setup_description">Per configurar aquest dispositiu per a la feina i mantenir separades les dades personals i de la feina</string>
+    <string name="work_profile_setup_next">Següent</string>
+    <string name="work_profile_setup_skip">Omet la configuració per a la feina</string>
+    <string name="work_profile_setup_title">Afegeix el teu compte de la feina</string>
+    <string name="work_setup_interrupted">"Hem detectat activitat inusual en {DEVICE_TYPE,select, PHONE{aquest telèfon}TABLET{aquesta tauleta}other{aquest dispositiu}}, i és possible que les teves dades estiguin en perill si continues amb la configuració.
+
+Per començar de nou, restableix {DEVICE_TYPE,select, PHONE{el telèfon}TABLET{la tauleta}other{el dispositiu}}."</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{És possible que aquest telèfon no sigui segur}TABLET{És possible que aquesta tauleta no sigui segura}other{És possible que aquest dispositiu no sigui segur}}</string>
+</resources>

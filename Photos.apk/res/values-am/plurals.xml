@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d ንጥሎች ተቃኝተዋል</item>
+        <item quantity="one">%1$d ንጥሎች ተቃኝተዋል</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d ንጥሎች ተመርጠዋል</item>
+        <item quantity="one">%1$d ንጥሎች ተመርጠዋል</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">የአዲስ አልበም መጠን ከአሁኑ የ%1$d ንጥሎች ገደብ ይበልጥ ነበር።</item>
+        <item quantity="one">የአዲስ አልበም መጠን ከአሁኑ የ%1$d ንጥሎች ገደብ ይበልጥ ነበር።</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">አልበሙ %1$d ንጥሎች ይኖሩታል።</item>
+        <item quantity="one">አልበሙ %1$d ንጥሎች ይኖሩታል።</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d አካባቢዎች ታክለዋል</item>
+        <item quantity="one">%d አካባቢዎች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d አካባቢዎች</item>
+        <item quantity="one">%d አካባቢዎች</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d ካርታዎች</item>
+        <item quantity="one">%d ካርታዎች</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d ካርታዎች ታክለዋል</item>
+        <item quantity="one">%d ካርታዎች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ንጥሎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+        <item quantity="one">ንጥሎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d ንጥሎች ተወግደዋል</item>
+        <item quantity="one">%d ንጥሎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">ፎቶዎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+        <item quantity="one">ፎቶዎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">ቪዲዮዎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+        <item quantity="one">ቪዲዮዎቹን ከዚህ አልበም በማስወገድ ላይ…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ንጥሎች</item>
+        <item quantity="one">%1$d ንጥሎች</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ንጥሎች</item>
+        <item quantity="one">%d ንጥሎች</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">ከመሣሪያ ሰርዝ (%d)</item>
+        <item quantity="one">ከመሣሪያ ሰርዝ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">ከመሣሪያ ሁሉንም ሰርዝ (%d)</item>
+        <item quantity="one">ከመሣሪያ ሁሉንም ሰርዝ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">ወደ መጣያ ውሰድ (%d)</item>
+        <item quantity="one">ወደ መጣያ ውሰድ (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d በማህደር ተቀምጠዋል</item>
+        <item quantity="one">%d በማህደር ተቀምጠዋል</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d ከማህደር ወጥተዋል</item>
+        <item quantity="one">%d ከማህደር ወጥተዋል</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s%2$s፣ %3$d እና ሌሎች</item>
+        <item quantity="one">%1$s%2$s፣ %3$d እና ሌሎች</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s እና %2$d ሌሎች</item>
+        <item quantity="one">%1$s እና %2$d ሌሎች</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d ተመርጠዋል</item>
+        <item quantity="one">%d ተመርጠዋል</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">%d ንጥሎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ንጥሎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">የመለያ ማከማቻዎ ሙሉ ስለሆነ %d ንጥሎች ምትኬ አልተቀመጠላቸውም</item>
+        <item quantity="one">የመለያ ማከማቻዎ ሙሉ ስለሆነ %d ንጥሎች ምትኬ አልተቀመጠላቸውም</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d ንጥሎች ቀርተዋል</item>
+        <item quantity="one">%d ንጥሎች ቀርተዋል</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d ንጥሎች ምትኬ እንዲቀመጥላቸው ቀርተዋል</item>
+        <item quantity="one">%d ንጥሎች ምትኬ እንዲቀመጥላቸው ቀርተዋል</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d ንጥሎች ቀርተዋል • ከፍተኛ ጥራት</item>
+        <item quantity="one">%d ንጥሎች ቀርተዋል • ከፍተኛ ጥራት</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d ንጥሎች ቀርተዋል • የመጀመሪያው ጥራት</item>
+        <item quantity="one">%d ንጥሎች ቀርተዋል • የመጀመሪያው ጥራት</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d ንጥሎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ንጥሎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d ንጥሎች ቀርተዋል</item>
+        <item quantity="one">%d ንጥሎች ቀርተዋል</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d ንጥሎች ምትኬ እንዲቀመጥላቸው ቀርተዋል</item>
+        <item quantity="one">%d ንጥሎች ምትኬ እንዲቀመጥላቸው ቀርተዋል</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+        <item quantity="one">%1$d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">የ%d ንጥሎችን ምትኬ በማስቀመጥ ላይ</item>
+        <item quantity="one">የ%d ንጥሎችን ምትኬ በማስቀመጥ ላይ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d ንጥሎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ንጥሎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d ቪዲዮዎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ቪዲዮዎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">የሚሰቀሉ %d ንጥሎች</item>
+        <item quantity="one">የሚሰቀሉ %d ንጥሎች</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">የሚሰቀሉ %d ቪዲዮዎች</item>
+        <item quantity="one">የሚሰቀሉ %d ቪዲዮዎች</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+        <item quantity="one">%d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">ሁሉም %d ፎቶዎች</item>
+        <item quantity="one">ሁሉም %d ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">የመለያ ማከማቻዎ ሙሉ ስለሆነ %1$d ንጥሎች ምትኬ አልተቀመጠላቸውም</item>
+        <item quantity="one">የመለያ ማከማቻዎ ሙሉ ስለሆነ %1$d ንጥሎች ምትኬ አልተቀመጠላቸውም</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">ማከማቻ ስላለቀብዎት %1$d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+        <item quantity="one">ማከማቻ ስላለቀብዎት %1$d ፎቶዎች ምትኬ አልተቀመጠላቸውም</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d ንጥሎች ታክለዋል</item>
+        <item quantity="one">%1$d ንጥሎች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">ቢበዛ %d ንጥሎችን ይምረጡ።</item>
+        <item quantity="one">ቢበዛ %d ንጥሎችን ይምረጡ።</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">ቢያንስ %d ንጥሎችን ይምረጡ።</item>
+        <item quantity="one">ቢያንስ %d ንጥሎችን ይምረጡ።</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">እባክዎ በ%d ቀን ክልል ውስጥ ያሉ ንጥሎችን ይምረጡ።</item>
+        <item quantity="one">እባክዎ በ%d ቀን ክልል ውስጥ ያሉ ንጥሎችን ይምረጡ።</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">ከ%d ቀናት በፊት</item>
+        <item quantity="one">ከ%d ቀናት በፊት</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d ሰ</item>
+        <item quantity="one">%d ሰ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">ከ%d ሰዓቶች በፊት</item>
+        <item quantity="one">ከ%d ሰዓቶች በፊት</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d ሳ</item>
+        <item quantity="one">%d ሳ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">ከ%d ሳምንቶች በፊት</item>
+        <item quantity="one">ከ%d ሳምንቶች በፊት</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d ደ</item>
+        <item quantity="one">%d ደ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">ከ%d ደቂቃዎች በፊት</item>
+        <item quantity="one">ከ%d ደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d ቀ</item>
+        <item quantity="one">%d ቀ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">ከ%d ቀናት በፊት</item>
+        <item quantity="one">ከ%d ቀናት በፊት</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$d ንጥሎችን ከመሣሪያ ያስወግዱ</item>
+        <item quantity="one">%1$d ንጥሎችን ከመሣሪያ ያስወግዱ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d የመጀመሪያ ፎቶዎችን እና ቪዲዮዎችን በማስወገድ ላይ</item>
+        <item quantity="one">%1$d የመጀመሪያ ፎቶዎችን እና ቪዲዮዎችን በማስወገድ ላይ</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d ንጥሎች</item>
+        <item quantity="one">%d ንጥሎች</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d አዲስ ካርዶች</item>
+        <item quantity="one">%d አዲስ ካርዶች</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d ንጥሎች ታክለዋል</item>
+        <item quantity="one">%d ንጥሎች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d ዝማኔዎች</item>
+        <item quantity="one">%1$d ዝማኔዎች</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">በ%1$s፣ %2$s እና %3$d ሌሎች ታይቷል</item>
+        <item quantity="one">በ%1$s፣ %2$s እና %3$d ሌሎች ታይቷል</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d አስተያየቶች</item>
+        <item quantity="one">%1$d አስተያየቶች</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ንጥሎቹን ወደ ቤተ-መጽሐፍት በማስቀመጥ ላይ…</item>
+        <item quantity="one">ንጥሎቹን ወደ ቤተ-መጽሐፍት በማስቀመጥ ላይ…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s%2$d ፎቶዎችን ወደዋል • %3$s</item>
+        <item quantity="one">%1$s %2$d ፎቶዎችን ወደዋል • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s%2$d ቪዲዮዎችን ወደዋል • %3$s</item>
+        <item quantity="one">%1$s%2$d ቪዲዮዎችን ወደዋል • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">%d ንጥሎችን ይምረጡ</item>
+        <item quantity="one">%d ንጥሎችን ይምረጡ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">አቃፊ እና በውስጡ ያሉ %d ንጥሎችን ሰርዝ</item>
+        <item quantity="one">አቃፊ እና በውስጡ ያሉ %d ንጥሎችን ሰርዝ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">ከመሣሪያ ሰርዝ (%d)</item>
+        <item quantity="one">ከመሣሪያ ሰርዝ (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d ንጥሎችን መቅዳት ላይ ችግር</item>
+        <item quantity="one">%d ንጥሎችን መቅዳት ላይ ችግር</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d ንጥሎች ተቀድተዋል</item>
+        <item quantity="one">%d ንጥሎች ተቀድተዋል</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d ንጥሎችን መውሰድ ላይ ችግር</item>
+        <item quantity="one">%d ንጥሎችን መውሰድ ላይ ችግር</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d ንጥሎች ተወስደዋል</item>
+        <item quantity="one">%d ንጥሎች ተወስደዋል</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d የተመከሩ ቀረጻዎች</item>
+        <item quantity="one">%d የተመከሩ ቀረጻዎች</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">ከ%d ዓመቶች በፊት</item>
+        <item quantity="one">ከ%d ዓመቶች በፊት</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">%d ዲግሪ በሰዓት ተቃራኒ አቅጣጫ አሽከርክር</item>
+        <item quantity="one">%d ዲግሪ በሰዓት ተቃራኒ አቅጣጫ አሽከርክር</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">የ%d ሰዎች ፎቶዎች</item>
+        <item quantity="one">የ%d ሰዎች ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">የ%d የተመረጡ መልኮች ፎቶዎች</item>
+        <item quantity="one">የ%d የተመረጡ መልኮች ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d ተመርጠዋል</item>
+        <item quantity="one">%d ተመርጠዋል</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d መልኮች ተመርጠዋል</item>
+        <item quantity="one">%d መልኮች ተመርጠዋል</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">ከ%2$s ጀምሮ፣ የ%1$d የተመረጡ መልኮች ፎቶዎች</item>
+        <item quantity="one">ከ%2$s ጀምሮ፣ የ%1$d የተመረጡ መልኮች ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">የ%d የተመረጡ መልኮች ፎቶዎች</item>
+        <item quantity="one">የ%d የተመረጡ መልኮች ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d ፎቶዎች ተወግደዋል</item>
+        <item quantity="one">%1$d ፎቶዎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d ሰዎችን ብቻ ይምረጡ</item>
+        <item quantity="one">%d ሰዎችን ብቻ ይምረጡ</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d ፎቶዎች</item>
+        <item quantity="one">%1$d ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d ተመርጠዋል</item>
+        <item quantity="one">%d ተመርጠዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">ሊታተሙ የሚችሉት %d ፎቶዎች ብቻ ናቸው፣</item>
+        <item quantity="one">ሊታተሙ የሚችሉት %d ፎቶዎች ብቻ ናቸው፣</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d ፎቶዎች ለእርስዎ ተጠቁመዋል</item>
+        <item quantity="one">%d ፎቶዎች ለእርስዎ ተጠቁመዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d ፎቶዎች ተጠቁመዋል</item>
+        <item quantity="one">%d ፎቶዎች ተጠቁመዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d ተጨማሪ ገጾች</item>
+        <item quantity="one">%d ተጨማሪ ገጾች</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d ገጾች</item>
+        <item quantity="one">%d ገጾች</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">የሚገዟቸውን %d ተጨማሪ ፎቶዎች ያክሉ</item>
+        <item quantity="one">የሚገዟቸውን %d ተጨማሪ ፎቶዎች ያክሉ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d ገጾች ታክለዋል</item>
+        <item quantity="one">%d ገጾች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d ፎቶዎች ታክለዋል</item>
+        <item quantity="one">%d ፎቶዎች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d ገጾች ተወግደዋል</item>
+        <item quantity="one">%d ገጾች ተወግደዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d ፎቶዎች ተወግደዋል</item>
+        <item quantity="one">%d ፎቶዎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d ተጨማሪ ገጾች</item>
+        <item quantity="one">%d ተጨማሪ ገጾች</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d ገጾች</item>
+        <item quantity="one">%d ገጾች</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d ፎቶዎች እንደ %2$s ህትመቶች ታክለዋል</item>
+        <item quantity="one">%1$d ፎቶዎች እንደ %2$s ህትመቶች ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">%1$d %2$s ህትመቶችን በትዕዛዝ ብቻ መምረጥ ይችላሉ</item>
+        <item quantity="one">%1$d %2$s ህትመቶችን በትዕዛዝ ብቻ መምረጥ ይችላሉ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">ረቂቅዎን ለመቀጠል ቢያንስ %1$d ፎቶዎች ያስፈልግዎታል።</item>
+        <item quantity="one">ረቂቅዎን ለመቀጠል ቢያንስ %1$d ፎቶዎች ያስፈልግዎታል።</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d ህትመቶች</item>
+        <item quantity="one">%1$d ህትመቶች</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%1$d ከ%2$d ንጥሎች ወርደዋል</item>
+        <item quantity="one">%1$d ከ%2$d ንጥሎች ወርደዋል</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">%d ንጥሎች ወደነበሩበት ይመለሱ?</item>
+        <item quantity="one">%d ንጥሎች ወደነበሩበት ይመለሱ?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d የቅርብ ጊዜ ንጥሎች ወደነበሩበት መሣሪያ ተመልሰዋል</item>
+        <item quantity="one">%1$d የቅርብ ጊዜ ንጥሎች ወደነበሩበት መሣሪያ ተመልሰዋል</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d ፎቶዎች እና ቪዲዮዎች ወደነበሩበት ተመልሰዋል</item>
+        <item quantity="one">%1$d ፎቶዎች እና ቪዲዮዎች ወደነበሩበት ተመልሰዋል</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d ፎቶዎች</item>
+        <item quantity="one">%d ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d ንጥሎች ወደ አልበም ታክለዋል</item>
+        <item quantity="one">%d ንጥሎች ወደ አልበም ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d ንጥሎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ንጥሎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d ንጥሎች ሲገናኝ ይሰቀላሉ</item>
+        <item quantity="one">%d ንጥሎች ሲገናኝ ይሰቀላሉ</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">ትክክለኞቹ ፋይሎች</item>
+        <item quantity="one">ትክክለኞቹ ፋይሎች</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">ፋይሎች</item>
+        <item quantity="one">ፋይሎች</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">ትንንሽ ፋይሎች</item>
+        <item quantity="one">ትንንሽ ፋይሎች</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s እና %2$d ሌሎች</item>
+        <item quantity="one">%1$s እና %2$d ሌሎች</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ንጥሎች</item>
+        <item quantity="one">%d ንጥሎች</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">%d ተዛማጅ ፎቶዎች ይታከሉ?</item>
+        <item quantity="one">%d ተዛማጅ ፎቶዎች ይታከሉ?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d ፎቶዎች በራስ-ታክለዋል</item>
+        <item quantity="one">%1$d ፎቶዎች በራስ-ታክለዋል</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d አዲስ ፎቶዎች</item>
+        <item quantity="one">%1$d አዲስ ፎቶዎች</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s %2$d አዲስ ፎቶዎችን አክለዋል</item>
+        <item quantity="one">%1$s %2$d አዲስ ፎቶዎችን አክለዋል</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ንጥሎችን መሰረዝ አልተቻለም</item>
+        <item quantity="one">ንጥሎችን መሰረዝ አልተቻለም</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d ንጥሎችን መሰረዝ አልተቻለም</item>
+        <item quantity="one">%d ንጥሎችን መሰረዝ አልተቻለም</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d ንጥሎችን እስከመጨረሻው መሰረዝ አይቻልም</item>
+        <item quantity="one">%d ንጥሎችን እስከመጨረሻው መሰረዝ አይቻልም</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d ከመሣሪያ ተሰርዘዋል</item>
+        <item quantity="one">%d ከመሣሪያ ተሰርዘዋል</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">ንጥሎች ወደነበሩበት በመመለስ ላይ…</item>
+        <item quantity="one">ንጥሎች ወደነበሩበት በመመለስ ላይ…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d ንጥሎችን ወደነበሩበት መመለስ አይቻልም</item>
+        <item quantity="one">%d ንጥሎችን ወደነበሩበት መመለስ አይቻልም</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ንጥሎች እስከመጨረሻ ይሰረዙ?</item>
+        <item quantity="one">ንጥሎች እስከመጨረሻ ይሰረዙ?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d ንጥሎችን እስከመጨረሻው ሰርዝ</item>
+        <item quantity="one">%d ንጥሎችን እስከመጨረሻው ሰርዝ</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">ይህ ስሪት ጊዜው እስኪያልፍበት ድረስ %d ቀኖች ቀርተዋል። Google ፎቶዎችን መጠቀሙን ለመቀጠል አሁን ያዘምኑ።</item>
+        <item quantity="one">ይህ ስሪት ጊዜው እስኪያልፍበት ድረስ %d ቀኖች ቀርተዋል። Google ፎቶዎችን መጠቀሙን ለመቀጠል አሁን ያዘምኑ።</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d ንጥሎችን በመስቀል ላይ</item>
+        <item quantity="one">%d ንጥሎችን በመስቀል ላይ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d ንጥሎች ሲገናኝ ይሰቀላሉ</item>
+        <item quantity="one">%d ንጥሎች ሲገናኝ ይሰቀላሉ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d ወደ Wi-Fi ሲገናኝ ይሰቀላሉ</item>
+        <item quantity="one">%d ወደ Wi-Fi ሲገናኝ ይሰቀላሉ</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">በመስቀል ላይ…%d ቀርተዋል</item>
+        <item quantity="one">በመስቀል ላይ…%d ቀርቷል</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ፋይሎች</item>
+        <item quantity="one">%d ፋይሎች</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s ፎቶዎች</item>
+        <item quantity="one">%s ፎቶዎች</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ንጥሎች</item>
+        <item quantity="one">%s ንጥሎች</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s ቪዲዮዎች</item>
+        <item quantity="one">%s ቪዲዮዎች</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">ፎቶዎችን ይምረጡ</item>
+        <item quantity="one">ፎቶዎችን ይምረጡ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">ንጥሎችን ይምረጡ</item>
+        <item quantity="one">ንጥሎችን ይምረጡ</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">ቪዲዮዎችን ይምረጡ</item>
+        <item quantity="one">ቪዲዮዎችን ይምረጡ</item>
+    </plurals>
+</resources>

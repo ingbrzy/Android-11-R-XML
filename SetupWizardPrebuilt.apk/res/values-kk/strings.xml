@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Жоғары қарай өту</string>
+    <string name="abc_action_mode_done">Дайын</string>
+    <string name="abc_capital_off">ӨШІРУ</string>
+    <string name="abc_capital_on">ҚОСУ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">бос орын</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Іздеу…</string>
+    <string name="abc_searchview_description_clear">Сұрауды өшіру</string>
+    <string name="abc_searchview_description_search">Іздеу</string>
+    <string name="abc_searchview_description_submit">Сұрауды жіберу</string>
+    <string name="abc_searchview_description_voice">Дауыспен іздеу</string>
+    <string name="abc_toolbar_collapse_description">Жию</string>
+    <string name="accessibility_no_wifi">Wi-Fi ажыратылған.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi сигналы: бір жолақ.</string>
+    <string name="accessibility_wifi_security_type_none">Ашық желі</string>
+    <string name="accessibility_wifi_security_type_secured">Қауіпсіз желі</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi сигналы: толық.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi сигналы: үш жолақ.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi сигналы: екі жолақ.</string>
+    <string name="account_exists_info">"Электрондық поштаңыз, контактілеріңіз, күнтізбедегі іс-шараларыңыз және басқа да деректер осы {DEVICE_TYPE,select, PHONE{телефонмен}TABLET{планшетпен}other{құрылғымен}} синхрондалады. Сонымен қатар Google Play дүкенінен қолданбаларды, музыканы және ойындарды жүктеп ала аласыз.
+
+Сондай-ақ \"Параметрлер > Есептік жазбалар\" тармағына өтіп, есептік жазбаларды енгізуге және оларды өшіруге болады."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> дайын.</string>
+    <string name="account_exists_text_unknown_name">Есептік жазбаңыз дайын.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Есептік жазба қосылды}other{Есептік жазбалар қосылды}}</string>
+    <string name="activating_carrier_service_text">Бұл бірнеше минутқа созылуы мүмкін.</string>
+    <string name="activating_unknown_carrier_service_title">Іске қосылуда…</string>
+    <string name="activation_failed_message">"Мәселені шешу үшін:
+"<ul><li>мобильдік деректерге қайта қосылып көріңіз</li>"
+"<li>реттеу үшін басқа желіні пайдаланыңыз</li></ul>"
+
+Бұл шаралар көмектеспесе, {DEVICE_TYPE,select, PHONE{телефонды}TABLET{планшетті}other{құрылғыны}} қайта іске қосып, әрекетті қайталап кқруге болады."</string>
+    <string name="activation_failed_title">Мобильдік деректерге қосылу мүмкін емес</string>
+    <string name="activation_progress_flow">"Тым ұзақ па?
+
+Мобильдік деректерге қосылу көп уақыт алуда. Қайта оралып, басқа желіге қосылып көруге болады."</string>
+    <string name="activation_title">Мобильдік байланыс қызметіне жалғануда…</string>
+    <string name="activation_unprovisioned_sim_message">Өз {DEVICE_TYPE,select, PHONE{телефоныңызды}TABLET{планшетіңізді}other{құрылғыңызды}} өшіріп, қайта қосыңыз да, жоғарыдағы қадамдарды қайта орындап көріңіз немесе параметрлерді орнату үшін Wi‑Fi желісіне жалғаныңыз. Мобильдік деректерді іске қосу кезінде әлі де қиындыққа тап болсаңыз, операторға хабарласыңыз.</string>
+    <string name="activation_unprovisioned_title">Мобильдік деректер іске қосылмады</string>
+    <string name="android_privacy_policy_title">Қосымша Құпиялылық саясаты</string>
+    <string name="available_via_carrier">%1$s арқылы қолжетімді</string>
+    <string name="cancel_button_label">Жабу</string>
+    <string name="captive_portal_connection_unsuccessful">Интернетке қосылмады</string>
+    <string name="captive_portal_description_text">Бұл бірнеше минут алуы мүмкін</string>
+    <string name="captive_portal_ssl_error_text">Байланыс үшін қорғалмаған не жарамсыз сертификат пайдаланылуда. Басқа желіні таңдап, әрекетті қайталаңыз.</string>
+    <string name="captive_portal_title">Қосылуда...</string>
+    <string name="chrome_privacy_title">Chrome құпиялылық туралы ескертулері</string>
+    <string name="chrome_tos_title">Chrome қызмет көрсету шарттары</string>
+    <string name="close_button_label">Жабу</string>
+    <string name="common_google_play_services_enable_button">Қосу</string>
+    <string name="common_google_play_services_enable_text">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_install_button">Орнату</string>
+    <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play қызметтерінің қолжетімділігі</string>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="connect_to_wifi_btn_text">Wi‑Fi параметрлері</string>
+    <string name="connect_to_wifi_message">Жалғастыру үшін Wi-Fi желісіне қосылыңыз</string>
+    <string name="connect_to_wifi_title">Қолданбаның жаңартылған нұсқалары дайын</string>
+    <string name="connected_via_app">%1$s арқылы жалғанған</string>
+    <string name="connected_via_carrier">%1$s арқылы қосылды</string>
+    <string name="connected_via_network_scorer_default">Желі рейтингі провайдері арқылы автоматты түрде қосылған</string>
+    <string name="consolidate_captive_portal_description_text">Бұл бірнеше минут алуы мүмкін.</string>
+    <string name="consolidate_captive_portal_title">Жаңа нұсқалар тексерілуде…</string>
+    <string name="continue_for_a11y">Қол жетімділік режимін қосу үшін экранды бипілдеген дыбыс естілгенше түрте беріңіз.</string>
+    <string name="date_time_current_date">Бүгінгі күн</string>
+    <string name="date_time_current_time">Уақыт</string>
+    <string name="date_time_message">Қажет болса, реттеңіз.</string>
+    <string name="date_time_setup_title">Күні және уақыты</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Жалғастыру</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">Қосымша қадамдарда Google Assistant, Google Pay, Now Playing, қаріп өлшемі, тұсқағаз және т.б. қамтылады.</string>
+    <string name="decision_point_leave_setup">Шығу және еске салғыштар алу</string>
+    <string name="decision_point_now_playing">Now Playing</string>
+    <string name="default_device_name_device">құрылғы</string>
+    <string name="default_device_name_phone">телефон</string>
+    <string name="default_device_name_tablet">планшет</string>
+    <string name="deferred_notification_prompt_title">^1 құрылғысын реттеуді аяқтаңыз</string>
+    <string name="deferred_setup_button_label">Реттеуді аяқтау</string>
+    <string name="deferred_setup_wizard_reason_assistant">Assistant қолданбасымен сөйлесіңіз</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">Google Assistant қызметімен сөйлесіңіз</string>
+    <string name="deferred_setup_wizard_reason_default">Бірнеше қадамнан ғана өту керек</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">деректерді көшіріңіз</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay қызметін пайдаланыңыз</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay арқылы жылдам төлеңіз</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 және тағы басқа</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 және т.б.</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Бірнеше жылдам қадамнан кейін ^1 дайын болады</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">тұсқағаз орнатыңыз</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">тұсқағазыңызды орнатыңыз</string>
+    <string name="deferred_setup_wizard_title">Құрылғыңызды реттеуді аяқтау</string>
+    <string name="deferred_snooze_dialog_option_never">Ешқашан</string>
+    <string name="deferred_snooze_dialog_option_today">Бүгін кейінірек</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Ертең</string>
+    <string name="deferred_snooze_dialog_title">Есіме салу</string>
+    <string name="deferred_welcome_airplane_mode_message">"Соңғы бірнеше реттеу қадамдарын аяқтау үшін байланыс қажет.
+
+Ұшақ режимі қосулы болған кезде Wi‑Fi, мобильдік желілер және Bluetooth ажыратылады."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Кейін реттеу</string>
+    <string name="deferred_welcome_airplane_mode_title">Ұшақ режимі өшірілсін бе?</string>
+    <string name="deferred_welcome_screen_cancel_button">Кейінірек еске салу</string>
+    <string name="deferred_welcome_title">^1 құрылғысын реттеуді аяқтау</string>
+    <string name="deferred_welcome_turn_off_button_label">Өшіру</string>
+    <string name="device_owner_continue">Реттеуді жалғастыру</string>
+    <string name="device_owner_reset">Бұл {DEVICE_TYPE,select, PHONE{телефонды бастапқы күйге қайтару}TABLET{планшетті бастапқы күйге қайтару}other{құрылғыны бастапқы күйге қайтару}}</string>
+    <string name="device_owner_warning">{0} сіздің {DEVICE_TYPE,select, PHONE{телефоныңызды}TABLET{планшетіңізді}other{құрылғыңызды}} басқаруда және сізге тиесілі ақпаратты пайдалана алады. Егер {0} сізге тиесілі ақпаратты пайдаланғанын қаламасаңыз, {DEVICE_TYPE,select, PHONE{телефоныңызды}TABLET{планшетіңізді}other{құрылғыңызды}} бастапқы күйге қайтарыңыз.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Телефонды}TABLET{Планшетті}other{Құрылғыны}} бақылауға болады</string>
+    <string name="dialog_back_button_label">Артқа</string>
+    <string name="dialog_continue_button_label">Жалғастыру</string>
+    <string name="early_update_installing_updates_text">Жаңа нұсқалар орнатылуда</string>
+    <string name="early_update_text">Бұл бірнеше минут алуы мүмкін</string>
+    <string name="early_update_timeout_text">Тым ұзақ болып жатыр ма? Оралып, басқа желіге қосылып көріңіз.</string>
+    <string name="early_update_title">Жаңартулар тексерілуде…</string>
+    <string name="emergency_dial">Жедел қызметке қоңырау шалу</string>
+    <string name="enabled_a11y">Қол жетімділік режимі қосылды.</string>
+    <string name="esim_option_button_summary">eSIM арқылы нөмір енгізу</string>
+    <string name="esim_option_button_title">SIM картасы жүктеп алынсын ба?</string>
+    <string name="esim_warning_title">SIM картасын жүктеп алыңыз</string>
+    <string name="esim_warning_txt">Егер %1$s қызметіне жазылсаңыз, SIM картасының орнына eSIM картасын жүктеп алып, қоңырауларды, мәтіндерді және деректерді қабылдай аласыз.</string>
+    <string name="esim_warning_txt_default">SIM картаңыздағы ақпаратты жүктеп алып, мобильдік желіге жалғаныңыз. Ол стандартты SIM карталары сияқты қауіпсіз.</string>
+    <string name="exit_loading_launcher">Іске қосу құрылғысы жүктелуде…</string>
+    <string name="factory_reset_button">Өшіру және бастапқы күйге қайтару</string>
+    <string name="factory_reset_confirmation">Бұл {DEVICE_TYPE,select, PHONE{телефондағы}TABLET{планшеттегі}other{құрылғыдағы}} барлық есептік жазба мен дерек өшірілсін бе? Бұл әрекет кері қайтарылмайды!</string>
+    <string name="factory_reset_confirmation_title">Бастапқы күйге қайтару қажет пе?</string>
+    <string name="factory_reset_instructions">Ескерту: бастапқы күйге қайтарсаңыз, бұл {DEVICE_TYPE,select, PHONE{телефонның}TABLET{планшеттің}other{құрылғының}} ішкі жадындағы барлық есептік жазбалар мен дерек өшіп қалады.</string>
+    <string name="factory_reset_title">Бұл {DEVICE_TYPE,select, PHONE{телефонды бастапқы күйге қайтару}TABLET{планшет бастапқы күйге қайтару}other{құрылғы бастапқы күйге қайтару}}</string>
+    <string name="final_hold_description_text">Бұл бірнеше минут алуы мүмкін</string>
+    <string name="final_hold_title">Күте тұрыңыз…</string>
+    <string name="final_hold_title_setup_work_account">Жұмыс профилін реттеуге дайындық…</string>
+    <string name="gms_account_checkin_title">Есептік жазба ақпараты алынуда…</string>
+    <string name="gms_checkin_description_text">Бұл бірнеше минут алуы мүмкін</string>
+    <string name="gms_checkin_description_text_timeout">Тым ұзақ болып жатыр ма? Оралып, басқа желіге қосылып көріңіз.</string>
+    <string name="gms_checkin_title">Жаңартулар тексерілуде…</string>
+    <string name="go_back_button_label">Оралу</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play қызмет көрсету шарттары</string>
+    <string name="google_plus_privacy_policy_title">Google Plus құпиялылық саясаты</string>
+    <string name="google_privacy_policy_title">Google құпиялылық саясаты</string>
+    <string name="google_provisioning_disclaimer_content">Google қызмет көрсету және құпиялылық шарттары қолданылады. Қосымша мәліметтер алу үшін &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> бетіне өтіңіз.</string>
+    <string name="google_terms_of_service_title">Google қызмет көрсету шарттары</string>
+    <string name="invalid_phone_number">Телефон нөмірі белгісіз</string>
+    <string name="invalid_qr_code_content">Әкімшіден дұрыс кодты сұраңыз</string>
+    <string name="invalid_qr_code_retry">Әрекетті қайталау</string>
+    <string name="invalid_qr_code_title">QR коды қате</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari және iTunes – Apple Inc. компаниясының АҚШ-та және басқа елдерде тіркелген сауда белгілері.</string>
+    <string name="language_picker_section_all">Барлық тілдер</string>
+    <string name="language_picker_section_suggested">Ұсынылған</string>
+    <string name="migrate_from_ios_description">Мына қадамдарды орындаңыз:</string>
+    <string name="migrate_from_ios_header">Деректерді көшіру</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari® қолданбасын ашыңыз.</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b> бетіне өтіңіз.</string>
+    <string name="migrate_from_ios_instructions_3">3. Нұсқауларды орындаңыз.</string>
+    <string name="network_description_text">Желі таңдаңыз.</string>
+    <string name="network_description_text_esim">SIM картасын жүктеп алу үшін Wi‑Fi желісіне жалғаныңыз.</string>
+    <string name="network_see_all_wifi">Барлық Wi‑Fi желілерін көру</string>
+    <string name="network_timeout_description_text">Басқа желімен қайталап көріңіз. Байланыс орнатпастан жалғастырсаңыз, кейбір реттеу қадамдарын кейінірек аяқтайсыз.</string>
+    <string name="network_timeout_title">Жалғанбады</string>
+    <string name="network_timeout_try_another_network_button">Басқа желімен көру</string>
+    <string name="network_title">Wi-Fi желісіне қосылу</string>
+    <string name="network_use_cellular">Реттеу үшін мобильдік желіні пайдалану</string>
+    <string name="network_use_cellular_carrier">Wi-Fi желісіне кейінірек қосылу</string>
+    <string name="network_wifi_continue_button">Жалғастыру</string>
+    <string name="not_set">Орнатылмаған</string>
+    <string name="notification_channel_name_deferred">Қосымша реттеу</string>
+    <string name="notification_channel_name_initial">Параметрлерді орнату</string>
+    <string name="notification_channel_name_restore">Деректерді қалпына келтіру</string>
+    <string name="notification_channel_security_name_warnings">Қауіпсіздік жөніндегі ескертулер</string>
+    <string name="ok_button_label">Жарайды</string>
+    <string name="ota_agreement_text">"Бұл бағдарлама жаңартуларын жалғастыру және алу арқылы сіз  "<annotation link="tos">Google қызмет көрсету шарттары</annotation> мен <annotation link="google_privacy">Құпиялылық саясаты</annotation> талаптарын қабылдайсыз.</string>
+    <string name="ota_info">Сіздің {DEVICE_TYPE,select, PHONE{телефоныңыз}TABLET{планшетіңіз}other{құрылғыңыз}} бағдарламалық құралдың жаңа нұсқасын жүктеп алып, қайта қосылуы керек.</string>
+    <string name="ota_size">Өлшемі: %s</string>
+    <string name="ota_update_title">Өз {DEVICE_TYPE,select, PHONE{телефоныңызды жаңартыңыз}TABLET{планшетіңізді жаңартыңыз}other{құрылғыңызды жаңартыңыз}}</string>
+    <string name="predeferred_prepare_setup">Реттеуге дайындалуда…</string>
+    <string name="predeferred_prepare_setup_details">^1 құрылғыңызды реттеуді жақында аяқтайсыз</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Wi-Fi желісіне қосылу</string>
+    <string name="predeferred_wifi_required_notification_content">Жалғастыру үшін Wi-Fi желісіне қосылыңыз</string>
+    <string name="predeferred_wifi_required_notification_title">Қолданбаның жаңа нұсқалары дайын</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR кодты іздеу</string>
+    <string name="region_picker_section_all">Барлық аймақтар</string>
+    <string name="restart_setup_wizard_button_label">Осы {DEVICE_TYPE,select, PHONE{телефонды реттеу}TABLET{планшетті реттеу}other{құрылғыны реттеу}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Бұл {DEVICE_TYPE,select, PHONE{телефонды}TABLET{планшетті}other{құрылғыны}} пайдалану үшін осы {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{құрылғы}} соңғы рет бастапқы күйге қайтарылған кезде қолданылған Google есептік жазбасына кіру қажет.
+
+Сіз мұны істемегендіктен, енді {DEVICE_TYPE,select, PHONE{телефонның}TABLET{планшеттің}other{құрылғының}} параметрлерін қайта орнатуыңыз керек."</string>
+    <string name="restart_setup_wizard_dialog_title">Жүйеге кірмегенсіз</string>
+    <string name="restore_failed_message">Сақтық көшірмені қалпына келтіру мүмкін емес</string>
+    <string name="restore_no_backup_message">Басқа құрылғыңызда қолжетімді сақтық көшірмелер жоқ</string>
+    <string name="restore_no_backup_title">Қалпына келтіру мүмкін емес</string>
+    <string name="restore_stopped_message">Сақтық көшірмені қалпына келтіру ісі толық аяқталмады</string>
+    <string name="restore_title">Қалпына келтіру…</string>
+    <string name="setup_ongoing_notification_text">^1 құрылғысын реттеуді аяқтау үшін түртіңіз.</string>
+    <string name="setup_ongoing_notification_title">^1 құрылғысы реттелуде</string>
+    <string name="setup_wizard_title">Android Setup</string>
+    <string name="sim_locked_text">"Бұл телефон қазір басқа операторға құлыпталған. Жарамды SIM картасын пайдалану керек.
+
+SIM картасы салынғаннан кейін, белсендіруге бірнеше секунд қажет болуы мүмкін."</string>
+    <string name="sim_locked_title">SIM картасы қолданылмайды</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Егер SIM картаңыз болса, оны қазір салыңыз}other{Егер SIM карталарыңыз болса, оларды қазір салыңыз}}</string>
+    <string name="sim_missing_title">Мобильдік желіге қосылу</string>
+    <string name="sim_ready_message">%1$s пайдалануға дайын болуы керек</string>
+    <string name="sim_ready_message_carrier_app">%1$s нөмірін іске қосу үшін %2$s қолданбасын жүктеп алуыңыз қажет. Әзірге телефоныңызды реттеуді аяқтайық.</string>
+    <string name="sim_ready_message_invalid_phone_number">Телефон нөміріңіз пайдалануға дайын болуы керек.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Нөмірді іске қосу үшін %1$s қолданбасын жүктеп алуыңыз қажет. Әзірге телефоныңызды реттеуді аяқтайық.</string>
+    <string name="sim_ready_title">%1$s қосулы</string>
+    <string name="sim_ready_title_carrier_app">%1$s қолданбасына кейінірек жалғаныңыз</string>
+    <string name="sim_setup_ask_every_time">Әр қоңырау үшін сұрау</string>
+    <string name="sim_setup_select_data">Мобильдік интернет параметрі</string>
+    <string name="sim_setup_select_data_description">Мобильдік интернет үшін пайдаланылатын нөмірді таңдаңыз.</string>
+    <string name="sim_setup_select_text">SMS параметрі</string>
+    <string name="sim_setup_select_text_description">Шығыс мәтіндік хабарлары үшін нөмір таңдаңыз (барлық қосулы нөмірлер кіріс мәтіндік хабарларды қабылдай алады).</string>
+    <string name="sim_setup_select_voice">Қоңыраулар параметрлері</string>
+    <string name="sim_setup_select_voice_description">Шығыс қоңыраулар үшін нөмір таңдаңыз (барлық қосулы нөмірлер кіріс қоңыраулар қабылдай алады).</string>
+    <string name="sim_setup_title">SIM карталарын реттеу</string>
+    <string name="skip_anyway_button_label">Бәрібір аттап өтіңіз</string>
+    <string name="skip_button_label">Өткізіп жіберу</string>
+    <string name="skip_toast">Орнату шебері өткізіп жіберілді</string>
+    <string name="slots_selection_item_summary_activating">Іске қосылуда…</string>
+    <string name="slots_selection_item_summary_error">Дәл қазір іске қосу мүмкін емес.</string>
+    <string name="slots_selection_title">Пайдаланылатын нөмірді таңдаңыз</string>
+    <string name="speed_label_fast">Жылдам</string>
+    <string name="speed_label_okay">Жарайды</string>
+    <string name="speed_label_slow">Баяу</string>
+    <string name="speed_label_very_fast">Өте жылдам</string>
+    <string name="sud_back_button_label">Артқа</string>
+    <string name="sud_more_button_label">Қосымша</string>
+    <string name="sud_next_button_label">Келесі</string>
+    <string name="suggested_actions_description">Тағы бірнеше нәрсені реттеңіз немесе мұны кейін \"Параметрлер\" бөлімінде орындауға болады.</string>
+    <string name="suggested_actions_description_single_item">^1 құрылғысында тағы бірдеңені реттеу қажет. Оны да кейін \"Параметрлер\" бөлімінен таба аласыз.</string>
+    <string name="suggested_actions_done_label">Әзірше орындалды</string>
+    <string name="suggested_actions_no_thanks_label">Жоқ, рақмет</string>
+    <string name="suggested_actions_title">Тағы не бар?</string>
+    <string name="switch_camera">Камераны ауыстыру</string>
+    <string name="switch_to_back_camera_button_content_description">Артқы камера</string>
+    <string name="switch_to_front_camera_button_content_description">Алдыңғы камера</string>
+    <string name="switched_to_back_camera_announcement">Түйме — енді алдыңғы камера</string>
+    <string name="switched_to_front_camera_announcement">Түйме — енді артқы камера</string>
+    <string name="tap_to_sign_up">Тіркелу үшін түртіңіз.</string>
+    <string name="terminate_toast">"Орнату шебері тоқтатылды
+Құрылғы дайындалмады"</string>
+    <string name="try_again_button_label">Әрекетті қайталау</string>
+    <string name="url_load_unsuccessful_message">Сіздің {DEVICE_TYPE,select, PHONE{телефоныңыз}TABLET{планшетіңіз}other{құрылғыңыз}} мобильдік деректер қызметіне жалғанбаған. Бұл ақпаратты қазір көру үшін веб-браузерден {0} бетіне өтіңіз.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Сіздің {DEVICE_TYPE,select, PHONE{телефоныңыз}TABLET{планшетіңіз}other{құрылғыңыз}} Wi‑Fi желісіне жалғанбаған. Бұл ақпаратты қазір көру үшін веб-браузерден {0} бетін ашыңыз.</string>
+    <string name="user_warning_cannot_switch_message">Иелік ететін пайдаланушыға қайта ауысу мүмкін емес. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="user_warning_label_continue">Жалғастыру</string>
+    <string name="user_warning_label_quit">Бас тарту</string>
+    <string name="user_warning_quit_dialog_button_keep">Пайдаланушыны сақтау</string>
+    <string name="user_warning_quit_dialog_button_remove">Пайдаланушыны өшіру</string>
+    <string name="user_warning_quit_dialog_message">Пайдаланушы өшірілсін бе?</string>
+    <string name="user_warning_title">Жаңа пайдаланушыны орнату</string>
+    <string name="wait_msg">Күте тұрыңыз…</string>
+    <string name="web_dialog_unable_to_view">Бұл ақпаратты қазір көру үшін ^1 мекенжайына веб-браузермен кіріңіз.</string>
+    <string name="welcome_accessibility_button">Көру параметрлері</string>
+    <string name="welcome_language_picker_content_description">Тіл: %s</string>
+    <string name="welcome_language_picker_dialog_title">Тілді таңдау</string>
+    <string name="welcome_message">Сәлем!</string>
+    <string name="welcome_secondary_user_added_text">Осы {DEVICE_TYPE,select, PHONE{телефонға енгізілдіңіз}TABLET{планшетке енгізілдіңіз}other{құрылғыға енгізілдіңіз}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Маңызды:</b>"
+
+"<ul><li>Бұл {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{құрылғы}} иесі қолданбаларыңызды жоя алады немесе пайдаланушы профиліңізді толығымен өшіре алады.</li>"
+
+"<li>Кез келген басқа пайдаланушының жаңартылған қолданба рұқсаттарын қабылдау мүмкіндігі бар.</li>"
+
+"<li>Бұл {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{құрылғы}} тек сенімді адамдарға берілуі керек.</li></ul></string>
+    <string name="welcome_start_button_label">Бастау</string>
+    <string name="wifi_add_new_network">Жаңа желіні қосу</string>
+    <string name="wifi_and_mobile_skipped_message">"Wi‑Fi немесе мобильдік желіге жалғансаңыз, {DEVICE_TYPE,select, PHONE{телефоныңызды}TABLET{планшетіңізді}other{құрылғыңызды}} жылдам реттей аласыз.
+
+Жалғанбасаңыз:
+
+"<ul><li>Google есептік жазбаңызға кіре алмайсыз.</li>"
+
+"<li>Қолданбалар мен деректер қалпына келтірілмейді.</li>"
+
+"<li>Бағдарламалық құралдың жаңа нұсқасы алынбайды.</li>"
+
+"<li>Уақыт пен күн автоматты түрде реттелмейді.</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Wi‑Fi немесе мобильдік желіге жалғансаңыз, {DEVICE_TYPE,select, PHONE{телефоныңызды}TABLET{планшетіңізді}other{құрылғыңызды}} жылдам реттей аласыз.
+
+Жалғанбасаңыз:
+
+"<ul><li>Google есептік жазбаңызға кіре алмайсыз.</li>"
+
+"<li>Қолданбалар мен деректер қалпына келтірілмейді.</li>"
+
+"<li>SIM картасы жүктеп алынбайды.</li>"
+
+"<li>Бағдарламалық құралдың жаңа нұсқасы алынбайды.</li>"
+
+"<li>Уақыт пен күн автоматты түрде реттелмейді.</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Кіру нүктесі уақытша бос емес</string>
+    <string name="wifi_check_password_try_again">Құпия сөзді тексеріп, әрекетті қайталаңыз</string>
+    <string name="wifi_connected_no_internet">Қосылған, интернет жоқ</string>
+    <string name="wifi_disabled_by_recommendation_provider">Желі байланысының сапасы төмен болғандықтан қосылмады</string>
+    <string name="wifi_disabled_generic">Өшірілген</string>
+    <string name="wifi_disabled_network_failure">IP конфигурациясының қатесі</string>
+    <string name="wifi_disabled_password_failure">Растау мәселесі</string>
+    <string name="wifi_fail_to_scan">Желілерді шолу мүмкін емес</string>
+    <string name="wifi_ip_address_not_available">Қол жетімді емес</string>
+    <string name="wifi_ip_address_title">IP мекенжайы</string>
+    <string name="wifi_limited_connection">Шектеулі байланыс</string>
+    <string name="wifi_mac_address_not_available">Қол жетімді емес</string>
+    <string name="wifi_mac_address_title">MAC мекенжайы</string>
+    <string name="wifi_metered_label">Трафик саналады</string>
+    <string name="wifi_no_internet">Интернетпен байланыс жоқ</string>
+    <string name="wifi_no_internet_no_reconnect">Автоматты қосылмайды</string>
+    <string name="wifi_not_in_range">Аумақта жоқ</string>
+    <string name="wifi_remembered">Сақталды</string>
+    <string name="wifi_scanning">Wi‑Fi желілерін іздеуде…</string>
+    <string name="wifi_set_up_offline_title">Офлайн реттейсізбе?</string>
+    <string name="wifi_skip_button_label">Офлайн реттеу</string>
+    <string name="wifi_skipped_message">Сіздің {DEVICE_TYPE,select, PHONE{телефоныңыз}TABLET{планшетіңіз}other{құрылғыңыз}} параметрлерді орнату кезінде мобильдік желіні пайдаланады және дерек трафигінен ақы алынуы мүмкін. Тегін пайдалану үшін Wi-Fi желісіне жалғаныңыз.</string>
+    <string name="wifi_skipped_title">Ықтимал деректер ақылары</string>
+    <string name="wifi_title">Wi-Fi желісіне қосылу</string>
+    <string name="wifi_unmetered_label">Трафик саналмайды</string>
+    <string name="work_profile_setup_description">Осы құрылғыны корпоративтік деректермен жұмысқа реттеуге және оларды жеке деректерден бөлек сақтауға мүмкіндік береді</string>
+    <string name="work_profile_setup_next">Келесі</string>
+    <string name="work_profile_setup_skip">Жұмыс есептік жазбасын реттеуді өткізіп жіберу</string>
+    <string name="work_profile_setup_title">Жұмыс есептік жазбаңызды енгізіңіз</string>
+    <string name="work_setup_interrupted">"{DEVICE_TYPE,select, PHONE{Телефонда}TABLET{планшетте}other{құрылғыда}} әдеттен тыс әрекет анықталды. Реттеуді жалғастырсаңыз, деректерге қауіп төнуі мүмкін.
+
+Басынан бастау үшін {DEVICE_TYPE,select, PHONE{телефонды}TABLET{планшетті}other{құрылғыны}} бастапқы күйіне қайтарыңыз."</string>
+    <string name="work_setup_interrupted_title">Бұл {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{құрылғы}} қауіпсіз болмауы мүмкін.</string>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Идите нагоре</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ИСКЉУЧЕНО</string>
+    <string name="abc_capital_on">УКЉУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">тастер за размак</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Претражите…</string>
+    <string name="abc_searchview_description_clear">Обришите упит</string>
+    <string name="abc_searchview_description_search">Претражите</string>
+    <string name="abc_searchview_description_submit">Пошаљите упит</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="accessibility_no_wifi">Wi-Fi веза је прекинута.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi сигнал има једну црту.</string>
+    <string name="accessibility_wifi_security_type_none">Отворена мрежа</string>
+    <string name="accessibility_wifi_security_type_secured">Безбедна мрежа</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi сигнал је најјачи.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi сигнал има три црте.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi сигнал има две црте.</string>
+    <string name="account_exists_info">"Имејл, контакти, догађаји из календара и друге ставке се синхронизују са овим {DEVICE_TYPE,select, PHONE{телефоном}TABLET{таблетом}other{уређајем}}. Спремни сте и да почнете да преузимате апликације, музику и игре са Google Play-а.
+
+Налоге можете да додајете и уклањате касније ако посетите одељак Подешавања > Налози."</string>
+    <string name="account_exists_text_single">Налог <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> је спреман.</string>
+    <string name="account_exists_text_unknown_name">Налог је спреман.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Налог је додат}one{Налози су додати}few{Налози су додати}other{Налози су додати}}</string>
+    <string name="activating_carrier_service_text">Ово може да потраје неколико минута</string>
+    <string name="activating_unknown_carrier_service_title">Активира се...</string>
+    <string name="activation_failed_message">"Можете:
+"<ul><li>да поново пробате да се повежете са мрежом за пренос података преко мобилног оператера</li>"
+"<li>да користите неку другу мрежу за подешавање</li></ul>"
+
+Ако ове опције не успеју, можете и да поново покренете {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} и пробате поново."</string>
+    <string name="activation_failed_title">Услуга преноса података није доступна</string>
+    <string name="activation_progress_flow">"Предуго траје?
+
+Повезивање са мрежом за пренос података преко мобилног оператера траје дуго. Можете да се вратите и пробате да се повежете са неком другом мрежом."</string>
+    <string name="activation_title">Повезује се мобилна услуга…</string>
+    <string name="activation_unprovisioned_sim_message">Рестартујте {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} и пробајте поново или се повежите на Wi‑Fi да бисте обавили подешавање. Ако и даље будете имали проблема са активирањем мобилних података, контактирајте мобилног оператера.</string>
+    <string name="activation_unprovisioned_title">Активација мобилних података није успела</string>
+    <string name="android_privacy_policy_title">Додатна политика приватности</string>
+    <string name="available_via_carrier">Доступно преко %1$s</string>
+    <string name="cancel_button_label">Откажи</string>
+    <string name="captive_portal_connection_unsuccessful">Повезивање на интернет није успело</string>
+    <string name="captive_portal_description_text">То може да потраје неколико минута</string>
+    <string name="captive_portal_ssl_error_text">Ова веза користи небезбедан или неважећи сертификат. Изаберите неку другу мрежу и покушајте поново.</string>
+    <string name="captive_portal_title">Повезује се…</string>
+    <string name="chrome_privacy_title">Chrome обавештење о приватности</string>
+    <string name="chrome_tos_title">Chrome услови коришћења услуге</string>
+    <string name="close_button_label">Затвори</string>
+    <string name="common_google_play_services_enable_button">Омогући</string>
+    <string name="common_google_play_services_enable_text">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_title">Омогућите Google Play услуге</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s не може да се покрене без Google Play услуга, које нису инсталиране на уређају.</string>
+    <string name="common_google_play_services_install_title">Преузмите Google Play услуге</string>
+    <string name="common_google_play_services_notification_channel_name">Доступност Google Play услуга</string>
+    <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблема са Google Play услугама. Пробајте поново.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не може да се покрене без Google Play услуга, које уређај не подржава.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="common_google_play_services_update_title">Ажурирајте Google Play услуге</string>
+    <string name="common_google_play_services_updating_text">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="connect_to_wifi_btn_text">Wi-Fi подешавања</string>
+    <string name="connect_to_wifi_message">Повежите се на Wi-Fi да бисте наставили</string>
+    <string name="connect_to_wifi_title">Ажурирања апликација су спремна</string>
+    <string name="connected_via_app">Повезано преко: %1$s</string>
+    <string name="connected_via_carrier">Повезано преко %1$s</string>
+    <string name="connected_via_network_scorer_default">Аутоматски повезано преко добављача оцене мреже</string>
+    <string name="consolidate_captive_portal_description_text">То може да потраје неколико минута</string>
+    <string name="consolidate_captive_portal_title">Траже се ажурирања…</string>
+    <string name="continue_for_a11y">Наставите да додирујете екран док не чујете звучни сигнал да бисте омогућили режим приступачности.</string>
+    <string name="date_time_current_date">Датум</string>
+    <string name="date_time_current_time">Време</string>
+    <string name="date_time_message">Подесите по потреби.</string>
+    <string name="date_time_setup_title">Датум и време</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Настави</string>
+    <string name="decision_point_google_assistant">Google помоћник</string>
+    <string name="decision_point_illustration_description">Додатни кораци обухватају Google помоћник, Google Pay, Тренутно свира, величину фонта, позадину и још тога</string>
+    <string name="decision_point_leave_setup">Изађи и пошаљи подсетник</string>
+    <string name="decision_point_now_playing">Тренутно свира</string>
+    <string name="default_device_name_device">уређај</string>
+    <string name="default_device_name_phone">телефон</string>
+    <string name="default_device_name_tablet">таблет</string>
+    <string name="deferred_notification_prompt_title">Довршите подешавање уређаја ^1</string>
+    <string name="deferred_setup_button_label">Заврши подешавање</string>
+    <string name="deferred_setup_wizard_reason_assistant">причајте са Помоћником</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">разговарајте са Google помоћником</string>
+    <string name="deferred_setup_wizard_reason_default">Још само неколико корака</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">копирајте податке</string>
+    <string name="deferred_setup_wizard_reason_google_pay">користите Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">плаћајте брже помоћу Google Pay-а</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 и друго</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 и друго</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Још само неколико брзих корака и ^1 ће бити спреман за коришћење</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">подесите позадину</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">подесите позадину</string>
+    <string name="deferred_setup_wizard_title">Довршите подешавање уређаја</string>
+    <string name="deferred_snooze_dialog_option_never">Никад</string>
+    <string name="deferred_snooze_dialog_option_today">Касније у току данашњег дана</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Сутра</string>
+    <string name="deferred_snooze_dialog_title">Подсети ме</string>
+    <string name="deferred_welcome_airplane_mode_message">"Потребна вам је веза да бисте довршили неколико последњих корака за подешавање.
+
+Када је режим рада у авиону укључен, веза са Wi‑Fi-јем, мобилним мрежама и Bluetooth-ом је прекинута."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Подесите касније</string>
+    <string name="deferred_welcome_airplane_mode_title">Желите да искључите режим рада у авиону?</string>
+    <string name="deferred_welcome_screen_cancel_button">Подсети ме касније</string>
+    <string name="deferred_welcome_title">Довршите подешавање уређаја ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Искључи</string>
+    <string name="device_owner_continue">Настави са подешавањем</string>
+    <string name="device_owner_reset">Ресетуј {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}</string>
+    <string name="device_owner_warning">{0} управља {DEVICE_TYPE,select, PHONE{телефоном}TABLET{таблетом}other{уређајем}} и може да приступи информацијама. Ако не желите да {0} има приступ, ресетујте {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Телефон}TABLET{Таблет}other{Уређај}} може да се надгледа</string>
+    <string name="dialog_back_button_label">Назад</string>
+    <string name="dialog_continue_button_label">Настави</string>
+    <string name="early_update_installing_updates_text">Ажурирања се инсталирају</string>
+    <string name="early_update_text">То може да потраје неколико минута</string>
+    <string name="early_update_timeout_text">Ово предуго траје? Пробајте да се вратите и повежете на другу мрежу.</string>
+    <string name="early_update_title">Тражимо ажурирања…</string>
+    <string name="emergency_dial">Хитан позив</string>
+    <string name="enabled_a11y">Режим приступачности је омогућен.</string>
+    <string name="esim_option_button_summary">Додај број помоћу eSIM-а</string>
+    <string name="esim_option_button_title">Желите ли да преузмете SIM уместо тога?</string>
+    <string name="esim_warning_title">Преузмите SIM</string>
+    <string name="esim_warning_txt">Ако сте %1$s претплатник, преузмите eSIM уместо да уметнете SIM картицу и добићете позиве, SMS-ове и податке.</string>
+    <string name="esim_warning_txt_default">Повежите се на мобилну мрежу тако што ћете преузети информације које се обично налазе на SIM картици. На тај начин се замењују стандардне SIM картице и процес је безбедан.</string>
+    <string name="exit_loading_launcher">Учитава се покретач...</string>
+    <string name="factory_reset_button">Обриши и ресетуј</string>
+    <string name="factory_reset_confirmation">Желите ли да обришете све налоге и податке са овог {DEVICE_TYPE,select, PHONE{телефона}TABLET{таблета}other{уређаја}}? Не можете да опозовете ову радњу!</string>
+    <string name="factory_reset_confirmation_title">Желите ли да ресетујете?</string>
+    <string name="factory_reset_instructions">Упозорење: Ресетовањем ћете обрисати све налоге и податке из интерне меморије овог {DEVICE_TYPE,select, PHONE{телефона}TABLET{таблета}other{уређаја}}.</string>
+    <string name="factory_reset_title">Ресетујте {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}</string>
+    <string name="final_hold_description_text">То може да потраје неколико минута</string>
+    <string name="final_hold_title">Додају се завршна подешавања…</string>
+    <string name="final_hold_title_setup_work_account">Тел. се припрема за подешавање за Work…</string>
+    <string name="gms_account_checkin_title">Преузимамо информације о налогу…</string>
+    <string name="gms_checkin_description_text">То може да потраје неколико минута</string>
+    <string name="gms_checkin_description_text_timeout">Ово предуго траје? Пробајте да се вратите и повежете на другу мрежу.</string>
+    <string name="gms_checkin_title">Тражимо ажурирања…</string>
+    <string name="go_back_button_label">Врати назад</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Услови коришћења услуге Google Play</string>
+    <string name="google_plus_privacy_policy_title">Google плус политика приватности</string>
+    <string name="google_privacy_policy_title">Google политика приватности</string>
+    <string name="google_provisioning_disclaimer_content">Важе Google услови коришћења услуге и политика приватности. Више детаља потражите на &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Google услови коришћења услуге</string>
+    <string name="invalid_phone_number">Непознат број телефона</string>
+    <string name="invalid_qr_code_content">Затражите исправан кôд од ИТ администратора</string>
+    <string name="invalid_qr_code_retry">Пробај поново</string>
+    <string name="invalid_qr_code_title">Неисправан QR кôд</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari и iTunes су жигови компаније Apple Inc. регистровани у САД и другим земљама.</string>
+    <string name="language_picker_section_all">Сви језици</string>
+    <string name="language_picker_section_suggested">Предложени</string>
+    <string name="migrate_from_ios_description">Пратите следеће кораке:</string>
+    <string name="migrate_from_ios_header">Копирајте податке</string>
+    <string name="migrate_from_ios_instructions_1">1. Отворите Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Идите на <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Пратите упутства</string>
+    <string name="network_description_text">Изаберите мрежу</string>
+    <string name="network_description_text_esim">Да бисте преузели SIM, повежите се на Wi-Fi мрежу</string>
+    <string name="network_see_all_wifi">Прикажи све Wi‑Fi мреже</string>
+    <string name="network_timeout_description_text">Пробајте поново помоћу друге мреже. Ако наставите без повезивања, касније можете да довршите неке кораке за подешавање.</string>
+    <string name="network_timeout_title">Повезивање није успело</string>
+    <string name="network_timeout_try_another_network_button">Пробај помоћу неке друге мреже</string>
+    <string name="network_title">Повежите се са Wi-Fi мрежом</string>
+    <string name="network_use_cellular">Користи мобилну мрежу за подешавање</string>
+    <string name="network_use_cellular_carrier">Повежи са Wi‑Fi мрежом касније</string>
+    <string name="network_wifi_continue_button">Настави</string>
+    <string name="not_set">Није подешено</string>
+    <string name="notification_channel_name_deferred">Додатно подешавање</string>
+    <string name="notification_channel_name_initial">Подешавање</string>
+    <string name="notification_channel_name_restore">Враћање података</string>
+    <string name="notification_channel_security_name_warnings">Безбедносна упозорења</string>
+    <string name="ok_button_label">Потврди</string>
+    <string name="ota_agreement_text">Ако наставите и примите ово ажурирање софтвера, прихватате <annotation link="tos">Google услове коришћења услуге</annotation> и <annotation link="google_privacy">Политику приватности</annotation>.</string>
+    <string name="ota_info">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} треба да преузме ажурирање и да се рестартује.</string>
+    <string name="ota_size">Величина: %s</string>
+    <string name="ota_update_title">Ажурирајте {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}</string>
+    <string name="predeferred_prepare_setup">Припрема се за подешавање...</string>
+    <string name="predeferred_prepare_setup_details">Ускоро ћете моћи да довршите подешавање уређаја ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Повежите се на Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Повежите се на Wi-Fi да бисте наставили</string>
+    <string name="predeferred_wifi_required_notification_title">Ажурирања апликација су спремна</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="qr_code_scan_title">Тражење QR кода</string>
+    <string name="region_picker_section_all">Сви региони</string>
+    <string name="restart_setup_wizard_button_label">Подеси {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Да бисте користили овај {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}, прво треба да се пријавите на Google налог власника који је коришћен када је {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} последњи пут ресетован.
+
+Пошто то нисте урадили, морате да поново подесите {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}."</string>
+    <string name="restart_setup_wizard_dialog_title">Нисте пријављени</string>
+    <string name="restore_failed_message">Враћање резервне копије није успело</string>
+    <string name="restore_no_backup_message">На другом уређају нема доступних резервних копија</string>
+    <string name="restore_no_backup_title">Враћање није могуће</string>
+    <string name="restore_stopped_message">Нисмо успели да завршимо враћање резервне копије</string>
+    <string name="restore_title">Враћање…</string>
+    <string name="setup_ongoing_notification_text">Додирните да бисте довршили подешавање уређаја ^1</string>
+    <string name="setup_ongoing_notification_title">Подешавање уређаја ^1 је у току</string>
+    <string name="setup_wizard_title">Подешавање Android-а</string>
+    <string name="sim_locked_text">"Овај телефон је тренутно закључан код другог мобилног оператера. Мораћете да користите важећу SIM картицу.
+
+Кад убаците SIM картицу, може да прође пар секунди док се не активира."</string>
+    <string name="sim_locked_title">SIM картица није подржана</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Ако имате SIM картицу, уметните је одмах}one{Ако имате SIM картице, уметните их одмах}few{Ако имате SIM картице, уметните их одмах}other{Ако имате SIM картице, уметните их одмах}}</string>
+    <string name="sim_missing_title">Повежите се са мобилном мрежом</string>
+    <string name="sim_ready_message">%1$s би требало да је спреман за коришћење</string>
+    <string name="sim_ready_message_carrier_app">Да бисте довршили активирање броја %1$s, треба да преузмете%2$s апликацију. Хајде да за сад завршимо подешавање телефона.</string>
+    <string name="sim_ready_message_invalid_phone_number">Број би требало да је спреман за коришћење</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Да бисте довршили активирање броја, треба да преузмете %1$s апликацију. Хајде да за сад завршимо подешавање телефона.</string>
+    <string name="sim_ready_title">Мобилни оператер %1$s је активан</string>
+    <string name="sim_ready_title_carrier_app">Повежите се са мобилним оператером %1$s касније</string>
+    <string name="sim_setup_ask_every_time">Питај сваки пут</string>
+    <string name="sim_setup_select_data">Подешавање мобилних података</string>
+    <string name="sim_setup_select_data_description">Одаберите број који ћете користити за мобилне податке</string>
+    <string name="sim_setup_select_text">Подешавање SMS-ова</string>
+    <string name="sim_setup_select_text_description">Одаберите број за одлазне SMS-ове (сви активни бројеви могу да примају долазне SMS-ове)</string>
+    <string name="sim_setup_select_voice">Подешавање позива</string>
+    <string name="sim_setup_select_voice_description">Одаберите број за одлазне позиве (сви активни бројеви могу да примају долазне позиве)</string>
+    <string name="sim_setup_title">Подесите SIM картице</string>
+    <string name="skip_anyway_button_label">Ипак прескочи</string>
+    <string name="skip_button_label">Прескочи</string>
+    <string name="skip_toast">Чаробњак за подешавање је прескочен</string>
+    <string name="slots_selection_item_summary_activating">Активира се...</string>
+    <string name="slots_selection_item_summary_error">Тренутно не може да се активира</string>
+    <string name="slots_selection_title">Одаберите број за коришћење</string>
+    <string name="speed_label_fast">Брза</string>
+    <string name="speed_label_okay">Потврди</string>
+    <string name="speed_label_slow">Спора</string>
+    <string name="speed_label_very_fast">Веома брза</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Још</string>
+    <string name="sud_next_button_label">Даље</string>
+    <string name="suggested_actions_description">Подесите још неколико ствари сада или их пронађите касније у Подешавањима</string>
+    <string name="suggested_actions_description_single_item">Ево још једне ствари коју можете да подесите на уређају ^1. Можете да је пронађете и касније у Подешавањима.</string>
+    <string name="suggested_actions_done_label">За сад је доста</string>
+    <string name="suggested_actions_no_thanks_label">Не, хвала</string>
+    <string name="suggested_actions_title">Желите да урадите још нешто?</string>
+    <string name="switch_camera">Промени камеру</string>
+    <string name="switch_to_back_camera_button_content_description">Задња камера</string>
+    <string name="switch_to_front_camera_button_content_description">Предња камера</string>
+    <string name="switched_to_back_camera_announcement">Дугме је сад подешено на предњу камеру</string>
+    <string name="switched_to_front_camera_announcement">Дугме је сад подешено на задњу камеру</string>
+    <string name="tap_to_sign_up">Додирните да бисте се регистровали</string>
+    <string name="terminate_toast">"Чаробњак за подешавање је заустављен
+Уређај није додељен"</string>
+    <string name="try_again_button_label">Пробај поново</string>
+    <string name="url_load_unsuccessful_message">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} није повезан са услугом преноса података преко мобилног оператера. Да бисте одмах видели ове информације, посетите {0} у веб-прегледачу.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} није повезан са Wi-Fi мрежом. Да бисте одмах прегледали ове информације, посетите {0} у веб-прегледачу.</string>
+    <string name="user_warning_cannot_switch_message">Не можете поново да будете корисник који је власник. Пробајте поново касније.</string>
+    <string name="user_warning_label_continue">Настави</string>
+    <string name="user_warning_label_quit">Откажи</string>
+    <string name="user_warning_quit_dialog_button_keep">Задржи корисника</string>
+    <string name="user_warning_quit_dialog_button_remove">Уклони корисника</string>
+    <string name="user_warning_quit_dialog_message">Желите ли да уклоните корисника?</string>
+    <string name="user_warning_title">Подесите новог корисника</string>
+    <string name="wait_msg">Само секунд…</string>
+    <string name="web_dialog_unable_to_view">Да бисте одмах прегледали ове информације, посетите ^1 у веб-прегледачу.</string>
+    <string name="welcome_accessibility_button">Подешавања за вид</string>
+    <string name="welcome_language_picker_content_description">Језик: %s</string>
+    <string name="welcome_language_picker_dialog_title">Изаберите језик</string>
+    <string name="welcome_message">Здраво</string>
+    <string name="welcome_secondary_user_added_text">Додати сте на овај {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Важно:</b>"
+
+"<ul><li>Власник {DEVICE_TYPE,select, PHONE{телефона}TABLET{таблета}other{уређаја}}може да деинсталира апликације или уклони ваш кориснички профил у потпуности</li>"
+
+"<li>Било који други корисник може да прихвата ажуриране дозволе за апликације</li>"
+
+"<li>Делите овај {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} само са људима којима верујете</li></ul></string>
+    <string name="welcome_start_button_label">Покрени</string>
+    <string name="wifi_add_new_network">Додајте нову мрежу</string>
+    <string name="wifi_and_mobile_skipped_message">"Повезивање на Wi‑Fi или мобилну мрежу вам помаже да брзо подесите {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}.
+
+Ако не успоставите везу, не можете:
+
+"<ul><li>да се пријављујете на Google налог</li>"
+
+"<li>да враћате апликације и податке</li>"
+
+"<li>да добијате ажурирања софтвера</li>"
+
+"<li>да аутоматски подешавате време и датум</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Повезивање на Wi‑Fi или мобилну мрежу вам помаже да брзо подесите {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}.
+
+Ако не успоставите везу, не можете:
+
+"<ul><li>да се пријављујете на Google налог</li>"
+
+"<li>да враћате апликације и податке</li>"
+
+"<li>да преузимате SIM</li>"
+
+"<li>да добијате ажурирања софтвера</li>"
+
+"<li>да аутоматски подешавате време и датум</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Приступна тачка је привремено заузета</string>
+    <string name="wifi_check_password_try_again">Проверите лозинку и пробајте поново</string>
+    <string name="wifi_connected_no_internet">Веза је успостављена, нема интернета</string>
+    <string name="wifi_disabled_by_recommendation_provider">Није повезано због лошег квалитета мреже</string>
+    <string name="wifi_disabled_generic">Онемогућено</string>
+    <string name="wifi_disabled_network_failure">IP конфигурација је отказала</string>
+    <string name="wifi_disabled_password_failure">Проблем са потврдом идентитета</string>
+    <string name="wifi_fail_to_scan">Није могуће скенирати мреже</string>
+    <string name="wifi_ip_address_not_available">Недоступна</string>
+    <string name="wifi_ip_address_title">IP адреса</string>
+    <string name="wifi_limited_connection">Ограничена веза</string>
+    <string name="wifi_mac_address_not_available">Недоступна</string>
+    <string name="wifi_mac_address_title">MAC адреса</string>
+    <string name="wifi_metered_label">Са ограничењем</string>
+    <string name="wifi_no_internet">Нема приступа интернету</string>
+    <string name="wifi_no_internet_no_reconnect">Аутоматско повезивање није успело</string>
+    <string name="wifi_not_in_range">Није у опсегу</string>
+    <string name="wifi_remembered">Сачувано</string>
+    <string name="wifi_scanning">Траже се Wi-Fi мреже...</string>
+    <string name="wifi_set_up_offline_title">Желите да подесите офлајн?</string>
+    <string name="wifi_skip_button_label">Подеси офлајн</string>
+    <string name="wifi_skipped_message">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} ће користити мобилну мрежу током подешавања и та потрошња података ће вам можда бити наплаћена. Да бисте избегли могуће трошкове, повежите се на Wi‑Fi.</string>
+    <string name="wifi_skipped_title">Могући трошкови за пренос података</string>
+    <string name="wifi_title">Повежите се са Wi-Fi мрежом</string>
+    <string name="wifi_unmetered_label">Без ограничења</string>
+    <string name="work_profile_setup_description">Да бисте подесили овај уређај за посао и одвојили пословне од личних података</string>
+    <string name="work_profile_setup_next">Даље</string>
+    <string name="work_profile_setup_skip">Прескочи подешавање пословног налога</string>
+    <string name="work_profile_setup_title">Додајте пословни налог</string>
+    <string name="work_setup_interrupted">"Приметили смо неке неуобичајене активности на овом {DEVICE_TYPE,select, PHONE{телефону}TABLET{таблету}other{уређају}} и подаци могу да буду угрожени ако наставите са подешавањем.
+
+Да бисте почели из почетка, ресетујте овај {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}}."</string>
+    <string name="work_setup_interrupted_title">Овај {DEVICE_TYPE,select, PHONE{телефон}TABLET{таблет}other{уређај}} можда није безбедан</string>
+</resources>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Скенирано је %1$d ставки</item>
+        <item quantity="one">Скенирана је %1$d ставка</item>
+        <item quantity="few">Скениране су %1$d ставке</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Нова величина албума би била већа од актуелног ограничења од %1$d ставки.</item>
+        <item quantity="one">Нова величина албума би била већа од актуелног ограничења од %1$d ставке.</item>
+        <item quantity="few">Нова величина албума би била већа од актуелног ограничења од %1$d ставке.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Албум би имао %1$d ставки.</item>
+        <item quantity="one">Албум би имао %1$d ставку.</item>
+        <item quantity="few">Албум би имао %1$d ставке.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">Додато је %d локација</item>
+        <item quantity="one">Додата је %d локација</item>
+        <item quantity="few">Додате су %d локације</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d локација</item>
+        <item quantity="one">%d локацију</item>
+        <item quantity="few">%d локације</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d мапа</item>
+        <item quantity="one">%d мапу</item>
+        <item quantity="few">%d мапе</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Додато је %d мапа</item>
+        <item quantity="one">Додата је %d мапа</item>
+        <item quantity="few">Додате су %d мапе</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Уклањају се ставке из овог албума…</item>
+        <item quantity="one">Уклањају се ставке из овог албума…</item>
+        <item quantity="few">Уклањају се ставке из овог албума…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Уклоњено је %d ставки</item>
+        <item quantity="one">Уклоњена је %d ставка</item>
+        <item quantity="few">Уклоњене су %d ставке</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Уклањају се слике из овог албума…</item>
+        <item quantity="one">Уклањају се слике из овог албума…</item>
+        <item quantity="few">Уклањају се слике из овог албума…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Уклањају се видео снимци из овог албума…</item>
+        <item quantity="one">Уклањају се видео снимци из овог албума…</item>
+        <item quantity="few">Уклањају се видео снимци из овог албума…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ставки</item>
+        <item quantity="one">%1$d ставка</item>
+        <item quantity="few">%1$d ставке</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+        <item quantity="few">%d ставке</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Избриши са уређаја (%d)</item>
+        <item quantity="one">Избриши са уређаја (%d)</item>
+        <item quantity="few">Избриши са уређаја (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Избриши све са уређаја (%d)</item>
+        <item quantity="one">Избриши све са уређаја (%d)</item>
+        <item quantity="few">Избриши све са уређаја (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Премести у отпад (%d)</item>
+        <item quantity="one">Премести у отпад (%d)</item>
+        <item quantity="few">Премести у отпад (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d је архивирано</item>
+        <item quantity="one">%d је архивирана</item>
+        <item quantity="few">%d су архивиране</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d је враћено из архиве</item>
+        <item quantity="one">%d је враћена из архиве</item>
+        <item quantity="few">%d су враћене из архиве</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s и још %3$d</item>
+        <item quantity="one">%1$s, %2$s и још %3$d</item>
+        <item quantity="few">%1$s, %2$s и још %3$d</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s и још %2$d</item>
+        <item quantity="one">%1$s и још %2$d</item>
+        <item quantity="few">%1$s и још %2$d</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">Изабрано је %d</item>
+        <item quantity="one">Изабрана је %d</item>
+        <item quantity="few">Изабране су %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">Отпрема се %d ставки</item>
+        <item quantity="one">Отпрема се %d ставка</item>
+        <item quantity="few">Отпремају се %d ставке</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d ставки нема резервну копију јер је простор налога попуњен</item>
+        <item quantity="one">%d ставка нема резервну копију јер је простор налога попуњен</item>
+        <item quantity="few">%d ставке немају резервну копију јер је простор налога попуњен</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">Преостало је %d ставки</item>
+        <item quantity="one">Преостала је %d ставка</item>
+        <item quantity="few">Преостале су %d ставке</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d ставки је без резервне копије</item>
+        <item quantity="one">%d ставка је без резервне копије</item>
+        <item quantity="few">%d ставке су без резервне копије</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">Преостало је %d ставки • Висок квалитет</item>
+        <item quantity="one">Преостала је %d ставка • Висок квалитет</item>
+        <item quantity="few">Преостале су %d ставке • Висок квалитет</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">Преостало је %d ставки • Оригиналан квалитет</item>
+        <item quantity="one">Преостала је %d ставка • Оригиналан квалитет</item>
+        <item quantity="few">Преостале су %d ставке • Оригиналан квалитет</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Отпрема се %d ставки</item>
+        <item quantity="one">Отпрема се %d ставка</item>
+        <item quantity="few">Отпремају се %d ставке</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Преостало је %d ставки</item>
+        <item quantity="one">Преостала је %d ставка</item>
+        <item quantity="few">Преостале су %d ставке</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d ставки је без резервне копије</item>
+        <item quantity="one">%d ставка је без резервне копије</item>
+        <item quantity="few">%d ставке су без резервне копије</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">Није направљена резервна копија %1$d слика</item>
+        <item quantity="one">Није направљена резервна копија %1$d слике</item>
+        <item quantity="few">Није направљена резервна копија %1$d слике</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Прави се рез. копија %d ставки</item>
+        <item quantity="one">Прави се рез. копија %d ставке</item>
+        <item quantity="few">Прави се рез. копија %d ставке</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Отпрема се %d ставки</item>
+        <item quantity="one">Отпрема се %d ставка</item>
+        <item quantity="few">Отпремају се %d ставке</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Отпрема се %d видеa</item>
+        <item quantity="one">Отпрема се %d видео</item>
+        <item quantity="few">Отпремају се %d видеa</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d ставки за отпремање</item>
+        <item quantity="one">%d ставка за отпремање</item>
+        <item quantity="few">%d ставке за отпремање</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d видеa за отпремање</item>
+        <item quantity="one">%d видео за отпремање</item>
+        <item quantity="few">%d видеa за отпремање</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d слика нема резервну копију</item>
+        <item quantity="one">%d слика нема резервну копију</item>
+        <item quantity="few">%d слике немају резервну копију</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Све слике (%d)</item>
+        <item quantity="one">Све слике (%d)</item>
+        <item quantity="few">Све слике (%d)</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">Нису направљене резервне копије %1$d ставки јер је меморијски простор налога попуњен</item>
+        <item quantity="one">Нису направљене резервне копије %1$d ставке јер је меморијски простор налога попуњен</item>
+        <item quantity="few">Нису направљене резервне копије %1$d ставке јер је меморијски простор налога попуњен</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">Није направљена резервна копија %1$d слика јер сте остали без меморијског простора</item>
+        <item quantity="one">Није направљена резервна копија %1$d слике јер сте остали без меморијског простора</item>
+        <item quantity="few">Није направљена резервна копија %1$d слике јер сте остали без меморијског простора</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d ставки је додато</item>
+        <item quantity="one">%1$d ставка је додата</item>
+        <item quantity="few">%1$d ставке су додате</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Изаберите највише %d ставки.</item>
+        <item quantity="one">Изаберите највише %d ставку.</item>
+        <item quantity="few">Изаберите највише %d ставке.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Изаберите најмање %d ставки.</item>
+        <item quantity="one">Изаберите најмање %d ставку.</item>
+        <item quantity="few">Изаберите најмање %d ставке.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Изаберите ставке из периода од %d дана.</item>
+        <item quantity="one">Изаберите ставке из периода од %d дана.</item>
+        <item quantity="few">Изаберите ставке из периода од %d дана.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Пре %d дана</item>
+        <item quantity="one">Пре %d дан</item>
+        <item quantity="few">Пре %d дана</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Пре %d сати</item>
+        <item quantity="one">Пре %d сат</item>
+        <item quantity="few">Пре %d сата</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d нед</item>
+        <item quantity="one">%d нед</item>
+        <item quantity="few">%d нед</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Пре %d недеља</item>
+        <item quantity="one">Пре %d недељу</item>
+        <item quantity="few">Пре %d недеље</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре %d минут</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d д</item>
+        <item quantity="one">%d д</item>
+        <item quantity="few">%d д</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Пре %d дана</item>
+        <item quantity="one">Пре %d дан</item>
+        <item quantity="few">Пре %d дана</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Уклоните %1$d ставки са уређаја</item>
+        <item quantity="one">Уклоните %1$d ставку са уређаја</item>
+        <item quantity="few">Уклоните %1$d ставке са уређаја</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Уклања се %1$d оригиналних слика и видео снимака</item>
+        <item quantity="one">Уклања се %1$d оригинална слика и видео</item>
+        <item quantity="few">Уклањају се %1$d оригиналне слике и видео снимка</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+        <item quantity="few">%d ставке</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d нових картица</item>
+        <item quantity="one">%d нова картица</item>
+        <item quantity="few">%d нове картице</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">Додато је %d ставки</item>
+        <item quantity="one">Додата је %d ставка</item>
+        <item quantity="few">Додате су %d ставке</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d новости</item>
+        <item quantity="one">%1$d новост</item>
+        <item quantity="few">%1$d новости</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Прегледали су %1$s, %2$s и још %3$d</item>
+        <item quantity="one">Прегледали су %1$s, %2$s и још %3$d</item>
+        <item quantity="few">Прегледали су %1$s, %2$s и још %3$d</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d коментара</item>
+        <item quantity="one">%1$d коментар</item>
+        <item quantity="few">%1$d коментара</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Чувамо ставке у фототеци…</item>
+        <item quantity="one">Чувамо ставке у фототеци…</item>
+        <item quantity="few">Чувамо ставке у фототеци…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s каже да му/јој се свиђа %2$d слика • %3$s</item>
+        <item quantity="one">%1$s каже да му/јој се свиђа %2$d слика • %3$s</item>
+        <item quantity="few">%1$s каже да му/јој се свиђају %2$d слике • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s каже да му/јој се свиђа %2$d видеа • %3$s</item>
+        <item quantity="one">%1$s каже да му/јој се свиђа %2$d видео • %3$s</item>
+        <item quantity="few">%1$s каже да му/јој се свиђају %2$d видеа • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">изабрали %d ставки</item>
+        <item quantity="one">изабрали %d ставку</item>
+        <item quantity="few">изабрали %d ставке</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Избришите директоријум и %d ставки у њему</item>
+        <item quantity="one">Избришите директоријум и %d ставку у њему</item>
+        <item quantity="few">Избришите директоријум и %d ставке у њему</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Избриши са уређаја (%d)</item>
+        <item quantity="one">Избриши са уређаја (%d)</item>
+        <item quantity="few">Избриши са уређаја (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Проблем при копирању %d ставки</item>
+        <item quantity="one">Проблем при копирању %d ставке</item>
+        <item quantity="few">Проблем при копирању %d ставке</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">Копирано је %d ставки</item>
+        <item quantity="one">Копирана је %d ставка</item>
+        <item quantity="few">Копиране су %d ставке</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Проблем при премештању %d ставки</item>
+        <item quantity="one">Проблем при премештању %d ставке</item>
+        <item quantity="few">Проблем при премештању %d ставке</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">Премештено је %d ставки</item>
+        <item quantity="one">Премештена је %d ставка</item>
+        <item quantity="few">Премештене су %d ставке</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d препоручених снимака</item>
+        <item quantity="one">%d препоручени снимак</item>
+        <item quantity="few">%d препоручена снимка</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">Пре %d година</item>
+        <item quantity="one">Пре %d годину</item>
+        <item quantity="few">Пре %d године</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Ротирајте за %d степени супротно од смера кретања казаљке на сату</item>
+        <item quantity="one">Ротирајте за %d степен супротно од смера кретања казаљке на сату</item>
+        <item quantity="few">Ротирајте за %d степена супротно од смера кретања казаљке на сату</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Слике на којима је %d особа</item>
+        <item quantity="one">Слике на којима је %d особа</item>
+        <item quantity="few">Слике на којима су %d особе</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Слике %d изабраних лица</item>
+        <item quantity="one">Слике %d изабраног лица</item>
+        <item quantity="few">Слике %d изабрана лица</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Изабрано је %d</item>
+        <item quantity="one">Изабрана је %d</item>
+        <item quantity="few">Изабране су %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d лица је изабрано</item>
+        <item quantity="one">%d лице је изабрано</item>
+        <item quantity="few">%d лица су изабрана</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Слике %1$d изабраних лица, од %2$s</item>
+        <item quantity="one">Слике %1$d изабраног лица, од %2$s</item>
+        <item quantity="few">Слике %1$d изабрана лица, од %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Слике %d изабраних лица</item>
+        <item quantity="one">Слике %d изабраног лица</item>
+        <item quantity="few">Слике %d изабрана лица</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Уклоњено је %1$d слика</item>
+        <item quantity="one">Уклоњена је %1$d слика</item>
+        <item quantity="few">Уклоњене су %1$d слике</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Изаберите само %d особа</item>
+        <item quantity="one">Изаберите само %d особу</item>
+        <item quantity="few">Изаберите само %d особе</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d слика</item>
+        <item quantity="one">%1$d слика</item>
+        <item quantity="few">%1$d слике</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">Изабрано је %d ставки</item>
+        <item quantity="one">Изабрана је %d ставка</item>
+        <item quantity="few">Изабране су %d ставке</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Можете да одштампате само %d слика,</item>
+        <item quantity="one">Можете да одштампате само %d слику,</item>
+        <item quantity="few">Можете да одштампате само %d слике,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">предложено вам је %d слика</item>
+        <item quantity="one">предложена вам је %d слика</item>
+        <item quantity="few">предложене су вам %d слике</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d слика је предложено</item>
+        <item quantity="one">%d слика је предложена</item>
+        <item quantity="few">%d слике су предложене</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d страница вишка</item>
+        <item quantity="one">%d страница вишка</item>
+        <item quantity="few">%d странице вишка</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d страница</item>
+        <item quantity="one">%d страница</item>
+        <item quantity="few">%d странице</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Додајте још %d слика да бисте купили фото-албум</item>
+        <item quantity="one">Додајте још %d слику да бисте купили фото-албум</item>
+        <item quantity="few">Додајте још %d слике да бисте купили фото-албум</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">Додали сте %d страница</item>
+        <item quantity="one">Додали сте %d страницу</item>
+        <item quantity="few">Додали сте %d странице</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Додато је %d слика</item>
+        <item quantity="one">Додата је %d слика</item>
+        <item quantity="few">Додате су %d слике</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">Уклонили сте %d страница</item>
+        <item quantity="one">Уклонили сте %d страницу</item>
+        <item quantity="few">Уклонили сте %d странице</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d слика је уклоњено</item>
+        <item quantity="one">%d слика је уклоњена</item>
+        <item quantity="few">%d слике су уклоњене</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d страница вишка</item>
+        <item quantity="one">%d страница вишка</item>
+        <item quantity="few">%d странице вишка</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d страница</item>
+        <item quantity="one">%d страница</item>
+        <item quantity="few">%d странице</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">Додато је %1$d слика величине %2$s</item>
+        <item quantity="one">Додата је %1$d слика величине %2$s</item>
+        <item quantity="few">Додате су %1$d слике величине %2$s</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Можете да изаберете само %1$d одштампаних слика величине %2$s по поруџбини</item>
+        <item quantity="one">Можете да изаберете само %1$d одштампану слику величине %2$s по поруџбини</item>
+        <item quantity="few">Можете да изаберете само %1$d одштампане слике величине %2$s по поруџбини</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Треба вам бар %1$d слика да бисте наставили са радном верзијом.</item>
+        <item quantity="one">Треба вам бар %1$d слика да бисте наставили са радном верзијом.</item>
+        <item quantity="few">Требају вам бар %1$d слике да бисте наставили са радном верзијом.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d одштампаних слика</item>
+        <item quantity="one">%1$d одштампана слика</item>
+        <item quantity="few">%1$d одштампане слике</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">Преузетих ставки: %1$d од %2$d</item>
+        <item quantity="one">Преузетих ставки: %1$d од %2$d</item>
+        <item quantity="few">Преузетих ставки: %1$d од %2$d</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Желите ли да вратите %d ставки?</item>
+        <item quantity="one">Желите ли да вратите %d ставку?</item>
+        <item quantity="few">Желите ли да вратите %d ставке?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">На уређај је враћено %1$d недавних ставки</item>
+        <item quantity="one">На уређај је враћена %1$d недавна ставка</item>
+        <item quantity="few">На уређај су враћене %1$d недавне ставке</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">Враћено је %1$d слика и видео снимака</item>
+        <item quantity="one">Враћена је %1$d слика и видео</item>
+        <item quantity="few">Враћене су %1$d слике и видео снимка</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d слика</item>
+        <item quantity="one">%d слика</item>
+        <item quantity="few">%d слике</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d ставки је додато у албум</item>
+        <item quantity="one">%d ставка је додата у албум</item>
+        <item quantity="few">%d ставке су додате у албум</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Отпрема се %d ставки</item>
+        <item quantity="one">Отпрема се %d ставка</item>
+        <item quantity="few">Отпремају се %d ставке</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d ставки ће бити отпремљено кад се повежете</item>
+        <item quantity="one">%d ставка ће бити отпремљена кад се повежете</item>
+        <item quantity="few">%d ставке ће бити отпремљене кад се повежете</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Стварних датотека</item>
+        <item quantity="one">Стварна датотека</item>
+        <item quantity="few">Стварне датотеке</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Датотека</item>
+        <item quantity="one">Датотека</item>
+        <item quantity="few">Датотеке</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Малих датотека</item>
+        <item quantity="one">Мала датотека</item>
+        <item quantity="few">Мале датотеке</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s и још %2$d особа</item>
+        <item quantity="one">%1$s и још %2$d особа</item>
+        <item quantity="few">%1$s и још %2$d особе</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+        <item quantity="few">%d ставке</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Желите ли да додате %d повезаних слика?</item>
+        <item quantity="one">Желите ли да додате %d повезану слику?</item>
+        <item quantity="few">Желите ли да додате %d повезане слике?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">Аутоматски је додато %1$d слика</item>
+        <item quantity="one">Аутоматски је додата %1$d слика</item>
+        <item quantity="few">Аутоматски су додате %1$d слике</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d нових слика</item>
+        <item quantity="one">%1$d нова слика</item>
+        <item quantity="few">%1$d нове слике</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s је додао/ла %2$d нових слика</item>
+        <item quantity="one">%1$s је додао/ла %2$d нову слику</item>
+        <item quantity="few">%1$s је додао/ла %2$d нове слике</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Брисање ставки није могуће</item>
+        <item quantity="one">Брисање ставки није могуће</item>
+        <item quantity="few">Брисање ставки није могуће</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Није успело брисање %d ставки</item>
+        <item quantity="one">Није успело брисање %d ставке</item>
+        <item quantity="few">Није успело брисање %d ставке</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Није успело трајно брисање %d ставки</item>
+        <item quantity="one">Није успело трајно брисање %d ставке</item>
+        <item quantity="few">Није успело трајно брисање %d ставке</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d ставки је избрисано са уређаја</item>
+        <item quantity="one">%d ставка је избрисана са уређаја</item>
+        <item quantity="few">%d ставке су избрисане са уређаја</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Ставке се враћају…</item>
+        <item quantity="one">Ставке се враћају…</item>
+        <item quantity="few">Ставке се враћају…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Није успело враћање %d ставки</item>
+        <item quantity="one">Није успело враћање %d ставке</item>
+        <item quantity="few">Није успело враћање %d ставке</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Желите ли да трајно избришете ставке?</item>
+        <item quantity="one">Желите ли да трајно избришете ставке?</item>
+        <item quantity="few">Желите ли да трајно избришете ставке?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Трајно избриши %d ставки</item>
+        <item quantity="one">Трајно избриши %d ставку</item>
+        <item quantity="few">Трајно избриши %d ставке</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Ова верзија истиче за %d дана. Да бисте наставили да користите Google слике, ажурирајте их.</item>
+        <item quantity="one">Ова верзија истиче за %d дан. Да бисте наставили да користите Google слике, ажурирајте их.</item>
+        <item quantity="few">Ова верзија истиче за %d дана. Да бисте наставили да користите Google слике, ажурирајте их.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Отпрема се %d ставки</item>
+        <item quantity="one">Отпрема се %d ставка</item>
+        <item quantity="few">Отпремају се %d ставке</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d ставки ће бити отпремљено кад се успостави веза</item>
+        <item quantity="one">%d ставка ће бити отпремљена кад се успостави веза</item>
+        <item quantity="few">%d ставке ће бити отпремљене кад се успостави веза</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d ставки ће бити отпремљено кад се успостави Wi-Fi веза</item>
+        <item quantity="one">%d ставка ће бити отпремљена кад се успостави Wi-Fi веза</item>
+        <item quantity="few">%d ставке ће бити отпремљене кад се успостави Wi-Fi веза</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Отпрема се… Преостало је %d датотека</item>
+        <item quantity="one">Отпрема се… Преостала је %d датотека</item>
+        <item quantity="few">Отпрема се… Преостале су %d датотеке</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d датотека</item>
+        <item quantity="one">%d датотека</item>
+        <item quantity="few">%d датотеке</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s слика</item>
+        <item quantity="one">%s слика</item>
+        <item quantity="few">%s слике</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ставки</item>
+        <item quantity="one">%s ставка</item>
+        <item quantity="few">%s ставке</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s видеа</item>
+        <item quantity="one">%s видео</item>
+        <item quantity="few">%s видеа</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Изаберите слике</item>
+        <item quantity="one">Изаберите слике</item>
+        <item quantity="few">Изаберите слике</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Изаберите ставке</item>
+        <item quantity="one">Изаберите ставке</item>
+        <item quantity="few">Изаберите ставке</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Изаберите видео снимке</item>
+        <item quantity="one">Изаберите видео снимке</item>
+        <item quantity="few">Изаберите видео снимке</item>
+    </plurals>
+</resources>

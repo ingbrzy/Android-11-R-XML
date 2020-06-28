@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Det gick inte att slutföra konfigureringen eftersom installationen av %1$d obligatoriska appar misslyckades. Vänd dig direkt till systemadministratören.</item>
+        <item quantity="one">Det gick inte att slutföra konfigureringen eftersom installationen av %1$d obligatorisk app misslyckades. Vänd dig direkt till systemadministratören.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Det gick inte att installera apparna</item>
+        <item quantity="one">Det gick inte att installera appen</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d av %2$d appar har installerats</item>
+        <item quantity="one">%1$d av %2$d app har installerats</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Avinstallera appar</item>
+        <item quantity="one">Avinstallera app</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dagar kvar</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dag kvar</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> timmar kvar</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> timme kvar</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d av %2$d appar har installerats</item>
+        <item quantity="one">%1$d av %2$d app har installerats</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Det finns %1$d tillgängliga appar (%2$d har installerats, %3$d har inaktiverats)</item>
+        <item quantity="one">Det finns %1$d tillgänglig app (%2$d har installerats, %3$d har inaktiverats)</item>
+    </plurals>
+</resources>

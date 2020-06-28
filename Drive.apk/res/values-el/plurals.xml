@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Εμφάνιση %1$d στοιχείων.</item>
+        <item quantity="one">Εμφάνιση %1$d στοιχείου.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d σχόλια</item>
+        <item quantity="one">%1$d σχόλιο</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Στοιχεία ενεργειών: %1$d συμπληρωματικά στοιχεία</item>
+        <item quantity="one">Στοιχεία ενεργειών: %1$d συμπληρωματικό στοιχείο</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Τα στοιχεία διαγράφηκαν οριστικά</item>
+        <item quantity="one">Το στοιχείο διαγράφηκε οριστικά</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">Τα %s δεν είναι έγκυρες διευθύνσεις ηλεκτρονικού ταχυδρομείου.</item>
+        <item quantity="one">Το %s δεν είναι έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Αν προσθέσετε αυτά τα αρχεία, θα χρησιμοποιούνται από κοινού από όλους όσους έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+        <item quantity="one">Αν προσθέσετε αυτό το αρχείο, θα χρησιμοποιείται από κοινού από όλους όσους έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Αν προσθέσετε αυτούς τους φακέλους, θα χρησιμοποιούνται από κοινού από όλους όσους έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+        <item quantity="one">Αν προσθέσετε αυτόν τον φάκελο, θα χρησιμοποιείται από κοινού από όλους όσους έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Κοινή χρήση αυτών των αρχείων;</item>
+        <item quantity="one">Κοινή χρήση αυτού του αρχείου;</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Κοινή χρήση αυτών των φακέλων;</item>
+        <item quantity="one">Κοινή χρήση αυτού του φακέλου;</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Ενημερώθηκαν %1$d φάκελοι. Το χρώμα είναι: %2$s.</item>
+        <item quantity="one">Ενημερώθηκε %1$d φάκελος. Το χρώμα είναι: %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Εφαρμογή φίλτρων:</item>
+        <item quantity="one">Εφαρμογή φίλτρου:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Αυτό το αντίγραφο ασφαλείας θα λήξει σε %1$d ημέρες αν η συσκευή παραμείνει αδρανής.</item>
+        <item quantity="one">Αυτό το αντίγραφο ασφαλείας θα λήξει σε %1$d ημέρα αν η συσκευή παραμείνει αδρανής.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Τα αντίγραφα ασφαλείας διαγράφηκαν.</item>
+        <item quantity="one">Το αντίγραφο ασφαλείας διαγράφηκε.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d στήλες.</item>
+        <item quantity="one">%1$d στήλη.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d σταθεροποιημένες στήλες.</item>
+        <item quantity="one">%1$d σταθεροποιημένη στήλη.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d σταθεροποιημένες σειρές.</item>
+        <item quantity="one">%1$d σταθεροποιημένη σειρά.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d σειρές.</item>
+        <item quantity="one">%1$d σειρά.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s για %2$d στοιχεία</item>
+        <item quantity="one">%1$s για %2$d στοιχείο</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s απαντήσεις</item>
+        <item quantity="one">%1$s απάντηση</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Δεν ήταν δυνατή η λήψη των στοιχείων</item>
+        <item quantity="one">Δεν ήταν δυνατή η λήψη του στοιχείου</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Θα γίνει λήψη %1$d στοιχείων. Δείτε την ειδοποίηση για λεπτομέρειες.</item>
+        <item quantity="one">Θα γίνει λήψη %1$d στοιχείου. Δείτε την ειδοποίηση για λεπτομέρειες.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Θα γίνει λήψη %1$d στοιχείων.</item>
+        <item quantity="one">Θα γίνει λήψη %1$d στοιχείου.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s και %2$d ακόμη στοιχεία</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Δεν ήταν δυνατή η λήψη %1$s στοιχείων</item>
+        <item quantity="one">Δεν ήταν δυνατή η λήψη %1$s στοιχείου</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d ακόμη στοιχεία</item>
+        <item quantity="one">%1$d ακόμη στοιχείο</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Απέτυχαν %1$d λήψεις από τις %2$d συνολικά</item>
+        <item quantity="one">Απέτυχε %1$d λήψη από τις %2$d συνολικά</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Σφάλμα κατά τη μετακίνηση των αρχείων.</item>
+        <item quantity="one">Σφάλμα κατά τη μετακίνηση του αρχείου.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d προσκεκλημένοι</item>
+        <item quantity="one">%d προσκεκλημένος</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d συντομεύσεις προστέθηκαν στον φάκελο %1$s</item>
+        <item quantity="one">Προστέθηκε συντόμευση στον φάκελο %1$s</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Δεν είναι δυνατή η προσθήκη συντομεύσεων. Δοκιμάστε ξανά</item>
+        <item quantity="one">Δεν είναι δυνατή η προσθήκη συντόμευσης. Δοκιμάστε ξανά</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτών των στοιχείων μαζί τους. Τα μέλη του \"%2$s\" θα κερδίσουν πρόσβαση σε αυτά τα στοιχεία.</item>
+        <item quantity="one">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτού του στοιχείου μαζί τους. Τα μέλη του \"%2$s\" θα κερδίσουν πρόσβαση σε αυτό το στοιχείο.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτών των στοιχείων μαζί τους. Τα μέλη του \"%2$s\" θα κερδίσουν πρόσβαση σε αυτά τα στοιχεία. Έχετε μόνο άδεια προσθήκης και επεξεργασίας στοιχείων στο \"%3$s\". Επομένως, δεν θα μπορείτε να αναιρέσετε αυτήν την ενέργεια.</item>
+        <item quantity="one">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτού του στοιχείου μαζί τους. Τα μέλη του \"%2$s\" θα κερδίσουν πρόσβαση σε αυτό το στοιχείο. Έχετε μόνο άδεια προσθήκης και επεξεργασίας στοιχείων στο \"%3$s\". Επομένως, δεν θα μπορείτε να αναιρέσετε αυτήν την ενέργεια.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Ορισμένα από τα αρχεία που μετακινούνται στο \"%1$s\" ενεργοποίησαν εντοπισμούς DLP. Τα αρχεία αυτά ενδέχεται να περιέχουν ευαίσθητες πληροφορίες.</item>
+        <item quantity="one">Το αρχείο που μετακινείται στο \"%1$s\" ενεργοποίησε εντοπισμούς DLP. Το αρχείο αυτό ενδέχεται να περιέχει ευαίσθητες πληροφορίες.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτών των στοιχείων μαζί τους.</item>
+        <item quantity="one">Τα μέλη του \"%1$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτού του στοιχείου μαζί τους.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Η μετακίνηση αυτών των στοιχείων θα έχει ως αποτέλεσμα την κοινή χρήση τους με όλους τους χρήστες που μπορούν να δουν τον κοινόχρηστο φάκελο \"%1$s\". Τα μέλη του \"%2$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτών των στοιχείων μαζί τους.</item>
+        <item quantity="one">Η μετακίνηση αυτού του στοιχείου θα έχει ως αποτέλεσμα την κοινή χρήση του με όλους τους χρήστες που μπορούν να δουν τον κοινόχρηστο φάκελο \"%1$s\". Τα μέλη του \"%2$s\" θα χάσουν την πρόσβαση εκτός αν γίνει κοινή χρήση αυτού του στοιχείου μαζί τους.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Μετακινείτε μερικά στοιχεία εκτός κοινόχρηστων φακέλων, οπότε οι άλλοι χρήστες θα χάσουν την πρόσβαση σε αυτά τα στοιχεία.</item>
+        <item quantity="one">Μετακινείτε ένα στοιχείο από έναν κοινόχρηστο φάκελο, οπότε οι άλλοι χρήστες θα χάσουν την πρόσβαση σε αυτό το στοιχείο.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Οι επιπλέον περιορισμοί θα καταργηθούν από αυτά τα στοιχεία.</item>
+        <item quantity="one">Οι επιπλέον περιορισμοί θα καταργηθούν από αυτό το στοιχείο.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Η μετακίνηση αυτών των αρχείων θα έχει ως αποτέλεσμα την κοινή χρήση τους με όλους τους χρήστες που μπορούν να έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+        <item quantity="one">Η μετακίνηση αυτού του αρχείου θα έχει ως αποτέλεσμα την κοινή χρήση του με όλους τους χρήστες που μπορούν να έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Η μετακίνηση αυτών των φακέλων θα έχει ως αποτέλεσμα την κοινή χρήση τους με όλους τους χρήστες που μπορούν να έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+        <item quantity="one">Η μετακίνηση αυτού του φακέλου θα έχει ως αποτέλεσμα την κοινή χρήση του με όλους τους χρήστες που μπορούν να έχουν πρόσβαση στον κοινόχρηστο φάκελο %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Κοινή χρήση αυτών των αρχείων;</item>
+        <item quantity="one">Κοινή χρήση αυτού του αρχείου;</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Κοινή χρήση αυτών των φακέλων;</item>
+        <item quantity="one">Κοινή χρήση αυτού του φακέλου;</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Δεν έχετε άδεια να μετακινήσετε ορισμένα στοιχεία εκτός του κοινού Drive στο οποίο βρίσκονται.</item>
+        <item quantity="one">Δεν έχετε άδεια να μετακινήσετε αυτό το στοιχείο εκτός του κοινού Drive στο οποίο βρίσκεται.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Δεν έχετε την άδεια να μετακινήσετε ορισμένα στοιχεία έξω από τον φάκελό τους.</item>
+        <item quantity="one">Δεν έχετε την άδεια να μετακινήσετε αυτό το στοιχείο έξω από τον φάκελό του.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Δεν μπορείτε να μετακινήσετε αυτά τα αρχεία επειδή ο κάτοχος των αρχείων βρίσκεται εκτός του τομέα %1$s.</item>
+        <item quantity="one">Δεν μπορείτε να μετακινήσετε αυτό το αρχείο επειδή ο κάτοχος του αρχείου βρίσκεται εκτός του τομέα %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$sΤο \"%2$s\" έχει πλέον πρόσβαση σε αυτά.</item>
+        <item quantity="one">%1$sΤο \"%2$s\" έχει πλέον πρόσβαση σε αυτό.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d στοιχεία μετακινήθηκαν στο κοινό Drive. Τα μέλη μπορούν πλέον να έχουν πρόσβαση σε αυτά.</item>
+        <item quantity="one">1 στοιχείο μετακινήθηκε στο κοινό Drive. Τα μέλη μπορούν πλέον να έχουν πρόσβαση σε αυτό.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d στοιχεία μετακινήθηκαν από το κοινό Drive. Τα μέλη δεν έχουν πια πρόσβαση.</item>
+        <item quantity="one">%1$d στοιχείο μετακινήθηκε από το κοινό Drive. Τα μέλη δεν έχουν πια πρόσβαση.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d υπεύθυνοι έγκρισης</item>
+        <item quantity="one">1 υπεύθυνος έγκρισης</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s στοιχεία ενέργειας</item>
+        <item quantity="one">%1$s στοιχείο ενέργειας</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s αναφορές χωρίς απάντηση</item>
+        <item quantity="one">%1$s αναφορά χωρίς απάντηση</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s προτάσεις</item>
+        <item quantity="one">%1$s πρόταση</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s εκκρεμότητες</item>
+        <item quantity="one">%1$s εκκρεμότητα</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Τα στοιχεία διαγράφηκαν οριστικά</item>
+        <item quantity="one">Το στοιχείο διαγράφηκε οριστικά</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d από %2$s στοιχεία διαθέσιμα εκτός σύνδεσης.</item>
+        <item quantity="one">%1$d από %2$s είναι διαθέσιμο εκτός σύνδεσης.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Και τα %1$d αρχεία είναι διαθ. εκτός σύνδ.</item>
+        <item quantity="one">%1$d αρχείο είναι διαθέσιμο εκτός σύνδεσης.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Τα αρχεία δεν μπορούν να γίνουν διαθέσιμα εκτός σύνδεσης</item>
+        <item quantity="one">Το αρχείο δεν μπορεί να γίνει διαθέσιμο εκτός σύνδεσης</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Γίνονται διαθέσ. %1$d αρχεία εκτός σύνδεσης.</item>
+        <item quantity="one">Γίνεται διαθέσ. %1$d αρχείο εκτός σύνδεσης.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d αρχεία</item>
+        <item quantity="one">%1$d αρχείο</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Οι λήψεις τέθηκαν σε παύση, αναμονή για δίκτυο…</item>
+        <item quantity="one">Η λήψη τέθηκε σε παύση, αναμονή για δίκτυο…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Τέθηκαν σε παύση %1$d λήψεις.</item>
+        <item quantity="one">Τέθηκε σε παύση %1$d λήψη.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Οι λήψεις τέθηκαν σε παύση, αναμονή για Wi-Fi…</item>
+        <item quantity="one">Η λήψη τέθηκε σε παύση, αναμονή για Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d στοιχεία θα μετακινηθούν στον Κάδο απορριμμάτων. Με αυτήν την ενέργεια, τα στοιχεία θα καταργηθούν και από τις Φωτογραφίες Google.</item>
+        <item quantity="one">Ένα στοιχείο θα μετακινηθεί στον Κάδο απορριμμάτων. Με αυτήν την ενέργεια, το στοιχείο θα καταργηθεί και από τις Φωτογραφίες Google.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d στοιχεία θα μετακινηθούν στον Κάδο απορριμμάτων.</item>
+        <item quantity="one">Ένα στοιχείο θα μετακινηθεί στον Κάδο απορριμμάτων.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s στοιχεία παρακολούθησης</item>
+        <item quantity="one">%1$s στοιχείο παρακολούθησης</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s στοιχεία παρακολούθησης</item>
+        <item quantity="one">%1$s στοιχείο παρακολούθησης</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Παρακολούθησαν</item>
+        <item quantity="one">Παρακολούθησε</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Σχολίασαν σε %1$d αρχεία</item>
+        <item quantity="one">Σχολίασαν σε ένα αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Σχολίασε σε %1$d αρχεία</item>
+        <item quantity="one">Σχολίασε σε ένα αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Σχολίασαν σε αυτό το αρχείο</item>
+        <item quantity="one">Σχολίασε σε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Δημιούργησαν %1$d στοιχεία</item>
+        <item quantity="one">Δημιούργησαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Δημιούργησε %1$d στοιχεία</item>
+        <item quantity="one">Δημιούργησε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Δημιούργησαν αυτό το αρχείο</item>
+        <item quantity="one">Δημιούργησε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Δημιούργησαν αυτόν τον φάκελο</item>
+        <item quantity="one">Δημιούργησε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Επεξεργάστηκαν %1$d στοιχεία</item>
+        <item quantity="one">Επεξεργάστηκαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Επεξεργάστηκε %1$d στοιχεία</item>
+        <item quantity="one">Επεξεργάστηκε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Έκαναν τροποποιήσεις σε αυτό το αρχείο</item>
+        <item quantity="one">Έκανε τροποποιήσεις σε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Διέγραψε οριστικά %1$d στοιχεία</item>
+        <item quantity="one">Διέγραψε οριστικά ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Μετακίνησαν %1$d στοιχεία στο:</item>
+        <item quantity="one">Μετακίνησαν ένα στοιχείο στο:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Μετακίνησε %1$d στοιχεία στο:</item>
+        <item quantity="one">Μετακίνησε ένα στοιχείο στο:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Μετακίνησαν %1$d στοιχεία</item>
+        <item quantity="one">Μετακίνησαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Μετακίνησε %1$d στοιχεία</item>
+        <item quantity="one">Μετακίνησε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Μετακίνησαν αυτό το αρχείο</item>
+        <item quantity="one">Μετακίνησε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Μετακίνησαν αυτό το αρχείο σε:</item>
+        <item quantity="one">Μετακίνησε αυτό το αρχείο σε:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Μετακίνησαν αυτόν τον φάκελο</item>
+        <item quantity="one">Μετακίνησε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Μετακίνησαν αυτόν τον φάκελο σε:</item>
+        <item quantity="one">Μετακίνησε αυτόν τον φάκελο σε:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Μετονόμασαν %1$d στοιχεία</item>
+        <item quantity="one">Μετονόμασαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Μετονόμασε %1$d στοιχεία</item>
+        <item quantity="one">Μετονόμασε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Μετονόμασαν αυτό το αρχείο</item>
+        <item quantity="one">Μετονόμασε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Μετονόμασαν αυτόν τον φάκελο</item>
+        <item quantity="one">Μετονόμασε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Μοιράστηκαν %1$d στοιχεία</item>
+        <item quantity="one">Μοιράστηκαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Μοιράστηκε %1$d στοιχεία</item>
+        <item quantity="one">Μοιράστηκε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Κοινοποίησαν αυτό το αρχείο</item>
+        <item quantity="one">Κοινοποίησε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Μοιράστηκαν αυτόν τον φάκελο</item>
+        <item quantity="one">Μοιράστηκε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Μετακίνησαν %1$d στοιχεία στον κάδο απορριμμάτων</item>
+        <item quantity="one">Μετακίνησαν ένα στοιχείο στον κάδο απορριμμάτων</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Μετακίνησε %1$d στοιχεία στον κάδο απορριμμάτων</item>
+        <item quantity="one">Μετακίνησε ένα στοιχείο στον κάδο απορριμμάτων</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Κατάργησαν αυτό το αρχείο</item>
+        <item quantity="one">Κατάργησε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Κατάργησαν αυτόν τον φάκελο</item>
+        <item quantity="one">Κατάργησε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Ανέβασαν %1$d στοιχεία</item>
+        <item quantity="one">Ανέβασαν ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Ανέβασε %1$d στοιχεία</item>
+        <item quantity="one">Ανέβασε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Ανέβασαν αυτό το αρχείο</item>
+        <item quantity="one">Ανέβασε αυτό το αρχείο</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Ανέβασαν αυτόν τον φάκελο</item>
+        <item quantity="one">Ανέβασε αυτόν τον φάκελο</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d αρχεία θα μετακινηθούν στον Κάδο απορριμμάτων του %2$s και θα διαγραφούν οριστικά μετά από 30 ημέρες.</item>
+        <item quantity="one">Αυτό το αρχείο θα μετακινηθεί στον Κάδο απορριμμάτων του %2$s και θα διαγραφεί οριστικά μετά από 30 ημέρες</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d φάκελοι θα μετακινηθούν στον Κάδο απορριμμάτων του %2$s και θα διαγραφούν οριστικά μετά από 30 ημέρες.</item>
+        <item quantity="one">Ο φάκελος θα μετακινηθεί στον Κάδο απορριμμάτων του %2$s και θα διαγραφεί οριστικά μετά από 30 ημέρες</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d στοιχεία θα μετακινηθούν στον Κάδο απορριμάτων του %2$s και θα διαγραφούν οριστικά μετά από 30 ημέρες.</item>
+        <item quantity="one">Το στοιχείο θα μετακινηθεί στον Κάδο απορριμάτων του %2$s και θα διαγραφεί οριστικά μετά από 30 ημέρες</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Αυτά τα %1$d αρχεία θα &lt;b>διαγραφούν οριστικά για όλους.&lt;/b> Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</item>
+        <item quantity="one">Αυτό το αρχείο θα &lt;b>διαγραφεί οριστικά για όλους.&lt;/b> Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Αυτά τα %1$d αρχεία θα διαγραφούν οριστικά. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.</item>
+        <item quantity="one">Αυτό το αρχείο θα διαγραφεί οριστικά. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Καταργήθηκε η επιλογή %1$d στοιχείων</item>
+        <item quantity="one">Καταργήθηκε η επιλογή %1$d στοιχείου</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Τα αρχεία θα γίνουν διαθέσιμα εκτός σύνδεσης</item>
+        <item quantity="one">Το αρχείο θα γίνει διαθέσιμο εκτός σύνδεσης</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d στοιχεία επισημάνθηκαν με αστέρι</item>
+        <item quantity="one">1 στοιχείο επισημάνθηκε με αστέρι</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Τα αρχεία δεν θα είναι πλέον διαθέσιμα εκτός σύνδεσης</item>
+        <item quantity="one">Το αρχείο δεν θα είναι πλέον διαθέσιμο εκτός σύνδεσης</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Καταργήθηκε αστέρι από %1$d στοιχεία</item>
+        <item quantity="one">Καταργήθηκε αστέρι από 1 στοιχείο</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">Καταργήθηκαν %1$d στοιχεία από το \"%2$s\"</item>
+        <item quantity="one">Καταργήθηκε 1 στοιχείο από το \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">Καταργήθηκαν %1$d στοιχεία από τον φάκελο</item>
+        <item quantity="one">Καταργήθηκε 1 στοιχείο από τον φάκελο</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Καταργήθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Καταργήθηκε 1 στοιχείο</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">Αναιρέθηκε η μετακίνηση %1$d στοιχείων</item>
+        <item quantity="one">Αναιρέθηκε η μετακίνηση 1 στοιχείου</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">Μετακινήθηκαν %1$d στοιχεία στον κάδο απορριμμάτων</item>
+        <item quantity="one">Μετακινήθηκε 1 στοιχείο στον κάδο απορριμμάτων</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Καταργήθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Καταργήθηκε 1 στοιχείο</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">Προστέθηκαν %1$d στοιχεία στο \"%2$s\"</item>
+        <item quantity="one">Προστέθηκε 1 στοιχείο στο \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">Προστέθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Προστέθηκε 1 στοιχείο</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων και προσθήκη στο \"%2$s\"</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου και προσθήκη στο \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">Μετακινήθηκαν %1$d στοιχεία στο \"%2$s\".</item>
+        <item quantity="one">Μετακινήθηκε 1 στοιχείο στο \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">Μετακινήθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Μετακινήθηκε 1 στοιχείο</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων και μετακίνησή τους στο \"%2$s\".</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου και μετακίνησή του στο \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων.</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">Έγινε επαναφορά %1$d στοιχείων στο \"%2$s\".</item>
+        <item quantity="one">Έγινε επαναφορά 1 στοιχείου στο \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Αποστολή αρχείων με</item>
+        <item quantity="one">Αποστολή αρχείου με</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$dάτομα έχουν πλέον πρόσβαση</item>
+        <item quantity="one">Ένα άτομο μπορεί πλέον να έχει πρόσβαση</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">Ο χρήστης %1$s και %2$d ακόμη χρήστες έχουν πλέον πρόσβαση</item>
+        <item quantity="one">Ο χρήστης %1$s και ένας ακόμη χρήστης έχουν πλέον πρόσβαση</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d χρήστες μπορούν πλέον να προσθέτουν σχόλια</item>
+        <item quantity="one">Ένας χρήστης μπορεί πλέον να προσθέτει σχόλια</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">Ο χρήστης %1$s και %2$d ακόμη μπορούν να προσθέτουν σχόλια</item>
+        <item quantity="one">Ο χρήστης %1$s και ένας ακόμη μπορούν να προσθέτουν σχόλια</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d χρήστες έχουν πλέον δυνατότητα επεξεργασίας</item>
+        <item quantity="one">Ένας χρήστης έχει πλέον δυνατότητα επεξεργασίας</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">Ο %1$s και %2$d ακόμη έχουν πλέον δυνατότητα επεξεργασίας</item>
+        <item quantity="one">Ο %1$s και ένας ακόμη έχουν δυνατότητα επεξεργασίας</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d χρήστες έχουν πλέον δυνατότητα προβολής</item>
+        <item quantity="one">Ένας χρήστης έχει πλέον δυνατότητα προβολής</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s και %2$d ακόμη έχουν πλέον δυνατότητα προβολής</item>
+        <item quantity="one">Ο %1$s και ένας ακόμη έχουν πλέον δυνατότητα προβολής</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Η αποθήκευση Drive λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Η αποθήκευση Drive λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">Προστέθηκαν %1$d άτομα στο κοινό Drive</item>
+        <item quantity="one">Προστέθηκε ένα άτομο στο κοινό Drive</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">Ο χρήστης %2$s και %3$d ακόμη χρήστες προστέθηκαν στο %1$s</item>
+        <item quantity="one">Ο χρήστης %2$s και ένας ακόμη χρήστης προστέθηκαν στο %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d μέλη</item>
+        <item quantity="one">1 μέλος</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Συνέχιση όλων τώρα</item>
+        <item quantity="one">Συνέχιση τώρα</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Ακυρώθηκε η μεταφόρτωση %1$d αρχείων.</item>
+        <item quantity="one">Ακυρώθηκε η μεταφόρτωση %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Δεν είναι δυνατός ο προγραμματισμός μεταφόρτωσης %1$d αρχείων.</item>
+        <item quantity="one">Δεν είναι δυνατός ο προγραμματισμός μεταφόρτωσης %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Έγινε μεταφόρτωση %1$d αρχείων.</item>
+        <item quantity="one">Έγινε μεταφόρτωση %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Αδύνατη η μεταφόρτωση %1$d από %2$d αρχεία.</item>
+        <item quantity="one">Αδύνατη η μεταφόρτωση %1$d από %2$d αρχείο.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Γίνεται μεταφόρτωση %1$d αρχείων.</item>
+        <item quantity="one">Γίνεται μεταφόρτωση %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Οι μεταφορτώσεις τέθηκαν σε παύση, αναμονή για δίκτυο…</item>
+        <item quantity="one">Η μεταφόρτωση τέθηκε σε παύση, αναμονή για δίκτυο…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Τέθηκαν σε παύση %1$d μεταφορτώσεις.</item>
+        <item quantity="one">Τέθηκε σε παύση %1$d μεταφόρτωση.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Οι μεταφορτώσεις τέθηκαν σε παύση, αναμονή για Wi-Fi…</item>
+        <item quantity="one">Η μεταφόρτωση τέθηκε σε παύση, αναμονή για Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Προετοιμασία %1$d αρχείων για μεταφόρτωση.</item>
+        <item quantity="one">Προετοιμασία %1$d αρχείου για μεταφόρτωση.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Γίνεται μεταφόρτωση %1$d αρχείων στον φάκελο: %2$s</item>
+        <item quantity="one">Γίνεται μεταφόρτωση %1$d αρχείου στον φάκελο: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Προβολή %1$d αρχείων</item>
+        <item quantity="one">Προβολή %1$d αρχείου</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Προβολή και των %1$d αρχείων στο %2$s</item>
+        <item quantity="one">Προβολή %1$d αρχείου στο %2$s</item>
+    </plurals>
+</resources>

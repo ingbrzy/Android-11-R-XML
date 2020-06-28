@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">必須のアプリ（%1$d 個）のインストールに失敗したため、セットアップを完了できません。システム管理者にお問い合わせください。</item>
+        <item quantity="one">必須のアプリ（%1$d 個）のインストールに失敗したため、セットアップを完了できません。システム管理者にお問い合わせください。</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">アプリをインストールできません</item>
+        <item quantity="one">アプリをインストールできません</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d 個のアプリをインストールしました</item>
+        <item quantity="one">%1$d/%2$d 個のアプリをインストールしました</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">アプリをアンインストール</item>
+        <item quantity="one">アプリをアンインストール</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">残り &lt;annotation id="numeric_time_left">^1&lt;/annotation> 日</item>
+        <item quantity="one">残り &lt;annotation id="numeric_time_left">^1&lt;/annotation> 日</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">残り &lt;annotation id="numeric_time_left">^1&lt;/annotation> 時間</item>
+        <item quantity="one">残り &lt;annotation id="numeric_time_left">^1&lt;/annotation> 時間</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d 個のアプリをインストールしました</item>
+        <item quantity="one">%1$d/%2$d 個のアプリをインストールしました</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">利用可能なアプリ: %1$d 個（インストール済み: %2$d 個、無効: %3$d 個）</item>
+        <item quantity="one">利用可能なアプリ: %1$d 個（インストール済み: %2$d 個、無効: %3$d 個）</item>
+    </plurals>
+</resources>

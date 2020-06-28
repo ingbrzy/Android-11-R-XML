@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">无法完成设置，因为系统无法安装 %1$d 个必要的应用。请直接与您的系统管理员联系。</item>
+        <item quantity="one">无法完成设置，因为系统无法安装 %1$d 个必要的应用。请直接与您的系统管理员联系。</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">无法安装应用</item>
+        <item quantity="one">无法安装应用</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">已安装 %1$d 个应用（共 %2$d 个）</item>
+        <item quantity="one">已安装 %1$d 个应用（共 %2$d 个）</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">卸载应用</item>
+        <item quantity="one">卸载应用</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">还剩 &lt;annotation id="numeric_time_left">^1&lt;/annotation> 天</item>
+        <item quantity="one">还剩 &lt;annotation id="numeric_time_left">^1&lt;/annotation> 天</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">还剩 &lt;annotation id="numeric_time_left">^1&lt;/annotation> 小时</item>
+        <item quantity="one">还剩 &lt;annotation id="numeric_time_left">^1&lt;/annotation> 小时</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">已安装 %1$d 个应用（共需安装 %2$d 个）</item>
+        <item quantity="one">已安装 %1$d 个应用（共需安装 %2$d 个）</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">可使用 %1$d 个应用（已安装 %2$d 个，已停用 %3$d 个）</item>
+        <item quantity="one">可使用 %1$d 个应用（已安装 %2$d 个，已停用 %3$d 个）</item>
+    </plurals>
+</resources>

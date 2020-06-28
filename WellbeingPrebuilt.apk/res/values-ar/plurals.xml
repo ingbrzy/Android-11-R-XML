@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">تمّ فتح التطبيق %s مرّة</item>
+        <item quantity="zero">تمّ فتح التطبيق %s مرّة</item>
+        <item quantity="one">تم فتح التطبيق مرة (%s)</item>
+        <item quantity="two">تمّ فتح التطبيق مرّتين (%s)</item>
+        <item quantity="few">تمّ فتح التطبيق %s مرّات</item>
+        <item quantity="many">تمّ فتح التطبيق %s مرّة</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">تتبقى %d دقيقة.</item>
+        <item quantity="zero">تتبقى %d دقيقة.</item>
+        <item quantity="one">تتبقى دقيقة واحدة (%d).</item>
+        <item quantity="two">تتبقى دقيقتان (%d).</item>
+        <item quantity="few">تتبقى %d دقائق.</item>
+        <item quantity="many">تتبقى %d دقيقة.</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">تم فتح التطبيق %1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="zero">تم فتح التطبيق %1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="one">تم فتح التطبيق مرة واحدة (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="two">تم فتح التطبيق مرتين (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="few">تم فتح التطبيق %1$s مرات ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="many">تم فتح التطبيق %1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="zero">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="one">، ومرة واحدة (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="two">، ومرتين (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="few">، و%1$s مرات ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="many">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="zero">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="one">، ومرة واحدة (%1$s) ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="two">، ومرتين (%1$s) ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="few">، و%1$s مرات ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="many">، و%1$s مرة ما بين الساعة %2$s والساعة %3$s.</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">تمّ تلقي %s إشعار</item>
+        <item quantity="zero">تمّ تلقي %s إشعار</item>
+        <item quantity="one">تمّ تلقي إشعار (%s)</item>
+        <item quantity="two">تمّ تلقي إشعارين (%s)</item>
+        <item quantity="few">تمّ تلقي %s إشعارات</item>
+        <item quantity="many">تمّ تلقي %s إشعارًا</item>
+    </plurals>
+    <plurals name="dashboard_timers_summary_text">
+        <item quantity="other">تم ضبط %d موقِّت.</item>
+        <item quantity="zero">تم ضبط %d موقِّت.</item>
+        <item quantity="one">تم ضبط موقِّت واحد (%d).</item>
+        <item quantity="two">تم ضبط موقِّتين (%d).</item>
+        <item quantity="few">تم ضبط %d موقِّتات.</item>
+        <item quantity="many">تم ضبط %d موقِّتًا.</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">إشعار</item>
+        <item quantity="zero">لا يوجد أي إشعارات</item>
+        <item quantity="one">إشعار واحد</item>
+        <item quantity="two">إشعاران</item>
+        <item quantity="few">إشعارات</item>
+        <item quantity="many">إشعارًا</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%s عدد مرّات فتح القفل</item>
+        <item quantity="zero">%s عدد مرّات فتح القفل</item>
+        <item quantity="one">%s عدد مرّات فتح القفل</item>
+        <item quantity="two">%s عدد مرّات فتح القفل</item>
+        <item quantity="few">%s عدد مرّات فتح القفل</item>
+        <item quantity="many">%s عدد مرّات فتح القفل</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">مرّة لإلغاء القفل</item>
+        <item quantity="zero">مرّة لإلغاء القفل</item>
+        <item quantity="one">مرّة لإلغاء القفل</item>
+        <item quantity="two">مرّتان لإلغاء القفل</item>
+        <item quantity="few">مرّات لإلغاء القفل</item>
+        <item quantity="many">مرّة لإلغاء القفل</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%s إشعار</item>
+        <item quantity="zero">%s إشعار</item>
+        <item quantity="one">إشعار (%s)</item>
+        <item quantity="two">إشعاران (%s)</item>
+        <item quantity="few">%s إشعارات</item>
+        <item quantity="many">%s إشعارًا</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">تم تلقّي %1$s إشعار ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="zero">تم تلقّي %1$s إشعار ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="one">تم تلقّي إشعار واحد (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="two">تم تلقّي إشعارين (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="few">تم تلقّي %1$s إشعارات ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="many">تم تلقّي %1$s إشعارًا ما بين الساعة %2$s والساعة %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">، و%1$s إشعار ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="zero">، و%1$s إشعار ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="one">، وإشعار واحد (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="two">، وإشعارين (%1$s) ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="few">، و%1$s إشعارات ما بين الساعة %2$s والساعة %3$s</item>
+        <item quantity="many">، و%1$s إشعارًا ما بين الساعة %2$s والساعة %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">، و%1$s إشعار ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="zero">، و%1$s إشعار ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="one">، وإشعار واحد (%1$s) ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="two">، وإشعارين (%1$s) ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="few">، و%1$s إشعارات ما بين الساعة %2$s والساعة %3$s.</item>
+        <item quantity="many">، و%1$s إشعارًا ما بين الساعة %2$s والساعة %3$s.</item>
+    </plurals>
+    <plurals name="parental_controls_has_supervised_members_description">
+        <item quantity="other">أنت تضبط أدوات الرقابة الأبوية في Family Link لـ %d طفل أو مراهق في مجموعة العائلة</item>
+        <item quantity="zero">أنت تضبط أدوات الرقابة الأبوية في Family Link لـ %d طفل أو مراهق في مجموعة العائلة</item>
+        <item quantity="one">أنت تضبط أدوات الرقابة الأبوية في Family Link لـ %d طفل أو مراهق في مجموعة العائلة</item>
+        <item quantity="two">أنت تضبط أدوات الرقابة الأبوية في Family Link لطفلين أو مراهقين %d في مجموعة العائلة</item>
+        <item quantity="few">أنت تضبط أدوات الرقابة الأبوية في Family Link لـ %d أطفال أو مراهقين في مجموعة العائلة</item>
+        <item quantity="many">أنت تضبط أدوات الرقابة الأبوية في Family Link لـ %d طفلاً أو مراهقًا في مجموعة العائلة</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">عرض %d تطبيق</item>
+        <item quantity="zero">عرض %d تطبيق</item>
+        <item quantity="one">عرض تطبيق واحد (%d)</item>
+        <item quantity="two">عرض تطبيقين (%d)</item>
+        <item quantity="few">عرض %d تطبيقات</item>
+        <item quantity="many">عرض %d تطبيقًا</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d إشعار</item>
+        <item quantity="zero">%d إشعار</item>
+        <item quantity="one">%d إشعار</item>
+        <item quantity="two">إشعاران (%d)</item>
+        <item quantity="few">%d إشعارات</item>
+        <item quantity="many">%d إشعارًا</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d عملية فتح</item>
+        <item quantity="zero">%d عملية فتح</item>
+        <item quantity="one">%d عملية فتح</item>
+        <item quantity="two">عمليتا فتح (%d)</item>
+        <item quantity="few">%d عمليات فتح</item>
+        <item quantity="many">%d عملية فتح</item>
+    </plurals>
+    <plurals name="turn_on_usage_access_dialog_body">
+        <item quantity="other">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آ​خر %d يوم.</item>
+        <item quantity="zero">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آخر %d يوم.</item>
+        <item quantity="one">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آخر يوم.</item>
+        <item quantity="two">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آخر يومين (%d).</item>
+        <item quantity="few">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آخر %d أيام.</item>
+        <item quantity="many">سوف يعرض تطبيق \"الرفاهية الرقمية\" بيانات استخدام جهازك، بما في ذلك بيانات استخدام مساحة التخزين على جهازك في آخر %d يومًا.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Konfigureringen kan ikke fullføres, fordi %1$d obligatoriske apper ikke ble installert. Ta direkte kontakt med systemadministratoren.</item>
+        <item quantity="one">Konfigureringen kan ikke fullføres, fordi %1$d obligatorisk app ikke ble installert. Ta direkte kontakt med systemadministratoren.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Kan ikke installere appene</item>
+        <item quantity="one">Kan ikke installere appen</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d av %2$d apper er installert</item>
+        <item quantity="one">%1$d av %2$d app er installert</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Avinstaller appene</item>
+        <item quantity="one">Avinstaller appen</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dager igjen</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dag igjen</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> timer igjen</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> time igjen</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d av %2$d apper er installert</item>
+        <item quantity="one">%1$d av %2$d app er installert</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d apper er tilgjengelig (%2$d er installert, og %3$d er slått av)</item>
+        <item quantity="one">%1$d app er tilgjengelig (%2$d er installert, og %3$d er slått av)</item>
+    </plurals>
+</resources>

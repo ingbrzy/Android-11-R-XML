@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>Éttermek</item>
+        <item>Film</item>
+        <item>Időjárás</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>Éttermek</item>
+        <item>Filmvetítések a közelben</item>
+        <item>Időjárás</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>Szerelem</item>
+        <item>Igen</item>
+        <item>Csók</item>
+        <item>Szia</item>
+        <item>Ölelés</item>
+        <item>Buli</item>
+        <item>Düh</item>
+        <item>Izgatottság</item>
+        <item>Búcsú</item>
+        <item>LOL</item>
+        <item>Sírás</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Igen</item>
+        <item>Nem</item>
+        <item>OK</item>
+        <item>Haha!</item>
+        <item>Köszönöm!</item>
+        <item>Egyetértek</item>
+        <item>Ügyes</item>
+        <item>Úton vagyok</item>
+        <item>Rendben, később jelentkezem</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS linkkel</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Újraküldés mindig SMS-ben</item>
+        <item>Újraküldés SMS-ben, ha épp nem barangol</item>
+        <item>Megerősítés kérése az újraküldés előtt</item>
+        <item>Sose küldje újra SMS-ben</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Újraküldés mindig SMS-ben/MMS-ben</item>
+        <item>Újraküldés SMS-ben/MMS-ben, ha épp nem barangol</item>
+        <item>Megerősítés kérése az újraküldés előtt</item>
+        <item>Sose küldje újra SMS-ben/MMS-ben</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="accessibility_no_wifi">‏تم قطع اتصال Wi-Fi.</string>
+    <string name="accessibility_wifi_one_bar">‏شريط واحد من إشارة Wi-Fi</string>
+    <string name="accessibility_wifi_security_type_none">شبكة مفتوحة</string>
+    <string name="accessibility_wifi_security_type_secured">شبكة محمية بكلمة مرور</string>
+    <string name="accessibility_wifi_signal_full">‏إشارة Wi-Fi كاملة.</string>
+    <string name="accessibility_wifi_three_bars">‏ثلاثة أشرطة من إشارة Wi-Fi</string>
+    <string name="accessibility_wifi_two_bars">‏شريطان من إشارة Wi-Fi</string>
+    <string name="account_exists_info">"ستتم مزامنة بريدك الإلكتروني وجهات الاتصال وأحداث التقويم وغيرها مع هذا {DEVICE_TYPE,select,  PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}}. وأنت مستعد أيضًا لبدء تنزيل التطبيقات والموسيقى والألعاب من Google Play.
+
+يمكنك إضافة حسابات وإزالتها لاحقًا من خلال الانتقال إلى \"الإعدادات\" > الحسابات."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> جاهز.</string>
+    <string name="account_exists_text_unknown_name">حسابك جاهز.</string>
+    <string name="account_exists_title">{accounts,plural, =1{تمت إضافة الحساب}zero{تمت إضافة الحسابات}two{تمت إضافة الحسابين}few{تمت إضافة الحسابات}many{تمت إضافة الحسابات}other{تمت إضافة الحسابات}}</string>
+    <string name="activating_carrier_service_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="activating_unknown_carrier_service_title">جارٍ التفعيل…</string>
+    <string name="activation_failed_message">"يمكنك إجراء ما يلي:
+"<ul><li>إعادة محاولة الاتصال ببيانات شبكة الجوّال</li>"
+"<li>استخدام شبكة أخرى للإعداد</li></ul>"
+
+إذا لم يتم حلّ المشكلة من خلال هذين الخيارين، يمكنك أيضًا إعادة تشغيل {DEVICE_TYPE,select, PHONE{هاتفك}TABLET{جهازك اللوحي}other{جهازك}} وإعادة المحاولة."</string>
+    <string name="activation_failed_title">يتعذر الاتصال ببيانات شبكة الجوّال</string>
+    <string name="activation_progress_flow">"هل تستغرق وقتًا طويلاً؟
+
+يستغرق الاتصال ببيانات الجوّال وقتًا طويلاً. يمكنك الرجوع ومحاولة الاتصال بشبكة أخرى بدلاً من ذلك."</string>
+    <string name="activation_title">جارٍ الاتصال بخدمة الجوّال…</string>
+    <string name="activation_unprovisioned_sim_message">يُرجى إعادة تشغيل {DEVICE_TYPE,select, PHONE{هاتفك }TABLET{جهازك اللوحي }other{جهازك }} ثمّ إعادة المحاولة أو الاتّصال بشبكة Wi‑Fi للإعداد. وفي حال استمرار المشكلة في تفعيل بيانات الجوّال، يُرجى الاتّصال بمشغّل شبكة الجوّال.</string>
+    <string name="activation_unprovisioned_title">تعذر تفعيل بيانات الجوّال</string>
+    <string name="android_privacy_policy_title">سياسة الخصوصية الإضافية</string>
+    <string name="available_via_carrier">‏متوفرة عبر %1$s</string>
+    <string name="cancel_button_label">إلغاء</string>
+    <string name="captive_portal_connection_unsuccessful">تعذَّر الاتصال بالإنترنت.</string>
+    <string name="captive_portal_description_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="captive_portal_ssl_error_text">يستخدم هذا الاتصال شهادة غير آمنة أو غير صالحة. اختر شبكة أخرى وأعد المحاولة.</string>
+    <string name="captive_portal_title">جارٍ الاتصال…</string>
+    <string name="chrome_privacy_title">‏إشعار خصوصية Chrome</string>
+    <string name="chrome_tos_title">‏بنود خدمة Chrome</string>
+    <string name="close_button_label">إغلاق</string>
+    <string name="common_google_play_services_enable_button">تفعيل</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="connect_to_wifi_btn_text">‏إعدادات Wi-Fi</string>
+    <string name="connect_to_wifi_message">‏الاتصال بشبكة Wi-Fi للمتابعة</string>
+    <string name="connect_to_wifi_title">تحديثات التطبيقات جاهزة</string>
+    <string name="connected_via_app">تم الاتصال عبر %1$s.</string>
+    <string name="connected_via_carrier">‏تم الاتصال عبر %1$s</string>
+    <string name="connected_via_network_scorer_default">تم الاتصال تلقائيًا عبر مقدم خدمة تقييم الشبكة</string>
+    <string name="consolidate_captive_portal_description_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="consolidate_captive_portal_title">البحث عن تحديثات…</string>
+    <string name="continue_for_a11y">تابع لمس الشاشة حتى يصدر صوت تنبيه لتفعيل وضع \"سهولة الاستخدام\".</string>
+    <string name="date_time_current_date">التاريخ</string>
+    <string name="date_time_current_time">الوقت</string>
+    <string name="date_time_message">يمكنك تعديل التالي إذا لزم الأمر.</string>
+    <string name="date_time_setup_title">التاريخ والوقت</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">متابعة</string>
+    <string name="decision_point_google_assistant">‏مساعد Google</string>
+    <string name="decision_point_illustration_description">‏تشمل الخطوات الإضافية \"مساعد Google\" وGoogle Pay و\"التعرّف التلقائي على الموسيقى\" وحجم الخط والخلفية وغير ذلك.</string>
+    <string name="decision_point_leave_setup">المغادرة والحصول على تذكير</string>
+    <string name="decision_point_now_playing">التعرّف التلقائي على الموسيقى</string>
+    <string name="default_device_name_device">جهاز</string>
+    <string name="default_device_name_phone">هاتف</string>
+    <string name="default_device_name_tablet">جهاز لوحي</string>
+    <string name="deferred_notification_prompt_title">إكمال إعداد جهاز ^1</string>
+    <string name="deferred_setup_button_label">إنهاء الإعداد</string>
+    <string name="deferred_setup_wizard_reason_assistant">‏التواصل مع \"مساعد Google\"</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">‏التواصل مع \"مساعد Google\"</string>
+    <string name="deferred_setup_wizard_reason_default">تتبقى بضع خطوات أخرى.</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">نسخ بياناتك</string>
+    <string name="deferred_setup_wizard_reason_google_pay">‏استخدام Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">‏الدفع بشكل أسرع باستخدام Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 وغير ذلك</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1 و^2 والمزيد</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">تتبقى بعض الخطوات البسيطة وسيصبح جهاز ^1 جاهزًا للعمل.</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">ضبط الخلفية</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">ضبط الخلفية</string>
+    <string name="deferred_setup_wizard_title">إكمال إعداد جهازك</string>
+    <string name="deferred_snooze_dialog_option_never">أبدًا</string>
+    <string name="deferred_snooze_dialog_option_today">في وقت لاحق اليوم</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">غدًا</string>
+    <string name="deferred_snooze_dialog_title">تذكيري</string>
+    <string name="deferred_welcome_airplane_mode_message">"‏يجب توفّر اتصال لإكمال خطوات الإعداد المتبقية.
+
+عند تفعيل وضع الطائرة، يتم فصل شبكة Wi-Fi وشبكة الجوّال وبلوتوث."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">الإعداد لاحقًا</string>
+    <string name="deferred_welcome_airplane_mode_title">هل تريد إيقاف وضع الطائرة؟</string>
+    <string name="deferred_welcome_screen_cancel_button">تذكيري لاحقًا</string>
+    <string name="deferred_welcome_title">إنهاء إعداد ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">إيقاف</string>
+    <string name="device_owner_continue">متابعة الإعداد</string>
+    <string name="device_owner_reset">إعادة ضبط {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}</string>
+    <string name="device_owner_warning">تدير {0} {DEVICE_TYPE,select, PHONE{هاتفك }TABLET{جهازك اللوحي }other{جهازك }} ويمكنها الوصول إلى معلوماتك. إذا كنت لا تريد أن تصل {0} إلى معلوماتك، يُرجى إعادة ضبط {DEVICE_TYPE,select, PHONE{هاتفك }TABLET{جهازك اللوحي }other{جهازك }}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{هذا الهاتف}TABLET{هذا الجهاز اللوحي}other{هذا الجهاز}} يمكن مراقبته.</string>
+    <string name="dialog_back_button_label">رجوع</string>
+    <string name="dialog_continue_button_label">متابعة</string>
+    <string name="early_update_installing_updates_text">جارٍ تثبيت التحديثات</string>
+    <string name="early_update_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="early_update_timeout_text">إذا استغرق الاتصال وقتًا طويلاً، حاول الرجوع والاتصال بشبكة أخرى.</string>
+    <string name="early_update_title">جارٍ البحث عن تحديثات…</string>
+    <string name="emergency_dial">الاتصال بالطوارئ</string>
+    <string name="enabled_a11y">تم تفعيل وضع \"سهولة الاستخدام\".</string>
+    <string name="esim_option_button_summary">‏إضافة رقم باستخدام شريحة eSIM</string>
+    <string name="esim_option_button_title">‏هل تريد تنزيل شريحة SIM بدلاً من ذلك؟</string>
+    <string name="esim_warning_title">‏تنزيل شريحة SIM</string>
+    <string name="esim_warning_txt">‏إذا كنت مشتركًا في خدمة %1$s، ستحصل على المكالمات والنصوص والبيانات عن طريق تنزيل شريحة eSIM بدلاً من إدخال شريحة SIM.</string>
+    <string name="esim_warning_txt_default">‏اتصِل بشبكة الجوَّال عن طريق تنزيل المعلومات الموجودة عادةً على شريحة SIM. وهي تحل محل شرائح SIM العادية وتوفّر مستوى الأمان نفسه.</string>
+    <string name="exit_loading_launcher">جارٍ تحميل المشغِّل…</string>
+    <string name="factory_reset_button">المحو وإعادة الضبط</string>
+    <string name="factory_reset_confirmation">هل تريد محو جميع الحسابات والبيانات على هذا {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}؟ يُرجى العِلم أنّه لا يمكنك التراجع عن هذا الإجراء.</string>
+    <string name="factory_reset_confirmation_title">هل تريد إعادة الضبط؟</string>
+    <string name="factory_reset_instructions">تحذير: تؤدي إعادة الضبط إلى محو جميع الحسابات والبيانات على وحدة التخزين الداخلية في {DEVICE_TYPE,select, PHONE{هذا الهاتف}TABLET{هذا الجهاز اللوحي}other{هذا الجهاز}}.</string>
+    <string name="factory_reset_title">إعادة ضبط {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}</string>
+    <string name="final_hold_description_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="final_hold_title">جارٍ إضافة اللمسات النهائية…</string>
+    <string name="final_hold_title_setup_work_account">جارٍ إعداد الهاتف للاستخدام في العمل…</string>
+    <string name="gms_account_checkin_title">جارٍ الحصول على معلومات الحساب…</string>
+    <string name="gms_checkin_description_text">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="gms_checkin_description_text_timeout">إذا استغرق الأمر وقتًا طويلاً، حاول الرجوع والاتصال بشبكة مختلفة.</string>
+    <string name="gms_checkin_title">جارٍ البحث عن تحديثات…</string>
+    <string name="go_back_button_label">رجوع</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">‏بنود خدمة Google Play</string>
+    <string name="google_plus_privacy_policy_title">‏سياسة خصوصية Google Plus</string>
+    <string name="google_privacy_policy_title">‏سياسة خصوصية Google</string>
+    <string name="google_provisioning_disclaimer_content">‏تسري \"بنود الخدمة\" و\"سياسة الخصوصية\" المتّبعة في Google. للمزيد من التفاصيل، يُرجى الانتقال إلى &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">‏شروط خدمة Google</string>
+    <string name="invalid_phone_number">رقم هاتف غير معروف</string>
+    <string name="invalid_qr_code_content">اطلب الرمز الصحيح من مشرف تكنولوجيا المعلومات</string>
+    <string name="invalid_qr_code_retry">إعادة المحاولة</string>
+    <string name="invalid_qr_code_title">رمز استجابة سريعة خاطئ</string>
+    <string name="ios_trademarks_disclaimer">‏تمثل كلّ من iPhone وiPad وiOS وiMessage وiCloud وSafari وiTunes علامات تجارية تملكها شركة Apple Inc.‎ ومُسجَّلة في الولايات المتحدة وبلدان أخرى.</string>
+    <string name="language_picker_section_all">جميع اللغات</string>
+    <string name="language_picker_section_suggested">اللغات المقترحة</string>
+    <string name="migrate_from_ios_description">اتبع هذه الخطوات:</string>
+    <string name="migrate_from_ios_header">نسخ بياناتك</string>
+    <string name="migrate_from_ios_instructions_1">‏۱- افتح متصفح Safari®‎</string>
+    <string name="migrate_from_ios_instructions_2">‏2- انتقل إلى <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">٣. اتبع الإرشادات</string>
+    <string name="network_description_text">اختيار شبكة</string>
+    <string name="network_description_text_esim">‏لتنزيل SIM، يُرجى الاتصال بشبكة Wi-Fi.</string>
+    <string name="network_see_all_wifi">‏الاطّلاع على جميع شبكات Wi-Fi</string>
+    <string name="network_timeout_description_text">أعِد المحاولة باستخدام شبكة أخرى. في حال المتابعة بدون اتصال، بإمكانك إتمام بعض خطوات الإعداد لاحقًا.</string>
+    <string name="network_timeout_title">تعذّر الاتصال</string>
+    <string name="network_timeout_try_another_network_button">تجربة شبكة أخرى</string>
+    <string name="network_title">‏الاتصال بشبكة Wi-Fi</string>
+    <string name="network_use_cellular">استخدام شبكة الجوّال في الإعداد</string>
+    <string name="network_use_cellular_carrier">‏الاتصال بشبكة Wi‑Fi لاحقًا</string>
+    <string name="network_wifi_continue_button">متابعة</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="notification_channel_name_deferred">الإعداد الإضافي</string>
+    <string name="notification_channel_name_initial">الإعداد</string>
+    <string name="notification_channel_name_restore">استعادة البيانات</string>
+    <string name="notification_channel_security_name_warnings">تحذيرات الأمان</string>
+    <string name="ok_button_label">حسنًا</string>
+    <string name="ota_agreement_text">‏من خلال المتابعة وتلقي تحديث هذا البرنامج، فإنك توافق على <annotation link="tos">بنود خدمة Google</annotation> و<annotation link="google_privacy">سياسة الخصوصية</annotation>.</string>
+    <string name="ota_info">يجب تحديث نظام التشغيل على {DEVICE_TYPE,select, PHONE{هاتفك }TABLET{جهازك اللوحي }other{جهازك }} ثمّ إعادة تشغيله.</string>
+    <string name="ota_size">الحجم: %s</string>
+    <string name="ota_update_title">تحديث {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}</string>
+    <string name="predeferred_prepare_setup">جارٍ التحضير للإعداد…</string>
+    <string name="predeferred_prepare_setup_details">يمكنك إتمام إعداد الجهاز ^1 قريبًا.</string>
+    <string name="predeferred_wifi_required_notification_connect_button">‏الاتصال بشبكة Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">‏الاتصال بشبكة Wi-Fi للمتابعة</string>
+    <string name="predeferred_wifi_required_notification_title">تحديثات التطبيقات جاهزة</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">جارٍ البحث عن رمز الاستجابة السريعة</string>
+    <string name="region_picker_section_all">كل المناطق</string>
+    <string name="restart_setup_wizard_button_label">إعداد {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}</string>
+    <string name="restart_setup_wizard_dialog_text">"لاستخدام هذا {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }}، يجب أولاً تسجيل الدخول باستخدام حساب Google تابع لأحد المالكين، مع الحرص على أن يكون الحساب هو نفسه المستخدَم على هذا {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }} عندما أعيد ضبطه آخر مرة.
+
+ولأنّك لم تنفِّذ ذلك من قبل، عليك إعداد {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز }} مرّة أخرى."</string>
+    <string name="restart_setup_wizard_dialog_title">لم يتم تسجيل الدخول</string>
+    <string name="restore_failed_message">يتعذر استرداد النسخة الاحتياطية</string>
+    <string name="restore_no_backup_message">ليست هناك أي نسخ احتياطية على جهازك الآخر.</string>
+    <string name="restore_no_backup_title">تتعذر الاستعادة</string>
+    <string name="restore_stopped_message">تعذر إنهاء استرداد النسخة الاحتياطية</string>
+    <string name="restore_title">جارٍ الاسترداد…</string>
+    <string name="setup_ongoing_notification_text">انقر لإنهاء إعداد ^1.</string>
+    <string name="setup_ongoing_notification_title">إعداد ^1 قيد التقدم</string>
+    <string name="setup_wizard_title">‏إعداد Android</string>
+    <string name="sim_locked_text">"‏هذا الهاتف مُقيِّد حاليًا بحيث لا يستخدم أي مشغِّل آخر لشبكة الجوّال. يجب استخدام شريحة SIM صالحة.
+
+بعد إدراج شريحة SIM، يمكن أن يستغرق تفعيلها بضع ثوانٍ."</string>
+    <string name="sim_locked_title">‏شريحة SIM غير متوافقة</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{‏إذا كانت لديك شريحة SIM، أدخلها الآن}zero{‏إذا كانت لديك شريحة SIM، أدخلها الآن}two{‏إذا كانت لديك شريحتا SIM، أدخلهما الآن}few{‏إذا كانت لديك شرائح SIM، أدخلها الآن}many{‏إذا كانت لديك شرائح SIM، أدخلها الآن}other{‏إذا كانت لديك شرائح SIM، أدخلها الآن}}</string>
+    <string name="sim_missing_title">الاتصال بشبكة الجوّال</string>
+    <string name="sim_ready_message">يجب أن يكون الرقم %1$s جاهزًا للاستخدام.</string>
+    <string name="sim_ready_message_carrier_app">للانتهاء من تفعيل %1$s، عليك تنزيل تطبيق %2$s. ولكن في الوقت الحالي، لننتهي من إعداد هاتفك.</string>
+    <string name="sim_ready_message_invalid_phone_number">يمكنك استخدام رقمك.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">للانتهاء من تفعيل رقمك، عليك تنزيل تطبيق %1$s. ولكن في الوقت الحالي، لننتهي من إعداد هاتفك.</string>
+    <string name="sim_ready_title">%1$s مفعّلة</string>
+    <string name="sim_ready_title_carrier_app">الاتصال بشبكة %1$s لاحقًا</string>
+    <string name="sim_setup_ask_every_time">الطلب في كل مرة</string>
+    <string name="sim_setup_select_data">خيار بيانات الجوّال المفضَّل</string>
+    <string name="sim_setup_select_data_description">اختَر رقمًا لاستخدامه مع بيانات الجوّال.</string>
+    <string name="sim_setup_select_text">‏خيار SMS المفضَّل</string>
+    <string name="sim_setup_select_text_description">اختَر رقمًا للرسائل النصية الصادرة (يمكن لجميع الأرقام المُفعَّلة استلام الرسائل النصية الواردة)</string>
+    <string name="sim_setup_select_voice">خيار المكالمات المفضَّل</string>
+    <string name="sim_setup_select_voice_description">اختَر رقمًا للمكالمات الصادِرة الصادرة (يمكن لجميع الأرقام المُفعَّلة استلام المكالمات الوارِدة)</string>
+    <string name="sim_setup_title">‏إعداد بطاقات SIM</string>
+    <string name="skip_anyway_button_label">التخطّي</string>
+    <string name="skip_button_label">التخطّي</string>
+    <string name="skip_toast">تم تخطي معالج الإعداد</string>
+    <string name="slots_selection_item_summary_activating">جارٍ التفعيل…</string>
+    <string name="slots_selection_item_summary_error">تعذَّر التفعيل الآن.</string>
+    <string name="slots_selection_title">اختَر العدد الذي تريد استخدامه.</string>
+    <string name="speed_label_fast">سريعة</string>
+    <string name="speed_label_okay">حسنًا</string>
+    <string name="speed_label_slow">بطيئة</string>
+    <string name="speed_label_very_fast">سريعة جدًا</string>
+    <string name="sud_back_button_label">رجوع</string>
+    <string name="sud_more_button_label">المزيد</string>
+    <string name="sud_next_button_label">التالية</string>
+    <string name="suggested_actions_description">يمكنك إعداد بعض الخيارات الأخرى الآن، أو العثور عليها لاحقًا في \"الإعدادات\".</string>
+    <string name="suggested_actions_description_single_item">إليك خيار واحد إضافي مطلوب إعداده على جهاز ^1. ويمكنك أيضًا العثور عليه لاحقًا في الإعدادات.</string>
+    <string name="suggested_actions_done_label">التجاهل مؤقتًا</string>
+    <string name="suggested_actions_no_thanks_label">لا، شكرًا</string>
+    <string name="suggested_actions_title">هل من خطوات أخرى تريد تنفيذها؟</string>
+    <string name="switch_camera">تبديل الكاميرا</string>
+    <string name="switch_to_back_camera_button_content_description">الكاميرا الخلفية</string>
+    <string name="switch_to_front_camera_button_content_description">الكاميرا الأمامية</string>
+    <string name="switched_to_back_camera_announcement">يشير الزر الآن إلى الكاميرا الأمامية</string>
+    <string name="switched_to_front_camera_announcement">يشير الزر الآن إلى الكاميرا الخلفية</string>
+    <string name="tap_to_sign_up">انقر للاشتراك.</string>
+    <string name="terminate_toast">"تم إنهاء معالج الإعداد
+لم يتم توفير الجهاز"</string>
+    <string name="try_again_button_label">حاول مرة أخرى</string>
+    <string name="url_load_unsuccessful_message">إن {DEVICE_TYPE,select, PHONE{هاتفك}TABLET{جهازك اللوحي}other{جهازك}} غير متصل بخدمة بيانات جوّال. للاطّلاع على هذه المعلومات، انتقل إلى {0} في متصفّح ويب.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">إن {DEVICE_TYPE,select, PHONE{هاتفك}TABLET{جهازك اللوحي}other{جهازك}} غير متصل بشبكة Wi‑Fi. لعرض هذه المعلومات الآن، انتقل إلى {0} باستخدام متصفح ويب.</string>
+    <string name="user_warning_cannot_switch_message">يتعذَّر التبديل مرة أخرى إلى حساب المالك. يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="user_warning_label_continue">متابعة</string>
+    <string name="user_warning_label_quit">إلغاء</string>
+    <string name="user_warning_quit_dialog_button_keep">إبقاء المستخدم</string>
+    <string name="user_warning_quit_dialog_button_remove">إزالة المستخدم</string>
+    <string name="user_warning_quit_dialog_message">هل تريد إزالة المستخدم؟</string>
+    <string name="user_warning_title">إعداد مستخدم جديد</string>
+    <string name="wait_msg">لحظة من فضلك...</string>
+    <string name="web_dialog_unable_to_view">لعرض هذه المعلومات الآن، انتقِل إلى ^1 باستخدام متصفح ويب.</string>
+    <string name="welcome_accessibility_button">إعدادات الرؤية</string>
+    <string name="welcome_language_picker_content_description">اللغة: %s</string>
+    <string name="welcome_language_picker_dialog_title">اختر لغتك</string>
+    <string name="welcome_message">مرحبًا</string>
+    <string name="welcome_secondary_user_added_text">تمت إضافتك إلى هذا {DEVICE_TYPE,select, PHONE{الهاتف }TABLET{الجهاز اللوحي }other{الجهاز.}}</string>
+    <string name="welcome_secondary_user_info_text"><b>ملاحظة مهمة:</b>"
+
+"<ul><li>بإمكان مالك {DEVICE_TYPE,select, PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}}إلغاء تثبيت تطبيقاتك أو إزالة الملف الشخصي للمستخدم الخاص بك تمامًا.</li>"
+
+"<li>يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدّثة.</li>"
+
+"<li>لا تشارك هذا {DEVICE_TYPE,select, PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}} إلا مع من تثق بهم.</li></ul></string>
+    <string name="welcome_start_button_label">البدء</string>
+    <string name="wifi_add_new_network">إضافة شبكة جديدة</string>
+    <string name="wifi_and_mobile_skipped_message">"يساعدك الاتصال بشبكة Wi-Fi أو شبكة جوّال في إعداد {DEVICE_TYPE,select, PHONE{هاتفك}TABLET{جهازك اللوحي}other{جهازك}} بسرعة.
+
+بدون توفُّر اتصال بالإنترنت، لن تتمكن من تنفيذ ما يلي:
+
+"<ul><li>تسجيل الدخول إلى حسابك على Google</li>"
+
+"<li>استعادة التطبيقات والبيانات</li>"
+
+"<li>الحصول على تحديثات البرامج</li>"
+
+"<li>إعداد الوقت والتاريخ تلقائيًا</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"يساعدك الاتصال بشبكة Wi-Fi أو شبكة جوّال في إعداد {DEVICE_TYPE,select, PHONE{هاتفك}TABLET{جهازك اللوحي}other{جهاز}} بسرعة.
+
+بدون توفُّر اتصال بالإنترنت، لن تتمكن من تنفيذ ما يلي:
+
+"<ul><li>تسجيل الدخول إلى حسابك على Google</li>"
+
+"<li>استعادة التطبيقات والبيانات</li>"
+
+"<li>تنزيل بيانات شريحة SIM</li>"
+
+"<li>الحصول على تحديثات البرامج</li>"
+
+"<li>إعداد الوقت والتاريخ تلقائيًا</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">نقطة الدخول ممتلئة مؤقتًا</string>
+    <string name="wifi_check_password_try_again">يُرجى التحقق من كلمة المرور وإعادة المحاولة</string>
+    <string name="wifi_connected_no_internet">متصلة ولكن بلا إنترنت</string>
+    <string name="wifi_disabled_by_recommendation_provider">الجهاز غير متصل بسبب انخفاض جودة الشبكة</string>
+    <string name="wifi_disabled_generic">غير مفعّلة</string>
+    <string name="wifi_disabled_network_failure">‏تعذّرت تهيئة عنوان IP</string>
+    <string name="wifi_disabled_password_failure">حدثت مشكلة في المصادقة</string>
+    <string name="wifi_fail_to_scan">لا يمكن فحص الشبكات</string>
+    <string name="wifi_ip_address_not_available">غير متاح</string>
+    <string name="wifi_ip_address_title">‏عنوان IP</string>
+    <string name="wifi_limited_connection">اتصال محدود</string>
+    <string name="wifi_mac_address_not_available">غير متاح</string>
+    <string name="wifi_mac_address_title">‏عنوان Mac</string>
+    <string name="wifi_metered_label">تفرض تكلفة استخدام</string>
+    <string name="wifi_no_internet">لا يتوفّر اتصال بالإنترنت</string>
+    <string name="wifi_no_internet_no_reconnect">لن يتم الاتصال تلقائيًا</string>
+    <string name="wifi_not_in_range">ليست في النطاق</string>
+    <string name="wifi_remembered">تم الحفظ</string>
+    <string name="wifi_scanning">‏جارٍ البحث عن شبكات Wi-Fi…</string>
+    <string name="wifi_set_up_offline_title">هل تريد الإعداد بلا اتصال بالإنترنت؟</string>
+    <string name="wifi_skip_button_label">الإعداد بلا اتصال بالإنترنت</string>
+    <string name="wifi_skipped_message">سيستخدم {DEVICE_TYPE,select, PHONE{هاتفك }TABLET{جهازك اللوحي }other{جهازك }} شبكة الجوّال أثناء الإعداد، وقد يتم تحصيل رسوم منك مقابل استخدام هذه البيانات. لتجنُّب الرسوم المحتملة، يمكنك الاتّصال بشبكة Wi‑Fi.</string>
+    <string name="wifi_skipped_title">رسوم البيانات المحتملة</string>
+    <string name="wifi_title">‏الاتصال بشبكة Wi-Fi</string>
+    <string name="wifi_unmetered_label">بدون قياس</string>
+    <string name="work_profile_setup_description">لإعداد هذا الجهاز للعمل وفصل بيانات العمل عن البيانات الشخصية</string>
+    <string name="work_profile_setup_next">التالي</string>
+    <string name="work_profile_setup_skip">تخطي إعداد حساب العمل</string>
+    <string name="work_profile_setup_title">إضافة حساب عملك</string>
+    <string name="work_setup_interrupted">"لاحظنا نشاطًا غير معتاد على هذا {DEVICE_TYPE,select, PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}}، وقد تكون بياناتك في خطر عند استئناف الإعداد.
+
+للبدء من جديد، يمكنك إعادة ضبط هذا {DEVICE_TYPE,select, PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}}."</string>
+    <string name="work_setup_interrupted_title">قد يكون هذا {DEVICE_TYPE,select, PHONE{الهاتف}TABLET{الجهاز اللوحي}other{الجهاز}} غير آمن</string>
+</resources>

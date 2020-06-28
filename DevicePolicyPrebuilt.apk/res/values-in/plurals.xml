@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Penyiapan tidak dapat diselesaikan karena %1$d aplikasi wajib gagal diinstal. Harap hubungi administrator sistem Anda secara langsung.</item>
+        <item quantity="one">Penyiapan tidak dapat diselesaikan karena %1$d aplikasi wajib gagal diinstal. Harap hubungi administrator sistem Anda secara langsung.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Tidak dapat menginstal beberapa aplikasi</item>
+        <item quantity="one">Tidak dapat menginstal aplikasi</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d dari %2$d aplikasi diinstal</item>
+        <item quantity="one">%1$d dari %2$d aplikasi diinstal</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Uninstal aplikasi</item>
+        <item quantity="one">Uninstal aplikasi</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hari lagi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hari lagi</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> jam lagi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> jam lagi</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d dari %2$d aplikasi terinstal</item>
+        <item quantity="one">%1$d dari %2$d aplikasi terinstal</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplikasi tersedia (%2$d terinstal, %3$d dinonaktifkan)</item>
+        <item quantity="one">%1$d aplikasi tersedia (%2$d terinstal, %3$d dinonaktifkan)</item>
+    </plurals>
+</resources>

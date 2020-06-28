@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">"Set-up can't be completed as %1$d required apps failed to install. Please contact your system administrator directly."</item>
+        <item quantity="one">"Set-up can't be completed as %1$d required app failed to install. Please contact your system administrator directly."</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">"Can't install apps"</item>
+        <item quantity="one">"Can't install app"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d of %2$d apps installed</item>
+        <item quantity="one">%1$d of %2$d app installed</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Uninstall apps</item>
+        <item quantity="one">Uninstall app</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left"> ^1 &lt;/annotation> days left</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left"> ^1 &lt;/annotation> day left</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left"> ^1 &lt;/annotation> hours left</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left"> ^1 &lt;/annotation> hour left</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d of %2$d apps installed</item>
+        <item quantity="one">%1$d of %2$d app installed</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d apps available (%2$d installed, %3$d disabled)</item>
+        <item quantity="one">%1$d app available (%2$d installed, %3$d disabled)</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_6">false</item>
+</resources>

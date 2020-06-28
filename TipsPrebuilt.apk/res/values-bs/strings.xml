@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vrati se na početnu stranicu</string>
+    <string name="abc_action_bar_up_description">Navigiraj prema gore</string>
+    <string name="abc_action_menu_overflow_description">Više opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odaberite aplikaciju</string>
+    <string name="abc_capital_off">ISKLJUČI</string>
+    <string name="abc_capital_on">UKLJUČI</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">razmaknica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretraži...</string>
+    <string name="abc_searchview_description_clear">Obriši upit</string>
+    <string name="abc_searchview_description_query">Pretraži upit</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeli sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli koristeći aplikaciju %s</string>
+    <string name="abc_slice_permission_allow">Dozvoli</string>
+    <string name="abc_slice_permission_checkbox">Dozvoli aplikaciji %1$s prikazivanje isječaka iz svake aplikacije</string>
+    <string name="abc_slice_permission_deny">Odbij</string>
+    <string name="abc_slice_permission_text_1">- Može čitati informacije iz aplikacije %1$s</string>
+    <string name="abc_slice_permission_text_2">- Može poduzeti radnje unutar aplikacije %1$s</string>
+    <string name="abc_slice_permission_title">Dozvoliti aplikaciji %1$s prikazivanje isječaka aplikacije %2$s?</string>
+    <string name="abc_slices_permission_request">Aplikacija %1$s želi prikazati isječke aplikacije %2$s</string>
+    <string name="abc_toolbar_collapse_description">Suzi</string>
+    <string name="all_topics_header_text">Sve teme</string>
+    <string name="allset_description">"Sve je spremno za korištenje telefona.
+
+Možete isključiti navigaciju pokretima i koristiti dugmad za povratak, prelazak na početni ekran i promjenu aplikacija.
+"<annotation id="link">Idite u Postavke</annotation></string>
+    <string name="allset_hint">Prevucite prema gore da počnete</string>
+    <string name="allset_page_title">Sve je spremno</string>
+    <string name="allset_setting_link">Postavke navigacije za pristupačnost</string>
+    <string name="allset_title">Sve je spremno!</string>
+    <string name="app_name">Savjeti za Pixel</string>
+    <string name="article_helpful_feedback_toast">Hvala na povratnim informacijama. Ovo će nam pomoći kod budućih savjeta.</string>
+    <string name="article_helpful_no">Ne</string>
+    <string name="article_helpful_talkback_selected_no">Odabrano je dugme \"da\"</string>
+    <string name="article_helpful_talkback_selected_yes">Odabrano je dugme \"da\"</string>
+    <string name="article_helpful_talkback_unselected_no">Poništen je odabir dugmeta \"ne\"</string>
+    <string name="article_helpful_talkback_unselected_yes">Poništen je odabir dugmeta \"da\"</string>
+    <string name="article_helpful_text">Korisno?</string>
+    <string name="article_helpful_yes">Da</string>
+    <string name="asset_is_downloading_content_description">Preuzimanje videozapisa/slike</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">Aplikacija %1$s neće raditi ako ne omogućite Google Play usluge.</string>
+    <string name="common_google_play_services_enable_title">Omogućite Google Play usluge</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">Aplikacija %1$s neće raditi bez Google Play usluga, kojih na vašem uređaju nema.</string>
+    <string name="common_google_play_services_install_title">Nabavite Google Play usluge</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost Google Play usluga</string>
+    <string name="common_google_play_services_notification_ticker">Greška Google Play usluge</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima problema s Google Play uslugama. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s neće raditi bez Google Play usluga, koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">Aplikacija %1$s neće raditi ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje Google Play usluga</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s neće raditi bez Google Play usluga, koje se trenutno ažuriraju.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija Google Play usluga. Ubrzo će se samo ažurirati.</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_signin_button_text">Prijavi se</string>
+    <string name="common_signin_button_text_long">Prijavi se pomoću Googlea</string>
+    <string name="connectivity_summary_assets_download_slowly">Probajte se povezati na WiFi ili prebacite mrežu da vidite videozapise i slike</string>
+    <string name="connectivity_summary_assets_not_downloaded">Za prikaz videozapisa i slika potrebna je internetska veza</string>
+    <string name="module_1_0010_summary">Promjena aplikacija, brza promjena postavki, bolji fokus i još mnogo toga</string>
+    <string name="module_1_0010_tag_text">Započnite</string>
+    <string name="module_1_0010_title">Počnite koristiti uređaj [model_name]</string>
+    <string name="module_1_0101_summary">Pronađite aplikacije, savladajte upotrebu telefona i drugo</string>
+    <string name="module_1_0101_tag_text">Započnite</string>
+    <string name="module_1_0101_title">Počnite koristiti Pixel</string>
+    <string name="module_1_1000_summary">Prebacili ste se s iPhoneⓇ uređaja? Pronađite aplikacije, savladajte upotrebu telefona i drugo</string>
+    <string name="module_1_1000_tag_text">Započnite</string>
+    <string name="module_1_1000_title">Počnite koristiti Pixel</string>
+    <string name="module_2_1111_summary">Razgovarajte s Asistentom, prepoznajte muziku uz opciju Trenutno se reproducira i još toga</string>
+    <string name="module_2_1111_tag_text">Iskoristite prednosti Googlea</string>
+    <string name="module_2_1111_title">Iskoristite sve prednosti aplikacije Google</string>
+    <string name="module_3_1111_summary">Fotografirajte prelijepe portrete, prebacujte se s jednog načina rada na drugi i još mnogo toga</string>
+    <string name="module_3_1111_tag_text">Uživajte u kameri</string>
+    <string name="module_3_1111_title">Uživajte u kameri i fotografijama</string>
+    <string name="module_4_1111_summary">Šaljite slike, upućujte video pozive i dijelite fotografije</string>
+    <string name="module_4_1111_tag_text">Slanje SMS-ova i pozivanje</string>
+    <string name="module_4_1111_title">Slanje SMS-ova i pozivanje</string>
+    <string name="module_5_1111_summary">Brzo otvorite kameru, provjerite obavještenja i još mnogo toga</string>
+    <string name="module_5_1111_tag_text">Koristite pokrete</string>
+    <string name="module_5_1111_title">Koristite pokrete za brze prečice</string>
+    <string name="module_6_1111_summary">Pratite vrijeme upotrebe, postavite raspored za prekid povezanosti i još mnogo toga</string>
+    <string name="module_6_1111_tag_text">Upravljajte blagostanjem</string>
+    <string name="module_6_1111_title">Upravljajte digitalnim blagostanjem</string>
+    <string name="module_7_1111_summary">Koristite dvije aplikacije istovremeno, organizirajte aplikacije u folderima i još mnogo toga</string>
+    <string name="module_7_1111_tag_text">Postanite stručnjak</string>
+    <string name="module_7_1111_title">Postanite stručnjak za Pixel</string>
+    <string name="module_8_1111_summary">Pišite bilješke, plaćajte pomoću Pixela i primajte najnovije vijesti</string>
+    <string name="module_8_1111_tag_text">Istražite aplikacije</string>
+    <string name="module_8_1111_title">Istražite osnovne Googleove aplikacije</string>
+    <string name="next_btn">Naprijed</string>
+    <string name="next_module_link_back_home_page_text">Dalje: Istražite sve savjete</string>
+    <string name="next_module_link_text">Sljedeće: %1$s</string>
+    <string name="next_tip_content_description">Sljedeći savjet</string>
+    <string name="ob_gesture_app_go_back_media_description">Videozapis o novom pokretu za pristupačnost za povratak</string>
+    <string name="ob_gesture_app_go_back_summary">Prevucite prema sredini od lijevog ili desnog ruba da se vratite na posljednji ekran</string>
+    <string name="ob_gesture_app_go_back_title">Nazad</string>
+    <string name="ob_gesture_app_home_media_description">Videozapis o novom pokretu za pristupačnost za odlazak na početnu stranicu</string>
+    <string name="ob_gesture_app_home_summary">"Prevucite prema gore s dna ekrana.
+Ovim pokretom uvijek idete na Početni ekran."</string>
+    <string name="ob_gesture_app_home_title">Idi na početnu stranicu</string>
+    <string name="ob_gesture_app_overview_media_description">Videozapis o novom pokretu za pristupačnost za pregled</string>
+    <string name="ob_gesture_app_overview_summary">Prevucite prema gore s dna ekrana i držite</string>
+    <string name="ob_gesture_app_overview_title">Prebacite aplikacije</string>
+    <string name="onboarding_education_page_title">Predstavljanje pokreta za navigaciju</string>
+    <string name="previous_module_link_text">Prethodno: %1$s</string>
+    <string name="previous_tip_content_description">Prethodni savjet</string>
+    <string name="search_menu_title">Pretraži</string>
+    <string name="settings_search_main_entry_screen_title">Savjeti i podrška > Istražite savjete za Pixel</string>
+    <string name="settings_search_main_entry_summary">Iskoristite Pixel do maksimuma. Gledajte videozapise i još mnogo drugih stvari.</string>
+    <string name="smart_space_subtitle_android">Dodirnite za savjete</string>
+    <string name="smart_space_subtitle_ios">Dodirnite za savjete</string>
+    <string name="smart_space_subtitle_others">Dodirnite za savjete</string>
+    <string name="smart_space_subtitle_pixel">Pogledajte šta je novo</string>
+    <string name="smart_space_title">Dobro došli u svoj novi Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Snimite portrete, uhvatite savršen snimak i još mnogo toga</string>
+    <string name="suggestion_summary_module_communication">Šaljite slike, uputite video pozive i još mnogo toga</string>
+    <string name="suggestion_summary_module_gestures">Provjerite obavještenja, otvorite kameru i još mnogo toga</string>
+    <string name="suggestion_summary_module_google_smarts">Pričajte sa svojim Google Asistentom i još mnogo toga</string>
+    <string name="suggestion_title_module_camera">Uživajte u kameri i fotografijama</string>
+    <string name="suggestion_title_module_communication">Savjeti za slanje SMS-ova i pozivanje</string>
+    <string name="suggestion_title_module_gestures">Koristite pokrete za prečice</string>
+    <string name="suggestion_title_module_google_smarts">Iskoristite sve prednosti aplikacije Google</string>
+    <string name="tip_1_1_media_description">Videozapis o pronalasku aplikacija</string>
+    <string name="tip_1_1_summary">S dna ekrana prevucite prstom prema gore da biste vidjeli nedavno korištene aplikacije. Također ćete na dnu vidjeti red predviđenih aplikacija. Ponovo prevucite prstom prema gore da vidite sve aplikacije.</string>
+    <string name="tip_1_1_title">Pronađite aplikacije</string>
+    <string name="tip_1_2_media_description">Videozapis o organiziranju aplikacija</string>
+    <string name="tip_1_2_summary">"Dodirnite i prevucite aplikaciju da je dodate na početni ekran.
+
+Da uklonite aplikaciju, dodirnite je i zadržite, a zatim je prevucite prema vrhu ekrana."</string>
+    <string name="tip_1_2_title">Dodajte aplikacije na Početni ekran</string>
+    <string name="tip_1_3_link">Idi u Play trgovinu</string>
+    <string name="tip_1_3_media_description">Slike o ključnim aplikacijama</string>
+    <string name="tip_1_3_summary">"Počnite koristiti aplikacije:
+- Play trgovina: istražite i preuzmite aplikacije
+- Google Fotografije: pronađite, sačuvajte i dijelite fotografije
+- Google Keep: pravite bilješke, spiskove i još mnogo toga"</string>
+    <string name="tip_1_3_title">Istražite ključne aplikacije</string>
+    <string name="tip_1_4_media_description">Videozapis o obavještenjima</string>
+    <string name="tip_1_4_summary">"S vrha ekrana prevucite prstom prema dolje da vidite obavještenja. Da obrišete obavještenje, prevucite ga udesno ili ulijevo.
+
+Da vidite više informacija o obavještenju, dodirnite ga i zadržite."</string>
+    <string name="tip_1_4_title">Pregled obavještenja</string>
+    <string name="tip_1_5_media_description">Videozapis o promjeni postavki</string>
+    <string name="tip_1_5_summary">"S vrha ekrana svog Pixela prevucite prstom prema dolje da otvorite Brze postavke. Ponovo prevucite prstom prema dolje za više postavki.
+
+Dodirnite postavku da je uključite ili isključite. Da vidite više opcija za postavku, dodirnite je i zadržite."</string>
+    <string name="tip_1_5_title">Brzo izmijenite zajedničke postavke</string>
+    <string name="tip_1_6_link">Idi u Postavke</string>
+    <string name="tip_1_6_media_description">Videozapis o načinu rada Ne ometaj</string>
+    <string name="tip_1_6_summary">"Ako koristite telefon ali želite ostati fokusirani, možete zaustaviti pojavljivanje obavještenja.
+
+Istražite nove kontrole u načinu rada Ne ometaj."</string>
+    <string name="tip_1_6_title">Fokusirajte se bolje s načinom rada Ne ometaj</string>
+    <string name="tip_1_7_media_description">Videozapis o gledanju radnji</string>
+    <string name="tip_1_7_summary">"Dodirnite i držite tekst da vidite dostupne radnje, kao što je rezerviranje u restoranu.
+
+To možete uraditi u svakoj aplikaciji. Funkcionira čak i prilikom prebacivanja između aplikacija."</string>
+    <string name="tip_1_7_title">Pregledajte radnje pri odabiru teksta</string>
+    <string name="tip_1_9_link">Idi na podršku</string>
+    <string name="tip_1_9_media_description">Videozapis o savjetima i podršci</string>
+    <string name="tip_1_9_summary">"Dodatni savjeti i podrška dostupni su u bilo kojem trenutku. Jednostavno otvorite Postavke > Savjeti i podrška
+
+Možete istražiti savjete, pretraživati članke za pomoć ili kontaktirati tim za Pixel."</string>
+    <string name="tip_1_9_title">Pristupite pomoći kada vam je potrebna</string>
+    <string name="tip_2_1_link">Otvorite u Postavkama</string>
+    <string name="tip_2_1_link_description">Da uključite ovu funkciju, dodirnite dugme ispod.</string>
+    <string name="tip_2_1_link_description_off">Da uključite ovu funkciju, dodirnite dugme ispod.</string>
+    <string name="tip_2_1_link_off">Uključite u Postavkama</string>
+    <string name="tip_2_1_link_on">Postavke stiska</string>
+    <string name="tip_2_1_media_description">Videozapis o stiskanju za vašeg Asistenta</string>
+    <string name="tip_2_1_summary">Za razgovor s Google Asistentom u bilo kojem trenutku (čak i kada je ekran isključen) brzo stisnite donju polovinu telefona, a zatim pustite.</string>
+    <string name="tip_2_1_title">Stisnite da pokrenete Asistenta</string>
+    <string name="tip_2_2_link">Više radnji</string>
+    <string name="tip_2_2_media_description">Videozapis o radnjama Asistenta</string>
+    <string name="tip_2_2_summary">"Vaš Google Asistent predstavlja brz i jednostavan način za traženje odgovora i obavljanje radnji na vašem Pixelu.
+
+Za razgovor s Google Asistentom brzo stisnite donju polovinu telefona, a zatim pustite i recite:
+
+- Kada je moj prvi događaj sutra?
+- Dodaj pastu za zube na spisak za kupovinu
+- Idemo kući"</string>
+    <string name="tip_2_2_title">Otkrijte šta vaš Asistent može</string>
+    <string name="tip_2_3_link">Otvori Objektiv</string>
+    <string name="tip_2_3_media_description">Videozapis o pretraživanju pomoću Google Objektiva</string>
+    <string name="tip_2_3_summary">"Vidjeli ste simpatičnu životinju, jedinstvenu biljku ili impresivnu znamenitost koja vam je privukla pažnju? Saznajte više o tome pomoću aplikacije Google Objektiv.
+
+ Jednostavno otvorite Kameru, dodirnite i zadržite tražilo kamere, a zatim dodirnite stavku koja vas zanima."</string>
+    <string name="tip_2_3_title">Pretražujte ono što vidite pomoću Google Objektiva</string>
+    <string name="tip_2_4_link">Otvori Google Play</string>
+    <string name="tip_2_4_link_description">Ažurirajte Ambijentalne usluge za Pixel da možete koristiti funkciju Trenutno se reproducira.</string>
+    <string name="tip_2_4_link_description_off">Da uključite ovu funkciju, dodirnite dugme ispod.</string>
+    <string name="tip_2_4_link_off">Uključite u Postavkama</string>
+    <string name="tip_2_4_link_on">Postavke funkcije Trenutno se reproducira</string>
+    <string name="tip_2_4_media_description">Videozapis o funkciji Trenutno se reproducira</string>
+    <string name="tip_2_4_summary">Funkcija Trenutno se reproducira automatski prikazuje informacije o pjesmi koja se reproducira, gdje god da se nalazite.</string>
+    <string name="tip_2_4_title">Prepoznajte muziku pomoću funkcije Trenutno se reproducira</string>
+    <string name="tip_2_5_link">Otvori kameru</string>
+    <string name="tip_2_5_media_description">Videozapis o kameri</string>
+    <string name="tip_2_5_summary">Vaš Pixel automatski prepoznaje brojeve telefona, adrese, adrese epošte, bar kodove i QR kodove. Jednostavno otvorite kameru, usmjerite je i pustite neka kamera uradi svoje.</string>
+    <string name="tip_2_5_title">Neka vaša kamera radi za vas</string>
+    <string name="tip_3_1_link">Otvori kameru</string>
+    <string name="tip_3_1_media_description">Videozapis o načinima rada kamere</string>
+    <string name="tip_3_1_summary">"Ponekad želite uslikati fotografiju, zatim snimiti videozapis, a onda nešto malo drugačije.
+
+Za prebacivanje između načina rada, jednostavno otvorite tražilo kamere i prevucite prstom lijevo ili desno. Dodirnite Više za ostale opcije."</string>
+    <string name="tip_3_1_title">Prelazite s fotografija na videozapise i još mnogo toga</string>
+    <string name="tip_3_2_link">Otvori kameru</string>
+    <string name="tip_3_2_media_description">Videozapis o snimanju portreta</string>
+    <string name="tip_3_2_summary">"U uspravnom načinu, Pixel će zamutiti pozadinu da biste dobili prelijepu, profesionalnu fotografiju.
+
+Jednostavno otvorite kameru, prevucite slijeva nadesno i snimajte."</string>
+    <string name="tip_3_2_title">Uslikajte prelijepe portrete</string>
+    <string name="tip_3_3_media_description">Videozapisi o pravljenju snimka ekrana</string>
+    <string name="tip_3_3_summary">"Pritisnite i držite dugme za uključivanje, zatim dodirnite Snimak ekrana. I pogledajte, upravo ste snimili ekran.
+
+Da crtate na snimku ekrana, dodirnite Izmjena u obavještenju koje će se pojaviti."</string>
+    <string name="tip_3_3_title">Brzo uslikajte i izmijenite snimke ekrana</string>
+    <string name="tip_3_4_link">Otvori kameru</string>
+    <string name="tip_3_4_media_description">Videozapis o biranju savršenog trenutka s funkcijom Najbolji snimak</string>
+    <string name="tip_3_4_summary">"Svaki put kada snimite fotografiju Pixel će sačuvati dodatnu sliku ili dvije tako da imate savršen snimak.
+
+1. Vodite računa da je opcija Video [icon_span] uključena, a zatim snimite fotografiju
+2. Kada želite pregledati fotografiju, jednostavno kliznite prema gore s dna ekrana
+3. Dodirnite Snimci u ovoj fotografiji da pregledate alternativne slike"</string>
+    <string name="tip_3_4_title">Odaberite savršen trenutak s funkcijom Najbolji snimak</string>
+    <string name="tip_3_5_link">Otvori kameru</string>
+    <string name="tip_3_5_media_description">Videozapis o snimanju grupnog selfija</string>
+    <string name="tip_3_5_summary">"Grupni selfi vam omogućava više prostora na fotografiji za prijatelje ili krajolik — nije vam potreban selfi štap.
+
+1. Prebacite na prednju kameru [icon_span]
+2. Dvaput dodirnite ekran ili približite dva prsta da umanjite prikaz"</string>
+    <string name="tip_3_5_title">Snimite grupni selfi</string>
+    <string name="tip_4_1_link">Otvorite Messages</string>
+    <string name="tip_4_1_media_description">Videozapis o slanju slika</string>
+    <string name="tip_4_1_summary">"1. Otvorite razgovor u aplikaciji Messages
+2. Dodirnite Kreiraj [icon_span] lijevo od prostora za pisanje poruke
+3. Odaberite savršenu sliku, emoji sličicu ili naljepnicu"</string>
+    <string name="tip_4_1_title">Slanje slika</string>
+    <string name="tip_4_2_link">Instalirajte Duo</string>
+    <string name="tip_4_2_link_off">Instalirajte Duo</string>
+    <string name="tip_4_2_link_on">Otvorite Duo</string>
+    <string name="tip_4_2_media_description">Videozapis o aplikaciji Google Duo</string>
+    <string name="tip_4_2_summary">"Ništa nije bolje od chata licem u lice s najbližim prijateljima i porodicom. Stoga Pixel omogućava jednostavne video pozive s aplikacijom Google Duo.
+
+1. Otvorite aplikaciju Google Duo
+2. Pronađite kontakt
+3. Jednim dodirom započnite video poziv ili pozovite tu osobu da preuzme Google Duo
+
+Google Duo mogu koristiti i vaši prijatelji s iOSⓇ telefonima i tabletima."</string>
+    <string name="tip_4_2_title">Uputite video pozive s aplikacijom Google Duo</string>
+    <string name="tip_4_3_link">Otvorite Google Fotografije</string>
+    <string name="tip_4_3_media_description">Videozapis o dijeljenju fotografija</string>
+    <string name="tip_4_3_summary">"1. Otvorite Google Fotografije
+2. Dodirnite i držite da odaberete sliku
+3. Ako želite, odaberite više slika
+4. Dodirnite Dijeli [icon_span]
+5. Odaberite osobe s kojima želite podijeliti slike"</string>
+    <string name="tip_4_3_title">Dijeljenje fotografija</string>
+    <string name="tip_4_4_link">Započnite</string>
+    <string name="tip_4_4_media_description">Videozapis o slanju SMS-ova s računara</string>
+    <string name="tip_4_4_summary">"Možete slati poruke s računara pomoću aplikacije Android Messages. Da započnete, idite u aplikaciju Messages i u meniju odaberite “Messages for web”.
+
+Pored slanja poruka, možete slati naljepnice, emoji sličice te priložiti slike."</string>
+    <string name="tip_4_4_title">Pošaljite poruke s računara</string>
+    <string name="tip_5_1_link">Idi u Postavke</string>
+    <string name="tip_5_1_link_off">Uključi ovo u Postavkama</string>
+    <string name="tip_5_1_link_on">Idite u Postavke</string>
+    <string name="tip_5_1_media_description">Videozapis o provjeri telefona</string>
+    <string name="tip_5_1_summary">Možete provjeriti vrijeme, obavještenja i druge informacije tako što ćete dvaput dodirnuti ekran.</string>
+    <string name="tip_5_1_title">Kliknite dvaput za provjeru telefona</string>
+    <string name="tip_5_2_link">Idi u Postavke</string>
+    <string name="tip_5_2_link_off">Uključi ovo u Postavkama</string>
+    <string name="tip_5_2_link_on">Idite u Postavke</string>
+    <string name="tip_5_2_media_description">Videozapis o prebacivanju na kameru</string>
+    <string name="tip_5_2_summary">Dvaput pritisnite dugme za uključivanje s bilo kojeg ekrana da se u trenu prebacite na kameru.</string>
+    <string name="tip_5_2_title">Prelazak na kameru</string>
+    <string name="tip_5_3_link">Idi u Postavke</string>
+    <string name="tip_5_3_link_off">Uključi ovo u Postavkama</string>
+    <string name="tip_5_3_link_on">Idite u Postavke</string>
+    <string name="tip_5_3_media_description">Videozapis o prebacivanju na uspravni način</string>
+    <string name="tip_5_3_summary">Da uključite ili isključite način za snimanje selfija u Kameri, dvaput zakrenite uređaj dok ste u aplikaciji.</string>
+    <string name="tip_5_3_title">Okretanje kamere</string>
+    <string name="tip_5_4_link">Idi u Postavke</string>
+    <string name="tip_5_4_link_off">Uključi ovo u Postavkama</string>
+    <string name="tip_5_4_link_on">Idi u Postavke</string>
+    <string name="tip_5_4_media_description">Videozapis o prevlačenju prstom za prikaz obavještenja</string>
+    <string name="tip_5_4_summary">"Možete provjeriti obavještenja prevlačenjem prstom prema dolje po senzoru za otisak prsta na poleđini telefona.
+Prevucite prstom ponovo da vidite Brze postavke."</string>
+    <string name="tip_5_4_title">Prevucite prstom za obavještenja</string>
+    <string name="tip_5_5_media_description">Videozapis o prebacivanju između aplikacija</string>
+    <string name="tip_5_5_summary">Za brzo prebacivanje između aplikacija na dnu ekrana kliznite slijeva nadesno. Podignite prst da otvorite aplikaciju.</string>
+    <string name="tip_5_5_title">Brži način za prebacivanje aplikacija</string>
+    <string name="tip_6_1_link">Postavke Noćnog svjetla</string>
+    <string name="tip_6_1_media_description">Videozapis o Noćnom svjetlu</string>
+    <string name="tip_6_1_summary">"Noćno svjetlo oboji ekran u žutosmeđe. Na taj način je lakše gledati u ekran ili čitati pod prigušenim svjetlom, a može vam pomoći da lakše zaspite.
+
+Noćno svjetlo možete lako uključiti ili isključiti u Brzim postavkama. Također možete jednostavno dodirnuti i držati da postavite raspored."</string>
+    <string name="tip_6_1_title">Zaspite lakše s Noćnim svjetlom</string>
+    <string name="tip_6_2_link">Ažuriranje Digitalnog blagostanja</string>
+    <string name="tip_6_2_link_off">Ažuriranje Digitalnog blagostanja</string>
+    <string name="tip_6_2_link_on">Postavite Pripremu za spavanje</string>
+    <string name="tip_6_2_media_description">Videozapis o postavljanju rasporeda vremena spavanja pomoću funkcije Priprema za spavanje</string>
+    <string name="tip_6_2_summary">"Postavite noćni raspored da prekinete vezu s telefonom.
+
+1. Otvorite Digitalno blagostanje [icon_span]
+2. Dodirnite opciju Priprema za spavanje
+3. Postavite raspored opcije Priprema za spavanje
+
+Kada se približi vrijeme spavanja, ekran će promijeniti boju i funkcija Ne ometaj će spriječiti da obavještenja ometaju vaš san."</string>
+    <string name="tip_6_2_title">Postavljanje rasporeda vremena spavanja pomoću funkcije Priprema za spavanje</string>
+    <string name="tip_6_3_link">Isprobajte obrtanje za uključivanje funkcije Shhh</string>
+    <string name="tip_6_3_link_off">Ažuriranje Digitalnog blagostanja</string>
+    <string name="tip_6_3_link_on">Idite u Postavke</string>
+    <string name="tip_6_3_media_description">Videozapis o brzom zaustavljanju smetnji</string>
+    <string name="tip_6_3_summary">Uz Obrtanje za uključivanje funkcije Shhh jednostavno postavite telefon s ekranom prema dolje da uključite funkciju Ne ometaj i da zaustavite obavještenja i utišate zvukove.</string>
+    <string name="tip_6_3_title">Brzo zaustavite ometanja</string>
+    <string name="tip_6_4_link">Ažuriranje Digitalnog blagostanja</string>
+    <string name="tip_6_4_link_off">Ažuriranje Digitalnog blagostanja</string>
+    <string name="tip_6_4_link_on">Otvorite kontrolnu tablu</string>
+    <string name="tip_6_4_media_description">Videozapis o Digitalnom blagostanju</string>
+    <string name="tip_6_4_summary">Na kontrolnoj tabli Digitalnog blagostanja u Postavkama pogledajte snimak vremena korištenja i postavite tajmere za aplikacije koje želite manje koristiti.</string>
+    <string name="tip_6_4_title">Pratite vrijeme upotrebe uređaja</string>
+    <string name="tip_7_1_media_description">Videozapis o organiziranju aplikacija pomoću foldera</string>
+    <string name="tip_7_1_summary">"Kreirajte foldere da lakše pratite aplikacije.
+
+Da kreirate folder, prevucite aplikaciju na drugu aplikaciju. Novom folderu možete dati i naziv.
+
+Možete prevući i više aplikacija u folder ili prevući aplikaciju iz njega da ga uklonite."</string>
+    <string name="tip_7_1_title">Organizirajte aplikacije pomoću foldera</string>
+    <string name="tip_7_2_media_description">Videozapis o istovremenom korištenju dvije aplikacije</string>
+    <string name="tip_7_2_summary">"Postavite podijeljeni ekran na telefonu i koristite dvije aplikacije istovremeno. Neka rad u više aplikacija počne.
+
+1. Kliznite prema gore s dna ekrana da vidite nedavno korištene aplikacije
+2. Dodirnite i držite ikonu aplikacije na vrhu ekrana
+3. Dodirnite Podijeli ekran
+
+Po potrebi pomjerite razdjelnik gore i dolje. Kada završite, kliznite prstom da ga uklonite."</string>
+    <string name="tip_7_2_title">Koristite dvije aplikacije istovremeno</string>
+    <string name="tip_7_3_link">Otvorite Google Asistenta</string>
+    <string name="tip_7_3_media_description">Videozapis o kontroliranju telefona uz pomoć Asistenta</string>
+    <string name="tip_7_3_summary">"Asistent vam može pomoći da brže poduzimate radnje. Za razgovor s Asistentom brzo stisnite donju polovinu telefona. Nakon toga recite:
+
+1. \"Uslikaj selfi\"
+2. \"Napravi snimak ekrana\"
+3. \"Uključi svjetiljku\""</string>
+    <string name="tip_7_3_title">Koristite Google Asistenta da vam pomogne sa svakodnevnim zadacima</string>
+    <string name="tip_8_1_link">Instalirajte Google Keep</string>
+    <string name="tip_8_1_link_off">Instalirajte Google Keep</string>
+    <string name="tip_8_1_link_on">Otvorite Google Keep</string>
+    <string name="tip_8_1_media_description">Videozapis o pravljenju zabilješki</string>
+    <string name="tip_8_1_summary">"S aplikacijom Google Keep možete brzo zabilježiti svoje misli. Dodajte bilješke, spiskove, fotografije i zvučne zapise.
+
+Također možete postaviti podsjetnike da ne zaboravite završiti svoje zadatke. Keep vam također olakšava dijeljenje bilješki s prijateljima i porodicom."</string>
+    <string name="tip_8_1_title">Pišite bilješke i još mnogo toga s aplikacijom Google Keep</string>
+    <string name="tip_8_2_link">Instalirajte Google Vijesti</string>
+    <string name="tip_8_2_link_off">Instalirajte Google Vijesti</string>
+    <string name="tip_8_2_link_on">Otvorite Google Vijesti</string>
+    <string name="tip_8_2_media_description">Videozapis o usluzi Google Vijesti</string>
+    <string name="tip_8_2_summary">"Primajte vrhunski pregled najnovijih, lokalnih i globalnih vijesti.
+
+Samo jednim dodirom pristupite najčitanijim naslovima iz svojih omiljenih izvora. Vidjet ćete vremenski slijed ključnih trenutaka, mišljenja, analize i još mnogo toga što vam može pomoći da dobijete bolji uvid u događaje."</string>
+    <string name="tip_8_2_title">Budite u toku s Google Vijestima</string>
+    <string name="tip_8_3_link">Instalirajte Google Pay</string>
+    <string name="tip_8_3_link_off">Instalirajte Google Pay</string>
+    <string name="tip_8_3_link_on">Otvorite Google Pay</string>
+    <string name="tip_8_3_media_description">Videozapis o aplikaciji Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay predstavlja brz način plaćanja u milionima trgovina korištenjem samo Pixel telefona. Evo kako:
+
+1. Dodajte karticu u Google Pay
+2. Pri plaćanju potražite simbol beskontaktnog plaćanja [icon_span]
+3. Otključajte telefon i držite ga u blizini terminala
+4. Sačekajte dok se ne prikaže kvačica
+
+To je sve!"</string>
+    <string name="tip_8_3_title">Plaćajte sa svojim Pixelom</string>
+    <string name="tips_nav_a11y_media_description">Videozapis za korištenje novog pokreta za pristupačnost</string>
+    <string name="tips_nav_a11y_summary">"Da pristupite usluzi Odaberite za govor ili povećanju, prevucite od dna ekrana prema gore s dva prsta.
+
+Za prelazak na drugu aplikaciju za pristupačnost, prevucite prema gore s dva prsta i zadržite.
+
+Te pokrete možete koristiti nakon što završite s postavljanjem."</string>
+    <string name="tips_nav_a11y_title">Koristite novi pokret za pristupačnost</string>
+    <string name="title_download_completed_dialog">Učitavanje novih savjeta</string>
+    <string name="try_it_text">Isprobajte</string>
+    <string name="zero_state_primary">Sve ste pročitali</string>
+    <string name="zero_state_secondary">Provjerite kasnije za još savjeta</string>
+</resources>

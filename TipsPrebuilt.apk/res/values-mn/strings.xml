@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Нүүр хуудас руу шилжих</string>
+    <string name="abc_action_bar_up_description">Дээш шилжих</string>
+    <string name="abc_action_menu_overflow_description">Нэмэлт сонголтууд</string>
+    <string name="abc_action_mode_done">Дууссан</string>
+    <string name="abc_activity_chooser_view_see_all">Бүгдийг харах</string>
+    <string name="abc_activitychooserview_choose_application">Апп сонгох</string>
+    <string name="abc_capital_off">ИДЭВХГҮЙ</string>
+    <string name="abc_capital_on">ИДЭВХТЭЙ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">устгах</string>
+    <string name="abc_menu_enter_shortcut_label">оруулах</string>
+    <string name="abc_menu_function_shortcut_label">Функц+</string>
+    <string name="abc_menu_meta_shortcut_label">Мета+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">зай</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Цэс+</string>
+    <string name="abc_search_hint">Хайх...</string>
+    <string name="abc_searchview_description_clear">Асуулгыг цэвэрлэх</string>
+    <string name="abc_searchview_description_query">Хайх асуулга</string>
+    <string name="abc_searchview_description_search">Хайх</string>
+    <string name="abc_searchview_description_submit">Асуулгыг илгээх</string>
+    <string name="abc_searchview_description_voice">Дуут хайлт</string>
+    <string name="abc_shareactionprovider_share_with">Хуваалцах</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-тай хуваалцах</string>
+    <string name="abc_slice_permission_allow">Зөвшөөрөх</string>
+    <string name="abc_slice_permission_checkbox">%1$s-д дурын аппаас хэсэг харуулахыг зөвшөөрөх</string>
+    <string name="abc_slice_permission_deny">Татгалзах</string>
+    <string name="abc_slice_permission_text_1">- Энэ %1$s-с мэдээлэл унших боломжтой</string>
+    <string name="abc_slice_permission_text_2">- Энэ %1$s дотор үйлдэл хийх боломжтой</string>
+    <string name="abc_slice_permission_title">%1$s-д %2$s-н хэсгүүдийг харуулахыг зөвшөөрөх үү?</string>
+    <string name="abc_slices_permission_request">%1$s %2$s-н хэсгүүдийг харуулах хүсэлтэй байна</string>
+    <string name="abc_toolbar_collapse_description">Хумих</string>
+    <string name="all_topics_header_text">Бүх сэдэв</string>
+    <string name="allset_description">"Таны утас ашиглаж эхлэхэд бэлэн боллоо.
+
+Та зангааны навигацыг унтраах болон буцах, Нүүр хэсэгт очих, аппуудыг сэлгэх товчлуурыг ашиглах боломжтой.
+"<annotation id="link">Тохиргоо руу очих</annotation></string>
+    <string name="allset_hint">Эхлүүлэхийн тулд дээш шударна уу</string>
+    <string name="allset_page_title">Бүгдийг тохируулсан</string>
+    <string name="allset_setting_link">Хүртээмжийн шилжих тохиргоо</string>
+    <string name="allset_title">Тохируулж дууслаа!</string>
+    <string name="app_name">Pixel-н зөвлөгөөнүүд</string>
+    <string name="article_helpful_feedback_toast">Санал хүсэлт өгсөнд баярлалаа. Энэ нь цаашдын зөвлөгөөг мэдэгдэхэд тусална.</string>
+    <string name="article_helpful_no">Үгүй</string>
+    <string name="article_helpful_talkback_selected_no">Үгүй товчлуурыг сонгосон</string>
+    <string name="article_helpful_talkback_selected_yes">Тийм товчлуурыг сонгосон</string>
+    <string name="article_helpful_talkback_unselected_no">Үгүй товчлуурын сонголтыг болиулсан</string>
+    <string name="article_helpful_talkback_unselected_yes">Тийм товчлуурын сонголтыг болиулсан</string>
+    <string name="article_helpful_text">Хэрэгтэй байсан уу?</string>
+    <string name="article_helpful_yes">Тийм</string>
+    <string name="asset_is_downloading_content_description">Видео/Зургийг татаж байна</string>
+    <string name="common_google_play_services_enable_button">Идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_install_button">Суулгах</string>
+    <string name="common_google_play_services_install_text">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээг авах</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-н үйлчилгээнүүдийн боломжит байдал</string>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="common_google_play_services_unsupported_text">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_google_play_services_update_text">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_google_play_services_updating_text">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="common_open_on_phone">Утсаар нээх</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="connectivity_summary_assets_download_slowly">Видео болон зураг харахын тулд Wi-Fi-д холбогдох эсвэл сүлжээг сэлгэхийг оролдоно уу</string>
+    <string name="connectivity_summary_assets_not_downloaded">Видеонууд болон зургуудыг харуулахад интернэт холболт шаардлагатай</string>
+    <string name="module_1_0010_summary">Аппуудыг сэлгэх, тохиргоонуудыг хурдан өөрчлөх, илүү сайн төвлөрөх болон бусад</string>
+    <string name="module_1_0010_tag_text">Эхлүүлэх</string>
+    <string name="module_1_0010_title">[model_name]-р эхлүүлэх</string>
+    <string name="module_1_0101_summary">Аппуудыг олох, утсаараа хэсүүчлэх болон бусад</string>
+    <string name="module_1_0101_tag_text">Эхлүүлэх</string>
+    <string name="module_1_0101_title">Pixel-р эхлүүлэх</string>
+    <string name="module_1_1000_summary">iPhoneⓇ ашиглаж байгаад больсон уу? Аппууд хайж, утастайгаа танилцаж, бусад зүйлийг хийгээрэй</string>
+    <string name="module_1_1000_tag_text">Эхлүүлэх</string>
+    <string name="module_1_1000_title">Pixel-г эхлүүлцгээе</string>
+    <string name="module_2_1111_summary">Туслахтайгаа ярьж, Now Playing-р дууны нэр/уран бүтээлчийг олж, бусад зүйлийг хийгээрэй</string>
+    <string name="module_2_1111_tag_text">Google-г томруулах</string>
+    <string name="module_2_1111_title">Google-г бүрэн ашиглаарай</string>
+    <string name="module_3_1111_summary">Гоёмсог хөрөг зураг авч, горим хооронд сэлгэж, бусад зүйлийг хийгээрэй</string>
+    <string name="module_3_1111_tag_text">Камерыг хүссэнээрээ ашиглах</string>
+    <string name="module_3_1111_title">Камер болон зургаа тааламжтайгаар ашиглаарай</string>
+    <string name="module_4_1111_summary">Зураг илгээж, видео дуудлага хийж, зураг хуваалцаарай</string>
+    <string name="module_4_1111_tag_text">Мессеж болон дуудлага</string>
+    <string name="module_4_1111_title">Мессеж бичиж, дуудлага хийгээрэй</string>
+    <string name="module_5_1111_summary">Камераа хурдан нээж, мэдэгдэл шалгаж, бусад зүйлийг хийгээрэй</string>
+    <string name="module_5_1111_tag_text">Зангаа ашиглах</string>
+    <string name="module_5_1111_title">Шуурхай товчлол гаргахын тулд зангаа ашиглаарай</string>
+    <string name="module_6_1111_summary">Дэлгэцийн цагаа шинжлэх, салгахын тулд хуваарь тохируулах болон бусад</string>
+    <string name="module_6_1111_tag_text">Хэрэглээг удирдах</string>
+    <string name="module_6_1111_title">Дижитал хэрэглээгээ удирдах</string>
+    <string name="module_7_1111_summary">Хоёр аппыг нэг дор харах, аппуудыг фолдероор цэгцлэх болон бусад</string>
+    <string name="module_7_1111_tag_text">Эксперт болох</string>
+    <string name="module_7_1111_title">Pixel эксперт болох</string>
+    <string name="module_8_1111_summary">Тэмдэглэл хөтлөх, Pixel-р төлөх болон хамгийн сүүлийн үеийн мэдээг авах</string>
+    <string name="module_8_1111_tag_text">Аппуудыг судлах</string>
+    <string name="module_8_1111_title">Үндсэн Google аппуудыг судлах</string>
+    <string name="next_btn">Дараах</string>
+    <string name="next_module_link_back_home_page_text">Дараах: Бүх зөвлөгөөг судлах</string>
+    <string name="next_module_link_text">Дараах: %1$s</string>
+    <string name="next_tip_content_description">Дараах зөвлөгөө</string>
+    <string name="ob_gesture_app_go_back_media_description">Буцах шинэ зангааны тухай видео</string>
+    <string name="ob_gesture_app_go_back_summary">Сүүлийн дэлгэц рүү буцахын тулд дэлгэцийн зүүн эсвэл баруун өнцгөөс дунд хэсэг рүү шударна уу</string>
+    <string name="ob_gesture_app_go_back_title">Буцах</string>
+    <string name="ob_gesture_app_home_media_description">Нүүр хуудас руу очих шинэ зангааны тухай видео</string>
+    <string name="ob_gesture_app_home_summary">"Дэлгэцийн доод талаас дээш шударна уу.
+Таныг энэ зангаагаар үргэлж үндсэн нүүрэнд аваачина."</string>
+    <string name="ob_gesture_app_home_title">Нүүр хуудас руу очих</string>
+    <string name="ob_gesture_app_overview_media_description">Тоймын шинэ зангааны тухай видео</string>
+    <string name="ob_gesture_app_overview_summary">Дэлгэцийн доод талаас дээш удаан шударна уу</string>
+    <string name="ob_gesture_app_overview_title">Апп сэлгэх</string>
+    <string name="onboarding_education_page_title">Навигацийн зангааны танилцуулга</string>
+    <string name="previous_module_link_text">Өмнөх: %1$s</string>
+    <string name="previous_tip_content_description">Өмнөх зөвлөгөө</string>
+    <string name="search_menu_title">Хайлт</string>
+    <string name="settings_search_main_entry_screen_title">Зөвлөгөө &amp; дэмжлэг > Pixel Tips Судлах</string>
+    <string name="settings_search_main_entry_summary">Pixel-г бүрэн ашиглаарай. Видео болон бусад зүйлийг үзнэ үү.</string>
+    <string name="smart_space_subtitle_android">Зөвлөгөө харахын тулд товших</string>
+    <string name="smart_space_subtitle_ios">Зөвлөгөө харахын тулд товших</string>
+    <string name="smart_space_subtitle_others">Зөвлөгөө харахын тулд товших</string>
+    <string name="smart_space_subtitle_pixel">Шинэ зүйлсийг хараарай</string>
+    <string name="smart_space_title">Шинэ Pixel-д тавтай морил</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Босоо зураг авах, төгс мөчийг тааруулж авах болон бусад зүйлийг хийгээрэй</string>
+    <string name="suggestion_summary_module_communication">Зураг илгээх, видео дуудлага хийх болон бусад зүйлийг хийгээрэй</string>
+    <string name="suggestion_summary_module_gestures">Мэдэгдэл шалгах, камер нээх болон бусад зүйлийг хийгээрэй</string>
+    <string name="suggestion_summary_module_google_smarts">Google Туслахтайгаа ярих болон бусад зүйлийг хийгээрэй</string>
+    <string name="suggestion_title_module_camera">Камер болон зургаа тааламжтайгаар ашиглаарай</string>
+    <string name="suggestion_title_module_communication">Мессеж бичих болон дуудлага хийх зөвлөгөө</string>
+    <string name="suggestion_title_module_gestures">Товчлолд хандахын тулд зангаа ашиглах</string>
+    <string name="suggestion_title_module_google_smarts">Google-г бүрэн ашиглаарай</string>
+    <string name="tip_1_1_media_description">Аппуудыг хэрхэн олох тухай видео</string>
+    <string name="tip_1_1_summary">Саяхны аппуудаа харахын тулд дэлгэцийнхээ доод хэсгээс дээш шударна уу. Түүнчлэн та дэлгэцийн доод хэсэгт цаашид ашиглаж болзошгүй аппуудынхаа мөрийг харах болно. Бүх аппаа харахын тулд дахин дээш шударна уу.</string>
+    <string name="tip_1_1_title">Аппуудаа олоорой</string>
+    <string name="tip_1_2_media_description">Аппуудыг хэрхэн эмхэлж цэгцлэх тухай видео</string>
+    <string name="tip_1_2_summary">"Үндсэн нүүрэндээ апп нэмэхийн тулд аппад хүрээд чирнэ үү.
+
+Аппыг хасахын тулд аппад хүрээд удаан дарж дэлгэцийнхээ дээд хэсэг рүү чирнэ үү."</string>
+    <string name="tip_1_2_title">Үндсэн нүүрэнд аппууд нэмэх</string>
+    <string name="tip_1_3_link">Play Store руу очих</string>
+    <string name="tip_1_3_media_description">Үндсэн аппуудын зураг</string>
+    <string name="tip_1_3_summary">"Эдгээр апптай танилцаарай:
+- Play Store: Хүссэн аппаа олоод татаж аваарай
+- Google Зураг: Зураг хайж, хадгалж, хуваалцаарай
+- Google Keep: Тэмдэглэл бичиж, жагсаалт гаргаж, бусад зүйлийг хийгээрэй"</string>
+    <string name="tip_1_3_title">Үндсэн аппуудтай танилцаарай</string>
+    <string name="tip_1_4_media_description">Мэдэгдлийн тухай видео</string>
+    <string name="tip_1_4_summary">"Мэдэгдэл харахын тулд дэлгэцийнхээ дээд хэсгээс доош шударна уу. Мэдэгдлийг устгахын тулд үүнийг зүүн эсвэл баруун тийш шударна уу.
+
+Мэдэгдлийн талаар дэлгэрэнгүй мэдээллийг нь харахын тулд дээр нь удаан дарна уу."</string>
+    <string name="tip_1_4_title">Мэдэгдлээ хараарай</string>
+    <string name="tip_1_5_media_description">Тохиргоог хэрхэн өөрчлөх тухай видео</string>
+    <string name="tip_1_5_summary">"Шуурхай тохиргоог нээхийн тулд Pixel-нхээ дээд хэсгээс доош шударна уу. Бусад тохиргоог харахын тулд дахин доош шударна уу.
+
+Тохиргоог унтраах эсвэл асаахын тулд дээр нь товшино уу. Тохиргооны бусад сонголтыг харахын тулд удаан дарна уу."</string>
+    <string name="tip_1_5_title">Үндсэн тохиргоог шуурхай өөрчлөөрэй</string>
+    <string name="tip_1_6_link">Тохиргоо руу очих</string>
+    <string name="tip_1_6_media_description">Бүү саад бол горимын тухай видео</string>
+    <string name="tip_1_6_summary">"Ta утсаа ашиглах үедээ төвлөрсөн хэвээр байх хүсэлтэй байвал мэдэгдэл гарч ирэхийг зогсоож болно.
+
+Бүү саад бол горимын шинэ хяналттай танилцана уу."</string>
+    <string name="tip_1_6_title">Бүү саад бол горимын тусламжтайгаар илүү сайн төвлөрөөрэй</string>
+    <string name="tip_1_7_media_description">Үйлдлийг хэрхэн харах тухай видео</string>
+    <string name="tip_1_7_summary">"Ресторанд захиалга өгөх зэрэг хийх боломжтой үйлдлээ харахын тулд текстэд хүрээд удаан дарна уу.
+
+Та үүнийг дурын аппаас хийх боломжтой. Энэ үйлдлийг апп хооронд сэлгэх үед ч хийх боломжтой."</string>
+    <string name="tip_1_7_title">Текст сонгох үед хийх боломжтой үйлдлээ хараарай</string>
+    <string name="tip_1_9_link">Дэмжлэг хэсэгт очих</string>
+    <string name="tip_1_9_media_description">Зөвлөгөө &amp; дэмжлэгийн тухай видео</string>
+    <string name="tip_1_9_summary">"Илүү их зөвлөгөө болон дэмжлэг нь ямар ч үед боломжтой. Тохиргоо хэсгийн > Зөвлөгөө &amp; дэмжлэг хэсэгт очно уу.
+
+Та зөвлөгөөг судлах, тусламжийн нийтлэлийг ачаалах эсвэл Pixel-н багтай харилцах боломжтой."</string>
+    <string name="tip_1_9_title">Хэрэгтэй үедээ тусламж авах</string>
+    <string name="tip_2_1_link">Тохиргоонд нээх</string>
+    <string name="tip_2_1_link_description">Энэ онцлогийг асаахын тулд доорх товчлуурыг товшино уу.</string>
+    <string name="tip_2_1_link_description_off">Энэ онцлогийг асаахын тулд доорх товчлуурыг товшино уу.</string>
+    <string name="tip_2_1_link_off">Тохиргоонд асаах</string>
+    <string name="tip_2_1_link_on">Атгах тохиргоо</string>
+    <string name="tip_2_1_media_description">Туслахаа ашиглахын тулд төхөөрөмжөө хэрхэн атгах тухай видео</string>
+    <string name="tip_2_1_summary">Google Туслахтайгаа хүссэн үедээ ярихын тулд (дэлгэц унтраалттай байсан ч гэсэн) утасныхаа доод хэсгийг атгаад, хурдан суллана уу.</string>
+    <string name="tip_2_1_title">Туслахаа ашиглахын тулд төхөөрөмжөө атгаарай</string>
+    <string name="tip_2_2_link">Бусад үйлдэл</string>
+    <string name="tip_2_2_media_description">Туслах үйлдлүүдийн тухай видео</string>
+    <string name="tip_2_2_summary">"Таны Google Туслах нь хариулт олох болон Pixel төхөөрөмжөөрөө ажлаа амжуулахад туслах хурдан бөгөөд хялбар арга юм.
+
+Туслахтайгаа ярихын тулд утасныхаа доод хэсгийг атгаж, хурдан суллаад дараахыг хэлнэ үү:
+
+- Миний маргаашийн эхний арга хэмжээ хэдэн цагаас вэ?
+- Миний дэлгүүрээс авах зүйлийн жагсаалтад шүдний оо нэмнэ үү
+- Гэртээ харьцгаая"</string>
+    <string name="tip_2_2_title">Туслахынхаа хийх боломжтой зүйлстэй танилцаарай</string>
+    <string name="tip_2_3_link">Дуран нээх</string>
+    <string name="tip_2_3_media_description">Google дурангаар хайх тухай видео</string>
+    <string name="tip_2_3_summary">"Таны харааг булаах өхөөрдөм амьтан, өвөрмөц ургамал эсвэл гайхалтай газрын тэмдэглэгээг хармаар байна уу? Нэмэлт мэдээлэл авахын тулд Google дуранг ашиглана уу.
+
+Камераа нээгээд, viewfinder-г удаан дараад, сонирхож буй зүйлээ товшиход л хангалттай."</string>
+    <string name="tip_2_3_title">Google дурангаар харж буй зүйлээ хайх</string>
+    <string name="tip_2_4_link">Google Play-г нээх</string>
+    <string name="tip_2_4_link_description">Now Playing-г ашиглахын тулд Пикселийн идэвхгүй үйлчилгээг шинэчилнэ үү.</string>
+    <string name="tip_2_4_link_description_off">Энэ онцлогийг асаахын тулд доорх товчийг товшино уу.</string>
+    <string name="tip_2_4_link_off">Тохиргоонд асаах</string>
+    <string name="tip_2_4_link_on">Now Playing-н тохиргоо</string>
+    <string name="tip_2_4_media_description">Now Playing-н тухай видео</string>
+    <string name="tip_2_4_summary">Now Playing нь таныг хаана ч, ямар ч дууг тоглуулж байсан тухайн дууны мэдээллийг автоматаар харуулдаг.</string>
+    <string name="tip_2_4_title">Now Playing-р дууны нэр/уран бүтээлчийг олоорой</string>
+    <string name="tip_2_5_link">Камерыг нээх</string>
+    <string name="tip_2_5_media_description">Камерыг хэрхэн ашиглах тухай видео</string>
+    <string name="tip_2_5_summary">Таны Pixel утасны дугаар, хаяг, имэйл, зураасан код болон хурдан хариу үйлдлийн кодыг автоматаар таньдаг. Та зөвхөн камераа нээгээд чиглүүлэхэд л хангалттай. Таны камер өөрөө ажиллах болно.</string>
+    <string name="tip_2_5_title">Камераа ажиллуулаарай</string>
+    <string name="tip_3_1_link">Камерыг нээх</string>
+    <string name="tip_3_1_media_description">Камерын горимыг хэрхэн сэлгэх тухай видео</string>
+    <string name="tip_3_1_summary">"Та заримдаа зураг авах, видео хийх эсвэл арай өөр зүйл хийхийг хүсэж болно. 
+
+Горимуудын хооронд сэлгэхийн тулд Камерын viewfinder-г нээгээд баруун эсвэл зүүн тийш шудрахад л хангалттай. Бусад сонголтыг харахын тулд Бусад гэснийг товшино уу."</string>
+    <string name="tip_3_1_title">Зураг, видео хооронд сэлгэж бусад зүйлийг хийгээрэй</string>
+    <string name="tip_3_2_link">Камерыг нээх</string>
+    <string name="tip_3_2_media_description">Босоо зураг авах тухай видео</string>
+    <string name="tip_3_2_summary">"Pixel Босоо горимын үед зургийг гоёмсог байдлаар, мэргэжлийн түвшинд авахын тулд арын фоныг нь бүдгэрүүлдэг. Үүнийг туршиж үзээд зургаа аваарай.
+
+Камераа нээгээд зүүнээс баруун тийш шударснаар ашиглахад бэлэн болно."</string>
+    <string name="tip_3_2_title">Босоо зургаа мэргэжлийн түвшинд аваарай</string>
+    <string name="tip_3_3_media_description">Дэлгэцийн зургийг хэрхэн дарах тухай видео</string>
+    <string name="tip_3_3_summary">"Асаах товчийг удаан дараад дараа нь Дэлгэцийн зургийг дарах сонголтыг товшино уу. Ta дөнгөж сая дэлгэцийн зургийг дарлаа.
+
+Дэлгэцийн зурган дээр зураг зурахын тулд харагдаж буй мэдэгдлийн Засах гэсэн сонголтыг товшино уу."</string>
+    <string name="tip_3_3_title">Дэлгэцийн зургийг шуурхай авч, засаарай</string>
+    <string name="tip_3_4_link">Камерыг нээх</string>
+    <string name="tip_3_4_media_description">Top Shot-р төгс хормыг сонгох тухай видео</string>
+    <string name="tip_3_4_summary">"Таныг зураг авах бүрд Пиксель нэмэлт нэг эсвэл хоёр зургийг хадгалдаг бөгөөд ингэснээр та төгс авсан зургаа сонгож чадна.
+
+1.  Хөдөлгөөнтийг [icon_span] асаасан эсэхийг шалгаад зургаа авна уу
+2. Зургаа үзэж байхдаа доороос нь дээш шударна уу
+3. Зургийн бусад хувилбарыг харахын тулд \"Энэ зургийн хувилбарууд\" гэснийг товшино уу"</string>
+    <string name="tip_3_4_title">Top Shot-р төгс хормыг сонгох</string>
+    <string name="tip_3_5_link">Камерыг нээх</string>
+    <string name="tip_3_5_media_description">Бүлэг сельфи авах тухай видео</string>
+    <string name="tip_3_5_summary">"Олуулаа авхуулах сельфи нь таныг найзуудтайгаа эсвэл орчин тойронтой зургаа авхуулахад зориулж, илүү их зай гаргаж өгдөг бөгөөд сельфиний гар ашиглах шаардлагагүй.
+
+1. Урд талын камер [icon_span] руу сэлгэнэ үү
+2. Томруулахын тулд дэлгэцийг хоёр удаа товшиж, харин жижигрүүлэхийн тулд хуруугаараа дотогш чимхэнэ үү"</string>
+    <string name="tip_3_5_title">Бүлэг сельфи авах</string>
+    <string name="tip_4_1_link">Мессежийг нээх</string>
+    <string name="tip_4_1_media_description">Зураг илгээх тухай видео</string>
+    <string name="tip_4_1_summary">"1. Харилцан яриаг Мессеж аппад нээнэ үү
+2. Мессеж бичдэг хэсгийнхээ зүүн талд байрлах Бичих [icon_span] сонголтыг товшино уу
+3. Төгс тохирох зураг, эможи эсвэл стикерийг сонгоно уу"</string>
+    <string name="tip_4_1_title">Зураг илгээгээрэй</string>
+    <string name="tip_4_2_link">Duo-г суулгах</string>
+    <string name="tip_4_2_link_off">Duo-г суулгах</string>
+    <string name="tip_4_2_link_on">Duo-г нээх</string>
+    <string name="tip_4_2_media_description">Google Duo-г хэрхэн ашиглах тухай видео</string>
+    <string name="tip_4_2_summary">"Дотнын найзууд, гэр бүлийнхэнтэйгээ нүүр нүүрээ харж ярилцах мэдрэмжийг юутай ч зүйрлэшгүй байдаг. Тиймээс Pixel нь Google Duo-н тусламжтайгаар видео дуудлага хийхийг хялбаршуулсан болно.
+
+1. Google Duo аппыг нээнэ үү
+2. Харилцагчаа хайна уу
+3. Видео дуудлагыг нэг товшилтоор эхлүүлэх буюу эсвэл тэднийг Google Duo татаж авахыг урина уу
+
+Таны iOSⓇ утас эсвэл таблет ашигладаг найзууд Google Duo-г мөн адил ашиглах боломжтой."</string>
+    <string name="tip_4_2_title">Google Duo-р видео дуудлага хийгээрэй</string>
+    <string name="tip_4_3_link">Google Зургийг нээх</string>
+    <string name="tip_4_3_media_description">Зургийг хэрхэн хуваалцах тухай видео</string>
+    <string name="tip_4_3_summary">"1. Google Зургийг нээнэ үү
+2. Зураг сонгохын тулд хүрээд &amp; дарна уу
+3. Хүсвэл олон зураг сонгоно уу
+4. [icon_span]-г хуваалцахыг товшино уу
+5. Хуваалцах хүнийг сонгоно уу"</string>
+    <string name="tip_4_3_title">Зураг хуваалцаарай</string>
+    <string name="tip_4_4_link">Эхлүүлэх</string>
+    <string name="tip_4_4_media_description">Компьютерээсээ текст бичих тухай видео</string>
+    <string name="tip_4_4_summary">"Та Андройд мессежийг ашиглан компьютероосоо текст бичих боломжтой. Эхлүүлэхийн тулд мессеж аппдаа очиж цэсээс “Вэбэд зориулсан мессеж” гэснийг сонгоно уу.
+
+Та мессеж бичихээс гадна стикер, эможи илгээх болон зураг хавсаргах боломжтой."</string>
+    <string name="tip_4_4_title">Компьютероосоо текст илгээх</string>
+    <string name="tip_5_1_link">Тохиргоо руу очих</string>
+    <string name="tip_5_1_link_off">Үүнийг Тохиргоонд асаах</string>
+    <string name="tip_5_1_link_on">Тохиргоо руу очих</string>
+    <string name="tip_5_1_media_description">Утсаа хэрхэн шалгах тухай видео</string>
+    <string name="tip_5_1_summary">Та дэлгэцээ хоёр товшсоноор цаг, мэдэгдэл болон бусад зүйлийг шалгах боломжтой.</string>
+    <string name="tip_5_1_title">Утсаа шалгахын тулд хоёр товшоорой</string>
+    <string name="tip_5_2_link">Тохиргоо руу очих</string>
+    <string name="tip_5_2_link_off">Үүнийг Тохиргоонд асаах</string>
+    <string name="tip_5_2_link_on">Тохиргоо руу очих</string>
+    <string name="tip_5_2_media_description">Камер руу хэрхэн очих тухай видео</string>
+    <string name="tip_5_2_summary">Камераа шуурхай нээхийн тулд асаах товчин дээр дурын дэлгэцээс хоёр удаа дарна уу.</string>
+    <string name="tip_5_2_title">Камер руу очих</string>
+    <string name="tip_5_3_link">Тохиргоо руу очих</string>
+    <string name="tip_5_3_link_off">Үүнийг Тохиргоонд асаах</string>
+    <string name="tip_5_3_link_on">Тохиргоо руу очих</string>
+    <string name="tip_5_3_media_description">Босоо горим руу хэрхэн сэлгэх тухай видео</string>
+    <string name="tip_5_3_summary">Камерын сельфи хийх горимыг унтраах/асаахын тулд аппыг ашиглах үедээ бугуйгаа хоёр эргүүлнэ үү.</string>
+    <string name="tip_5_3_title">Камер руу шилжих</string>
+    <string name="tip_5_4_link">Тохиргоо руу очих</string>
+    <string name="tip_5_4_link_off">Үүнийг Тохиргоо хэсэгт асаана уу</string>
+    <string name="tip_5_4_link_on">Тохиргоо руу очих</string>
+    <string name="tip_5_4_media_description">Мэдэгдэл шалгахын тулд хурууны хээ мэдрэгчийг хэрхэн шудрах тухай видео</string>
+    <string name="tip_5_4_summary">"Та мэдэгдлээ шалгахдаа утасныхаа арын хурууны хээ мэдрэгчийг доош шудрах боломжтой.
+Шуурхай тохиргоог харахын тулд дахин шударна уу."</string>
+    <string name="tip_5_4_title">Мэдэгдэл шалгахын тулд хурууны хээ мэдрэгчийг шударна уу</string>
+    <string name="tip_5_5_media_description">Апп хооронд хэрхэн сэлгэх тухай видео</string>
+    <string name="tip_5_5_summary">Апп хооронд хурдан сэлгэхийн тулд дэлгэцийн доод хэсэгт зүүнээс баруун тийш гүйлгэнэ үү. Аппыг нээхийн тулд суллана уу.</string>
+    <string name="tip_5_5_title">Апп хооронд хурдан сэлгэх арга</string>
+    <string name="tip_6_1_link">Шөнийн гэрлийн тохиргоо</string>
+    <string name="tip_6_1_media_description">Шөнийн гэрлийн тухай видео</string>
+    <string name="tip_6_1_summary">"Шөнийн гэрэл таны дэлгэцийг улбар шар туяатай болгодог. Энэ нь үүнийг дэлгэц рүү харах эсвэл бүдэг гэрэлд унших болон илүү хялбар унтахад тусалж болзошгүй.
+
+Та шөнийн гэрлийг Шуурхай тохиргоонд түргэн асаах эсвэл унтраах боломжтой. Эсвэл хуваарь тохируулахын тулд хүрээд &amp; удаан дарна уу."</string>
+    <string name="tip_6_1_title">Шөнийн гэрлийн тусламжтай илүү хялбар унтах</string>
+    <string name="tip_6_2_link">Дижитал хэрэглээг шинэчлэх</string>
+    <string name="tip_6_2_link_off">Дижитал хэрэглээг шинэчлэх</string>
+    <string name="tip_6_2_link_on">Амрах онцлогийг тохируулах</string>
+    <string name="tip_6_2_media_description">Амрах онцлогийн тусламжтай унтах цагийн хуваарийг тохируулах тухай видео</string>
+    <string name="tip_6_2_summary">"Утсаа оролдохоо болихын тулд шөнийн хуваарь тохируулаарай.
+
+1. Дижитал хэрэглээг [icon_span] нээнэ үү
+2. Амрахыг товшино уу
+3. Амрах хуваариа тохируулна уу
+
+Унтах цаг болоход таны дэлгэцийн өнгө өөрчлөгдөж, Бүү саад бол горим таныг бөх унтахад туслах зорилгоор мэдэгдэл ирэхээс сэргийлнэ."</string>
+    <string name="tip_6_2_title">Амрах онцлогоор унтах цагийн хуваарь тохируулах</string>
+    <string name="tip_6_3_link">Чимээгүй болгон хөнтрөхийг оролдох</string>
+    <string name="tip_6_3_link_off">Дижитал хэрэглээг шинэчлэх</string>
+    <string name="tip_6_3_link_on">Тохиргоо руу очих</string>
+    <string name="tip_6_3_media_description">Анхаарал сарниулах зүйлсийг шуурхай зогсоох тухай видео</string>
+    <string name="tip_6_3_summary">Чимээгүй болгон хөнтрөхийн тусламжтай Бүү саад бол горимыг асаах болон мэдэгдэл ба дууг зогсоохын тулд утсаа доош харуулан тавина уу.</string>
+    <string name="tip_6_3_title">Саад болох зүйлсийг түргэн зогсоох</string>
+    <string name="tip_6_4_link">Дижитал хэрэглээг шинэчлэх</string>
+    <string name="tip_6_4_link_off">Дижитал хэрэглээг шинэчлэх</string>
+    <string name="tip_6_4_link_on">Хяналтын самбарыг нээх</string>
+    <string name="tip_6_4_media_description">Дижитал хэрэглээний тухай видео</string>
+    <string name="tip_6_4_summary">Бага ашиглахыг хүсэж буй аппууддаа цаг хэмжигч тохируулах болон дэлгэцийн цагийнхаа агшин зургийг харахын тулд Тохиргооноос Дижитал хэрэглээг хянах самбарыг шалгана уу.</string>
+    <string name="tip_6_4_title">Дэлгэцийн цагаа хянах</string>
+    <string name="tip_7_1_media_description">Аппуудыг фолдероор цэгцлэх тухай видео</string>
+    <string name="tip_7_1_summary">"Аппуудаа хялбархнаар хянахын тулд фолдер үүсгээрэй.
+
+Фолдер үүсгэхийн тулд өөр аппын дээд хэсэгт аппыг чирнэ үү. Та фолдерыг нэрлэх боломжтой.
+
+Та илүү их аппыг фолдерт чирэх эсвэл үүнийг устгахын тулд аппыг чирэх боломжтой."</string>
+    <string name="tip_7_1_title">Аппуудыг фолдероор цэгцлэх</string>
+    <string name="tip_7_2_media_description">2 аппыг нэгэн зэрэг ашиглах тухай видео</string>
+    <string name="tip_7_2_summary">"Та утсандаа дэлгэц хуваах горимыг тохируулснаар хоёр аппыг зэрэг ашиглах боломжтой. Олон үйлдлийг эхлүүлцгээе.
+
+1. Саяхны аппуудаа харахын тулд дэлгэцийнхээ доороос дээш шударна уу
+2. Дэлгэцийн дээд талын аппын дүрс тэмдэгт хүрээд, удаан дарна уу
+3. Дэлгэц хуваахыг товшино уу
+
+Хуваагчийг шаардлагатай хэмжээгээрээ дээш болон доош зөөнө үү. Дуусмагцаа үүнийг хажуу тийш нь шударна уу."</string>
+    <string name="tip_7_2_title">Хоёр аппыг зэрэг харах</string>
+    <string name="tip_7_3_link">Google Туслахыг нээх</string>
+    <string name="tip_7_3_media_description">Туслахаар утас хянах тухай видео</string>
+    <string name="tip_7_3_summary">"Таны Туслах үйлдлүүдийг түргэн хийхэд танд туслах боломжтой. Туслахтайгаа ярихын тулд утасныхаа доод хагасыг түргэн атгана уу. Дараа нь:
+
+1. \"Сельфи авах\"
+2. \"Дэлгэцийн зураг дарах\"
+3. \"Гэрэлтүлэгчийг асаах\" гэж хэлнэ үү"</string>
+    <string name="tip_7_3_title">Google Туслахаа өдөр тутмын ажилд туслуулахдаа ашиглаарай</string>
+    <string name="tip_8_1_link">Google Keep-г суулгах</string>
+    <string name="tip_8_1_link_off">Google Keep-г суулгах</string>
+    <string name="tip_8_1_link_on">Google Keep-г нээх</string>
+    <string name="tip_8_1_media_description">Тэмдэглэл авах тухай видео</string>
+    <string name="tip_8_1_summary">"Google Keep аппаар бодож байгаа зүйлээ түргэн тэмдэглэх боломжтой. Тэмдэглэл, жагсаалт, зураг болон аудио нэмнэ үү.
+
+Мөн та сануулагч тохируулах боломжтой тул ажлаа дуусгахаа санах болно. Мөн Keep үүнийг найзууд болон гэр бүлтэй тэмдэглэл хуваалцахад хялбар болгодог."</string>
+    <string name="tip_8_1_title">Google Keep-р тэмдэглэл хөтлөх болон бусад</string>
+    <string name="tip_8_2_link">Google News-г суулгах</string>
+    <string name="tip_8_2_link_off">Google News-г суулгах</string>
+    <string name="tip_8_2_link_on">Google News-г нээх</string>
+    <string name="tip_8_2_media_description">Google Мэдээний тухай видео</string>
+    <string name="tip_8_2_summary">"Шуурхай, дотоод болон дэлхий дахины шилдэг мэдээг аваарай.
+
+Дуртай эх сурвалжийнхаа шилдэг толгой гарчгийг ганц товшилтоор хараарай. Та онцгой мөчүүд, санал сэтгэгдэл, анализ болон бусад зүйлийн он цагийн хэлхээсийг харах бөгөөд эдгээрийн тусламжтайгаар мэдээ, мэдээллийг илүү гүнзгий ойлгох боломжтой."</string>
+    <string name="tip_8_2_title">Google Мэдээгээр мэдээлэлтэй байх</string>
+    <string name="tip_8_3_link">Google Pay-г суулгах</string>
+    <string name="tip_8_3_link_off">Google Pay-г суулгах</string>
+    <string name="tip_8_3_link_on">Google Pay-г нээх</string>
+    <string name="tip_8_3_media_description">Google Pay-н тухай видео</string>
+    <string name="tip_8_3_summary">"Google Pay нь таны Pixel утсаа ашиглан сая сая дэлгүүрт төлбөр төлөх хурдан арга юм. Ашиглах зааварчилгаа:
+
+1. Google Pay-д карт нэмнэ үү
+2. Тооцоо хийхдээ контактгүй төлбөрийн тэмдгийг [icon_span] хайж олно уу
+3. Утасныхаа түгжээг тайлаад терминалын ойролцоо барина уу
+4. Тэмдэглэх дүрс тэмдгийг гарч иртэл хүлээнэ үү
+
+Ингээд л боллоо!"</string>
+    <string name="tip_8_3_title">Pixel-рээ төлөх</string>
+    <string name="tips_nav_a11y_media_description">Хандалтын шинэ зангаа ашиглахад зориулсан видео</string>
+    <string name="tips_nav_a11y_summary">"Ярихаар сонгох эсвэл томруулахад хандахын тулд хоёр хуруугаараа дэлгэцийн доороос дээш шударна уу.
+
+Хүртээмжийн аппуудын хооронд сэлгэхийн тулд хоёр хуруугаараа дээш шудраад удаан дарна уу.
+
+Та эдгээр зангааг тохируулж дууссаныхаа дараа ашиглах боломжтой."</string>
+    <string name="tips_nav_a11y_title">Хандалтын шинэ зангаа ашиглах</string>
+    <string name="title_download_completed_dialog">Шинэ зөвлөгөөг дахин ачаалах</string>
+    <string name="try_it_text">Туршиж үзэх</string>
+    <string name="zero_state_primary">Та бүгдийг уншсан</string>
+    <string name="zero_state_secondary">Шинэ зөвлөгөөнүүдийг дараа эргэж шалгаарай</string>
+</resources>

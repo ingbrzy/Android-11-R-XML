@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Naršyti aukštyn</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_capital_off">IŠJUNGTI</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
+    <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
+    <string name="abc_menu_delete_shortcut_label">„delete“</string>
+    <string name="abc_menu_enter_shortcut_label">„enter“</string>
+    <string name="abc_menu_function_shortcut_label">„Function“ +</string>
+    <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
+    <string name="abc_menu_shift_shortcut_label">„Shift“ +</string>
+    <string name="abc_menu_space_shortcut_label">„space“</string>
+    <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
+    <string name="abc_prepend_shortcut_label">„Menu“ +</string>
+    <string name="abc_search_hint">Ieškoti…</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_search">Ieškoti</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="accessibility_no_wifi">„Wi-Fi“ atjungtas.</string>
+    <string name="accessibility_wifi_one_bar">Viena „Wi-Fi“ signalo juosta.</string>
+    <string name="accessibility_wifi_security_type_none">Atviras tinklas</string>
+    <string name="accessibility_wifi_security_type_secured">Saugus tinklas</string>
+    <string name="accessibility_wifi_signal_full">Stiprus „Wi-Fi“ signalas.</string>
+    <string name="accessibility_wifi_three_bars">Trys „Wi-Fi“ signalo juostos.</string>
+    <string name="accessibility_wifi_two_bars">Dvi „Wi-Fi“ signalo juostos.</string>
+    <string name="account_exists_info">"Šiame {DEVICE_TYPE,select, PHONE{telefone}TABLET{planšetiniame kompiuteryje}other{kitame įrenginyje}} bus sinchronizuojamas jūsų el. paštas, kontaktai, kalendoriaus įvykiai ir kt. Taip pat galėsite atsisiųsti programų, muzikos ir žaidimų iš sistemos „Google Play“.
+
+Vėliau galėsite pridėti paskyrų arba jas pašalinti apsilankę skiltyje „Nustatymai“ > „Paskyros“"</string>
+    <string name="account_exists_text_single">Paskyra <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> parengta.</string>
+    <string name="account_exists_text_unknown_name">Jūsų paskyra paruošta.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Paskyra pridėta}one{Paskyros pridėtos}few{Paskyros pridėtos}many{Paskyros pridėtos}other{Paskyros pridėtos}}</string>
+    <string name="activating_carrier_service_text">Tai gali užtrukti kelias minutes</string>
+    <string name="activating_unknown_carrier_service_title">Suaktyvinama…</string>
+    <string name="activation_failed_message">"Galite atlikti toliau nurodytus veiksmus.
+"<ul><li>Dar kartą pabandykite prisijungti prie mobiliojo ryšio duomenų tinklo.</li>"
+"<li>Naudodami kitą tinklą atlikite sąranką.</li></ul>"
+
+Jei šios parinktys neveikia, taip pat galite iš naujo paleisti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{įrenginį}} ir bandyti dar kartą."</string>
+    <string name="activation_failed_title">Nepav. prisij. prie mob. ryšio duom. t.</string>
+    <string name="activation_progress_flow">"Trunka per ilgai?
+
+Per ilgai jungiamasi prie mobiliojo ryšio duomenų tinklo. Galite grįžti ir vietoj to pabandyti prisijungti prie kito tinklo."</string>
+    <string name="activation_title">Prisijungiama prie mob. ryšio paslaugos…</string>
+    <string name="activation_unprovisioned_sim_message">Paleiskite {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}} iš naujo ir bandykite dar kartą arba prisijungę prie „Wi‑Fi“ atlikite sąranką. Jei vis tiek kyla problemų suaktyvinant mobiliojo ryšio duomenis, susisiekite su operatoriumi.</string>
+    <string name="activation_unprovisioned_title">Nepavyko suaktyvinti mob. ryšio duomenų</string>
+    <string name="android_privacy_policy_title">Papildoma privatumo politika</string>
+    <string name="available_via_carrier">Pasiekiama naudojant „%1$s“</string>
+    <string name="cancel_button_label">Atšaukti</string>
+    <string name="captive_portal_connection_unsuccessful">Nepavyko prisijungti prie interneto</string>
+    <string name="captive_portal_description_text">Tai gali užtrukti kelias minutes</string>
+    <string name="captive_portal_ssl_error_text">Šis ryšys naudoja nesaugų arba netinkamą sertifikatą. Pasirinkote kitą tinklą ir bandykite dar kartą.</string>
+    <string name="captive_portal_title">Prisijungiama…</string>
+    <string name="chrome_privacy_title">„Chrome“ privatumo pranešimas</string>
+    <string name="chrome_tos_title">„Chrome“ paslaugų teikimo sąlygos</string>
+    <string name="close_button_label">Uždaryti</string>
+    <string name="common_google_play_services_enable_button">Įgalinti</string>
+    <string name="common_google_play_services_enable_text">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_enable_title">Įgalinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_install_button">Įdiegti</string>
+    <string name="common_google_play_services_install_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje.</string>
+    <string name="common_google_play_services_install_title">Gaukite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_notification_channel_name">„Google Play“ paslaugų pasiekiamumas</string>
+    <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+    <string name="common_google_play_services_unknown_issue">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="common_google_play_services_unsupported_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+    <string name="common_google_play_services_update_text">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_update_title">Atnaujinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_updating_text">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="connect_to_wifi_btn_text">„Wi-Fi“ nustatymai</string>
+    <string name="connect_to_wifi_message">Jei norite tęsti, prisijunkite prie „Wi-Fi“</string>
+    <string name="connect_to_wifi_title">Programos naujiniai paruošti</string>
+    <string name="connected_via_app">Prisijungta naudojant programą „%1$s“</string>
+    <string name="connected_via_carrier">Prisijungta naudojant „%1$s“</string>
+    <string name="connected_via_network_scorer_default">Automatiškai prisijungta naudojant tinklo įvertinimo paslaugos teikėjo paslaugomis</string>
+    <string name="consolidate_captive_portal_description_text">Tai gali užtrukti kelias minutes</string>
+    <string name="consolidate_captive_portal_title">Ieškoma naujinių…</string>
+    <string name="continue_for_a11y">Toliau lieskite ekraną, kol išgirsite pyptelėjimą ir bus galima įgalinti pritaikymo neįgaliesiems režimą.</string>
+    <string name="date_time_current_date">Data</string>
+    <string name="date_time_current_time">Laikas</string>
+    <string name="date_time_message">Jei reikia, koreguokite.</string>
+    <string name="date_time_setup_title">Data ir laikas</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Tęsti</string>
+    <string name="decision_point_google_assistant">„Google“ padėjėjas</string>
+    <string name="decision_point_illustration_description">Į papildomus veiksmus įtraukiama: „Google Assistant“, „Google Pay“, Dabar leidžiama, šrifto dydis, ekrano fonas ir daugiau</string>
+    <string name="decision_point_leave_setup">Išeiti ir gauti priminimą</string>
+    <string name="decision_point_now_playing">Dabar leidžiama</string>
+    <string name="default_device_name_device">įrenginys</string>
+    <string name="default_device_name_phone">telefonas</string>
+    <string name="default_device_name_tablet">planšetinis kompiuteris</string>
+    <string name="deferred_notification_prompt_title">Užbaikite įrenginio „^1“ sąranką</string>
+    <string name="deferred_setup_button_label">Užbaigti sąranką</string>
+    <string name="deferred_setup_wizard_reason_assistant">pasikalbėkite su Padėjėju</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">pasikalbėkite su „Google“ padėjėju</string>
+    <string name="deferred_setup_wizard_reason_default">Liko tik keli veiksmai</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopijuokite duomenis</string>
+    <string name="deferred_setup_wizard_reason_google_pay">naudokite „Google Pay“</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">sumokėkite greičiau naudodami „Google Pay“</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 ir daugiau</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 ir daugiau</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Tik keli nesudėtingi veiksmai ir „^1“ įrenginys bus parengtas naudoti</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">nustatykite ekrano foną</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">nustatykite ekrano foną</string>
+    <string name="deferred_setup_wizard_title">Užbaikite įrenginio sąranką</string>
+    <string name="deferred_snooze_dialog_option_never">Niekada</string>
+    <string name="deferred_snooze_dialog_option_today">Vėliau šiandien</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Rytoj</string>
+    <string name="deferred_snooze_dialog_title">Priminti</string>
+    <string name="deferred_welcome_airplane_mode_message">"Reikia interneto ryšio, kad galėtumėte užbaigti kelis paskutinius sąrankos veiksmus.
+
+Kai įjungtas lėktuvo režimas, „Wi‑Fi“, mobiliojo ryšio tinklai ir „Bluetooth“ yra atjungti."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Nustatyti vėliau</string>
+    <string name="deferred_welcome_airplane_mode_title">Išjungti lėktuvo režimą?</string>
+    <string name="deferred_welcome_screen_cancel_button">Priminti vėliau</string>
+    <string name="deferred_welcome_title">„^1“ sąrankos užbaigimas</string>
+    <string name="deferred_welcome_turn_off_button_label">Išjungti</string>
+    <string name="device_owner_continue">Tęsti sąranką</string>
+    <string name="device_owner_reset">Iš naujo nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}</string>
+    <string name="device_owner_warning">{0} valdo {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}} ir gali pasiekti jūsų informaciją. Jei nenorite, kad {0} turėtų prieigą, iš naujo nustatykite {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Telefonas}TABLET{Planšetinis kompiuteris}other{Kitas įrenginys}} gali būti stebimas</string>
+    <string name="dialog_back_button_label">Atgal</string>
+    <string name="dialog_continue_button_label">Tęsti</string>
+    <string name="early_update_installing_updates_text">Įdiegiami naujiniai</string>
+    <string name="early_update_text">Tai gali užtrukti kelias minutes</string>
+    <string name="early_update_timeout_text">Trunka per ilgai? Pabandykite sugrįžti ir prisijungti prie kito tinklo.</string>
+    <string name="early_update_title">Ieškoma naujinių…</string>
+    <string name="emergency_dial">Skambutis pagalbos numeriu</string>
+    <string name="enabled_a11y">Pritaikymo neįgaliesiems režimas įgalintas.</string>
+    <string name="esim_option_button_summary">Pridėti numerį naudojant „eSIM“ kortelę</string>
+    <string name="esim_option_button_title">Atsisiųsti SIM kortelę?</string>
+    <string name="esim_warning_title">SIM kortelės atsisiuntimas</string>
+    <string name="esim_warning_txt">Jei prenumeruojate „%1$s“, galite skambinti, siųsti žinutes ir naudotis duomenimis atsisiuntę eSIM. Nereikės įdėti SIM kortelės.</string>
+    <string name="esim_warning_txt_default">Prisijunkite prie mobiliojo ryšio tinklo atsisiuntę informaciją, kuri paprastai pateikiama SIM kortelėje. Tai pakeičia standartines SIM korteles ir yra taip pat saugu.</string>
+    <string name="exit_loading_launcher">Įkeliama paleidimo priemonė…</string>
+    <string name="factory_reset_button">Ištrinti ir nustatyti iš naujo</string>
+    <string name="factory_reset_confirmation">Ištrinti visas paskyras ir duomenis iš šio {DEVICE_TYPE,select, PHONE{telefono}TABLET{planšetinio kompiuterio}other{kito įrenginio}}? Šio veiksmo anuliuoti negalima!</string>
+    <string name="factory_reset_confirmation_title">Nustatyti iš naujo?</string>
+    <string name="factory_reset_instructions">Įspėjimas: nustačius iš naujo, bus ištrintos visos paskyros ir duomenys iš {DEVICE_TYPE,select, PHONE{telefono}TABLET{planšetinio kompiuterio}other{įrenginio}} vidinės atminties.</string>
+    <string name="factory_reset_title">Iš naujo nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}</string>
+    <string name="final_hold_description_text">Tai gali užtrukti kelias minutes</string>
+    <string name="final_hold_title">Baigiama…</string>
+    <string name="final_hold_title_setup_work_account">Telef. ruoš. atlikti darbo pr. sąranką…</string>
+    <string name="gms_account_checkin_title">Gaunama paskyros informacija…</string>
+    <string name="gms_checkin_description_text">Tai gali užtrukti kelias minutes</string>
+    <string name="gms_checkin_description_text_timeout">Trunka per ilgai? Pabandykite sugrįžti ir prisijungti prie kito tinklo.</string>
+    <string name="gms_checkin_title">Ieškoma naujinių…</string>
+    <string name="go_back_button_label">Grįžti</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">„Google Play“ paslaugų teikimo sąlygos</string>
+    <string name="google_plus_privacy_policy_title">„Google“ plius privatumo politika</string>
+    <string name="google_privacy_policy_title">„Google“ privatumo politika</string>
+    <string name="google_provisioning_disclaimer_content">Taikomos „Google“ paslaugų teikimo sąlygos ir privatumo politika. Jei reikia daugiau išsamios informacijos, apsilankykite adresu &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">„Google“ paslaugų teikimo sąlygos</string>
+    <string name="invalid_phone_number">Nežinomas telefono numeris</string>
+    <string name="invalid_qr_code_content">Paprašykite IT administratoriaus teisingo kodo</string>
+    <string name="invalid_qr_code_retry">Bandyti dar kartą</string>
+    <string name="invalid_qr_code_title">Netinkamas QR kodas</string>
+    <string name="ios_trademarks_disclaimer">„iPhone“, „iPad“, „iOS“, „iCloud“, „Safari“ ir „iTunes“ yra „Apple Inc.“ prekių ženklai, registruoti JAV ir kitose šalyse.</string>
+    <string name="language_picker_section_all">Visos kalbos</string>
+    <string name="language_picker_section_suggested">Siūloma</string>
+    <string name="migrate_from_ios_description">Atlikite toliau nurodytus veiksmus.</string>
+    <string name="migrate_from_ios_header">Duomenų kopijavimas</string>
+    <string name="migrate_from_ios_instructions_1">1. Atidarykite „Safari®“</string>
+    <string name="migrate_from_ios_instructions_2">2. Apsilankykite adresu <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Vadovaukitės instrukcijomis.</string>
+    <string name="network_description_text">Pasirinkite tinklą</string>
+    <string name="network_description_text_esim">Norėdami atsisiųsti SIM kortelę, prisijunkite prie „Wi‑Fi“</string>
+    <string name="network_see_all_wifi">Žr. visus „Wi‑Fi“ tinklus</string>
+    <string name="network_timeout_description_text">Bandykite dar kartą naudodami kitą tinklą. Jei tęsite neprisijungę, kai kuriuos sąrankos veiksmus galėsite užbaigti vėliau.</string>
+    <string name="network_timeout_title">Nepavyko prisijungti</string>
+    <string name="network_timeout_try_another_network_button">Bandyti naudoti kitą tinklą</string>
+    <string name="network_title">Prisijungimas prie „Wi-Fi“</string>
+    <string name="network_use_cellular">Naudoti mobiliojo ryšio tinklą sąrankai atlikti</string>
+    <string name="network_use_cellular_carrier">Prisijungti prie „Wi-Fi“ vėliau</string>
+    <string name="network_wifi_continue_button">Tęsti</string>
+    <string name="not_set">Nenustatyta</string>
+    <string name="notification_channel_name_deferred">Papildoma sąranka</string>
+    <string name="notification_channel_name_initial">Sąranka</string>
+    <string name="notification_channel_name_restore">Duomenų atkūrimas</string>
+    <string name="notification_channel_security_name_warnings">Saugos įspėjimai</string>
+    <string name="ok_button_label">Gerai</string>
+    <string name="ota_agreement_text">Tęsdami ir gaudami šį programinės įrangos naujinį sutinkate su <annotation link="tos">„Google“ paslaugų teikimo sąlygomis</annotation> ir <annotation link="google_privacy">privatumo politika</annotation>.</string>
+    <string name="ota_info">Reikia atsisiųsti naujinį {DEVICE_TYPE,select, PHONE{telefone}TABLET{planšetiniame kompiuteryje}other{kitame įrenginyje}} ir paleisti jį iš naujo.</string>
+    <string name="ota_size">Dydis: %s</string>
+    <string name="ota_update_title">Atnaujinkite {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}</string>
+    <string name="predeferred_prepare_setup">Ruošiama sąrankai…</string>
+    <string name="predeferred_prepare_setup_details">Netrukus galėsite užbaigti „^1“ įrenginio sąranką</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Prisijungti prie „Wi-Fi“</string>
+    <string name="predeferred_wifi_required_notification_content">Jei norite tęsti, prisijunkite prie „Wi-Fi“</string>
+    <string name="predeferred_wifi_required_notification_title">Programos naujiniai paruošti</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Ieškoma QR kodo</string>
+    <string name="region_picker_section_all">Visi regionai</string>
+    <string name="restart_setup_wizard_button_label">Nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Norėdami naudoti šį {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}, pirmiausia turite prisijungti prie savininko „Google“ paskyros, kuri buvo naudojama šiame {DEVICE_TYPE,select, PHONE{telefone}TABLET{planšetiniame kompiuteryje}other{kitame įrenginyje}}, kai jis paskutinį kartą buvo nustatytas iš naujo.
+
+Kadangi to neatlikote, turite iš naujo nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{kitą įrenginį}}."</string>
+    <string name="restart_setup_wizard_dialog_title">Neprisijungta</string>
+    <string name="restore_failed_message">Neįmanoma atkurti atsarginės kopijos</string>
+    <string name="restore_no_backup_message">Nėra jokių galimų atsarginių kopijų kitame įrenginyje</string>
+    <string name="restore_no_backup_title">Neįmanoma atkurti</string>
+    <string name="restore_stopped_message">Nepavyko užbaigti atsarginės kopijos atkūrimo</string>
+    <string name="restore_title">Atkuriama...</string>
+    <string name="setup_ongoing_notification_text">Palieskite, kad užbaigtumėte „^1“ sąranką</string>
+    <string name="setup_ongoing_notification_title">Vykdoma „^1“ sąranka</string>
+    <string name="setup_wizard_title">„Android“ sąranka</string>
+    <string name="sim_locked_text">"Šiame telefone šiuo metu taikomas kito operatoriaus pasirinkimo ribojimas. Turite naudoti tinkamą SIM kortelę.
+
+Kai įdėsite SIM kortelę, gali praeiti kelios sekundės, kol ji bus suaktyvinta."</string>
+    <string name="sim_locked_title">SIM kortelė nepalaikoma</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Jei turite SIM kortelę, įdėkite ją dabar}one{Jei turite SIM kortelių, įdėkite jas dabar}few{Jei turite SIM kortelių, įdėkite jas dabar}many{Jei turite SIM kortelių, įdėkite jas dabar}other{Jei turite SIM kortelių, įdėkite jas dabar}}</string>
+    <string name="sim_missing_title">Prisijunkite prie mobiliojo ryšio tinklo</string>
+    <string name="sim_ready_message">Numeris %1$s turi būti parengtas naudoti</string>
+    <string name="sim_ready_message_carrier_app">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti „%2$s“ programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="sim_ready_message_invalid_phone_number">Numeris turi būti parengtas naudoti</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti „%1$s“ programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="sim_ready_title">Operatorius „%1$s“ aktyvus</string>
+    <string name="sim_ready_title_carrier_app">Prisijungti prie operatoriaus „%1$s“ tinklo vėliau</string>
+    <string name="sim_setup_ask_every_time">Klausti kaskart</string>
+    <string name="sim_setup_select_data">Mobiliojo ryšio duomenų nuostata</string>
+    <string name="sim_setup_select_data_description">Pasirinkite numerį, kurį naudosite mobiliojo ryšio duomenims</string>
+    <string name="sim_setup_select_text">SMS nuostata</string>
+    <string name="sim_setup_select_text_description">Pasirinkite siunčiamųjų teksto pranešimų numerį (visais aktyviais numeriais galima gauti teksto pranešimus)</string>
+    <string name="sim_setup_select_voice">Skambučių nuostata</string>
+    <string name="sim_setup_select_voice_description">Pasirinkite siunčiamųjų pranešimų numerį (visais aktyviais numeriais galima gauti skambučius)</string>
+    <string name="sim_setup_title">SIM kortelių sąranka</string>
+    <string name="skip_anyway_button_label">Vis tiek praleisti</string>
+    <string name="skip_button_label">Praleisti</string>
+    <string name="skip_toast">Sąrankos vediklis praleistas</string>
+    <string name="slots_selection_item_summary_activating">Suaktyvinama…</string>
+    <string name="slots_selection_item_summary_error">Šiuo metu nepavyko suaktyvinti</string>
+    <string name="slots_selection_title">Pasirinkite norimą naudoti skaičių</string>
+    <string name="speed_label_fast">Greitas</string>
+    <string name="speed_label_okay">Gerai</string>
+    <string name="speed_label_slow">Lėtas</string>
+    <string name="speed_label_very_fast">Labai greitas</string>
+    <string name="sud_back_button_label">Atgal</string>
+    <string name="sud_more_button_label">Daugiau</string>
+    <string name="sud_next_button_label">Kitas</string>
+    <string name="suggested_actions_description">Nustatykite dar kelis dalykus dabar arba susiraskite juos vėliau Nustatymuose</string>
+    <string name="suggested_actions_description_single_item">Sukonfigūruokite dar vieną „^1“ nustatymą. Jį taip pat galėsite rasti vėliau „Nustatymuose“.</string>
+    <string name="suggested_actions_done_label">Kol kas atlikta</string>
+    <string name="suggested_actions_no_thanks_label">Ne, ačiū</string>
+    <string name="suggested_actions_title">Norite atlikti daugiau veiksmų?</string>
+    <string name="switch_camera">Perjungti fotoaparatą</string>
+    <string name="switch_to_back_camera_button_content_description">Užpakalinis fotoaparatas</string>
+    <string name="switch_to_front_camera_button_content_description">Priekinis fotoaparatas</string>
+    <string name="switched_to_back_camera_announcement">Dabar tai yra priekinio fotoaparato mygtukas</string>
+    <string name="switched_to_front_camera_announcement">Dabar tai yra užpakalinio fotoaparato mygtukas</string>
+    <string name="tap_to_sign_up">Palieskite, kad prisiregistruotumėte</string>
+    <string name="terminate_toast">"Sąrankos vediklio darbas nutrauktas
+Įrenginys nepateiktas"</string>
+    <string name="try_again_button_label">Bandyti dar kartą</string>
+    <string name="url_load_unsuccessful_message">Jūsų {DEVICE_TYPE,select, PHONE{telefonas}TABLET{planšetinis kompiuteris}other{kitas įrenginys}} neprijungtas prie duomenų paslaugos mobiliesiems. Jei norite dabar peržiūrėti šią informaciją, naudodami žiniatinklio naršyklę eikite adresu {0}.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Jūsų {DEVICE_TYPE,select, PHONE{telefonas}TABLET{planšetinis kompiuteris}other{kitas įrenginys}} neprijungtas prie „Wi-Fi“ tinklo. Jei norite peržiūrėti šią informaciją dabar, naudodami žiniatinklio naršyklę apsilankykite adresu {0}.</string>
+    <string name="user_warning_cannot_switch_message">Nepavyko perjungti atgal į savininką naudotoją. Bandykite dar kartą vėliau.</string>
+    <string name="user_warning_label_continue">Tęsti</string>
+    <string name="user_warning_label_quit">Atšaukti</string>
+    <string name="user_warning_quit_dialog_button_keep">Palikti naudotoją</string>
+    <string name="user_warning_quit_dialog_button_remove">Pašalinti naudotoją</string>
+    <string name="user_warning_quit_dialog_message">Pašalinti naudotoją?</string>
+    <string name="user_warning_title">Nustatykite naują naudotoją</string>
+    <string name="wait_msg">Sekundėlę…</string>
+    <string name="web_dialog_unable_to_view">Jei šią informaciją norite peržiūrėti dabar, naudodami žiniatinklio naršyklę apsilankykite adresu ^1.</string>
+    <string name="welcome_accessibility_button">Matomumo nustatymai</string>
+    <string name="welcome_language_picker_content_description">Kalba: %s</string>
+    <string name="welcome_language_picker_dialog_title">Kalbos pasirinkimas</string>
+    <string name="welcome_message">Sveiki!</string>
+    <string name="welcome_secondary_user_added_text">Jūsų paskyra pridėta prie šio {DEVICE_TYPE,select, PHONE{telefono}TABLET{planšetinio kompiuterio}other{kito įrenginio}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Svarbu:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{telefono}TABLET{planšetinio kompiuterio}other{įrenginio}} savininkas gali pašalinti jūsų programas ar vietą saugykloje.</li>"
+
+"<li>Bet kuris kitas naudotojas gali priimti atnaujintus programos leidimus.</li>"
+
+"<li>Šį {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{įrenginį}} bendrinkite tik su patikimais žmonėmis.</li></ul></string>
+    <string name="welcome_start_button_label">Pradėti</string>
+    <string name="wifi_add_new_network">Pridėti naują tinklą</string>
+    <string name="wifi_and_mobile_skipped_message">"Prisijungę prie „Wi-Fi“ arba mobiliojo ryšio tinklo galite sparčiau nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{įrenginį}}.
+
+Neprisijungę negalėsite atlikti toliau nurodytų veiksmų.
+
+"<ul><li>Prisijungti prie „Google“ paskyros.</li>"
+
+"<li>Atkurti programų ir duomenų.</li>"
+
+"<li>Gauti programinės įrangos naujinių.</li>"
+
+"<li>Automatiškai nustatyti laiko ir datos.</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Prisijungę prie „Wi-Fi“ arba mobiliojo ryšio tinklo galite sparčiau nustatyti {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{įrenginį}}.
+
+Neprisijungę negalėsite atlikti toliau nurodytų veiksmų.
+
+"<ul><li>Prisijungti prie „Google“ paskyros.</li>"
+
+"<li>Atkurti programų ir duomenų.</li>"
+
+"<li>Atsisiųsti SIM kortelės.</li>"
+
+"<li>Gauti programinės įrangos naujinių.</li>"
+
+"<li>Automatiškai nustatyti laiko ir datos.</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Prieigos taškas laikinai visiškai užimtas</string>
+    <string name="wifi_check_password_try_again">Patikrinkite slaptažodį ir bandykite dar kartą</string>
+    <string name="wifi_connected_no_internet">Prisijungta, nėra interneto</string>
+    <string name="wifi_disabled_by_recommendation_provider">Neprisijungta dėl žemos kokybės tinklo</string>
+    <string name="wifi_disabled_generic">Neleidžiama</string>
+    <string name="wifi_disabled_network_failure">IP konfigūracijos triktis</string>
+    <string name="wifi_disabled_password_failure">Autentifikavimo problema</string>
+    <string name="wifi_fail_to_scan">Nepavyksta nuskaityti tinklų</string>
+    <string name="wifi_ip_address_not_available">Nepasiekiamas</string>
+    <string name="wifi_ip_address_title">IP adresas</string>
+    <string name="wifi_limited_connection">Ribotas ryšys</string>
+    <string name="wifi_mac_address_not_available">Nepasiekiamas</string>
+    <string name="wifi_mac_address_title">MAC adresas</string>
+    <string name="wifi_metered_label">Matuojamas</string>
+    <string name="wifi_no_internet">Nėra interneto ryšio</string>
+    <string name="wifi_no_internet_no_reconnect">Nebus automatiškai prisijungiama</string>
+    <string name="wifi_not_in_range">Ne diapazone</string>
+    <string name="wifi_remembered">Išsaugotas</string>
+    <string name="wifi_scanning">Ieškoma „Wi-Fi“ tinklų…</string>
+    <string name="wifi_set_up_offline_title">Nustatyti atsijungus?</string>
+    <string name="wifi_skip_button_label">Nustatyti atsijungus</string>
+    <string name="wifi_skipped_message">Atliekant sąranką jūsų {DEVICE_TYPE,select, PHONE{telefone}TABLET{planšetiniame kompiuteryje}other{kitame įrenginyje}} bus naudojamas mobiliojo ryšio tinklas, todėl galite būti apmokestinti už šį duomenų naudojimą. Kad išvengtumėte galimų mokesčių, prisijunkite prie „Wi‑Fi“.</string>
+    <string name="wifi_skipped_title">Galimi duomenų mokesčiai</string>
+    <string name="wifi_title">Prisijungimas prie „Wi-Fi“</string>
+    <string name="wifi_unmetered_label">Neišmatuotas</string>
+    <string name="work_profile_setup_description">Tai atlikę šame įrenginyje nustatysite darbo paskyrą ir atskirsite darbo duomenis nuo asmeninių</string>
+    <string name="work_profile_setup_next">Kitas</string>
+    <string name="work_profile_setup_skip">Praleisti darbo paskyros sąranką</string>
+    <string name="work_profile_setup_title">Pridėkite darbo paskyrą</string>
+    <string name="work_setup_interrupted">"Šiame {DEVICE_TYPE,select, PHONE{telefone}TABLET{planšetiniame kompiuteryje}other{įrenginyje}} pastebėjome neįprastos veiklos. Jei tęsite sąranką, jūsų duomenims gali kilti pavojus.
+
+Jei norite pradėti nuo pradžių, paleiskite šį {DEVICE_TYPE,select, PHONE{telefoną}TABLET{planšetinį kompiuterį}other{įrenginį}} iš naujo."</string>
+    <string name="work_setup_interrupted_title">Šis {DEVICE_TYPE,select, PHONE{telefonas}TABLET{planšetinis kompiuteris}other{įrenginys}} gali būti nesaugus</string>
+</resources>

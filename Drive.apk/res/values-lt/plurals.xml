@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Rodoma %1$d elementų.</item>
+        <item quantity="one">Rodomas %1$d elementas.</item>
+        <item quantity="few">Rodomi %1$d elementai.</item>
+        <item quantity="many">Rodoma %1$d elemento.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d komentarų</item>
+        <item quantity="one">%1$d komentaras</item>
+        <item quantity="few">%1$d komentarai</item>
+        <item quantity="many">%1$d komentaro</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Veiksmo elementų: %1$d tolesnių elementų</item>
+        <item quantity="one">Veiksmo elementų: %1$d tolesnis elementas</item>
+        <item quantity="few">Veiksmo elementų: %1$d tolesni elementai</item>
+        <item quantity="many">Veiksmo elementų: %1$d tolesnio elemento</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Elementai ištrinti visam laikui</item>
+        <item quantity="one">Elementai ištrinti visam laikui</item>
+        <item quantity="few">Elementai ištrinti visam laikui</item>
+        <item quantity="many">Elementai ištrinti visam laikui</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s nėra tinkami el. pašto adresai.</item>
+        <item quantity="one">%s nėra tinkami el. pašto adresai.</item>
+        <item quantity="few">%s nėra tinkami el. pašto adresai.</item>
+        <item quantity="many">%s nėra tinkami el. pašto adresai.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Pridėjus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="one">Pridėjus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="few">Pridėjus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="many">Pridėjus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Pridėjus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="one">Pridėjus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="few">Pridėjus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="many">Pridėjus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Bendrinti šiuos failus?</item>
+        <item quantity="one">Bendrinti šiuos failus?</item>
+        <item quantity="few">Bendrinti šiuos failus?</item>
+        <item quantity="many">Bendrinti šiuos failus?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Bendrinti šiuos aplankus?</item>
+        <item quantity="one">Bendrinti šiuos aplankus?</item>
+        <item quantity="few">Bendrinti šiuos aplankus?</item>
+        <item quantity="many">Bendrinti šiuos aplankus?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Atnaujinta %1$d aplankų. Nustatyta spalva: %2$s.</item>
+        <item quantity="one">Atnaujintas %1$d aplankas. Nustatyta spalva: %2$s.</item>
+        <item quantity="few">Atnaujinti %1$d aplankai. Nustatyta spalva: %2$s.</item>
+        <item quantity="many">Atnaujinta %1$d aplanko. Nustatyta spalva: %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Taikyti filtrus:</item>
+        <item quantity="one">Taikyti filtrus:</item>
+        <item quantity="few">Taikyti filtrus:</item>
+        <item quantity="many">Taikyti filtrus:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Galiojimo laikas baigsis po %1$d dienų</item>
+        <item quantity="one">Galiojimo laikas baigsis po %1$d dienos</item>
+        <item quantity="few">Galiojimo laikas baigsis po %1$d dienų</item>
+        <item quantity="many">Galiojimo laikas baigsis po %1$d dienos</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Jei įrenginys bus neaktyvus, šios atsarginės kopijos galiojimo laikas baigsis po %1$d dienų</item>
+        <item quantity="one">Jei įrenginys bus neaktyvus, šios atsarginės kopijos galiojimo laikas baigsis po %1$d dienos</item>
+        <item quantity="few">Jei įrenginys bus neaktyvus, šios atsarginės kopijos galiojimo laikas baigsis po %1$d dienų</item>
+        <item quantity="many">Jei įrenginys bus neaktyvus, šios atsarginės kopijos galiojimo laikas baigsis po %1$d dienos</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Atsarginės kopijos ištrintos.</item>
+        <item quantity="one">Atsarginės kopijos ištrintos.</item>
+        <item quantity="few">Atsarginės kopijos ištrintos.</item>
+        <item quantity="many">Atsarginės kopijos ištrintos.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d stulpelių.</item>
+        <item quantity="one">%1$d stulpelis.</item>
+        <item quantity="few">%1$d stulpeliai.</item>
+        <item quantity="many">%1$d stulpelio.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d užfiksuotų stulpelių.</item>
+        <item quantity="one">%1$d užfiksuotas stulpelis.</item>
+        <item quantity="few">%1$d užfiksuoti stulpeliai.</item>
+        <item quantity="many">%1$d užfiksuoto stulpelio.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d užfiksuotų eilučių.</item>
+        <item quantity="one">%1$d užfiksuota eilutė.</item>
+        <item quantity="few">%1$d užfiksuotos eilutės.</item>
+        <item quantity="many">%1$d užfiksuotos eilutės.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d eilučių.</item>
+        <item quantity="one">%1$d eilutė.</item>
+        <item quantity="few">%1$d eilutės.</item>
+        <item quantity="many">%1$d eilutės.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s, %2$d elementų</item>
+        <item quantity="one">%1$s, %2$d elementas</item>
+        <item quantity="few">%1$s, %2$d elementai</item>
+        <item quantity="many">%1$s, %2$d elemento</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s atsakymų</item>
+        <item quantity="one">%1$s atsakymas</item>
+        <item quantity="few">%1$s atsakymai</item>
+        <item quantity="many">%1$s atsakymo</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Nepavyko atsisiųsti elementų</item>
+        <item quantity="one">Nepavyko atsisiųsti elementų</item>
+        <item quantity="few">Nepavyko atsisiųsti elementų</item>
+        <item quantity="many">Nepavyko atsisiųsti elementų</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Bus atsisiųsta %1$d elementų. Žr. pranešimą, jei reikia išsamios informacijos</item>
+        <item quantity="one">Bus atsisiųstas %1$d elementas. Žr. pranešimą, jei reikia išsamios informacijos</item>
+        <item quantity="few">Bus atsisiųsti %1$d elementai. Žr. pranešimą, jei reikia išsamios informacijos</item>
+        <item quantity="many">Bus atsisiųsta %1$d elemento. Žr. pranešimą, jei reikia išsamios informacijos</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Bus atsisiųsta %1$d elementų.</item>
+        <item quantity="one">Bus atsisiųstas %1$d elementas.</item>
+        <item quantity="few">Bus atsisiųsti %1$d elementai.</item>
+        <item quantity="many">Bus atsisiųsta %1$d elemento.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s ir dar %2$d elementų</item>
+        <item quantity="one">%1$s ir dar %2$d elementas</item>
+        <item quantity="few">%1$s ir dar %2$d elementai</item>
+        <item quantity="many">%1$s ir dar %2$d elemento</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Nepavyko atsisiųsti %1$s elementų</item>
+        <item quantity="one">Nepavyko atsisiųsti %1$s elemento</item>
+        <item quantity="few">Nepavyko atsisiųsti %1$s elementų</item>
+        <item quantity="many">Nepavyko atsisiųsti %1$s elemento</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Dar %1$d elementų</item>
+        <item quantity="one">Dar %1$d elementas</item>
+        <item quantity="few">Dar %1$d elementai</item>
+        <item quantity="many">Dar %1$d elemento</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Nepavyko atsisiųsti %1$d elementų iš %2$d</item>
+        <item quantity="one">Nepavyko atsisiųsti %1$d elemento iš %2$d</item>
+        <item quantity="few">Nepavyko atsisiųsti %1$d elementų iš %2$d</item>
+        <item quantity="many">Nepavyko atsisiųsti %1$d elemento iš %2$d</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Perkeliant failus įvyko klaida.</item>
+        <item quantity="one">Perkeliant failus įvyko klaida.</item>
+        <item quantity="few">Perkeliant failus įvyko klaida.</item>
+        <item quantity="many">Perkeliant failus įvyko klaida.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d svečių</item>
+        <item quantity="one">%d svečias</item>
+        <item quantity="few">%d svečiai</item>
+        <item quantity="many">%d svečio</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d spart. klav. prid. prie aplanko „%1$s“</item>
+        <item quantity="one">%2$d spart. klav. prid. prie aplanko „%1$s“</item>
+        <item quantity="few">%2$d spart. klav. prid. prie aplanko „%1$s“</item>
+        <item quantity="many">%2$d spart. klav. prid. prie aplanko „%1$s“</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Nepavyko pridėti sparčiųjų klavišų. Band. dar kartą</item>
+        <item quantity="one">Nepavyko pridėti sparčiųjų klavišų. Band. dar kartą</item>
+        <item quantity="few">Nepavyko pridėti sparčiųjų klavišų. Band. dar kartą</item>
+        <item quantity="many">Nepavyko pridėti sparčiųjų klavišų. Band. dar kartą</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais. Komandos Disko „%2$s“ nariams bus suteikta prieiga prie šių elementų.</item>
+        <item quantity="one">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais. Komandos Disko „%2$s“ nariams bus suteikta prieiga prie šių elementų.</item>
+        <item quantity="few">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais. Komandos Disko „%2$s“ nariams bus suteikta prieiga prie šių elementų.</item>
+        <item quantity="many">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais. Komandos Disko „%2$s“ nariams bus suteikta prieiga prie šių elementų.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Kom. Disko „%1$s“ nariai praras prieigą, nebent šie elem. bus bendr. su jais. Kom. Disko „%2$s“ nariams bus suteikta prieiga prie šių elem. Turite leid. tik prid. ir red. Kom. Diske „%3$s“ esančius elem., todėl neg. anul. šio veiksmo.</item>
+        <item quantity="one">Kom. Disko „%1$s“ nariai praras prieigą, nebent šie elem. bus bendr. su jais. Kom. Disko „%2$s“ nariams bus suteikta prieiga prie šių elem. Turite leid. tik prid. ir red. Kom. Diske „%3$s“ esančius elem., todėl neg. anul. šio veiksmo.</item>
+        <item quantity="few">Kom. Disko „%1$s“ nariai praras prieigą, nebent šie elem. bus bendr. su jais. Kom. Disko „%2$s“ nariams bus suteikta prieiga prie šių elem. Turite leid. tik prid. ir red. Kom. Diske „%3$s“ esančius elem., todėl neg. anul. šio veiksmo.</item>
+        <item quantity="many">Kom. Disko „%1$s“ nariai praras prieigą, nebent šie elem. bus bendr. su jais. Kom. Disko „%2$s“ nariams bus suteikta prieiga prie šių elem. Turite leid. tik prid. ir red. Kom. Diske „%3$s“ esančius elem., todėl neg. anul. šio veiksmo.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Kai kurie failai, perkeliami į Komandos Diską „%1$s“, suaktyvino DPP aptikimą. Šiuose failuose gali būti neskelbtinos informacijos.</item>
+        <item quantity="one">Kai kurie failai, perkeliami į Komandos Diską „%1$s“, suaktyvino DPP aptikimą. Šiuose failuose gali būti neskelbtinos informacijos.</item>
+        <item quantity="few">Kai kurie failai, perkeliami į Komandos Diską „%1$s“, suaktyvino DPP aptikimą. Šiuose failuose gali būti neskelbtinos informacijos.</item>
+        <item quantity="many">Kai kurie failai, perkeliami į Komandos Diską „%1$s“, suaktyvino DPP aptikimą. Šiuose failuose gali būti neskelbtinos informacijos.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="one">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="few">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="many">Komandos Disko „%1$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Perkėlus šiuos elementus, jie bus bendrinami su visais žmonėmis, kurie gali matyti bendrinamą aplanką „%1$s“. Komandos Disko „%2$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="one">Perkėlus šiuos elementus, jie bus bendrinami su visais žmonėmis, kurie gali matyti bendrinamą aplanką „%1$s“. Komandos Disko „%2$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="few">Perkėlus šiuos elementus, jie bus bendrinami su visais žmonėmis, kurie gali matyti bendrinamą aplanką „%1$s“. Komandos Disko „%2$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+        <item quantity="many">Perkėlus šiuos elementus, jie bus bendrinami su visais žmonėmis, kurie gali matyti bendrinamą aplanką „%1$s“. Komandos Disko „%2$s“ nariai praras prieigą, nebent šie elementai bus bendrinami su jais.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Perkeliate kai kuriuos elementus iš bendrinamo aplanko, todėl žmonės praras prieigą prie šių elementų.</item>
+        <item quantity="one">Perkeliate kai kuriuos elementus iš bendrinamo aplanko, todėl žmonės praras prieigą prie šių elementų.</item>
+        <item quantity="few">Perkeliate kai kuriuos elementus iš bendrinamo aplanko, todėl žmonės praras prieigą prie šių elementų.</item>
+        <item quantity="many">Perkeliate kai kuriuos elementus iš bendrinamo aplanko, todėl žmonės praras prieigą prie šių elementų.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Bus pašalinti papildomi šių elementų apribojimai.</item>
+        <item quantity="one">Bus pašalinti papildomi šių elementų apribojimai.</item>
+        <item quantity="few">Bus pašalinti papildomi šių elementų apribojimai.</item>
+        <item quantity="many">Bus pašalinti papildomi šių elementų apribojimai.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Perkėlus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="one">Perkėlus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="few">Perkėlus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="many">Perkėlus šiuos failus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Perkėlus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="one">Perkėlus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="few">Perkėlus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+        <item quantity="many">Perkėlus šiuos aplankus jie bus bendrinami su visais žmonėmis, kurie gali pasiekti bendrinamą aplanką „%1$s“</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Bendrinti šiuos failus?</item>
+        <item quantity="one">Bendrinti šiuos failus?</item>
+        <item quantity="few">Bendrinti šiuos failus?</item>
+        <item quantity="many">Bendrinti šiuos failus?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Bendrinti šiuos aplankus?</item>
+        <item quantity="one">Bendrinti šiuos aplankus?</item>
+        <item quantity="few">Bendrinti šiuos aplankus?</item>
+        <item quantity="many">Bendrinti šiuos aplankus?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Neturite leidimo perkelti kelių elementų iš jų bendro disko.</item>
+        <item quantity="one">Neturite leidimo perkelti kelių elementų iš jų bendro disko.</item>
+        <item quantity="few">Neturite leidimo perkelti kelių elementų iš jų bendro disko.</item>
+        <item quantity="many">Neturite leidimo perkelti kelių elementų iš jų bendro disko.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Neturite leidimo perkelti kai kurių elementų iš jų aplankų.</item>
+        <item quantity="one">Neturite leidimo perkelti kai kurių elementų iš jų aplankų.</item>
+        <item quantity="few">Neturite leidimo perkelti kai kurių elementų iš jų aplankų.</item>
+        <item quantity="many">Neturite leidimo perkelti kai kurių elementų iš jų aplankų.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Negalite perkelti šių failų, nes failų savininkas nepriklauso domenui %1$s.</item>
+        <item quantity="one">Negalite perkelti šių failų, nes failų savininkas nepriklauso domenui %1$s.</item>
+        <item quantity="few">Negalite perkelti šių failų, nes failų savininkas nepriklauso domenui %1$s.</item>
+        <item quantity="many">Negalite perkelti šių failų, nes failų savininkas nepriklauso domenui %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s Kom. D. „%2$s“ nariai dabar gali juos pasiekti.</item>
+        <item quantity="one">%1$s Kom. D. „%2$s“ nariai dabar gali juos pasiekti.</item>
+        <item quantity="few">%1$s Kom. D. „%2$s“ nariai dabar gali juos pasiekti.</item>
+        <item quantity="many">%1$s Kom. D. „%2$s“ nariai dabar gali juos pasiekti.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d elementų perkelta į bendrą diską. Nariai dabar gali juos pasiekti.</item>
+        <item quantity="one">%1$d elementas perkeltas į bendrą diską. Nariai dabar gali juos pasiekti.</item>
+        <item quantity="few">%1$d elementai perkelti į bendrą diską. Nariai dabar gali juos pasiekti.</item>
+        <item quantity="many">%1$d elemento perkelta į bendrą diską. Nariai dabar gali juos pasiekti.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d elementų perkelta iš bendro disko. Nariai prarado prieigą.</item>
+        <item quantity="one">%1$d elementas perkeltas iš bendro disko. Nariai prarado prieigą.</item>
+        <item quantity="few">%1$d elementai perkelti iš bendro disko. Nariai prarado prieigą.</item>
+        <item quantity="many">%1$d elemento perkelta iš bendro disko. Nariai prarado prieigą.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d elementų</item>
+        <item quantity="one">%1$d elementas</item>
+        <item quantity="few">%1$d elementai</item>
+        <item quantity="many">%1$d elemento</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d tvirtintojų</item>
+        <item quantity="one">%1$d tvirtintojas</item>
+        <item quantity="few">%1$d tvirtintojai</item>
+        <item quantity="many">%1$d tvirtintojo</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s veiksmo elementų</item>
+        <item quantity="one">%1$s veiksmo elementas</item>
+        <item quantity="few">%1$s veiksmo elementai</item>
+        <item quantity="many">%1$s veiksmo elemento</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">Neatsakytų %1$s minėjimų</item>
+        <item quantity="one">Neatsakytas %1$s minėjimas</item>
+        <item quantity="few">Neatsakyti %1$s minėjimai</item>
+        <item quantity="many">Neatsakyto %1$s minėjimo</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s siūlymų</item>
+        <item quantity="one">%1$s siūlymas</item>
+        <item quantity="few">%1$s siūlymai</item>
+        <item quantity="many">%1$s siūlymo</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s užduočių</item>
+        <item quantity="one">%1$s užduotis</item>
+        <item quantity="few">%1$s užduotys</item>
+        <item quantity="many">%1$s užduoties</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Elementai ištrinti visam laikui</item>
+        <item quantity="one">Elementai ištrinti visam laikui</item>
+        <item quantity="few">Elementai ištrinti visam laikui</item>
+        <item quantity="many">Elementai ištrinti visam laikui</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d failų iš %2$s dabar pasiek. neprisijungus.</item>
+        <item quantity="one">%1$d failas iš %2$s dabar pasiek. neprisijungus.</item>
+        <item quantity="few">%1$d failai iš %2$s dabar pasiek. neprisijungus.</item>
+        <item quantity="many">%1$d failo iš %2$s dabar pasiek. neprisijungus.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d failų dabar pasiekiama neprisijungus.</item>
+        <item quantity="one">%1$d failas dabar pasiekiamas neprisijungus.</item>
+        <item quantity="few">%1$d failai dabar pasiekiami neprisijungus.</item>
+        <item quantity="many">%1$d failo dabar pasiekiama neprisijungus.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Nepavyko padaryti failų pasiekiamų neprisijungus</item>
+        <item quantity="one">Nepavyko padaryti failų pasiekiamų neprisijungus</item>
+        <item quantity="few">Nepavyko padaryti failų pasiekiamų neprisijungus</item>
+        <item quantity="many">Nepavyko padaryti failų pasiekiamų neprisijungus</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Daroma, kad %1$d failų būtų pasiek. nepris.</item>
+        <item quantity="one">Daroma, kad %1$d failas būtų pasiek. nepris.</item>
+        <item quantity="few">Daroma, kad %1$d failai būtų pasiek. nepris.</item>
+        <item quantity="many">Daroma, kad %1$d failo būtų pasiek. nepris.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d failų</item>
+        <item quantity="one">%1$d failas</item>
+        <item quantity="few">%1$d failai</item>
+        <item quantity="many">%1$d failo</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Atsisiuntimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="one">Atsisiuntimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="few">Atsisiuntimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="many">Atsisiuntimai pristabdyti, laukiama tinklo…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d atsisiuntimų pristabdyta.</item>
+        <item quantity="one">%1$d atsisiuntimas pristabdytas.</item>
+        <item quantity="few">%1$d atsisiuntimai pristabdyti.</item>
+        <item quantity="many">%1$d atsisiuntimo pristabdyta.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Atsisiuntimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="one">Atsisiuntimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="few">Atsisiuntimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="many">Atsisiuntimai pristabdyti, laukiama „Wi-Fi“…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d elementų bus perkelta į šiukšliadėžę. Elementai bus pašalinti ir iš „Google“ nuotraukų.</item>
+        <item quantity="one">%1$d elementas bus perkeltas į šiukšliadėžę. Elementai bus pašalinti ir iš „Google“ nuotraukų.</item>
+        <item quantity="few">%1$d elementai bus perkelti į šiukšliadėžę. Elementai bus pašalinti ir iš „Google“ nuotraukų.</item>
+        <item quantity="many">%1$d elemento bus perkelta į šiukšliadėžę. Elementai bus pašalinti ir iš „Google“ nuotraukų.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d elementų bus perkeltas į šiukšliadėžę.</item>
+        <item quantity="one">%1$d elementas bus perkeltas į šiukšliadėžę.</item>
+        <item quantity="few">%1$d elementai bus perkelti į šiukšliadėžę.</item>
+        <item quantity="many">%1$d elemento bus perkelta į šiukšliadėžę.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">Tolesnių %1$s elementų</item>
+        <item quantity="one">Tolesnis %1$s elementas</item>
+        <item quantity="few">Tolesni %1$s elementai</item>
+        <item quantity="many">Tolesnio %1$s elemento</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">Tolesnių %1$s elementų</item>
+        <item quantity="one">Tolesnis %1$s elementas</item>
+        <item quantity="few">Tolesni %1$s elementai</item>
+        <item quantity="many">Tolesnio %1$s elemento</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Stebėti</item>
+        <item quantity="one">Stebėti</item>
+        <item quantity="few">Stebėti</item>
+        <item quantity="many">Stebėti</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Pakomentavo %1$d failų</item>
+        <item quantity="one">Pakomentavo %1$d failą</item>
+        <item quantity="few">Pakomentavo %1$d failus</item>
+        <item quantity="many">Pakomentavo %1$d failo</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Pakomentavo %1$d failų</item>
+        <item quantity="one">Pakomentavo %1$d failą</item>
+        <item quantity="few">Pakomentavo %1$d failus</item>
+        <item quantity="many">Pakomentavo %1$d failo</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Pakomentavo šį failą</item>
+        <item quantity="one">Pakomentavo šį failą</item>
+        <item quantity="few">Pakomentavo šį failą</item>
+        <item quantity="many">Pakomentavo šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Sukūrė %1$d elementų</item>
+        <item quantity="one">Sukūrė %1$d elementą</item>
+        <item quantity="few">Sukūrė %1$d elementus</item>
+        <item quantity="many">Sukūrė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Sukūrė %1$d elementų</item>
+        <item quantity="one">Sukūrė %1$d elementą</item>
+        <item quantity="few">Sukūrė %1$d elementus</item>
+        <item quantity="many">Sukūrė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Sukūrė šį failą</item>
+        <item quantity="one">Sukūrė šį failą</item>
+        <item quantity="few">Sukūrė šį failą</item>
+        <item quantity="many">Sukūrė šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Sukūrė šį aplanką</item>
+        <item quantity="one">Sukūrė šį aplanką</item>
+        <item quantity="few">Sukūrė šį aplanką</item>
+        <item quantity="many">Sukūrė šį aplanką</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Redagavo %1$d elementų</item>
+        <item quantity="one">Redagavo %1$d elementą</item>
+        <item quantity="few">Redagavo %1$d elementus</item>
+        <item quantity="many">Redagavo %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Redagavo %1$d elementų</item>
+        <item quantity="one">Redagavo %1$d elementą</item>
+        <item quantity="few">Redagavo %1$d elementus</item>
+        <item quantity="many">Redagavo %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Redagavo šį failą</item>
+        <item quantity="one">Redagavo šį failą</item>
+        <item quantity="few">Redagavo šį failą</item>
+        <item quantity="many">Redagavo šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Visam laikui ištrynė %1$d elementų</item>
+        <item quantity="one">Visam laikui ištrynė %1$d elementą</item>
+        <item quantity="few">Visam laikui ištrynė %1$d elementus</item>
+        <item quantity="many">Visam laikui ištrynė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Perkėlė %1$d elementų į:</item>
+        <item quantity="one">Perkėlė %1$d elementą į:</item>
+        <item quantity="few">Perkėlė %1$d elementus į:</item>
+        <item quantity="many">Perkėlė %1$d elemento į:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Perkėlė %1$d elementų į:</item>
+        <item quantity="one">Perkėlė %1$d elementą į:</item>
+        <item quantity="few">Perkėlė %1$d elementus į:</item>
+        <item quantity="many">Perkėlė %1$d elemento į:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Perkėlė %1$d elementų</item>
+        <item quantity="one">Perkėlė %1$d elementą</item>
+        <item quantity="few">Perkėlė %1$d elementus</item>
+        <item quantity="many">Perkėlė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Perkėlė %1$d elementų</item>
+        <item quantity="one">Perkėlė %1$d elementą</item>
+        <item quantity="few">Perkėlė %1$d elementus</item>
+        <item quantity="many">Perkėlė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Perkėlė šį failą</item>
+        <item quantity="one">Perkėlė šį failą</item>
+        <item quantity="few">Perkėlė šį failą</item>
+        <item quantity="many">Perkėlė šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Perkėlė šį failą į:</item>
+        <item quantity="one">Perkėlė šį failą į:</item>
+        <item quantity="few">Perkėlė šį failą į:</item>
+        <item quantity="many">Perkėlė šį failą į:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Perkėlė šį aplanką</item>
+        <item quantity="one">Perkėlė šį aplanką</item>
+        <item quantity="few">Perkėlė šį aplanką</item>
+        <item quantity="many">Perkėlė šį aplanką</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Perkėlė šį aplanką į:</item>
+        <item quantity="one">Perkėlė šį aplanką į:</item>
+        <item quantity="few">Perkėlė šį aplanką į:</item>
+        <item quantity="many">Perkėlė šį aplanką į:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Pervardijo %1$d elementų</item>
+        <item quantity="one">Pervardijo %1$d elementą</item>
+        <item quantity="few">Pervardijo %1$d elementus</item>
+        <item quantity="many">Pervardijo %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Pervardijo %1$d elementų</item>
+        <item quantity="one">Pervardijo %1$d elementą</item>
+        <item quantity="few">Pervardijo %1$d elementus</item>
+        <item quantity="many">Pervardijo %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Pervardijo šį failą</item>
+        <item quantity="one">Pervardijo šį failą</item>
+        <item quantity="few">Pervardijo šį failą</item>
+        <item quantity="many">Pervardijo šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Pervardijo šį aplanką</item>
+        <item quantity="one">Pervardijo šį aplanką</item>
+        <item quantity="few">Pervardijo šį aplanką</item>
+        <item quantity="many">Pervardijo šį aplanką</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Bendrino %1$d elementų</item>
+        <item quantity="one">Bendrino %1$d elementą</item>
+        <item quantity="few">Bendrino %1$d elementus</item>
+        <item quantity="many">Bendrino %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Bendrino %1$d elementų</item>
+        <item quantity="one">Bendrino %1$d elementą</item>
+        <item quantity="few">Bendrino %1$d elementus</item>
+        <item quantity="many">Bendrino %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Bendrino šį failą</item>
+        <item quantity="one">Bendrino šį failą</item>
+        <item quantity="few">Bendrino šį failą</item>
+        <item quantity="many">Bendrino šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Bendrino šį aplanką</item>
+        <item quantity="one">Bendrino šį aplanką</item>
+        <item quantity="few">Bendrino šį aplanką</item>
+        <item quantity="many">Bendrino šį aplanką</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Perkėlė %1$d elementų į šiukšliadėžę</item>
+        <item quantity="one">Perkėlė %1$d elementą į šiukšliadėžę</item>
+        <item quantity="few">Perkėlė %1$d elementus į šiukšliadėžę</item>
+        <item quantity="many">Perkėlė %1$d elemento į šiukšliadėžę</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Perkėlė %1$d elementų į šiukšliadėžę</item>
+        <item quantity="one">Perkėlė %1$d elementą į šiukšliadėžę</item>
+        <item quantity="few">Perkėlė %1$d elementus į šiukšliadėžę</item>
+        <item quantity="many">Perkėlė %1$d elemento į šiukšliadėžę</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Pašalino šį failą</item>
+        <item quantity="one">Pašalino šį failą</item>
+        <item quantity="few">Pašalino šį failą</item>
+        <item quantity="many">Pašalino šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Pašalino šį aplanką</item>
+        <item quantity="one">Pašalino šį aplanką</item>
+        <item quantity="few">Pašalino šį aplanką</item>
+        <item quantity="many">Pašalino šį aplanką</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Įkėlė %1$d elementų</item>
+        <item quantity="one">Įkėlė %1$d elementą</item>
+        <item quantity="few">Įkėlė %1$d elementus</item>
+        <item quantity="many">Įkėlė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Įkėlė %1$d elementų</item>
+        <item quantity="one">Įkėlė %1$d elementą</item>
+        <item quantity="few">Įkėlė %1$d elementus</item>
+        <item quantity="many">Įkėlė %1$d elemento</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Įkėlė šį failą</item>
+        <item quantity="one">Įkėlė šį failą</item>
+        <item quantity="few">Įkėlė šį failą</item>
+        <item quantity="many">Įkėlė šį failą</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Įkėlė šį aplanką</item>
+        <item quantity="one">Įkėlė šį aplanką</item>
+        <item quantity="few">Įkėlė šį aplanką</item>
+        <item quantity="many">Įkėlė šį aplanką</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d failų bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+        <item quantity="one">%1$d failas bus perkeltas į Komandos Disko „%2$s“ šiukšliadėžę ir ištrintas visam laikui po 30 dienų.</item>
+        <item quantity="few">%1$d failai bus perkelti į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinti visam laikui po 30 dienų.</item>
+        <item quantity="many">%1$d failo bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d aplankų bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+        <item quantity="one">%1$d aplankas bus perkeltas į Komandos Disko „%2$s“ šiukšliadėžę ir ištrintas visam laikui po 30 dienų.</item>
+        <item quantity="few">%1$d aplankai bus perkelti į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinti visam laikui po 30 dienų.</item>
+        <item quantity="many">%1$d aplanko bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d elementų bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+        <item quantity="one">%1$d elementas bus perkeltas į Komandos Disko „%2$s“ šiukšliadėžę ir ištrintas visam laikui po 30 dienų.</item>
+        <item quantity="few">%1$d elementai bus perkelti į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinti visam laikui po 30 dienų.</item>
+        <item quantity="many">%1$d elemento bus perkelta į Komandos Disko „%2$s“ šiukšliadėžę ir ištrinta visam laikui po 30 dienų.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Šie %1$d failų bus &lt;b>visam laikui ištrinti visų žmonių paskyrose&lt;/b>. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="one">Šie %1$d failas bus &lt;b>visam laikui ištrinti visų žmonių paskyrose&lt;/b>. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="few">Šie %1$d failai bus &lt;b>visam laikui ištrinti visų žmonių paskyrose&lt;/b>. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="many">Šie %1$d failo bus &lt;b>visam laikui ištrinti visų žmonių paskyrose&lt;/b>. Šio veiksmo anuliuoti negalima.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Šie failai (%1$d) bus ištrinti visam laikui. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="one">Šie failai (%1$d) bus ištrinti visam laikui. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="few">Šie failai (%1$d) bus ištrinti visam laikui. Šio veiksmo anuliuoti negalima.</item>
+        <item quantity="many">Šie failai (%1$d) bus ištrinti visam laikui. Šio veiksmo anuliuoti negalima.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d elementų</item>
+        <item quantity="one">%1$d elementas</item>
+        <item quantity="few">%1$d elementai</item>
+        <item quantity="many">%1$d elemento</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Pasirinkta %1$d elementų</item>
+        <item quantity="one">Pasirinktas %1$d elementas</item>
+        <item quantity="few">Pasirinkti %1$d elementai</item>
+        <item quantity="many">Pasirinkta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Panaikintas %1$d elementų pasirinkimas</item>
+        <item quantity="one">Panaikintas %1$d elemento pasirinkimas</item>
+        <item quantity="few">Panaikintas %1$d elementų pasirinkimas</item>
+        <item quantity="many">Panaikintas %1$d elemento pasirinkimas</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Failai bus nustatyti kaip pasiekiami neprisijungus</item>
+        <item quantity="one">Failai bus nustatyti kaip pasiekiami neprisijungus</item>
+        <item quantity="few">Failai bus nustatyti kaip pasiekiami neprisijungus</item>
+        <item quantity="many">Failai bus nustatyti kaip pasiekiami neprisijungus</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d elementų pažymėta žvaigždute</item>
+        <item quantity="one">%1$d elementas pažymėtas žvaigždute</item>
+        <item quantity="few">%1$d elementai pažymėti žvaigždute</item>
+        <item quantity="many">%1$d elemento pažymėta žvaigždute</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Failai nebebus pasiekiami neprisijungus</item>
+        <item quantity="one">Failai nebebus pasiekiami neprisijungus</item>
+        <item quantity="few">Failai nebebus pasiekiami neprisijungus</item>
+        <item quantity="many">Failai nebebus pasiekiami neprisijungus</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d elem. žymėj. žvaigžd. panaikintas</item>
+        <item quantity="one">%1$d elem. žymėj. žvaigžd. panaikintas</item>
+        <item quantity="few">%1$d elem. žymėj. žvaigžd. panaikintas</item>
+        <item quantity="many">%1$d elem. žymėj. žvaigžd. panaikintas</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Atkurta %1$d elementų</item>
+        <item quantity="one">Atkurtas %1$d elementas</item>
+        <item quantity="few">Atkurti %1$d elementai</item>
+        <item quantity="many">Atkurta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Atkurta %1$d elementų</item>
+        <item quantity="one">Atkurtas %1$d elementas</item>
+        <item quantity="few">Atkurti %1$d elementai</item>
+        <item quantity="many">Atkurta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d elementas pašalintas iš Komandos Disko „%2$s“</item>
+        <item quantity="one">%1$d elementas pašalintas iš Komandos Disko „%2$s“</item>
+        <item quantity="few">%1$d elementas pašalintas iš Komandos Disko „%2$s“</item>
+        <item quantity="many">%1$d elementas pašalintas iš Komandos Disko „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d elementų perkelta iš aplanko</item>
+        <item quantity="one">%1$d elementas perkeltas iš aplanko</item>
+        <item quantity="few">%1$d elementai perkelti iš aplanko</item>
+        <item quantity="many">%1$d elemento perkelta iš aplanko</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Pašalinta %1$d elementų</item>
+        <item quantity="one">Pašalintas %1$d elementas</item>
+        <item quantity="few">Pašalinti %1$d elementai</item>
+        <item quantity="many">Pašalinta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d elementų perkelta atgal</item>
+        <item quantity="one">%1$d elementas perkeltas atgal</item>
+        <item quantity="few">%1$d elementai perkelti atgal</item>
+        <item quantity="many">%1$d elemento perkelta atgal</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d elementų perkelta atgal į šiukšliadėžę</item>
+        <item quantity="one">%1$d elementas perkeltas atgal į šiukšliadėžę</item>
+        <item quantity="few">%1$d elementai perkelti atgal į šiukšliadėžę</item>
+        <item quantity="many">%1$d elemento perkelta atgal į šiukšliadėžę</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Pašalinta %1$d elementų</item>
+        <item quantity="one">Pašalintas %1$d elementas</item>
+        <item quantity="few">Pašalinti %1$d elementai</item>
+        <item quantity="many">Pašalinta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d elementų pridėta prie aplanko „%2$s“</item>
+        <item quantity="one">%1$d elementas pridėtas prie aplanko „%2$s“</item>
+        <item quantity="few">%1$d elementai pridėti prie aplanko „%2$s“</item>
+        <item quantity="many">%1$d elemento pridėta prie aplanko „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">Pridėta %1$d elementų</item>
+        <item quantity="one">Pridėtas %1$d elementas</item>
+        <item quantity="few">Pridėti %1$d elementai</item>
+        <item quantity="many">Pridėta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d elementų atkurta ir prid. prie apl. „%2$s“</item>
+        <item quantity="one">%1$d elementas atkurtas ir prid. prie apl. „%2$s“</item>
+        <item quantity="few">%1$d elementai atkurti ir prid. prie apl. „%2$s“</item>
+        <item quantity="many">%1$d elemento atkurta ir prid. prie apl. „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d elementų perkelta į aplanką „%2$s“.</item>
+        <item quantity="one">%1$d elementas perkeltas į aplanką „%2$s“.</item>
+        <item quantity="few">%1$d elementai perkelti į aplanką „%2$s“.</item>
+        <item quantity="many">%1$d elemento perkelta į aplanką „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">Perkelta %1$d elementų</item>
+        <item quantity="one">Perkeltas %1$d elementas</item>
+        <item quantity="few">Perkelti %1$d elementai</item>
+        <item quantity="many">Perkelta %1$d elemento</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d elementų atkurta ir perkelta į aplanką „%2$s“.</item>
+        <item quantity="one">%1$d elementas atkurtas ir perkeltas į aplanką „%2$s“.</item>
+        <item quantity="few">%1$d elementai atkurti ir perkelti į aplanką „%2$s“.</item>
+        <item quantity="many">%1$d elemento atkurta ir perkelta į aplanką „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Atkurta %1$d elementų.</item>
+        <item quantity="one">Atkurtas %1$d elementas.</item>
+        <item quantity="few">Atkurti %1$d elementai.</item>
+        <item quantity="many">Atkurta %1$d elemento.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d elementų atkurta į aplanką „%2$s.</item>
+        <item quantity="one">%1$d elementas atkurtas į aplanką „%2$s.</item>
+        <item quantity="few">%1$d elementai atkurti į aplanką „%2$s.</item>
+        <item quantity="many">%1$d elemento atkurta į aplanką „%2$s.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Siųsti failus naudojant</item>
+        <item quantity="one">Siųsti failus naudojant</item>
+        <item quantity="few">Siųsti failus naudojant</item>
+        <item quantity="many">Siųsti failus naudojant</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d žmonių dabar gali pasiekti</item>
+        <item quantity="one">%1$d žmogus dabar gali pasiekti</item>
+        <item quantity="few">%1$d žmonės dabar gali pasiekti</item>
+        <item quantity="many">%1$d žmogaus dabar gali pasiekti</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s ir dar %2$d žmonių dabar gali pasiekti</item>
+        <item quantity="one">%1$s ir dar %2$d žmogus dabar gali pasiekti</item>
+        <item quantity="few">%1$s ir dar %2$d žmonės dabar gali pasiekti</item>
+        <item quantity="many">%1$s ir dar %2$d žmogaus dabar gali pasiekti</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d žmonių dabar gali pridėti komentarų</item>
+        <item quantity="one">%1$d žmogus dabar gali pridėti komentarų</item>
+        <item quantity="few">%1$d žmonės dabar gali pridėti komentarų</item>
+        <item quantity="many">%1$d žmogaus dabar gali pridėti komentarų</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s ir dar %2$d žmonių dabar gali pridėti komentarų</item>
+        <item quantity="one">%1$s ir dar %2$d žmogus dabar gali pridėti komentarų</item>
+        <item quantity="few">%1$s ir dar %2$d žmonės dabar gali pridėti komentarų</item>
+        <item quantity="many">%1$s ir dar %2$d žmogaus dabar gali pridėti komentarų</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d žmonių dabar gali redaguoti</item>
+        <item quantity="one">%1$d žmogus dabar gali redaguoti</item>
+        <item quantity="few">%1$d žmonės dabar gali redaguoti</item>
+        <item quantity="many">%1$d žmogaus dabar gali redaguoti</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s ir dar %2$d žmonių dabar gali redaguoti</item>
+        <item quantity="one">%1$s ir dar %2$d žmogus dabar gali redaguoti</item>
+        <item quantity="few">%1$s ir dar %2$d žmonės dabar gali redaguoti</item>
+        <item quantity="many">%1$s ir dar %2$d žmogaus dabar gali redaguoti</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d žmonių dabar gali peržiūrėti</item>
+        <item quantity="one">%1$d žmogus dabar gali peržiūrėti</item>
+        <item quantity="few">%1$d žmonės dabar gali peržiūrėti</item>
+        <item quantity="many">%1$d žmogaus dabar gali peržiūrėti</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s ir dar %2$d žmonių dabar gali peržiūrėti</item>
+        <item quantity="one">%1$s ir dar %2$d žmogus dabar gali peržiūrėti</item>
+        <item quantity="few">%1$s ir dar %2$d žmonės dabar gali peržiūrėti</item>
+        <item quantity="many">%1$s ir dar %2$d žmogaus dabar gali peržiūrėti</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Disko saug. gal. l. b. po %1$d d.</item>
+        <item quantity="one">Disko saug. gal. l. b. po %1$d d.</item>
+        <item quantity="few">Disko saug. gal. l. b. po %1$d d.</item>
+        <item quantity="many">Disko saug. gal. l. b. po %1$d d.</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d žmonių pridėta prie bendro disko</item>
+        <item quantity="one">%1$d žmogus pridėtas prie bendro disko</item>
+        <item quantity="few">%1$d žmonės pridėti prie bendro disko</item>
+        <item quantity="many">%1$d žmogaus pridėta prie bendro disko</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s ir dar %3$d žmonių pridėti prie Kom. Disko „%1$s“</item>
+        <item quantity="one">%2$s ir dar %3$d žmogus pridėti prie Kom. Disko „%1$s“</item>
+        <item quantity="few">%2$s ir dar %3$d žmonės pridėti prie Kom. Disko „%1$s“</item>
+        <item quantity="many">%2$s ir dar %3$d žmogaus pridėti prie Kom. Disko „%1$s“</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d narių</item>
+        <item quantity="one">%d narys</item>
+        <item quantity="few">%d nariai</item>
+        <item quantity="many">%d nario</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Tęsti viską dabar</item>
+        <item quantity="one">Tęsti viską dabar</item>
+        <item quantity="few">Tęsti viską dabar</item>
+        <item quantity="many">Tęsti viską dabar</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Atšauktas %1$d failų įkėlimas.</item>
+        <item quantity="one">Atšauktas %1$d failo įkėlimas.</item>
+        <item quantity="few">Atšauktas %1$d failų įkėlimas.</item>
+        <item quantity="many">Atšauktas %1$d failo įkėlimas.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Nepavyko suplanuoti %1$d failų įkėlimo.</item>
+        <item quantity="one">Nepavyko suplanuoti %1$d failo įkėlimo.</item>
+        <item quantity="few">Nepavyko suplanuoti %1$d failų įkėlimo.</item>
+        <item quantity="many">Nepavyko suplanuoti %1$d failo įkėlimo.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Įkelta %1$d failų.</item>
+        <item quantity="one">Įkeltas %1$d failas.</item>
+        <item quantity="few">Įkelti %1$d failai.</item>
+        <item quantity="many">Įkelta %1$d failo.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Nepavyko įkelti %1$d failų iš %2$d.</item>
+        <item quantity="one">Nepavyko įkelti %1$d failo iš %2$d.</item>
+        <item quantity="few">Nepavyko įkelti %1$d failų iš %2$d.</item>
+        <item quantity="many">Nepavyko įkelti %1$d failo iš %2$d.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Įkeliama %1$d failų.</item>
+        <item quantity="one">Įkeliamas %1$d failas.</item>
+        <item quantity="few">Įkeliami %1$d failai.</item>
+        <item quantity="many">Įkeliama %1$d failo.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Įkėlimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="one">Įkėlimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="few">Įkėlimai pristabdyti, laukiama tinklo…</item>
+        <item quantity="many">Įkėlimai pristabdyti, laukiama tinklo…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d įkėlimų pristabdyta.</item>
+        <item quantity="one">%1$d įkėlimas pristabdytas.</item>
+        <item quantity="few">%1$d įkėlimai pristabdyti.</item>
+        <item quantity="many">%1$d įkėlimo pristabdyta.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Įkėlimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="one">Įkėlimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="few">Įkėlimai pristabdyti, laukiama „Wi-Fi“…</item>
+        <item quantity="many">Įkėlimai pristabdyti, laukiama „Wi-Fi“…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Ruošiamasi įkelti %1$d failų.</item>
+        <item quantity="one">Ruošiamasi įkelti %1$d failą.</item>
+        <item quantity="few">Ruošiamasi įkelti %1$d failus.</item>
+        <item quantity="many">Ruošiamasi įkelti %1$d failo.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Į aplanką „%2$s“ įkeliama %1$d failų</item>
+        <item quantity="one">Į aplanką „%2$s“ įkeliamas %1$d failas</item>
+        <item quantity="few">Į aplanką „%2$s“ įkeliami %1$d failai</item>
+        <item quantity="many">Į aplanką „%2$s“ įkeliama %1$d failo</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Žr. %1$d failų</item>
+        <item quantity="one">Žr. %1$d failą</item>
+        <item quantity="few">Žr. %1$d failus</item>
+        <item quantity="many">Žr. %1$d failo</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Žr. darbo srities „%2$s“ %1$d failų</item>
+        <item quantity="one">Žr. darbo srities „%2$s“ %1$d failą</item>
+        <item quantity="few">Žr. darbo srities „%2$s“ %1$d failus</item>
+        <item quantity="many">Žr. darbo srities „%2$s“ %1$d failo</item>
+    </plurals>
+</resources>

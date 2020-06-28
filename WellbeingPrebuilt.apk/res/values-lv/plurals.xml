@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Atvērta %s reizes</item>
+        <item quantity="zero">Atvērta %s reizes</item>
+        <item quantity="one">Atvērta %s reizi</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Atlikušas %d minūtes</item>
+        <item quantity="zero">Atlikušas %d minūtes</item>
+        <item quantity="one">Atlikusi %d minūte</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Atvērta %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">Atvērta %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">Atvērta %1$s reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">, %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">, %1$s reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, kā arī %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">, kā arī %1$s reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">, kā arī %1$s reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">Saņemti %s paziņojumi</item>
+        <item quantity="zero">Saņemti %s paziņojumi</item>
+        <item quantity="one">Saņemts %s paziņojums</item>
+    </plurals>
+    <plurals name="dashboard_timers_summary_text">
+        <item quantity="other">Iestatīti %d taimeri</item>
+        <item quantity="zero">Iestatīti %d taimeri</item>
+        <item quantity="one">Iestatīts %d taimeris</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">paziņojumi</item>
+        <item quantity="zero">paziņojumi</item>
+        <item quantity="one">paziņojums</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">Atbloķēta %s reizes</item>
+        <item quantity="zero">Atbloķēta %s reizes</item>
+        <item quantity="one">Atbloķēta %s reizi</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">atbloķēšanas reizes</item>
+        <item quantity="zero">atbloķēšanas reizes</item>
+        <item quantity="one">atbloķēšanas reize</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%s paziņojumi</item>
+        <item quantity="zero">%s paziņojumu</item>
+        <item quantity="one">%s paziņojums</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Saņemti %1$s paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="zero">Saņemti %1$s paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">Saņemts %1$s paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$s paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="zero">, %1$s paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">, %1$s paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, kā arī %1$s paziņojums plkst. %2$s–%3$s</item>
+        <item quantity="zero">, kā arī %1$s paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">, kā arī %1$s paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="parental_controls_has_supervised_members_description">
+        <item quantity="other">Jūs esat iestatījis Family Link vecāku kontroli %d bērniem vai pusaudžiem savā ģimenes grupā.</item>
+        <item quantity="zero">Jūs esat iestatījis Family Link vecāku kontroli %d bērniem vai pusaudžiem savā ģimenes grupā.</item>
+        <item quantity="one">Jūs esat iestatījis Family Link vecāku kontroli %d bērnam vai pusaudzim savā ģimenes grupā.</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Rādīt visas lietotnes (%d)</item>
+        <item quantity="zero">Rādīt visas lietotnes (%d)</item>
+        <item quantity="one">Rādīt visas lietotnes (%d)</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d paziņojumi</item>
+        <item quantity="zero">%d paziņojumi</item>
+        <item quantity="one">%d paziņojums</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d atvēršanas reizes</item>
+        <item quantity="zero">%d atvēršanas reizes</item>
+        <item quantity="one">%d atvēršanas reize</item>
+    </plurals>
+    <plurals name="turn_on_usage_access_dialog_body">
+        <item quantity="other">Lietotnē Digitālā labjutība tiks rādīti jūsu lietojuma dati, tostarp dati par pēdējām %d dienām no jūsu ierīces krātuves.</item>
+        <item quantity="zero">Lietotnē Digitālā labjutība tiks rādīti jūsu lietojuma dati, tostarp dati par pēdējām %d dienām no jūsu ierīces krātuves.</item>
+        <item quantity="one">Lietotnē Digitālā labjutība tiks rādīti jūsu lietojuma dati, tostarp dati par pēdējo %d dienu no jūsu ierīces krātuves.</item>
+    </plurals>
+</resources>

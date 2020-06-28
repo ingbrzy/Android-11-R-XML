@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca...</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_slice_permission_allow">Permet</string>
+    <string name="abc_slice_permission_checkbox">Permet que %1$s mostri porcions de qualsevol aplicació</string>
+    <string name="abc_slice_permission_deny">Denega</string>
+    <string name="abc_slice_permission_text_1">"- Pot llegir informació de l'aplicació %1$s"</string>
+    <string name="abc_slice_permission_text_2">"- Pot dur a terme accions dins de l'aplicació %1$s"</string>
+    <string name="abc_slice_permission_title">"Vols permetre que %1$s mostri porcions de l'aplicació %2$s?"</string>
+    <string name="abc_slices_permission_request">"%1$s vol mostrar porcions de l'aplicació %2$s"</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="all_topics_header_text">Tots els temes</string>
+    <string name="allset_description">"Ja pots començar a utilitzar el telèfon.
+
+Pots desactivar la navegació amb gestos i utilitzar els botons per tornar enrere, anar a l'inici o canviar d'aplicació.
+"<annotation id="link">Ves a Configuració</annotation></string>
+    <string name="allset_hint">Llisca cap amunt per començar</string>
+    <string name="allset_page_title">Tot a punt</string>
+    <string name="allset_setting_link">"Configuració de navegació per utilitzar les funcions d'accessibilitat"</string>
+    <string name="allset_title">Ja està!</string>
+    <string name="app_name">Consells per a Pixel</string>
+    <string name="article_helpful_feedback_toast">Gràcies pels suggeriments. Els tindrem en compte per a futurs consells.</string>
+    <string name="article_helpful_no">No</string>
+    <string name="article_helpful_talkback_selected_no">Has seleccionat no</string>
+    <string name="article_helpful_talkback_selected_yes">Has seleccionat sí</string>
+    <string name="article_helpful_talkback_unselected_no">Has desseleccionat no</string>
+    <string name="article_helpful_talkback_unselected_yes">Has desseleccionat sí</string>
+    <string name="article_helpful_text">És útil?</string>
+    <string name="article_helpful_yes">Sí</string>
+    <string name="asset_is_downloading_content_description">"El vídeo o la imatge s'està baixant"</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si Serveis de Google Play no està instal·lat al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu.</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
+    <string name="common_google_play_services_wear_update_text">"Cal una nova versió de Serveis de Google Play. S'actualitzarà automàticament aviat."</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Per veure vídeos i imatges, prova de connectar-te a una Wi‑Fi o canviar de xarxa</string>
+    <string name="connectivity_summary_assets_not_downloaded">Cal connexió a Internet per mostrar vídeos i imatges</string>
+    <string name="module_1_0010_summary">"Canvia d'aplicació, modifica opcions de configuració ràpidament, concentra't millor i molt més"</string>
+    <string name="module_1_0010_tag_text">Comença</string>
+    <string name="module_1_0010_title">Comença a fer servir [model_name]</string>
+    <string name="module_1_0101_summary">Cerca aplicacions, explora el telèfon i molt més</string>
+    <string name="module_1_0101_tag_text">Comença</string>
+    <string name="module_1_0101_title">Comença a fer servir Pixel</string>
+    <string name="module_1_1000_summary">Feies servir un iPhoneⓇ? Cerca aplicacions, explora el telèfon i molt més</string>
+    <string name="module_1_1000_tag_text">Comença</string>
+    <string name="module_1_1000_title">Comença a fer servir Pixel</string>
+    <string name="module_2_1111_summary">"Parla amb l'Assistent, identifica la música amb la funció Està sonant i molt més"</string>
+    <string name="module_2_1111_tag_text">Aprofita Google al màxim</string>
+    <string name="module_2_1111_title">Treu el màxim profit de Google</string>
+    <string name="module_3_1111_summary">Fes retrats bonics, llisca per canviar de mode i molt més</string>
+    <string name="module_3_1111_tag_text">Gaudeix de la càmera</string>
+    <string name="module_3_1111_title">Gaudeix de la càmera i les fotos</string>
+    <string name="module_4_1111_summary">Envia imatges, fes videotrucades i comparteix fotos</string>
+    <string name="module_4_1111_tag_text">Envia missatges i truca</string>
+    <string name="module_4_1111_title">Envia missatges i truca</string>
+    <string name="module_5_1111_summary">Obre ràpidament la càmera, consulta les notificacions i molt més</string>
+    <string name="module_5_1111_tag_text">Utilitza gestos</string>
+    <string name="module_5_1111_title">Utilitza gestos per a les dreceres ràpides</string>
+    <string name="module_6_1111_summary">Fes un seguiment del temps de connexió, configura un horari per desconnectar i molt més</string>
+    <string name="module_6_1111_tag_text">Gestiona el teu benestar</string>
+    <string name="module_6_1111_title">Gestiona el teu benestar digital</string>
+    <string name="module_7_1111_summary">Consulta dues aplicacions alhora, organitza les aplicacions en carpetes i molt més</string>
+    <string name="module_7_1111_tag_text">Converteix-te en un expert</string>
+    <string name="module_7_1111_title">Sigues un expert en Pixel</string>
+    <string name="module_8_1111_summary">Pren notes, paga amb Pixel i rep les últimes notícies</string>
+    <string name="module_8_1111_tag_text">Explora les aplicacions</string>
+    <string name="module_8_1111_title">Explora apps essencials de Google</string>
+    <string name="next_btn">Següent</string>
+    <string name="next_module_link_back_home_page_text">Següent: explora tots els consells</string>
+    <string name="next_module_link_text">Següent: %1$s</string>
+    <string name="next_tip_content_description">Consell següent</string>
+    <string name="ob_gesture_app_go_back_media_description">Vídeo sobre el nou gest per tornar enrere</string>
+    <string name="ob_gesture_app_go_back_summary">"Per tornar a l'última pantalla, llisca cap al centre des de la vora esquerra o dreta de la pantalla"</string>
+    <string name="ob_gesture_app_go_back_title">Torna</string>
+    <string name="ob_gesture_app_home_media_description">"Vídeo sobre el nou gest per tornar a la pantalla d'inici"</string>
+    <string name="ob_gesture_app_home_summary">"Llisca cap amunt des de la part inferior de la pantalla.
+Aquest gest sempre et porta a la pantalla d'inici."</string>
+    <string name="ob_gesture_app_home_title">Ves a la pàgina d’inici</string>
+    <string name="ob_gesture_app_overview_media_description">Vídeo sobre el nou gest per veure les aplicacions recents</string>
+    <string name="ob_gesture_app_overview_summary">Llisca cap amunt des de la part inferior de la pantalla i mantén-la premuda</string>
+    <string name="ob_gesture_app_overview_title">"Canvia d'aplicació"</string>
+    <string name="onboarding_education_page_title">Introducció als gestos de navegació</string>
+    <string name="previous_module_link_text">Anterior: %1$s</string>
+    <string name="previous_tip_content_description">Consell anterior</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="settings_search_main_entry_screen_title">Ajuda i consells > Consulta consells de Pixel</string>
+    <string name="settings_search_main_entry_summary">Treu el màxim profit del teu Pixel. Mira vídeos i molt més.</string>
+    <string name="smart_space_subtitle_android">Toca per veure consells</string>
+    <string name="smart_space_subtitle_ios">Toca per veure consells</string>
+    <string name="smart_space_subtitle_others">Toca per veure consells</string>
+    <string name="smart_space_subtitle_pixel">Consulta les novetats</string>
+    <string name="smart_space_title">El teu nou Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Fes retrats, aconsegueix la foto perfecta i molt més</string>
+    <string name="suggestion_summary_module_communication">Envia imatges, fes videotrucades i molt més</string>
+    <string name="suggestion_summary_module_gestures">Consulta les notificacions, obre la càmera i molt més</string>
+    <string name="suggestion_summary_module_google_smarts">"Parla amb l'Assistent de Google i molt més"</string>
+    <string name="suggestion_title_module_camera">Gaudeix de la teva càmera i les teves fotos</string>
+    <string name="suggestion_title_module_communication">Consells per enviar SMS i fer trucades</string>
+    <string name="suggestion_title_module_gestures">Utilitza els gestos per a les dreceres</string>
+    <string name="suggestion_title_module_google_smarts">Treu el màxim profit de Google</string>
+    <string name="tip_1_1_media_description">Vídeo sobre com es poden cercar les aplicacions</string>
+    <string name="tip_1_1_summary">"Llisca cap amunt des de la part inferior de la pantalla per veure les aplicacions recents. També veuràs una fila amb prediccions d'aplicacions a la part inferior. Torna a lliscar cap amunt per veure totes les aplicacions."</string>
+    <string name="tip_1_1_title">Cerca aplicacions</string>
+    <string name="tip_1_2_media_description">Vídeo sobre com es poden organitzar les aplicacions</string>
+    <string name="tip_1_2_summary">"Per afegir una aplicació a la pantalla d'inici, toca-la i arrossega-la.
+
+Per suprimir una aplicació, mantén-la premuda i arrossega-la cap a la part superior de la pantalla."</string>
+    <string name="tip_1_2_title">"Afegeix aplicacions a la pantalla d'inici"</string>
+    <string name="tip_1_3_link">Ves a Play Store</string>
+    <string name="tip_1_3_media_description">Imatge sobre les aplicacions principals</string>
+    <string name="tip_1_3_summary">"Comença amb aquestes aplicacions:
+- Play Store: explora i baixa aplicacions
+- Google Fotos: troba, desa i comparteix fotos
+- Google Keep: desa notes, crea llistes i molt més"</string>
+    <string name="tip_1_3_title">Explora les aplicacions principals</string>
+    <string name="tip_1_4_media_description">Vídeo sobre les notificacions</string>
+    <string name="tip_1_4_summary">"Llisca cap avall des de la part superior de la pantalla per veure les notificacions. Per esborrar-ne una, fes-la lliscar cap a l'esquerra o la dreta.
+
+Per veure més informació sobre una notificació, mantén-la premuda."</string>
+    <string name="tip_1_4_title">Consulta les notificacions</string>
+    <string name="tip_1_5_media_description">Vídeo sobre com es pot canviar la configuració</string>
+    <string name="tip_1_5_summary">"Llisca cap avall des de la part superior del telèfon Pixel per obrir la Configuració ràpida. Torna a lliscar cap avall per veure més opcions de configuració.
+
+Toca una opció per activar-la o desactivar-la. Mantén-la premuda per veure'n més detalls."</string>
+    <string name="tip_1_5_title">Canvia ràpidament les opcions de configuració habituals</string>
+    <string name="tip_1_6_link">Ves a Configuració</string>
+    <string name="tip_1_6_media_description">Vídeo sobre el mode No molestis</string>
+    <string name="tip_1_6_summary">"Si estàs utilitzant el telèfon, però vols mantenir la concentració, pots desactivar la visualització de les notificacions.
+
+Explora els nous controls del mode No molestis."</string>
+    <string name="tip_1_6_title">"Concentra't millor amb el mode No molestis"</string>
+    <string name="tip_1_7_media_description">Vídeo sobre com es poden veure les accions disponibles</string>
+    <string name="tip_1_7_summary">"Mantén premut el text per veure les accions disponibles, com ara fer una reserva en un restaurant.
+
+Pots fer-ho des de qualsevol aplicació, fins i tot quan canvies d'una aplicació a una altra."</string>
+    <string name="tip_1_7_title">Selecciona el text per veure les accions</string>
+    <string name="tip_1_9_link">Ves a Assistència</string>
+    <string name="tip_1_9_media_description">Vídeo sobre ajuda i consells</string>
+    <string name="tip_1_9_summary">"Pots trobar més ajuda i consells en qualsevol moment. Només has d'anar a Configuració > Ajuda i consells.
+
+Pots explorar els consells, consultar articles d'ajuda o contactar amb l'equip de Pixel."</string>
+    <string name="tip_1_9_title">Obtén ajuda quan la necessitis</string>
+    <string name="tip_2_1_link">Obre a Configuració</string>
+    <string name="tip_2_1_link_description">Per activar aquesta funció, toca el botó que hi ha a sota.</string>
+    <string name="tip_2_1_link_description_off">Per activar aquesta funció, toca el botó que hi ha a sota.</string>
+    <string name="tip_2_1_link_off">Activa a Configuració</string>
+    <string name="tip_2_1_link_on">"Configuració de la funció d'estrènyer"</string>
+    <string name="tip_2_1_media_description">"Vídeo sobre la funció d'estrènyer per iniciar l'Assistent"</string>
+    <string name="tip_2_1_summary">"Per parlar amb l'Assistent de Google en qualsevol moment (encara que la pantalla estigui desactivada), estreny ràpidament la part inferior del telèfon i deixa-la anar."</string>
+    <string name="tip_2_1_title">"Estreny per iniciar l'Assistent"</string>
+    <string name="tip_2_2_link">Més accions</string>
+    <string name="tip_2_2_media_description">"Vídeo sobre les accions de l'Assistent"</string>
+    <string name="tip_2_2_summary">"L'Assistent de Google és la manera més ràpida i senzilla de trobar respostes i enllestir tasques amb el teu Pixel.
+
+Per parlar amb l'Assistent, estreny ràpidament la part inferior del telèfon, i després deixa-la anar i digues:
+
+- Què és el primer que tinc demà a l'agenda?
+- Afegeix pasta de dents a la llista de la compra.
+- Anem a casa."</string>
+    <string name="tip_2_2_title">"Descobreix què pot fer l'Assistent"</string>
+    <string name="tip_2_3_link">Obre Lens</string>
+    <string name="tip_2_3_media_description">Vídeo sobre la cerca amb Google Lens</string>
+    <string name="tip_2_3_summary">"Has vist un animal adorable, una planta única o un monument impressionant que t'ha captivat? Fes servir Google Lens per obtenir-ne més informació.
+
+Obre la càmera, mantén premut el visor i, a continuació, toca allò que t'interessi."</string>
+    <string name="tip_2_3_title">Cerca el que veus amb Google Lens</string>
+    <string name="tip_2_4_link">Obre Google Play</string>
+    <string name="tip_2_4_link_description">Per fer servir la funció Està sonant, actualitza Pixel Ambient.</string>
+    <string name="tip_2_4_link_description_off">Per activar aquesta funció, toca el botó que hi ha a sota.</string>
+    <string name="tip_2_4_link_off">Activa a Configuració</string>
+    <string name="tip_2_4_link_on">Configuració de la funció Està sonant</string>
+    <string name="tip_2_4_media_description">Vídeo sobre la funció Està sonant</string>
+    <string name="tip_2_4_summary">La funció Està sonant mostra automàticament la informació de la cançó que està sonant allà on siguis.</string>
+    <string name="tip_2_4_title">Identifica la música amb Està sonant</string>
+    <string name="tip_2_5_link">Obre la càmera</string>
+    <string name="tip_2_5_media_description">Vídeo sobre la càmera</string>
+    <string name="tip_2_5_summary">"El teu Pixel reconeix automàticament números de telèfon, adreces, adreces electròniques, codis de barres i codis QR. Només has d'obrir la càmera, apuntar i deixar que faci la feina."</string>
+    <string name="tip_2_5_title">Fes treballar la càmera</string>
+    <string name="tip_3_1_link">Obre la càmera</string>
+    <string name="tip_3_1_media_description">Vídeo sobre modes de càmera</string>
+    <string name="tip_3_1_summary">"De vegades vols fer una foto, després un vídeo i després una altra cosa.
+
+Per canviar de mode, simplement obre el visor de la càmera i llisca cap a la dreta o l'esquerra. Toca Més per veure altres opcions."</string>
+    <string name="tip_3_1_title">Llisca per canviar entre foto, vídeo i altres</string>
+    <string name="tip_3_2_link">Obre la càmera</string>
+    <string name="tip_3_2_media_description">Vídeo sobre com pots fer retrats</string>
+    <string name="tip_3_2_summary">"Amb el mode de retrat, el telèfon Pixel desenfoca el fons perquè la foto quedi bonica i sembli professional. Prova'l per veure'n l'efecte.
+
+Per començar a utilitzar-lo, simplement obre la càmera i llisca d'esquerra a dreta."</string>
+    <string name="tip_3_2_title">Fes retrats bonics</string>
+    <string name="tip_3_3_media_description">Vídeo sobre com es poden fer captures de pantalla</string>
+    <string name="tip_3_3_summary">"Mantén premut el botó d'engegada i, a continuació, toca Captura de pantalla. Llestos! Hauràs fet una captura de pantalla.
+
+Per dibuixar sobre la captura de pantalla, toca Edita a la notificació que s'hi mostra."</string>
+    <string name="tip_3_3_title">Fes captures de pantalla ràpidament i edita-les</string>
+    <string name="tip_3_4_link">Obre la càmera</string>
+    <string name="tip_3_4_media_description">Vídeo sobre com pots triar el moment perfecte amb la funció Millor foto</string>
+    <string name="tip_3_4_summary">"Cada vegada que fas una foto, el teu Pixel desa una o dues imatges addicionals perquè puguis triar la foto perfecta.
+
+1. Comprova que la funció Moviment [icon_span] estigui activada i fes la foto.
+2. Quan miris la foto, només cal que llisquis cap amunt des de la part inferior.
+3. Toca Fotogrames en aquesta foto per veure'n imatges alternatives."</string>
+    <string name="tip_3_4_title">Tria el moment perfecte amb la funció Millor foto</string>
+    <string name="tip_3_5_link">Obre la càmera</string>
+    <string name="tip_3_5_media_description">Vídeo sobre com pots fer una selfie de grup</string>
+    <string name="tip_3_5_summary">"Les selfies de grup t'ofereixen més espai a la foto per als amics o el paisatge sense haver d'utilitzar un braç de selfie.
+
+1. Canvia a la càmera frontal [icon_span].
+2. Fes doble toc a la pantalla o pinça amb els dits per allunyar la imatge."</string>
+    <string name="tip_3_5_title">Fes una selfie de grup</string>
+    <string name="tip_4_1_link">Obre Missatges</string>
+    <string name="tip_4_1_media_description">Vídeo sobre com pots enviar imatges</string>
+    <string name="tip_4_1_summary">"1. Obre una conversa a l'aplicació Missatges.
+2. Toca Redacta [icon_span] a l'esquerra del quadre en què escrius el missatge.
+3. Selecciona la imatge, l'emoji o l'adhesiu perfectes."</string>
+    <string name="tip_4_1_title">Envia imatges</string>
+    <string name="tip_4_2_link">Instal·la Duo</string>
+    <string name="tip_4_2_link_off">Instal·la Duo</string>
+    <string name="tip_4_2_link_on">Obre Duo</string>
+    <string name="tip_4_2_media_description">Vídeo sobre Google Duo</string>
+    <string name="tip_4_2_summary">"No hi ha res millor que un xat cara a cara amb la família o els teus millors amics. Gràcies a Google Duo i el teu telèfon Pixel, les videotrucades mai no havien estat tan fàcils.
+
+1. Obre l'aplicació Google Duo.
+2. Cerca un contacte.
+3. Inicia una videotrucada amb un toc o convida la persona amb qui vulguis parlar a baixar Google Duo.
+
+Els amics que tinguin telèfons o tauletes iOSⓇ també poden utilitzar Google Duo."</string>
+    <string name="tip_4_2_title">Fes videotrucades amb Google Duo</string>
+    <string name="tip_4_3_link">Obre Google Fotos</string>
+    <string name="tip_4_3_media_description">Vídeo sobre com es poden compartir fotos</string>
+    <string name="tip_4_3_summary">"1. Obre Google Fotos.
+2. Mantén premuda una imatge per seleccionar-la.
+3. Si vols, selecciona diverses imatges.
+4. Toca Comparteix [icon_span].
+5. Selecciona les persones amb qui les vols compartir."</string>
+    <string name="tip_4_3_title">Comparteix fotos</string>
+    <string name="tip_4_4_link">Comença</string>
+    <string name="tip_4_4_media_description">"Vídeo sobre com es poden enviar missatges des de l'ordinador"</string>
+    <string name="tip_4_4_summary">"Pots enviar missatges de text des de l'ordinador amb Missatges Android. Per començar, ves a l'aplicació Missatges i, al menú, selecciona Missatges per al web.
+
+A més de missatges de text, pots enviar adhesius, emojis i imatges adjuntes."</string>
+    <string name="tip_4_4_title">"Envia missatges de text des de l'ordinador"</string>
+    <string name="tip_5_1_link">Ves a Configuració</string>
+    <string name="tip_5_1_link_off">Activa a Configuració</string>
+    <string name="tip_5_1_link_on">Ves a Configuració</string>
+    <string name="tip_5_1_media_description">Vídeo sobre com es pot consultar el telèfon</string>
+    <string name="tip_5_1_summary">"Fes doble toc a la pantalla per consultar l'hora, les notificacions i molt més."</string>
+    <string name="tip_5_1_title">Doble toc per consultar-lo</string>
+    <string name="tip_5_2_link">Ves a Configuració</string>
+    <string name="tip_5_2_link_off">Activa a Configuració</string>
+    <string name="tip_5_2_link_on">Ves a Configuració</string>
+    <string name="tip_5_2_media_description">Vídeo sobre com es pot accedir ràpidament a la càmera</string>
+    <string name="tip_5_2_summary">"Prem el botó d'engegada dues vegades des de qualsevol pantalla per accedir a la càmera en un instant."</string>
+    <string name="tip_5_2_title">Accés ràpid a la càmera</string>
+    <string name="tip_5_3_link">Ves a Configuració</string>
+    <string name="tip_5_3_link_off">Activa a Configuració</string>
+    <string name="tip_5_3_link_on">Ves a Configuració</string>
+    <string name="tip_5_3_media_description">Vídeo sobre com es pot canviar al mode de retrat</string>
+    <string name="tip_5_3_summary">"Per activar i desactivar el mode de selfie de la càmera, gira el dispositiu dues vegades quan siguis a l'aplicació."</string>
+    <string name="tip_5_3_title">Canvia de càmera</string>
+    <string name="tip_5_4_link">Ves a Configuració</string>
+    <string name="tip_5_4_link_off">Activa a Configuració</string>
+    <string name="tip_5_4_link_on">Ves a Configuració</string>
+    <string name="tip_5_4_media_description">"Vídeo sobre com es pot fer lliscar el dit pel sensor d'empremtes digitals per veure les notificacions"</string>
+    <string name="tip_5_4_summary">"Per consultar les notificacions, fes lliscar el dit cap avall al sensor d'empremtes digitals situat a la part posterior del telèfon.
+Torna a lliscar per veure la configuració ràpida."</string>
+    <string name="tip_5_4_title">"Fes lliscar l'empremta digital per veure notificacions"</string>
+    <string name="tip_5_5_media_description">"Vídeo sobre com es pot canviar d'aplicació"</string>
+    <string name="tip_5_5_summary">"Per canviar ràpidament d'aplicació, desplaça't d'esquerra a dreta a la part inferior de la pantalla. Aixeca el dit per obrir l'aplicació."</string>
+    <string name="tip_5_5_title">"La manera més ràpida de canviar d'aplicació"</string>
+    <string name="tip_6_1_link">Configuració de la funció Llum nocturna</string>
+    <string name="tip_6_1_media_description">Vídeo sobre la funció Llum nocturna</string>
+    <string name="tip_6_1_summary">"La funció Llum nocturna dona un to ambre a la pantalla. D'aquesta manera, és més fàcil veure la pantalla amb poca llum i adormir-se.
+
+Pots activar o desactivar aquesta funció a la configuració ràpida. També pots mantenir premuda l'opció per configurar una programació."</string>
+    <string name="tip_6_1_title">"La funció Llum nocturna t'ajuda a adormir-te"</string>
+    <string name="tip_6_2_link">Actualitza Benestar digital</string>
+    <string name="tip_6_2_link_off">Actualitza Benestar digital</string>
+    <string name="tip_6_2_link_on">Configura el mode Descans</string>
+    <string name="tip_6_2_media_description">Vídeo sobre com pots programar una hora per anar a dormir amb el mode Descans</string>
+    <string name="tip_6_2_summary">"Configura un horari nocturn per desconnectar del telèfon.
+
+1. Obre Benestar digital [icon_span].
+2. Toca Descans.
+3. Configura la programació del mode Descans.
+
+Quan s'acosti l'hora d'anar a dormir, la pantalla canviarà de color i el mode No molestis evitarà que les notificacions t'interrompin el son."</string>
+    <string name="tip_6_2_title">Programa una hora per anar a dormir amb el mode Descans</string>
+    <string name="tip_6_3_link">Prova Silencia en girar</string>
+    <string name="tip_6_3_link_off">Actualitza Benestar digital</string>
+    <string name="tip_6_3_link_on">Ves a Configuració</string>
+    <string name="tip_6_3_media_description">Vídeo sobre com es poden aturar les distraccions ràpidament</string>
+    <string name="tip_6_3_summary">Amb Silencia en girar, només has de posar el telèfon de cap per avall per activar el mode No molestis i desactivar les notificacions i els sons.</string>
+    <string name="tip_6_3_title">Elimina les distraccions ràpidament</string>
+    <string name="tip_6_4_link">Actualitza Benestar digital</string>
+    <string name="tip_6_4_link_off">Actualitza Benestar digital</string>
+    <string name="tip_6_4_link_on">Obre el tauler</string>
+    <string name="tip_6_4_media_description">Vídeo sobre Benestar digital</string>
+    <string name="tip_6_4_summary">Dona una ullada al tauler de control de Benestar digital a Configuració per veure un resum del teu temps de connexió i configurar temporitzadors per a les aplicacions que vulguis utilitzar menys.</string>
+    <string name="tip_6_4_title">Controla el teu temps de connexió</string>
+    <string name="tip_7_1_media_description">Vídeo sobre com pots organitzar les aplicacions en carpetes</string>
+    <string name="tip_7_1_summary">"Crea carpetes per poder controlar fàcilment les teves aplicacions.
+
+Per crear-ne una, arrossega una aplicació a sobre d'una altra. Pots posar-hi un nom.
+
+Pots arrossegar més aplicacions a la carpeta o bé suprimir les que conté arrossegant-les cap a fora."</string>
+    <string name="tip_7_1_title">Organitza les aplicacions en carpetes</string>
+    <string name="tip_7_2_media_description">Vídeo sobre com es poden utilitzar dues aplicacions alhora</string>
+    <string name="tip_7_2_summary">"Per fer servir dues aplicacions alhora, configura la pantalla dividida al telèfon. Comença a fer diverses tasques.
+
+1. Llisca cap amunt des de la part inferior de la pantalla per veure les aplicacions recents.
+2. Mantén premuda la icona de l'aplicació a la part superior de la pantalla.
+3. Toca Pantalla dividida.
+
+Mou el divisor amunt i avall per posar-lo on vulguis. Quan hagis acabat, fes-lo lliscar perquè desaparegui."</string>
+    <string name="tip_7_2_title">Consulta dues aplicacions alhora</string>
+    <string name="tip_7_3_link">"Obre l'Assistent de Google"</string>
+    <string name="tip_7_3_media_description">"Vídeo sobre com es pot controlar el telèfon amb l'Assistent"</string>
+    <string name="tip_7_3_summary">"L'Assistent et pot ajudar a dur a terme accions més de pressa. Per parlar-hi, estreny ràpidament la part inferior del telèfon. A continuació, prova de dir:
+
+1. \"Fes una selfie\"
+2. \"Fes una captura de pantalla\"
+3. \"Activa la llanterna\""</string>
+    <string name="tip_7_3_title">"L'Assistent de Google t'ajuda amb les teves tasques diàries"</string>
+    <string name="tip_8_1_link">Instal·la Google Keep</string>
+    <string name="tip_8_1_link_off">Instal·la Google Keep</string>
+    <string name="tip_8_1_link_on">Obre Google Keep</string>
+    <string name="tip_8_1_media_description">Vídeo sobre com es poden prendre notes</string>
+    <string name="tip_8_1_summary">"Amb l'aplicació Google Keep, pots apuntar ràpidament el que et passa pel cap. Afegeix notes, llistes, fotos i àudio.
+
+També pots configurar recordatoris per no oblidar-te de fer cap tasca. Amb Keep és fàcil compartir notes amb els amics i la família."</string>
+    <string name="tip_8_1_title">Pren notes i molt més amb Google Keep</string>
+    <string name="tip_8_2_link">Instal·la Google Notícies</string>
+    <string name="tip_8_2_link_off">Instal·la Google Notícies</string>
+    <string name="tip_8_2_link_on">Obre Google Notícies</string>
+    <string name="tip_8_2_media_description">Vídeo sobre Google Notícies</string>
+    <string name="tip_8_2_summary">"Rep les últimes notícies, tant locals com internacionals.
+
+Amb només un toc, consulta els titulars de les teves fonts preferides. Veuràs una cronologia amb moments clau, opinions, anàlisis i molt més per entendre millor cada notícia."</string>
+    <string name="tip_8_2_title">Estigues al dia amb Google Notícies</string>
+    <string name="tip_8_3_link">Instal·la Google Pay</string>
+    <string name="tip_8_3_link_off">Instal·la Google Pay</string>
+    <string name="tip_8_3_link_on">Obre Google Pay</string>
+    <string name="tip_8_3_media_description">Vídeo sobre Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay et permet pagar de manera ràpida en milions de botigues amb el telèfon Pixel. Per fer-ho, segueix aquests passos:
+
+1. Afegeix una targeta a Google Pay.
+2. Cerca el símbol de pagament sense contacte [icon_span] en el moment de pagar.
+3. Desbloqueja el telèfon i apropa'l al terminal.
+4. Espera fins que vegis una marca de verificació.
+
+I això és tot."</string>
+    <string name="tip_8_3_title">Paga amb el telèfon Pixel</string>
+    <string name="tips_nav_a11y_media_description">"Vídeo per utilitzar el nou gest d'accessibilitat"</string>
+    <string name="tips_nav_a11y_summary">"Per accedir a la funció Escolta la selecció o a l'ampliació de la pantalla, fes lliscar dos dits cap amunt des de la part inferior de la pantalla.
+
+Per canviar entre les aplicacions d'accessibilitat, fes lliscar dos dits cap amunt i mantén premut.
+
+Pots fer servir aquests gestos un cop hagis acabat de configurar-los."</string>
+    <string name="tips_nav_a11y_title">"Utilitza un nou gest d'accessibilitat"</string>
+    <string name="title_download_completed_dialog">Torna a carregar els consells nous</string>
+    <string name="try_it_text">Prova-ho</string>
+    <string name="zero_state_primary">Ho has llegit tot</string>
+    <string name="zero_state_secondary">Torna més tard per obtenir consells nous</string>
+</resources>

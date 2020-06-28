@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>餐馆</item>
+        <item>影片</item>
+        <item>天气</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>餐馆</item>
+        <item>附近上映的电影</item>
+        <item>天气</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>无主题</item>
+        <item>无主题</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>恋爱</item>
+        <item>是</item>
+        <item>亲吻</item>
+        <item>你好</item>
+        <item>拥抱</item>
+        <item>派对</item>
+        <item>愤怒</item>
+        <item>激动</item>
+        <item>再见</item>
+        <item>大笑</item>
+        <item>哭泣</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>是</item>
+        <item>否</item>
+        <item>好的</item>
+        <item>呵呵</item>
+        <item>谢谢</item>
+        <item>同意</item>
+        <item>不错</item>
+        <item>我在路上</item>
+        <item>好，稍后再回复你</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>彩信</item>
+        <item>包含链接的短信</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>一律以短信形式重新发送</item>
+        <item>在非漫游时以短信形式重新发送</item>
+        <item>重新发送前询问我</item>
+        <item>一律不以短信形式重新发送</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>一律以短信/彩信形式重新发送</item>
+        <item>在非漫游时以短信/彩信形式重新发送</item>
+        <item>重新发送前询问我</item>
+        <item>一律不以短信/彩信形式重新发送</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

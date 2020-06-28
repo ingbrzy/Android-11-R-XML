@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">"La configurazione non può essere completata, poiché l'installazione di %1$d app obbligatorie non è riuscita. Contatta direttamente il tuo amministratore di sistema."</item>
+        <item quantity="one">"La configurazione non può essere completata, poiché l'installazione dell'app obbligatoria %1$d non è riuscita. Contatta direttamente il tuo amministratore di sistema."</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Impossibile installare le app</item>
+        <item quantity="one">"Impossibile installare l'app"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d app su %2$d installate</item>
+        <item quantity="one">%1$d app su %2$d installata</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Disinstalla le app</item>
+        <item quantity="one">"Disinstalla l'app"</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Mancano &lt;annotation id="numeric_time_left">^1&lt;/annotation> giorni</item>
+        <item quantity="one">Manca &lt;annotation id="numeric_time_left">^1&lt;/annotation> giorno</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Mancano &lt;annotation id="numeric_time_left">^1&lt;/annotation> ore</item>
+        <item quantity="one">Manca &lt;annotation id="numeric_time_left">^1&lt;/annotation> ora</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">App installate: %1$d su %2$d</item>
+        <item quantity="one">App installate: %1$d su %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d app disponibili (installazioni: %2$d, disattivazioni: %3$d)</item>
+        <item quantity="one">%1$d app disponibile (installazioni: %2$d, disattivazioni: %3$d)</item>
+    </plurals>
+</resources>

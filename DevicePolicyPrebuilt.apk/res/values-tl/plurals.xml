@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Hindi makumpleto ang pag-set up dahil hindi na-install ang %1$d na kinakailangang app. Makipag-ugnayan nang direkta sa iyong system administrator.</item>
+        <item quantity="one">Hindi makumpleto ang pag-set up dahil hindi na-install ang %1$d kinakailangang app. Makipag-ugnayan nang direkta sa iyong system administrator.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Hindi ma-install ang mga app</item>
+        <item quantity="one">Hindi ma-install ang mga app</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d sa %2$d na app ang na-install</item>
+        <item quantity="one">%1$d sa %2$d app ang na-install</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">I-uninstall ang mga app</item>
+        <item quantity="one">I-uninstall ang mga app</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> na araw ang natitira</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> araw ang natitira</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> na oras ang natitira</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> oras ang natitira</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Na-install ang %1$d sa %2$d na app</item>
+        <item quantity="one">Na-install ang %1$d sa %2$d app</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d na app ang available (%2$d ang naka-install, %3$d ang naka-disable)</item>
+        <item quantity="one">%1$d app ang available (%2$d ang naka-install, %3$d ang naka-disable)</item>
+    </plurals>
+</resources>

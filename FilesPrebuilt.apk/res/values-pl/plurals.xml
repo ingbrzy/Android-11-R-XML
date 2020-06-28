@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Anulowano) Zostało odinstalowane %1$d aplikacji</item>
+        <item quantity="one">(Anulowano) Została odinstalowana %1$d aplikacja</item>
+        <item quantity="few">(Anulowano) Zostały odinstalowane %1$d aplikacje</item>
+        <item quantity="many">(Anulowano) Zostało odinstalowanych %1$d aplikacji</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">Zostało odinstalowane %1$d aplikacji</item>
+        <item quantity="one">Została odinstalowana %1$d aplikacja</item>
+        <item quantity="few">Zostały odinstalowane %1$d aplikacje</item>
+        <item quantity="many">Zostało odinstalowanych %1$d aplikacji</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">Skopiowano %1$d pliku</item>
+        <item quantity="one">Skopiowano %1$d plik</item>
+        <item quantity="few">Skopiowano %1$d pliki</item>
+        <item quantity="many">Skopiowano %1$d plików</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Skopiowano foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Skopiowano foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Skopiowano foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Skopiowano foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Skopiowano %1$d folderu</item>
+        <item quantity="one">Skopiowano %1$d folder</item>
+        <item quantity="few">Skopiowano %1$d foldery</item>
+        <item quantity="many">Skopiowano %1$d folderów</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Skopiowano %1$d folder i %2$d pliku</item>
+        <item quantity="one">Skopiowano %1$d folder i %2$d plik</item>
+        <item quantity="few">Skopiowano %1$d folder i %2$d pliki</item>
+        <item quantity="many">Skopiowano %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d pliku zostało usunięte</item>
+        <item quantity="one">%1$d plik został usunięty</item>
+        <item quantity="few">%1$d pliki zostały usunięte</item>
+        <item quantity="many">%1$d plików zostało usuniętych</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Usunięto foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Usunięto foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Usunięto foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Usunięto foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Usunięto %1$d folderu</item>
+        <item quantity="one">Usunięto %1$d folder</item>
+        <item quantity="few">Usunięto %1$d foldery</item>
+        <item quantity="many">Usunięto %1$d folderów</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Usunięto %1$d folder i %2$d pliku</item>
+        <item quantity="one">Usunięto %1$d folder i %2$d plik</item>
+        <item quantity="few">Usunięto %1$d folder i %2$d pliki</item>
+        <item quantity="many">Usunięto %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">Przeniesiono %1$d pliku</item>
+        <item quantity="one">Przeniesiono %1$d plik</item>
+        <item quantity="few">Przeniesiono %1$d pliki</item>
+        <item quantity="many">Przeniesiono %1$d plików</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Przeniesiono foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Przeniesiono foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Przeniesiono foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Przeniesiono foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Przeniesiono %1$d folderu</item>
+        <item quantity="one">Przeniesiono %1$d folder</item>
+        <item quantity="few">Przeniesiono %1$d foldery</item>
+        <item quantity="many">Przeniesiono %1$d folderów</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Przeniesiono %1$d folder i %2$d pliku</item>
+        <item quantity="one">Przeniesiono %1$d folder i %2$d plik</item>
+        <item quantity="few">Przeniesiono %1$d folder i %2$d pliki</item>
+        <item quantity="many">Przeniesiono %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Ta czynność spowoduje też trwałe usunięcie %1$d pliku znajdującego się w folderze</item>
+        <item quantity="one">Ta czynność spowoduje też trwałe usunięcie %1$d pliku znajdującego się w folderze</item>
+        <item quantity="few">Ta czynność spowoduje też trwałe usunięcie %1$d plików znajdujących się w folderze</item>
+        <item quantity="many">Ta czynność spowoduje też trwałe usunięcie %1$d plików znajdujących się w folderze</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Usunąć %1$d pliku?</item>
+        <item quantity="one">Usunąć %1$d plik?</item>
+        <item quantity="few">Usunąć %1$d pliki?</item>
+        <item quantity="many">Usunąć %1$d plików?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Usunąć foldery (%1$d) i pliki (%2$d)?</item>
+        <item quantity="one">Usunąć foldery (1) i pliki (%2$d)?</item>
+        <item quantity="few">Usunąć foldery (%1$d) i pliki (%2$d)?</item>
+        <item quantity="many">Usunąć foldery (%1$d) i pliki (%2$d)?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Usunąć %1$d folderu i 1 plik?</item>
+        <item quantity="one">Usunąć 1 folder i 1 plik?</item>
+        <item quantity="few">Usunąć %1$d foldery i 1 plik?</item>
+        <item quantity="many">Usunąć %1$d folderów i 1 plik?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Usunąć %1$d folderu?</item>
+        <item quantity="one">Usunąć %1$d folder?</item>
+        <item quantity="few">Usunąć %1$d foldery?</item>
+        <item quantity="many">Usunąć %1$d folderów?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Chcesz usunąć %1$d elementu</item>
+        <item quantity="one">Chcesz usunąć %1$d element</item>
+        <item quantity="few">Chcesz usunąć %1$d elementy</item>
+        <item quantity="many">Chcesz usunąć %1$d elementów</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Przenieść %1$d pliku?</item>
+        <item quantity="one">Przenieść %1$d plik?</item>
+        <item quantity="few">Przenieść %1$d pliki?</item>
+        <item quantity="many">Przenieść %1$d plików?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Nie udało się skopiować plików. %1$s</item>
+        <item quantity="one">Nie udało się skopiować pliku. %1$s</item>
+        <item quantity="few">Nie udało się skopiować plików. %1$s</item>
+        <item quantity="many">Nie udało się skopiować plików. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Kopiuję %1$d pliku</item>
+        <item quantity="one">Kopiuję %1$d plik</item>
+        <item quantity="few">Kopiuję %1$d pliki</item>
+        <item quantity="many">Kopiuję %1$d plików</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Kopiuję foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Kopiuję foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Kopiuję foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Kopiuję foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Kopiuję %1$d folderu</item>
+        <item quantity="one">Kopiuję %1$d folder</item>
+        <item quantity="few">Kopiuję %1$d foldery</item>
+        <item quantity="many">Kopiuję %1$d folderów</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Kopiuję %1$d folder i %2$d pliku</item>
+        <item quantity="one">Kopiuję %1$d folder i %2$d plik</item>
+        <item quantity="few">Kopiuję %1$d folder i %2$d pliki</item>
+        <item quantity="many">Kopiuję %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Usuń %1$d duplikatu plików</item>
+        <item quantity="one">Usuń %1$d duplikat pliku</item>
+        <item quantity="few">Usuń %1$d duplikaty plików</item>
+        <item quantity="many">Usuń %1$d duplikatów plików</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Nie udało się usunąć plików. %1$s</item>
+        <item quantity="one">Nie udało się usunąć pliku. %1$s</item>
+        <item quantity="few">Nie udało się usunąć plików. %1$s</item>
+        <item quantity="many">Nie udało się usunąć plików. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Usuń %1$d mema</item>
+        <item quantity="one">Usuń %1$d mem</item>
+        <item quantity="few">Usuń %1$d memy</item>
+        <item quantity="many">Usuń %1$d memów</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Usuwam %1$d pliku</item>
+        <item quantity="one">Usuwam %1$d plik</item>
+        <item quantity="few">Usuwam %1$d pliki</item>
+        <item quantity="many">Usuwam %1$d plików</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Usuwam foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Usuwam foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Usuwam foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Usuwam foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Usuwam %1$d folderu</item>
+        <item quantity="one">Usuwam %1$d folder</item>
+        <item quantity="few">Usuwam %1$d foldery</item>
+        <item quantity="many">Usuwam %1$d folderów</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Usuwam %1$d folder i %2$d pliku</item>
+        <item quantity="one">Usuwam %1$d folder i %2$d plik</item>
+        <item quantity="few">Usuwam %1$d folder i %2$d pliki</item>
+        <item quantity="many">Usuwam %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Te elementy znajdują się już w: %s</item>
+        <item quantity="one">Ten element znajduje się już w: %s</item>
+        <item quantity="few">Te elementy znajdują się już w: %s</item>
+        <item quantity="many">Te elementy znajdują się już w: %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Nie udało się rozpakować plików. %1$s</item>
+        <item quantity="one">Nie udało się rozpakować pliku. %1$s</item>
+        <item quantity="few">Nie udało się rozpakować plików. %1$s</item>
+        <item quantity="many">Nie udało się rozpakować plików. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">Wyodrębniono %1$d pliku</item>
+        <item quantity="one">Wyodrębniono %1$d plik</item>
+        <item quantity="few">Wyodrębniono %1$d pliki</item>
+        <item quantity="many">Wyodrębniono %1$d plików</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s nie wysłał(a) %2$d pliku do użytkownika %3$s</item>
+        <item quantity="one">%1$s nie wysłał(a) %2$d pliku do użytkownika %3$s</item>
+        <item quantity="few">%1$s nie wysłał(a) %2$d plików do użytkownika %3$s</item>
+        <item quantity="many">%1$s nie wysłał(a) %2$d plików do użytkownika %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d pliku jest już w lokalizacji %2$s i nie zostaną one skopiowane</item>
+        <item quantity="one">%1$d plik jest już w lokalizacji %2$s i nie zostanie skopiowany</item>
+        <item quantity="few">%1$d pliki są już w lokalizacji %2$s i nie zostaną skopiowane</item>
+        <item quantity="many">%1$d plików jest już w lokalizacji %2$s i nie zostanie skopiowanych</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d pliku jest już w lokalizacji %2$s i nie zostaną one przeniesione</item>
+        <item quantity="one">%1$d plik jest już w lokalizacji %2$s i nie zostanie przeniesiony</item>
+        <item quantity="few">%1$d pliki są już w lokalizacji %2$s i nie zostaną przeniesione</item>
+        <item quantity="many">%1$d plików jest już w lokalizacji %2$s i nie zostanie przeniesionych</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">Nie udało się usunąć %1$d z %2$d plików. Wymagany jest dostęp do karty SD.</item>
+        <item quantity="one">Nie udało się usunąć %1$d pliku. Wymagany jest dostęp do karty SD.</item>
+        <item quantity="few">Nie udało się usunąć %1$d z %2$d plików. Wymagany jest dostęp do karty SD.</item>
+        <item quantity="many">Nie udało się usunąć %1$d z %2$d plików. Wymagany jest dostęp do karty SD.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">%1$d wybranego</item>
+        <item quantity="one">%1$d wybrany</item>
+        <item quantity="few">%1$d wybrane</item>
+        <item quantity="many">%1$d wybranych</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s pliku</item>
+        <item quantity="one">%1$s plik</item>
+        <item quantity="few">%1$s pliki</item>
+        <item quantity="many">%1$s plików</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">Zostanie skopiowane %1$d pliku</item>
+        <item quantity="one">Zostanie skopiowany %1$d plik</item>
+        <item quantity="few">Zostaną skopiowane %1$d pliki</item>
+        <item quantity="many">Zostanie skopiowanych %1$d plików</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">Zostanie przeniesione %1$d pliku</item>
+        <item quantity="one">Zostanie przeniesiony %1$d plik</item>
+        <item quantity="few">Zostaną przeniesione %1$d pliki</item>
+        <item quantity="many">Zostanie przeniesionych %1$d plików</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d pliku</item>
+        <item quantity="one">%1$s, %2$d plik</item>
+        <item quantity="few">%1$s, %2$d pliki</item>
+        <item quantity="many">%1$s, %2$d plików</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">Łącznie %1$d pliku</item>
+        <item quantity="one">Łącznie %1$d plik</item>
+        <item quantity="few">Łącznie %1$d pliki</item>
+        <item quantity="many">Łącznie %1$d plików</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s folderu</item>
+        <item quantity="one">%1$s folder</item>
+        <item quantity="few">%1$s foldery</item>
+        <item quantity="many">%1$s folderów</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Ochrona Google Play Protect znalazła %1$s szkodliwej aplikacji na Twoim urządzeniu</item>
+        <item quantity="one">Ochrona Google Play Protect znalazła szkodliwą aplikację na Twoim urządzeniu</item>
+        <item quantity="few">Ochrona Google Play Protect znalazła %1$s szkodliwe aplikacje na Twoim urządzeniu</item>
+        <item quantity="many">Ochrona Google Play Protect znalazła %1$s szkodliwych aplikacji na Twoim urządzeniu</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d godziny</item>
+        <item quantity="one">%1$d godzina</item>
+        <item quantity="few">%1$d godziny</item>
+        <item quantity="many">%1$d godzin</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Usuń %1$d pliku multimedialnego</item>
+        <item quantity="one">Usuń %1$d plik multimedialny</item>
+        <item quantity="few">Usuń %1$d pliki multimedialne</item>
+        <item quantity="many">Usuń %1$d plików multimedialnych</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d minuty</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minut</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Nie udało się przenieść plików. %1$s</item>
+        <item quantity="one">Nie udało się przenieść pliku. %1$s</item>
+        <item quantity="few">Nie udało się przenieść plików. %1$s</item>
+        <item quantity="many">Nie udało się przenieść plików. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Przenoszę %1$d pliku</item>
+        <item quantity="one">Przenoszę %1$d plik</item>
+        <item quantity="few">Przenoszę %1$d pliki</item>
+        <item quantity="many">Przenoszę %1$d plików</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Przenoszę foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="one">Przenoszę foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="few">Przenoszę foldery (%1$d) i pliki (%2$d)</item>
+        <item quantity="many">Przenoszę foldery (%1$d) i pliki (%2$d)</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Przenoszę %1$d folderu</item>
+        <item quantity="one">Przenoszę %1$d folder</item>
+        <item quantity="few">Przenoszę %1$d foldery</item>
+        <item quantity="many">Przenoszę %1$d folderów</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Przenoszę %1$d folder i %2$d pliku</item>
+        <item quantity="one">Przenoszę %1$d folder i %2$d plik</item>
+        <item quantity="few">Przenoszę %1$d folder i %2$d pliki</item>
+        <item quantity="many">Przenoszę %1$d folder i %2$d plików</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sekundy</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="many">%1$d sekund</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s wysyła %2$d pliku do użytkownika %3$s</item>
+        <item quantity="one">%1$s wysyła %2$d plik do użytkownika %3$s</item>
+        <item quantity="few">%1$s wysyła %2$d pliki do użytkownika %3$s</item>
+        <item quantity="many">%1$s wysyła %2$d plików do użytkownika %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s wysłał(a) %2$d pliku do użytkownika %3$s</item>
+        <item quantity="one">%1$s wysłał(a) %2$d plik do użytkownika %3$s</item>
+        <item quantity="few">%1$s wysłał(a) %2$d pliki do użytkownika %3$s</item>
+        <item quantity="many">%1$s wysłał(a) %2$d plików do użytkownika %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">odbiorców udostępnienia</item>
+        <item quantity="one">odbiorca udostępnienia</item>
+        <item quantity="few">odbiorców udostępnienia</item>
+        <item quantity="many">odbiorców udostępnienia</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Zatrzymać kopiowanie %1$d pliku?</item>
+        <item quantity="one">Zatrzymać kopiowanie pliku „%2$s”?</item>
+        <item quantity="few">Zatrzymać kopiowanie %1$d plików?</item>
+        <item quantity="many">Zatrzymać kopiowanie %1$d plików?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Zatrzymać usuwanie %1$d pliku?</item>
+        <item quantity="one">Zatrzymać usuwanie pliku „%2$s”?</item>
+        <item quantity="few">Zatrzymać usuwanie %1$d plików?</item>
+        <item quantity="many">Zatrzymać usuwanie %1$d plików?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Zatrzymać przenoszenie %1$d pliku?</item>
+        <item quantity="one">Zatrzymać przenoszenie pliku „%2$s”?</item>
+        <item quantity="few">Zatrzymać przenoszenie %1$d plików?</item>
+        <item quantity="many">Zatrzymać przenoszenie %1$d plików?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Odinstaluj %1$d starej aplikacji</item>
+        <item quantity="one">Odinstaluj %1$d starą aplikację</item>
+        <item quantity="few">Odinstaluj %1$d stare aplikacje</item>
+        <item quantity="many">Odinstaluj %1$d starych aplikacji</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">i jeszcze %1$d pliku</item>
+        <item quantity="one">i jeszcze %1$d plik</item>
+        <item quantity="few">i jeszcze %1$d pliki</item>
+        <item quantity="many">i jeszcze %1$d plików</item>
+    </plurals>
+</resources>

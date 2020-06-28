@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">ສະແກນແລ້ວ %1$d ລາຍການ</item>
+        <item quantity="one">ສະແກນແລ້ວ %1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">ເລືອກ %1$d ລາຍການແລ້ວ</item>
+        <item quantity="one">ເລືອກ %1$d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">ຂະໜາດອະລະບ້ຳໃໝ່ຈະໃຫຍ່ກວ່າຂະໜາດທີ່ຈຳກັດໄວ້ຕອນນີ້ທີ່ %1$d ລາຍການ.</item>
+        <item quantity="one">ຂະໜາດອະລະບ້ຳໃໝ່ຈະໃຫຍ່ກວ່າຂະໜາດທີ່ຈຳກັດໄວ້ຕອນນີ້ທີ່ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">ອະລະບ້ຳຈະມີ %1$d ລາຍການ.</item>
+        <item quantity="one">ອະລະບ້ຳຈະມີ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">ເພີ່ມສະຖານທີ່ %d ແລ້ວ</item>
+        <item quantity="one">ເພີ່ມສະຖານທີ່ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d ສະຖານທີ່</item>
+        <item quantity="one">%d ສະຖານທີ່</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d ແຜນທີ່</item>
+        <item quantity="one">%d ແຜນທີ່</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">ເພີ່ມແຜນທີ່ %d ແລ້ວ</item>
+        <item quantity="one">ເພີ່ມແຜນທີ່ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ກຳລັງລຶບລາຍການອອກຈາກອະລະບໍ້ານີ້…</item>
+        <item quantity="one">ກຳລັງລຶບລາຍການອອກຈາກອະລະບໍ້ານີ້…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">ລຶບ %d ລາຍການອອກແລ້ວ</item>
+        <item quantity="one">ລຶບ %d ລາຍການອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">ກຳລັງລຶບຮູບພາບອອກຈາກອະລະບໍ້ານີ້…</item>
+        <item quantity="one">ກຳລັງລຶບຮູບພາບອອກຈາກອະລະບໍ້ານີ້…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">ກຳລັງລຶບວິດີໂອອອກຈາກອະລະບໍ້ານີ້…</item>
+        <item quantity="one">ກຳລັງລຶບວິດີໂອອອກຈາກອະລະບໍ້ານີ້…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ລາຍການ</item>
+        <item quantity="one">%1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ລາຍການ</item>
+        <item quantity="one">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">ລຶບອອກຈາກອຸປະກອນ (%d)</item>
+        <item quantity="one">ລຶບອອກຈາກອຸປະກອນ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">ລຶບອອກຈາກທຸກອຸປະກອນ (%d)</item>
+        <item quantity="one">ລຶບອອກຈາກທຸກອຸປະກອນ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">ຍ້າຍໄປຖັງຂີ້ເຫຍື້ອ (%d)</item>
+        <item quantity="one">ຍ້າຍໄປຖັງຂີ້ເຫຍື້ອ (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">ຈັດເກັບ %d ລາຍການເຂົ້າແຟ້ມແລ້ວ</item>
+        <item quantity="one">ຈັດເກັບ %d ລາຍການເຂົ້າແຟ້ມແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">ຍົກເລີກການຈັດເກັບ %d ລາຍການເຂົ້າແຟ້ມແລ້ວ</item>
+        <item quantity="one">ຍົກເລີກການຈັດເກັບ %d ລາຍການເຂົ້າແຟ້ມແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s ແລະ ອີກ %3$d ຄົນ</item>
+        <item quantity="one">%1$s, %2$s ແລະ ອີກ %3$d ຄົນ</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s ແລະ ອີກ %2$d ຄົນ</item>
+        <item quantity="one">%1$s ແລະ ອີກ %2$d ຄົນ</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">ເລືອກ %d ແລ້ວ</item>
+        <item quantity="one">ເລືອກ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">ກຳລັງອັບໂຫຼດ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງອັບໂຫຼດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນ %d ລາຍການເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນບັນຊີຂອງທ່ານເຕັມແລ້ວ</item>
+        <item quantity="one">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນ %d ລາຍການເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນບັນຊີຂອງທ່ານເຕັມແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">ຍັງເຫຼືອ %d ລາຍການ</item>
+        <item quantity="one">ຍັງເຫຼືອ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">ຍັງເຫຼືອ %d ລາຍການໃຫ້ສຳຮອງຂໍ້ມູນ</item>
+        <item quantity="one">ຍັງເຫຼືອ %d ລາຍການໃຫ້ສຳຮອງຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">ຍັງເຫຼືອ %d ລາຍການ • ຄຸນນະພາບສູງ</item>
+        <item quantity="one">ຍັງເຫຼືອ %d ລາຍການ • ຄຸນນະພາບສູງ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">ຍັງເຫຼືອ %d ລາຍການ • ຄຸນນະພາບຕົ້ນສະບັບ</item>
+        <item quantity="one">ຍັງເຫຼືອ %d ລາຍການ • ຄຸນນະພາບຕົ້ນສະບັບ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">ຍັງອີກ %d ລາຍການ</item>
+        <item quantity="one">ຍັງອີກ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">ຍັງອີກ %d ລາຍການໃຫ້ສຳຮອງຂໍ້ມູນ</item>
+        <item quantity="one">ຍັງອີກ %d ລາຍການໃຫ້ສຳຮອງຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນຮູບ %1$d ຮູບເທື່ອ</item>
+        <item quantity="one">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນຮູບ %1$d ຮູບເທື່ອ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">ກຳລັງສຳຮອງຂໍ້ມູນ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງສຳຮອງຂໍ້ມູນ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">ກຳລັງອັບໂຫລດ %d ວິດີໂອ</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ %d ວິດີໂອ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d ລາຍການໃຫ້ອັບໂຫລດ</item>
+        <item quantity="one">%d ລາຍການໃຫ້ອັບໂຫລດ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d ວິດີໂອໃຫ້ອັບໂຫລດ</item>
+        <item quantity="one">%d ວິດີໂອໃຫ້ອັບໂຫລດ</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">ບໍ່ໄດ້ສຳຮອງຮູບພາບ %d ຮູບພາບ</item>
+        <item quantity="one">ບໍ່ໄດ້ສຳຮອງຮູບພາບ %d ຮູບພາບ</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">ທັງໝົດ %d ຮູບ</item>
+        <item quantity="one">ທັງໝົດ %d ຮູບ</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">ບໍ່ໄດ້ສຳຮອງ %1$d ຮູບເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນບັນຊີຂອງທ່ານເຕັມແລ້ວ</item>
+        <item quantity="one">ບໍ່ໄດ້ສຳຮອງ %1$d ຮູບເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນບັນຊີຂອງທ່ານເຕັມແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນ %1$d ລາຍການເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນຂອງທ່ານເຕັມແລ້ວ</item>
+        <item quantity="one">ບໍ່ໄດ້ສຳຮອງຂໍ້ມູນ %1$d ຮູບເນື່ອງຈາກບ່ອນຈັດເກັບຂໍ້ມູນຂອງທ່ານເຕັມແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">ເພີ່ມ %1$d ລາຍການແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %1$d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">ເລືອກຫຼາຍສຸດ %d ລາຍການ.</item>
+        <item quantity="one">ເລືອກຫຼາຍສຸດ %d ລາຍການ.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">ກະລຸນາເລືອກຢ່າງໜ້ອຍ %d ລາຍການ.</item>
+        <item quantity="one">ເລືອກຢ່າງໜ້ອຍ %d ລາຍການ.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">ກະລຸນາເລືອກລາຍການຕ່າງໆພາຍໃນຮອບ %d ມື້.</item>
+        <item quantity="one">ກະລຸນາເລືອກລາຍການຕ່າງໆພາຍໃນຮອບ %d ມື້.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d ມື້ກ່ອນ</item>
+        <item quantity="one">%d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dຊມ</item>
+        <item quantity="one">%dຊມ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
+        <item quantity="one">%d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dອທ</item>
+        <item quantity="one">%dອທ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d ອາທິດກ່ອນ</item>
+        <item quantity="one">%d ອາທິດກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dນທ</item>
+        <item quantity="one">%dນທ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d ນາທີກ່ອນ</item>
+        <item quantity="one">%d ນາທີກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dມື້</item>
+        <item quantity="one">%dມື້</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d ມື້ກ່ອນ</item>
+        <item quantity="one">%d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">ລຶບ %1$d ລາຍການອອກຈາກອຸປະກອນ</item>
+        <item quantity="one">ລຶບ %1$d ລາຍການອອກຈາກອຸປະກອນ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">ກຳລັງລຶບ %1$d ຮູບ ຫຼື ວິດີໂອຕົ້ນສະບັບອອກ</item>
+        <item quantity="one">ກຳລັງລຶບ %1$d ຮູບ ຫຼື ວິດີໂອຕົ້ນສະບັບອອກ</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d ລາຍການ</item>
+        <item quantity="one">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d ບັດໃໝ່</item>
+        <item quantity="one">1 ບັດໃໝ່</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">ເພີ່ມ %d ລາຍການແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d ອັບເດດ</item>
+        <item quantity="one">%1$d ອັບເດດ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">ເບິ່ງແລ້ວໂດຍ %1$s, %2$s ແລະ ອີກ %3$d ຄົນ</item>
+        <item quantity="one">ເບິ່ງແລ້ວໂດຍ %1$s, %2$s ແລະ ອີກ %3$d ຄົນ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ຄຳເຫັນ</item>
+        <item quantity="one">%1$d ຄຳເຫັນ</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ກຳລັງບັນທຶກລາຍການໃສ່ຫ້ອງສະໝຸດ…</item>
+        <item quantity="one">ກຳລັງບັນທຶກລາຍການໃສ່ຫ້ອງສະໝຸດ…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s ຖືກໃຈ %2$d ຮູບ • %3$s</item>
+        <item quantity="one">%1$s ຖືກໃຈ %2$d ຮູບ • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s ຖືກໃຈ %2$d ວິດີໂອ • %3$s</item>
+        <item quantity="one">%1$s ຖືກໃຈ %2$d ວິດີໂອ • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">ເລືອກ %d ລາຍການ</item>
+        <item quantity="one">ເລືອກ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">ລຶບໂຟນເດີ ແລະ %d ລາຍການໃນນັ້ນ</item>
+        <item quantity="one">ລຶບໂຟນເດີ ແລະ %d ລາຍການໃນນັ້ນ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">ລຶບອອກຈາກອຸປະກອນ (%d)</item>
+        <item quantity="one">ລຶບອອກຈາກອຸປະກອນ (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">ເກີດບັນຫາໃນການສຳເນົາ %d ລາຍການ</item>
+        <item quantity="one">ເກີດບັນຫາໃນການສຳເນົາ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">ສຳເນົາ %d ລາຍການແລ້ວ</item>
+        <item quantity="one">ສຳເນົາ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">ເກີດບັນຫາໃນການຍ້າຍ %d ລາຍການ</item>
+        <item quantity="one">ເກີດບັນຫາໃນການຍ້າຍ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">ຍ້າຍ %d ລາຍການແລ້ວ</item>
+        <item quantity="one">ຍ້າຍ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d ຮູບແນະນຳ</item>
+        <item quantity="one">%d ຮູບແນະນຳ</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d ປີ​ກ່ອນ​</item>
+        <item quantity="one">%d ປີກ່ອນ</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">ໝຸນ %d ອົງສາທວນເຂັມໂມງ</item>
+        <item quantity="one">ໝຸນ %d ອົງສາທວນເຂັມໂມງ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">ຮູບພາບຂອງ %d ຄົນ</item>
+        <item quantity="one">ຮູບພາບຂອງ %d ຄົນ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">ຮູບຂອງ %d ໃບໜ້າທີ່ເລືອກໄວ້</item>
+        <item quantity="one">ຮູບຂອງ %d ໃບໜ້າທີ່ເລືອກໄວ້</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">ເລືອກ %d ແລ້ວ</item>
+        <item quantity="one">ເລືອກ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">ເລືອກ %d ໃບໜ້າແລ້ວ</item>
+        <item quantity="one">ເລືອກ %d ໃບໜ້າແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">ຮູບຂອງ %1$d ໃບໜ້າທີ່ເລືອກໄວ້, ຕັ້ງແຕ່ %2$s</item>
+        <item quantity="one">ຮູບຂອງ %1$d ໃບໜ້າທີ່ເລືອກໄວ້, ຕັ້ງແຕ່ %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">ຮູບຂອງ %d ໃບໜ້າທີ່ເລືອກໄວ້</item>
+        <item quantity="one">ຮູບຂອງ %d ໃບໜ້າທີ່ເລືອກໄວ້</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">ລຶບ %1$d ຮູບອອກແລ້ວ</item>
+        <item quantity="one">ລຶບ %1$d ຮູບອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">ເລືອກ %d ຄົນເທົ່ານັ້ນ</item>
+        <item quantity="one">ເລືອກ %d ຄົນເທົ່ານັ້ນ</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d ຮູບ</item>
+        <item quantity="one">%1$d ຮູບ</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">ເລືອກ %d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="one">ເລືອກ %d ໄຟລ໌ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">ສາມາດພິມໄດ້ %d ຮູບເທົ່ານັ້ນ,</item>
+        <item quantity="one">ສາມາດພິມໄດ້ %d ຮູບເທົ່ານັ້ນ,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d ຮູບແນະນຳສຳລັບທ່ານ</item>
+        <item quantity="one">%d ຮູບແນະນຳສຳລັບທ່ານ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d ຮູບພາບແນະນຳ</item>
+        <item quantity="one">%d ຮູບພາບແນະນຳ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d ໜ້າເພີ່ມເຕີມ</item>
+        <item quantity="one">%d ໜ້າເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d ໜ້າ</item>
+        <item quantity="one">%d ໜ້າ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">ເພີ່ມ %d ຮູບເພີ່ມເຕີມເພື່ອຊື້</item>
+        <item quantity="one">ເພີ່ມ %d ຮູບເພີ່ມເຕີມເພື່ອຊື້</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">ເພີ່ມ %d ໜ້າແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %d ໜ້າແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">ເພີ່ມ %d ຮູບແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %d ຮູບແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">ລຶບ %d ໜ້າອອກແລ້ວ</item>
+        <item quantity="one">ລຶບ %d ໜ້າອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">ລຶບ %d ຮູບອອກແລ້ວ</item>
+        <item quantity="one">ລຶບ %d ຮູບອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d ໜ້າເພີ່ມເຕີມ</item>
+        <item quantity="one">%d ໜ້າເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d ໜ້າ</item>
+        <item quantity="one">%d ໜ້າ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">ເພີ່ມ %1$d ຮູບເປັນການພິມ %2$s ແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %1$d ຮູບເປັນການພິມ %2$s ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">ທ່ານສາມາດເລືອກໄດ້ແຕ່ %1$d %2$s ການພິມຕໍ່ຄຳສັ່ງ</item>
+        <item quantity="one">ທ່ານສາມາດເລືອກໄດ້ແຕ່ %1$d %2$s ການພິມຕໍ່ຄຳສັ່ງ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">ທ່ານຕ້ອງມີຢ່າງໜ້ອຍ %1$d ຮູບເພື່ອສືບຕໍ່ກັບສະບັບຮ່າງຂອງທ່ານ.</item>
+        <item quantity="one">ທ່ານຕ້ອງມີຢ່າງໜ້ອຍ %1$d ຮູບເພື່ອສືບຕໍ່ກັບສະບັບຮ່າງຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">ພິມ %1$d</item>
+        <item quantity="one">ພິມ %1$d</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">ດາວໂຫລດແລ້ວ %1$d ຈາກທັງໝົດ %2$d ລາຍການ</item>
+        <item quantity="one">ດາວໂຫລດແລ້ວ %1$d ຈາກທັງໝົດ %2$d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">ກູ້ %d ລາຍການຄືນມາບໍ?</item>
+        <item quantity="one">ກູ້ %d ລາຍການຄືນມາບໍ?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">ກູ້ %1$d ລາຍການຫຼ້າສຸດໄປໃສ່ອຸປະກອນແລ້ວ</item>
+        <item quantity="one">ກູ້ 1 ລາຍການຫຼ້າສຸດໄປໃສ່ອຸປະກອນແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">ກູ້ %1$d ຮູບ ຫຼື ວິດີໂອແລ້ວ</item>
+        <item quantity="one">ກູ້ 1 ຮູບ ຫຼື ວິດີໂອແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d ຮູບພາບ</item>
+        <item quantity="one">%d ຮູບພາບ</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">ເພີ່ມ %d ລາຍການໃສ່ອະລະບໍ້າແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %d ລາຍການໃສ່ອະລະບໍ້າແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">ຈະອັບໂຫລດ %d ລາຍການເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item quantity="one">ຈະອັບໂຫລດ %d ລາຍການເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">ໄຟລ໌ແທ້</item>
+        <item quantity="one">ໄຟລ໌ແທ້</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">ໄຟລ໌</item>
+        <item quantity="one">ໄຟລ໌</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">ໄຟລ໌ນ້ອຍ</item>
+        <item quantity="one">ໄຟລ໌ນ້ອຍ</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s ແລະ ອີກ %2$d ຄົນ</item>
+        <item quantity="one">%1$s ແລະ ອີກ %2$d ຄົນ</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ລາຍການ</item>
+        <item quantity="one">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">ເພີ່ມຮູບທີ່ກ່ຽວຂ້ອງ %d ຮູບບໍ່?</item>
+        <item quantity="one">ເພີ່ມຮູບທີ່ກ່ຽວຂ້ອງ %d ຮູບບໍ່?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">ເພີ່ມ %1$d ຮູບອັດຕະໂນມັດແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %1$d ຮູບອັດຕະໂນມັດແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d ຮູບພາບໃໝ່</item>
+        <item quantity="one">%1$d ຮູບພາບໃໝ່</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s ເພີ່ມ %2$d ຮູບໃໝ່ແລ້ວ</item>
+        <item quantity="one">%1$s ເພີ່ມ %2$d ຮູບໃໝ່ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ບໍ່ສາມາດລຶບລາຍການອອກໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດລຶບລາຍການອອກໄດ້</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">ບໍ່ສາມາດລຶບ %d ລາຍການອອກໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດລຶບ %d ລາຍການອອກໄດ້</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">ບໍ່ສາມາດລຶບ %d ລາຍການອອກຖາວອນໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດລຶບ %d ລາຍການອອກຖາວອນໄດ້</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">ລຶບ %d ລາຍການອອກຈາກອຸປະກອນແລ້ວ</item>
+        <item quantity="one">ລຶບ %d ລາຍການອອກຈາກອຸປະກອນແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">ກຳລັງກູ້ລາຍການຄືນ…</item>
+        <item quantity="one">ກຳລັງກູ້ລາຍການຄືນ…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">ບໍ່ສາມາດກູ້ %d ລາຍການກັບຄືນມາໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດກູ້ %d ລາຍການກັບຄືນມາໄດ້</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ລຶບລາຍການອອກຖາວອນບໍ?</item>
+        <item quantity="one">ລຶບລາຍການອອກຖາວອນບໍ?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">ລຶບ %d ລາຍການອອກຖາວອນ</item>
+        <item quantity="one">ລຶບ %d ລາຍການອອກຖາວອນ</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d ມື້ກ່ອນເວີຊັນນີ້ຈະໝົດອາຍຸ. ເພື່ອສືບຕໍ່ໃຊ້ Google ຮູບພາບ, ທ່ານຕ້ອງອັບເດດດຽວນີ້.</item>
+        <item quantity="one">1 ມື້ກ່ອນເວີຊັນນີ້ຈະໝົດອາຍຸ. ເພື່ອສືບຕໍ່ໃຊ້ Google ຮູບພາບ, ທ່ານຕ້ອງອັບເດດດຽວນີ້.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d ລາຍການຈະຖືກອັບໂຫລດເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item quantity="one">%d ລາຍການຈະຖືກອັບໂຫລດເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d ລາຍການຈະຖືກອັບໂຫລດເມື່ອເຊື່ອມຕໍ່ຫາ Wi-Fi ແລ້ວ</item>
+        <item quantity="one">%d ລາຍການຈະຖືກອັບໂຫລດເມື່ອເຊື່ອມຕໍ່ຫາ Wi-Fi ແລ້ວ</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">ກຳລັງອັບໂຫລດ… ຍັງເຫຼືອອີກ %d</item>
+        <item quantity="one">ກຳລັງອັບໂຫລດ… ຍັງເຫຼືອອີກ %d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ໄຟລ໌</item>
+        <item quantity="one">%d ໄຟລ໌</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s ຮູບພາບ</item>
+        <item quantity="one">%s ຮູບພາບ</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ລາຍການ</item>
+        <item quantity="one">%s ລາຍການ</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s ວິດີໂອ</item>
+        <item quantity="one">%s ວິດີໂອ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">ເລືອກຮູບພາບ</item>
+        <item quantity="one">ເລືອກຮູບພາບໃດໜຶ່ງ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">ເລືອກລາຍການໃດໜຶ່ງ</item>
+        <item quantity="one">ເລືອກລາຍການໃດໜຶ່ງ</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">ເລືອກວິດີໂອ</item>
+        <item quantity="one">ເລືອກວິດີໂອໃດໜຶ່ງ</item>
+    </plurals>
+</resources>

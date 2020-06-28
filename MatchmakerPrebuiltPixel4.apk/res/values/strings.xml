@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_logging_whitelist_exp">2020-07-09T00:00:00Z</string>
+    <string name="app_name">Device Personalization Services</string>
+    <string name="attribution_from_clipboard">from clipboard</string>
+    <string name="attribution_prefix">copied from %1$s</string>
+    <string name="attribution_unknown">previous screen</string>
+    <string name="autofill_suggestion_icon">Smart Suggestion Icon</string>
+    <string name="boarding_pass_intent_title">Add to Google Pay</string>
+    <string name="captions_a11y_switch_access_collapse">Collapse</string>
+    <string name="captions_a11y_switch_access_dismiss">Dismiss</string>
+    <string name="captions_a11y_switch_access_expand">Expand</string>
+    <string name="captions_a11y_switch_access_move_down">Move Down</string>
+    <string name="captions_a11y_switch_access_move_to_center">Move To Center</string>
+    <string name="captions_a11y_switch_access_move_up">Move Up</string>
+    <string name="captions_foreground_download_failed_toast_text">Couldn’t download Live Caption data. Go to Settings > Sound > Live Caption.</string>
+    <string name="captions_foreground_download_notification_header_text">Live Caption</string>
+    <string name="captions_foreground_download_notification_text">Downloading caption data</string>
+    <string name="captions_learn_more_button">Learn More</string>
+    <string name="captions_live_caption_name">Live Caption</string>
+    <string name="captions_notification_close_action">Turn off</string>
+    <string name="captions_notification_header_text">Live Caption is on</string>
+    <string name="captions_notification_text">"Speech detected in media is captioned automatically. 
+
+Uses additional battery."</string>
+    <string name="captions_onboarding_description">"Live Caption detects speech in media and automatically generates captions. 
+
+When media is playing, this feature uses additional battery. All audio and captions are processed locally and never leave the device. Currently available in English only."</string>
+    <string name="captions_onboarding_ok_btn">Got it</string>
+    <string name="captions_phone_dismiss_hint">Drag down to dismiss</string>
+    <string name="captions_settings_category_text">Settings</string>
+    <string name="captions_settings_content_description_help_center">Live Caption Help Center Website</string>
+    <string name="captions_settings_download_button">Download</string>
+    <string name="captions_settings_download_dialog_download_now">Download now</string>
+    <string name="captions_settings_download_dialog_message">Make sure you’re connected to Wi-Fi while downloading caption data. Downloading over a mobile network may result in additional charges.</string>
+    <string name="captions_settings_download_dialog_title">Update size is %1$d MB</string>
+    <string name="captions_settings_download_summary">Update your software to enable this feature.</string>
+    <string name="captions_settings_icon_in_volume_switch_key">captions_settings_switch_key</string>
+    <string name="captions_settings_icon_in_volume_switch_title">Live Caption in volume control</string>
+    <string name="captions_settings_info_text">"Live Caption detects speech in media and automatically generates captions. 
+
+When showing captions, this feature uses additional battery. "<a href="https://support.google.com/android?p=android_live_caption">Learn more</a>" 
+
+All audio and captions are processed locally and never leave the device. Currently available in English only. Songs aren’t fully supported. 
+
+Using Live Caption:
+ \u0009\u0009• Touch and hold the captions to move.
+ \u0009\u0009• Double-tap the captions to expand. "</string>
+    <string name="captions_settings_language_chooser_key">captions_settings_language_chooser_key</string>
+    <string name="captions_settings_language_chooser_summary">English only. More languages coming soon.</string>
+    <string name="captions_settings_language_chooser_title">Language</string>
+    <string name="captions_settings_missing_permissions_button">Allow Permissions</string>
+    <string name="captions_settings_missing_permissions_summary">Allow permissions to enable this feature.</string>
+    <string name="captions_settings_model_not_available_description">Live Caption needs to download caption data. Connect to Wi-Fi.</string>
+    <string name="captions_settings_profanity_switch_key">captions_settings_profanity_switch_key</string>
+    <string name="captions_settings_profanity_switch_summary">Profanity will be replaced with an asterisk symbol *</string>
+    <string name="captions_settings_profanity_switch_title">Hide profanity</string>
+    <string name="captions_settings_provider_summary">Automatically caption media</string>
+    <string name="captions_settings_service_enabled_switch_key">captions_settings_service_enabled_switch_key</string>
+    <string name="captions_settings_sound_labels_switch_key">captions_settings_sound_labels_switch_key</string>
+    <string name="captions_settings_sound_labels_switch_summary">Includes sounds like laughter, applause and music</string>
+    <string name="captions_settings_sound_labels_switch_title">Show sound labels</string>
+    <string name="captions_sound_event_applause">(Applause)</string>
+    <string name="captions_sound_event_cheering">(Cheering)</string>
+    <string name="captions_sound_event_clapping">(Clapping)</string>
+    <string name="captions_sound_event_laughter">(Laughter)</string>
+    <string name="captions_sound_event_music">(Music)</string>
+    <string name="captions_toast_service_start_reminder">Captions appear when speech is detected</string>
+    <string name="captions_toast_stream_opted_out">This app has disabled Live Caption</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="clear_data_ui_default_title">Clear Data</string>
+    <string name="clear_data_ui_negative_button">Cancel</string>
+    <string name="clear_data_ui_option_all_time">All time</string>
+    <string name="clear_data_ui_option_last_day">Last 24 hours</string>
+    <string name="clear_data_ui_option_last_hour">Last hour</string>
+    <string name="clear_data_ui_positive_button">Clear data</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="confirmation_switch_pref_default_dialog_message">Are you sure?</string>
+    <string name="confirmation_switch_pref_default_dialog_negative_button">No</string>
+    <string name="confirmation_switch_pref_default_dialog_positive_button">Yes</string>
+    <string name="confirmation_switch_pref_default_dialog_title">Confirm</string>
+    <string name="copy">Copy</string>
+    <string name="dialog_preference_negative">Cancel</string>
+    <string name="dialog_preference_positive">Save</string>
+    <string name="dismiss_autofill_suggestion">Dismiss Smart Suggestion</string>
+    <string name="echo_app_suggestions_category_title">APP SUGGESTIONS</string>
+    <string name="echo_overview_category_title">OVERVIEW</string>
+    <string name="echo_pref_desc_hotseat">Bottom row of apps on the Home screen</string>
+    <string name="echo_pref_title_all_apps">Suggestions in all apps list</string>
+    <string name="echo_pref_title_hotseat">Suggestions on Home screen</string>
+    <string name="echo_settings_explanation">App suggestions are based on your recently used apps, most-used apps, and routines</string>
+    <string name="echo_suggestion_pref_screen_title">Suggestions</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="iv_icon_content_description">Title icon</string>
+    <string name="live_caption_help_center_uri">https://support.google.com/android?p=android_live_caption</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="not_set">Not set</string>
+    <string name="notification_listener_service_label">Improve suggestions</string>
+    <string name="overview_selection_pref_desc">When switching apps, touch &amp; hold text and images to see actions</string>
+    <string name="overview_selection_pref_title">Overview selection</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="persist_gleams_ceased">pref_persist_gleams_ceased</string>
+    <string name="pref_template_table_default" />
+    <string name="pref_webref_model_default" />
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="privacy_hub_clear_data">Clear data</string>
+    <string name="privacy_hub_clear_data_description">Stored by Device Personalization Services</string>
+    <string name="privacy_hub_settings_activity_title">Device Personalization Services</string>
+    <string name="privacy_hub_settings_info">"Get suggestions based on the people, apps, and content you interact with
+
+%s"</string>
+    <string name="privacy_hub_settings_info_learn_more">Learn more</string>
+    <string name="privacy_hub_settings_info_learn_more_url_pixel">https://support.google.com/pixelphone?p=aiai_suggestions</string>
+    <string name="privacy_hub_settings_info_nolink">Get suggestions based on the people, apps, and content you interact with</string>
+    <string name="process_captions">:captions</string>
+    <string name="process_nonpersistent">:nonpersistent</string>
+    <string name="setting_app_share_enabled">pref_app_share_enabled</string>
+    <string name="setting_assist_enabled">pref_assist_enabled</string>
+    <string name="setting_autofill_enabled">pref_autofill_enabled</string>
+    <string name="setting_cease_gleams">pref_cease_gleams</string>
+    <string name="setting_chips_block_max_char_count">pref_chips_block_max_char_count</string>
+    <string name="setting_chips_content_capture_blacklist_enabled">pref_chips_content_capture_blacklist_enabled</string>
+    <string name="setting_chips_content_capture_enabled">pref_chips_content_capture_enabled</string>
+    <string name="setting_chips_enabled">pref_chips_enabled</string>
+    <string name="setting_chips_screen_max_char_count">pref_chips_screen_max_char_count</string>
+    <string name="setting_chips_text_entity_ranking_mode">pref_chips_text_entity_ranking_mode</string>
+    <string name="setting_chips_vkp_ocr_blacklist_enabled">pref_chips_vkp_ocr_blacklist_enabled</string>
+    <string name="setting_chips_vkp_ocr_enabled">pref_chips_vkp_ocr_enabled</string>
+    <string name="setting_chips_vkp_ocr_fallback_enabled">pref_chips_vkp_ocr_fallback_enabled</string>
+    <string name="setting_debug_chip_enabled">pref_debug_chip_enabled</string>
+    <string name="setting_direct_share_enabled">pref_direct_share_enabled</string>
+    <string name="setting_fake_contents">pref_fake_contents</string>
+    <string name="setting_gleams_dark_launch_enabled">pref_gleams_dark_launch_enabled</string>
+    <string name="setting_gleams_enabled">pref_gleams_enabled</string>
+    <string name="setting_gleams_enforce_limit">pref_gleams_enforce_limit</string>
+    <string name="setting_gleams_max">pref_gleams_max</string>
+    <string name="setting_gleams_timeout_ms">pref_gleams_timeout_ms</string>
+    <string name="setting_log_detailed">pref_log_detailed</string>
+    <string name="setting_log_overlay_option">pref_log_overlay_option</string>
+    <string name="setting_min_travel_distance_meters">pref_min_travel_distance_meters</string>
+    <string name="setting_min_update_interval_seconds">pref_min_update_interval_seconds</string>
+    <string name="setting_ocr_chips_max_asp_ratio">pref_ocr_chips_max_asp_ratio</string>
+    <string name="setting_ocr_filter_enabled">pref_ocr_filter_enabled</string>
+    <string name="setting_ocr_max_asp_ratio">pref_ocr_max_asp_ratio</string>
+    <string name="setting_ocr_min_downscale_res">pref_ocr_min_downscale_res</string>
+    <string name="setting_ocr_min_height">pref_ocr_min_height</string>
+    <string name="setting_overview_enabled">pref_overview_enabled</string>
+    <string name="setting_screen_processor_enabled">pref_screen_processor_enabled</string>
+    <string name="setting_sharesheet_model">pref_setting_sharesheet_model</string>
+    <string name="setting_superpacks_download">pref_superpacks_enabled</string>
+    <string name="setting_template_table">pref_template_table</string>
+    <string name="setting_template_table_version">pref_template_table_version</string>
+    <string name="setting_track_view_hierarchy">pref_track_view_hierarchy</string>
+    <string name="setting_visual_cortex_enabled">pref_visual_cortex_enabled</string>
+    <string name="setting_webref_model">pref_webref_model</string>
+    <string name="setting_webref_model_version">pref_webref_model_version</string>
+    <string name="settings_gleams_ui">pref_gleams_ui</string>
+    <string name="strictmode_stack_trace_title">Stack Trace</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="superpacks_download_notification">Download notification</string>
+    <string name="tc_notif_code_copied_to_clipboard">Code copied</string>
+    <string name="tc_notif_copy_code_desc">Copy “%1$s“</string>
+    <string name="user_settings_advanced">Advanced Settings</string>
+    <string name="user_settings_clear_data_dialog_learn_more">Learn more</string>
+    <string name="user_settings_clear_data_dialog_message">"Clear all data stored by Device Personalization Services
+
+%s"</string>
+    <string name="user_settings_clear_data_learn_more_url_pixel">https://support.google.com/pixelphone?p=aiai_suggestions_cleardata</string>
+    <string name="user_settings_open_source_licenses">Open source licenses</string>
+    <string name="user_settings_pref_key_licenses">pref_licenses</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33">false</item>
+    <item type="string" name="APKTOOL_DUMMY_52">false</item>
+    <item type="string" name="APKTOOL_DUMMY_54">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82">false</item>
+    <item type="string" name="APKTOOL_DUMMY_83">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_100">false</item>
+    <item type="string" name="APKTOOL_DUMMY_109">false</item>
+    <item type="string" name="APKTOOL_DUMMY_112">false</item>
+    <item type="string" name="APKTOOL_DUMMY_113">false</item>
+    <item type="string" name="APKTOOL_DUMMY_114">false</item>
+    <item type="string" name="APKTOOL_DUMMY_115">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+</resources>

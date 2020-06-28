@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>Restaurants</item>
+        <item>Films</item>
+        <item>Météo</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>Restaurants</item>
+        <item>Films à proximité</item>
+        <item>Météo</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>aucun objet</item>
+        <item>aucun objet</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>Amour</item>
+        <item>Oui</item>
+        <item>Bisou</item>
+        <item>Bonjour</item>
+        <item>Étreinte</item>
+        <item>Fête</item>
+        <item>En colère</item>
+        <item>Enthousiaste</item>
+        <item>Au revoir</item>
+        <item>MDR</item>
+        <item>En larmes</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Oui</item>
+        <item>Non</item>
+        <item>OK</item>
+        <item>Hé, hé!</item>
+        <item>Merci</item>
+        <item>"D'accord"</item>
+        <item>Bien</item>
+        <item>En chemin</item>
+        <item>OK, je te réponds plus tard</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>Message multimédia</item>
+        <item>Message texte contenant un lien</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Toujours renvoyer par message texte</item>
+        <item>Renvoyer par message texte sans itinérance</item>
+        <item>Demander avant de renvoyer</item>
+        <item>Ne jamais renvoyer par message texte</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Toujours renvoyer par message texte ou multimédia</item>
+        <item>"Renvoyer par message texte ou multimédia lorsque l'appareil n'est pas en itinérance"</item>
+        <item>Demander avant de renvoyer</item>
+        <item>Ne jamais renvoyer par message texte ou multimédia</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

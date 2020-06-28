@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">（キャンセル）%1$d 個をアンインストール済み</item>
+        <item quantity="one">（キャンセル）%1$d 個をアンインストール済み</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d 個のアプリをアンインストール済み</item>
+        <item quantity="one">%1$d 個のアプリをアンインストール済み</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">%1$d 個のファイルをコピーしました</item>
+        <item quantity="one">%1$d 個のファイルをコピーしました</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルのコピー完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルのコピー完了</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">%1$d 件のフォルダのコピー完了</item>
+        <item quantity="one">%1$d 件のフォルダのコピー完了</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルのコピー完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルのコピー完了</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d 個のファイルを削除しました</item>
+        <item quantity="one">%1$d 個のファイルを削除しました</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルの削除完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルの削除完了</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">%1$d 件のフォルダの削除完了</item>
+        <item quantity="one">%1$d 件のフォルダの削除完了</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルの削除完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルの削除完了</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">%1$d 個のファイルを移動しました</item>
+        <item quantity="one">%1$d 個のファイルを移動しました</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルの移動完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルの移動完了</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">%1$d 件のフォルダの移動完了</item>
+        <item quantity="one">%1$d 件のフォルダの移動完了</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルの移動完了</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルの移動完了</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">この操作を行うと、フォルダ内のファイル（%1$d 個）も完全に削除されます</item>
+        <item quantity="one">この操作を行うと、フォルダ内のファイル（%1$d 個）も完全に削除されます</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">%1$d 個のファイルを削除しますか？</item>
+        <item quantity="one">%1$d 個のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">%1$d 個のフォルダと %2$d 個のファイルを削除しますか？</item>
+        <item quantity="one">1 個のフォルダと %2$d 個のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">%1$d 個のフォルダと 1 個のファイルを削除しますか？</item>
+        <item quantity="one">1 個のフォルダと 1 個のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">%1$d 個のフォルダを削除しますか？</item>
+        <item quantity="one">%1$d 個のフォルダを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">%1$d 件のアイテムを削除しようとしています</item>
+        <item quantity="one">%1$d 件のアイテムを削除しようとしています</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">%1$d 個のファイルを移動しますか？</item>
+        <item quantity="one">%1$d 個のファイルを移動しますか？</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">ファイルをコピーできませんでした。%1$s</item>
+        <item quantity="one">ファイルをコピーできませんでした。%1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">%1$d 個のファイルをコピーしています</item>
+        <item quantity="one">%1$d 個のファイルをコピーしています</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルをコピー中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルをコピー中</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">%1$d 件のフォルダをコピー中</item>
+        <item quantity="one">%1$d 件のフォルダをコピー中</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルをコピー中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルをコピー中</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">重複ファイル（%1$d 件）を削除できます</item>
+        <item quantity="one">重複ファイル（%1$d 件）を削除できます</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">ファイルを削除できませんでした。%1$s</item>
+        <item quantity="one">ファイルを削除できませんでした。%1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">%1$d 件のミームを削除します</item>
+        <item quantity="one">%1$d 件のミームを削除します</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">%1$d 個のファイルを削除しています</item>
+        <item quantity="one">%1$d 個のファイルを削除しています</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルを削除中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルを削除中</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">%1$d 件のフォルダを削除中</item>
+        <item quantity="one">%1$d 件のフォルダを削除中</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルを削除中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルを削除中</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">これらのファイルはすでに %s にあります</item>
+        <item quantity="one">このファイルはすでに %s にあります</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">ファイルを解凍できませんでした。%1$s</item>
+        <item quantity="one">ファイルを解凍できませんでした。%1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">%1$d 件のファイルを解凍しました</item>
+        <item quantity="one">%1$d 件のファイルを解凍しました</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s さんが %2$d 個のファイルを %3$s さんに送信できませんでした</item>
+        <item quantity="one">%1$s さんが %2$d 個のファイルを %3$s さんに送信できませんでした</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d 個のファイルはすでに%2$sに存在するため、コピーされません</item>
+        <item quantity="one">%1$d 個のファイルはすでに%2$sに存在するため、コピーされません</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d 個のファイルはすでに%2$sに存在するため、移動されません</item>
+        <item quantity="one">%1$d 個のファイルはすでに%2$sに存在するため、移動されません</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">%2$d 個中 %1$d 個のファイルを削除できませんでした。SD カードへのアクセス許可が必要です。</item>
+        <item quantity="one">%1$d 個のファイルを削除できませんでした。SD カードへのアクセス権限が必要です。</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">%1$d 件選択済み</item>
+        <item quantity="one">%1$d 件選択済み</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s ファイル</item>
+        <item quantity="one">%1$s ファイル</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d 個のファイルがコピーされます</item>
+        <item quantity="one">%1$d 個のファイルがコピーされます</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d 個のファイルが移動されます</item>
+        <item quantity="one">%1$d 個のファイルが移動されます</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s、%2$d ファイル</item>
+        <item quantity="one">%1$s、%2$d ファイル</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">合計 %1$d ファイル</item>
+        <item quantity="one">合計 %1$d ファイル</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s フォルダ</item>
+        <item quantity="one">%1$s フォルダ</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Google Play プロテクトでデバイス上に有害なアプリが %1$s 個見つかりました</item>
+        <item quantity="one">Google Play プロテクトでデバイス上に有害なアプリが 1 個見つかりました</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d時間</item>
+        <item quantity="one">%1$d時間</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">%1$d 個のメディア ファイルを削除</item>
+        <item quantity="one">%1$d 個のメディア ファイルを削除</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d分</item>
+        <item quantity="one">%1$d分</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">ファイルを移動できませんでした。%1$s</item>
+        <item quantity="one">ファイルを移動できませんでした。%1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">%1$d 個のファイルを移動しています</item>
+        <item quantity="one">%1$d 個のファイルを移動しています</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルを移動中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルを移動中</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">%1$d 件のフォルダを移動中</item>
+        <item quantity="one">%1$d 件のフォルダを移動中</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">%1$d 件のフォルダと %2$d 件のファイルを移動中</item>
+        <item quantity="one">%1$d 件のフォルダと %2$d 件のファイルを移動中</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d秒</item>
+        <item quantity="one">%1$d秒</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s さんが %2$d 個のファイルを %3$s さんに送信しています</item>
+        <item quantity="one">%1$s さんが %2$d 個のファイルを %3$s さんに送信しています</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s さんが %2$d 個のファイルを %3$s さんに送信しました</item>
+        <item quantity="one">%1$s さんが %2$d 個のファイルを %3$s さんに送信しました</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">共有人数</item>
+        <item quantity="one">共有人数</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">%1$d 個のファイルのコピーをやめますか？</item>
+        <item quantity="one">「%2$s」のコピーをやめますか？</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">ファイル（%1$d 個）の削除を中止しますか？</item>
+        <item quantity="one">「%2$s」の削除を中止しますか？</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">%1$d 個のファイルのの移動をやめますか？</item>
+        <item quantity="one">「%2$s」の移動をやめますか？</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">古いファイル（%1$d 件）をアンインストールできます</item>
+        <item quantity="one">古いファイル（%1$d 件）をアンインストールできます</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">その他 %1$d 個のファイル</item>
+        <item quantity="one">その他 %1$d 個のファイル</item>
+    </plurals>
+</resources>

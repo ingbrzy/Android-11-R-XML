@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Cancelled) %1$d apps uninstalled</item>
+        <item quantity="one">(Cancelled) %1$d app uninstalled</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d apps uninstalled</item>
+        <item quantity="one">%1$d app uninstalled</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">%1$d files copied</item>
+        <item quantity="one">%1$d file copied</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">%1$d folders and %2$d files copied</item>
+        <item quantity="one">%1$d folders and %2$d file copied</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">%1$d folders copied</item>
+        <item quantity="one">%1$d folder copied</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">%1$d folder and %2$d files copied</item>
+        <item quantity="one">%1$d folder and %2$d file copied</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d files deleted</item>
+        <item quantity="one">%1$d file deleted</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">%1$d folders and %2$d files deleted</item>
+        <item quantity="one">%1$d folders and %2$d file deleted</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">%1$d folders deleted</item>
+        <item quantity="one">%1$d folder deleted</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">%1$d folder and %2$d files deleted</item>
+        <item quantity="one">%1$d folder and %2$d file deleted</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">%1$d files moved</item>
+        <item quantity="one">%1$d file moved</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">%1$d folders and %2$d files moved</item>
+        <item quantity="one">%1$d folders and %2$d file moved</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">%1$d folders moved</item>
+        <item quantity="one">%1$d folder moved</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">%1$d folder and %2$d files moved</item>
+        <item quantity="one">%1$d folder and %2$d file moved</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">This will also permanently delete %1$d files inside the folder</item>
+        <item quantity="one">This will also permanently delete %1$d file inside the folder</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Delete %1$d files?</item>
+        <item quantity="one">Delete %1$d file?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Delete %1$d folders and %2$d files?</item>
+        <item quantity="one">Delete 1 folder and %2$d files?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Delete %1$d folders and 1 file?</item>
+        <item quantity="one">Delete 1 folder and 1 file?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Delete %1$d folders?</item>
+        <item quantity="one">Delete %1$d folder?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">"You're about to clear %1$d items"</item>
+        <item quantity="one">"You're about to clear %1$d item"</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Move %1$d files?</item>
+        <item quantity="one">Move %1$d file?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">"Couldn't copy files. %1$s"</item>
+        <item quantity="one">"Couldn't copy file. %1$s"</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Copying %1$d files</item>
+        <item quantity="one">Copying %1$d file</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Copying %1$d folders and %2$d files</item>
+        <item quantity="one">Copying %1$d folders and %2$d file</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Copying %1$d folders</item>
+        <item quantity="one">Copying %1$d folder</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Copying %1$d folder and %2$d files</item>
+        <item quantity="one">Copying %1$d folder and %2$d file</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Delete %1$d duplicate files</item>
+        <item quantity="one">Delete %1$d duplicate file</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">"Couldn't delete files. %1$s"</item>
+        <item quantity="one">"Couldn't delete file. %1$s"</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Clear up %1$d memes</item>
+        <item quantity="one">Clear up %1$d meme</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Deleting %1$d files</item>
+        <item quantity="one">Deleting %1$d file</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Deleting %1$d folders and %2$d files</item>
+        <item quantity="one">Deleting %1$d folders and %2$d file</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Deleting %1$d folders</item>
+        <item quantity="one">Deleting %1$d folder</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Deleting %1$d folder and %2$d files</item>
+        <item quantity="one">Deleting %1$d folder and %2$d file</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">These items are already in %s</item>
+        <item quantity="one">This item is already in %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">"Couldn't extract files. %1$s"</item>
+        <item quantity="one">"Couldn't extract file. %1$s"</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">%1$d files extracted</item>
+        <item quantity="one">%1$d file extracted</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s failed to send %2$d files to %3$s</item>
+        <item quantity="one">%1$s failed to send %2$d file to %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">"%1$d files are already in %2$s and won't be copied"</item>
+        <item quantity="one">"%1$d file is already in %2$s and won't be copied"</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">"%1$d files are already in %2$s and won't be moved"</item>
+        <item quantity="one">"%1$d file is already in %2$s and won't be moved"</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">"Couldn't delete %1$d of %2$d files. SD card permissions required."</item>
+        <item quantity="one">"Couldn't delete %1$d file. SD card permissions required."</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s files</item>
+        <item quantity="one">%1$s file</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d files will be copied</item>
+        <item quantity="one">%1$d file will be copied</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d files will be moved</item>
+        <item quantity="one">%1$d file will be moved</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d files</item>
+        <item quantity="one">%1$s, %2$d file</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">%1$d files total</item>
+        <item quantity="one">%1$d file total</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s folders</item>
+        <item quantity="one">%1$s folder</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Google Play Protect found %1$s harmful apps on your device</item>
+        <item quantity="one">Google Play Protect found a harmful app on your device</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d hour</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Remove %1$d media files</item>
+        <item quantity="one">Remove %1$d media file</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">"Couldn't move files. %1$s"</item>
+        <item quantity="one">"Couldn't move file. %1$s"</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Moving %1$d files</item>
+        <item quantity="one">Moving %1$d file</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Moving %1$d folders and %2$d files</item>
+        <item quantity="one">Moving %1$d folders and %2$d file</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Moving %1$d folders</item>
+        <item quantity="one">Moving %1$d folder</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Moving %1$d folder and %2$d files</item>
+        <item quantity="one">Moving %1$d folder and %2$d file</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">%1$d second</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s is sending %2$d files to %3$s</item>
+        <item quantity="one">%1$s is sending %2$d file to %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s sent %2$d files to %3$s</item>
+        <item quantity="one">%1$s sent %2$d file to %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">Share recipients</item>
+        <item quantity="one">Share recipient</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Stop copying %1$d files?</item>
+        <item quantity="one">Stop copying “%2$s”?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Stop deleting %1$d files?</item>
+        <item quantity="one">Stop deleting “%2$s”?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Stop moving %1$d files?</item>
+        <item quantity="one">Stop moving “%2$s”?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Uninstall %1$d old apps</item>
+        <item quantity="one">Uninstall %1$d old app</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">+%1$d more files</item>
+        <item quantity="one">+%1$d more file</item>
+    </plurals>
+</resources>

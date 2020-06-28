@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">Do tohto zariadenia bolo pridaných %1$d čísel, ale naraz sa dá používať iba jedno.</item>
+        <item quantity="one">Do tohto zariadenia bolo pridané %1$d číslo, ale naraz sa dá používať iba jedno.</item>
+        <item quantity="few">Do tohto zariadenia boli pridané %1$d čísla, ale naraz sa dá používať iba jedno.</item>
+        <item quantity="many">%1$d numbers have been added to this device, but only 1 can be used at a time</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">Získavajú sa &lt;b>%2$d&lt;/b> čísla od operátora %1$s a %3$d ďalších operátorov. Môže to chvíľu trvať.</item>
+        <item quantity="one">Získavajú sa &lt;b>čísla (%2$d)&lt;/b> od operátora %1$s a 1 ďalšieho operátora. Môže to chvíľu trvať.</item>
+        <item quantity="few">Získavajú sa &lt;b>čísla (%2$d)&lt;/b> od operátora %1$s a %3$d ďalších operátorov. Môže to chvíľu trvať.</item>
+        <item quantity="many">"We're getting &lt;b>%2$d numbers&lt;/b> from %1$s and %3$d other carriers. This can take some time."</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">Získava sa &lt;b>%2$d čísel&lt;/b> od operátora %1$s. Môže to chvíľu trvať.</item>
+        <item quantity="one">Získava sa číslo od operátora %1$s. Môže to chvíľu trvať.</item>
+        <item quantity="few">Získavajú sa &lt;b>%2$d čísla&lt;/b> od operátora %1$s. Môže to chvíľu trvať.</item>
+        <item quantity="many">"We're getting &lt;b>%2$d numbers&lt;/b> from %1$s. This can take some time."</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Pridávajú sa vaše čísla…</item>
+        <item quantity="one">Pridáva sa vaše číslo…</item>
+        <item quantity="few">Pridávajú sa vaše čísla…</item>
+        <item quantity="many">Pridávajú sa vaše čísla…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Siete neboli aktivované</item>
+        <item quantity="one">Operátor %1$s nebol aktivovaný</item>
+        <item quantity="few">Siete neboli aktivované</item>
+        <item quantity="many">Siete neboli aktivované</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d nových čísel&lt;/b> je pripravených a môžete si ich pridať do telefónu. Ak si ich chcete zobraziť, musíte odstrániť jedno z aktuálnych čísel.</item>
+        <item quantity="one">&lt;b>%d nové číslo&lt;/b> je pripravené a môžete si ho pridať do telefónu. Ak si ho chcete zobraziť, musíte odstrániť jedno z aktuálnych čísel.</item>
+        <item quantity="few">&lt;b>%d nové čísla&lt;/b> sú pripravené a môžete si ich pridať do telefónu. Ak si ich chcete zobraziť, musíte odstrániť jedno z aktuálnych čísel.</item>
+        <item quantity="many">"&lt;b>%d new numbers&lt;/b> are ready to add to your phone. In order to see them, you'll need to delete one of your current numbers."</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Ak chcete používať svoje čísla, najprv musíte uvoľniť miesto odstránením existujúcich čísel z tohto zariadenia. Môžete to urobiť neskôr v Nastaveniach.</item>
+        <item quantity="one">Ak chcete používať svoje číslo, najprv musíte uvoľniť miesto odstránením existujúcich čísel z tohto zariadenia. Môžete to urobiť neskôr v Nastaveniach.</item>
+        <item quantity="few">Ak chcete používať svoje čísla, najprv musíte uvoľniť miesto odstránením existujúcich čísel z tohto zariadenia. Môžete to urobiť neskôr v Nastaveniach.</item>
+        <item quantity="many">Ak chcete používať svoje čísla, najprv musíte uvoľniť miesto odstránením existujúcich čísel z tohto zariadenia. Môžete to urobiť neskôr v Nastaveniach.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d čísel</item>
+        <item quantity="one">%d číslo</item>
+        <item quantity="few">%d čísla</item>
+        <item quantity="many">%d numbers</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">Vašich &lt;b>%d telefónnych čísel&lt;/b> od týchto operátorov je pripravených a môžete si ich pridať</item>
+        <item quantity="one">Vaše &lt;b>%d telefónne číslo&lt;/b> od tohto operátora je pripravené a môžete si ho pridať</item>
+        <item quantity="few">Vaše &lt;b>%d telefónne čísla&lt;/b> od týchto operátorov sú pripravené a môžete si ich pridať</item>
+        <item quantity="many">Your &lt;b>%d phone numbers&lt;/b> from these carriers are ready to add</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d ďalších čísel je pripravených a môžete si ich pridať</item>
+        <item quantity="one">%d ďalšie číslo je pripravené a môžete si ho pridať</item>
+        <item quantity="few">%d ďalšie čísla sú pripravené a môžete si ich pridať</item>
+        <item quantity="many">Your %d additional numbers are ready to add</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">Vaše čísla od operátora %1$s a %2$d ďalších je pripravených a môžete si ich pridať</item>
+        <item quantity="one">Vaše číslo od operátora %1$s a %2$d ďalšie sú pripravené a môžete si ich pridať</item>
+        <item quantity="few">Vaše čísla od operátora %1$s a %2$d ďalšie sú pripravené a môžete si ich pridať</item>
+        <item quantity="many">Your %1$s numbers and %2$d more are ready to add</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">Čísla od operátora %1$s sú pripravené a môžete si ich pridať</item>
+        <item quantity="one">Číslo od operátora %1$s je pripravené a môžete si ho pridať</item>
+        <item quantity="few">Čísla od operátora %1$s sú pripravené a môžete si ich pridať</item>
+        <item quantity="many">Čísla od operátora %1$s sú pripravené a môžete si ich pridať</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Počas pokusu o aktiváciu služby sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+        <item quantity="one">Počas pokusu o aktiváciu služby sa vyskytol problém. Požiadajte o pomoc operátora %1$s.</item>
+        <item quantity="few">Počas pokusu o aktiváciu služby sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+        <item quantity="many">Počas pokusu o aktiváciu služby sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s na čísle %2$s.</item>
+        <item quantity="one">Počas pokusu o aktiváciu vášho čísla sa vyskytol problém. Požiadajte o pomoc operátora %1$s na čísle %2$s.</item>
+        <item quantity="few">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s na čísle %2$s.</item>
+        <item quantity="many">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s na čísle %2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s.</item>
+        <item quantity="one">Počas pokusu o aktiváciu vášho čísla sa vyskytol problém. Požiadajte o pomoc operátora %1$s.</item>
+        <item quantity="few">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s.</item>
+        <item quantity="many">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc operátora %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+        <item quantity="one">Počas pokusu o aktiváciu vášho čísla sa vyskytol problém. Požiadajte o pomoc poskytovateľa siete.</item>
+        <item quantity="few">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+        <item quantity="many">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Požiadajte o pomoc poskytovateľov siete.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">Pre toto zariadenie je k dispozícii %d čísel</item>
+        <item quantity="one">Pre toto zariadenie je k dispozícii %d číslo</item>
+        <item quantity="few">Pre toto zariadenie sú k dispozícii %d čísla</item>
+        <item quantity="many">%d numbers are available for this device</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_metadata_confirm_subtitle">
+        <item quantity="other">Pre toto zariadenie je k dispozícii %d čísel. Keď si túto službu aktivujete, váš poskytovateľ siete vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="one">Pre toto zariadenie je k dispozícii %d číslo. Keď si túto službu aktivujete, váš poskytovateľ siete vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="few">Pre toto zariadenie sú k dispozícii %d čísla. Keď si túto službu aktivujete, váš poskytovateľ siete vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="many">%d numbers are available for this device. Your network provider may begin charging for the service when you activate.</item>
+    </plurals>
+    <plurals name="q_result_download_metadata_text">
+        <item quantity="other">Pre toto zariadenie je k dispozícii %2$d čísel od operátora %1$s. Keď si túto službu aktivujete, %1$s vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="one">Pre toto zariadenie je k dispozícii jedno číslo od operátora %1$s. Keď si túto službu aktivujete, operátor %1$s vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="few">Pre toto zariadenie sú k dispozícii %2$d čísla od operátora %1$s. Keď si túto službu aktivujete, %1$s vám môže za ňu začať účtovať poplatky.</item>
+        <item quantity="many">%2$d %1$s numbers are available for this device. %1$s may begin charging for the service when you activate.</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">Pre toto zariadenie je k dispozícii %2$d čísel od operátora %1$s</item>
+        <item quantity="one">Pre toto zariadenie je k dispozícii jedno číslo od operátora %1$s</item>
+        <item quantity="few">Pre toto zariadenie sú k dispozícii %2$d čísla od operátora %1$s</item>
+        <item quantity="many">%2$d %1$s numbers are available for this device</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Ľutujeme, ale nepodarilo sa pridať vaše čísla od operátora %1$s a %2$d ďalších operátorov.</item>
+        <item quantity="one">Ľutujeme, ale nepodarilo sa pridať vaše čísla od operátora %1$s a %2$d ďalšieho operátora.</item>
+        <item quantity="few">Ľutujeme, ale nepodarilo sa pridať vaše čísla od operátora %1$s a %2$d ďalších operátorov.</item>
+        <item quantity="many">"Unfortunately, we couldn't add your numbers from %1$s and %2$d other carriers."</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Nepodarilo sa pridať čísla od žiadneho vášho operátora.</item>
+        <item quantity="one">Nepodarilo sa pridať &lt;b>1 číslo&lt;/b> od vášho operátora.</item>
+        <item quantity="few">Nepodarilo sa pridať čísla od žiadneho vášho operátora.</item>
+        <item quantity="many">Nepodarilo sa pridať čísla od žiadneho vášho operátora.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Nepodarilo sa pridať &lt;b>%2$d čísel&lt;/b> od operátora %1$s.</item>
+        <item quantity="one">Nepodarilo sa pridať &lt;b>%2$d číslo&lt;/b> od operátora %1$s.</item>
+        <item quantity="few">Nepodarilo sa pridať &lt;b>%2$d čísla&lt;/b> od operátora %1$s.</item>
+        <item quantity="many">"Unfortunately, we couldn't add &lt;b>%2$d numbers&lt;/b> from %1$s."</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Nebol dostatok voľného priestoru na pridanie vašich čísel od operátora %1$s a %2$d ďalších operátorov.</item>
+        <item quantity="one">Nebol dostatok voľného priestoru na pridanie vašich čísel od operátora %1$s a %2$d ďalšieho operátora.</item>
+        <item quantity="few">Nebol dostatok voľného priestoru na pridanie vašich čísel od operátora %1$s a %2$d ďalších operátorov.</item>
+        <item quantity="many">"There wasn't enough space to add your numbers from %1$s and %2$d other carriers."</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Nebol dostatok voľného priestoru na pridanie čísel od žiadneho vášho operátora.</item>
+        <item quantity="one">Nebol dostatok voľného priestoru na pridanie &lt;b>1 čísla&lt;/b>.</item>
+        <item quantity="few">Nebol dostatok voľného priestoru na pridanie čísel od žiadneho vášho operátora.</item>
+        <item quantity="many">Nebol dostatok voľného priestoru na pridanie čísel od žiadneho vášho operátora.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Nebol dostatok voľného priestoru na pridanie &lt;b>%2$d čísel&lt;/b> od operátora %1$s.</item>
+        <item quantity="one">Nebol dostatok voľného priestoru na pridanie &lt;b>%2$d čísla&lt;/b> od operátora %1$s.</item>
+        <item quantity="few">Nebol dostatok voľného priestoru na pridanie &lt;b>%2$d čísel&lt;/b> od operátora %1$s.</item>
+        <item quantity="many">"There wasn't enough space to add &lt;b>%2$d numbers&lt;/b> from %1$s."</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Pridali ste &lt;b>čísla (%1$d)&lt;/b> od operátorov %2$s, %3$s a %4$d ďalších</item>
+        <item quantity="one">Pridali ste &lt;b>%1$d číslo&lt;/b> od operátorov %2$s a %3$s</item>
+        <item quantity="few">Pridali ste &lt;b>čísla (%1$d)&lt;/b> od operátorov %2$s, %3$s a %4$d ďalších</item>
+        <item quantity="many">"You've added &lt;b>%1$d numbers&lt;/b> from %2$s, %3$s and %4$d other carriers"</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Pridali ste &lt;b>%1$d čísel&lt;/b> od operátora %2$s</item>
+        <item quantity="one">Pridali ste &lt;b>%1$d číslo&lt;/b> od operátora %2$s</item>
+        <item quantity="few">Pridali ste &lt;b>%1$d čísla&lt;/b> od operátora %2$s</item>
+        <item quantity="many">"You've added &lt;b>%1$d numbers&lt;/b> from %2$s"</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">Bolo pridaných %1$d čísel</item>
+        <item quantity="one">Bolo pridané telefónne číslo</item>
+        <item quantity="few">Boli pridané %1$d čísla</item>
+        <item quantity="many">%1$d numbers added</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d čísel&lt;/b> od operátora %1$s je pripravených a môžete si ich pridať do telefónu</item>
+        <item quantity="one">Číslo od operátora %1$s je pripravené a môžete si ho pridať do telefónu</item>
+        <item quantity="few">&lt;b>%2$d čísla&lt;/b> od operátora %1$s sú pripravené a môžete si ich pridať do telefónu</item>
+        <item quantity="many">&lt;b>%2$d numbers&lt;/b> from %1$s are ready to add to this phone</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Môžete to skúsiť neskôr v Nastaveniach.</item>
+        <item quantity="one">Počas pokusu o aktiváciu vášho čísla sa vyskytol problém. Môžete to skúsiť neskôr v Nastaveniach.</item>
+        <item quantity="few">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Môžete to skúsiť neskôr v Nastaveniach.</item>
+        <item quantity="many">Počas pokusu o aktiváciu vašich čísel sa vyskytol problém. Môžete to skúsiť neskôr v Nastaveniach.</item>
+    </plurals>
+</resources>

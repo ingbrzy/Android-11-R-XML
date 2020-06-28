@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Preklicano) %1$d aplikacij odstranjenih</item>
+        <item quantity="one">(Preklicano) %1$d aplikacija odstranjena</item>
+        <item quantity="two">(Preklicano) %1$d aplikaciji odstranjeni</item>
+        <item quantity="few">(Preklicano) %1$d aplikacije odstranjene</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d aplikacij odstranjenih</item>
+        <item quantity="one">%1$d aplikacija odstranjena</item>
+        <item quantity="two">%1$d aplikaciji odstranjeni</item>
+        <item quantity="few">%1$d aplikacije odstranjene</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">Kopiranih je bilo %1$d datotek</item>
+        <item quantity="one">Kopirana je bila %1$d datoteka</item>
+        <item quantity="two">Kopirani sta bili %1$d datoteki</item>
+        <item quantity="few">Kopirane so bile %1$d datoteke</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Kopiranih je %1$d map</item>
+        <item quantity="one">Kopirana je %1$d mapa</item>
+        <item quantity="two">Kopirani sta %1$d mapi</item>
+        <item quantity="few">Kopirane so %1$d mape</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Kopirane so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d datotek je izbrisanih</item>
+        <item quantity="one">%1$d datoteka je izbrisana</item>
+        <item quantity="two">%1$d datoteki sta izbrisani</item>
+        <item quantity="few">%1$d datoteke so izbrisane</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Izbrisanih je %1$d map</item>
+        <item quantity="one">Izbrisana je %1$d mapa</item>
+        <item quantity="two">Izbrisani sta %1$d mapi</item>
+        <item quantity="few">Izbrisane so %1$d mape</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Izbrisane so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">Premaknjenih je bilo %1$d datotek</item>
+        <item quantity="one">Premaknjena je bila %1$d datoteka</item>
+        <item quantity="two">Premaknjeni sta bili %1$d datoteki</item>
+        <item quantity="few">Premaknjene so bile %1$d datoteke</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Premaknjenih je %1$d map</item>
+        <item quantity="one">Premaknjena je %1$d mapa</item>
+        <item quantity="two">Premaknjeni sta %1$d mapi</item>
+        <item quantity="few">Premaknjene so %1$d mape</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="one">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="two">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+        <item quantity="few">Premaknjene so mape (%1$d) in datoteke (%2$d)</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">S tem boste trajno izbrisali tudi %1$d datotek v mapi</item>
+        <item quantity="one">S tem boste trajno izbrisali tudi %1$d datoteko v mapi</item>
+        <item quantity="two">S tem boste trajno izbrisali tudi %1$d datoteki v mapi</item>
+        <item quantity="few">S tem boste trajno izbrisali tudi %1$d datoteke v mapi</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Želite izbrisati %1$d datotek?</item>
+        <item quantity="one">Želite izbrisati %1$d datoteko?</item>
+        <item quantity="two">Želite izbrisati %1$d datoteki?</item>
+        <item quantity="few">Želite izbrisati %1$d datoteke?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Želite izbrisati %1$d map in %2$d datotek?</item>
+        <item quantity="one">Želite izbrisati %1$d mapo in %2$d datoteko?</item>
+        <item quantity="two">Želite izbrisati %1$d mapi in %2$d datoteki?</item>
+        <item quantity="few">Želite izbrisati %1$d mape in %2$d datoteke?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Želite izbrisati %1$d map in 1 datoteko?</item>
+        <item quantity="one">Želite izbrisati %1$d mapo in 1 datoteko?</item>
+        <item quantity="two">Želite izbrisati %1$d mapi in 1 datoteko?</item>
+        <item quantity="few">Želite izbrisati %1$d mape in 1 datoteko?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Želite izbrisati %1$d map?</item>
+        <item quantity="one">Želite izbrisati %1$d mapo?</item>
+        <item quantity="two">Želite izbrisati %1$d mapi?</item>
+        <item quantity="few">Želite izbrisati %1$d mape?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Izbrisali boste %1$d elementov</item>
+        <item quantity="one">Izbrisali boste %1$d element</item>
+        <item quantity="two">Izbrisali boste %1$d elementa</item>
+        <item quantity="few">Izbrisali boste %1$d elemente</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Želite premakniti %1$d datotek?</item>
+        <item quantity="one">Želite premakniti %1$d datoteko?</item>
+        <item quantity="two">Želite premakniti %1$d datoteki?</item>
+        <item quantity="few">Želite premakniti %1$d datoteke?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Datotek ni bilo mogoče kopirati. %1$s</item>
+        <item quantity="one">Datotek ni bilo mogoče kopirati. %1$s</item>
+        <item quantity="two">Datotek ni bilo mogoče kopirati. %1$s</item>
+        <item quantity="few">Datotek ni bilo mogoče kopirati. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Kopiranje %1$d datotek</item>
+        <item quantity="one">Kopiranje %1$d datoteke</item>
+        <item quantity="two">Kopiranje %1$d datotek</item>
+        <item quantity="few">Kopiranje %1$d datotek</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Kopiranje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Kopiranje %1$d map</item>
+        <item quantity="one">Kopiranje %1$d mape</item>
+        <item quantity="two">Kopiranje %1$d map</item>
+        <item quantity="few">Kopiranje %1$d map</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Kopiranje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Kopiranje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Izbrišite %1$d podvojenih datotek</item>
+        <item quantity="one">Izbrišite %1$d podvojeno datoteko</item>
+        <item quantity="two">Izbrišite %1$d podvojeni datoteki</item>
+        <item quantity="few">Izbrišite %1$d podvojene datoteke</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Datotek ni bilo mogoče izbrisati. %1$s</item>
+        <item quantity="one">Datotek ni bilo mogoče izbrisati. %1$s</item>
+        <item quantity="two">Datotek ni bilo mogoče izbrisati. %1$s</item>
+        <item quantity="few">Datotek ni bilo mogoče izbrisati. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Počistite %1$d memejev</item>
+        <item quantity="one">Počistite %1$d meme</item>
+        <item quantity="two">Počistite %1$d memeja</item>
+        <item quantity="few">Počistite %1$d memeje</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Brisanje %1$d datotek</item>
+        <item quantity="one">Brisanje %1$d datoteke</item>
+        <item quantity="two">Brisanje %1$d datotek</item>
+        <item quantity="few">Brisanje %1$d datotek</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Brisanje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Brisanje %1$d map</item>
+        <item quantity="one">Brisanje %1$d mape</item>
+        <item quantity="two">Brisanje %1$d map</item>
+        <item quantity="few">Brisanje %1$d map</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Brisanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Brisanje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Ti elementi so že tukaj: %s</item>
+        <item quantity="one">Ti elementi so že tukaj: %s</item>
+        <item quantity="two">Ti elementi so že tukaj: %s</item>
+        <item quantity="few">Ti elementi so že tukaj: %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Datotek ni bilo mogoče razširiti. %1$s</item>
+        <item quantity="one">Datotek ni bilo mogoče razširiti. %1$s</item>
+        <item quantity="two">Datotek ni bilo mogoče razširiti. %1$s</item>
+        <item quantity="few">Datotek ni bilo mogoče razširiti. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">%1$d datotek je bilo razširjenih</item>
+        <item quantity="one">%1$d datoteka je bila razširjena</item>
+        <item quantity="two">%1$d datoteki sta bili razširjeni</item>
+        <item quantity="few">%1$d datoteke so bile razširjene</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">Osebi %1$s ni uspelo poslati %2$d datotek osebi %3$s</item>
+        <item quantity="one">Osebi %1$s ni uspelo poslati %2$d datoteke osebi %3$s</item>
+        <item quantity="two">Osebi %1$s ni uspelo poslati %2$d datotek osebi %3$s</item>
+        <item quantity="few">Osebi %1$s ni uspelo poslati %2$d datotek osebi %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d datotek je že na lokaciji %2$s in ne bodo kopirane</item>
+        <item quantity="one">%1$d datoteka je že na lokaciji %2$s in ne bo kopirana</item>
+        <item quantity="two">%1$d datoteki sta že na lokaciji %2$s in ne bosta kopirani</item>
+        <item quantity="few">%1$d datoteke so že na lokaciji %2$s in ne bodo kopirane</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d datotek je že na lokaciji %2$s in ne bodo premaknjene</item>
+        <item quantity="one">%1$d datoteka je že na lokaciji %2$s in ne bo premaknjena</item>
+        <item quantity="two">%1$d datoteki sta že na lokaciji %2$s in ne bosta premaknjeni</item>
+        <item quantity="few">%1$d datoteke so že na lokaciji %2$s in ne bodo premaknjene</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">%1$d od %2$d datotek ni bilo mogoče izbrisati. Potrebujete dovoljenje za dostop do kartice SD.</item>
+        <item quantity="one">%1$d od %2$d datotek ni bilo mogoče izbrisati. Potrebujete dovoljenje za dostop do kartice SD.</item>
+        <item quantity="two">%1$d od %2$d datotek ni bilo mogoče izbrisati. Potrebujete dovoljenje za dostop do kartice SD.</item>
+        <item quantity="few">%1$d od %2$d datotek ni bilo mogoče izbrisati. Potrebujete dovoljenje za dostop do kartice SD.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">Št. izbranih: %1$d</item>
+        <item quantity="one">Št. izbranih: %1$d</item>
+        <item quantity="two">Št. izbranih: %1$d</item>
+        <item quantity="few">Št. izbranih: %1$d</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s datotek</item>
+        <item quantity="one">%1$s datoteka</item>
+        <item quantity="two">%1$s datoteki</item>
+        <item quantity="few">%1$s datoteke</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d datotek bo kopiranih</item>
+        <item quantity="one">%1$d datoteka bo kopirana</item>
+        <item quantity="two">%1$d datoteki bosta kopirani</item>
+        <item quantity="few">%1$d datoteke bodo kopirane</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d datotek bo premaknjenih</item>
+        <item quantity="one">%1$d datoteka bo premaknjena</item>
+        <item quantity="two">%1$d datoteki bosta premaknjeni</item>
+        <item quantity="few">%1$d datoteke bodo premaknjene</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d datotek</item>
+        <item quantity="one">%1$s, %2$d datoteka</item>
+        <item quantity="two">%1$s, %2$d datoteki</item>
+        <item quantity="few">%1$s, %2$d datoteke</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">Skupno %1$d datotek</item>
+        <item quantity="one">Skupno %1$d datoteka</item>
+        <item quantity="two">Skupno %1$d datoteki</item>
+        <item quantity="few">Skupno %1$d datoteke</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s map</item>
+        <item quantity="one">%1$s mapa</item>
+        <item quantity="two">%1$s mapi</item>
+        <item quantity="few">%1$s mape</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Google Play Protect je našel %1$s škodljivih aplikacij v napravi</item>
+        <item quantity="one">Google Play Protect je našel %1$s škodljivo aplikacijo v napravi</item>
+        <item quantity="two">Google Play Protect je našel %1$s škodljivi aplikaciji v napravi</item>
+        <item quantity="few">Google Play Protect je našel %1$s škodljive aplikacije v napravi</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+        <item quantity="two">%1$d uri</item>
+        <item quantity="few">%1$d ure</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Odstranite %1$d predstavnostnih datotek</item>
+        <item quantity="one">Odstranite %1$d predstavnostno datoteko</item>
+        <item quantity="two">Odstranite %1$d predstavnostni datoteki</item>
+        <item quantity="few">Odstranite %1$d predstavnostne datoteke</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="two">%1$d minuti</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Datotek ni bilo mogoče premakniti. %1$s</item>
+        <item quantity="one">Datotek ni bilo mogoče premakniti. %1$s</item>
+        <item quantity="two">Datotek ni bilo mogoče premakniti. %1$s</item>
+        <item quantity="few">Datotek ni bilo mogoče premakniti. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Premikanje %1$d datotek</item>
+        <item quantity="one">Premikanje %1$d datoteke</item>
+        <item quantity="two">Premikanje %1$d datotek</item>
+        <item quantity="few">Premikanje %1$d datotek</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Premikanje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Premikanje %1$d map</item>
+        <item quantity="one">Premikanje %1$d mape</item>
+        <item quantity="two">Premikanje %1$d map</item>
+        <item quantity="few">Premikanje %1$d map</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="one">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="two">Premikanje map (%1$d) in datotek (%2$d)</item>
+        <item quantity="few">Premikanje map (%1$d) in datotek (%2$d)</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="two">%1$d sekundi</item>
+        <item quantity="few">%1$d sekunde</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s pošilja %2$d datotek osebi %3$s</item>
+        <item quantity="one">%1$s pošilja %2$d datoteko osebi %3$s</item>
+        <item quantity="two">%1$s pošilja %2$d datoteki osebi %3$s</item>
+        <item quantity="few">%1$s pošilja %2$d datoteke osebi %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">Oseba %1$s je poslala %2$d datotek osebi %3$s</item>
+        <item quantity="one">Oseba %1$s je poslala %2$d datoteko osebi %3$s</item>
+        <item quantity="two">Oseba %1$s je poslala %2$d datoteki osebi %3$s</item>
+        <item quantity="few">Oseba %1$s je poslala %2$d datoteke osebi %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">prejemnikov deljenja z drugimi</item>
+        <item quantity="one">prejemnik deljenja z drugimi</item>
+        <item quantity="two">prejemnika deljenja z drugimi</item>
+        <item quantity="few">prejemniki deljenja z drugimi</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Želite ustaviti kopiranje %1$d datotek?</item>
+        <item quantity="one">Želite ustaviti kopiranje %1$d datoteke?</item>
+        <item quantity="two">Želite ustaviti kopiranje %1$d datotek?</item>
+        <item quantity="few">Želite ustaviti kopiranje %1$d datotek?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Želite ustaviti izbris %1$d datotek?</item>
+        <item quantity="one">Želite ustaviti izbris %1$d datoteke?</item>
+        <item quantity="two">Želite ustaviti izbris %1$d datotek?</item>
+        <item quantity="few">Želite ustaviti izbris %1$d datotek?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Želite ustaviti premikanje %1$d datotek?</item>
+        <item quantity="one">Želite ustaviti premikanje %1$d datoteke?</item>
+        <item quantity="two">Želite ustaviti premikanje %1$d datotek?</item>
+        <item quantity="few">Želite ustaviti premikanje %1$d datotek?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Odstranite %1$d starih aplikacij</item>
+        <item quantity="one">Odstranite %1$d staro aplikacijo</item>
+        <item quantity="two">Odstranite %1$d stari aplikaciji</item>
+        <item quantity="few">Odstranite %1$d stare aplikacije</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">in še %1$d datotek</item>
+        <item quantity="one">in še %1$d datoteka</item>
+        <item quantity="two">in še %1$d datoteki</item>
+        <item quantity="few">in še %1$d datoteke</item>
+    </plurals>
+</resources>

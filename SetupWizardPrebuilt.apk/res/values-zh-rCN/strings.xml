@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="accessibility_no_wifi">WLAN 连接已断开。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为一格。</string>
+    <string name="accessibility_wifi_security_type_none">开放网络</string>
+    <string name="accessibility_wifi_security_type_secured">安全网络</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为三格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为两格。</string>
+    <string name="account_exists_info">"您的电子邮件、联系人、日历活动等内容将同步到此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。您也可以开始从 Google Play 下载应用、音乐和游戏。
+
+日后，您可以依次转到“设置”>“帐号”来添加及移除帐号。"</string>
+    <string name="account_exists_text_single">已添加 <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation>。</string>
+    <string name="account_exists_text_unknown_name">已添加您的帐号。</string>
+    <string name="account_exists_title">{accounts,plural, =1{已添加帐号}other{已添加帐号}}</string>
+    <string name="activating_carrier_service_text">这可能需要几分钟的时间</string>
+    <string name="activating_unknown_carrier_service_title">正在激活…</string>
+    <string name="activation_failed_message">"您可以：
+"<ul><li>再次尝试连接移动数据网络</li>"
+"<li>使用其他网络进行设置</li></ul>"
+
+如果上述方法均不奏效，您也可以重启{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}，然后重试。"</string>
+    <string name="activation_failed_title">无法连接到移动数据网络</string>
+    <string name="activation_progress_flow">"连接耗时过长？
+
+连接到移动数据网络需要花费一些时间。您可以返回设置，然后尝试连接到其他网络。"</string>
+    <string name="activation_title">正在连接到移动服务…</string>
+    <string name="activation_unprovisioned_sim_message">请重启您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}并重试，或者连接到 WLAN 网络进行设置。如果您仍然无法激活移动数据服务，请与您的运营商联系。</string>
+    <string name="activation_unprovisioned_title">无法激活移动数据服务</string>
+    <string name="android_privacy_policy_title">其他隐私权政策</string>
+    <string name="available_via_carrier">可通过%1$s连接</string>
+    <string name="cancel_button_label">取消</string>
+    <string name="captive_portal_connection_unsuccessful">无法连接到互联网</string>
+    <string name="captive_portal_description_text">这可能需要几分钟的时间</string>
+    <string name="captive_portal_ssl_error_text">此连接使用的证书不安全或无效。请选择其他网络，然后重试。</string>
+    <string name="captive_portal_title">正在连接…</string>
+    <string name="chrome_privacy_title">Chrome 隐私权声明</string>
+    <string name="chrome_tos_title">Chrome 服务条款</string>
+    <string name="close_button_label">关闭</string>
+    <string name="common_google_play_services_enable_button">启用</string>
+    <string name="common_google_play_services_enable_text">您必须先启用 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_google_play_services_enable_title">启用 Google Play 服务</string>
+    <string name="common_google_play_services_install_button">安装</string>
+    <string name="common_google_play_services_install_text">您的设备没有安装 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_install_title">获取 Google Play 服务</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服务的适用范围</string>
+    <string name="common_google_play_services_notification_ticker">Google Play服务出错</string>
+    <string name="common_google_play_services_unknown_issue">%1$s无法访问 Google Play 服务，请重试。</string>
+    <string name="common_google_play_services_unsupported_text">您的设备不支持 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必须先更新 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服务</string>
+    <string name="common_google_play_services_updating_text">Google Play 服务当前正在更新，因此您无法运行%1$s。</string>
+    <string name="connect_to_wifi_btn_text">WLAN 设置</string>
+    <string name="connect_to_wifi_message">连接到 WLAN 网络即可继续</string>
+    <string name="connect_to_wifi_title">应用更新已准备就绪</string>
+    <string name="connected_via_app">已通过%1$s连接到网络</string>
+    <string name="connected_via_carrier">已通过%1$s连接</string>
+    <string name="connected_via_network_scorer_default">已自动连接（通过网络评分服务提供方）</string>
+    <string name="consolidate_captive_portal_description_text">这可能需要几分钟的时间</string>
+    <string name="consolidate_captive_portal_title">正在检查更新…</string>
+    <string name="continue_for_a11y">要启用无障碍模式，请按住屏幕直到听见提示音。</string>
+    <string name="date_time_current_date">日期</string>
+    <string name="date_time_current_time">时间</string>
+    <string name="date_time_message">可根据需要进行调整。</string>
+    <string name="date_time_setup_title">日期和时间</string>
+    <string name="date_time_time_zone_full">%1$s（%2$s）</string>
+    <string name="decision_point_continue_setup">继续</string>
+    <string name="decision_point_google_assistant">Google 助理</string>
+    <string name="decision_point_illustration_description">其他步骤包括 Google 助理、Google Pay、闻曲知音、字体大小、壁纸等</string>
+    <string name="decision_point_leave_setup">退出并接收提醒</string>
+    <string name="decision_point_now_playing">现正播放</string>
+    <string name="default_device_name_device">设备</string>
+    <string name="default_device_name_phone">手机</string>
+    <string name="default_device_name_tablet">平板电脑</string>
+    <string name="deferred_notification_prompt_title">完成 ^1 设置</string>
+    <string name="deferred_setup_button_label">完成设置</string>
+    <string name="deferred_setup_wizard_reason_assistant">与您的 Google 助理交谈</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">与您的 Google 助理交谈</string>
+    <string name="deferred_setup_wizard_reason_default">只需再执行几个步骤</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">复制您的数据</string>
+    <string name="deferred_setup_wizard_reason_google_pay">使用 Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">使用 Google Pay 支付更便捷</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1和其他原因</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1、^2等</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">只需完成几个简单的设置步骤，即可开始使用您的 ^1</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">设置壁纸</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">设置壁纸</string>
+    <string name="deferred_setup_wizard_title">完成设备设置</string>
+    <string name="deferred_snooze_dialog_option_never">永不</string>
+    <string name="deferred_snooze_dialog_option_today">今天晚些时候</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">明天</string>
+    <string name="deferred_snooze_dialog_title">提醒我</string>
+    <string name="deferred_welcome_airplane_mode_message">"您需要连接到网络才能完成最后几个设置步骤。
+
+开启飞行模式后，WLAN、移动网络和蓝牙都会断开连接。"</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">稍后设置</string>
+    <string name="deferred_welcome_airplane_mode_title">要关闭飞行模式吗？</string>
+    <string name="deferred_welcome_screen_cancel_button">以后再提醒我</string>
+    <string name="deferred_welcome_title">完成 ^1 设置</string>
+    <string name="deferred_welcome_turn_off_button_label">关闭</string>
+    <string name="device_owner_continue">继续设置</string>
+    <string name="device_owner_reset">重置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</string>
+    <string name="device_owner_warning">{0}正在管理您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}，并可以访问您的信息。如果您不想让{0}拥有访问权限，请重置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}可能会受到监控</string>
+    <string name="dialog_back_button_label">返回</string>
+    <string name="dialog_continue_button_label">继续</string>
+    <string name="early_update_installing_updates_text">正在安装更新</string>
+    <string name="early_update_text">这可能需要几分钟的时间</string>
+    <string name="early_update_timeout_text">用时太长？请尝试返回并连接到其他网络。</string>
+    <string name="early_update_title">正在检查更新…</string>
+    <string name="emergency_dial">紧急呼救</string>
+    <string name="enabled_a11y">已启用无障碍模式。</string>
+    <string name="esim_option_button_summary">添加使用 eSIM 卡的号码</string>
+    <string name="esim_option_button_title">要改为下载 SIM 卡吗？</string>
+    <string name="esim_warning_title">下载 SIM 卡</string>
+    <string name="esim_warning_txt">如果您是 %1$s 订阅者，那么只需下载 eSIM，即可接打电话、收发短信以及使用数据网络，而无需插入 SIM 卡。</string>
+    <string name="esim_warning_txt_default">只需下载通常存储在 SIM 卡上的信息，即可连接到移动网络。这可取代标准 SIM 卡，且一样安全。</string>
+    <string name="exit_loading_launcher">正在加载启动器…</string>
+    <string name="factory_reset_button">清空并重置</string>
+    <string name="factory_reset_confirmation">确定要清空此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}上的所有帐号和数据吗？您无法撤消此操作！</string>
+    <string name="factory_reset_confirmation_title">要重置吗？</string>
+    <string name="factory_reset_instructions">警告：执行重置操作将清空此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}内部存储设备中的所有帐号和数据。</string>
+    <string name="factory_reset_title">重置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</string>
+    <string name="final_hold_description_text">这可能需要几分钟的时间</string>
+    <string name="final_hold_title">正在进行最后几项设置…</string>
+    <string name="final_hold_title_setup_work_account">正在准备为手机设置工作资料…</string>
+    <string name="gms_account_checkin_title">正在获取帐号信息…</string>
+    <string name="gms_checkin_description_text">这可能需要几分钟的时间</string>
+    <string name="gms_checkin_description_text_timeout">用时太长？请尝试返回并连接到其他网络。</string>
+    <string name="gms_checkin_title">正在检查更新…</string>
+    <string name="go_back_button_label">返回</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play 服务条款</string>
+    <string name="google_plus_privacy_policy_title">Google+隐私权政策</string>
+    <string name="google_privacy_policy_title">Google隐私权政策</string>
+    <string name="google_provisioning_disclaimer_content">需遵守《Google 服务条款》和《隐私权政策》。更多详情，请访问 &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>。</string>
+    <string name="google_terms_of_service_title">Google服务条款</string>
+    <string name="invalid_phone_number">未知手机号码</string>
+    <string name="invalid_qr_code_content">请向您的 IT 管理员索要正确的 QR 码</string>
+    <string name="invalid_qr_code_retry">重试</string>
+    <string name="invalid_qr_code_title">QR 码有误</string>
+    <string name="ios_trademarks_disclaimer">iPhone、iPad、iOS、iMessage、iCloud、Safari 和 iTunes 是 Apple Inc. 在美国和其他国家/地区的注册商标。</string>
+    <string name="language_picker_section_all">所有语言</string>
+    <string name="language_picker_section_suggested">建议语言</string>
+    <string name="migrate_from_ios_description">请按以下步骤操作：</string>
+    <string name="migrate_from_ios_header">复制您的数据</string>
+    <string name="migrate_from_ios_instructions_1">1. 打开 Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. 转到 <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. 按照说明进行操作</string>
+    <string name="network_description_text">选择网络</string>
+    <string name="network_description_text_esim">要下载 SIM 卡，请连接到 WLAN</string>
+    <string name="network_see_all_wifi">查看所有 WLAN 网络</string>
+    <string name="network_timeout_description_text">请使用其他网络重试。如果不连接网络继续操作，一些设置步骤可以稍后完成。</string>
+    <string name="network_timeout_title">无法连接</string>
+    <string name="network_timeout_try_another_network_button">使用其他网络</string>
+    <string name="network_title">连接到 WLAN 网络</string>
+    <string name="network_use_cellular">使用移动网络进行设置</string>
+    <string name="network_use_cellular_carrier">稍后连接到 WLAN 网络</string>
+    <string name="network_wifi_continue_button">继续</string>
+    <string name="not_set">未设置</string>
+    <string name="notification_channel_name_deferred">其他设置</string>
+    <string name="notification_channel_name_initial">设置</string>
+    <string name="notification_channel_name_restore">恢复数据</string>
+    <string name="notification_channel_security_name_warnings">安全警告</string>
+    <string name="ok_button_label">确定</string>
+    <string name="ota_agreement_text">继续操作并接受此软件更新，即表示您同意接受<annotation link="tos">Google服务条款</annotation>和<annotation link="google_privacy">隐私权政策</annotation>。</string>
+    <string name="ota_info">您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}需要下载更新并重启。</string>
+    <string name="ota_size">大小：%s</string>
+    <string name="ota_update_title">更新{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</string>
+    <string name="predeferred_prepare_setup">正在准备设置…</string>
+    <string name="predeferred_prepare_setup_details">您很快就能完成 ^1 的设置</string>
+    <string name="predeferred_wifi_required_notification_connect_button">连接到 WLAN 网络</string>
+    <string name="predeferred_wifi_required_notification_content">连接到 WLAN 网络即可继续</string>
+    <string name="predeferred_wifi_required_notification_title">应用更新已准备就绪</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">正在扫描 QR 码</string>
+    <string name="region_picker_section_all">所有国家/地区</string>
+    <string name="restart_setup_wizard_button_label">设置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</string>
+    <string name="restart_setup_wizard_dialog_text">"要使用此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}，您必须先登录上次重置此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}时使用的所有者的 Google 帐号。
+
+由于您尚未执行此操作，因此必须重新设置此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。"</string>
+    <string name="restart_setup_wizard_dialog_title">未登录</string>
+    <string name="restore_failed_message">无法恢复备份数据</string>
+    <string name="restore_no_backup_message">您的其他设备上没有任何备份数据</string>
+    <string name="restore_no_backup_title">无法恢复</string>
+    <string name="restore_stopped_message">无法完成备份数据恢复操作</string>
+    <string name="restore_title">正在恢复…</string>
+    <string name="setup_ongoing_notification_text">点按即可完成 ^1 设置</string>
+    <string name="setup_ongoing_notification_title">^1 设置正在进行中</string>
+    <string name="setup_wizard_title">Android 设置向导</string>
+    <string name="sim_locked_text">"这部手机目前已与另外一家运营商绑定，请使用有效的 SIM 卡。
+
+插入 SIM 卡后，可能需要几秒钟的时间才能激活。"</string>
+    <string name="sim_locked_title">SIM 卡不受支持</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{如果您有 SIM 卡，请现在插入}other{如果您有 SIM 卡，请现在插入}}</string>
+    <string name="sim_missing_title">连接到移动网络</string>
+    <string name="sim_ready_message">%1$s 已可供使用</string>
+    <string name="sim_ready_message_carrier_app">要完成 %1$s 的激活程序，您需要下载%2$s应用。现在请完成手机的设置。</string>
+    <string name="sim_ready_message_invalid_phone_number">您的号码现可使用</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">要完成号码的激活程序，您需要下载%1$s应用。现在请完成手机的设置。</string>
+    <string name="sim_ready_title">%1$s已启用</string>
+    <string name="sim_ready_title_carrier_app">请稍后再连接到%1$s</string>
+    <string name="sim_setup_ask_every_time">每次都询问</string>
+    <string name="sim_setup_select_data">移动数据偏好设置</string>
+    <string name="sim_setup_select_data_description">请选择用于移动数据连接的号码</string>
+    <string name="sim_setup_select_text">短信偏好设置</string>
+    <string name="sim_setup_select_text_description">请选择要用于发送短信的号码（所有已激活的号码都可以接收短信）</string>
+    <string name="sim_setup_select_voice">通话偏好设置</string>
+    <string name="sim_setup_select_voice_description">请选择用于拨打电话的号码（所有已激活的号码都可以接听来电）</string>
+    <string name="sim_setup_title">设置 SIM 卡</string>
+    <string name="skip_anyway_button_label">仍然跳过</string>
+    <string name="skip_button_label">跳过</string>
+    <string name="skip_toast">已跳过设置向导</string>
+    <string name="slots_selection_item_summary_activating">正在启用…</string>
+    <string name="slots_selection_item_summary_error">目前无法启用</string>
+    <string name="slots_selection_title">选择要使用的数字</string>
+    <string name="speed_label_fast">快</string>
+    <string name="speed_label_okay">良好</string>
+    <string name="speed_label_slow">慢</string>
+    <string name="speed_label_very_fast">很快</string>
+    <string name="sud_back_button_label">上一步</string>
+    <string name="sud_more_button_label">更多</string>
+    <string name="sud_next_button_label">下一步</string>
+    <string name="suggested_actions_description">您可以现在进行另外几项设置，也可以日后再到“设置”下进行这些操作</string>
+    <string name="suggested_actions_description_single_item">您还需要在^1上进行一项设置。您也可以日后再转到“设置”进行这项设置。</string>
+    <string name="suggested_actions_done_label">已完成设置</string>
+    <string name="suggested_actions_no_thanks_label">不用了</string>
+    <string name="suggested_actions_title">想执行其他步骤吗？</string>
+    <string name="switch_camera">切换摄像头</string>
+    <string name="switch_to_back_camera_button_content_description">后置摄像头</string>
+    <string name="switch_to_front_camera_button_content_description">前置摄像头</string>
+    <string name="switched_to_back_camera_announcement">点按按钮可切换到前置摄像头</string>
+    <string name="switched_to_front_camera_announcement">点按按钮可切换到后置摄像头</string>
+    <string name="tap_to_sign_up">点按即可注册</string>
+    <string name="terminate_toast">"设置向导已终止
+设备尚未完成配置"</string>
+    <string name="try_again_button_label">重试</string>
+    <string name="url_load_unsuccessful_message">您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}未连接到移动数据服务。要立即查看此信息，请使用网络浏览器访问 {0}。</string>
+    <string name="url_load_unsuccessful_message_wifi_only">您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}未连接到 WLAN 网络。要立即查看此信息，请使用网络浏览器访问 {0}。</string>
+    <string name="user_warning_cannot_switch_message">无法切换回机主的用户帐号，请稍后重试。</string>
+    <string name="user_warning_label_continue">继续</string>
+    <string name="user_warning_label_quit">取消</string>
+    <string name="user_warning_quit_dialog_button_keep">保留用户</string>
+    <string name="user_warning_quit_dialog_button_remove">移除用户</string>
+    <string name="user_warning_quit_dialog_message">要移除用户吗？</string>
+    <string name="user_warning_title">设置新用户</string>
+    <string name="wait_msg">请稍候...</string>
+    <string name="web_dialog_unable_to_view">要立即查看此信息，请使用网络浏览器访问 ^1。</string>
+    <string name="welcome_accessibility_button">阅读辅助设置</string>
+    <string name="welcome_language_picker_content_description">语言：%s</string>
+    <string name="welcome_language_picker_dialog_title">选择您的语言</string>
+    <string name="welcome_message">您好！</string>
+    <string name="welcome_secondary_user_added_text">您的帐号已添加到此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</string>
+    <string name="welcome_secondary_user_info_text"><b>重要提示：</b>"
+
+"<ul><li>此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}的所有者可以卸载您的应用或完全移除您的用户个人资料</li>"
+
+"<li>其他任何用户均可接受更新后的应用权限</li>"
+
+"<li>请只与您信任的人共享此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}</li></ul></string>
+    <string name="welcome_start_button_label">开始</string>
+    <string name="wifi_add_new_network">添加新网络</string>
+    <string name="wifi_and_mobile_skipped_message">"连接到 WLAN 或移动网络有助于您快速设置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。
+
+如果没有连接到网络，您将无法：
+
+"<ul><li>登录 Google 帐号</li>"
+
+"<li>恢复应用和数据</li>"
+
+"<li>获取软件更新</li>"
+
+"<li>让系统自动设置时间和日期</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"连接到 WLAN 或移动网络有助于您快速设置{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。
+
+如果没有连接到网络，您将无法：
+
+"<ul><li>登录 Google 帐号</li>"
+
+"<li>恢复应用和数据</li>"
+
+"<li>下载 SIM 卡</li>"
+
+"<li>获取软件更新</li>"
+
+"<li>让系统自动设置时间和日期</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">接入点暂时满载</string>
+    <string name="wifi_check_password_try_again">请检查密码，然后重试</string>
+    <string name="wifi_connected_no_internet">已连接，但无法访问互联网</string>
+    <string name="wifi_disabled_by_recommendation_provider">网络质量较差，因此未连接</string>
+    <string name="wifi_disabled_generic">已停用</string>
+    <string name="wifi_disabled_network_failure">IP 配置失败</string>
+    <string name="wifi_disabled_password_failure">身份验证出现问题</string>
+    <string name="wifi_fail_to_scan">无法扫描网络</string>
+    <string name="wifi_ip_address_not_available">不可用</string>
+    <string name="wifi_ip_address_title">IP 地址</string>
+    <string name="wifi_limited_connection">网络连接受限</string>
+    <string name="wifi_mac_address_not_available">不可用</string>
+    <string name="wifi_mac_address_title">MAC 地址</string>
+    <string name="wifi_metered_label">按流量计费</string>
+    <string name="wifi_no_internet">无法访问互联网</string>
+    <string name="wifi_no_internet_no_reconnect">无法自动连接</string>
+    <string name="wifi_not_in_range">不在范围内</string>
+    <string name="wifi_remembered">已保存</string>
+    <string name="wifi_scanning">正在搜索 WLAN 网络…</string>
+    <string name="wifi_set_up_offline_title">要在离线状态下设置吗？</string>
+    <string name="wifi_skip_button_label">在离线状态下设置</string>
+    <string name="wifi_skipped_message">您的{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}在设置过程中将用到移动网络，而您可能需要支付相应的数据流量费用。要避免可能产生的数据流量费用，请连接到 WLAN 网络。</string>
+    <string name="wifi_skipped_title">可能会产生数据流量费用</string>
+    <string name="wifi_title">连接到 WLAN 网络</string>
+    <string name="wifi_unmetered_label">不按流量计费</string>
+    <string name="work_profile_setup_description">将此设备设置为用于工作，并将工作数据和个人数据分隔开来</string>
+    <string name="work_profile_setup_next">继续</string>
+    <string name="work_profile_setup_skip">跳过工作设置</string>
+    <string name="work_profile_setup_title">添加您的工作帐号</string>
+    <string name="work_setup_interrupted">"我们注意到，这台{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}上出现了一些异常活动。如果您继续设置，可能会使您的数据面临风险。
+
+要重新开始，请重置此{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}。"</string>
+    <string name="work_setup_interrupted_title">这台{DEVICE_TYPE,select, PHONE{手机}TABLET{平板电脑}other{设备}}可能不安全</string>
+</resources>

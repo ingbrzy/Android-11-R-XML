@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Wys tans %1$d items.</item>
+        <item quantity="one">Wys tans %1$d item.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d opmerkings</item>
+        <item quantity="one">%1$d opmerking</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Optree-items: %1$d opvolgitems</item>
+        <item quantity="one">Optree-items: %1$d opvolgitem</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Items is permanent uitgevee</item>
+        <item quantity="one">Item is permanent uitgevee</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s is nie geldige e-posadresse nie.</item>
+        <item quantity="one">"%s is nie 'n geldige e-posadres nie."</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Byvoeging van hierdie lêers sal dit met almal deel wat toegang het tot die gedeelde vouer %1$s</item>
+        <item quantity="one">Byvoeging van hierdie lêer sal dit met almal deel wat toegang het tot die gedeelde vouer %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Byvoeging van hierdie vouers sal dit met almal deel wat toegang het tot die gedeelde vouer %1$s</item>
+        <item quantity="one">Byvoeging van hierdie vouer sal dit met almal deel wat toegang het tot die gedeelde vouer %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Wil jy hierdie lêers deel?</item>
+        <item quantity="one">Wil jy hierdie lêer deel?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Wil jy hierdie vouers deel?</item>
+        <item quantity="one">Wil jy hierdie vouer deel?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d vouers is opgedateer. Kleur is gestel na %2$s.</item>
+        <item quantity="one">%1$d vouer is opgedateer. Kleur is gestel na %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Pas filters toe:</item>
+        <item quantity="one">Pas filter toe:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Verval oor %1$d dae</item>
+        <item quantity="one">Verval oor %1$d dag</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Hierdie rugsteun sal oor %1$d dae verval as die toestel onaktief bly.</item>
+        <item quantity="one">Hierdie rugsteun sal oor %1$d dag verval as die toestel onaktief bly.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Rugsteune is uitgevee.</item>
+        <item quantity="one">Rugsteun is uitgevee.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d kolomme.</item>
+        <item quantity="one">%1$d kolom.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d gevriesde kolomme.</item>
+        <item quantity="one">%1$d gevriesde kolom.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d gevriesde rye.</item>
+        <item quantity="one">%1$d gevriesde ry.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d rye.</item>
+        <item quantity="one">%1$d ry.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s vir %2$d items</item>
+        <item quantity="one">%1$s vir %2$d item</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s antwoorde</item>
+        <item quantity="one">%1$s antwoord</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Items kon nie afgelaai word nie</item>
+        <item quantity="one">Item kon nie afgelaai word nie</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d items sal afgelaai word. Sien kennisgewing vir besonderhede</item>
+        <item quantity="one">%1$d item sal afgelaai word. Sien kennisgewing vir besonderhede</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d items sal afgelaai word.</item>
+        <item quantity="one">%1$d item sal afgelaai word.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s en nog %2$d items</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s items kon nie afgelaai word nie</item>
+        <item quantity="one">%1$s item kon nie afgelaai word nie</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">nog %1$d items</item>
+        <item quantity="one">nog %1$d item</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d van %2$d aflaaie het misluk</item>
+        <item quantity="one">%1$d van %2$d aflaai het misluk</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Kon nie lêers skuif nie.</item>
+        <item quantity="one">Kon nie lêer skuif nie.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gaste</item>
+        <item quantity="one">%d gas</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d kortpaaie by \"%1$s\" gevoeg</item>
+        <item quantity="one">Kortpad by \"%1$s\" gevoeg</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Kan nie kortpaaie byvoeg nie. Probeer weer</item>
+        <item quantity="one">Kan nie kortpad byvoeg nie. Probeer weer</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Lede van \"%1$s\" sal toegang verloor tensy hierdie items met hulle gedeel word. Lede van \"%2$s\" sal toegang tot hierdie items kry.</item>
+        <item quantity="one">Lede van \"%1$s\" sal toegang verloor tensy hierdie item met hulle gedeel word. Lede van \"%2$s\" sal toegang tot hierdie item kry.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Lede van \"%1$s\" sal toegang verloor tensy hierdie items met hulle gedeel word. Lede van \"%2$s\" sal toegang tot hierdie items kry. Jy het slegs toestemming om items in \"%3$s\" by te voeg en te wysig, dus sal jy nie hierdie handeling kan ontdoen nie.</item>
+        <item quantity="one">Lede van \"%1$s\" sal toegang verloor tensy hierdie item met hulle gedeel word. Lede van \"%2$s\" sal toegang tot hierdie item kry. Jy het slegs toestemming om items in \"%3$s\" by te voeg en te wysig, dus sal jy nie hierdie handeling kan ontdoen nie.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Sommige van die lêers wat tans na \"%1$s\" geskuif word, het DLP-bespeurings veroorsaak. Daar kan dalk sensitiewe inligting in hierdie lêers wees.</item>
+        <item quantity="one">Die lêer wat tans na \"%1$s\" geskuif word, het DLP-bespeurings veroorsaak. Daar kan dalk sensitiewe inligting in hierdie lêer wees.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Lede van \"%1$s\" sal toegang verloor tensy hierdie items met hulle gedeel word.</item>
+        <item quantity="one">Lede van \"%1$s\" sal toegang verloor tensy hierdie item met hulle gedeel word.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">As jy hierdie items skuif, sal jy hulle met almal deel wat die gedeelde vouer \"%1$s\" kan sien. Lede van \"%2$s\" sal toegang verloor tensy hierdie items met hulle gedeel word.</item>
+        <item quantity="one">As jy hierdie item skuif, sal jy dit met almal deel wat die gedeelde vouer \"%1$s\" kan sien. Lede van \"%2$s\" sal toegang verloor tensy hierdie item met hulle gedeel word.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">"Jy skuif tans 'n paar items uit gedeelde vouers uit, dus sal mense toegang tot hierdie items verloor."</item>
+        <item quantity="one">"Jy skuif tans 'n item uit 'n gedeelde vouer uit, dus sal mense toegang tot hierdie item verloor."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Bykomende beperkings sal van hierdie items verwyder word.</item>
+        <item quantity="one">Bykomende beperkings sal van hierdie item verwyder word.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Die skuif van hierdie lêers sal hulle met almal deel wat toegang tot die gedeelde vouer %1$s het</item>
+        <item quantity="one">Die skuif van hierdie lêer sal dit met almal deel wat toegang tot die gedeelde vouer %1$s het</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Die skuif van hierdie vouers sal hulle met almal deel wat toegang tot die gedeelde vouer %1$s het</item>
+        <item quantity="one">Die skuif van hierdie vouer sal dit met almal deel wat toegang tot die gedeelde vouer %1$s het</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Wil jy hierdie lêers deel?</item>
+        <item quantity="one">Wil jy hierdie lêer deel?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Wil jy hierdie vouers deel?</item>
+        <item quantity="one">Wil jy hierdie vouer deel?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Jy het nie toestemming om sommige items uit hul gedeelde Drive te skuif nie.</item>
+        <item quantity="one">Jy het nie toestemming om hierdie item uit sy gedeelde Drive te skuif nie.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Jy het nie toestemming om sommige items uit hul vouer te skuif nie.</item>
+        <item quantity="one">Jy het nie toestemming om hierdie item uit sy vouer te skuif nie.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Jy kan nie hierdie lêers skuif nie want die lêereienaar is buite %1$s.</item>
+        <item quantity="one">Jy kan nie hierdie lêer skuif nie want die lêereienaar is buite %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" het nou toegang tot die items.</item>
+        <item quantity="one">%1$s \"%2$s\" het nou toegang tot die item.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d items is na gedeelde Drive geskuif. Lede kan nou by hulle ingaan.</item>
+        <item quantity="one">1 item is na gedeelde Drive geskuif. Lede kan nou daarby ingaan.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d items is uit gedeelde Drive geskuif. Lede het toegang verloor.</item>
+        <item quantity="one">%1$d item is uit gedeelde Drive geskuif. Lede het toegang verloor.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d goedkeurders</item>
+        <item quantity="one">1 goedkeurder</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s optree-items</item>
+        <item quantity="one">%1$s optree-item</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s onbeantwoorde meldings</item>
+        <item quantity="one">%1$s onbeantwoorde melding</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s voorstelle</item>
+        <item quantity="one">%1$s voorstel</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s moetdoene</item>
+        <item quantity="one">%1$s moetdoen</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Items is permanent uitgevee</item>
+        <item quantity="one">Item is permanent uitgevee</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d uit %2$s is nou vanlyn beskikbaar.</item>
+        <item quantity="one">%1$d uit %2$s is nou vanlyn beskikbaar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Al %1$d lêers is nou vanlyn beskikbaar.</item>
+        <item quantity="one">%1$d lêer is nou vanlyn beskikbaar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Kan nie lêers vanlyn beskikbaar maak nie</item>
+        <item quantity="one">Kan nie lêer vanlyn beskikbaar maak nie</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Maak tans %1$d lêers vanlyn beskikbaar.</item>
+        <item quantity="one">Maak tans %1$d lêer vanlyn beskikbaar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d lêers</item>
+        <item quantity="one">%1$d lêer</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Aflaaie is onderbreek, wag tans vir netwerk …</item>
+        <item quantity="one">Aflaai is onderbreek, wag tans vir netwerk …</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d aflaaie is onderbreek.</item>
+        <item quantity="one">%1$d aflaai is onderbreek.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Aflaaie is onderbreek, wag tans vir Wi-Fi …</item>
+        <item quantity="one">Aflaai is onderbreek, wag tans vir Wi-Fi …</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">"%1$d items sal na asblik geskuif word. Dit sal hulle ook uit Google Foto's verwyder."</item>
+        <item quantity="one">"Een item sal na asblik geskuif word. Dit sal dit ook uit Google Foto's verwyder."</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d items sal na Asblik geskuif word.</item>
+        <item quantity="one">Een item sal na Asblik geskuif word.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s opvolgitems</item>
+        <item quantity="one">%1$s opvolgitem</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s opvolgitems</item>
+        <item quantity="one">%1$s opvolgitem</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Volg op</item>
+        <item quantity="one">Volg op</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Het opmerkings op %1$d lêers gemaak</item>
+        <item quantity="one">"Het opmerkings op 'n lêer gemaak"</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Het opmerkings op %1$d lêers gemaak</item>
+        <item quantity="one">"Het opmerkings op 'n lêer gemaak"</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">het opmerkings op hierdie lêer gemaak</item>
+        <item quantity="one">het opmerkings op hierdie lêer gemaak</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Het %1$d items geskep</item>
+        <item quantity="one">"Het 'n item geskep"</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Het %1$d items geskep</item>
+        <item quantity="one">"Het 'n item geskep"</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">het hierdie lêer geskep</item>
+        <item quantity="one">het hierdie lêer geskep</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">het hierdie vouer geskep</item>
+        <item quantity="one">het hierdie vouer geskep</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Het %1$d items gewysig</item>
+        <item quantity="one">"Het 'n item gewysig"</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Het %1$d items gewysig</item>
+        <item quantity="one">"Het 'n item gewysig"</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">het hierdie lêer gewysig</item>
+        <item quantity="one">het hierdie lêer gewysig</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Het %1$d items permanent uitgevee</item>
+        <item quantity="one">"Het 'n item permanent uitgevee"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Het %1$d items geskuif na:</item>
+        <item quantity="one">"Het 'n item geskuif na:"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Het %1$d items geskuif na:</item>
+        <item quantity="one">"Het 'n item geskuif na:"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Het %1$d items geskuif</item>
+        <item quantity="one">"Het 'n item geskuif"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Het %1$d items geskuif</item>
+        <item quantity="one">"Het 'n item geskuif"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">het hierdie lêer geskuif</item>
+        <item quantity="one">het hierdie lêer geskuif</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">het hierdie lêer geskuif na:</item>
+        <item quantity="one">het hierdie lêer geskuif na:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">het hierdie vouer geskuif</item>
+        <item quantity="one">het hierdie vouer geskuif</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">het hierdie vouer geskuif na:</item>
+        <item quantity="one">het hierdie vouer geskuif na:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Het %1$d items hernoem</item>
+        <item quantity="one">"Het 'n item hernoem"</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Het %1$d items hernoem</item>
+        <item quantity="one">"Het 'n item hernoem"</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">het hierdie lêer hernoem</item>
+        <item quantity="one">het hierdie lêer hernoem</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">het hierdie vouer hernoem</item>
+        <item quantity="one">het hierdie vouer hernoem</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Het %1$d items gedeel</item>
+        <item quantity="one">"Het 'n item gedeel"</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Het %1$d items gedeel</item>
+        <item quantity="one">"Het 'n item gedeel"</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">het hierdie lêer gedeel</item>
+        <item quantity="one">het hierdie lêer gedeel</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">het hierdie vouer gedeel</item>
+        <item quantity="one">het hierdie vouer gedeel</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Het %1$d items na die asblik geskuif</item>
+        <item quantity="one">"Het 'n item na die asblik geskuif"</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Het %1$d items na die asblik geskuif</item>
+        <item quantity="one">"Het 'n item na die asblik geskuif"</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">het hierdie lêer verwyder</item>
+        <item quantity="one">het hierdie lêer verwyder</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">het hierdie vouer verwyder</item>
+        <item quantity="one">het hierdie vouer verwyder</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Het %1$d items opgelaai</item>
+        <item quantity="one">"Het 'n item opgelaai"</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Het %1$d items opgelaai</item>
+        <item quantity="one">"Het 'n item opgelaai"</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">het hierdie lêer opgelaai</item>
+        <item quantity="one">het hierdie lêer opgelaai</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">het hierdie vouer opgelaai</item>
+        <item quantity="one">het hierdie vouer opgelaai</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d lêers sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word.</item>
+        <item quantity="one">Hierdie lêer sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d vouers sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word.</item>
+        <item quantity="one">Vouer sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d items sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word.</item>
+        <item quantity="one">Item sal na die %2$s-asblik geskuif word en na 30 dae permanent uitgevee word.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Hierdie %1$d lêers sal &lt;b>permanent vir almal uitgevee word.&lt;/b> Jy kan nie hierdie handeling ontdoen nie.</item>
+        <item quantity="one">Hierdie lêer sal &lt;b>permanent vir almal uitgevee word.&lt;/b> Jy kan nie hierdie handeling ontdoen nie.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Hierdie %1$d lêers sal permanent uitgevee word. Jy kan nie hierdie handeling ontdoen nie.</item>
+        <item quantity="one">Hierdie lêer sal permanent uitgevee word. Jy kan nie hierdie handeling ontdoen nie.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d Items</item>
+        <item quantity="one">%1$d Item</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d items is gekies</item>
+        <item quantity="one">%1$d item is gekies</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d items is nie gekies nie</item>
+        <item quantity="one">%1$d item is nie gekies nie</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Lêers sal vanlyn beskikbaar gestel word</item>
+        <item quantity="one">Lêer sal vanlyn beskikbaar gestel word</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d items is gester</item>
+        <item quantity="one">Item is gester</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Lêers sal nie meer vanlyn beskikbaar wees nie</item>
+        <item quantity="one">Lêer sal nie meer vanlyn beskikbaar wees nie</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d items is ontster</item>
+        <item quantity="one">1 item is ontster</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d items is teruggelaai</item>
+        <item quantity="one">1 item is teruggelaai</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d items is teruggelaai</item>
+        <item quantity="one">1 item is teruggelaai</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d items is uit \"%2$s\" verwyder</item>
+        <item quantity="one">1 item is uit \"%2$s\" verwyder</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d items is uit vouer verwyder</item>
+        <item quantity="one">1 item is uit vouer verwyder</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d items is verwyder</item>
+        <item quantity="one">1 item is verwyder</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d items is teruggeskuif</item>
+        <item quantity="one">1 item is teruggeskuif</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d items is teruggeskuif na die asblik</item>
+        <item quantity="one">1 item is teruggeskuif na die asblik</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d items is verwyder</item>
+        <item quantity="one">1 item is verwyder</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d items is by \"%2$s\" gevoeg</item>
+        <item quantity="one">1 item is by \"%2$s\" gevoeg</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d items is bygevoeg</item>
+        <item quantity="one">1 item is bygevoeg</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d items is teruggelaai en by \"%2$s\" gevoeg</item>
+        <item quantity="one">1 item is teruggelaai en by \"%2$s\" gevoeg</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d items is na \"%2$s\" geskuif</item>
+        <item quantity="one">1 item is na \"%2$s\" geskuif.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d items is geskuif</item>
+        <item quantity="one">1 item is geskuif</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d items is teruggelaai en na \"%2$s\" geskuif.</item>
+        <item quantity="one">1 item is teruggelaai en na \"%2$s\" geskuif.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d items is teruggelaai.</item>
+        <item quantity="one">1 item is teruggelaai</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d items is teruggelaai na \"%2$s\".</item>
+        <item quantity="one">1 item is teruggelaai na \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Stuur lêers met</item>
+        <item quantity="one">Stuur lêer met</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d mense kan nou ingaan</item>
+        <item quantity="one">Een persoon kan nou ingaan</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s en %2$d ander mense het nou toegang</item>
+        <item quantity="one">%1$s en een ander persoon het nou toegang</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d mense kan nou opmerkings byvoeg</item>
+        <item quantity="one">Een persoon kan nou opmerkings byvoeg</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s en %2$d ander mense kan nou opmerkings byvoeg</item>
+        <item quantity="one">%1$s en een ander persoon kan nou opmerkings byvoeg</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d mense kan dit nou wysig</item>
+        <item quantity="one">Een persoon kan dit nou wysig</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s en %2$d ander mense kan dit nou wysig</item>
+        <item quantity="one">%1$s en een ander persoon kan dit nou wysig</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d mense kan dit nou bekyk</item>
+        <item quantity="one">Een persoon kan dit nou bekyk</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s en %2$d ander mense kan dit nou bekyk</item>
+        <item quantity="one">%1$s en een ander persoon kan dit nou bekyk</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Drive-berging verval oor %1$d dae</item>
+        <item quantity="one">Drive-berging verval oor %1$d dag</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d mense is by die gedeelde Drive gevoeg</item>
+        <item quantity="one">Een persoon is by die gedeelde Drive gevoeg</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s en %3$d ander mense is by %1$s gevoeg</item>
+        <item quantity="one">%2$s en een ander persoon is by %1$s gevoeg</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d lede</item>
+        <item quantity="one">1 lid</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Hervat almal nou</item>
+        <item quantity="one">Hervat nou</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Oplaai van %1$d lêers is gekanselleer.</item>
+        <item quantity="one">Oplaai van %1$d lêer is gekanselleer.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Kan %1$d lêers nie vir oplaai skeduleer nie.</item>
+        <item quantity="one">Kan %1$d lêer nie vir oplaai skeduleer nie.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d lêers opgelaai.</item>
+        <item quantity="one">%1$d lêer opgelaai.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Kan %1$d van %2$d lêers nie oplaai nie.</item>
+        <item quantity="one">Kan %1$d van %2$d lêer nie oplaai nie.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Laai tans %1$d lêers op.</item>
+        <item quantity="one">Laai tans %1$d lêer op.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Oplaaie is onderbreek, wag tans vir netwerk …</item>
+        <item quantity="one">Oplaai is onderbreek, wag tans vir netwerk …</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d oplaaie is onderbreek.</item>
+        <item quantity="one">%1$d oplaai is onderbreek.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Oplaaie is onderbreek, wag tans vir Wi-Fi …</item>
+        <item quantity="one">Oplaai is onderbreek, wag tans vir Wi-Fi …</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Berei tans %1$d lêers voor vir oplaai.</item>
+        <item quantity="one">Berei tans %1$d lêer voor vir oplaai.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Jou %1$d lêers word tans opgelaai na: %2$s</item>
+        <item quantity="one">Jou %1$d lêer word tans opgelaai na: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Bekyk %1$d lêers</item>
+        <item quantity="one">Bekyk %1$d lêer</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Bekyk al %1$d lêers in %2$s</item>
+        <item quantity="one">Bekyk %1$d lêer in %2$s</item>
+    </plurals>
+</resources>

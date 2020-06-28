@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d 個のアイテムをスキャンしました</item>
+        <item quantity="one">%1$d 個のアイテムをスキャンしました</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d 個のアイテムを選択しました</item>
+        <item quantity="one">%1$d 個のアイテムを選択しました</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">新しいアルバムに含まれるファイル数が、現在の上限の %1$d 個を超えます。</item>
+        <item quantity="one">新しいアルバムに含まれるファイル数が、現在の上限の %1$d 個を超えます。</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">アルバムに含まれるファイル数が %1$d 個になります。</item>
+        <item quantity="one">アルバムに含まれるファイル数が %1$d 個になります。</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d 件の場所を追加しました</item>
+        <item quantity="one">%d 件の場所を追加しました</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d 件の場所</item>
+        <item quantity="one">%d 件の場所</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d 個の地図</item>
+        <item quantity="one">%d 個の地図</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d 個の地図を追加しました</item>
+        <item quantity="one">%d 個の地図を追加しました</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ファイルをこのアルバムから削除しています…</item>
+        <item quantity="one">ファイルをこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d 個のファイルを削除しました</item>
+        <item quantity="one">%d 個のファイルを削除しました</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">写真をこのアルバムから削除しています…</item>
+        <item quantity="one">写真をこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">動画をこのアルバムから削除しています…</item>
+        <item quantity="one">動画をこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">写真: %1$d 枚</item>
+        <item quantity="one">写真: %1$d 枚</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">デバイスから削除（%d 個）</item>
+        <item quantity="one">デバイスから削除（%d 個）</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">デバイスからすべて削除（%d 個）</item>
+        <item quantity="one">デバイスからすべて削除（%d 個）</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">ゴミ箱に移動（%d 個）</item>
+        <item quantity="one">ゴミ箱に移動（%d 個）</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d 個をアーカイブしました</item>
+        <item quantity="one">%d 個をアーカイブしました</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d 個のアーカイブを解除しました</item>
+        <item quantity="one">%d 個のアーカイブを解除しました</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s さん、%2$s さん、他 %3$d 人</item>
+        <item quantity="one">%1$s さん、%2$s さん、他 %3$d 人</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s さんと他 %2$d 人</item>
+        <item quantity="one">%1$s さんと他 %2$d 人</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d 件を選択</item>
+        <item quantity="one">%d 件を選択</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">%d 個のアイテムをアップロード中</item>
+        <item quantity="one">%d 個のアイテムをアップロード中</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">空き容量がないため、%d個のアイテムがバックアップされていません</item>
+        <item quantity="one">空き容量がないため、%d個のアイテムがバックアップされていません</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">残り %d 個</item>
+        <item quantity="one">残り %d 個</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d 個のアイテムがバックアップ待ちです</item>
+        <item quantity="one">%d 個のアイテムがバックアップ待ちです</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">残り %d 個のファイル • 高画質</item>
+        <item quantity="one">残り %d 個のファイル • 高画質</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">残り %d 個のファイル • 元の画質</item>
+        <item quantity="one">残り %d 個のファイル • 元の画質</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d 個のファイルをアップロードしています</item>
+        <item quantity="one">%d 個のファイルをアップロードしています</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">残り %d 個</item>
+        <item quantity="one">残り %d 個</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d 個のファイルがバックアップ待ちです</item>
+        <item quantity="one">%d 個のファイルがバックアップ待ちです</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d 枚の写真がバックアップされませんでした</item>
+        <item quantity="one">%1$d 枚の写真がバックアップされませんでした</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">%d 個のファイルをバックアップ中</item>
+        <item quantity="one">%d 個のファイルをバックアップ中</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d 個のファイルをアップロードしています</item>
+        <item quantity="one">%d 個のファイルをアップロードしています</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d 本の動画をアップロードしています</item>
+        <item quantity="one">%d 本の動画をアップロードしています</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d 個のファイルがアップロード待ちです</item>
+        <item quantity="one">%d 個のファイルがアップロード待ちです</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d 本の動画がアップロード待ちです</item>
+        <item quantity="one">%d 本の動画がアップロード待ちです</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d 枚の写真がバックアップされていません</item>
+        <item quantity="one">%d 枚の写真がバックアップされていません</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d 枚の写真すべて</item>
+        <item quantity="one">%d 枚の写真すべて</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">アカウントの空き容量がないため、バックアップされないアイテムが %1$d 個あります</item>
+        <item quantity="one">アカウントの空き容量がないため、バックアップされないアイテムが %1$d 個あります</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">保存容量が不足しているため、バックアップされない写真が %1$d 枚あります</item>
+        <item quantity="one">保存容量が不足しているため、バックアップされない写真が %1$d 枚あります</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d 個のファイルが追加されました</item>
+        <item quantity="one">%1$d 個のファイルが追加されました</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">選択できるファイルは%d個までです。</item>
+        <item quantity="one">選択できるのは %d 個までです。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">ファイルを%d個以上選択してください。</item>
+        <item quantity="one">%d 個以上選択してください。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d 日間の範囲からファイルを選択してください。</item>
+        <item quantity="one">%d 日間の範囲からファイルを選択してください。</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d 日前</item>
+        <item quantity="one">%d 日前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d 時間前</item>
+        <item quantity="one">%d 時間前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d 週間</item>
+        <item quantity="one">%d 週間</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d 週間前</item>
+        <item quantity="one">%d 週間前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d 分前</item>
+        <item quantity="one">%d 分前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d 日</item>
+        <item quantity="one">%d 日</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d 日前</item>
+        <item quantity="one">%d 日前</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">デバイスからファイルを %1$d 個削除</item>
+        <item quantity="one">デバイスからファイルを %1$d 個削除</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">元の写真や動画を %1$d 個削除しています</item>
+        <item quantity="one">元の写真や動画を %1$d 個削除しています</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d 個のファイル</item>
+        <item quantity="one">%d 個のファイル</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d枚の新しいカード</item>
+        <item quantity="one">1枚の新しいカード</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d 個のファイルを追加しました</item>
+        <item quantity="one">%d 個のファイルを追加しました</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">更新: %1$d 件</item>
+        <item quantity="one">更新: %1$d 件</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">%1$s さん、%2$s さん、他 %3$d 人が閲覧しました</item>
+        <item quantity="one">%1$s さん、%2$s さん、他 %3$d 人が閲覧しました</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">コメント %1$d 件</item>
+        <item quantity="one">コメント %1$d 件</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ファイルをライブラリに保存しています…</item>
+        <item quantity="one">ファイルをライブラリに保存しています…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s さんが %2$d 点の写真を高く評価しました（%3$s）</item>
+        <item quantity="one">%1$s さんが %2$d 点の写真を高く評価しました（%3$s）</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s さんが %2$d 個の動画を高く評価しました（%3$s）</item>
+        <item quantity="one">%1$s さんが %2$d 個の動画を高く評価しました（%3$s）</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">%d 個のファイルが選択されます</item>
+        <item quantity="one">%d 個のファイルが選択されます</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">フォルダとその中のファイル %d 個の削除</item>
+        <item quantity="one">フォルダとその中のファイル %d 個の削除</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">デバイスから削除（%d 個）</item>
+        <item quantity="one">デバイスから削除（%d 個）</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">ファイル %d 個をコピーできませんでした</item>
+        <item quantity="one">ファイル %d 個をコピーできませんでした</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">ファイル %d 個をコピーしました</item>
+        <item quantity="one">ファイル %d 個をコピーしました</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">ファイル %d 個を移動できませんでした</item>
+        <item quantity="one">ファイル %d 個を移動できませんでした</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">ファイル %d 個を移動しました</item>
+        <item quantity="one">ファイル %d 個を移動しました</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">おすすめのフレーム画像（%d 枚）</item>
+        <item quantity="one">おすすめのフレーム画像（%d 枚）</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">反時計回りに %d 度回転</item>
+        <item quantity="one">反時計回りに %d 度回転</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d 人の人物が写った写真</item>
+        <item quantity="one">%d 人の人物が写った写真</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">%d 個の選択した顔が写った写真</item>
+        <item quantity="one">%d 個の選択した顔が写った写真</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">選択数: %d</item>
+        <item quantity="one">選択数: %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d 件を選択中</item>
+        <item quantity="one">%d 件を選択中</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%1$d 個の選択した顔が写った写真（次の日付以降: %2$s）</item>
+        <item quantity="one">%1$d 個の選択した顔が写った写真（次の日付以降: %2$s）</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">%d 個の選択した顔が写った写真</item>
+        <item quantity="one">%d 個の選択した顔が写った写真</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d 枚の写真を削除しました</item>
+        <item quantity="one">%1$d 枚の写真を削除しました</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">選択できるのは %d 人までです</item>
+        <item quantity="one">選択できるのは %d 人までです</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d 枚の写真</item>
+        <item quantity="one">%1$d 枚の写真</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d 枚（本）を選択中</item>
+        <item quantity="one">%d 枚（本）を選択中</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">印刷できる写真は %d 枚までです。</item>
+        <item quantity="one">印刷できる写真は %d 枚までです。</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d 枚の写真が候補として表示されています</item>
+        <item quantity="one">%d 枚の写真が候補として表示されています</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d 枚の写真が候補として表示されました</item>
+        <item quantity="one">%d 枚の写真が候補として表示されました</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">追加 %d ページ</item>
+        <item quantity="one">追加 %d ページ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d ページ</item>
+        <item quantity="one">%d ページ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">購入するには写真をあと %d 枚追加してください</item>
+        <item quantity="one">購入するには写真をあと %d 枚追加してください</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d ページを追加しました</item>
+        <item quantity="one">%d ページを追加しました</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d 枚の写真を追加しました</item>
+        <item quantity="one">%d 枚の写真を追加しました</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d ページを削除しました</item>
+        <item quantity="one">%d ページを削除しました</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d 枚の写真を削除しました</item>
+        <item quantity="one">%d 枚の写真を削除しました</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">追加 %d ページ</item>
+        <item quantity="one">追加 %d ページ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d ページ</item>
+        <item quantity="one">%d ページ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%2$s の写真を %1$d 枚追加しました</item>
+        <item quantity="one">%2$s の写真を %1$d 枚追加しました</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">1 回のご注文につき、%2$s のプリントを %1$d まで選択できます</item>
+        <item quantity="one">1 回のご注文につき、%2$s のプリントを %1$d まで選択できます</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">作業を続けるには、ドラフトの写真が %1$d 枚以上必要です。</item>
+        <item quantity="one">作業を続けるには、ドラフトの写真が %1$d 枚以上必要です。</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">プリント: %1$d 枚</item>
+        <item quantity="one">プリント: %1$d 枚</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%1$d/%2$d 個のファイルをダウンロードしました</item>
+        <item quantity="one">%1$d/%2$d 個のファイルをダウンロードしました</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">%d 個のファイルを復元しますか？</item>
+        <item quantity="one">%d 個のファイルを復元しますか？</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d 個の最近使用したアイテムをデバイスに復元しました</item>
+        <item quantity="one">1 個の最近使用したアイテムをデバイスに復元しました</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d 枚の写真や動画を復元しました</item>
+        <item quantity="one">1 枚の写真または動画を復元しました</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d 枚の写真</item>
+        <item quantity="one">写真 %d 枚</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d 個のファイルをアルバムに追加しました</item>
+        <item quantity="one">%d 個のファイルをアルバムに追加しました</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d 個のファイルをアップロードしています</item>
+        <item quantity="one">%d 個のファイルをアップロードしています</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">接続されると %d 個がアップロードされます</item>
+        <item quantity="one">接続されると %d 個がアップロードされます</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">実際のファイル</item>
+        <item quantity="one">実際のファイル</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">ファイル</item>
+        <item quantity="one">ファイル</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">小さいファイル</item>
+        <item quantity="one">小さいファイル</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s と他 %2$d 人</item>
+        <item quantity="one">%1$s と他 %2$d 人</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">関連する %d 枚の写真を追加しますか？</item>
+        <item quantity="one">関連する %d 枚の写真を追加しますか？</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d 枚の写真が自動追加されました</item>
+        <item quantity="one">%1$d 枚の写真が自動追加されました</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d 枚の新しい写真</item>
+        <item quantity="one">%1$d 枚の新しい写真</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s さんが新しい写真 %2$d 枚を追加しました</item>
+        <item quantity="one">%1$s さんが新しい写真 %2$d 枚を追加しました</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ファイルを削除できません</item>
+        <item quantity="one">ファイルを削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">ファイル %d 個を削除できません</item>
+        <item quantity="one">ファイル %d 個を削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">ファイル %d 個を完全に削除できません</item>
+        <item quantity="one">ファイル %d 個を完全に削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d 個をデバイスから削除しました</item>
+        <item quantity="one">%d 個をデバイスから削除しました</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">復元しています…</item>
+        <item quantity="one">復元しています…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">ファイル %d 個を復元できません</item>
+        <item quantity="one">ファイル %d 個を復元できません</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ファイルを完全に削除しますか？</item>
+        <item quantity="one">ファイルを完全に削除しますか？</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d 個のファイルを完全に削除</item>
+        <item quantity="one">%d 個のファイルを完全に削除</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">このバージョンのGoogleフォトは後%d日で有効期限が終了します。引き続きご利用いただくにはアップデートしてください。</item>
+        <item quantity="one">このバージョンのGoogleフォトは後1日で有効期限が終了します。引き続きご利用いただくにはアップデートしてください。</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d 個のファイルをアップロードしています</item>
+        <item quantity="one">%d 個のファイルをアップロードしています</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">接続すると %d 個のファイルがアップロードされます</item>
+        <item quantity="one">接続すると %d 個のファイルがアップロードされます</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Wi-Fi に接続すると %d 個のファイルがアップロードされます</item>
+        <item quantity="one">Wi-Fi に接続すると %d 個のファイルがアップロードされます</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">アップロードしています… 残り %d 個です</item>
+        <item quantity="one">アップロードしています… 残り %d 個です</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s 枚の写真</item>
+        <item quantity="one">%s 枚の写真</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s個の項目</item>
+        <item quantity="one">%s個の項目</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s本の動画</item>
+        <item quantity="one">%s本の動画</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">写真を選択</item>
+        <item quantity="one">写真を選択</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">ファイルを選択</item>
+        <item quantity="one">ファイルを選択</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">動画を選択</item>
+        <item quantity="one">動画を選択</item>
+    </plurals>
+</resources>

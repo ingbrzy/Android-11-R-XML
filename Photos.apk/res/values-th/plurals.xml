@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">สแกน %1$d รายการแล้ว</item>
+        <item quantity="one">สแกน %1$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">เลือกแล้ว %1$d รายการ</item>
+        <item quantity="one">เลือกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">อัลบั้มขนาดใหม่จะใหญ่กว่ารายการที่จำกัดไว้สูงสุด %1$d รายการในปัจจุบัน</item>
+        <item quantity="one">อัลบั้มขนาดใหม่จะใหญ่กว่ารายการที่จำกัดไว้สูงสุด %1$d รายการในปัจจุบัน</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">อัลบั้มจะมีทั้งหมด %1$d รายการ</item>
+        <item quantity="one">อัลบั้มจะมีทั้งหมด %1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">เพิ่มสถานที่ %d แห่งแล้ว</item>
+        <item quantity="one">เพิ่มสถานที่ %d แห่งแล้ว</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">สถานที่ %d แห่ง</item>
+        <item quantity="one">สถานที่ %d แห่ง</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">แผนที่ %d รายการ</item>
+        <item quantity="one">แผนที่ %d รายการ</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">เพิ่มแผนที่ %d รายการแล้ว</item>
+        <item quantity="one">เพิ่มแผนที่ %d รายการแล้ว</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">กำลังนำรายการออกจากอัลบั้มนี้...</item>
+        <item quantity="one">กำลังนำรายการออกจากอัลบั้มนี้...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">นำออก %d รายการ</item>
+        <item quantity="one">นำออก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">กำลังนำรูปภาพออกจากอัลบั้มนี้…</item>
+        <item quantity="one">กำลังนำรูปภาพออกจากอัลบั้มนี้…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">กำลังนำวิดีโอออกจากอัลบั้มนี้…</item>
+        <item quantity="one">กำลังนำวิดีโอออกจากอัลบั้มนี้…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d รายการ</item>
+        <item quantity="one">%1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d รายการ</item>
+        <item quantity="one">%d รายการ</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">ลบจากอุปกรณ์ (%d)</item>
+        <item quantity="one">ลบจากอุปกรณ์ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">ลบทั้งหมดจากอุปกรณ์ (%d)</item>
+        <item quantity="one">ลบทั้งหมดจากอุปกรณ์ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">ย้ายไปที่ถังขยะ (%d)</item>
+        <item quantity="one">ย้ายไปที่ถังขยะ (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d ที่เก็บแล้ว</item>
+        <item quantity="one">%d รายการที่เก็บแล้ว</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d ที่ยกเลิกการเก็บถาวรแล้ว</item>
+        <item quantity="one">%d รายการที่ยกเลิกการเก็บถาวรแล้ว</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s และอีก %3$d คน</item>
+        <item quantity="one">%1$s, %2$s และอีก %3$d คน</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s และอีก %2$d คน</item>
+        <item quantity="one">%1$s และอีก %2$d คน</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">เลือก %d แล้ว</item>
+        <item quantity="one">เลือก %d แล้ว</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">กำลังอัปโหลด %d รายการ</item>
+        <item quantity="one">กำลังอัปโหลด %d รายการ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">สำรองรูปภาพ %d รายการไม่ได้เนื่องจากพื้นที่เก็บข้อมูลในบัญชีของคุณเต็มแล้ว</item>
+        <item quantity="one">สำรองรูปภาพ %d รายการไม่ได้เนื่องจากพื้นที่เก็บข้อมูลในบัญชีของคุณเต็มแล้ว</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">เหลืออีก %d รายการ</item>
+        <item quantity="one">เหลืออีก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">ต้องสำรองข้อมูลอีก %d รายการ</item>
+        <item quantity="one">ต้องสำรองข้อมูลอีก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">เหลืออีก %d รายการ • คุณภาพสูง</item>
+        <item quantity="one">เหลืออีก %d รายการ • คุณภาพสูง</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">เหลืออีก %d รายการ • คุณภาพต้นฉบับ</item>
+        <item quantity="one">เหลืออีก %d รายการ • คุณภาพต้นฉบับ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">กำลังอัปโหลด %d รายการ</item>
+        <item quantity="one">กำลังอัปโหลด %d รายการ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">เหลืออีก %d รายการ</item>
+        <item quantity="one">เหลืออีก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">เหลือที่ต้องสำรองข้อมูลอีก %d รายการ</item>
+        <item quantity="one">เหลือที่ต้องสำรองข้อมูลอีก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">ไม่ได้สำรองข้อมูลรูปภาพ %1$d ภาพ</item>
+        <item quantity="one">ไม่ได้สำรองข้อมูลรูปภาพ %1$d ภาพ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">กำลังสำรองข้อมูล %d รายการ</item>
+        <item quantity="one">กำลังสำรองข้อมูล %d รายการ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">กำลังอัปโหลด %d รายการ</item>
+        <item quantity="one">กำลังอัปโหลด %d รายการ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">กำลังอัปโหลด %d วิดีโอ</item>
+        <item quantity="one">กำลังอัปโหลด %d วิดีโอ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d รายการที่จะอัปโหลด</item>
+        <item quantity="one">%d รายการที่จะอัปโหลด</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d วิดีโอที่จะอัปโหลด</item>
+        <item quantity="one">%d วิดีโอที่จะอัปโหลด</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">ไม่ได้สำรองข้อมูลรูปภาพ %d รูป</item>
+        <item quantity="one">ไม่ได้สำรองข้อมูลรูปภาพ %d รูป</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">รูปภาพทั้ง %d รูป</item>
+        <item quantity="one">รูปภาพทั้ง %d รูป</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">สำรองรูปภาพ %1$d รายการไม่ได้เนื่องจากพื้นที่เก็บข้อมูลในบัญชีของคุณเต็มแล้ว</item>
+        <item quantity="one">สำรองรูปภาพ %1$d รายการไม่ได้เนื่องจากพื้นที่เก็บข้อมูลในบัญชีของคุณเต็มแล้ว</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">สำรองข้อมูลรูปภาพไม่ได้ %1$d รูปเนื่องจากพื้นที่เก็บข้อมูลเต็มแล้ว</item>
+        <item quantity="one">สำรองรูปภาพไม่ได้ %1$d รูปเนื่องจากพื้นที่เก็บข้อมูลเต็มแล้ว</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">เพิ่ม %1$d รายการ</item>
+        <item quantity="one">เพิ่ม %1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">เลือกไม่เกิน %d รายการ</item>
+        <item quantity="one">เลือกไม่เกิน %d รายการ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">เลือกอย่างน้อย %d รายการ</item>
+        <item quantity="one">เลือกอย่างน้อย %d รายการ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">โปรดเลือกรายการภายในช่วง %d วัน</item>
+        <item quantity="one">โปรดเลือกรายการภายในช่วง %d วัน</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">%d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d สัปดาห์</item>
+        <item quantity="one">%d สัปดาห์</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d สัปดาห์ที่ผ่านมา</item>
+        <item quantity="one">%d สัปดาห์ที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">นำ %1$d รายการออกจากอุปกรณ์</item>
+        <item quantity="one">นำ %1$d รายการออกจากอุปกรณ์</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">กำลังลบรูปภาพและวิดีโอต้นฉบับ %1$d รายการ</item>
+        <item quantity="one">กำลังลบรูปภาพหรือวิดีโอต้นฉบับ %1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d รายการ</item>
+        <item quantity="one">%d รายการ</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d การ์ดใหม่</item>
+        <item quantity="one">1 การ์ดใหม่</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">เพิ่มแล้ว %d รายการ</item>
+        <item quantity="one">เพิ่มแล้ว %d รายการ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">อัปเดต %1$d รายการ</item>
+        <item quantity="one">อัปเดต %1$d รายการ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">เปิดดูโดย %1$s, %2$s และอีก %3$d คน</item>
+        <item quantity="one">เปิดดูโดย %1$s, %2$s และอีก %3$d คน</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ความคิดเห็น</item>
+        <item quantity="one">%1$d ความคิดเห็น</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">กำลังบันทึกรายการไปยังคลังภาพ…</item>
+        <item quantity="one">กำลังบันทึกรายการไปยังคลังภาพ…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s ชอบ %2$d รูปภาพ • %3$s</item>
+        <item quantity="one">%1$s ชอบ %2$d รูปภาพ • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s ชอบ %2$d วิดีโอ • %3$s</item>
+        <item quantity="one">%1$s ชอบ %2$d วิดีโอ • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">เลือก %d รายการ</item>
+        <item quantity="one">เลือก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">ลบโฟลเดอร์ และรายการ %d รายการในโฟลเดอร์</item>
+        <item quantity="one">ลบโฟลเดอร์ และรายการ %d รายการในโฟลเดอร์</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">ลบจากอุปกรณ์ (%d)</item>
+        <item quantity="one">ลบจากอุปกรณ์ (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">เกิดข้อผิดพลาดในการคัดลอก %d รายการ</item>
+        <item quantity="one">เกิดข้อผิดพลาดในการคัดลอก %d รายการ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">คัดลอกแล้ว %d รายการ</item>
+        <item quantity="one">คัดลอกแล้ว %d รายการ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">เกิดข้อผิดพลาดในการย้าย %d รายการ</item>
+        <item quantity="one">เกิดข้อผิดพลาดในการย้าย %d รายการ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">ย้ายแล้ว %d รายการ</item>
+        <item quantity="one">ย้ายแล้ว %d รายการ</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">รูปภาพที่แนะนำ %d ภาพ</item>
+        <item quantity="one">รูปภาพที่แนะนำ %d ภาพ</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d ปีที่ผ่านมา</item>
+        <item quantity="one">%d ปีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">หมุน %d องศา ทวนเข็มนาฬิกา</item>
+        <item quantity="one">หมุน %d องศา ทวนเข็มนาฬิกา</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">รูปภาพของ %d คน</item>
+        <item quantity="one">รูปภาพของ %d คน</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">รูปภาพของ %d ใบหน้าที่เลือก</item>
+        <item quantity="one">รูปภาพของ %d ใบหน้าที่เลือก</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d รายการที่เลือกแล้ว</item>
+        <item quantity="one">%d รายการที่เลือกแล้ว</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d ใบหน้าที่เลือก</item>
+        <item quantity="one">%d ใบหน้าที่เลือก</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">รูปภาพของ %1$d ใบหน้าที่เลือก ตั้งแต่ %2$s</item>
+        <item quantity="one">รูปภาพของ %1$d ใบหน้าที่เลือก ตั้งแต่ %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">รูปภาพของ %d ใบหน้าที่เลือก</item>
+        <item quantity="one">รูปภาพของ %d ใบหน้าที่เลือก</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">นำรูปภาพออกแล้ว %1$d รูป</item>
+        <item quantity="one">นำรูปภาพออกแล้ว %1$d รูป</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">เลือกได้ %d คนเท่านั้น</item>
+        <item quantity="one">เลือกได้ %d คนเท่านั้น</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">รูปภาพ %1$d รูป</item>
+        <item quantity="one">รูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">เลือกแล้ว %d รายการ</item>
+        <item quantity="one">เลือกแล้ว %d รายการ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">พิมพ์รูปภาพได้ %d รูปเท่านั้น</item>
+        <item quantity="one">พิมพ์รูปภาพได้ %d รูปเท่านั้น</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">รูปภาพ %d รูปที่แนะนำสำหรับคุณ</item>
+        <item quantity="one">รูปภาพ %d รูปที่แนะนำสำหรับคุณ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">รูปภาพที่แนะนำ %d รูป</item>
+        <item quantity="one">รูปภาพที่แนะนำ %d รูป</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">เพิ่ม %d หน้า</item>
+        <item quantity="one">เพิ่ม %d หน้า</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d หน้า</item>
+        <item quantity="one">%d หน้า</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">เพิ่มอีก %d รูปภาพเพื่อซื้อ</item>
+        <item quantity="one">เพิ่มอีก %d รูปภาพเพื่อซื้อ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">เพิ่ม %d หน้าแล้ว</item>
+        <item quantity="one">เพิ่ม %d หน้าแล้ว</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">เพิ่ม %d รูปแล้ว</item>
+        <item quantity="one">เพิ่ม %d รูปแล้ว</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">นำออกแล้ว %d หน้า</item>
+        <item quantity="one">นำออกแล้ว %d หน้า</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">นำออกแล้ว %d รูปภาพ</item>
+        <item quantity="one">นำออกแล้ว %d รูปภาพ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">เพิ่ม %d หน้า</item>
+        <item quantity="one">เพิ่ม %d หน้า</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d หน้า</item>
+        <item quantity="one">%d หน้า</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">เพิ่มรูปภาพ %1$d รายการเป็นรูปอัดขนาด %2$s แล้ว</item>
+        <item quantity="one">เพิ่มรูปภาพ %1$d รายการเป็นรูปอัดขนาด %2$s แล้ว</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">คุณจะเลือกรูปอัดขนาด %2$s ได้สูงสุด %1$d รายการต่อคำสั่งซื้อ</item>
+        <item quantity="one">คุณจะเลือกรูปอัดขนาด %2$s ได้สูงสุด %1$d รายการต่อคำสั่งซื้อ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">คุณต้องมีรูปภาพอย่างน้อย %1$d รูปเพื่อดำเนินการต่อกับฉบับร่าง</item>
+        <item quantity="one">คุณต้องมีรูปภาพอย่างน้อย %1$d รูปเพื่อดำเนินการต่อกับฉบับร่าง</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">รูปอัด %1$d ใบ</item>
+        <item quantity="one">รูปอัด %1$d ใบ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">ดาวน์โหลด %1$d จาก %2$d รายการแล้ว</item>
+        <item quantity="one">ดาวน์โหลด %1$d จาก %2$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">กู้คืน %d รายการใช่ไหม</item>
+        <item quantity="one">กู้คืน %d รายการใช่ไหม</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">กู้คืน %1$d รายการล่าสุดไปยังอุปกรณ์</item>
+        <item quantity="one">กู้คืน 1 รายการล่าสุดไปยังอุปกรณ์</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">กู้คืนรูปภาพ&amp;วิดีโอ %1$d รายการแล้ว</item>
+        <item quantity="one">กู้คืนรูปภาพหรือวิดีโอ 1 รายการแล้ว</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d รูป</item>
+        <item quantity="one">%d รูป</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">เพิ่ม %d รายการในอัลบั้มแล้ว</item>
+        <item quantity="one">เพิ่ม %d รายการในอัลบั้มแล้ว</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">กำลังอัปโหลด %d รายการ</item>
+        <item quantity="one">กำลังอัปโหลด %d รายการ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d รายการจะอัปโหลดเมื่อเชื่อมต่อแล้ว</item>
+        <item quantity="one">%d รายการจะอัปโหลดเมื่อเชื่อมต่อแล้ว</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">ไฟล์จริง</item>
+        <item quantity="one">ไฟล์จริง</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">ไฟล์</item>
+        <item quantity="one">ไฟล์</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">ไฟล์ขนาดเล็ก</item>
+        <item quantity="one">ไฟล์ขนาดเล็ก</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s และอีก %2$d คน</item>
+        <item quantity="one">%1$s และอีก %2$d คน</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d รายการ</item>
+        <item quantity="one">%d รายการ</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">เพิ่มรูปภาพที่เกี่ยวข้อง %d รูปไหม</item>
+        <item quantity="one">เพิ่มรูปภาพที่เกี่ยวข้อง %d รูปไหม</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">เพิ่ม %1$d รูปภาพโดยอัตโนมัติแล้ว</item>
+        <item quantity="one">เพิ่ม %1$d รูปภาพโดยอัตโนมัติแล้ว</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">รูปภาพใหม่ %1$d รูป</item>
+        <item quantity="one">รูปภาพใหม่ %1$d รูป</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s เพิ่ม %2$d รูปภาพใหม่</item>
+        <item quantity="one">%1$s เพิ่ม %2$d วิดีโอใหม่</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ไม่สามารถลบรายการ</item>
+        <item quantity="one">ไม่สามารถลบรายการ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">ไม่สามารถลบ %d รายการ</item>
+        <item quantity="one">ไม่สามารถลบ %d รายการ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">ไม่สามารถลบ %d รายการอย่างถาวร</item>
+        <item quantity="one">ไม่สามารถลบ %d รายการอย่างถาวร</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">ลบ %d จากอุปกรณ์แล้ว</item>
+        <item quantity="one">ลบ %d จากอุปกรณ์แล้ว</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">กำลังกู้คืนรายการ…</item>
+        <item quantity="one">กำลังกู้คืนรายการ…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">ไม่สามารถกู้คืน %d รายการ</item>
+        <item quantity="one">ไม่สามารถกู้คืน %d รายการ</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ลบรายการอย่างถาวรไหม</item>
+        <item quantity="one">ลบรายการอย่างถาวรไหม</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">ลบ %d รายการอย่างถาวร</item>
+        <item quantity="one">ลบ %d รายการอย่างถาวร</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">อีก %d วันเวอร์ชันนี้จะหมดอายุ โปรดอัปเดตทันทีเพื่อใช้ Google Photos ต่อไป</item>
+        <item quantity="one">อีก 1 วันเวอร์ชันนี้จะหมดอายุ โปรดอัปเดตทันทีเพื่อใช้ Google Photos ต่อไป</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">กำลังอัปโหลด%d รายการ</item>
+        <item quantity="one">กำลังอัปโหลด %d รายการ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d รายการจะอัปโหลดเมื่อเชื่อมต่อแล้ว</item>
+        <item quantity="one">%d รายการจะอัปโหลดเมื่อเชื่อมต่อแล้ว</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d รายการจะอัปโหลดเมื่อเชื่อมต่อกับ Wi-Fi แล้ว</item>
+        <item quantity="one">%d รายการจะอัปโหลดเมื่อเชื่อมต่อกับ Wi-Fi แล้ว</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">กำลังอัปโหลด…เหลือ %d ไฟล์</item>
+        <item quantity="one">กำลังอัปโหลด…เหลือ %d ไฟล์</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ไฟล์</item>
+        <item quantity="one">%d ไฟล์</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s รูป</item>
+        <item quantity="one">%s รูป</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s รายการ</item>
+        <item quantity="one">%s รายการ</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s วิดีโอ</item>
+        <item quantity="one">%s วิดีโอ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">เลือกรูปภาพ</item>
+        <item quantity="one">เลือกรูปภาพ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">เลือกรายการ</item>
+        <item quantity="one">เลือกรายการ</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">เลือกวิดีโอ</item>
+        <item quantity="one">เลือกวิดีโอ</item>
+    </plurals>
+</resources>

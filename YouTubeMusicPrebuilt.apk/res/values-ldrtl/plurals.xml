@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">%1$d songs • Auto playlist</item>
+        <item quantity="zero">0 songs • Auto playlist</item>
+        <item quantity="one">1 song • Auto playlist</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size_and_duration">
+        <item quantity="other">%3$s • %1$d of %2$d songs</item>
+        <item quantity="zero">0 of 0 songs</item>
+        <item quantity="one">%3$s • %1$d of 1 song</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">%1$d songs • Playlist</item>
+        <item quantity="zero">0 songs • Playlist</item>
+        <item quantity="one">1 song • Playlist</item>
+    </plurals>
+    <plurals name="offline_playlist_size_and_duration">
+        <item quantity="other">%2$s • %1$,d songs</item>
+        <item quantity="one">%2$s • 1 song</item>
+    </plurals>
+</resources>

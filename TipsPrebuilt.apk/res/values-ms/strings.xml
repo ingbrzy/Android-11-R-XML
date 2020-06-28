@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi skrin utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">padam</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_slice_permission_allow">Benarkan</string>
+    <string name="abc_slice_permission_checkbox">Benarkan %1$s menunjukkan hirisan daripada mana-mana apl</string>
+    <string name="abc_slice_permission_deny">Tolak</string>
+    <string name="abc_slice_permission_text_1">- Hos hirisan boleh membaca maklumat daripada %1$s</string>
+    <string name="abc_slice_permission_text_2">- Hos hirisan boleh mengambil tindakan dalam %1$s</string>
+    <string name="abc_slice_permission_title">Benarkan %1$s menunjukkan hirisan %2$s?</string>
+    <string name="abc_slices_permission_request">%1$s mahu menunjukkan hirisan %2$s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="all_topics_header_text">Semua topik</string>
+    <string name="allset_description">"Anda sudah bersedia untuk mula menggunakan telefon anda.
+
+Anda boleh mematikan navigasi gerak isyarat dan menggunakan butang untuk kembali, ke Laman Utama dan menukar apl.
+"<annotation id="link">Pergi ke Tetapan</annotation></string>
+    <string name="allset_hint">Leret ke atas untuk memulakan</string>
+    <string name="allset_page_title">Selesai</string>
+    <string name="allset_setting_link">Tetapan navigasi untuk kebolehaksesan</string>
+    <string name="allset_title">Selesai!</string>
+    <string name="app_name">Petua Pixel</string>
+    <string name="article_helpful_feedback_toast">Terima kasih atas maklum balas tersebut. Ini akan membantu memberikan maklumat sebagai panduan pada masa hadapan.</string>
+    <string name="article_helpful_no">Tidak</string>
+    <string name="article_helpful_talkback_selected_no">Memilih tidak</string>
+    <string name="article_helpful_talkback_selected_yes">Memilih ya</string>
+    <string name="article_helpful_talkback_unselected_no">Tidak memilih tidak</string>
+    <string name="article_helpful_talkback_unselected_yes">Tidak memilih ya</string>
+    <string name="article_helpful_text">Membantu?</string>
+    <string name="article_helpful_yes">Ya</string>
+    <string name="asset_is_downloading_content_description">Video/Imej sedang dimuat turun</string>
+    <string name="common_google_play_services_enable_button">Dayakan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="common_google_play_services_wear_update_text">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_signin_button_text">Log masuk</string>
+    <string name="common_signin_button_text_long">Log masuk dengan Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Untuk melihat video dan imej, cuba hubungkan ke Wi-Fi atau bertukar rangkaian</string>
+    <string name="connectivity_summary_assets_not_downloaded">Sambungan internet diperlukan untuk memaparkan video dan imej</string>
+    <string name="module_1_0010_summary">Tukar apl, ubah tetapan dengan cepat, fokus dengan lebih baik dan banyak lagi</string>
+    <string name="module_1_0010_tag_text">Bermula</string>
+    <string name="module_1_0010_title">Bermula dengan [model_name]</string>
+    <string name="module_1_0101_summary">Cari apl, terokai telefon anda dan banyak lagi</string>
+    <string name="module_1_0101_tag_text">Bermula</string>
+    <string name="module_1_0101_title">Bermula dengan Pixel</string>
+    <string name="module_1_1000_summary">Beralih daripada iPhoneⓇ? Cari apl, terokai telefon anda dan banyak lagi</string>
+    <string name="module_1_1000_tag_text">Bermula</string>
+    <string name="module_1_1000_title">Bermula dengan Pixel</string>
+    <string name="module_2_1111_summary">Bercakap dengan Assistant, kenal pasti muzik dengan Now Playing dan banyak lagi</string>
+    <string name="module_2_1111_tag_text">Maksimumkan Google</string>
+    <string name="module_2_1111_title">Manfaatkan Google sepenuhnya</string>
+    <string name="module_3_1111_summary">Tangkap gambar potret yang cantik, leret antara mod dan banyak lagi</string>
+    <string name="module_3_1111_tag_text">Nikmati kamera</string>
+    <string name="module_3_1111_title">Nikmati kamera dan foto anda</string>
+    <string name="module_4_1111_summary">Hantar imej, buat panggilan video dan kongsi foto</string>
+    <string name="module_4_1111_tag_text">Hantar teks dan buat panggilan</string>
+    <string name="module_4_1111_title">Hantar teks dan buat panggilan</string>
+    <string name="module_5_1111_summary">Buka kamera dan semak pemberitahuan dengan pantas serta banyak lagi</string>
+    <string name="module_5_1111_tag_text">Gunakan gerak isyarat</string>
+    <string name="module_5_1111_title">Gunakan gerak isyarat untuk pintasan pantas</string>
+    <string name="module_6_1111_summary">Jejak masa skrin anda, tetapkan jadual untuk memutuskan sambungan dan pelbagai lagi</string>
+    <string name="module_6_1111_tag_text">Urus kesejahteraan</string>
+    <string name="module_6_1111_title">Urus kesejahteraan digital anda</string>
+    <string name="module_7_1111_summary">Lihat dua apl serentak, susun apl menggunakan folder dan pelbagai lagi</string>
+    <string name="module_7_1111_tag_text">Jadilah seorang pakar</string>
+    <string name="module_7_1111_title">Jadilah pakar Pixel</string>
+    <string name="module_8_1111_summary">Ambil nota, bayar menggunakan Pixel dan dapatkan liputan berita terkini</string>
+    <string name="module_8_1111_tag_text">Terokai apl</string>
+    <string name="module_8_1111_title">Terokai apl Google asas</string>
+    <string name="next_btn">Seterusnya</string>
+    <string name="next_module_link_back_home_page_text">Seterusnya: Terokai Semua Petua</string>
+    <string name="next_module_link_text">Seterusnya: %1$s</string>
+    <string name="next_tip_content_description">Petua seterusnya</string>
+    <string name="ob_gesture_app_go_back_media_description">Video tentang gerak isyarat baharu untuk kembali</string>
+    <string name="ob_gesture_app_go_back_summary">Untuk kembali ke halaman terakhir, leret ke bahagian tengah dari tepi sebelah kiri atau kanan</string>
+    <string name="ob_gesture_app_go_back_title">Kembali</string>
+    <string name="ob_gesture_app_home_media_description">Video tentang gerak isyarat baharu untuk pergi ke skrin utama</string>
+    <string name="ob_gesture_app_home_summary">"Leret ke atas dari bahagian bawah skrin anda.
+Gerak isyarat ini sentiasa membawa anda ke Skrin utama."</string>
+    <string name="ob_gesture_app_home_title">Pergi ke Laman Utama</string>
+    <string name="ob_gesture_app_overview_media_description">Video tentang gerak isyarat baharu untuk ikhtisar</string>
+    <string name="ob_gesture_app_overview_summary">Leret ke atas dari bahagian bawah skrin anda dan tahan</string>
+    <string name="ob_gesture_app_overview_title">Tukar apl</string>
+    <string name="onboarding_education_page_title">Pengenalan gerak isyarat navigasi</string>
+    <string name="previous_module_link_text">Sebelumnya: %1$s</string>
+    <string name="previous_tip_content_description">Petua sebelumnya</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="settings_search_main_entry_screen_title">Petua &amp; sokongan > Teroka Panduan Pixel</string>
+    <string name="settings_search_main_entry_summary">Manfaatkan Pixel dengan sepenuhnya. Tonton video dan pelbagai lagi.</string>
+    <string name="smart_space_subtitle_android">Ketik untuk petua</string>
+    <string name="smart_space_subtitle_ios">Ketik untuk petua</string>
+    <string name="smart_space_subtitle_others">Ketik untuk petua</string>
+    <string name="smart_space_subtitle_pixel">Lihat ciri baharu</string>
+    <string name="smart_space_title">Selamat datang ke Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Ambil potret, dapatkan tangkapan yang sempurna dll.</string>
+    <string name="suggestion_summary_module_communication">Hantar imej, buat panggilan video dan banyak lagi</string>
+    <string name="suggestion_summary_module_gestures">Semak pemberitahuan, buka kamera dan banyak lagi</string>
+    <string name="suggestion_summary_module_google_smarts">Bercakap dengan Google Assistant anda dan banyak lagi</string>
+    <string name="suggestion_title_module_camera">Nikmati kamera dan foto anda</string>
+    <string name="suggestion_title_module_communication">Petua menghantar mesej &amp; membuat panggilan</string>
+    <string name="suggestion_title_module_gestures">Gunakan gerak isyarat untuk pintasan</string>
+    <string name="suggestion_title_module_google_smarts">Manfaatkan Google sepenuhnya</string>
+    <string name="tip_1_1_media_description">Video tentang mencari apl</string>
+    <string name="tip_1_1_summary">Leret ke atas dari bahagian bawah skrin untuk melihat apl terbaharu anda. Anda juga akan melihat satu baris apl yang diramalkan di bahagian bawah. Leret ke atas sekali lagi untuk melihat semua apl anda.</string>
+    <string name="tip_1_1_title">Cari apl anda</string>
+    <string name="tip_1_2_media_description">Video tentang menyusun apl</string>
+    <string name="tip_1_2_summary">"Untuk menambahkan apl pada Skrin Utama, sentuh dan seret apl itu.
+
+Untuk mengalih keluar apl, sentuh dan tahan apl, kemudian seret ke bahagian atas skrin anda."</string>
+    <string name="tip_1_2_title">Tambahkan apl ke Skrin utama</string>
+    <string name="tip_1_3_link">Pergi ke Gedung Play</string>
+    <string name="tip_1_3_media_description">Imej tentang apl utama</string>
+    <string name="tip_1_3_summary">"Bermula dengan apl ini:
+- Gedung Play: Terokai dan muat turun apl
+- Google Photos: Cari, simpan dan kongsi foto
+- Google Keep: Catat nota, senarai dan banyak lagi"</string>
+    <string name="tip_1_3_title">Terokai apl utama</string>
+    <string name="tip_1_4_media_description">Video tentang pemberitahuan</string>
+    <string name="tip_1_4_summary">"Leret ke bawah dari bahagian atas skrin anda untuk melihat pemberitahuan. Untuk mengosongkan pemberitahuan, leret ke kiri atau ke kanan.
+
+Untuk melihat maklumat lanjut tentang pemberitahuan, sentuh dan tahan pemberitahuan itu."</string>
+    <string name="tip_1_4_title">Lihat pemberitahuan anda</string>
+    <string name="tip_1_5_media_description">Video tentang mengubah tetapan</string>
+    <string name="tip_1_5_summary">"Leret ke bawah dari bahagian atas Pixel anda untuk membuka Tetapan Pantas. Leret ke bawah sekali lagi untuk mendapatkan lebih banyak tetapan.
+
+Untuk menghidupkan atau mematikan tetapan, ketik tetapan itu. Untuk melihat lebih banyak pilihan tetapan, sentuh &amp; tahan tetapan itu."</string>
+    <string name="tip_1_5_title">Tukar tetapan lazim dengan cepat</string>
+    <string name="tip_1_6_link">Pergi ke Tetapan</string>
+    <string name="tip_1_6_media_description">Video tentang Jangan Ganggu</string>
+    <string name="tip_1_6_summary">"Jika anda sedang menggunakan telefon tetapi ingin kekal fokus, anda boleh menghentikan paparan pemberitahuan.
+
+Terokai kawalan baharu dalam Jangan Ganggu."</string>
+    <string name="tip_1_6_title">Beri tumpuan lebih baik dengan Jangan Ganggu</string>
+    <string name="tip_1_7_media_description">Video tentang melihat tindakan</string>
+    <string name="tip_1_7_summary">"Sentuh &amp; tahan teks untuk melihat tindakan yang tersedia seperti membuat tempahan restoran.
+
+Anda boleh melakukan perkara ini daripada sebarang apl. Malah tindakan ini masih berfungsi apabila anda menukar antara apl."</string>
+    <string name="tip_1_7_title">Lihat tindakan apabila memilih teks</string>
+    <string name="tip_1_9_link">Pergi ke Sokongan</string>
+    <string name="tip_1_9_media_description">Video tentang Petua &amp; sokongan</string>
+    <string name="tip_1_9_summary">"Lebih banyak petua dan sokongan tersedia pada bila-bila masa. Hanya pergi ke Tetapan > Petua &amp; sokongan.
+
+Anda boleh meneroka petua, menyemak imbas artikel bantuan atau menghubungi pasukan Pixel."</string>
+    <string name="tip_1_9_title">Dapatkan bantuan apabila anda memerlukannya</string>
+    <string name="tip_2_1_link">Buka dalam Tetapan</string>
+    <string name="tip_2_1_link_description">Untuk menghidupkan ciri ini, ketik butang di bawah.</string>
+    <string name="tip_2_1_link_description_off">Untuk menghidupkan ciri ini, ketik butang di bawah.</string>
+    <string name="tip_2_1_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_2_1_link_on">Tetapan Picit</string>
+    <string name="tip_2_1_media_description">Video dihidupkan, picit untuk mendapatkan Assistant</string>
+    <string name="tip_2_1_summary">Untuk bercakap dengan Google Assistant pada bila-bila masa (walaupun semasa skrin dimatikan), picit di bahagian bawah telefon, kemudian lepaskan dengan cepat.</string>
+    <string name="tip_2_1_title">Picit untuk menggunakan Assistant anda</string>
+    <string name="tip_2_2_link">Lagi tindakan</string>
+    <string name="tip_2_2_media_description">Video tentang tindakan Assistant</string>
+    <string name="tip_2_2_summary">"Google Assistant anda merupakan cara yang cepat dan mudah untuk mencari jawapan dan menyelesaikan sesuatu pada Pixel anda.
+
+Untuk bercakap dengan Assistant anda, picit di bahagian bawah telefon, kemudian lepaskan dengan cepat dan sebut:
+
+- Bilakah acara pertama saya esok?
+- Tambahkan ubat gigi pada senarai beli-belah saya
+- Mari pulang"</string>
+    <string name="tip_2_2_title">Temui perkara yang boleh dilakukan oleh Assistant anda</string>
+    <string name="tip_2_3_link">Buka Lens</string>
+    <string name="tip_2_3_media_description">Video tentang carian menggunakan Google Lens</string>
+    <string name="tip_2_3_summary">"Lihat haiwan comel, tanaman unik atau mercu tanda mengagumkan yang menarik minat anda? Gunakan Google Lens untuk mengetahui lebih lanjut.
+
+Buka Kamera anda, sentuh &amp; tahan dalam pemidang tilik, kemudian ketik item yang anda minati."</string>
+    <string name="tip_2_3_title">Cari benda yang anda lihat menggunakan Google Lens</string>
+    <string name="tip_2_4_link">Buka Google Play</string>
+    <string name="tip_2_4_link_description">Untuk menggunakan Now Playing, kemas kini Perkhidmatan Ambien Pixel.</string>
+    <string name="tip_2_4_link_description_off">Untuk menghidupkan ciri ini, ketik butang di bawah.</string>
+    <string name="tip_2_4_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_2_4_link_on">Tetapan Now Playing</string>
+    <string name="tip_2_4_media_description">Video tentang Now Playing</string>
+    <string name="tip_2_4_summary">Now Playing memaparkan maklumat lagu secara automatik untuk semua lagu yang dimainkan dan di mana sahaja anda berada.</string>
+    <string name="tip_2_4_title">Kenal pasti muzik dengan Now Playing</string>
+    <string name="tip_2_5_link">Buka Kamera</string>
+    <string name="tip_2_5_media_description">Video tentang kamera</string>
+    <string name="tip_2_5_summary">Pixel anda mengecam nombor telefon, alamat, e-mel, kod bar dan kod QR secara automatik. Hanya buka kamera anda, sasarkan dan biarkan kamera melakukan fungsinya.</string>
+    <string name="tip_2_5_title">Gunakan kamera anda</string>
+    <string name="tip_3_1_link">Buka Kamera</string>
+    <string name="tip_3_1_media_description">Video tentang mod kamera</string>
+    <string name="tip_3_1_summary">"Kadang kala anda ingin menangkap foto, merakam video, kemudian buat sesuatu yang sedikit berbeza.
+
+Untuk beralih antara mod, anda hanya perlu membuka pemidang tilik Kamera dan leret ke kiri atau ke kanan. Ketik Lagi untuk pilihan lain."</string>
+    <string name="tip_3_1_title">Leret antara foto, video dan banyak lagi</string>
+    <string name="tip_3_2_link">Buka Kamera</string>
+    <string name="tip_3_2_media_description">Video tentang menangkap gambar potret</string>
+    <string name="tip_3_2_summary">"Dalam mod Potret, Pixel mengaburkan latar belakang untuk mendapatkan gambar yang kelihatan cantik dan profesional. Cuba dan lihat sendiri.
+
+Anda hanya perlu membuka Kamera, leret dari kiri ke kanan dan anda sudah bersedia."</string>
+    <string name="tip_3_2_title">Tangkap gambar potret yang cantik</string>
+    <string name="tip_3_3_media_description">Video tentang mengambil tangkapan skrin</string>
+    <string name="tip_3_3_summary">"Tekan &amp; tahan butang kuasa, kemudian ketik Tangkapan Skrin. Nah, anda baru sahaja merakamkan tangkapan skrin.
+
+Untuk melukis pada tangkapan skrin itu, ketik Edit dalam pemberitahuan yang dipaparkan."</string>
+    <string name="tip_3_3_title">Ambil dan edit tangkapan skrin dengan pantas</string>
+    <string name="tip_3_4_link">Buka Kamera</string>
+    <string name="tip_3_4_media_description">Video tentang memilih detik sempurna menggunakan Foto Terbaik</string>
+    <string name="tip_3_4_summary">"Setiap kali anda mengambil foto, Pixel menyimpan satu atau dua imej tambahan supaya anda boleh mendapatkan tangkapan yang sempurna.
+
+1. Pastikan Motion [icon] dihidupkan, kemudian ambil foto anda
+2. Apabila melihat foto, anda hanya perlu meleret dari bawah ke atas
+3. Ketik \"Foto dalam gambar ini\" untuk menyemak imej alternatif"</string>
+    <string name="tip_3_4_title">Pilih detik sempurna menggunakan Foto Terbaik</string>
+    <string name="tip_3_5_link">Buka Kamera</string>
+    <string name="tip_3_5_media_description">Video tentang mengambil swafoto berkumpulan</string>
+    <string name="tip_3_5_summary">"Swafoto Berkumpulan memberi anda lebih banyak ruang untuk rakan atau pemandangan dalam foto anda—kayu swafoto tidak diperlukan.
+
+1. Beralih kepada kamera depan [icon_span]
+2. Ketik skrin dua kali atau cubit pada skrin menggunakan jari anda untuk zum keluar"</string>
+    <string name="tip_3_5_title">Mengambil Swafoto Berkumpulan</string>
+    <string name="tip_4_1_link">Buka Messages</string>
+    <string name="tip_4_1_media_description">Video tentang menghantar imej</string>
+    <string name="tip_4_1_summary">"1. Buka perbualan dalam apl Messages
+2. Ketik Karang [icon_span] di sebelah kiri ruang anda menaip mesej anda
+3. Pilih imej, emoji atau pelekat yang sesuai"</string>
+    <string name="tip_4_1_title">Hantar imej</string>
+    <string name="tip_4_2_link">Pasang Duo</string>
+    <string name="tip_4_2_link_off">Pasang Duo</string>
+    <string name="tip_4_2_link_on">Buka Duo</string>
+    <string name="tip_4_2_media_description">Video tentang Google Duo</string>
+    <string name="tip_4_2_summary">"Tiada apa-apa yang dapat mengatasi sembang bersemuka dengan rakan karib &amp; keluarga anda. Itulah sebabnya Pixel menjadikan panggilan video mudah dengan Google Duo.
+
+1. Buka apl Google Duo
+2. Cari kenalan
+3. Mulakan panggilan video dengan satu ketik atau jemput mereka untuk memuat turun Google Duo
+
+Rakan anda yang menggunakan telefon dan tablet iOSⓇ juga boleh menggunakan Google Duo."</string>
+    <string name="tip_4_2_title">Buat panggilan video menggunakan Google Duo</string>
+    <string name="tip_4_3_link">Buka Google Photos</string>
+    <string name="tip_4_3_media_description">Video tentang perkongsian foto</string>
+    <string name="tip_4_3_summary">"1. Buka Google Photos
+2. Sentuh &amp; tahan untuk memilih imej
+3. Pilih berbilang imej, jika anda mahu
+4. Ketik Kongsi [icon_span]
+5. Pilih orang untuk berkongsi foto"</string>
+    <string name="tip_4_3_title">Kongsi foto</string>
+    <string name="tip_4_4_link">Bermula</string>
+    <string name="tip_4_4_media_description">Video tentang menghantar mesej daripada komputer anda</string>
+    <string name="tip_4_4_summary">"Anda boleh menghantar teks daripada komputer anda menggunakan Android Messages. Untuk bermula, pergi ke apl Messages anda dan pilih \"Messages untuk web” dalam menu.
+
+Selain menghantar mesej teks, anda boleh menghantar pelekat, emoji dan melampirkan imej."</string>
+    <string name="tip_4_4_title">Hantar teks daripada komputer anda</string>
+    <string name="tip_5_1_link">Pergi ke Tetapan</string>
+    <string name="tip_5_1_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_5_1_link_on">Pergi ke Tetapan</string>
+    <string name="tip_5_1_media_description">Video tentang menyemak telefon anda</string>
+    <string name="tip_5_1_summary">Anda boleh menyemak masa, pemberitahuan dan banyak lagi dengan mengetik skrin anda dua kali.</string>
+    <string name="tip_5_1_title">Ketik dua kali untuk memeriksa telefon</string>
+    <string name="tip_5_2_link">Pergi ke Tetapan</string>
+    <string name="tip_5_2_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_5_2_link_on">Pergi ke Tetapan</string>
+    <string name="tip_5_2_media_description">Video tentang melangkau ke kamera</string>
+    <string name="tip_5_2_summary">Tekan butang kuasa dua kali dari mana-mana skrin untuk menukar kepada mod kamera dengan pantas.</string>
+    <string name="tip_5_2_title">Langkau ke kamera</string>
+    <string name="tip_5_3_link">Pergi ke Tetapan</string>
+    <string name="tip_5_3_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_5_3_link_on">Pergi ke Tetapan</string>
+    <string name="tip_5_3_media_description">Video tentang menukar kepada mod potret</string>
+    <string name="tip_5_3_summary">Untuk menukar kepada dan keluar daripada mod swafoto dalam Kamera, pusing dua kali semasa anda menggunakan apl itu.</string>
+    <string name="tip_5_3_title">Balikkan kamera</string>
+    <string name="tip_5_4_link">Pergi ke Tetapan</string>
+    <string name="tip_5_4_link_off">Hidupkan dalam Tetapan</string>
+    <string name="tip_5_4_link_on">Pergi ke Tetapan</string>
+    <string name="tip_5_4_media_description">Video tentang meleret cap jari untuk pemberitahuan</string>
+    <string name="tip_5_4_summary">"Anda boleh menyemak pemberitahuan dengan meleret ke bawah pada penderia cap jari di bahagian belakang telefon anda.
+Leret sekali lagi untuk melihat Tetapan Pantas."</string>
+    <string name="tip_5_4_title">Leret cap jari untuk pemberitahuan</string>
+    <string name="tip_5_5_media_description">Video tentang menukar apl</string>
+    <string name="tip_5_5_summary">Untuk menukar apl dengan cepat, tatal dari kiri ke kanan di bahagian bawah skrin. Lepaskan untuk membuka apl.</string>
+    <string name="tip_5_5_title">Cara lebih cepat untuk menukar apl</string>
+    <string name="tip_6_1_link">Tetapan Cahaya Malam</string>
+    <string name="tip_6_1_media_description">Video tentang Cahaya Malam</string>
+    <string name="tip_6_1_summary">"Cahaya Malam memberikan seri warna kuning jingga pada skrin anda. Ini memudahkan lagi anda melihat skrin atau membaca dalam cahaya malap dan mungkin dapat membantu anda tidur dengan lebih mudah.
+
+Anda boleh menghidupkan atau mematikan Cahaya Malam dengan pantas dalam Tetapan Pantas. Sebagai alternatif, sentuh sahaja &amp; tahan untuk menyediakan jadual."</string>
+    <string name="tip_6_1_title">Tidur dengan lebih mudah menggunakan Cahaya Malam</string>
+    <string name="tip_6_2_link">Kemas Kini Kesejahteraan Digital</string>
+    <string name="tip_6_2_link_off">Kemas Kini Kesejahteraan Digital</string>
+    <string name="tip_6_2_link_on">Sediakan Rehatkan Diri</string>
+    <string name="tip_6_2_media_description">Video tentang penetapan jadual waktu tidur menggunakan Rehatkan Diri</string>
+    <string name="tip_6_2_summary">"Sediakan jadual waktu malam untuk memutuskan hubungan anda dengan telefon.
+
+1. Buka Kesejahteraan Digital [icon_span]
+2. Ketik Rehatkan Diri
+3. Sediakan jadual Rehatkan Diri anda
+
+Apabila hampir tiba masa untuk tidur, skrin anda akan berubah warna dan Jangan Ganggu akan menghalang pemberitahuan daripada mengganggu tidur anda."</string>
+    <string name="tip_6_2_title">Tetapkan jadual waktu tidur menggunakan Rehatkan Diri</string>
+    <string name="tip_6_3_link">Cuba terbalikkan untuk Diam</string>
+    <string name="tip_6_3_link_off">Kemas Kini Kesejahteraan Digital</string>
+    <string name="tip_6_3_link_on">Pergi ke Tetapan</string>
+    <string name="tip_6_3_media_description">Video tentang menghentikan gangguan dengan pantas</string>
+    <string name="tip_6_3_summary">Dengan ciri terbalikkan untuk Diam, cuma letakkan permukaan hadapan telefon anda ke bawah untuk menghidupkan Jangan Ganggu dan menghentikan pemberitahuan serta bunyi.</string>
+    <string name="tip_6_3_title">Hentikan gangguan dengan pantas</string>
+    <string name="tip_6_4_link">Kemas Kini Kesejahteraan Digital</string>
+    <string name="tip_6_4_link_off">Kemas Kini Kesejahteraan Digital</string>
+    <string name="tip_6_4_link_on">Buka papan pemuka</string>
+    <string name="tip_6_4_media_description">Video tentang Kesejahteraan Digital</string>
+    <string name="tip_6_4_summary">Lihat papan pemuka Kesejahteraan Digital dalam Tetapan untuk melihat paparan masa skrin anda dan tetapkan pemasa untuk apl yang jarang anda gunakan.</string>
+    <string name="tip_6_4_title">Jejak masa skrin anda</string>
+    <string name="tip_7_1_media_description">Video tentang menyusun apl menggunakan folder</string>
+    <string name="tip_7_1_summary">"Buat folder untuk memantau apl anda dengan mudah.
+
+Untuk membuat folder, seret apl di atas apl lain. Anda boleh menamakan folder baharu itu.
+
+Anda boleh menyeret lebih banyak apl ke dalam folder atau seret keluar apl untuk mengalih keluar apl itu."</string>
+    <string name="tip_7_1_title">Susun apl menggunakan folder</string>
+    <string name="tip_7_2_media_description">Video tentang menggunakan 2 apl serentak</string>
+    <string name="tip_7_2_summary">"Anda boleh menggunakan dua apl serentak dengan menyediakan skrin pisah pada telefon anda. Mulakan berbilang tugasan.
+
+1. Leret dari bahagian bawah ke atas skrin anda untuk melihat apl terbaharu anda
+2. Sentuh &amp; tahan ikon apl di bahagian atas skrin
+3. Ketik skrin Pisah
+
+Alihkan pembahagi ke atas dan ke bawah jika perlu. Leretkan ke tepi sebaik sahaja anda selesai."</string>
+    <string name="tip_7_2_title">Lihat dua apl serentak</string>
+    <string name="tip_7_3_link">Buka Google Assistant</string>
+    <string name="tip_7_3_media_description">Video tentang mengawal telefon menggunakan Assistant</string>
+    <string name="tip_7_3_summary">"Assistant dapat membantu anda mengambil tindakan lebih cepat. Untuk bercakap dengan Assistant anda, picit di bahagian bawah telefon anda dengan pantas. Kemudian cuba sebut:
+
+1. \"Ambil swafoto\"
+2. \"Ambil tangkapan skrin\"
+3. \"Hidupkan lampu suluh\""</string>
+    <string name="tip_7_3_title">Gunakan Google Assistant anda untuk membantu tugasan harian</string>
+    <string name="tip_8_1_link">Pasang Google Keep</string>
+    <string name="tip_8_1_link_off">Pasang Google Keep</string>
+    <string name="tip_8_1_link_on">Buka Google Keep</string>
+    <string name="tip_8_1_media_description">Video tentang mengambil nota</string>
+    <string name="tip_8_1_summary">"Dengan apl Google Keep, anda dapat mengabadikan perkara yang anda fikirkan dengan pantas. Tambah nota, senarai, foto dan audio.
+
+Anda juga boleh menetapkan peringatan supaya anda tidak lupa untuk menyelesaikan tugas anda. Keep memudahkan anda untuk berkongsi nota dengan rakan dan keluarga."</string>
+    <string name="tip_8_1_title">Ambil nota dan pelbagai lagi menggunakan Google Keep</string>
+    <string name="tip_8_2_link">Pasang Google News</string>
+    <string name="tip_8_2_link_off">Pasang Google News</string>
+    <string name="tip_8_2_link_on">Buka Google News</string>
+    <string name="tip_8_2_media_description">Video tentang Google News</string>
+    <string name="tip_8_2_summary">"Dapatkan liputan utama berita mutakhir tempatan dan global.
+
+Dengan satu ketik, lihat tajuk berita utama daripada sumber kegemaran anda. Anda akan melihat garis masa detik penting, pendapat, analisis dan pelbagai lagi untuk membantu anda memahami cerita dengan lebih mendalam."</string>
+    <string name="tip_8_2_title">Ikuti perkembangan terkini dengan Google News</string>
+    <string name="tip_8_3_link">Pasang Google Pay</string>
+    <string name="tip_8_3_link_off">Pasang Google Pay</string>
+    <string name="tip_8_3_link_on">Buka Google Pay</string>
+    <string name="tip_8_3_media_description">Video tentang Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay ialah cara pantas untuk membuat pembayaran di jutaan gedung hanya dengan menggunakan telefon Pixel anda. Begini caranya:
+
+1. Tambahkan kad pada Google Pay
+2. Cari simbol tanpa sentuhan [icon_span] semasa pembayaran
+3. Buka kunci telefon anda dan pegang telefon itu berdekatan dengan terminal
+4. Tunggu hingga anda melihat tanda semak
+
+Itu sahaja!"</string>
+    <string name="tip_8_3_title">Bayar menggunakan Pixel anda</string>
+    <string name="tips_nav_a11y_media_description">Video untuk menggunakan gerak isyarat kebolehaksesan baharu</string>
+    <string name="tips_nav_a11y_summary">"Untuk mengakses Pilih untuk Bercakap atau pembesaran, leret ke atas dari bahagian bawah skrin dengan menggunakan dua jari.
+
+Untuk beralih antara apl kebolehaksesan, leret ke atas dengan menggunakan dua jari dan tahan.
+
+Anda boleh menggunakan gerak isyarat ini setelah menyelesaikan persediaan."</string>
+    <string name="tips_nav_a11y_title">Gunakan gerak isyarat kebolehaksesan baharu</string>
+    <string name="title_download_completed_dialog">Muat semula Petua baharu</string>
+    <string name="try_it_text">Cuba</string>
+    <string name="zero_state_primary">Anda sudah membaca semuanya</string>
+    <string name="zero_state_secondary">Semak kembali nanti untuk mendapatkan petua baharu</string>
+</resources>

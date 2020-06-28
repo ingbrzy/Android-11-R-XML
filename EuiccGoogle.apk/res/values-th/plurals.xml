@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">เพิ่ม %1$d หมายเลขในอุปกรณ์เครื่องนี้แล้ว แต่จะใช้ได้ทีละ 1 หมายเลขเท่านั้น</item>
+        <item quantity="one">เพิ่ม %1$d หมายเลขในอุปกรณ์เครื่องนี้แล้ว แต่จะใช้ได้ทีละ 1 หมายเลขเท่านั้น</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">เรากำลังรับ &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s และผู้ให้บริการอื่นอีก %3$d ราย ซึ่งอาจใช้เวลาสักครู่</item>
+        <item quantity="one">เรากำลังรับ &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s และผู้ให้บริการอื่นอีก 1 ราย ซึ่งอาจใช้เวลาสักครู่</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">เรากำลังรับ &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s ซึ่งอาจใช้เวลาสักครู่</item>
+        <item quantity="one">เรากำลังรับหมายเลขจาก %1$s ซึ่งอาจใช้เวลาสักครู่</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">กำลังเพิ่มหมายเลขของคุณ…</item>
+        <item quantity="one">กำลังเพิ่มหมายเลขของคุณ…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">เครือข่ายที่ไม่ได้เปิดใช้งาน</item>
+        <item quantity="one">ไม่ได้เปิดใช้งาน %1$s</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>หมายเลขใหม่ %d หมายเลข&lt;/b>พร้อมที่จะเพิ่มในโทรศัพท์แล้ว คุณต้องลบหมายเลขปัจจุบันออก 1 หมายเลขเพื่อดูหมายเลขใหม่</item>
+        <item quantity="one">&lt;b>หมายเลขใหม่ %d หมายเลข&lt;/b>พร้อมที่จะเพิ่มในโทรศัพท์แล้ว คุณต้องลบหมายเลขปัจจุบันออก 1 หมายเลขเพื่อดูหมายเลขใหม่</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">หากต้องการใช้หมายเลขของคุณ คุณต้องเพิ่มพื้นที่ว่างก่อนโดยการลบหมายเลขที่มีอยู่ออกจากอุปกรณ์เครื่องนี้ คุณดำเนินการได้ภายหลังในการตั้งค่า</item>
+        <item quantity="one">หากต้องการใช้หมายเลขของคุณ คุณต้องเพิ่มพื้นที่ว่างก่อนโดยการลบหมายเลขที่มีอยู่ออกจากอุปกรณ์เครื่องนี้ คุณดำเนินการได้ภายหลังในการตั้งค่า</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d หมายเลข</item>
+        <item quantity="one">%d หมายเลข</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">&lt;b>หมายเลขโทรศัพท์ %d หมายเลข&lt;/b>จากผู้ให้บริการเหล่านี้พร้อมที่จะเพิ่มแล้ว</item>
+        <item quantity="one">&lt;b>หมายเลขโทรศัพท์ %d หมายเลข&lt;/b>จากผู้ให้บริการรายนี้พร้อมที่จะเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">อีก %d หมายเลขพร้อมที่จะเพิ่มแล้ว</item>
+        <item quantity="one">อีก %d หมายเลขพร้อมที่จะเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">หมายเลข %1$s และอีก %2$d หมายเลขพร้อมที่จะเพิ่มแล้ว</item>
+        <item quantity="one">หมายเลข %1$s และอีก %2$d หมายเลขพร้อมที่จะเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">หมายเลข %1$s พร้อมที่จะเพิ่มแล้ว</item>
+        <item quantity="one">หมายเลข %1$s พร้อมที่จะเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">เกิดข้อผิดพลาดบางอย่างขณะพยายามเปิดใช้งานบริการ โปรดติดต่อผู้ให้บริการเครือข่ายเพื่อรับความช่วยเหลือ</item>
+        <item quantity="one">เกิดข้อผิดพลาดบางอย่างขณะพยายามเปิดใช้งานบริการ โปรดติดต่อ %1$s เพื่อรับความช่วยเหลือ</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อ %1$s ที่ %2$s เพื่อรับความช่วยเหลือ</item>
+        <item quantity="one">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อ %1$s ที่ %2$s เพื่อรับความช่วยเหลือ</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อ %1$s เพื่อรับความช่วยเหลือ</item>
+        <item quantity="one">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อ %1$s เพื่อรับความช่วยเหลือ</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อผู้ให้บริการเครือข่ายเพื่อรับความช่วยเหลือ</item>
+        <item quantity="one">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข โปรดติดต่อผู้ให้บริการเครือข่ายเพื่อรับความช่วยเหลือ</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">มี %d หมายเลขที่ใช้กับอุปกรณ์นี้ได้</item>
+        <item quantity="one">มี %d หมายเลขที่ใช้กับอุปกรณ์นี้ได้</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_metadata_confirm_subtitle">
+        <item quantity="other">มี %d หมายเลขที่ใช้กับอุปกรณ์นี้ได้ ผู้ให้บริการเครือข่ายอาจเริ่มเรียกเก็บค่าบริการเมื่อคุณเปิดใช้งาน</item>
+        <item quantity="one">มี %d หมายเลขที่ใช้กับอุปกรณ์นี้ได้ ผู้ให้บริการเครือข่ายอาจเริ่มเรียกเก็บค่าบริการเมื่อคุณเปิดใช้งาน</item>
+    </plurals>
+    <plurals name="q_result_download_metadata_text">
+        <item quantity="other">มี %2$d หมายเลขจาก %1$s ที่ใช้ได้กับอุปกรณ์นี้ %1$s อาจเริ่มเรียกเก็บค่าบริการเมื่อคุณเปิดใช้งาน</item>
+        <item quantity="one">มี 1 หมายเลขจาก %1$s ที่ใช้ได้กับอุปกรณ์นี้ %1$s อาจเริ่มเรียกเก็บค่าบริการเมื่อคุณเปิดใช้งาน</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">มี %2$d หมายเลขจาก %1$s ที่ใช้ได้กับอุปกรณ์นี้</item>
+        <item quantity="one">มี 1 หมายเลขจาก %1$s ที่ใช้ได้กับอุปกรณ์นี้</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">ขออภัย เราเพิ่มหมายเลขจาก %1$s และผู้ให้บริการอื่นอีก %2$d รายไม่ได้</item>
+        <item quantity="one">ขออภัย เราเพิ่มหมายเลขจาก %1$s และผู้ให้บริการอื่นอีก %2$d รายไม่ได้</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">เราเพิ่มหมายเลขจากผู้ให้บริการทั้งหมดไม่ได้</item>
+        <item quantity="one">เราเพิ่ม &lt;b>1 หมายเลข&lt;/b>จากผู้ให้บริการไม่ได้</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">เราเพิ่ม &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s ไม่ได้</item>
+        <item quantity="one">เราเพิ่ม &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s ไม่ได้</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่มหมายเลขจาก %1$s และผู้ให้บริการอื่นอีก %2$d ราย</item>
+        <item quantity="one">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่มหมายเลขจาก %1$s และผู้ให้บริการอื่นอีก %2$d ราย</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่มหมายเลขจากผู้ให้บริการทั้งหมด</item>
+        <item quantity="one">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่ม &lt;b>1 หมายเลข&lt;/b></item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่ม &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s</item>
+        <item quantity="one">มีพื้นที่ว่างไม่เพียงพอที่จะเพิ่ม &lt;b>%2$d หมายเลข&lt;/b>จาก %1$s</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">คุณได้เพิ่ม &lt;b>%1$d หมายเลข&lt;/b>จาก %2$s, %3$s และผู้ให้บริการอื่นอีก %4$d ราย</item>
+        <item quantity="one">คุณได้เพิ่ม &lt;b>%1$d หมายเลข&lt;/b>จาก %2$s และ %3$s</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">คุณได้เพิ่ม &lt;b>%1$d หมายเลข&lt;/b>จาก %2$s</item>
+        <item quantity="one">คุณได้เพิ่ม &lt;b>%1$d หมายเลข&lt;/b>จาก %2$s</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">เพิ่มหมายเลขโทรศัพท์ %1$d หมายเลขแล้ว</item>
+        <item quantity="one">เพิ่มหมายเลขโทรศัพท์แล้ว</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d หมายเลข&lt;/b>จาก %1$s พร้อมที่จะเพิ่มในโทรศัพท์แล้ว</item>
+        <item quantity="one">หมายเลข %1$s พร้อมที่จะเพิ่มในโทรศัพท์แล้ว</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข คุณลองอีกครั้งภายหลังได้ในการตั้งค่า</item>
+        <item quantity="one">เกิดข้อผิดพลาดขณะพยายามเปิดใช้งานหมายเลข คุณลองอีกครั้งภายหลังได้ในการตั้งค่า</item>
+    </plurals>
+</resources>

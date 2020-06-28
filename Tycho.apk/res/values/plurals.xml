@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_member_invitations_no_emails">
+        <item quantity="other">"This doesn't include your %1$s pending invites."</item>
+        <item quantity="one">"This doesn't include your pending invite."</item>
+    </plurals>
+    <plurals name="add_member_pending_invitations">
+        <item quantity="other">"This doesn't include your %2$d pending invites (%1$s)."</item>
+        <item quantity="one">"This doesn't include your pending invite (%1$s)."</item>
+    </plurals>
+    <plurals name="add_member_switch_dialog_to_billcap">
+        <item quantity="other">"If any new members activate before %1$s, you'll be charged the %2$s plan prices for them until the plan switch happens. That's %3$s each, which is %4$s for your group of %5$d.&lt;br>&lt;br>Their service will be prorated starting from their activation date."</item>
+    </plurals>
+    <plurals name="add_member_switch_dialog_to_billcap_pending_invites">
+        <item quantity="other">"If any new members activate before %1$s, you'll be charged the %2$s plan prices for them until the plan switch happens. That's %3$s each, which is %4$s for your group of %5$d.&lt;br>&lt;br>%6$s&lt;br>&lt;br>Their service will be prorated starting from their activation date."</item>
+    </plurals>
+    <plurals name="add_member_switch_dialog_to_unlimited">
+        <item quantity="other">"If any new members activate before %1$s, you'll be charged the %2$s plan prices for them until the plan switch happens. That's %3$s/month for their calls and texts and Bill Protection for your group of %4$d will kick in at %5$s."</item>
+    </plurals>
+    <plurals name="add_member_switch_dialog_to_unlimited_pending_invites">
+        <item quantity="other">"If any new members activate before %1$s, you'll be charged the %2$s plan prices for them until the plan switch happens. That's %3$s/month for their calls and texts and Bill Protection for your group of %4$d will kick in at %5$s.&lt;br>&lt;br>%6$s"</item>
+    </plurals>
+    <plurals name="add_member_switch_to_billcap">
+        <item quantity="other">Starting %4$s, calls &amp;amp; texts will be %1$s﻿/﻿mo for this person, and Bill Protection for your group of %2$s will kick in at &lt;b>%3$s.&lt;/b></item>
+    </plurals>
+    <plurals name="add_member_unlimited_rate">
+        <item quantity="other">"Your new rate will be %1$s each for the %2$s plan (that's %3$s for your group of %4$s)."</item>
+    </plurals>
+    <plurals name="add_member_unlimited_rate_switch_scheduled">
+        <item quantity="other">"Starting %5$s, your new rate will be %1$s each for the %2$s plan (that's %3$s for your group of %4$s)."</item>
+    </plurals>
+    <plurals name="add_member_unlimited_reduced_rate">
+        <item quantity="other">"Your new rate will be reduced to %1$s each for the %2$s plan (that's %3$s for your group of %4$s)."</item>
+    </plurals>
+    <plurals name="bill_cap_cost">
+        <item quantity="other">%1$s/month for %2$s people + %3$s</item>
+        <item quantity="one">%1$s/month for %2$s person + %3$s</item>
+    </plurals>
+    <plurals name="bill_cap_data_item_details_active_members">
+        <item quantity="other">%1$s, no charge past %2$s for a group of %3$d active members</item>
+        <item quantity="one">%1$s, no charge past %2$s for %3$d active member</item>
+    </plurals>
+    <plurals name="bill_cap_info_dialog_description_full_speed_summary">
+        <item quantity="other">"Full-speed data has been restored for %1$s members of your group for %2$s.
+
+Data becomes free after your group uses %3$s, but slows down for any member who uses over %4$s."</item>
+        <item quantity="one">"Full-speed data has been restored for %1$s member of your group for %2$s.
+
+Data becomes free after your group uses %3$s, but slows down for any member who uses over %4$s."</item>
+    </plurals>
+    <plurals name="bill_cap_overview_data_body_new">
+        <item quantity="other">"Data is %2$s. After %3$s, it's on us — so your group of %1$d will never spend over %4$s on data per cycle."</item>
+        <item quantity="one">"Data is %2$s. After %3$s, it's on us — so as an individual, you'll never spend over %4$s on data per cycle."</item>
+    </plurals>
+    <plurals name="data_only_sim_bill_cap_group_cap">
+        <item quantity="other">No extra costs — just pay for the data your group uses up to %1$s for a group of %2$d</item>
+    </plurals>
+    <plurals name="data_only_sim_bill_cap_group_rate_cap">
+        <item quantity="other">No extra costs — just pay %1$s for the data you use up to %2$s for a group of %3$d</item>
+    </plurals>
+    <plurals name="device_insurance_body_unnamed_devices">
+        <item quantity="other">Do you want to continue device protection for %1$d devices?</item>
+        <item quantity="one">Do you want to continue device protection for %1$d device?</item>
+    </plurals>
+    <plurals name="device_protection_description_unnamed_devices">
+        <item quantity="other">Coverage for %1$d devices</item>
+        <item quantity="one">Coverage for %1$d device</item>
+    </plurals>
+    <plurals name="devices_title">
+        <item quantity="other">Devices</item>
+        <item quantity="one">Device</item>
+    </plurals>
+    <plurals name="group_repay_user_count">
+        <item quantity="other">%1$d people repaying</item>
+        <item quantity="one">1 person repaying</item>
+    </plurals>
+    <plurals name="group_term_your_group_insurance_both">
+        <item quantity="other">Device protection coverage will be discontinued for all group members with enrolled devices. Some members (%1$s) will have the option to continue coverage on an individual Fi plan.</item>
+        <item quantity="one">Device protection coverage will be discontinued for all group members with enrolled devices. %1$s will have the option to continue coverage on an individual Fi plan.</item>
+    </plurals>
+    <plurals name="invites_title">
+        <item quantity="other">Invites</item>
+        <item quantity="one">Invite</item>
+    </plurals>
+    <plurals name="line_item_device_replacement_charge">
+        <item quantity="other">Device replacement charges</item>
+        <item quantity="one">Device replacement charge</item>
+    </plurals>
+    <plurals name="line_item_insurance_premium_detail_entry">
+        <item quantity="other">%1$d devices at %2$s/device</item>
+        <item quantity="one">%1$d device at %2$s</item>
+    </plurals>
+    <plurals name="months_left_financing">
+        <item quantity="other">%1$d months left at %2$s﻿/﻿month</item>
+        <item quantity="one">%1$d month left at %2$s﻿/﻿month</item>
+    </plurals>
+    <plurals name="more_friends">
+        <item quantity="other">Plus %1$d more friends</item>
+        <item quantity="one">Plus %1$d more friend</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="n_days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="n_devices">
+        <item quantity="other">%1$d devices</item>
+        <item quantity="one">%1$d device</item>
+    </plurals>
+    <plurals name="n_friends_joined">
+        <item quantity="other">%1$d friends have joined Fi</item>
+        <item quantity="one">%1$d friend has joined Fi</item>
+    </plurals>
+    <plurals name="n_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="n_pending_referrals">
+        <item quantity="other">%1$d referrals under %2$d days</item>
+        <item quantity="one">%1$d referral under %2$d days</item>
+    </plurals>
+    <plurals name="n_people">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="pay_off_devices_body_step_one">
+        <item quantity="other">Schedule payoff of the existing balance on one or more of your devices:</item>
+        <item quantity="one">Schedule payoff of the existing balance on:</item>
+    </plurals>
+    <plurals name="person_or_people">
+        <item quantity="other">People</item>
+        <item quantity="one">Person</item>
+    </plurals>
+    <plurals name="referral_contest_in_progress_count">
+        <item quantity="other">&lt;a href=#textAppearance>%1$d&lt;/a>&lt;br>Referrals made so far</item>
+        <item quantity="one">&lt;a href=#textAppearance>%1$d&lt;/a>&lt;br>Referral made so far</item>
+    </plurals>
+    <plurals name="referral_contest_over_count">
+        <item quantity="other">&lt;a href=#textAppearance>%1$d&lt;/a>&lt;br>Total referrals made</item>
+        <item quantity="one">&lt;a href=#textAppearance>%1$d&lt;/a>&lt;br>Referral made</item>
+    </plurals>
+    <plurals name="referral_contest_over_header_desc">
+        <item quantity="other">"Thanks for participating! We'll be in touch about your gifts. You can still earn %1$s Fi credit for your active referrals by sharing your unique referral code."</item>
+        <item quantity="one">"Thanks for participating! We'll be in touch about your gift. You can still earn %1$s Fi credit for your active referrals by sharing your unique referral code."</item>
+    </plurals>
+    <plurals name="referral_contest_over_header_desc_deadline">
+        <item quantity="other">"Thanks for participating! We'll be in touch about your gifts. You can still earn %1$s Fi credit for your active referrals by sharing your unique referral code. They'll need to use their referral code before %2$s."</item>
+        <item quantity="one">"Thanks for participating! We'll be in touch about your gift. You can still earn %1$s Fi credit for your active referrals by sharing your unique referral code. They'll need to use their referral code before %2$s."</item>
+    </plurals>
+    <plurals name="referral_contest_over_header_desc_fallback">
+        <item quantity="other">"Thanks for participating! We'll be in touch about your gifts. You can still earn Fi credit for your active referrals by sharing your unique referral code."</item>
+        <item quantity="one">"Thanks for participating! We'll be in touch about your gift. You can still earn Fi credit for your active referrals by sharing your unique referral code."</item>
+    </plurals>
+    <plurals name="term_financing">
+        <item quantity="other">"You'll be billed for the remaining balance owed on your devices."</item>
+        <item quantity="one">"You'll be billed for the remaining balance owed on your device."</item>
+    </plurals>
+    <plurals name="term_financing_balance">
+        <item quantity="other">"You'll be billed for the remaining %1$s balance owed on your devices."</item>
+        <item quantity="one">"You'll be billed for the remaining %1$s balance owed on your device."</item>
+    </plurals>
+    <plurals name="term_plan_unlimited">
+        <item quantity="other">"On future bills, you'll pay %1$s for the %2$s remaining people on your plan (%3$s/person)."</item>
+        <item quantity="one">"On future bills, you'll pay %1$s total for just yourself."</item>
+    </plurals>
+    <plurals name="time_elapsed_talk_back_format">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="unlimited_cost">
+        <item quantity="other">%1$s/month for %2$d people</item>
+        <item quantity="one">%1$s/month for %2$d person</item>
+    </plurals>
+    <plurals name="unlimited_cost_add_member">
+        <item quantity="other">%1$d people, %2$s each</item>
+        <item quantity="one">%1$d person, %2$s</item>
+    </plurals>
+    <plurals name="voice_for_x">
+        <item quantity="other">Calls &amp; texts for %1$d</item>
+        <item quantity="one">Calls &amp; texts</item>
+    </plurals>
+    <plurals name="x_days_left">
+        <item quantity="other">%1$d days left</item>
+        <item quantity="one">%1$d day left</item>
+    </plurals>
+    <plurals name="x_days_left_sentence">
+        <item quantity="other">Your current cycle ends in %1$d days</item>
+        <item quantity="one">Your current cycle ends in %1$d day</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_25">false</item>
+</resources>

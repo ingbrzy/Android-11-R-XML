@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Dezinstalare anulată) %1$d de aplicații dezinstalate</item>
+        <item quantity="one">(Dezinstalare anulată) %1$d aplicație dezinstalată</item>
+        <item quantity="few">(Dezinstalare anulată) %1$d aplicații dezinstalate</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d de aplicații dezinstalate</item>
+        <item quantity="one">%1$d aplicație dezinstalată</item>
+        <item quantity="few">%1$d aplicații dezinstalate</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">%1$d de fișiere copiate</item>
+        <item quantity="one">%1$d fișier copiat</item>
+        <item quantity="few">%1$d fișiere copiate</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">S-au copiat %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">S-au copiat %1$d dosare și %2$d fișier</item>
+        <item quantity="few">S-au copiat %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">S-au copiat %1$d de dosare</item>
+        <item quantity="one">S-a copiat %1$d dosar</item>
+        <item quantity="few">S-au copiat %1$d dosare</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">S-au copiat %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">S-au copiat %1$d dosar și %2$d fișier</item>
+        <item quantity="few">S-au copiat %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d de fișiere șterse</item>
+        <item quantity="one">%1$d fișier șters</item>
+        <item quantity="few">%1$d fișiere șterse</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Au fost șterse %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">Au fost șterse %1$d dosare și %2$d fișier</item>
+        <item quantity="few">Au fost șterse %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Au fost șterse %1$d de dosare</item>
+        <item quantity="one">A fost șters %1$d dosar</item>
+        <item quantity="few">Au fost șterse %1$d dosare</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Au fost șterse %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">Au fost șterse %1$d dosar și %2$d fișier</item>
+        <item quantity="few">Au fost șterse %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">%1$d de fișiere mutate</item>
+        <item quantity="one">%1$d fișier mutat</item>
+        <item quantity="few">%1$d fișiere mutate</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Au fost mutate %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">Au fost mutate %1$d dosare și %2$d fișier</item>
+        <item quantity="few">Au fost mutate %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Au fost mutate %1$d de dosare</item>
+        <item quantity="one">A fost mutat %1$d dosar</item>
+        <item quantity="few">Au fost mutate %1$d dosare</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Au fost mutate %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">Au fost mutate %1$d dosar și %2$d fișier</item>
+        <item quantity="few">Au fost mutate %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Astfel, se vor șterge definitiv și %1$d de fișiere din dosar</item>
+        <item quantity="one">Astfel, se va șterge definitiv și %1$d fișier din dosar</item>
+        <item quantity="few">Astfel, se vor șterge definitiv și %1$d fișiere din dosar</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Ștergeți %1$d de fișiere?</item>
+        <item quantity="one">Ștergeți %1$d fișier?</item>
+        <item quantity="few">Ștergeți %1$d fișiere?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Ștergeți %1$d de dosare și %2$d de fișiere?</item>
+        <item quantity="one">Ștergeți un dosar și %2$d fișier?</item>
+        <item quantity="few">Ștergeți %1$d dosare și %2$d fișiere?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Ștergeți %1$d de dosare și un fișier?</item>
+        <item quantity="one">Ștergeți un dosar și un fișier?</item>
+        <item quantity="few">Ștergeți %1$d dosare și un fișier?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Ștergeți %1$d de dosare?</item>
+        <item quantity="one">Ștergeți %1$d dosar?</item>
+        <item quantity="few">Ștergeți %1$d dosare?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Sunteți pe cale să ștergeți %1$d de elemente</item>
+        <item quantity="one">Sunteți pe cale să ștergeți %1$d element</item>
+        <item quantity="few">Sunteți pe cale să ștergeți %1$d elemente</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Mutați %1$d de fișiere?</item>
+        <item quantity="one">Mutați %1$d fișier?</item>
+        <item quantity="few">Mutați %1$d fișiere?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Nu s-au putut copia fișierele. %1$s</item>
+        <item quantity="one">Nu s-a putut copia fișierul. %1$s</item>
+        <item quantity="few">Nu s-au putut copia fișierele. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Se copiază %1$d de fișiere</item>
+        <item quantity="one">Se copiază %1$d fișier</item>
+        <item quantity="few">Se copiază %1$d fișiere</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Se copiază %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">Se copiază %1$d dosare și %2$d fișier</item>
+        <item quantity="few">Se copiază %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Se copiază %1$d de dosare</item>
+        <item quantity="one">Se copiază %1$d dosar</item>
+        <item quantity="few">Se copiază %1$d dosare</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Se copiază %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">Se copiază %1$d dosar și %2$d fișier</item>
+        <item quantity="few">Se copiază %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Ștergeți %1$d de fișiere duplicat</item>
+        <item quantity="one">Ștergeți %1$d fișier duplicat</item>
+        <item quantity="few">Ștergeți %1$d fișiere duplicat</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Nu s-au putut șterge fișierele. %1$s</item>
+        <item quantity="one">Nu s-a putut șterge fișierul. %1$s</item>
+        <item quantity="few">Nu s-au putut șterge fișierele. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Eliberați %1$d de elemente meme</item>
+        <item quantity="one">Eliberați %1$d element meme</item>
+        <item quantity="few">Eliberați %1$d elemente meme</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Se șterg %1$d de fișiere</item>
+        <item quantity="one">Se șterge %1$d fișier</item>
+        <item quantity="few">Se șterg %1$d fișiere</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Se șterg %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">Se șterg %1$d dosare și %2$d fișier</item>
+        <item quantity="few">Se șterg %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Se șterg %1$d de dosare</item>
+        <item quantity="one">Se șterge %1$d dosar</item>
+        <item quantity="few">Se șterg %1$d dosare</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Se șterg %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">Se șterg %1$d dosar și %2$d fișier</item>
+        <item quantity="few">Se șterg %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Elementele există deja pe %s</item>
+        <item quantity="one">Elementul există deja pe %s</item>
+        <item quantity="few">Elementele există deja pe %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Nu s-au putut extrage fișierele. %1$s</item>
+        <item quantity="one">Nu s-a putut extrage fișierul. %1$s</item>
+        <item quantity="few">Nu s-au putut extrage fișierele. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">%1$d de fișiere extrase</item>
+        <item quantity="one">%1$d fișier extras</item>
+        <item quantity="few">%1$d fișiere extrase</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s nu a trimis %2$d de fișiere către %3$s</item>
+        <item quantity="one">%1$s nu a trimis %2$d fișier către %3$s</item>
+        <item quantity="few">%1$s nu a trimis %2$d fișiere către %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d de fișiere se află deja în %2$s și nu vor fi copiate</item>
+        <item quantity="one">%1$d fișier se află deja în %2$s și nu va fi copiat</item>
+        <item quantity="few">%1$d fișiere se află deja în %2$s și nu vor fi copiate</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d de fișiere se află deja în %2$s și nu vor fi mutate</item>
+        <item quantity="one">%1$d fișier se află deja în %2$s și nu va fi mutat</item>
+        <item quantity="few">%1$d fișiere se află deja în %2$s și nu vor fi mutate</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">Nu s-au putut șterge %1$d din %2$d de fișiere. Sunt necesare permisiuni pentru cardul SD.</item>
+        <item quantity="one">Nu s-a putut șterge %1$d fișier. Sunt necesare permisiuni pentru cardul SD.</item>
+        <item quantity="few">Nu s-au putut șterge %1$d din %2$d fișiere. Sunt necesare permisiuni pentru cardul SD.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s de fișiere</item>
+        <item quantity="one">%1$s fișier</item>
+        <item quantity="few">%1$s fișiere</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d de fișiere vor fi copiate</item>
+        <item quantity="one">%1$d fișier va fi copiat</item>
+        <item quantity="few">%1$d fișiere vor fi copiate</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d de fișiere vor fi mutate</item>
+        <item quantity="one">%1$d fișier va fi mutat</item>
+        <item quantity="few">%1$d fișiere vor fi mutate</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d de fișiere</item>
+        <item quantity="one">%1$s, %2$d fișier</item>
+        <item quantity="few">%1$s, %2$d fișiere</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">%1$d de fișiere în total</item>
+        <item quantity="one">%1$d fișier în total</item>
+        <item quantity="few">%1$d fișiere în total</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s de dosare</item>
+        <item quantity="one">%1$s dosar</item>
+        <item quantity="few">%1$s dosare</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Google Play Protect a găsit %1$s de aplicații dăunătoare pe dispozitiv</item>
+        <item quantity="one">Google Play Protect a găsit o aplicație dăunătoare pe dispozitiv</item>
+        <item quantity="few">Google Play Protect a găsit %1$s aplicații dăunătoare pe dispozitiv</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d de ore</item>
+        <item quantity="one">%1$d oră</item>
+        <item quantity="few">%1$d ore</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Eliminați %1$d de fișiere media</item>
+        <item quantity="one">Eliminați %1$d un fișier media</item>
+        <item quantity="few">Eliminați %1$d fișiere media</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d de minute</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Nu s-au putut muta fișierele. %1$s</item>
+        <item quantity="one">Nu s-a putut muta fișierul. %1$s</item>
+        <item quantity="few">Nu s-au putut muta fișierele. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Se mută %1$d de fișiere</item>
+        <item quantity="one">Se mută %1$d fișier</item>
+        <item quantity="few">Se mută %1$d fișiere</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Se mută %1$d de dosare și %2$d de fișiere</item>
+        <item quantity="one">Se mută %1$d dosare și %2$d fișier</item>
+        <item quantity="few">Se mută %1$d dosare și %2$d fișiere</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Se mută %1$d de dosare</item>
+        <item quantity="one">Se mută %1$d dosar</item>
+        <item quantity="few">Se mută %1$d dosare</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Se mută %1$d dosar și %2$d de fișiere</item>
+        <item quantity="one">Se mută %1$d dosar și %2$d fișier</item>
+        <item quantity="few">Se mută %1$d dosar și %2$d fișiere</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d de secunde</item>
+        <item quantity="one">%1$d secundă</item>
+        <item quantity="few">%1$d secunde</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s trimite %2$d de fișiere către %3$s</item>
+        <item quantity="one">%1$s trimite %2$d fișier către %3$s</item>
+        <item quantity="few">%1$s trimite %2$d fișiere către %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s a trimis %2$d de fișiere către %3$s</item>
+        <item quantity="one">%1$s a trimis %2$d fișier către %3$s</item>
+        <item quantity="few">%1$s a trimis %2$d fișiere către %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">Destinatari ai fișierelor</item>
+        <item quantity="one">Destinatar al fișierelor</item>
+        <item quantity="few">Destinatari ai fișierelor</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Opriți copierea pentru %1$d de fișiere?</item>
+        <item quantity="one">Opriți copierea pentru „%2$s”?</item>
+        <item quantity="few">Opriți copierea pentru %1$d fișiere?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Opriți ștergerea celor %1$d de fișiere?</item>
+        <item quantity="one">Opriți ștergerea fișierului „%2$s”?</item>
+        <item quantity="few">Opriți ștergerea celor %1$d fișiere?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Nu mai mutați %1$d de fișiere?</item>
+        <item quantity="one">Nu mai mutați „%2$s”?</item>
+        <item quantity="few">Nu mai mutați %1$d fișiere?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Dezinstalați %1$d de aplicații vechi</item>
+        <item quantity="one">Dezinstalați %1$d aplicație veche</item>
+        <item quantity="few">Dezinstalați %1$d aplicații vechi</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">și încă %1$d de fișiere</item>
+        <item quantity="one">și încă %1$d fișier</item>
+        <item quantity="few">și încă %1$d fișiere</item>
+    </plurals>
+</resources>

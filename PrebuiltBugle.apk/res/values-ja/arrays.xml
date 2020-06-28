@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>レストラン</item>
+        <item>映画</item>
+        <item>天気</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>レストラン</item>
+        <item>付近で上映中の映画</item>
+        <item>天気</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>件名なし</item>
+        <item>件名なし</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>ラブ</item>
+        <item>はい</item>
+        <item>キス</item>
+        <item>ハロー</item>
+        <item>ハグ</item>
+        <item>パーティー</item>
+        <item>怒り</item>
+        <item>ワクワク</item>
+        <item>バイバイ</item>
+        <item>爆笑</item>
+        <item>涙</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>はい</item>
+        <item>いいえ</item>
+        <item>OK</item>
+        <item>笑</item>
+        <item>ありがとう</item>
+        <item>賛成</item>
+        <item>ナイス</item>
+        <item>今向かっています</item>
+        <item>了解、後で連絡します</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS でリンクを送信</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>常に SMS として再送信する</item>
+        <item>ローミング中以外は SMS として再送信する</item>
+        <item>再送信する前に確認メッセージを表示する</item>
+        <item>SMS として再送信しない</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>常に SMS または MMS として再送信する</item>
+        <item>ローミング中以外は SMS または MMS として再送信する</item>
+        <item>再送信する前に確認メッセージを表示する</item>
+        <item>SMS または MMS として再送信しない</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

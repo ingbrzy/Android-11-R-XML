@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d kohdetta skannattu</item>
+        <item quantity="one">%1$d kohde skannattu</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d kohdetta valittu</item>
+        <item quantity="one">%1$d kohde valittu</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Albumi olisi ylittänyt kooltaan nykyisen %1$d kohteen rajan.</item>
+        <item quantity="one">Albumi olisi ylittänyt kooltaan nykyisen %1$d kohteen rajan.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumissa olisi %1$d kohdetta.</item>
+        <item quantity="one">Albumissa olisi %1$d kohde.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d sijaintia lisättiin</item>
+        <item quantity="one">%d sijainti lisättiin</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d sijaintia</item>
+        <item quantity="one">%d sijainti</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d karttaa</item>
+        <item quantity="one">%d kartta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d karttaa lisättiin</item>
+        <item quantity="one">%d kartta lisättiin</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Poistetaan kohteita albumista…</item>
+        <item quantity="one">Poistetaan kohdetta albumista…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d kohdetta poistettiin</item>
+        <item quantity="one">%d kohde poistettiin</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Poistetaan kuvia albumista…</item>
+        <item quantity="one">Poistetaan kuva albumista…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Poistetaan videoita albumista…</item>
+        <item quantity="one">Poistetaan videota albumista…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Poista laitteesta (%d)</item>
+        <item quantity="one">Poista laitteesta (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Poista kaikki laitteesta (%d)</item>
+        <item quantity="one">Poista kaikki laitteesta (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Siirrä roskakoriin (%d)</item>
+        <item quantity="one">Siirrä roskakoriin (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d arkistoitu</item>
+        <item quantity="one">%d kohde arkistoitu</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d poistettu arkistosta</item>
+        <item quantity="one">%d kohde poistettu arkistosta</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s ja %3$d muuta</item>
+        <item quantity="one">%1$s, %2$s ja %3$d muu</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s ja %2$d muuta</item>
+        <item quantity="one">%1$s ja %2$d muu</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">Ladataan %d kohdetta</item>
+        <item quantity="one">Ladataan %d kohde</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d kohdetta ei ole varmuuskopioitu, koska tallennustila on täynnä</item>
+        <item quantity="one">%d kohdetta ei ole varmuuskopioitu, koska tallennustila on täynnä</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d kohdetta jäljellä</item>
+        <item quantity="one">%d kohde jäljellä</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d varmuuskopioitavaa kohdetta jäljellä</item>
+        <item quantity="one">%d varmuuskopioitava kohde jäljellä</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d kohdetta jäljellä • Korkea laatu</item>
+        <item quantity="one">%d kohde jäljellä • Korkea laatu</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d kohdetta jäljellä • Alkuperäinen laatu</item>
+        <item quantity="one">%d kohde jäljellä • Alkuperäinen laatu</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Ladataan %d kohdetta</item>
+        <item quantity="one">Ladataan %d kohde</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d kohdetta jäljellä</item>
+        <item quantity="one">%d kohde jäljellä</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d varmuuskopioitavaa kohdetta jäljellä</item>
+        <item quantity="one">%d varmuuskopioitava kohde jäljellä</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d kuvaa ei ole varmuuskopioitu.</item>
+        <item quantity="one">%1$d kuvaa ei ole varmuuskopioitu.</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Varmuuskopioidaan %d kohdetta</item>
+        <item quantity="one">Varmuuskopioidaan %d kohde</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Ladataan %d kohdetta</item>
+        <item quantity="one">Ladataan %d kohdetta</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Ladataan %d videota.</item>
+        <item quantity="one">Ladataan %d video.</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d kohdetta ladattavana</item>
+        <item quantity="one">%d kohde ladattavana</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d videota ladattavana</item>
+        <item quantity="one">%d video ladattavana</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d varmuuskopioimatonta kuvaa</item>
+        <item quantity="one">%d varmuuskopioimaton kuva</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Kaikki %d kuvaa</item>
+        <item quantity="one">Kaikki %d kuvaa</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">%1$d kuvaa ei varmuuskopioitu, koska tilin tallennustila on täynnä</item>
+        <item quantity="one">%1$d kuvaa ei varmuuskopioitu, koska tilin tallennustila on täynnä</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">%1$d kuvaa ei varmuuskopioida, koska tallennustilasi on täynnä</item>
+        <item quantity="one">%1$d kuvaa ei varmuuskopioida, koska tallennustilasi on täynnä</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d kohdetta lisätty</item>
+        <item quantity="one">%1$d kohde lisätty</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Valitse enintään %d kohdetta.</item>
+        <item quantity="one">Valitse enintään %d kohde.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Valitse ainakin %d kohdetta.</item>
+        <item quantity="one">Valitse ainakin %d kohde.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Valitse kohteet, joiden aikaväli on %d päivää.</item>
+        <item quantity="one">Valitse kohteet, joiden aikaväli on %d päivä.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d tuntia sitten</item>
+        <item quantity="one">%d tunti sitten</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d vk</item>
+        <item quantity="one">%d vk</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d viikkoa sitten</item>
+        <item quantity="one">%d viikko sitten</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">%d minuutti sitten</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d pv</item>
+        <item quantity="one">%d pv</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Poista %1$d kohdetta laitteesta</item>
+        <item quantity="one">Poista %1$d kohde laitteesta</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Poistetaan %1$d alkuperäistä kuvaa ja videota.</item>
+        <item quantity="one">Poistetaan %1$d alkuperäinen kuva tai video.</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d uutta korttia</item>
+        <item quantity="one">1 uusi kortti</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d kohdetta lisätty</item>
+        <item quantity="one">%d kohde lisätty</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d päivitystä</item>
+        <item quantity="one">%1$d päivitys</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Nähnyt: %1$s, %2$s ja %3$d muuta</item>
+        <item quantity="one">Nähnyt: %1$s, %2$s ja %3$d muu</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d kommenttia</item>
+        <item quantity="one">%1$d kommentti</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Tallennetaan kohteita kirjastoon…</item>
+        <item quantity="one">Tallennetaan kohdetta kirjastoon…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s tykkäsi %2$d kuvasta • %3$s</item>
+        <item quantity="one">%1$s tykkäsi %2$d kuvasta • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s tykkäsi %2$d videosta • %3$s</item>
+        <item quantity="one">%1$s tykkäsi %2$d videosta • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">valitse %d kohdetta</item>
+        <item quantity="one">valitse %d kohde</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Poista kansio, jossa on %d kohdetta</item>
+        <item quantity="one">Poista kansio, jossa on %d kohde</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Poista laitteesta (%d)</item>
+        <item quantity="one">Poista laitteesta (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d kohteen kopioiminen epäonnistui.</item>
+        <item quantity="one">%d kohteen kopioiminen epäonnistui.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d kohdetta kopioitu</item>
+        <item quantity="one">%d kohde kopioitu</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d kohteen siirtäminen epäonnistui.</item>
+        <item quantity="one">%d kohteen siirtäminen epäonnistui.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d kohdetta siirretty</item>
+        <item quantity="one">%d kohde siirretty</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d suositeltua otosta</item>
+        <item quantity="one">%d suositeltu otos</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d vuotta sitten</item>
+        <item quantity="one">%d vuosi sitten</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Kierrä %d astetta vastapäivään</item>
+        <item quantity="one">Kierrä %d astetta vastapäivään</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Kuvat %d henkilöstä</item>
+        <item quantity="one">Kuvat %d henkilöstä</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Kuvat %d valituista kasvoista</item>
+        <item quantity="one">Kuvat %d valituista kasvoista</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d kasvot valittu</item>
+        <item quantity="one">%d kasvot valittu</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Kuvat %1$d valituista kasvoista %2$s lähtien</item>
+        <item quantity="one">Kuvat %1$d valituista kasvoista %2$s lähtien</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Kuvat %d valituista kasvoista</item>
+        <item quantity="one">Kuvat %d valituista kasvoista</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d kuvaa poistettu</item>
+        <item quantity="one">%1$d kuva poistettu</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Valitse vain %d henkilöä</item>
+        <item quantity="one">Valitse vain %d henkilö</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d kuvaa</item>
+        <item quantity="one">%1$d kuva</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Vain %d kuvaa voidaan tulostaa.</item>
+        <item quantity="one">Vain %d kuva voidaan tulostaa.</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">Sinulle ehdotettiin %d kuvaa.</item>
+        <item quantity="one">Sinulle ehdotettiin %d kuvaa.</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d ehdotettua kuvaa</item>
+        <item quantity="one">%d ehdotettu kuva</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d lisäsivua</item>
+        <item quantity="one">%d lisäsivu</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d sivua</item>
+        <item quantity="one">%d sivu</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Lisää vielä %d ostettavaa kuvaa</item>
+        <item quantity="one">Lisää vielä %d ostettava kuva</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d sivua lisätty</item>
+        <item quantity="one">%d sivu lisätty</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d kuvaa lisätty</item>
+        <item quantity="one">%d kuva lisätty</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d sivua poistettu</item>
+        <item quantity="one">%d sivu poistettu</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d kuvaa poistettu</item>
+        <item quantity="one">%d kuva poistettu</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d lisäsivua</item>
+        <item quantity="one">%d lisäsivu</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d sivua</item>
+        <item quantity="one">%d sivu</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">Lisätty %1$d kuvaa %2$s tulosteena</item>
+        <item quantity="one">Lisätty %1$d kuva %2$s tulosteena</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Voit valita tilaukseen enintään %1$d tulostetta, joiden koko on %2$s</item>
+        <item quantity="one">Voit valita tilaukseen enintään %1$d tulosteen, jonka koko on %2$s</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Luonnoksen jatkamiseen tarvitaan vähintään %1$d kuvaa.</item>
+        <item quantity="one">Luonnoksen jatkamiseen tarvitaan vähintään %1$d kuva.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d tulostetta</item>
+        <item quantity="one">%1$d tuloste</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%1$d/%2$d kohdetta ladattu</item>
+        <item quantity="one">%1$d/%2$d kohdetta ladattu</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Palautetaanko %d kohdetta?</item>
+        <item quantity="one">Palautetaanko %d kohde?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d viimeaikaista kohdetta palautettiin laitteelle</item>
+        <item quantity="one">1 viimeaikainen kohde palautettiin laitteelle</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d kuvaa ja videota palautettiin</item>
+        <item quantity="one">1 kuva tai video palautettiin</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d kuvaa</item>
+        <item quantity="one">%d kuva</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d kohdetta on lisätty albumiin.</item>
+        <item quantity="one">%d kohde on lisätty albumiin.</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Ladataan %d kohdetta.</item>
+        <item quantity="one">Ladataan %d kohde.</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d kohdetta lähetetään, kun yhteys on muodostettu.</item>
+        <item quantity="one">%d kohde lähetetään, kun yhteys on muodostettu.</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Alkuperäiset tiedostot</item>
+        <item quantity="one">Alkuperäinen tiedosto</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Tiedostot</item>
+        <item quantity="one">Tiedosto</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Pienet tiedostot</item>
+        <item quantity="one">Pieni tiedosto</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s ja %2$d muuta</item>
+        <item quantity="one">%1$s ja %2$d muu</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Lisätäänkö %d aiheeseen liittyvää kuvaa?</item>
+        <item quantity="one">Lisätäänkö %d aiheeseen liittyvä kuva?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d kuvaa lisättiin automaattisesti</item>
+        <item quantity="one">%1$d kuva lisättiin automaattisesti</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d uutta valokuvaa</item>
+        <item quantity="one">%1$d uusi valokuva</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s lisäsi %2$d uutta kuvaa</item>
+        <item quantity="one">%1$s lisäsi %2$d uuden kuvan</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Kohteita ei voi poistaa.</item>
+        <item quantity="one">Kohdetta ei voi poistaa.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d kohdetta ei voi poistaa</item>
+        <item quantity="one">%d kohdetta ei voi poistaa</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d kohdetta ei voi poistaa pysyvästi.</item>
+        <item quantity="one">%d kohdetta ei voi poistaa pysyvästi.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d poistettu laitteesta</item>
+        <item quantity="one">%d poistettu laitteesta</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Palautetaan kohteita…</item>
+        <item quantity="one">Palautetaan kohde…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d kohdetta ei voi palauttaa.</item>
+        <item quantity="one">%d kohdetta ei voi palauttaa.</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Poistetaanko kohteet pysyvästi?</item>
+        <item quantity="one">Poistetaanko kohde pysyvästi?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Poista %d kohdetta pysyvästi</item>
+        <item quantity="one">Poista %d kohde pysyvästi</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Tämä versio vanhenee %d päivän kuluttua. Päivitä nyt, jotta voit jatkaa Google Kuvien käyttämistä.</item>
+        <item quantity="one">Tämä versio vanhenee 1 päivän kuluttua. Päivitä nyt, jotta voit jatkaa Google Kuvien käyttämistä.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Ladataan %d kohdetta.</item>
+        <item quantity="one">Ladataan %d kohde.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d kohdetta ladataan, kun yhteys on muodostettu.</item>
+        <item quantity="one">%d kohde ladataan, kun yhteys on muodostettu.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d kohdetta ladataan, kun Wi-Fi-yhteys on muodostettu.</item>
+        <item quantity="one">%d kohde ladataan, kun Wi-Fi-yhteys on muodostettu.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Lähetetään… %d jäljellä</item>
+        <item quantity="one">Lähetetään… %d jäljellä</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d tiedostoa</item>
+        <item quantity="one">%d tiedosto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s kuvaa</item>
+        <item quantity="one">%s kuva</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s kohdetta</item>
+        <item quantity="one">%s kohde</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s videota</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Valitse kuvat</item>
+        <item quantity="one">Valitse kuva</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Valitse kohteet</item>
+        <item quantity="one">Valitse kohde</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Valitse videot</item>
+        <item quantity="one">Valitse video</item>
+    </plurals>
+</resources>

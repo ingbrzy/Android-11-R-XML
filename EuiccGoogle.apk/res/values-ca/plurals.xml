@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">"S'han afegit %1$d números al dispositiu, però no se'n pot utilitzar més d'1 alhora"</item>
+        <item quantity="one">"S'ha afegit %1$d número al dispositiu, però no se'n pot utilitzar més d'1 alhora"</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">"Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s i %3$d operadors més. Això pot tardar una estona."</item>
+        <item quantity="one">"Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s i 1 operador més. Això pot tardar una estona."</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">"Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s. Això pot tardar una estona."</item>
+        <item quantity="one">"Estem baixant el teu número de l'operador %1$s. Això pot tardar una estona."</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">"S'estan afegint els teus números…"</item>
+        <item quantity="one">"S'està afegint el teu número…"</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Les xarxes no estan activades</item>
+        <item quantity="one">%1$s no està activat</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">"Ja es poden afegir al telèfon &lt;b>%d números nous&lt;/b>. Per veure'ls, has de suprimir un dels números actuals."</item>
+        <item quantity="one">"Ja es pot afegir al telèfon &lt;b>%d número nou&lt;/b>. Per veure'l, has de suprimir un dels números actuals."</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Per utilitzar els números, cal que suprimeixis números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.</item>
+        <item quantity="one">Per utilitzar el número, cal que suprimeixis números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d números</item>
+        <item quantity="one">%d número</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">"Ja es poden afegir &lt;b>%d números de telèfon&lt;/b> d'aquests operadors"</item>
+        <item quantity="one">"Ja es pot afegir &lt;b>%d número de telèfon&lt;/b> d'aquest operador"</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">Ja pots afegir els teus %d números addicionals</item>
+        <item quantity="one">Ja pots afegir %d número addicional</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">"Ja pots afegir els teus números de l'operador %1$s i %2$d més"</item>
+        <item quantity="one">"Ja pots afegir el teu número de l'operador %1$s i %2$d més"</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">"Ja pots afegir els teus números de l'operador %1$s"</item>
+        <item quantity="one">"Ja pots afegir el teu número de l'operador %1$s"</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">"S'ha produït un error en provar d'activar el servei. Contacta amb els teus proveïdors de xarxa per obtenir ajuda."</item>
+        <item quantity="one">"S'ha produït un error en provar d'activar el servei. Contacta amb %1$s per obtenir ajuda."</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">"S'ha produït un error en intentar activar els números. Truca a %1$s al número %2$s per obtenir ajuda."</item>
+        <item quantity="one">"S'ha produït un error en intentar activar el número. Truca a %1$s al número %2$s per obtenir ajuda."</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">"S'ha produït un error en intentar activar els números. Contacta amb %1$s per obtenir ajuda."</item>
+        <item quantity="one">"S'ha produït un error en intentar activar el número. Contacta amb %1$s per obtenir ajuda."</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">"S'ha produït un error en intentar activar els números. Contacta amb els teus proveïdors de xarxa per obtenir ajuda."</item>
+        <item quantity="one">"S'ha produït un error en intentar activar el número. Contacta amb el teu proveïdor de xarxa per obtenir ajuda."</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">Hi ha %d números disponibles per a aquest dispositiu</item>
+        <item quantity="one">Hi ha %d número disponible per a aquest dispositiu</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_metadata_confirm_subtitle">
+        <item quantity="other">"Hi ha %d números disponibles per a aquest dispositiu. El proveïdor de xarxa pot començar a aplicar càrrecs pel servei quan l'activis."</item>
+        <item quantity="one">"Hi ha %d número disponible per a aquest dispositiu. El proveïdor de xarxa pot començar a aplicar càrrecs pel servei quan l'activis."</item>
+    </plurals>
+    <plurals name="q_result_download_metadata_text">
+        <item quantity="other">"Hi ha %2$d números de l'operador %1$s disponibles per a aquest dispositiu. %1$s pot començar a aplicar càrrecs pel servei quan l'activis."</item>
+        <item quantity="one">"Hi ha 1 número de l'operador %1$s disponible per a aquest dispositiu. %1$s pot començar a aplicar càrrecs pel servei quan l'activis."</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">"Hi ha %2$d números de l'operador %1$s disponibles per a aquest dispositiu"</item>
+        <item quantity="one">"Hi ha 1 número de l'operador %1$s disponible per a aquest dispositiu"</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">"No hem pogut afegir els números de l'operador %1$s i %2$d operadors més."</item>
+        <item quantity="one">"No hem pogut afegir els números de l'operador %1$s i %2$d operador més."</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">No hem pogut afegir els números de cap dels teus operadors.</item>
+        <item quantity="one">No hem pogut afegir &lt;b>1 número&lt;/b> del teu operador.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">"No hem pogut afegir &lt;b>%2$d números&lt;/b> de l'operador %1$s."</item>
+        <item quantity="one">"No hem pogut afegir &lt;b>%2$d número&lt;/b> de l'operador %1$s."</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">"No hi ha prou espai per afegir els números de l'operador %1$s i %2$d operadors més."</item>
+        <item quantity="one">"No hi ha prou espai per afegir els números de l'operador %1$s i %2$d operador més."</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">No hi havia prou espai per afegir els números de cap dels teus operadors.</item>
+        <item quantity="one">No hi havia prou espai per afegir &lt;b>1 número&lt;/b>.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">"No hi ha prou espai per afegir &lt;b>%2$d números&lt;/b> de l'operador %1$s."</item>
+        <item quantity="one">"No hi ha prou espai per afegir &lt;b>%2$d número&lt;/b> de l'operador %1$s."</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Has afegit &lt;b>%1$d números&lt;/b> dels operadors %2$s, %3$s i %4$d operadors més</item>
+        <item quantity="one">Has afegit &lt;b>%1$d números&lt;/b> dels operadors %2$s i %3$s</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">"Has afegit &lt;b>%1$d números&lt;/b> de l'operador %2$s"</item>
+        <item quantity="one">"Has afegit &lt;b>%1$d número&lt;/b> de l'operador %2$s"</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">"S'han afegit %1$d números de telèfon"</item>
+        <item quantity="one">"S'ha afegit un número de telèfon"</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">"Ja es poden afegir al telèfon &lt;b>%2$d números&lt;/b> de l'operador %1$s"</item>
+        <item quantity="one">"Ja es pot afegir al telèfon el teu número de l'operador %1$s"</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">"S'ha produït un error en intentar activar els números. Pots tornar-ho a provar més tard a Configuració."</item>
+        <item quantity="one">"S'ha produït un error en intentar activar el número. Pots tornar-ho a provar més tard a Configuració."</item>
+    </plurals>
+</resources>

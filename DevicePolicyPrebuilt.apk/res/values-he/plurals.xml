@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">לא ניתן להשלים את ההגדרה כיוון שההתקנה של %1$d אפליקציות נדרשות נכשלה. יש לפנות ישירות אל מנהל המערכת.</item>
+        <item quantity="one">לא ניתן להשלים את ההגדרה כיוון שההתקנה של אפליקציה נדרשת (%1$d) נכשלה. יש לפנות ישירות אל מנהל המערכת.</item>
+        <item quantity="two">לא ניתן להשלים את ההגדרה כיוון שההתקנה של %1$d אפליקציות נדרשות נכשלה. יש לפנות ישירות אל מנהל המערכת.</item>
+        <item quantity="many">לא ניתן להשלים את ההגדרה כיוון שההתקנה של %1$d אפליקציות נדרשות נכשלה. יש לפנות ישירות אל מנהל המערכת.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">לא ניתן להתקין את האפליקציות</item>
+        <item quantity="one">לא ניתן להתקין את האפליקציה</item>
+        <item quantity="two">לא ניתן להתקין את האפליקציות</item>
+        <item quantity="many">לא ניתן להתקין את האפליקציות</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">הותקנו %1$d אפליקציות מתוך %2$d</item>
+        <item quantity="one">הותקנה אפליקציה אחת (%1$d) מתוך %2$d</item>
+        <item quantity="two">הותקנו %1$d אפליקציות מתוך %2$d</item>
+        <item quantity="many">הותקנו %1$d אפליקציות מתוך %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">הסרת התקנה של אפליקציות</item>
+        <item quantity="one">הסרת התקנה של אפליקציה</item>
+        <item quantity="two">הסרת התקנה של אפליקציות</item>
+        <item quantity="many">הסרת התקנה של אפליקציות</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">נותרו &lt;annotation id="numeric_time_left">^1&lt;/annotation> ימים</item>
+        <item quantity="one">נותר יום אחד (&lt;annotation id="numeric_time_left">^1&lt;/annotation>)</item>
+        <item quantity="two">נותרו יומיים (&lt;annotation id="numeric_time_left">^1&lt;/annotation>)</item>
+        <item quantity="many">נותרו &lt;annotation id="numeric_time_left">^1&lt;/annotation> ימים</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">נותרו &lt;annotation id="numeric_time_left">^1&lt;/annotation> שעות</item>
+        <item quantity="one">נותרה שעה אחת (&lt;annotation id="numeric_time_left">^1&lt;/annotation>)</item>
+        <item quantity="two">נותרו שעתיים (&lt;annotation id="numeric_time_left">^1&lt;/annotation>)</item>
+        <item quantity="many">נותרו &lt;annotation id="numeric_time_left">^1&lt;/annotation> שעות</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">הותקנו %1$d אפליקציות מתוך %2$d</item>
+        <item quantity="one">הותקנה %1$d אפליקציה מתוך %2$d</item>
+        <item quantity="two">הותקנו %1$d אפליקציות מתוך %2$d</item>
+        <item quantity="many">הותקנו %1$d אפליקציות מתוך %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d אפליקציות זמינות (%2$d מותקנות, %3$d מושבתות)</item>
+        <item quantity="one">%1$d אפליקציה זמינה (%2$d מותקנות, %3$d מושבתות)</item>
+        <item quantity="two">%1$d אפליקציות זמינות (%2$d מותקנות, %3$d מושבתות)</item>
+        <item quantity="many">%1$d אפליקציות זמינות (%2$d מותקנות, %3$d מושבתות)</item>
+    </plurals>
+</resources>

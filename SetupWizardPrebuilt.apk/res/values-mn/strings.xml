@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Дээш шилжих</string>
+    <string name="abc_action_mode_done">Болсон</string>
+    <string name="abc_capital_off">ИДЭВХГҮЙ</string>
+    <string name="abc_capital_on">ИДЭВХТЭЙ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">устгах</string>
+    <string name="abc_menu_enter_shortcut_label">оруулах</string>
+    <string name="abc_menu_function_shortcut_label">Функц+</string>
+    <string name="abc_menu_meta_shortcut_label">Мета+</string>
+    <string name="abc_menu_shift_shortcut_label">Шифт+</string>
+    <string name="abc_menu_space_shortcut_label">зай</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Цэс+</string>
+    <string name="abc_search_hint">Хайх…</string>
+    <string name="abc_searchview_description_clear">Асуулга арилгах</string>
+    <string name="abc_searchview_description_search">Хайх</string>
+    <string name="abc_searchview_description_submit">Асуулга илгээх</string>
+    <string name="abc_searchview_description_voice">Дуут хайлт</string>
+    <string name="abc_toolbar_collapse_description">Буулгах</string>
+    <string name="accessibility_no_wifi">Wifi холбогдоогүй байна.</string>
+    <string name="accessibility_wifi_one_bar">Wifi дохио нэг баганатай байна.</string>
+    <string name="accessibility_wifi_security_type_none">Нээлттэй сүлжээ</string>
+    <string name="accessibility_wifi_security_type_secured">Аюулгүй сүлжээ</string>
+    <string name="accessibility_wifi_signal_full">Wifi дохио дүүрэн байна.</string>
+    <string name="accessibility_wifi_three_bars">Wifi дохио гурван баганатай байна.</string>
+    <string name="accessibility_wifi_two_bars">Wifi дохио хоёр баганатай байна.</string>
+    <string name="account_exists_info">"Таны имэйл, харилцагч, календарийн арга хэмжээ болон дэлгэрэнгүйг {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-д синк хийнэ. Та мөн Google Play-с апп татаж авах, хөгжим болон тоглоом эхлүүлэхэд бэлэн байна.
+
+Та дараа Тохиргоо > Бүртгэл рүү очиж бүртгэл нэмэх болон хасах боломжтой."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> бэлэн байна.</string>
+    <string name="account_exists_text_unknown_name">Таны бүртгэл бэлэн.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Бүртгэл нэмсэн}other{Бүртгэлүүд нэмсэн}}</string>
+    <string name="activating_carrier_service_text">Үүнд хэдэн минут шаардлагатай</string>
+    <string name="activating_unknown_carrier_service_title">Идэвхжүүлж байна…</string>
+    <string name="activation_failed_message">"Та:
+"<ul><li>Мобайл датад дахин холбогдож үзэх</li>"
+"<li>Тохируулахад өөр сүлжээ ашиглах</li></ul>" боломжтой 
+
+Хэрэв эдгээр сонголт ажиллахгүй байвал та дахин оролдохын тулд{DEVICE_TYPE,select, PHONE{утсаа}TABLET{таблетаа}other{төхөөрөмжөө}} дахин эхлүүлэх боломжтой."</string>
+    <string name="activation_failed_title">Мобайл датад холбогдох боломжгүй байна</string>
+    <string name="activation_progress_flow">"Хэтэрхий удаж байна уу?
+
+Мобайл датад холбогдоход хэт удаж байна. Та буцаад, өөр сүлжээнд холбогдохоор оролдоно уу."</string>
+    <string name="activation_title">Мобайл үйлчилгээтэй холбогдож байна…</string>
+    <string name="activation_unprovisioned_sim_message">Дараах {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-г шинэчилж дахин оролдох эсвэл тохиргоо хийхийн тулд Wi‑Fi-д холбогдоно уу. Хэрэв танд мобайл датаг идэвхжүүлэхэд асуудалтай хэвээр байвал оператор компанитайгаа холбогдоно уу.</string>
+    <string name="activation_unprovisioned_title">Мобайл датаг идэвхжүүлж чадсангүй</string>
+    <string name="android_privacy_policy_title">Нэмэлт Нууцлалын Бодлого</string>
+    <string name="available_via_carrier">%1$s-р боломжтой</string>
+    <string name="cancel_button_label">Цуцлах</string>
+    <string name="captive_portal_connection_unsuccessful">Интернэтэд холбогдож чадсангүй</string>
+    <string name="captive_portal_description_text">Үүнд хэдэн хором шаардлагатай</string>
+    <string name="captive_portal_ssl_error_text">Энэ холболт аюултай, эсвэл хүчингүй сертификат ашиглаж байна. Өөр сүлжээ сонгоод дахин оролдоно уу.</string>
+    <string name="captive_portal_title">Холбогдож байна...</string>
+    <string name="chrome_privacy_title">Chrome Нууцлалын Бодлого</string>
+    <string name="chrome_tos_title">Chrome Үйлчилгээний Нөхцөл</string>
+    <string name="close_button_label">Хаах</string>
+    <string name="common_google_play_services_enable_button">Идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_install_button">Суулгах</string>
+    <string name="common_google_play_services_install_text">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээг авах</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-н үйлчилгээнүүдийн боломжит байдал</string>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="common_google_play_services_unsupported_text">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_google_play_services_update_text">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_google_play_services_updating_text">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="connect_to_wifi_btn_text">Wi‑Fi-н тохиргоо</string>
+    <string name="connect_to_wifi_message">Үргэлжлүүлэхийн тулд Wi-Fi-д холбогдох</string>
+    <string name="connect_to_wifi_title">Аппын шинэчлэлт бэлэн байна</string>
+    <string name="connected_via_app">%1$s-р холбогдсон</string>
+    <string name="connected_via_carrier">%1$s-р холбогдсон</string>
+    <string name="connected_via_network_scorer_default">Сүлжээний үнэлгээ үзүүлэгчээр автоматаар холбогдох</string>
+    <string name="consolidate_captive_portal_description_text">Үүнд хэдэн минут шаардлагатай</string>
+    <string name="consolidate_captive_portal_title">Шинэчлэлтийг шалгаж байна…</string>
+    <string name="continue_for_a11y">Хялбаршуулсан горимыг идэвхжүүлэхийн тулд дохио дугартал дэлгэцэнд үргэлжлүүлэн хүрнэ үү.</string>
+    <string name="date_time_current_date">Огноо</string>
+    <string name="date_time_current_time">Цаг</string>
+    <string name="date_time_message">Шаардлагатай бол тохируулна уу.</string>
+    <string name="date_time_setup_title">Огноо, цаг</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Үргэлжлүүлэх</string>
+    <string name="decision_point_google_assistant">Google Туслах</string>
+    <string name="decision_point_illustration_description">Нэмэлт алхамд Google Туслах, Google Pay, Now Playing, фонтын хэмжээ, ханын зураг болон бусад зүйл багтана</string>
+    <string name="decision_point_leave_setup">Орхиод сануулга авах</string>
+    <string name="decision_point_now_playing">Now Playing</string>
+    <string name="default_device_name_device">төхөөрөмж</string>
+    <string name="default_device_name_phone">утас</string>
+    <string name="default_device_name_tablet">таблет</string>
+    <string name="deferred_notification_prompt_title">^1 төхөөрөмжөө тохируулж дуусгах</string>
+    <string name="deferred_setup_button_label">Тохиргоог дуусгах</string>
+    <string name="deferred_setup_wizard_reason_assistant">Туслахтайгаа ярих</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">Google Туслахтайгаа ярих</string>
+    <string name="deferred_setup_wizard_reason_default">Цөөн хэдэн алхам үлдлээ</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">өгөгдлөө хуулах</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay-г ашиглах</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay-р хурдан төлөх</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 болон бусад</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2, болон бусад</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Цөөн алхам хийснээр таны ^1 ашиглахад бэлэн болно</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">ханын зураг тохируулах</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">ханын зургаа тохируулах</string>
+    <string name="deferred_setup_wizard_title">Төхөөрөмжөө тохируулж дуусгах</string>
+    <string name="deferred_snooze_dialog_option_never">Огт үгүй</string>
+    <string name="deferred_snooze_dialog_option_today">Өнөөдөр оройхон</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Маргааш</string>
+    <string name="deferred_snooze_dialog_title">Надад сануулах</string>
+    <string name="deferred_welcome_airplane_mode_message">"Сүүлийн хэдэн алхмыг гүйцээхийн тулд танд холболт шаардлагатай.
+
+Нислэгийн горим асаалттай үед Wi‑Fi, мобайл сүлжээ болон Bluetooth холболтоос салах болно."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Дараа тохируулах</string>
+    <string name="deferred_welcome_airplane_mode_title">Нислэгийн горимыг унтраах уу?</string>
+    <string name="deferred_welcome_screen_cancel_button">Надад дараа сануулна уу</string>
+    <string name="deferred_welcome_title">^1-н тохиргоог дуусгах</string>
+    <string name="deferred_welcome_turn_off_button_label">Унтраах</string>
+    <string name="device_owner_continue">Тохируулгыг үргэлжлүүлэх</string>
+    <string name="device_owner_reset">{DEVICE_TYPE,select, PHONE{Утас}TABLET{Таблет}other{Төхөөрөмж}}-г шинэчлэх</string>
+    <string name="device_owner_warning">{0} таны {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-г удирдаж байгаа ба таны мэдээлэлд хандах боломжтой. Хэрэв та {0}-н хандалтыг хүсэхгүй байвал {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-г шинэчилнэ үү.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Утас}TABLET{Таблет}other{Төхөөрөмж}}-г хянах боломжтой</string>
+    <string name="dialog_back_button_label">Буцах</string>
+    <string name="dialog_continue_button_label">Үргэлжлүүлэх</string>
+    <string name="early_update_installing_updates_text">Шинэчлэлтийг суулгаж байна</string>
+    <string name="early_update_text">Үүнд хэдэн хором шаардлагатай</string>
+    <string name="early_update_timeout_text">Хэтэрхий удаж байна уу? Буцаад өөр сүлжээнд холбогдоно уу.</string>
+    <string name="early_update_title">Шинэчлэлтийг шалгаж байна...</string>
+    <string name="emergency_dial">Яаралтай дуудлага</string>
+    <string name="enabled_a11y">Хялбаршуулсан горим идэвхжив.</string>
+    <string name="esim_option_button_summary">eSIM ашиглан дугаар нэмнэ үү</string>
+    <string name="esim_option_button_title">Оронд нь SIM-г татах уу?</string>
+    <string name="esim_warning_title">СИМ-ээ татаж авах</string>
+    <string name="esim_warning_txt">Ta %1$s-н захиалагч бол SIM карт оруулахын оронд eSIM татаж дуудлага, текст болон өгөгдөл авах боломжтой.</string>
+    <string name="esim_warning_txt_default">Ихэвчлэн СИМ карт дээр байдаг мэдээллийг татаж, мобайл сүлжээндээ холбогдоно уу. Энэ нь стандарт СИМ картыг орлодог бөгөөд үүнтэй ижил аюулгүй болно.</string>
+    <string name="exit_loading_launcher">Эхлүүлэгчийг ачаалж байна…</string>
+    <string name="factory_reset_button">Устгах, шинэчлэх</string>
+    <string name="factory_reset_confirmation">Энэ {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-с бүх бүртгэл болон өгөгдлийг устгах уу? Та энэ үйлдлийг болих боломжгүй!</string>
+    <string name="factory_reset_confirmation_title">Дахин тохируулах уу?</string>
+    <string name="factory_reset_instructions">Анхааруулга: Шинэчилснээр {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-н дотоод сангийн бүх бүртгэл, өгөгдлийг устгах болно.</string>
+    <string name="factory_reset_title">{DEVICE_TYPE,select, PHONE{Утас}TABLET{Таблет}other{Төхөөрөмж}}-г шинэчлэх</string>
+    <string name="final_hold_description_text">Үүнд хэдэн хором шаардлагатай</string>
+    <string name="final_hold_title">Сүүлийн алхмыг хийж байна...</string>
+    <string name="final_hold_title_setup_work_account">Утсыг ажлын тохиргоонд бэлтгэж байна...</string>
+    <string name="gms_account_checkin_title">Бүртгэлийн мэдээллийг авч байна...</string>
+    <string name="gms_checkin_description_text">Үүнд хэдэн хором шаардлагатай</string>
+    <string name="gms_checkin_description_text_timeout">Хэтэрхий удаж байна уу? Буцаад, өөр сүлжээнд холбогдоно уу.</string>
+    <string name="gms_checkin_title">Шинэчлэлтийг шалгаж байна...</string>
+    <string name="go_back_button_label">Буцах</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play Үйлчилгээний Нөхцөл</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Нууцлалын Бодлого</string>
+    <string name="google_privacy_policy_title">Google Нууцлалын Бодлого</string>
+    <string name="google_provisioning_disclaimer_content">Google-н Үйлчилгээний нөхцөл ба Нууцлалын бодлого хэрэгждэг. Дэлгэрэнгүй мэдээлэл авах бол &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>-д зочилно уу.</string>
+    <string name="google_terms_of_service_title">Google Үйлчилгээний Нөхцөл</string>
+    <string name="invalid_phone_number">Тодорхойгүй утасны дугаар</string>
+    <string name="invalid_qr_code_content">IT админаасаа зөв код асууна уу</string>
+    <string name="invalid_qr_code_retry">Дахин оролдох</string>
+    <string name="invalid_qr_code_title">Хурдан хариу үйлдлийн код буруу байна</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari болон iTunes нь Apple Inc. корпорацийн худалдааны тэмдгүүд бөгөөд АНУ болон бусад оронд бүртгэлтэй байдаг.</string>
+    <string name="language_picker_section_all">Бүх хэл</string>
+    <string name="language_picker_section_suggested">Санал болгосон</string>
+    <string name="migrate_from_ios_description">Эдгээр алхмыг хийнэ үү:</string>
+    <string name="migrate_from_ios_header">Өгөгдлөө хуулах</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari®-г нээх</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b>-д очих</string>
+    <string name="migrate_from_ios_instructions_3">3. Зааврыг дагах</string>
+    <string name="network_description_text">Сүлжээ сонгох</string>
+    <string name="network_description_text_esim">СИМ-ээ татахын тулд Wi-Fi-д холбогдоно уу</string>
+    <string name="network_see_all_wifi">Бүх Wi‑Fi сүлжээг харах</string>
+    <string name="network_timeout_description_text">Өөр сүлжээ ашиглан дахин оролдоно уу. Хэрэв та холболтгүйгээр үргэлжлүүлбэл зарим тохируулгын алхмыг дараа дуусгах боломжтой.</string>
+    <string name="network_timeout_title">Холбогдож чадсангүй</string>
+    <string name="network_timeout_try_another_network_button">Өөр сүлжээ ашиглах</string>
+    <string name="network_title">Wi-Fi-д холбогдох</string>
+    <string name="network_use_cellular">Тохируулахын тулд мобайл сүлжээг ашиглана уу</string>
+    <string name="network_use_cellular_carrier">Wi-Fi-д дараа холбогдох</string>
+    <string name="network_wifi_continue_button">Үргэлжлүүлэх</string>
+    <string name="not_set">Тохируулаагүй</string>
+    <string name="notification_channel_name_deferred">Нэмэлт тохиргоо</string>
+    <string name="notification_channel_name_initial">Тохируулга</string>
+    <string name="notification_channel_name_restore">Өгөгдөл сэргээлт</string>
+    <string name="notification_channel_security_name_warnings">Аюулгүй байдлын сануулга</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Та үргэлжлүүлэх болон энэ програмын шинэчлэлийг хүлээн авсанаар <annotation link="tos">Google Үйлчилгээний нөхцөл</annotation> болон <annotation link="google_privacy">Нууцлалын бодлого</annotation>-г зөвшөөрч байна.</string>
+    <string name="ota_info">Таны {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}} шинэчлэлтийг татаж авж дахин эхлүүлэх шаардлагатай.</string>
+    <string name="ota_size">Хэмжээ: %s</string>
+    <string name="ota_update_title">Дараахийг шинэчлэх {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}</string>
+    <string name="predeferred_prepare_setup">Тохируулахад бэлдэж байна…</string>
+    <string name="predeferred_prepare_setup_details">Та ^1-г удахгүй тохируулж дуусгах боломжтой</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Wi-Fi-д холбогдох</string>
+    <string name="predeferred_wifi_required_notification_content">Үргэлжлүүлэхийн тулд Wi-Fi-д холбогдох</string>
+    <string name="predeferred_wifi_required_notification_title">Аппын шинэчлэлт бэлэн байна</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Хурдан хариу үйлдлийн кодыг скан хийж байна</string>
+    <string name="region_picker_section_all">Бүх бүс нутаг</string>
+    <string name="restart_setup_wizard_button_label">Тохируулах {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Та энэ {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-г ашиглахын тулд эхлээд эзэмшигчийн Google Бүртгэлд {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-с хамгийн сүүлд шинэчлэх үед нэвтрэх шаардлагатай.
+
+Та дуусгаагүй учир {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-г дахин тохируулах шаардлагатай."</string>
+    <string name="restart_setup_wizard_dialog_title">Нэвтрээгүй байна</string>
+    <string name="restore_failed_message">Нөөцлөлтийг сэргээх боломжгүй</string>
+    <string name="restore_no_backup_message">Таны өөр төхөөрөмжид нөөцөлсөн зүйлс байхгүй байна</string>
+    <string name="restore_no_backup_title">Сэргээх боломжгүй</string>
+    <string name="restore_stopped_message">Нөөцлөлтийг сэргээж чадсангүй</string>
+    <string name="restore_title">Сэргээж байна…</string>
+    <string name="setup_ongoing_notification_text">^1-н тохируулгыг дуусгахын тулд товшино уу</string>
+    <string name="setup_ongoing_notification_title">^1-г тохируулж байна</string>
+    <string name="setup_wizard_title">Андройдын тохиргоо</string>
+    <string name="sim_locked_text">"Энэ утсыг одоогоор өөр оператор компанид ашиглах боломжгүй байна. Та хүчинтэй SIM карт ашиглах шаардлагатай.
+
+SIM картаа оруулсны дараа үүнийг идэвхжих хүртэл хэдэн секунд хүлээнэ үү."</string>
+    <string name="sim_locked_title">SIM картыг дэмжээгүй</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Танд SIM карт байвал одоо оруулна уу}other{Танд SIM карт байвал одоо оруулна уу}}</string>
+    <string name="sim_missing_title">Мобайл сүлжээнд холбогдох</string>
+    <string name="sim_ready_message">%1$s-г ашиглахад бэлэн байх хэрэгтэй</string>
+    <string name="sim_ready_message_carrier_app">%1$s-г идэвхжүүлж дуусгахын тулд %2$s аппыг татах шаардлагатай болно. Одоо таны утсыг тохируулж дуусгая.</string>
+    <string name="sim_ready_message_invalid_phone_number">Таны дугаар ашиглахад бэлэн байх ёстой</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Дугаараа идэвхжүүлж дуусгахын тулд %1$s аппыг татах шаардлагатай болно. Одоо таны утсыг тохируулж дуусгая.</string>
+    <string name="sim_ready_title">%1$s идэвхтэй байна</string>
+    <string name="sim_ready_title_carrier_app">%1$s-д дараа холбогдоно уу</string>
+    <string name="sim_setup_ask_every_time">Тухай бүрд асуух</string>
+    <string name="sim_setup_select_data">Мобайл датаны сонголт</string>
+    <string name="sim_setup_select_data_description">Мобайл дата ашиглах дугаараа сонгоно уу</string>
+    <string name="sim_setup_select_text">SMS-н сонголт</string>
+    <string name="sim_setup_select_text_description">Мессеж илгээхэд ашиглах дугаараа сонгоно уу (бүх идэвхтэй дугаар ирж буй мессежийг хүлээн авах боломжтой)</string>
+    <string name="sim_setup_select_voice">Дуудлагын сонголт</string>
+    <string name="sim_setup_select_voice_description">Дуудлага хийхэд ашиглах дугаараа сонгоно уу (бүх идэвхтэй дугаар ирж буй дуудлагыг ххүлээн авах боломжтой)</string>
+    <string name="sim_setup_title">SIM карт тохируулах</string>
+    <string name="skip_anyway_button_label">Алгасах</string>
+    <string name="skip_button_label">Алгасах</string>
+    <string name="skip_toast">Setup Wizard-г алгассан</string>
+    <string name="slots_selection_item_summary_activating">Идэвхжүүлж байна…</string>
+    <string name="slots_selection_item_summary_error">Одоогоор идэвхжүүлж чадсангүй</string>
+    <string name="slots_selection_title">Ашиглах дугаараа сонгоно уу</string>
+    <string name="speed_label_fast">Хурдан</string>
+    <string name="speed_label_okay">ЗА</string>
+    <string name="speed_label_slow">Удаан</string>
+    <string name="speed_label_very_fast">Маш хурдан</string>
+    <string name="sud_back_button_label">Буцах</string>
+    <string name="sud_more_button_label">Бусад</string>
+    <string name="sud_next_button_label">Дараах</string>
+    <string name="suggested_actions_description">Oдоо нэмж хэдэн зүйл тохируулна уу. Эсвэл тэдгээрийг дараа Тохиргоо хэсгээс олно уу.</string>
+    <string name="suggested_actions_description_single_item">^1-д тохируулах нэг зүйл байна. Та үүнийг дараа нь Тохиргоо хэсгээс олох боломжтой.</string>
+    <string name="suggested_actions_done_label">Дууслаа</string>
+    <string name="suggested_actions_no_thanks_label">Үгүй баярлалаа</string>
+    <string name="suggested_actions_title">Өөр юу байна?</string>
+    <string name="switch_camera">Камер солих</string>
+    <string name="switch_to_back_camera_button_content_description">Арын камер</string>
+    <string name="switch_to_front_camera_button_content_description">Урд камер</string>
+    <string name="switched_to_back_camera_announcement">Товчлуур нь урд талын камер боллоо</string>
+    <string name="switched_to_front_camera_announcement">Товчлуур нь ард талын камер боллоо</string>
+    <string name="tap_to_sign_up">Бүртгүүлэхийн тулд товшино уу</string>
+    <string name="terminate_toast">"Setup Wizard-г зогсоосон
+Төхөөрөмж провижн хийгдээгүй"</string>
+    <string name="try_again_button_label">Дахин оролдоно уу.</string>
+    <string name="url_load_unsuccessful_message">Таны {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}} мобайл интернэт үйлчилгээнд холбогдоогүй байна. Энэ мэдээллийг одоо харахын тулд вэб хөтчид {0} руу очно уу.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Таны {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}} Wi‑Fi сүлжээнд холбогдоогүй байна. Энэ мэдээллийг одоо үзэхийн тулд вэб хөтчөөр {0}-д зочилно уу.</string>
+    <string name="user_warning_cannot_switch_message">Эзэмшигч хэрэглэгч рүү буцааж сэлгэх боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="user_warning_label_continue">Үргэлжлүүлэх</string>
+    <string name="user_warning_label_quit">Цуцлах</string>
+    <string name="user_warning_quit_dialog_button_keep">Хэрэглэгчийг байлгах</string>
+    <string name="user_warning_quit_dialog_button_remove">Хэрэглэгчийг устгах</string>
+    <string name="user_warning_quit_dialog_message">Хэрэглэгчийг устгах уу?</string>
+    <string name="user_warning_title">Шинэ хэрэглэгч тохируулах</string>
+    <string name="wait_msg">Түр хүлээнэ үү…</string>
+    <string name="web_dialog_unable_to_view">Энэ мэдээллийг одоо харахын тулд вэб хөтчөөр ^1-д зочилно уу.</string>
+    <string name="welcome_accessibility_button">Харааны тохиргоо</string>
+    <string name="welcome_language_picker_content_description">Хэл: %s</string>
+    <string name="welcome_language_picker_dialog_title">Хэлээ сонгоно уу</string>
+    <string name="welcome_message">Сайн байна уу?</string>
+    <string name="welcome_secondary_user_added_text">Та үүнийг нэмсэн {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Чухал:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-н эзэмшигч таны аппуудыг устгах эсвэл таны хэрэглэгчийн профайлыг бүрэн хасах боломжтой</li>"
+
+"<li>Бусад дурын хэрэглэгч шинэчилсэн аппын зөвшөөрлийг зөвшөөрөх боломжтой</li>"
+
+"<li>Зөвхөн итгэдэг хүмүүстэйгээ энэ {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}}-ийг хуваалцана уу</li></ul></string>
+    <string name="welcome_start_button_label">Эхлэх</string>
+    <string name="wifi_add_new_network">Шинэ сүлжээ нэмэх</string>
+    <string name="wifi_and_mobile_skipped_message">"Wi‑Fi эсвэл мобайл сүлжээнд холбогдох нь танд{DEVICE_TYPE,select, PHONE{утсаа}TABLET{таблетаа}other{төхөөрөмжөө}} шуурхай тохируулахад тусалдаг.
+
+Холболтгүйгээр та дараах үйлдлийг хийх боломжгүй:
+
+"<ul><li>Google Бүртгэлдээ нэвтрэх</li>"
+
+"<li>Апп болон өгөгдөл сэргээх</li>"
+
+"<li>Программ хангамжийг шинэчлэх</li>"
+
+"<li>Цаг болон огноог автоматаар тохируулах</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Wi‑Fi эсвэл мобайл сүлжээнд холбогдох нь танд {DEVICE_TYPE,select, PHONE{утсаа}TABLET{таблетаа}other{төхөөрөмжөө}} шуурхай тохируулахад тусалдаг.
+
+Холболтгүйгээр та дараах үйлдлийг хийх боломжгүй:
+
+"<ul><li>Google Бүртгэлдээ нэвтрэх</li>"
+
+"<li>Апп болон өгөгдөл сэргээх</li>"
+
+"<li>СИМ татах</li>"
+
+"<li>Программ хангамжийг шинэчлэх</li>"
+
+"<li>Цаг болон огноог автоматаар тохируулах</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Хандах цэг түр хугацаанд дүүрсэн байна</string>
+    <string name="wifi_check_password_try_again">Нууц үгийг шалгаад дахин оролдоно уу</string>
+    <string name="wifi_connected_no_internet">Холбогдсон хэдий ч интернет алга</string>
+    <string name="wifi_disabled_by_recommendation_provider">Сүлжээний чанар муу байгаа тул холбогдож чадсангүй</string>
+    <string name="wifi_disabled_generic">Идэвхгүйжүүлсэн</string>
+    <string name="wifi_disabled_network_failure">IP тохируулга амжилтгүй</string>
+    <string name="wifi_disabled_password_failure">Гэрчлэлийн асуудал</string>
+    <string name="wifi_fail_to_scan">Сүлжээнүүдийг скан хийх боломжгүй</string>
+    <string name="wifi_ip_address_not_available">Бoломжгүй</string>
+    <string name="wifi_ip_address_title">IP хаяг</string>
+    <string name="wifi_limited_connection">Хязгаарлагдмал холболт</string>
+    <string name="wifi_mac_address_not_available">Боломжгүй</string>
+    <string name="wifi_mac_address_title">MAC хаяг</string>
+    <string name="wifi_metered_label">Хязгаартай</string>
+    <string name="wifi_no_internet">Интернет хандалт алга</string>
+    <string name="wifi_no_internet_no_reconnect">Автоматаар холбогдохгүй</string>
+    <string name="wifi_not_in_range">Хүрээнд байхгүй</string>
+    <string name="wifi_remembered">Хадгалагдсан</string>
+    <string name="wifi_scanning">Wi‑Fi сүлжээ хайж байна…</string>
+    <string name="wifi_set_up_offline_title">Офлайн горимд тохируулах уу?</string>
+    <string name="wifi_skip_button_label">Офлайнаар тохируулах</string>
+    <string name="wifi_skipped_message">Таны {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}} тохиргоо хийх үед мобайл сүлжээг ашиглах ба танаас дата ашиглалтад төлбөр нэмэмжилж болзошгүй. Боломжит төлбөр нэхэмжлэлээс зайлсхийхийн тулд Wi‑Fi-д холбогдоно уу.</string>
+    <string name="wifi_skipped_title">Гарч болох дата төлбөр</string>
+    <string name="wifi_title">Wi-Fi-д холбогдох</string>
+    <string name="wifi_unmetered_label">Хязгааргүй</string>
+    <string name="work_profile_setup_description">Энэ төхөөрөмжийг ажлынх болгон тохируулж, ажлын өгөгдлийг хувийнхаас салгах зорилгоор</string>
+    <string name="work_profile_setup_next">Дараах</string>
+    <string name="work_profile_setup_skip">Ажлын тохируулгыг алгасах</string>
+    <string name="work_profile_setup_title">Ажлын бүртгэлээ нэмнэ үү</string>
+    <string name="work_setup_interrupted">"Бид энэ {DEVICE_TYPE,select, PHONE{утсанд}TABLET{таблетад}other{төхөөрөмжид}} хэвийн бус үйл ажиллагаа илрүүлсэн бөгөөд та үргэлжлүүлэн тохируулсан тохиолдолд таны өгөгдөл эрсдэлд орж болзошгүй.
+
+Эхнээс нь эхлүүлэхийн тулд энэ {DEVICE_TYPE,select, PHONE{утсыг}TABLET{таблетыг}other{төхөөрөмжийг}} шинэчилнэ үү."</string>
+    <string name="work_setup_interrupted_title">Энэ {DEVICE_TYPE,select, PHONE{утас}TABLET{таблет}other{төхөөрөмж}} аюултай байж болзошгүй</string>
+</resources>

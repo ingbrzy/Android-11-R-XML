@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d itens digitalizados</item>
+        <item quantity="one">%1$d item digitalizado</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">O novo tamanho do álbum seria maior do que o limite atual de %1$d itens.</item>
+        <item quantity="one">O novo tamanho do álbum seria maior do que o limite atual de %1$d item.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">O álbum teria %1$d itens.</item>
+        <item quantity="one">O álbum teria %1$d item.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d locais adicionados</item>
+        <item quantity="one">%d local adicionado</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d locais</item>
+        <item quantity="one">%d local</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d mapas</item>
+        <item quantity="one">%d mapa</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d mapas adicionados</item>
+        <item quantity="one">%d mapa adicionado</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Removendo os itens deste álbum…</item>
+        <item quantity="one">Removendo o item deste álbum…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d itens removidos</item>
+        <item quantity="one">%d item removido</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Removendo as fotos deste álbum…</item>
+        <item quantity="one">Removendo a foto deste álbum…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Removendo os vídeos deste álbum…</item>
+        <item quantity="one">Removendo o vídeo deste álbum…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Excluir do dispositivo (%d)</item>
+        <item quantity="one">Excluir do dispositivo (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Excluir tudo do dispositivo (%d)</item>
+        <item quantity="one">Excluir tudo do dispositivo (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Mover p/ lixeira (%d)</item>
+        <item quantity="one">Mover p/ lixeira (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d itens arquivados</item>
+        <item quantity="one">%d item arquivado</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d itens desarquivados</item>
+        <item quantity="one">%d item desarquivado</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s e mais %3$d pessoas</item>
+        <item quantity="one">%1$s, %2$s e mais %3$d pessoa</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s e mais %2$d pessoas</item>
+        <item quantity="one">%1$s e mais %2$d pessoa</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionado</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">Fazendo upload de %d itens</item>
+        <item quantity="one">Fazendo upload de %d item</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d itens não foram armazenados em backup porque o armazenamento da sua conta está cheio</item>
+        <item quantity="one">%d item não foi armazenado em backup porque o armazenamento da sua conta está cheio</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d itens restantes</item>
+        <item quantity="one">%d item restante</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d itens restantes para fazer backup</item>
+        <item quantity="one">%d item restante para fazer backup</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d itens restantes • Alta qualidade</item>
+        <item quantity="one">%d item restante • Alta qualidade</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d itens restantes • Qualidade original</item>
+        <item quantity="one">%d item restante • Qualidade original</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Fazendo upload de %d itens</item>
+        <item quantity="one">Fazendo upload de %d item</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d itens restantes</item>
+        <item quantity="one">%d item restante</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d itens restantes para fazer backup</item>
+        <item quantity="one">%d item restante para fazer backup</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d fotos não foram armazenadas em backup</item>
+        <item quantity="one">%1$d foto não foi armazenada em backup</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Fazendo backup de %d itens</item>
+        <item quantity="one">Fazendo backup de %d item</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Fazendo upload de %d itens</item>
+        <item quantity="one">Fazendo upload de %d item</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Fazendo upload de %d vídeos</item>
+        <item quantity="one">Fazendo upload de %d vídeo</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d itens para upload</item>
+        <item quantity="one">%d item para upload</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d vídeos para upload</item>
+        <item quantity="one">%d vídeo para upload</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d fotos não têm backup</item>
+        <item quantity="one">%d foto não tem backup</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Todas as %d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">%1$d itens não foram armazenados em backup porque o armazenamento da sua conta está cheio</item>
+        <item quantity="one">%1$d item não foi armazenado em backup porque o armazenamento da sua conta está cheio</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">%1$d fotos não foram armazenadas em backup porque você está sem espaço de armazenamento</item>
+        <item quantity="one">%1$d foto não foi armazenada em backup porque você está sem espaço de armazenamento</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d itens adicionados</item>
+        <item quantity="one">%1$d item adicionado</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Selecione no máximo %d itens.</item>
+        <item quantity="one">Selecione no máximo %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Selecione pelo menos %d itens.</item>
+        <item quantity="one">Selecione pelo menos %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Selecione os itens com um intervalo de %d dias.</item>
+        <item quantity="one">Selecione os itens com um intervalo de %d dia.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">há %d horas</item>
+        <item quantity="one">há %d hora</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d sem</item>
+        <item quantity="one">%d sem</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">há %d semanas</item>
+        <item quantity="one">há %d semana</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">há %d minutos</item>
+        <item quantity="one">há %d minuto</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">há %d dias</item>
+        <item quantity="one">há %d dia</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Remover %1$d itens do dispositivo</item>
+        <item quantity="one">Remover %1$d item do dispositivo</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Removendo %1$d fotos e vídeos originais</item>
+        <item quantity="one">Removendo %1$d foto ou vídeo original</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d novos cards</item>
+        <item quantity="one">%d novo card</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d itens adicionados</item>
+        <item quantity="one">%d item adicionado</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d atualizações</item>
+        <item quantity="one">%1$d atualização</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Visto por %1$s, %2$s e mais %3$d pessoas</item>
+        <item quantity="one">Visto por %1$s, %2$s e mais %3$d pessoa</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d comentários</item>
+        <item quantity="one">%1$d comentário</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Salvando os itens na biblioteca…</item>
+        <item quantity="one">Salvando o item na biblioteca…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s gostou de %2$d fotos • %3$s</item>
+        <item quantity="one">%1$s gostou de %2$d foto • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s gostou de %2$d vídeos • %3$s</item>
+        <item quantity="one">%1$s gostou de %2$d vídeo • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">selecionar %d itens</item>
+        <item quantity="one">selecionar %d item</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Excluir a pasta e %d itens nela</item>
+        <item quantity="one">Excluir a pasta e %d item nela</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Excluir do dispositivo (%d)</item>
+        <item quantity="one">Excluir do dispositivo (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Erro ao copiar %d itens</item>
+        <item quantity="one">Erro ao copiar %d item</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d itens copiados</item>
+        <item quantity="one">%d item copiado</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Erro ao mover %d itens</item>
+        <item quantity="one">Erro ao mover %d item</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d itens movidos</item>
+        <item quantity="one">%d item movido</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d imagens recomendadas</item>
+        <item quantity="one">%d imagem recomendada</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">Há %d anos</item>
+        <item quantity="one">Há %d ano</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Girar %d graus no sentido anti-horário</item>
+        <item quantity="one">Girar %d grau no sentido anti-horário</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Fotos de %d pessoas</item>
+        <item quantity="one">Fotos de %d pessoa</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotos de %d rostos selecionados</item>
+        <item quantity="one">Fotos de %d rosto selecionado</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d itens selec.</item>
+        <item quantity="one">%d item selec.</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d rostos selecionados</item>
+        <item quantity="one">%d rosto selecionado</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotos de %1$d rostos selecionados, desde %2$s</item>
+        <item quantity="one">Fotos de %1$d rosto selecionado, desde %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotos de %d rostos selecionados</item>
+        <item quantity="one">Fotos de %d rosto selecionado</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d fotos removidas</item>
+        <item quantity="one">%1$d foto removida</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Selecione apenas %d pessoas</item>
+        <item quantity="one">Selecione apenas %d pessoa</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Somente %d fotos podem ser impressas,</item>
+        <item quantity="one">Somente %d foto pode ser impressa,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d fotos foram sugeridas para você</item>
+        <item quantity="one">%d foto foi sugerida para você</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d fotos sugeridas</item>
+        <item quantity="one">%d foto sugerida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d páginas extras</item>
+        <item quantity="one">%d página extra</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d páginas</item>
+        <item quantity="one">%d página</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Adicione mais %d fotos para comprar</item>
+        <item quantity="one">Adicione mais %d foto para comprar</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d páginas adicionadas</item>
+        <item quantity="one">%d página adicionada</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d fotos adicionadas</item>
+        <item quantity="one">%d foto adicionada</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d páginas removidas</item>
+        <item quantity="one">%d página removida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d fotos removidas</item>
+        <item quantity="one">%d foto removida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d páginas extras</item>
+        <item quantity="one">%d página extra</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d páginas</item>
+        <item quantity="one">%d página</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d fotos adicionadas como impressões de %2$s</item>
+        <item quantity="one">%1$d foto adicionada como impressão de %2$s</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Você só pode selecionar %1$d impressões de %2$s por pedido</item>
+        <item quantity="one">Você só pode selecionar %1$d impressão de %2$s por pedido</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Você precisa de pelo menos %1$d fotos p/ continuar criando o rascunho.</item>
+        <item quantity="one">Você precisa de pelo menos %1$d foto p/ continuar criando o rascunho.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d impressões</item>
+        <item quantity="one">%1$d impressão</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">Download de %1$d de %2$d itens</item>
+        <item quantity="one">Download de %1$d de %2$d item</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Restaurar %d itens?</item>
+        <item quantity="one">Restaurar %d item?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d itens recentes restaurados ao dispositivo</item>
+        <item quantity="one">%1$d item recente restaurado ao dispositivo</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d fotos e vídeos restaurados</item>
+        <item quantity="one">%1$d foto ou vídeo restaurado</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d itens adicionados ao álbum</item>
+        <item quantity="one">%d item adicionado ao álbum</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Fazendo upload de %d itens</item>
+        <item quantity="one">Fazendo upload de %d item</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d itens serão enviados por upload quando houver conexão</item>
+        <item quantity="one">%d item será enviado por upload quando houver conexão</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Arquivos reais</item>
+        <item quantity="one">Arquivo real</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Arquivos</item>
+        <item quantity="one">Arquivo</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Arquivos pequenos</item>
+        <item quantity="one">Arquivo pequeno</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s e mais %2$d pessoas</item>
+        <item quantity="one">%1$s e mais %2$d pessoa</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Adicionar %d fotos relacionadas?</item>
+        <item quantity="one">Adicionar %d foto relacionada?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d fotos adicionadas automaticamente</item>
+        <item quantity="one">%1$d foto adicionada automaticamente</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d fotos novas</item>
+        <item quantity="one">%1$d foto nova</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s adicionou %2$d fotos novas</item>
+        <item quantity="one">%1$s adicionou %2$d foto nova</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Não é possível excluir os itens</item>
+        <item quantity="one">Não é possível excluir o item</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Não é possível excluir %d itens</item>
+        <item quantity="one">Não é possível excluir %d item</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Não é possível excluir %d itens permanentemente</item>
+        <item quantity="one">Não é possível excluir %d item permanentemente</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d excluídos do dispositivo</item>
+        <item quantity="one">%d excluído do dispositivo</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Restaurando os itens…</item>
+        <item quantity="one">Restaurando o item…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Não é possível recuperar %d itens</item>
+        <item quantity="one">Não é possível recuperar %d item</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Excluir itens permanentemente?</item>
+        <item quantity="one">Excluir item permanentemente?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Excluir permanentemente %d itens</item>
+        <item quantity="one">Excluir permanentemente %d item</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d dias restantes até a expiração desta versão. Para continuar usando o Google Fotos, atualize agora.</item>
+        <item quantity="one">%d dia restante até a expiração desta versão. Para continuar usando o Google Fotos, atualize agora.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Fazendo upload de %d itens</item>
+        <item quantity="one">Fazendo upload de %d item</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d itens serão enviados por upload quando houver conexão</item>
+        <item quantity="one">%d item será enviado por upload quando houver conexão</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d itens serão enviados por upload quando houver conexão a uma rede Wi-Fi</item>
+        <item quantity="one">%d item será enviado por upload quando houver conexão a uma rede Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Fazendo upload… %d restantes</item>
+        <item quantity="one">Fazendo upload… %d restante</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d arquivos</item>
+        <item quantity="one">%d arquivo</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s itens</item>
+        <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s vídeos</item>
+        <item quantity="one">%s vídeo</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Selecione fotos</item>
+        <item quantity="one">Selecione uma foto</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Selecione itens</item>
+        <item quantity="one">Selecione um item</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Selecione vídeos</item>
+        <item quantity="one">Selecione um vídeo</item>
+    </plurals>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>Ресторани</item>
+        <item>Фільми</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>Ресторани</item>
+        <item>Кінотеатри поблизу</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без теми</item>
+        <item>без теми</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>Кохання</item>
+        <item>Так</item>
+        <item>Поцілунок</item>
+        <item>Привіт</item>
+        <item>Обнімаю</item>
+        <item>Вечірка</item>
+        <item>Злюся</item>
+        <item>Схвилювання</item>
+        <item>Бувай</item>
+        <item>Смішно</item>
+        <item>Плачу</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Так</item>
+        <item>Ні</item>
+        <item>OK</item>
+        <item>Ха-ха</item>
+        <item>Дякую</item>
+        <item>Погоджуюсь</item>
+        <item>Чудово</item>
+        <item>У дорозі</item>
+        <item>Гаразд, я відповім пізніше</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS із посиланням</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Завжди надсилати повторно як SMS</item>
+        <item>Поза роумінгом надсилати повторно як SMS</item>
+        <item>Запитувати перед повторним надсиланням</item>
+        <item>Ніколи не надсилати повторно як SMS</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Завжди повторно надсилати як SMS/MMS</item>
+        <item>Надсилати повторно як SMS/MMS (якщо не в роумінгу)</item>
+        <item>Запитувати перед повторним надсиланням</item>
+        <item>Ніколи не надсилати повторно як SMS/MMS</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

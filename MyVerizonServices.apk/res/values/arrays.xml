@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="advance_calling">
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.broadcast.ACConnectivityChangeReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.broadcast.ACIMSRegistrationReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.broadcast.ACPhoneStateReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.broadcast.ACUploadReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.broadcast.SettingsChangeReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.SettingsChangeService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACUploadService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACIMSRegistrationService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACConnectivityChangeService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACConnectivityChangeJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACPhoneStateService</item>
+        <item>com.vzw.hss.myverizon.rdd.advancecalling.service.ACPhoneStateJobIntentService</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="devicetradein_colorcapacity_array">
+        <item>Black 32GB</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>Micromax</item>
+    </string-array>
+    <string-array name="devicetradein_maker_array">
+        <item>HTC</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>Micromax</item>
+    </string-array>
+    <string-array name="fcm_module_list">
+        <item>com.carrierbundle.messaging.web.fcm.FirebaseMessagingService</item>
+        <item>com.carrierbundle.messaging.services.authentication.AuthenticationJobService</item>
+        <item>com.carrierbundle.messaging.services.message.ScheduledRestService</item>
+        <item>com.carrierbundle.messaging.services.ping.ScheduledRestService</item>
+        <item>com.carrierbundle.messaging.services.registration.ScheduledRestService</item>
+        <item>com.carrierbundle.messaging.services.registration.ScheduledService</item>
+        <item>com.carrierbundle.messaging.services.notification.NotificationJobService</item>
+        <item>com.carrierbundle.messaging.services.authentication.AuthenticationIntentService</item>
+        <item>com.carrierbundle.messaging.services.registration.RegistrationIntentService</item>
+        <item>com.carrierbundle.messaging.services.message.AckIntentService</item>
+        <item>com.carrierbundle.messaging.services.notification.NotificationIntentService</item>
+        <item>com.carrierbundle.messaging.services.ping.PingIntentService</item>
+        <item>com.carrierbundle.messaging.Receiver</item>
+        <item>com.carrierbundle.messaging.AdminMessageReceiver</item>
+        <item>com.carrierbundle.messaging.web.fcm.FcmClientService</item>
+        <item>com.carrierbundle.messaging.services.message.AckJobService</item>
+        <item>com.carrierbundle.messaging.services.ping.PingJobService</item>
+        <item>com.carrierbundle.messaging.services.registration.RegistrationJobService</item>
+        <item>com.carrierbundle.messaging.services.registration.RegistrationCheckJobService</item>
+        <item>com.google.firebase.iid.FirebaseInstanceIdReceiver</item>
+        <item>com.google.firebase.components.ComponentDiscoveryService</item>
+        <item>com.google.firebase.iid.FirebaseInstanceIdService</item>
+        <item>com.google.firebase.provider.FirebaseInitProvider</item>
+        <item>com.google.firebase.messaging.FirebaseMessagingService</item>
+        <item>com.carrierbundle.messaging.FCMAppEnabledReceiver</item>
+    </string-array>
+    <string-array name="fido_list">
+        <item>com.fido.android.framework.tm.AsmIntentHelperActivity</item>
+        <item>com.noknok.android.client.appsdk.commlib.IntentHelperActivity</item>
+        <item>com.noknok.android.client.appsdk.common.ClientPickerActivity</item>
+        <item>com.noknok.android.client.asm.authui.fps.FpActivity</item>
+        <item>com.noknok.android.client.asm.core.TransactionActivity</item>
+        <item>com.noknok.android.client.asm.spass2.FpActivity</item>
+        <item>com.noknok.android.client.asm.spass2.SamsungSSActivity</item>
+        <item>com.noknok.android.client.utils.helperActivity</item>
+        <item>com.noknok.android.client.utils.SelectFromDialogActivity</item>
+        <item>com.noknok.android.fidoagentapisvc.FidoAgentApiIntentActivity</item>
+        <item>com.noknok.android.fidoagentapisvc.ManageActivity</item>
+        <item>com.noknok.android.uaf.framework.service.SelectAuthenticatorActivity</item>
+        <item>com.noknok.android.client.fidobyodapi.ManageActivity</item>
+        <item>com.noknok.android.client.core.SelectFromDialogActivity</item>
+        <item>com.noknok.android.client.core.TransactionActivity</item>
+        <item>com.noknok.android.client.fidoagentapi.IntentHelperActivity</item>
+        <item>com.noknok.android.fidoagentapisvc.EnvConfigReceiver</item>
+    </string-array>
+    <string-array name="four_g_basic_app_update">
+        <item>com.verizon.mips.services.basicphone.receiver.BasicPhonePluginReceiver</item>
+        <item>com.verizon.mips.services.basicphone.receiver.BPAppInstalledReceiver</item>
+        <item>com.verizon.mips.services.basicphone.receiver.MVSBPBootCompleteReceiver</item>
+        <item>com.verizon.mips.services.basicphone.services.BPAppInstalledService</item>
+        <item>com.verizon.mips.services.basicphone.services.BPAppInstalledJobIntentService</item>
+        <item>com.verizon.mips.services.basicphone.services.MVSBPDownloadService</item>
+        <item>com.verizon.mips.services.basicphone.services.MVSBPDownloadJobIntentService</item>
+    </string-array>
+    <string-array name="generic_app_download_ssku_app_download">
+        <item>com.verizon.mips.services.sku.receiver.AppInstalledReceiver</item>
+        <item>com.verizon.mips.services.sku.receiver.MVSSKUReceiver</item>
+        <item>com.verizon.mips.services.sku.receiver.SKUAFWReceiver</item>
+        <item>com.verizon.mips.services.sku.receiver.SKURequestDownloadreceiver</item>
+        <item>com.verizon.mips.services.sku.receiver.SKURetryReceiver</item>
+        <item>com.verizon.mips.services.sku.service.SKUAFWService</item>
+        <item>com.verizon.mips.services.sku.service.SKUAFWJobIntentService</item>
+        <item>com.verizon.mips.services.sku.service.SKUAppInstalledService</item>
+        <item>com.verizon.mips.services.sku.service.SKUAppInstalledJobIntentService</item>
+        <item>com.verizon.mips.services.sku.service.SKUDownloadProfileService</item>
+        <item>com.verizon.mips.services.sku.service.SKUDownloadProfileJobIntentService</item>
+        <item>com.verizon.mips.services.sku.service.SKUDownloadRequestService</item>
+        <item>com.verizon.mips.services.sku.service.SKUDownloadRequestJobIntentService</item>
+        <item>com.verizon.mips.services.sku.service.SKUInstallService</item>
+        <item>com.verizon.mips.services.sku.service.SKUInstallJobIntentService</item>
+        <item>com.verizon.mips.services.sku.service.SKURetryService</item>
+        <item>com.verizon.mips.services.sku.service.SKURetryJobIntentService</item>
+    </string-array>
+    <string-array name="inputtypeforedittext">
+        <item>Normal Text</item>
+        <item>Number</item>
+        <item>Password</item>
+        <item>Cap Characters</item>
+        <item>Text No Suggestion</item>
+    </string-array>
+    <string-array name="labrynth_network_analytics">
+        <item>com.vzw.hss.myverizon.rdd.labyrinth.LabyrinthConnectityChangeReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.labyrinth.UploadReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.labyrinth.LabyrinthConnectionService</item>
+        <item>com.vzw.hss.myverizon.rdd.labyrinth.LabyrinthConnectionServiceJobIntent</item>
+        <item>com.vzw.hss.myverizon.rdd.labyrinth.web.LabyrinthServerComm</item>
+    </string-array>
+    <string-array name="mvd_active_retail">
+        <item>com.verizon.mips.mvdactive.activity.HomeScreenActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveTokenActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MaintestActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.RunTestCaseActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.EndOfTestCaseActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveTestResultBarcodeActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.TradeInValueForTheDeviceActivity</item>
+        <item>com.verizon.mips.mvdactive.report.ReportPreviewActivity</item>
+        <item>com.verizon.mips.mvdactive.report.HistoryPreviewActivity</item>
+        <item>com.verizon.mips.mvdactive.report.HistoryDetailsPageIndivisualActivity</item>
+        <item>com.verizon.mips.mvdactive.report.ReviewByTaskActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.TouchGridActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.NewTouchGridActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.BadPixelDetectionActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.OrientationChangeAndKeyboardDetectionActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.CameraActivity</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.MVDActiveDeviceTradeInConditions</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.MVDActiveDeviceTradeSaveQuoteActivity</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.DeviceTradeInVerifyDeviceActivity</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.InitDeviceTradeInVerifyCarrierActivity</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.DeviceTradeInNotMyDeviceActivity</item>
+        <item>com.verizon.mips.mvdactive.devicetradein.QuoteActivity</item>
+        <item>com.verizon.mips.mvdactive.cleaner.DialogActivity</item>
+        <item>com.verizon.mips.mvdactive.cleaner.GetImeiActivity</item>
+        <item>com.verizon.mips.mvdactive.cleaner.StoreValidateActivity</item>
+        <item>com.verizon.mips.mvdactive.cleaner.MVDActiveStoreFlowDialogActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.DamageCapabilityQuestionareActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.LaunchAppActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.DialogRunOnlyAutomaticTestCase</item>
+        <item>com.verizon.mips.mvdactive.implementation.MVDActivePoundDiagOutgoignCallReceiver</item>
+        <item>com.verizon.mips.mvdactive.crtc.PlugInReceiver</item>
+        <item>com.verizon.mips.mvdactive.crtc.FileObserverService</item>
+        <item>com.verizon.mips.mvdactive.utility.MVDActiveLauncherReceiver</item>
+        <item>com.verizon.mips.mvdactive.utility.MVDActiveTradeinFlowLauncherReceiver</item>
+        <item>com.verizon.mips.mvdactive.cleaner.MVDActiveStoreCheckReceiver</item>
+        <item>com.verizon.mips.mvdactive.implementation.MVDActiveGetIMEIReceiver</item>
+        <item>com.verizon.mips.mvdactive.activity.OverlayService</item>
+        <item>com.verizon.mips.mvdactive.activity.TestselectionActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveMemoActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveTestcaseGroupActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveLaunchDHCActivity</item>
+        <item>com.verizon.mips.mvdactive.activity.MVDActiveUpdateProgressActivity</item>
+    </string-array>
+    <string-array name="mvd_battery_upload">
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.BatteryUsageUploadPluginReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.battery.BatteryUsageJobIntentService</item>
+    </string-array>
+    <string-array name="mvd_care">
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagOutgoignCallReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsBootCompletedReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsConnectionReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsMidnightAlarmReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsPackageActionReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsPlugInReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsSettingsChangeReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsShutdownReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.receiver.RDDAnalyticsUnPlugReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.receiver.RDDPluginReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.receiver.RDDRegistrationReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.receiver.RDDWAPMessageReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.receiver.SUWReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagWelcomeActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagCancelledActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagConnectingActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagFailActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagSuccessActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.pounddiag.RDDPoundDiagNeedDataUsageActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.locationrequest.RDDLocationRequestActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.pluginBootCompleteService.RDDAnalyticsPlugINAndBootCompleteService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.pluginBootCompleteService.RDDAnalyticsPlugINAndBootCompleteJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.connectionService.RDDAnalyticsConnectionService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.connectionService.RDDAnalyticsConnectionJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.midnightService.RDDAnalyticsMidnightService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.midnightService.RDDAnalyticsMidnightJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.packageActionService.RDDAnalyticsPackageActionService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.packageActionService.RDDAnalyticsPackageActionJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.settingsChangeService.RDDAnalyticsSettingsChangeService</item>
+        <item>com.vzw.hss.myverizon.rdd.analytics.service.settingsChangeService.RDDAnalyticsSettingsChangeJobIntentService</item>
+        <item>com.vzw.hss.mvdmobileframework.SelfDiagnosticsMvdDataService</item>
+        <item>com.vzw.hss.myverizon.rdd.accessibility.TalkbackActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.datausage.RDDDataUsageActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.guidednav.GuidedNavActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.locationrequest.RDDFusedLocationRequestService</item>
+        <item>com.vzw.hss.myverizon.rdd.locationrequest.RDDLocationRequestActivity</item>
+        <item>com.vzw.hss.myverizon.rdd.locationrequest.RDDLocationRequestService</item>
+        <item>com.vzw.hss.myverizon.rdd.service.RDDConnectionService</item>
+        <item>com.vzw.hss.myverizon.rdd.service.RDDRegistrationJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.service.RDDReportService</item>
+        <item>com.vzw.hss.rdd.TransparentActivity</item>
+    </string-array>
+    <string-array name="mvd_vmas">
+        <item>com.vzw.hss.myverizon.rdd.vmas.VmasUploadJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.vmas.VmasUploadReceiver</item>
+    </string-array>
+    <string-array name="mvdactive_env_array">
+        <item>SIT</item>
+        <item>PREPROD</item>
+        <item>PROD</item>
+    </string-array>
+    <string-array name="mvdactive_nav_items_array">
+        <item>Hardware Test</item>
+        <item>Software Test</item>
+        <item>About Phone</item>
+    </string-array>
+    <string-array name="mvdactive_tradein_url_array">
+        <item>http://mobile-edev.vzw.com/dev03/geofencing/instore/doAction/mvda/</item>
+        <item>http://mobile-edev.vzw.com/dev01/geofencing/instore/doAction/mvda/</item>
+        <item>http://mobile.vzw.com/geofencing/instore/doAction/mvda/</item>
+    </string-array>
+    <string-array name="mvdactive_upload_url_array">
+        <item>http://mobile-esit.vzw.com/sit01/active/api</item>
+        <item>https://rdd-preprod.vzw.com/active/api</item>
+        <item>https://rdd.vzw.com/active/api</item>
+    </string-array>
+    <string-array name="mvm_common">
+        <item>com.vzw.hss.mvm.common.vsp.LaunchVSPDeepLink</item>
+        <item>com.vzw.hss.mvm.common.datameter.MMGRegistrationService</item>
+        <item>com.vzw.hss.mvm.common.datameter.MMGReceiver</item>
+        <item>com.vzw.hss.mvm.common.receivers.ReferrerReceiver</item>
+    </string-array>
+    <string-array name="mvs_suw_integration">
+        <item>com.verizon.mips.tandc.services.MVSTandCSetupWizardService</item>
+        <item>com.verizon.mips.tandc.services.MVSTandCSetupWizardJobIntentService</item>
+        <item>com.verizon.mips.tandc.services.MVSSUWJobService</item>
+        <item>com.verizon.mips.tandc.utils.MVSSUWSettingsInterconnectService</item>
+        <item>com.verizon.mips.tandc.receiver.MVSSetupWizardReceiver</item>
+        <item>com.verizon.mips.tandc.receiver.MVSSUWRetryReceiver</item>
+        <item>com.verizon.mips.tandc.provider.SetupWizardContentProvider</item>
+    </string-array>
+    <string-array name="notificationcolors">
+        <item>Select Color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>White</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="nw_lock">
+        <item>com.verizon.mips.services.simlock.receiver.RetryReceiver</item>
+        <item>com.verizon.mips.services.simlock.receiver.UnlockReceiver</item>
+        <item>com.verizon.mips.services.simlock.util.CustomerCareActivity</item>
+        <item>com.verizon.mips.services.simlock.util.SettingsActivity</item>
+        <item>com.verizon.mips.services.simlock.util.NotificationService</item>
+        <item>com.verizon.mips.services.simlock.service.UnlockIntentService</item>
+        <item>com.verizon.mips.services.simlock.service.UnlockJobIntentService</item>
+    </string-array>
+    <string-array name="preferences_front_light_options">
+        <item>@string/preferences_front_light_on</item>
+        <item>@string/preferences_front_light_auto</item>
+        <item>@string/preferences_front_light_off</item>
+    </string-array>
+    <string-array name="preferences_front_light_values">
+        <item>ON</item>
+        <item>AUTO</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="remote_view">
+        <item>com.verizon.mips.remote.receiver.RemoteWAPMessageReceiver</item>
+        <item>com.verizon.mips.remote.ui.TerminateRequestActivity</item>
+        <item>com.verizon.mips.remote.ui.SessionTerminatedActivity</item>
+        <item>com.verizon.mips.remote.ui.SessionFailedActivity</item>
+        <item>com.verizon.mips.remote.ui.DataUsageActivity</item>
+        <item>com.verizon.mips.remote.ui.CapturePermissionActivity</item>
+        <item>com.verizon.mips.remote.ui.OverlayPermissionActivity</item>
+        <item>com.verizon.mips.remote.RemoteConnectionService</item>
+        <item>com.verizon.mips.remote.ui.RemoteOverlayService</item>
+        <item>com.verizon.mips.remote.ScreenCaptureService</item>
+    </string-array>
+    <string-array name="stadium_wifi">
+        <item>com.verizon.mips.services.wifiprofileconfiguration.WifiConfigurationJobIntentService</item>
+    </string-array>
+    <string-array name="testname">
+        <item>Laguna Niguel</item>
+        <item>Irvine Marketplace</item>
+        <item>totowa</item>
+        <item>Bridgewater NJ</item>
+    </string-array>
+    <string-array name="wifi_calling">
+        <item>com.verizon.mips.services.self.wificalling.service.SELFWifiCallingNotificationService</item>
+        <item>com.verizon.mips.services.self.wificalling.receiver.SELFWifiCallingCallStateReceiver</item>
+        <item>com.verizon.mips.services.self.wificalling.receiver.SELFWifiCallingNoSignalAlarmReceiver</item>
+        <item>com.verizon.mips.services.self.wificalling.receiver.SELFWiFiCallingPowerConnectAndBootReceiver</item>
+        <item>com.verizon.mips.services.self.wificalling.receiver.SELFWiFiCallingSettingChangeReceiver</item>
+        <item>com.verizon.mips.services.self.wificalling.activity.SELFWifiCallingEnableRequestActivity</item>
+        <item>com.verizon.mips.services.self.wificalling.activity.SELFWifiCallingVolteEnableRequestActivity</item>
+        <item>com.verizon.mips.services.self.wificalling.service.SELFWiFiCallingReportService</item>
+        <item>com.verizon.mips.services.self.wificalling.service.SELFWifiCallingPhoneSignalListener</item>
+        <item>com.verizon.mips.services.self.wificalling.service.SELFWifiCallingIsWifiConnectedCheckService</item>
+        <item>com.verizon.mips.services.self.wificalling.service.SELFHDCallingPhoneSignalListener</item>
+    </string-array>
+    <string-array name="wifi_sdk">
+        <item>com.vzw.hss.myverizon.rdd.wifidata.receiver.RDDWifiDataPluginReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.receiver.RDDWifiStateReceiver</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.scanAlarm.WifiScanAlarmJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.scanAlarm.WifiScanAlarmService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.throughput.ThroughputAlarmJobIntentService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.wifistate.WifiDataStateService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.throughput.ThroughputAlarmService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.RDDWifiDataUploadService</item>
+        <item>com.vzw.hss.myverizon.rdd.wifidata.service.wifistate.WifiDataStateJobIntentService</item>
+    </string-array>
+</resources>

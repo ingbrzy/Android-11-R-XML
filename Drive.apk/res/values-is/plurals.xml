@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Sýnir %1$d atriði.</item>
+        <item quantity="one">Sýnir %1$d atriði.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d athugasemdir</item>
+        <item quantity="one">%1$d athugasemd</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Aðgerðaratriði: %1$d atriði til að fylgja eftir</item>
+        <item quantity="one">Aðgerðaratriði: %1$d atriði til að fylgja eftir</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Atriðunum var eytt fyrir fullt og allt</item>
+        <item quantity="one">Atriðunum var eytt fyrir fullt og allt</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s eru ekki gild netföng.</item>
+        <item quantity="one">%s eru ekki gild netföng.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Ef þú bætir þessum skrám við verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+        <item quantity="one">Ef þú bætir þessum skrám við verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Ef þú bætir þessum möppum við verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+        <item quantity="one">Ef þú bætir þessum möppum við verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Deila þessum skrám?</item>
+        <item quantity="one">Deila þessum skrám?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Deila þessum möppum?</item>
+        <item quantity="one">Deila þessum möppum?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d möppur voru uppfærðar. %2$s er valinn litur.</item>
+        <item quantity="one">%1$d mappa var uppfærð. %2$s er valinn litur.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Nota síur:</item>
+        <item quantity="one">Nota síur:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Rennur út eftir %1$d daga</item>
+        <item quantity="one">Rennur út eftir %1$d dag</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Þetta öryggisafrit rennur út eftir %1$d daga ef tækið er áfram óvirkt.</item>
+        <item quantity="one">Þetta öryggisafrit rennur út eftir %1$d dag ef tækið er áfram óvirkt.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Öryggisafritum eytt.</item>
+        <item quantity="one">Öryggisafritum eytt.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d dálkar.</item>
+        <item quantity="one">%1$d dálkur.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d frystir dálkar.</item>
+        <item quantity="one">%1$d frystur dálkur.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d frystar línur.</item>
+        <item quantity="one">%1$d fryst lína.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d línur.</item>
+        <item quantity="one">%1$d lína.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s fyrir %2$d atriði</item>
+        <item quantity="one">%1$s fyrir %2$d atriði</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s svör</item>
+        <item quantity="one">%1$s svar</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Ekki tókst að sækja atriðin</item>
+        <item quantity="one">Ekki tókst að sækja atriðin</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d atriði verða sótt. Nánari upplýsingar eru í tilkynningunni</item>
+        <item quantity="one">%1$d atriði verður sótt. Nánari upplýsingar eru í tilkynningunni</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d atriði verða sótt.</item>
+        <item quantity="one">%1$d atriði verður sótt.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s og %2$d atriði í viðbót</item>
+        <item quantity="one">%1$s og %2$d atriði í viðbót</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Ekki var hægt að sækja %1$s atriði</item>
+        <item quantity="one">Ekki var hægt að sækja %1$s atriði</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d atriði í viðbót</item>
+        <item quantity="one">%1$d atriði í viðbót</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Niðurhal %1$d atriða af %2$d mistókst</item>
+        <item quantity="one">Niðurhal %1$d atriðis af %2$d mistókst</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Villa við að færa skrár.</item>
+        <item quantity="one">Villa við að færa skrár.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gestir</item>
+        <item quantity="one">%d gestur</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d flýtileiðum bætt við „%1$s“</item>
+        <item quantity="one">%2$d flýtileið bætt við „%1$s“</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Ekki tókst að bæta flýtileiðum við. Reyna aftur</item>
+        <item quantity="one">Ekki tókst að bæta flýtileiðum við. Reyna aftur</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim. Meðlimir „%2$s“ fá aðgang að þessum atriðum.</item>
+        <item quantity="one">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim. Meðlimir „%2$s“ fá aðgang að þessum atriðum.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim. Meðlimir „%2$s“ fá aðgang að þessum atriðum. Þú hefur einungis heimild til að bæta við og breyta atriðum í „%3$s“, svo ekki verður hægt að afturkalla þessa aðgerð.</item>
+        <item quantity="one">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim. Meðlimir „%2$s“ fá aðgang að þessum atriðum. Þú hefur einungis heimild til að bæta við og breyta atriðum í „%3$s“, svo ekki verður hægt að afturkalla þessa aðgerð.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Sumar skrár sem verið er að færa yfir í „%1$s“ hafa virkjað greiningu á FVG. Skrárnar kunna að innihalda viðkvæmar upplýsingar.</item>
+        <item quantity="one">Sumar skrár sem verið er að færa yfir í „%1$s“ hafa virkjað greiningu á FVG. Skrárnar kunna að innihalda viðkvæmar upplýsingar.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim.</item>
+        <item quantity="one">Meðlimir „%1$s“ missa aðgang nema þessum atriðum sé deilt með þeim.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Ef þessi atriði eru færð verður þeim deilt með öllum sem geta séð sameiginlegu möppuna „%1$s“. Meðlimir „%2$s“ missa aðgang nema þessum atriðum sé deilt með þeim.</item>
+        <item quantity="one">Ef þessi atriði eru færð verður þeim deilt með öllum sem geta séð sameiginlegu möppuna „%1$s“. Meðlimir „%2$s“ missa aðgang nema þessum atriðum sé deilt með þeim.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Þú ert að færa atriði úr samnýttum möppum svo fólk missir aðgang að þeim.</item>
+        <item quantity="one">Þú ert að færa atriði úr samnýttum möppum svo fólk missir aðgang að þeim.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Frekari takmarkanir verða fjarlægðar af þessum atriðum.</item>
+        <item quantity="one">Frekari takmarkanir verða fjarlægðar af þessum atriðum.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Ef þú færir þessar skrár verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+        <item quantity="one">Ef þú færir þessar skrár verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Ef þú færir þessar möppur verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+        <item quantity="one">Ef þú færir þessar möppur verður þeim deilt með öllum sem hafa aðgang að samnýttu möppunni %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Deila þessum skrám?</item>
+        <item quantity="one">Deila þessum skrám?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Deila þessum möppum?</item>
+        <item quantity="one">Deila þessum möppum?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Þú hefur ekki heimild til að færa einhver atriði af samnýttu drifi þeirra.</item>
+        <item quantity="one">Þú hefur ekki heimild til að færa einhver atriði af samnýttu drifi þeirra.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Þú hefur ekki heimild til að færa sum atriði úr möppunni þar sem þau eru geymd.</item>
+        <item quantity="one">Þú hefur ekki heimild til að færa sum atriði úr möppunni þar sem þau eru geymd.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Ekki er hægt að færa þessar skrár því að eigandi þeirra er utan %1$s.</item>
+        <item quantity="one">Ekki er hægt að færa þessar skrár því að eigandi þeirra er utan %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s „%2$s“ er nú með aðgang að þeim.</item>
+        <item quantity="one">%1$s „%2$s“ er nú með aðgang að þeim.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d atriði færð á samnýtt drif. Meðlimir hafa nú aðgang að þeim.</item>
+        <item quantity="one">%1$d atriði fært á samnýtt drif. Meðlimir hafa nú aðgang að þeim.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d atriði færð úr samnýttu drifi. Meðlimir hafa glatað aðgangi.</item>
+        <item quantity="one">%1$d atriði fært úr samnýttu drifi. Meðlimir hafa glatað aðgangi.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nýjar tilkynningar</item>
+        <item quantity="one">%d ný tilkynning</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d atriði</item>
+        <item quantity="one">%1$d atriði</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d samþykkjendur</item>
+        <item quantity="one">%1$d samþykkjandi</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s aðgerðaratriði</item>
+        <item quantity="one">%1$s aðgerðaratriði</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s ósvöruð ummæli þar sem minnst var á þig</item>
+        <item quantity="one">%1$s ósvöruð ummæli þar sem minnst var á þig</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s tillögur</item>
+        <item quantity="one">%1$s tillaga</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s verkefni</item>
+        <item quantity="one">%1$s verkefni</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Atriðum var eytt fyrir fullt og allt</item>
+        <item quantity="one">Atriðum var eytt fyrir fullt og allt</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d af %2$s eru nú tiltækar án nettengingar.</item>
+        <item quantity="one">%1$d af %2$s er nú tiltæk án nettengingar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Skrárnar %1$d eru tiltækar án nettengingar.</item>
+        <item quantity="one">Skrárnar %1$d eru tiltækar án nettengingar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Ekki er hægt að gera skrár tiltækar án nettengingar</item>
+        <item quantity="one">Ekki er hægt að gera skrá tiltæka án nettengingar</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Gerir %1$d skrár tiltækar án nettengingar.</item>
+        <item quantity="one">Gerir %1$d skrá tiltæka án nettengingar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d skrár</item>
+        <item quantity="one">%1$d skrá</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Hlé gert á niðurhali, beðið eftir nettengingu…</item>
+        <item quantity="one">Hlé gert á niðurhali, beðið eftir nettengingu…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Hlé gert á niðurhali %1$d skráa.</item>
+        <item quantity="one">Hlé gert á niðurhali %1$d skráar.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Hlé gert á niðurhali, beðið eftir Wi-Fi…</item>
+        <item quantity="one">Hlé gert á niðurhali, beðið eftir Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d atriði verða færð í ruslið. Þetta fjarlægir atriðin líka úr Google myndum.</item>
+        <item quantity="one">%1$d atriði verður fært í ruslið. Þetta fjarlægir atriðin líka úr Google myndum.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d atriði verða færð í ruslið.</item>
+        <item quantity="one">%1$d atriði verður fært í ruslið.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s atriði til að fylgja eftir</item>
+        <item quantity="one">%1$s atriði til að fylgja eftir</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s atriði til að fylgja eftir</item>
+        <item quantity="one">%1$s atriði til að fylgja eftir</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Fylgja eftir</item>
+        <item quantity="one">Fylgja eftir</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Skrifuðu athugasemdir við %1$d skrár</item>
+        <item quantity="one">Skrifuðu athugasemdir við %1$d skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Skrifaði athugasemdir við %1$d skrár</item>
+        <item quantity="one">Skrifaði athugasemdir við %1$d skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Skrifuðu athugasemdir við þessa skrá</item>
+        <item quantity="one">Skrifuðu athugasemdir við þessa skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Bjuggu til %1$d atriði</item>
+        <item quantity="one">Bjuggu til %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Bjó til %1$d atriði</item>
+        <item quantity="one">Bjó til %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Bjuggu þessa skrá til</item>
+        <item quantity="one">Bjuggu þessa skrá til</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Bjuggu þessa möppu til</item>
+        <item quantity="one">Bjuggu þessa möppu til</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Breyttu %1$d atriðum</item>
+        <item quantity="one">Breyttu %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Breytti %1$d atriðum</item>
+        <item quantity="one">Breytti %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Gerðu breytingar á þessari skrá</item>
+        <item quantity="one">Gerðu breytingar á þessari skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Eyddi %1$d atriðum fyrir fullt og allt</item>
+        <item quantity="one">Eyddi %1$d atriði fyrir fullt og allt</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Færðu %1$d atriði í:</item>
+        <item quantity="one">Færðu %1$d atriði í:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Færði %1$d atriði í:</item>
+        <item quantity="one">Færði %1$d atriði í:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Færðu %1$d atriði</item>
+        <item quantity="one">Færðu %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Færði %1$d atriði</item>
+        <item quantity="one">Færði %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Færðu þessa skrá</item>
+        <item quantity="one">Færðu þessa skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Færðu þessa skrá í:</item>
+        <item quantity="one">Færðu þessa skrá í:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Færðu þessa möppu</item>
+        <item quantity="one">Færðu þessa möppu</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Færðu þessa möppu í:</item>
+        <item quantity="one">Færðu þessa möppu í:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Endurnefndu %1$d atriði</item>
+        <item quantity="one">Endurnefndu %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Endurnefndi %1$d atriði</item>
+        <item quantity="one">Endurnefndi %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Endurnefndu þessa skrá</item>
+        <item quantity="one">Endurnefndu þessa skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Endurnefndu þessa möppu</item>
+        <item quantity="one">Endurnefndu þessa möppu</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Deildu %1$d atriðum</item>
+        <item quantity="one">Deildu %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Deildi %1$d atriðum</item>
+        <item quantity="one">Deildi %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Deildu þessari skrá</item>
+        <item quantity="one">Deildu þessari skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Deildi þessari möppu</item>
+        <item quantity="one">Deildi þessari möppu</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Færðu %1$d atriði í ruslið</item>
+        <item quantity="one">Færðu %1$d atriði í ruslið</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Færði %1$d atriði í ruslið</item>
+        <item quantity="one">Færði %1$d atriði í ruslið</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Fjarlægðu þessa skrá</item>
+        <item quantity="one">Fjarlægðu þessa skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Fjarlægðu þessa möppu</item>
+        <item quantity="one">Fjarlægðu þessa möppu</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Hlóðu inn %1$d atriðum</item>
+        <item quantity="one">Hlóðu inn %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Hlóð inn %1$d atriðum</item>
+        <item quantity="one">Hlóð inn %1$d atriði</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Hlóðu inn þessari skrá</item>
+        <item quantity="one">Hlóðu inn þessari skrá</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Hlóðu inn þessari möppu</item>
+        <item quantity="one">Hlóðu inn þessari möppu</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d skrár verða færðar í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+        <item quantity="one">%1$d skrá verður færð í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d möppur verða færðar í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+        <item quantity="one">%1$d mappa verður færð í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d atriði verða færð í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+        <item quantity="one">%1$d atriði verður fært í ruslakörfu %2$s og þeim eytt fyrir fullt og allt eftir 30 daga.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Þessum %1$d skrám verður &lt;b>eytt fyrir fullt og allt og fyrir alla&lt;/b>. Ekki er hægt að afturkalla þessa aðgerð.</item>
+        <item quantity="one">Þessum %1$d skrám verður &lt;b>eytt fyrir fullt og allt og fyrir alla&lt;/b>. Ekki er hægt að afturkalla þessa aðgerð.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Þessum %1$d skrám verður eytt fyrir fullt og allt. Ekki er hægt að afturkalla þessa aðgerð.</item>
+        <item quantity="one">Þessari %1$d skrá verður eytt fyrir fullt og allt. Ekki er hægt að afturkalla þessa aðgerð.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d atriði</item>
+        <item quantity="one">%1$d atriði</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d atriði valin</item>
+        <item quantity="one">%1$d atriði valið</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d atriði ekki valin</item>
+        <item quantity="one">%1$d atriði ekki valið</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Skrárnar verða tiltækar án nettengingar</item>
+        <item quantity="one">Skrárnar verða tiltækar án nettengingar</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d atriði stjörnumerkt</item>
+        <item quantity="one">%1$d atriði stjörnumerkt</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Skrárnar verða ekki lengur tiltækar án nettengingar</item>
+        <item quantity="one">Skrárnar verða ekki lengur tiltækar án nettengingar</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Stjarna tekin af %1$d atriðum</item>
+        <item quantity="one">Stjarna tekin af %1$d atriði</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d atriði endurheimt</item>
+        <item quantity="one">%1$d atriði endurheimt</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d atriði voru endurheimt</item>
+        <item quantity="one">%1$d atriði var endurheimt</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d atriði fjarlægð úr „%2$s“</item>
+        <item quantity="one">%1$d atriði fjarlægt úr „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d atriði fjarlægð úr möppu</item>
+        <item quantity="one">%1$d atriði fjarlægt úr möppu</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d atriði fjarlægð</item>
+        <item quantity="one">%1$d atriði fjarlægt</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d atriði færð aftur</item>
+        <item quantity="one">%1$d atriði fært aftur</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d atriði færð aftur í ruslið</item>
+        <item quantity="one">%1$d atriði fært aftur í ruslið</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d atriði fjarlægð</item>
+        <item quantity="one">%1$d atriði fjarlægt</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d atriðum bætt við „%2$s“</item>
+        <item quantity="one">%1$d atriði bætt við „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d atriðum bætt við</item>
+        <item quantity="one">%1$d atriði bætt við</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d atriði endurheimt og bætt við „%2$s“</item>
+        <item quantity="one">%1$d atriði endurheimt og bætt við „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d atriði færð í „%2$s“.</item>
+        <item quantity="one">%1$d atriði fært í „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d atriði færð</item>
+        <item quantity="one">%1$d atriði fært</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d atriði endurheimt og færð í „%2$s“.</item>
+        <item quantity="one">%1$d atriði endurheimt og fært í „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d atriði endurheimt.</item>
+        <item quantity="one">%1$d atriði endurheimt.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d atriði endurheimt í „%2$s“.</item>
+        <item quantity="one">%1$d atriði endurheimt í „%2$s“.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Senda skrár með</item>
+        <item quantity="one">Senda skrár með</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d aðilar hafa nú aðgang</item>
+        <item quantity="one">%1$d aðili hefur nú aðgang</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s og %2$d í viðbót geta nú opnað</item>
+        <item quantity="one">%1$s og %2$d í viðbót geta nú opnað</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d aðilar geta nú sett inn athugasemdir</item>
+        <item quantity="one">%1$d aðili getur nú sett inn athugasemdir</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s og %2$d í viðbót geta nú sett inn athugasemdir</item>
+        <item quantity="one">%1$s og %2$d í viðbót geta nú sett inn athugasemdir</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d aðilar geta nú breytt</item>
+        <item quantity="one">%1$d aðili getur nú breytt</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s og %2$d í viðbót geta nú breytt</item>
+        <item quantity="one">%1$s og %2$d í viðbót geta nú breytt</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d aðilar geta nú skoðað</item>
+        <item quantity="one">%1$d aðili getur nú skoðað</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s og %2$d í viðbót geta nú skoðað</item>
+        <item quantity="one">%1$s og %2$d í viðbót geta nú skoðað</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Geymslupláss á Drive rennur út eftir %1$d daga</item>
+        <item quantity="one">Geymslupláss á Drive rennur út eftir %1$d dag</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d aðilum bætt við samnýtt drif</item>
+        <item quantity="one">%1$d aðila bætt við samnýtt drif</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s og %3$d í viðbót bætt við %1$s</item>
+        <item quantity="one">%2$s og %3$d í viðbót bætt við %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d meðlimir</item>
+        <item quantity="one">%d meðlimur</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Halda öllu áfram núna</item>
+        <item quantity="one">Halda öllu áfram núna</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Hætt við að hlaða inn %1$d skrám.</item>
+        <item quantity="one">Hætt við að hlaða inn %1$d skrá.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Ekki er hægt að undirbúa flutning %1$d skráa.</item>
+        <item quantity="one">Ekki er hægt að undirbúa flutning %1$d skráar.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d skrám hlaðið inn.</item>
+        <item quantity="one">%1$d skrá hlaðið inn.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Ekki tókst að hlaða inn %1$d af %2$d skrám.</item>
+        <item quantity="one">Ekki tókst að hlaða inn %1$d af %2$d skrá.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Hleður inn %1$d skrám.</item>
+        <item quantity="one">Hleður inn %1$d skrá.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Hlé gert á flutningi, beðið eftir nettengingu…</item>
+        <item quantity="one">Hlé gert á flutningi, beðið eftir nettengingu…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Hlé gert á flutningi %1$d skráa.</item>
+        <item quantity="one">Hlé gert á flutningi %1$d skráar.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Hlé gert á flutningi, beðið eftir Wi-Fi…</item>
+        <item quantity="one">Hlé gert á flutningi, beðið eftir Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Undirbýr flutning á %1$d skrám.</item>
+        <item quantity="one">Undirbýr flutning á %1$d skrá.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Verið er að hlaða %1$d skrám inn í: %2$s</item>
+        <item quantity="one">Verið er að hlaða %1$d skrá inn í: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Skoða %1$d skrár</item>
+        <item quantity="one">Skoða %1$d skrá</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Skoða allar skrárnar %1$d í %2$s</item>
+        <item quantity="one">Skoða allar skrárnar %1$d í %2$s</item>
+    </plurals>
+</resources>

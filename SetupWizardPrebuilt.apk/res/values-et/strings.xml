@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Liigu üles</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_capital_off">VÄLJAS</string>
+    <string name="abc_capital_on">SEES</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">kustuta</string>
+    <string name="abc_menu_enter_shortcut_label">sisestusklahv</string>
+    <string name="abc_menu_function_shortcut_label">Funktsiooniklahv +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Tõstuklahv +</string>
+    <string name="abc_menu_space_shortcut_label">tühik</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menüü +</string>
+    <string name="abc_search_hint">Otsige …</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="accessibility_no_wifi">WiFi-ühendus on katkestatud.</string>
+    <string name="accessibility_wifi_one_bar">WiFi: üks pulk.</string>
+    <string name="accessibility_wifi_security_type_none">Avatud võrk</string>
+    <string name="accessibility_wifi_security_type_secured">Turvaline võrk</string>
+    <string name="accessibility_wifi_signal_full">WiFi-signaal on tugev.</string>
+    <string name="accessibility_wifi_three_bars">WiFi: kolm pulka.</string>
+    <string name="accessibility_wifi_two_bars">WiFi: kaks pulka.</string>
+    <string name="account_exists_info">"Teie meilid, kontaktid, kalendrisündmused ja muu sünkroonitakse selle {DEVICE_TYPE,select, PHONE{telefoniga}TABLET{tahvelarvutiga}other{seadmega}}. Nüüd võite ka Google Playst rakendusi, muusikat ja mänge alla laadida.
+
+Hiljem võite kontosid lisada ja eemaldada menüüs Seaded > Kontod."</string>
+    <string name="account_exists_text_single">Konto <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> on valmis.</string>
+    <string name="account_exists_text_unknown_name">Teie konto on valmis.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Konto on lisatud}other{Kontod on lisatud}}</string>
+    <string name="activating_carrier_service_text">See võib võtta mõne minuti</string>
+    <string name="activating_unknown_carrier_service_title">Aktiveerimine …</string>
+    <string name="activation_failed_message">"Teil on võimalik teha järgmist.
+"<ul><li>Proovige mobiilse andmesidega uuesti ühendus luua.</li>"
+"<li>Kasutage seadistamiseks muud võrku.</li></ul>"
+
+Kui need lahendused ei toimi, võite {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} taaskäivitada ja uuesti proovida."</string>
+    <string name="activation_failed_title">Mobiilse andmesidega ei saa ühend. luua</string>
+    <string name="activation_progress_flow">"Kas toiming kestab liiga kaua?
+
+Mobiilse andmesideühenduse loomiseks kulub kaua aega. Võite minna tagasi ja luua ühenduse muu võrguga."</string>
+    <string name="activation_title">Mobiilsideteenuse ühendamine …</string>
+    <string name="activation_unprovisioned_sim_message">Taaskäivitage {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} ja proovige uuesti või looge seadistamiseks ühendus WiFi-võrguga. Kui mobiilse andmeside aktiveerimine siiski ei õnnestu, võtke ühendust oma operaatoriga.</string>
+    <string name="activation_unprovisioned_title">Mob. andmesidet ei saanud aktiveerida</string>
+    <string name="android_privacy_policy_title">Täiendavad privaatsuseeskirjad</string>
+    <string name="available_via_carrier">Saadaval operaatori %1$s kaudu</string>
+    <string name="cancel_button_label">Tühista</string>
+    <string name="captive_portal_connection_unsuccessful">Interneti-ühenduse loomine ebaõnnestus</string>
+    <string name="captive_portal_description_text">See võib võtta mõne minuti</string>
+    <string name="captive_portal_ssl_error_text">See ühendus kasutab ebakindlat või kehtetut sertifikaati. Valige mõni muu võrk ja proovige uuesti.</string>
+    <string name="captive_portal_title">Ühendamine …</string>
+    <string name="chrome_privacy_title">"Chrome'i privaatsusteatis"</string>
+    <string name="chrome_tos_title">"Chrome'i teenusetingimused"</string>
+    <string name="close_button_label">Sule</string>
+    <string name="common_google_play_services_enable_button">Luba</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play teenuste saadavalolek</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="connect_to_wifi_btn_text">WiFi-seaded</string>
+    <string name="connect_to_wifi_message">Jätkamiseks looge ühendus WiFi-võrguga</string>
+    <string name="connect_to_wifi_title">Rakenduse värskendused on valmis</string>
+    <string name="connected_via_app">Ühendatud võrgu %1$s kaudu</string>
+    <string name="connected_via_carrier">Ühendatud operaatori %1$s kaudu</string>
+    <string name="connected_via_network_scorer_default">Ühendus loodi automaatselt võrgukvaliteedi hinnangute pakkuja kaudu</string>
+    <string name="consolidate_captive_portal_description_text">See võib võtta mõne minuti</string>
+    <string name="consolidate_captive_portal_title">Värskenduste otsimine …</string>
+    <string name="continue_for_a11y">Hõlbustusrežiimi lubamiseks puudutage ekraani seni, kuni kuulete piiksatust.</string>
+    <string name="date_time_current_date">Kuupäev</string>
+    <string name="date_time_current_time">Kellaaeg</string>
+    <string name="date_time_message">Vajadusel muutke.</string>
+    <string name="date_time_setup_title">Kuupäev ja kellaaeg</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Jätka</string>
+    <string name="decision_point_google_assistant">"Google'i assistent"</string>
+    <string name="decision_point_illustration_description">"Lisatoimingud hõlmavad Google'i assistendi, Google Pay, funktsiooni Hetkel mängimas, fondi suuruse, taustapildi ja muu seadistusi"</string>
+    <string name="decision_point_leave_setup">Välju ja tuleta hiljem meelde</string>
+    <string name="decision_point_now_playing">Hetkel mängimas</string>
+    <string name="default_device_name_device">seade</string>
+    <string name="default_device_name_phone">telefon</string>
+    <string name="default_device_name_tablet">tahvelarvuti</string>
+    <string name="deferred_notification_prompt_title">Seadme ^1 seadistamise lõpuleviimine</string>
+    <string name="deferred_setup_button_label">Lõpeta seadistus</string>
+    <string name="deferred_setup_wizard_reason_assistant">rääkige oma assistendiga</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">"rääkige oma Google'i assistendiga"</string>
+    <string name="deferred_setup_wizard_reason_default">Vaid mõned toimingud veel</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopeerige oma andmed</string>
+    <string name="deferred_setup_wizard_reason_google_pay">kasutage Google Payd</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">makske Google Payga kiiremini</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 ja muud</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 ja veel</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Vaid mõned kiired toimingud ja teie seade ^1 on kasutamiseks valmis</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">määrake taustapilt</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">määrake taustapilt</string>
+    <string name="deferred_setup_wizard_title">Seadme seadistamise lõpuleviimine</string>
+    <string name="deferred_snooze_dialog_option_never">Mitte kunagi</string>
+    <string name="deferred_snooze_dialog_option_today">Hiljem tänase päeva jooksul</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Homme</string>
+    <string name="deferred_snooze_dialog_title">Tuleta mulle meelde</string>
+    <string name="deferred_welcome_airplane_mode_message">"Seadistuse viimaste toimingute tegemiseks on vaja Interneti-ühendust.
+
+Kui lennurežiim on sisse lülitatud, on WiFi-, mobiilsidevõrkude ja Bluetoothi ühendused katkestatud."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Seadista hiljem</string>
+    <string name="deferred_welcome_airplane_mode_title">Kas lülitada lennurežiim välja?</string>
+    <string name="deferred_welcome_screen_cancel_button">Tuleta mulle hiljem meelde</string>
+    <string name="deferred_welcome_title">Lõpetage seadme ^1 seadistus</string>
+    <string name="deferred_welcome_turn_off_button_label">Lülita välja</string>
+    <string name="device_owner_continue">Jätka seadistamist</string>
+    <string name="device_owner_reset">Lähtesta {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}}</string>
+    <string name="device_owner_warning">{0} haldab teie {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvutit}other{seadet}} ja pääseb teie teabele juurde. Kui te ei soovi kasutajale {0} juurdepääsu anda, lähtestage {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tahvelarvutit}other{Seadet}} võidakse jälgida</string>
+    <string name="dialog_back_button_label">Tagasi</string>
+    <string name="dialog_continue_button_label">Jätka</string>
+    <string name="early_update_installing_updates_text">Värskenduste installimine</string>
+    <string name="early_update_text">See võib võtta mõne minuti</string>
+    <string name="early_update_timeout_text">Kas see võtab liiga kaua aega? Proovige minna tagasi ja luua ühendus muu võrguga.</string>
+    <string name="early_update_title">Värskenduste otsimine …</string>
+    <string name="emergency_dial">Hädaabikõne</string>
+    <string name="enabled_a11y">Hõlbustusrežiim on lubatud.</string>
+    <string name="esim_option_button_summary">Lisage number eSIM-i abil</string>
+    <string name="esim_option_button_title">Kas laadida alla SIM-kaart?</string>
+    <string name="esim_warning_title">Laadige oma SIM-kaart alla</string>
+    <string name="esim_warning_txt">Kui olete %1$s tellija, pole teil vaja helistamiseks, tekstsõnumite saatmiseks ega andmeside kasutamiseks SIM-kaarti sisestada, vaid saate eSIM-kaardi alla laadida.</string>
+    <string name="esim_warning_txt_default">Looge ühendus oma mobiilsidevõrguga, laadides alla teabe, mis tavaliselt asub SIM-kaardil. See asendab tavapäraseid SIM-kaarte ja on sama turvaline.</string>
+    <string name="exit_loading_launcher">Käivitusprogrammi laadimine ...</string>
+    <string name="factory_reset_button">Kustuta ja lähtesta</string>
+    <string name="factory_reset_confirmation">Kas kustutada kõik {DEVICE_TYPE,select, PHONE{telefonis}TABLET{tahvelarvutis}other{seadmes}} olevad kontod ja andmed? Seda toimingut ei saa tagasi võtta.</string>
+    <string name="factory_reset_confirmation_title">Kas soovite lähtestada?</string>
+    <string name="factory_reset_instructions">Hoiatus: lähtestamisel kustutatakse selle {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} sisemälust kõik kontod ja andmed.</string>
+    <string name="factory_reset_title">Lähtesta {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}}</string>
+    <string name="final_hold_description_text">See võib võtta mõne minuti</string>
+    <string name="final_hold_title">Viimistlemine …</string>
+    <string name="final_hold_title_setup_work_account">Telefoni tööprofiili sead. ettevalm. …</string>
+    <string name="gms_account_checkin_title">Konto teabe hankimine …</string>
+    <string name="gms_checkin_description_text">See võib võtta mõne minuti</string>
+    <string name="gms_checkin_description_text_timeout">Kas see võtab liiga kaua aega? Proovige tagasi minna ja luua ühendus muu võrguga.</string>
+    <string name="gms_checkin_title">Värskenduste otsimine …</string>
+    <string name="go_back_button_label">Mine tagasi</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play teenusetingimused</string>
+    <string name="google_plus_privacy_policy_title">Google Plusi privaatsuseeskirjad</string>
+    <string name="google_privacy_policy_title">"Google'i privaatsuseeskirjad"</string>
+    <string name="google_provisioning_disclaimer_content">"Kehtivad Google'i teenusetingimused ja privaatsuseeskirjad. Lisateabe saamiseks külastage saiti &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>."</string>
+    <string name="google_terms_of_service_title">Google’i teenusetingimused</string>
+    <string name="invalid_phone_number">Tundmatu telefoninumber</string>
+    <string name="invalid_qr_code_content">Paluge oma IT-administraatorilt õiget koodi</string>
+    <string name="invalid_qr_code_retry">Proovi uuesti</string>
+    <string name="invalid_qr_code_title">Vale QR-kood</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ja iTunes on ettevõtte Apple Inc. kaubamärgid, mis on registreeritud USA-s ning teistes riikides.</string>
+    <string name="language_picker_section_all">Kõik keeled</string>
+    <string name="language_picker_section_suggested">Soovitatud</string>
+    <string name="migrate_from_ios_description">Toimige järgmiselt.</string>
+    <string name="migrate_from_ios_header">Kopeerige oma andmed</string>
+    <string name="migrate_from_ios_instructions_1">1. Avage Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Minge aadressile <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Järgige juhiseid</string>
+    <string name="network_description_text">Valige võrk</string>
+    <string name="network_description_text_esim">SIM-kaardi allalaadimiseks looge WiFi-ühendus</string>
+    <string name="network_see_all_wifi">Kuva kõik WiFi-võrgud</string>
+    <string name="network_timeout_description_text">Proovige uuesti teise võrguga. Kui jätkate ilma võrguühenduseta, võite mõned seadistustoimingud hiljem lõpule viia.</string>
+    <string name="network_timeout_title">Ühendust ei saanud luua</string>
+    <string name="network_timeout_try_another_network_button">Proovi teist võrku</string>
+    <string name="network_title">Ühenduse loomine WiFi-võrguga</string>
+    <string name="network_use_cellular">Kasuta seadistamiseks mobiilsidevõrku</string>
+    <string name="network_use_cellular_carrier">Loo ühendus WiFi-võrguga hiljem</string>
+    <string name="network_wifi_continue_button">Jätka</string>
+    <string name="not_set">Määramata</string>
+    <string name="notification_channel_name_deferred">Täiendav seadistus</string>
+    <string name="notification_channel_name_initial">Seadistamine</string>
+    <string name="notification_channel_name_restore">Andmete taastamine</string>
+    <string name="notification_channel_security_name_warnings">Turvahoiatused</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Kui jätkate ja hangite selle tarkvaravärskenduse, siis nõustute <annotation link="tos">"Google'i teenusetingimuste"</annotation> ja <annotation link="google_privacy">privaatsuseeskirjadega</annotation>.</string>
+    <string name="ota_info">Teie {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} peab laadima alla värskenduse ja taaskäivituma.</string>
+    <string name="ota_size">Suurus: %s</string>
+    <string name="ota_update_title">Värskendage {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvutit}other{seadet}}</string>
+    <string name="predeferred_prepare_setup">Seadistamise ettevalmistamine …</string>
+    <string name="predeferred_prepare_setup_details">Seadme ^1 seadistamise saab peagi lõpule viia</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Looge ühendus WiFi-võrguga</string>
+    <string name="predeferred_wifi_required_notification_content">Jätkamiseks looge ühendus WiFi-võrguga</string>
+    <string name="predeferred_wifi_required_notification_title">Rakenduse värskendused on valmis</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR-koodi skannimine</string>
+    <string name="region_picker_section_all">Kõik piirkonnad</string>
+    <string name="restart_setup_wizard_button_label">Seadista {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Selle {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} kasutamiseks tuleb teil esmalt logida sisse omaniku Google'i kontole, mida selles {DEVICE_TYPE,select, PHONE{telefonis}TABLET{tahvelarvutis}other{seadmes}} viimase lähtestamise ajal kasutati.
+
+Kuna te pole seda teinud, peate {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} uuesti seadistama."</string>
+    <string name="restart_setup_wizard_dialog_title">Ei ole sisse logitud</string>
+    <string name="restore_failed_message">Varukoopiat ei saa taastada</string>
+    <string name="restore_no_backup_message">Teie teises seadmes pole varuandmeid saadaval</string>
+    <string name="restore_no_backup_title">Ei saa taastada</string>
+    <string name="restore_stopped_message">Varukoopia taastamist ei saanud lõpule viia</string>
+    <string name="restore_title">Taastamine ...</string>
+    <string name="setup_ongoing_notification_text">Puudutage seadme ^1 seadistamise lõpuleviimiseks</string>
+    <string name="setup_ongoing_notification_title">Seadme ^1 seadistamine on pooleli</string>
+    <string name="setup_wizard_title">Androidi seadistamine</string>
+    <string name="sim_locked_text">"Telefon on praegu lukustatud muu operaatori võrgus kasutamiseks. Kasutage sobivat SIM-kaarti.
+
+Pärast SIM-kaardi sisestamist võib selle aktiveerimiseks kuluda mõni sekund."</string>
+    <string name="sim_locked_title">SIM-kaarti ei toetata</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Kui teil on SIM-kaart, sisestage see nüüd}other{Kui teil on SIM-kaardid, sisestage need nüüd}}</string>
+    <string name="sim_missing_title">Mobiilsidevõrguga ühendamine</string>
+    <string name="sim_ready_message">%1$s peaks olema kasutamiseks valmis</string>
+    <string name="sim_ready_message_carrier_app">Telefoninumbri %1$s aktiveerimise lõpuleviimiseks peate alla laadima rakenduse %2$s. Lõpetame nüüd teie telefoni seadistamise.</string>
+    <string name="sim_ready_message_invalid_phone_number">Teie number peaks olema kasutamiseks valmis</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Oma numbri aktiveerimise lõpuleviimiseks peate alla laadima rakenduse %1$s. Lõpetame nüüd teie telefoni seadistamise.</string>
+    <string name="sim_ready_title">%1$s on aktiivne</string>
+    <string name="sim_ready_title_carrier_app">Ühendage rakendusega %1$s hiljem</string>
+    <string name="sim_setup_ask_every_time">Küsi iga kord</string>
+    <string name="sim_setup_select_data">Mobiilse andmeside eelistus</string>
+    <string name="sim_setup_select_data_description">Valige number, mida mobiilse andmeside puhul kasutada</string>
+    <string name="sim_setup_select_text">SMS-i eelistus</string>
+    <string name="sim_setup_select_text_description">Valige väljuvate tekstsõnumite jaoks number (kõik aktiivsed numbrid saavad vastu võtta sissetulevaid tekstsõnumeid)</string>
+    <string name="sim_setup_select_voice">Kõnede eelistus</string>
+    <string name="sim_setup_select_voice_description">Valige väljauvate kõnede jaoks number (kõik aktiivsed numbrid saavad vastu võtta sissetulevaid kõnesid)</string>
+    <string name="sim_setup_title">SIM-kaartide seadistamine</string>
+    <string name="skip_anyway_button_label">Jäta siiski vahele</string>
+    <string name="skip_button_label">Jäta vahele</string>
+    <string name="skip_toast">Seadistusviisard jäeti vahele</string>
+    <string name="slots_selection_item_summary_activating">Aktiveerimine …</string>
+    <string name="slots_selection_item_summary_error">Praegu ei saa aktiveerida</string>
+    <string name="slots_selection_title">Valige number, mida kasutada</string>
+    <string name="speed_label_fast">Kiire</string>
+    <string name="speed_label_okay">Hea</string>
+    <string name="speed_label_slow">Aeglane</string>
+    <string name="speed_label_very_fast">Väga kiire</string>
+    <string name="sud_back_button_label">Tagasi</string>
+    <string name="sud_more_button_label">Rohkem</string>
+    <string name="sud_next_button_label">Järgmine</string>
+    <string name="suggested_actions_description">Seadistage mõned toimingud praegu või tehke seda hiljem jaotises Seaded</string>
+    <string name="suggested_actions_description_single_item">Siin on veel üks toiming, mis tuleb seadmes ^1 seadistada. Selle leiate ka hiljem jaotisest Seaded.</string>
+    <string name="suggested_actions_done_label">Praeguseks tehtud</string>
+    <string name="suggested_actions_no_thanks_label">Tänan, ei</string>
+    <string name="suggested_actions_title">Kas on veel midagi?</string>
+    <string name="switch_camera">Vaheta kaamerat</string>
+    <string name="switch_to_back_camera_button_content_description">Tagakaamera</string>
+    <string name="switch_to_front_camera_button_content_description">Esikaamera</string>
+    <string name="switched_to_back_camera_announcement">Nuppu kasutatakse nüüd esikaamera jaoks</string>
+    <string name="switched_to_front_camera_announcement">Nuppu kasutatakse nüüd tagakaamera jaoks</string>
+    <string name="tap_to_sign_up">Puudutage registreerumiseks</string>
+    <string name="terminate_toast">"Seadistusviisard lõpetati
+Seade on lähtestamata"</string>
+    <string name="try_again_button_label">Proovi uuesti</string>
+    <string name="url_load_unsuccessful_message">Teie {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} ei ole mobiilse andmesideteenusega ühendatud. Kui soovite teavet kohe vaadata, siis külastage veebibrauseris aadressi {0}.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Teie {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} ei ole WiFi-võrguga ühendatud. Kui soovite teavet kohe vaadata, külastage veebibrauseris aadressi {0}.</string>
+    <string name="user_warning_cannot_switch_message">Omanikust kasutaja kontole ei saa tagasi lülituda. Proovige hiljem uuesti.</string>
+    <string name="user_warning_label_continue">Jätka</string>
+    <string name="user_warning_label_quit">Tühista</string>
+    <string name="user_warning_quit_dialog_button_keep">Jäta kasutaja alles</string>
+    <string name="user_warning_quit_dialog_button_remove">Eemalda kasutaja</string>
+    <string name="user_warning_quit_dialog_message">Kas eemaldada kasutaja?</string>
+    <string name="user_warning_title">Uue kasutaja seadistamine</string>
+    <string name="wait_msg">Üks sekund ...</string>
+    <string name="web_dialog_unable_to_view">Kohe selle teabe vaatamiseks minge veebibrauseris saidile ^1.</string>
+    <string name="welcome_accessibility_button">Nähtavuse seaded</string>
+    <string name="welcome_language_picker_content_description">Keel: %s</string>
+    <string name="welcome_language_picker_dialog_title">Keele valimine</string>
+    <string name="welcome_message">Tere!</string>
+    <string name="welcome_secondary_user_added_text">Teid lisati sellesse {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvutisse}other{seadmesse}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Oluline.</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tahvelarvuti}other{Seadme}} omanik võib teie rakendused desinstallida või teie kasutajaprofiili täielikult eemaldada.</li>"
+
+"<li>Kõik teised kasutajad saavad nõustuda rakenduse värskendatud lubadega.</li>"
+
+"<li>Jagage seda {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvutit}other{seadet}} ainult inimestega, keda usaldate.</li></ul></string>
+    <string name="welcome_start_button_label">Alustamine</string>
+    <string name="wifi_add_new_network">Uue võrgu lisamine</string>
+    <string name="wifi_and_mobile_skipped_message">"WiFi- või mobiilsidevõrguga ühendamine aitab teil kiiresti oma {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} seadistada.
+
+Ilma ühenduseta ei saa te:
+
+"<ul><li>"logida sisse oma Google'i kontole;"</li>"
+
+"<li>taastada rakendusi ega andmeid;</li>"
+
+"<li>hankida tarkvaravärskendusi;</li>"
+
+"<li>seadistada automaatselt kuupäeva ja kellaaega.</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"WiFi- või mobiilsidevõrguga ühendamine aitab teil kiiresti oma {DEVICE_TYPE,select, PHONE{telefoni}TABLET{tahvelarvuti}other{seadme}} seadistada.
+
+Ilma ühenduseta ei saa te:
+
+"<ul><li>"logida sisse oma Google'i kontole;"</li>"
+
+"<li>taastada rakendusi ega andmeid;</li>"
+
+"<li>laadida alla SIM-kaarti;</li>"
+
+"<li>hankida tarkvaravärskendusi;</li>"
+
+"<li>seadistada automaatselt kuupäeva ja kellaaega.</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Pääsupunkt on ajutiselt täis</string>
+    <string name="wifi_check_password_try_again">Kontrollige parooli ja proovige uuesti</string>
+    <string name="wifi_connected_no_internet">Ühendatud, Interneti-ühendus puudub</string>
+    <string name="wifi_disabled_by_recommendation_provider">Võrgu kehva kvaliteedi tõttu ei ühendatud</string>
+    <string name="wifi_disabled_generic">Keelatud</string>
+    <string name="wifi_disabled_network_failure">IP seadistamise ebaõnnestumine</string>
+    <string name="wifi_disabled_password_failure">Autentimise probleem</string>
+    <string name="wifi_fail_to_scan">Võrke ei saa kontrollida</string>
+    <string name="wifi_ip_address_not_available">Pole saadaval</string>
+    <string name="wifi_ip_address_title">IP-aadress</string>
+    <string name="wifi_limited_connection">Piiratud ühendus</string>
+    <string name="wifi_mac_address_not_available">Pole saadaval</string>
+    <string name="wifi_mac_address_title">MAC-aadress</string>
+    <string name="wifi_metered_label">Mahupõhine</string>
+    <string name="wifi_no_internet">Juurdepääs Internetile puudub</string>
+    <string name="wifi_no_internet_no_reconnect">Automaatselt ei ühendata</string>
+    <string name="wifi_not_in_range">Pole vahemikus</string>
+    <string name="wifi_remembered">Salvestatud</string>
+    <string name="wifi_scanning">WiFi-võrkude otsimine …</string>
+    <string name="wifi_set_up_offline_title">Kas seadistada võrguühenduseta?</string>
+    <string name="wifi_skip_button_label">Seadista ühenduseta</string>
+    <string name="wifi_skipped_message">Teie {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} kasutab seadistamise ajal mobiilsidevõrku ja teilt võidakse selle andmekasutuse eest tasu võtta. Võimalike tasude vältimiseks looge ühendus WiFi-võrguga.</string>
+    <string name="wifi_skipped_title">Võimalikud andmetasud</string>
+    <string name="wifi_title">Ühenduse loomine WiFi-võrguga</string>
+    <string name="wifi_unmetered_label">Mittemahupõhine</string>
+    <string name="work_profile_setup_description">Selleks et see seade töö jaoks seadistada ja eraldada tööandmed isiklikest andmetest</string>
+    <string name="work_profile_setup_next">Järgmine</string>
+    <string name="work_profile_setup_skip">Jäta töökonto seadistamine vahele</string>
+    <string name="work_profile_setup_title">Lisage oma töökonto</string>
+    <string name="work_setup_interrupted">"Märkasime selles {DEVICE_TYPE,select, PHONE{telefonis}TABLET{tahvelarvutis}other{seadmes}} ebatavalist tegevust. Kui jätkate seadistamist, võivad teie andmed olla ohus.
+
+Uuesti alustamiseks lähtestage see {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvutit}other{seade}}."</string>
+    <string name="work_setup_interrupted_title">See {DEVICE_TYPE,select, PHONE{telefon}TABLET{tahvelarvuti}other{seade}} võib olla ebaturvaline</string>
+</resources>

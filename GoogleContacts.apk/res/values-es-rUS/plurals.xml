@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">Se agregaron %1$d contactos a la etiqueta %2$s</item>
+        <item quantity="one">Se agregó %1$d contacto a la etiqueta %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Agregando %1$d contactos a la etiqueta %2$s</item>
+        <item quantity="one">Agregando %1$d contacto a la etiqueta %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_apply_all_title">
+        <item quantity="other">¿Quieres actualizar %d contactos?</item>
+        <item quantity="one">¿Quieres actualizar %d contacto?</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Se encontraron nuevos detalles de %d personas que contactaste</item>
+        <item quantity="one">Se encontraron nuevos detalles de %d persona que contactaste</item>
+    </plurals>
+    <plurals name="add_missing_names_title">
+        <item quantity="other">Agregar &lt;xliff id="count">%d&lt;/xliff> nombres que faltan</item>
+        <item quantity="one">Agregar &lt;xliff id="count">%d&lt;/xliff> nombre que falta</item>
+    </plurals>
+    <plurals name="added_missing_names">
+        <item quantity="other">Se agregaron &lt;xliff id="count">%d&lt;/xliff> nombres que faltaban</item>
+        <item quantity="one">Se agregó &lt;xliff id="count">%d&lt;/xliff> nombre que faltaba</item>
+    </plurals>
+    <plurals name="all_accounts_account_count">
+        <item quantity="other">%1$d cuentas</item>
+        <item quantity="one">1 cuenta</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d direcciones no pueden recibir correos electrónicos</item>
+        <item quantity="one">%d dirección no puede recibir correos electrónicos</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d personas con información duplicada</item>
+        <item quantity="one">%d persona con información duplicada</item>
+    </plurals>
+    <plurals name="assistant_no_name_summary_card_body">
+        <item quantity="other">Faltan los nombres de &lt;xliff id="count">%d&lt;/xliff> contactos</item>
+        <item quantity="one">Falta el nombre de &lt;xliff id="count">%d&lt;/xliff> contacto</item>
+    </plurals>
+    <plurals name="assistant_suggestions_acted_on">
+        <item quantity="other">Se actualizaron %d contactos</item>
+        <item quantity="one">Se actualizó %d contacto</item>
+    </plurals>
+    <plurals name="block_numbers_dialog_title">
+        <item quantity="other">¿Deseas bloquear los números?</item>
+        <item quantity="one">¿Deseas bloquear el número?</item>
+    </plurals>
+    <plurals name="cleanup_fragment_title_count">
+        <item quantity="other">Borra %d correos electrónicos no deseados</item>
+        <item quantity="one">Borra %d correo electrónico no deseado</item>
+    </plurals>
+    <plurals name="cleanup_number_deleted">
+        <item quantity="other">Se eliminaron %d contactos</item>
+        <item quantity="one">Se eliminó %d contacto</item>
+    </plurals>
+    <plurals name="contact_names_added">
+        <item quantity="other">%d agregados</item>
+        <item quantity="one">%d agregado</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Se borraron %1$d contactos</item>
+        <item quantity="one">Se borraron %1$d contacto</item>
+    </plurals>
+    <plurals name="contacts_selected_title_fmt">
+        <item quantity="other">Se seleccionaron %d</item>
+        <item quantity="one">Se seleccionó %d</item>
+    </plurals>
+    <plurals name="delete_undeletable_contacts_failure_toast">
+        <item quantity="other">No se pudieron borrar los contactos de solo lectura</item>
+        <item quantity="one">No se pudo borrar el contacto de solo lectura</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Estos contactos se quitarán de los Contactos de Google y de todos los dispositivos sincronizados</item>
+        <item quantity="one">Este contacto se quitará de los Contactos de Google y de todos los dispositivos sincronizados</item>
+    </plurals>
+    <plurals name="duplicates_activity_title_count">
+        <item quantity="other">¿Combinar %d?</item>
+        <item quantity="one">¿Combinar %d?</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_success">
+        <item quantity="other">%d combinados</item>
+        <item quantity="one">%d combinado</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_title">
+        <item quantity="other">¿Deseas combinar %d duplicados?</item>
+        <item quantity="one">¿Deseas combinar %d duplicado?</item>
+    </plurals>
+    <plurals name="duplicates_cluster_content_description">
+        <item quantity="other">%1$d duplicados de %2$s</item>
+        <item quantity="one">%1$d duplicado de %2$s</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d contactos en tus otras cuentas</item>
+        <item quantity="one">1 contacto en tus otras cuentas</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d contactos</item>
+        <item quantity="one">1 contacto</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 contactos • ^2</item>
+        <item quantity="one">^1 contacto • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">¿Mover estos %1$d contactos a %2$s?</item>
+        <item quantity="one">¿Mover este contacto a %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d contactos movidos</item>
+        <item quantity="one">%d contacto movido</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Se terminaron de mover %1$d contactos</item>
+        <item quantity="one">Se terminó de mover el contacto</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_notification_title">
+        <item quantity="other">Moviendo %1$d contactos a %2$s</item>
+        <item quantity="one">Moviendo contacto a %2$s</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Moviendo %1$d contactos</item>
+        <item quantity="one">Moviendo contacto</item>
+    </plurals>
+    <plurals name="new_contact_assistant_summary_card_body">
+        <item quantity="other">Revisa %d sugerencias</item>
+        <item quantity="one">Revisa %d sugerencia</item>
+    </plurals>
+    <plurals name="new_contacts_assistant_suggestions_acted_on">
+        <item quantity="other">Se agregaron %d</item>
+        <item quantity="one">Se agregó %d</item>
+    </plurals>
+    <plurals name="phone_repair_contacts_to_update">
+        <item quantity="other">Los cambios afectan a %d países</item>
+        <item quantity="one">Los cambios afectan a %d país</item>
+    </plurals>
+    <plurals name="phone_repair_number_updated">
+        <item quantity="other">Se actualizaron %d números</item>
+        <item quantity="one">Se actualizó %d número</item>
+    </plurals>
+    <plurals name="phone_repair_qc_card_title">
+        <item quantity="other">Actualizar números de teléfono</item>
+        <item quantity="one">Actualizar número de teléfono</item>
+    </plurals>
+    <plurals name="phone_repair_updating_notification">
+        <item quantity="other">Se están actualizando %d números de teléfono. Estos cambios pueden demorar un poco en aparecer.</item>
+        <item quantity="one">Se está actualizando un número de teléfono. Estos cambios pueden demorar un poco en aparecer.</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Se creó una copia de seguridad de %1$d contactos en %2$s</item>
+        <item quantity="one">Se creó una copia de seguridad de %1$d contacto en %2$s</item>
+    </plurals>
+    <plurals name="restore_notification_title1_fmt">
+        <item quantity="other">Restablece %1$d contactos con copia de seguridad</item>
+        <item quantity="one">Restablece %1$d contacto con copia de seguridad</item>
+    </plurals>
+    <plurals name="restore_notification_title2_fmt">
+        <item quantity="other">%1$d contactos listos para restablecerse</item>
+        <item quantity="one">%1$d contacto listo para restablecerse</item>
+    </plurals>
+    <plurals name="restore_notification_title3_fmt">
+        <item quantity="other">Restablece %1$d contactos faltantes</item>
+        <item quantity="one">Restablece %1$d contacto faltante</item>
+    </plurals>
+    <plurals name="share_location_success_message_with_duration">
+        <item quantity="other">Tu ubicación se compartió durante %1$d minutos</item>
+        <item quantity="one">Tu ubicación se compartió durante 1 minuto</item>
+    </plurals>
+    <plurals name="sheepdog_confirm_cancel_dialog_content">
+        <item quantity="other">Es posible que no se pueda crear una copia de seguridad de %d contactos de este dispositivo</item>
+        <item quantity="one">Es posible que no se pueda crear una copia de seguridad de %d contacto de este dispositivo</item>
+    </plurals>
+    <plurals name="sheepdog_opt_in_count_info_text">
+        <item quantity="other">%d contactos del dispositivo no están guardados como contactos de Google</item>
+        <item quantity="one">%d contacto del dispositivo no está guardado como contacto de Google</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importar desde tarjetas SIM</item>
+        <item quantity="one">Importar desde tarjeta SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contactos</item>
+        <item quantity="one">1 contacto</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Se importaron %d contactos de la SIM</item>
+        <item quantity="one">Se importó 1 contacto de la SIM</item>
+    </plurals>
+    <plurals name="starred_contacts_activity_title">
+        <item quantity="other">%d contactos destacados</item>
+        <item quantity="one">%d contacto destacado</item>
+    </plurals>
+    <plurals name="unblock_numbers_dialog_title">
+        <item quantity="other">¿Deseas desbloquear los números?</item>
+        <item quantity="one">¿Deseas desbloquear el número?</item>
+    </plurals>
+</resources>

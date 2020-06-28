@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_device">About device</string>
+    <string name="action_add_account">Add</string>
+    <string name="action_add_details_to_report">Add details to report</string>
+    <string name="action_add_information">Add more information</string>
+    <string name="action_copy_bug_id">Copy issue number</string>
+    <string name="action_delete_from_list">Delete from the list</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_edit">Edit this issue</string>
+    <string name="action_mark_as_read">Mark as read</string>
+    <string name="action_recover_gcore">Fix</string>
+    <string name="action_required_issue_section_title">Issue requiring action (%s)</string>
+    <string name="action_required_issue_timestamp">More information is needed. Check your email for details.</string>
+    <string name="action_required_section_title">Action required</string>
+    <string name="action_resend">Tap to resend</string>
+    <string name="action_take_bug_report_then_send">Take a bug report then send</string>
+    <string name="action_view">View this issue</string>
+    <string name="action_view_canonical_issue">View canonical issue</string>
+    <string name="action_view_original_issue">View original issue</string>
+    <string name="add_information">Attach to issue</string>
+    <string name="add_step">Add step</string>
+    <string name="add_to_existing_issue">Add to issue not shown below</string>
+    <string name="additional_message_instr">Additional comments</string>
+    <string name="all_reported_issues">All reported issues</string>
+    <string name="allow_additional_file_types">Allow additional file types</string>
+    <string name="android_issue_category_instr">What type of Android issue is this?</string>
+    <string name="android_platform_bug">Android platform issue</string>
+    <string name="announce_dismiss_tip">Tip dismissed.</string>
+    <string name="app_bug">App issue</string>
+    <string name="app_info_instr">Related apps</string>
+    <string name="app_issue_category_anr_menu">Application not responding</string>
+    <string name="app_issue_category_crash_menu">Crash</string>
+    <string name="app_issue_category_instr">What type of issue is this?</string>
+    <string name="app_name">Android Beta Feedback</string>
+    <string name="app_short_name">Feedback</string>
+    <string name="app_system_status_bundled">Bundled</string>
+    <string name="app_system_status_not_system">Non-system</string>
+    <string name="app_system_status_updated">Updated</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="attach_bug_success_text">Attached report to Issue %s</string>
+    <string name="attach_files_header_text">Bug report logs contain &lt;a href=>personal information&lt;/a>. Attachments will only be available to Google and its engineering partners potentially impacted by your issue.</string>
+    <string name="attach_known_issue">Add comment or attachment</string>
+    <string name="attach_this_file_to">Attach this file to:</string>
+    <string name="attached_issue_title">Details</string>
+    <string name="attaching_in_progress">Attaching report to Issue %s</string>
+    <string name="attachment_dialog_bug_report">Bug report</string>
+    <string name="attachment_dialog_bug_report_detail">Detailed data about the current state of the device and operation system. These reports are only collected with your permission and may be large in size.</string>
+    <string name="attachment_dialog_instruction">Bug reports, screen captures and recordings, device logs, and other diagnostic information are necessary for developers to find and fix problems. Personal data will be removed for your privacy.</string>
+    <string name="attachment_dialog_layout_logs">Layout logs</string>
+    <string name="attachment_dialog_layout_logs_detail">Specific data about the device, system, and/or app to help identify the problem.</string>
+    <string name="attachment_dialog_other_attachments">Other attachments</string>
+    <string name="attachment_dialog_other_attachments_detail">Some bugs may require additional information for diagnosis. Specific instructions will be provided when this is necessary.</string>
+    <string name="attachment_dialog_screen_capture">Screen capture</string>
+    <string name="attachment_dialog_screen_capture_detail">An image of the screen and log data about the current screen layout to show the problem.</string>
+    <string name="attachment_dialog_screen_recording">Screen recording</string>
+    <string name="attachment_dialog_screen_recording_detail">Brief video taken to show steps and context of the problem and the subsequent results of it.</string>
+    <string name="attachment_dialog_title">Types of attachments</string>
+    <string name="attachment_get_content_chooser_title">Choose type of attachment</string>
+    <string name="attachment_instr">Attach files</string>
+    <string name="attachment_options_capture_screenshot">Capture a screenshot</string>
+    <string name="attachment_options_capture_screenshot_in_progress">Capturing in progress</string>
+    <string name="attachment_options_choose_attaching_contents">Choose other attachment</string>
+    <string name="attachment_options_choose_from_local_files">Choose from local files</string>
+    <string name="attachment_options_record_screen">Record the screen</string>
+    <string name="attachment_options_record_screen_in_progress">Recording in progress</string>
+    <string name="attachment_options_take_bug_report">Take a new bug report</string>
+    <string name="attachment_options_take_bug_report_required">Take a new bug report (required)</string>
+    <string name="attachment_pending">Pending</string>
+    <string name="attachment_processing">Processing</string>
+    <string name="attachment_uploaded">Attachment uploaded.</string>
+    <string name="beta_program_concluded_dialog_message">Thank you for participating in the Android Beta Program. The program has concluded and at this time we are no longer accepting feedback via this app.</string>
+    <string name="beta_program_concluded_dialog_negative_action">Close app</string>
+    <string name="beta_program_concluded_dialog_positive_action">Uninstall</string>
+    <string name="bug_number_instr">Issue number</string>
+    <string name="bug_subtext">%1$s • %2$s</string>
+    <string name="bug_summary_app_issue_instr">Brief title of issue for %s</string>
+    <string name="bug_summary_instr">Brief title</string>
+    <string name="buganizer_component">Component</string>
+    <string name="bugreport_confilct_negative_button">No</string>
+    <string name="bugreport_confilct_positive_button">Yes, cancel and start a new bug report</string>
+    <string name="bugreport_conflict_dialog_message">A bug report is already in progress. Would you like to cancel it?</string>
+    <string name="bugreport_notification_action_go_to_settings">Go to Settings</string>
+    <string name="bugreport_notification_bugreport_shortcut_when_screen_locked">Bug report is saved when device is locked. Share with %s or start a new bug report after unlocking.</string>
+    <string name="bugreport_notification_error_another_report_in_progress">Bug report failed. Another bug report is already in progress.</string>
+    <string name="bugreport_notification_error_invalid_input">Bug report failed.</string>
+    <string name="bugreport_notification_error_runtime">Bug report failed or canceled by user.</string>
+    <string name="bugreport_notification_error_user_consent_timed_out">Failed to attach bug report. Permission timed out.</string>
+    <string name="bugreport_notification_error_user_denied_consent">Bug report canceled. Permission denied.</string>
+    <string name="bugreport_notification_error_user_denied_consent_from_bugreport_shortcut">Bug report canceled. You may change the default bug report handler in Settings.</string>
+    <string name="bugreport_notification_text_finished">The report is added to queue and waiting to be uploaded.</string>
+    <string name="bugreport_notification_text_in_progress">Please wait</string>
+    <string name="bugreport_notification_title_error">An error occurred when taking a bug report.</string>
+    <string name="bugreport_notification_title_finished">The bug report is finished.</string>
+    <string name="bugreport_notification_title_in_progress">Taking a bug report.</string>
+    <string name="bugreport_toast_failed_to_create_bugreport">Failed to create a report.</string>
+    <string name="build_number_instr">- Build Number:</string>
+    <string name="button_choose_from_files">Choose from files</string>
+    <string name="button_file_without_a_bug_report">File without a bug report</string>
+    <string name="button_ok">OK</string>
+    <string name="button_take_a_new_bug_report">Take a new bug report</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_bugreport_shortcut">Bugreport shortcut</string>
+    <string name="category_detected_issues">Detected Issues</string>
+    <string name="category_licenses">Licenses</string>
+    <string name="category_notifications">Notifications</string>
+    <string name="category_persistlog">Persistent Log</string>
+    <string name="category_ramdump">Ramdump</string>
+    <string name="category_smart_storage">Smart Storage</string>
+    <string name="category_theme">Theme</string>
+    <string name="category_uploads">Uploads</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choice_dark_theme">Dark</string>
+    <string name="choice_light_theme">Light</string>
+    <string name="choice_system_theme">System default</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="community">Community</string>
+    <string name="copied_to_clipboard">Copied %s to clipboard.</string>
+    <string name="copy">Copy</string>
+    <string name="create_success_title">Upload complete.</string>
+    <string name="date_picker">Date</string>
+    <string name="default_web_client_id">822104886923-capepj6jucp9h8m60phfjd4pmjdit3tl.apps.googleusercontent.com</string>
+    <string name="delete_button">Delete</string>
+    <string name="delete_step_dialog_message">Are you sure you want to delete this step?</string>
+    <string name="desc_action_add_information">Add more information to this issue</string>
+    <string name="desc_action_copy_bug_id">Copy issue number</string>
+    <string name="desc_action_delete_from_list">Delete this issue from the list</string>
+    <string name="desc_action_edit">Edit this issue</string>
+    <string name="desc_action_mark_as_read">Mark this issue as read</string>
+    <string name="desc_action_resend">Resend this issue</string>
+    <string name="desc_action_view">View this issue</string>
+    <string name="desc_action_view_canonical_issue">View canonical issue</string>
+    <string name="desc_action_view_original_issue">View original issue</string>
+    <string name="desc_add_step">Add reproduction step</string>
+    <string name="desc_attachment_thumbnail">Attachment preview</string>
+    <string name="desc_bug_status_action_required">Action required report</string>
+    <string name="desc_bug_status_capturing">Screen capturing in progress report</string>
+    <string name="desc_bug_status_closed">Closed report</string>
+    <string name="desc_bug_status_complete">Completed report</string>
+    <string name="desc_bug_status_draft">Draft report</string>
+    <string name="desc_bug_status_duplicated">Duplicated report</string>
+    <string name="desc_bug_status_failed">Failed report</string>
+    <string name="desc_bug_status_fixed">Fixed report</string>
+    <string name="desc_bug_status_pending_scotty">Pending attachments for upload</string>
+    <string name="desc_bug_status_processing">Processing report</string>
+    <string name="desc_bug_status_queued">Queued report</string>
+    <string name="desc_bug_status_recording">Screen recording in progress report</string>
+    <string name="desc_bug_status_uploading">Uploading report</string>
+    <string name="desc_bugslist_overflow_menu">Other actions on bugs</string>
+    <string name="desc_clear_button">Delete draft</string>
+    <string name="desc_close_button">Close</string>
+    <string name="desc_collapse">Collapse</string>
+    <string name="desc_collapsed_to_expand">Collapsed, double tap to expand</string>
+    <string name="desc_date_no_selection">Selected date: No selection.</string>
+    <string name="desc_date_picker">Selected date: %s</string>
+    <string name="desc_dismiss_tip">Dismiss tip.</string>
+    <string name="desc_expand">Expand</string>
+    <string name="desc_expanded_to_collapse">Expanded, double tap to collapse</string>
+    <string name="desc_hide_nav_drawer">Hide navigation drawer</string>
+    <string name="desc_remove_attachment">Remove attachment</string>
+    <string name="desc_remove_step">Remove reproduction step</string>
+    <string name="desc_search_app_overflow_menu">Overflow menu</string>
+    <string name="desc_send_bug_report">Send report</string>
+    <string name="desc_send_feature_request">Send feature request</string>
+    <string name="desc_show_nav_drawer">Show navigation drawer</string>
+    <string name="desc_switch_action">Toggle the switch</string>
+    <string name="desc_time_no_selection">Selected time: No selection.</string>
+    <string name="desc_time_picker">Selected time: %s</string>
+    <string name="detected_bug_timestamp">Detected %s</string>
+    <string name="detected_issue_section_title">Detected issue (%s)</string>
+    <string name="detected_issue_signature">Issue detected by %s.</string>
+    <string name="detected_issue_status">Issue report not yet created</string>
+    <string name="detected_issue_title">Detected issues</string>
+    <string name="dialog_action_continue">Continue</string>
+    <string name="dialog_english_only_msg">"At this time, this app is only available in English. Android bugs and feature requests submitted to Google's &lt;a href=%1$s>Issue Tracker&lt;/a> should be in English as well. &lt;br />&lt;br /> If you’re using a Pixel phone but unable to use this app in English, there’s an alternative way to &lt;a href=https://support.google.com/pixelphone/answer/6398243>send feedback&lt;/a> to Google."</string>
+    <string name="dialog_english_only_title">English only</string>
+    <string name="dialog_message_disable_ramdump_failed">Failed to disable device ramdump. Please try again after rebooting.</string>
+    <string name="dialog_message_enable_android_log">Persistent log could provide more device log when you file a bug, it is helpful on bug clarification and product quality improvement.</string>
+    <string name="dialog_message_not_enough_space">Ramdump needs at least 10 GB of free space on your device.</string>
+    <string name="dialog_message_permission_request_rationale">"If you allow the 'Phone' permission, %1$s can better protect identifying information in uploaded files. The app uses this to redact logged data, not to actually make or manage phone calls."</string>
+    <string name="dialog_message_reboot_needed">Please reboot your device for new device ramdump settings to take effect.</string>
+    <string name="dialog_title_disable_ramdump_failed">Disable ramdump failed</string>
+    <string name="dialog_title_enable_android_log">Enable Persistent Log Record</string>
+    <string name="dialog_title_not_enough_space">Not enough space</string>
+    <string name="dialog_title_permission_request">Permission Requested</string>
+    <string name="dialog_title_reboot_needed">Reboot needed</string>
+    <string name="dialog_voting_message">You are now subscribed to issue updates.</string>
+    <string name="dialog_voting_title">Thanks for voting</string>
+    <string name="discard">Discard</string>
+    <string name="dont_show_again">"Don't show this again"</string>
+    <string name="draft_bug_timestamp">Started %s</string>
+    <string name="draft_issue_section_title">Draft issue (%s)</string>
+    <string name="drop_box_entry_title_anr_format">%s froze</string>
+    <string name="drop_box_entry_title_crash_format">%s crashed</string>
+    <string name="drop_box_entry_title_native_crash_format">%s crashed (native crash)</string>
+    <string name="elapsed_more_than_year">more than a year ago</string>
+    <string name="error_getting_screencast">Error getting Screencast</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="everytime">Every time</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="expected_results_instr">What did you expect to happen?</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="external_file_completed_header" formatted="false">[Issue %s] %s</string>
+    <string name="external_issue_status_change_notification_body" formatted="false">[Issue %s] %s</string>
+    <string name="failure_attachment_failed">Cannot upload file %s, please share it via Drive.</string>
+    <string name="failure_attachment_not_found">Cannot find file %s, please reattach it.</string>
+    <string name="failure_attachment_size_exception">Attachment %1$s size is invalid: %2$d, please check it.</string>
+    <string name="failure_authentication">"User isn't signed in."</string>
+    <string name="failure_default_error_message_from_server">Got unexpected response from server. Please report this failure in a new bug.</string>
+    <string name="failure_exceed_retry_limit">Retried 3 times but still failed. Please report this failure in a new bug.</string>
+    <string name="failure_illegal_access">Current report is in an illegal status.</string>
+    <string name="failure_illegal_action">Upload action is not permitted.</string>
+    <string name="failure_illegal_component">Components are not loaded properly.</string>
+    <string name="failure_illegal_issue_id">The issue ID %s is invalid.</string>
+    <string name="failure_server_exception_archived_component">Cannot upload to an archived component.</string>
+    <string name="failure_server_exception_attachment_partial_failure">Cannot upload some attachments. Please resend.</string>
+    <string name="failure_server_exception_deadline_exceeded">Report has taken too long to send. Please try again later.</string>
+    <string name="failure_server_exception_invalid_argument">Report contains invalid data. Please tell us about this failure in a new bug report.</string>
+    <string name="failure_server_exception_issue_not_found">Issue cannot be found. Please verify the issue number and try again.</string>
+    <string name="failure_server_exception_permission_denied">Access to this component is restricted. Permission is required.</string>
+    <string name="failure_server_exception_unavailable">Bug report service is unavailable. Please try again later.</string>
+    <string name="failure_server_exception_unspecific">An error has occurred. Please tell us about this failure in a new bug report.</string>
+    <string name="feature_request">Feature request</string>
+    <string name="feature_request_content_required">Feature request content is required.</string>
+    <string name="feature_request_header">[Feature Request] %s</string>
+    <string name="feature_request_menu">Feature request</string>
+    <string name="feature_request_title">Feature request</string>
+    <string name="feedback_paused_dialog_message">Thank you for participating in the Android Beta Program. Until the next Beta software is available, we are no longer accepting new bugs via this app due to high volumes. Developers should still file bugs using &lt;a href=https://developer.android.com/preview/feedback.html>https://developer.android.com/preview/feedback.html&lt;/a></string>
+    <string name="file_bugs_faster_tip_message">First tap on &lt;b>Take a new bug report&lt;/b> below, then enter the details. This issue will be automatically sent when the bug report is finished.</string>
+    <string name="file_bugs_faster_tip_title">File bugs faster</string>
+    <string name="file_existing_header">Attach to Issue %s</string>
+    <string name="file_provider_authority">com.google.android.apps.betterbug.filebug.file_provider_authority</string>
+    <string name="filed_bug_timestamp">Filed %1$s</string>
+    <string name="filed_issue_signature">Filed by Android Beta Feedback.</string>
+    <string name="firebase_database_url">https://betterbug-p3u.firebaseio.com</string>
+    <string name="form_error_required">Required</string>
+    <string name="form_tip_text_feature_request">Use Feature Request to suggest new Android features or major design changes.</string>
+    <string name="form_tip_text_report_problem">"Use Report Issue to file bugs publicly in Google's issue tracker. You can easily attach bug report logs using this app."</string>
+    <string name="form_tip_title">What is this?</string>
+    <string name="frequently">Frequently</string>
+    <string name="future">in the future (=_=|)</string>
+    <string name="gcm_defaultSenderId">822104886923</string>
+    <string name="google_api_key">AIzaSyAsugbLPghzx2Zq_dSZlROibNLbUUWQJSI</string>
+    <string name="google_app_id">1:822104886923:android:1bf28b7a4c9b51e7</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAsugbLPghzx2Zq_dSZlROibNLbUUWQJSI</string>
+    <string name="google_storage_bucket">betterbug-p3u.appspot.com</string>
+    <string name="hardware_revision_instr">- Hardware Revision:</string>
+    <string name="header_tip_text_message">"Reported issues are &lt;b>publicly visible&lt;/b>, so don't enter personal information in the fields below. Please review &lt;a href=%1$s>Known Issues&lt;/a> and &lt;a href=%2$s>search&lt;/a> for similar reports from other users before filing your issue or request. ‘Star’ existing issues to follow updates."</string>
+    <string name="help">Help</string>
+    <string name="hide_system_apps">Hide System Apps</string>
+    <string name="hint_attaching_issue">Please add more details for this existing issue.</string>
+    <string name="hint_brief_title_no_example">Please be specific.</string>
+    <string name="hint_feature_request">What feature or change are you requesting?</string>
+    <string name="hint_field_required">(Required)</string>
+    <string name="hint_issue_type_required">Select issue type (required)</string>
+    <string name="home_tip_best_reports_instruction">Clear and specific, so that Google’s developers can reproduce the issue described. Search &lt;a href=%1$s>here&lt;/a> for issues already reported.</string>
+    <string name="home_tip_best_reports_title">The best reports are:</string>
+    <string name="home_tip_welcome_instruction">This app is for submitting feedback about the Android Beta / Developer Previews only.</string>
+    <string name="home_tip_welcome_title">Welcome to %s</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="issue_action_required_notification_title">Issue %d requires your attention.</string>
+    <string name="issue_closed_notification_title">Issue %d has been closed.</string>
+    <string name="issue_fixed_notification_title">Issue %d has been fixed.</string>
+    <string name="issues_detected_tip_instruction">Your device has not operated properly. Information about the irregularities has been recorded and is described below. Please file an issue report.</string>
+    <string name="issues_detected_tip_title">Issues have been detected</string>
+    <string name="just_now">moments ago</string>
+    <string name="label_choose_target_activity">Apps</string>
+    <string name="label_starred">Remove star</string>
+    <string name="label_unstarred">Add star</string>
+    <string name="loading_apps">Loading apps…</string>
+    <string name="manage_notifications">Manage notifications</string>
+    <string name="message_add_corp_account">Please add an eligble account to this device.</string>
+    <string name="message_attachment_error">One or more attachments could not be located.</string>
+    <string name="message_bug_additional">"%1$s 
+Ramdump UUID: 
+%2$s 
+https://android-dogfood-uploads.googleplex.com/get?id=%2$s.zip"</string>
+    <string name="message_bug_completed">Thanks for filing this report!</string>
+    <string name="message_bug_deleted_from_list">Issue removed from your list.</string>
+    <string name="message_bug_ramdump_auto_file">Auto Filing Ramdump issue To Buganizer.</string>
+    <string name="message_bug_removed">This report has been removed.</string>
+    <string name="message_bug_summary_full_ramdump">Full ramdump with signature :%1$s</string>
+    <string name="message_bug_summary_subsystem_ramdump">Sub-system (%1$s) ramdump with signature :%2$s</string>
+    <string name="message_confirm_delete_completed">This does not delete reports already submitted.</string>
+    <string name="message_confirm_delete_draft">This will cancel any ongoing bug reports attached to this issue.</string>
+    <string name="message_draft_discarded">This draft has been discarded.</string>
+    <string name="message_editing_is_disabled_while_screen_capturing">Editing is disabled while capturing.</string>
+    <string name="message_editing_is_disabled_while_screen_recording">Editing is disabled while recording.</string>
+    <string name="message_form_invalid">Some fields are empty. We recommend filling out all fields.</string>
+    <string name="message_form_invalid_complete_all">Please complete all required fields.</string>
+    <string name="message_gcore_not_available">Google Play Service is not available.</string>
+    <string name="message_no_attachment">%s The device logs and other diagnostic information in a bug report (ZIP archive) are necessary for developers to find and fix problems.</string>
+    <string name="message_no_attachment_learn_more_format">%1$s %2$s</string>
+    <string name="message_no_attachment_learn_more_link">&lt;a href=%s>Learn more&lt;/a></string>
+    <string name="message_on_cellular_network">Uploading over mobile data. Charges may apply.</string>
+    <string name="message_on_metered_wifi_network">Uploading over metered Wi-Fi. Charges may apply.</string>
+    <string name="message_required_app_update">A required app update must be installed.</string>
+    <string name="message_required_fields_have_been_completed">Required fields have been completed.</string>
+    <string name="message_required_fields_must_be_completed">Required fields must be completed.</string>
+    <string name="message_sign_in_failure">"Couldn't sign in. Please check your Internet connection."</string>
+    <string name="message_unvoting">"You're no longer subscribed to issue updates."</string>
+    <string name="message_voting">"Thanks for voting. You're now subscribed to issue updates."</string>
+    <string name="missing_bug_report">A bug report is required.</string>
+    <string name="more_reported_issues">More top reported issues</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="need_enable_channel_dialog_message">&lt;b>%s&lt;/b> notifications must be enabled to use this feature. Select &lt;b>Continue&lt;/b> to manage notifications.</string>
+    <string name="need_enable_channel_dialog_negative_button">Cancel</string>
+    <string name="need_enable_channel_dialog_positive_button">Continue</string>
+    <string name="need_enable_channel_dialog_title"><b>Notifications disabled</b></string>
+    <string name="new_android_issue">New Android issue</string>
+    <string name="new_app_issue">New app issue</string>
+    <string name="new_feature_request">New feature request</string>
+    <string name="no_attachments">No attachments</string>
+    <string name="no_bug_text">No recent reports. Tap one of the above options to start submitting feedback</string>
+    <string name="no_title_place_holder">(No Brief Title Entered)</string>
+    <string name="not_now">Not Now</string>
+    <string name="not_set">Not set</string>
+    <string name="notification_action_copy_bug_id">Copy issue number</string>
+    <string name="notification_action_more_details">More details</string>
+    <string name="notification_action_send_again">Send again</string>
+    <string name="notification_action_view_report">View report</string>
+    <string name="notification_channel_description_action_required">Channel for action required notification control</string>
+    <string name="notification_channel_description_bug_report">Channel for bug report notification control</string>
+    <string name="notification_channel_description_screen_capturing">Channel for screen capturing notification control</string>
+    <string name="notification_channel_description_screen_recording">Channel for screen recording notification control</string>
+    <string name="notification_channel_description_status_change">Channel for status change notification control</string>
+    <string name="notification_channel_description_upload_progress">Channel for upload progress notification control</string>
+    <string name="notification_channel_group_name_collect_data">Collecting data</string>
+    <string name="notification_channel_group_name_report_status">Report status</string>
+    <string name="notification_channel_name_action_required">Action required</string>
+    <string name="notification_channel_name_bug_report">Taking a new bug report</string>
+    <string name="notification_channel_name_screen_capturing">Screen capturing</string>
+    <string name="notification_channel_name_screen_recording">Screen recording</string>
+    <string name="notification_channel_name_status_change">Status change</string>
+    <string name="notification_channel_name_upload_progress">Upload progress</string>
+    <string name="oauth_client_id">822104886923-capepj6jucp9h8m60phfjd4pmjdit3tl.apps.googleusercontent.com</string>
+    <string name="observed_results_instr">What actually happened?</string>
+    <string name="occasionally">Occasionally</string>
+    <string name="og_add_another_account">Add another account</string>
+    <string name="og_choose_an_account">Choose an account</string>
+    <string name="og_close_icon_a11y">Close</string>
+    <string name="og_collapse_account_menu_a11y">Collapse account menu.</string>
+    <string name="og_expand_account_menu_a11y">Expand account menu.</string>
+    <string name="og_google_one_account_a11y">Google One account.</string>
+    <string name="og_manage_accounts">Manage accounts on this device</string>
+    <string name="og_my_account_desc_long_length">Manage your Google Account</string>
+    <string name="og_my_account_desc_meduim_length">Google Account</string>
+    <string name="og_my_account_desc_short_length">Account</string>
+    <string name="og_privacy_policy">Privacy Policy</string>
+    <string name="og_sign_in">Sign in</string>
+    <string name="og_signed_in_user_a11y_">Signed in as %1$s.</string>
+    <string name="og_switch_account_to_recent_a11y">Switch to %1$s account</string>
+    <string name="og_terms_of_service">Terms of Service</string>
+    <string name="og_use_account_a11y">Use %1$s.</string>
+    <string name="og_use_without_an_account">Use without an account</string>
+    <string name="once">Once</string>
+    <string name="only_upload_on_unmetered_wifi_network">Only upload reports over unmetered Wi-Fi network</string>
+    <string name="open_settings">Take me there</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="other_feedback">General feedback</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pending_section_title">Pending</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes">Primes</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="privacy_notice_dialog_message">By submitting this bug report, you acknowledge that Google may use information included in the bug report to diagnose technical issues and to improve our products and services, in accordance with our &lt;a href=http://www.google.com/privacy.html>Privacy Policy&lt;/a>, and you agree that we may share it with engineering partners potentially impacted by your issue. &lt;br />&lt;br /> Bug reports include personal information logged on your device or by apps, such as: &lt;li>File names &lt;li>Installed apps and usage &lt;li>Email addresses of the profiles on the device &lt;li>Device identifiers, such as phone number &lt;li>Web history information, including URLs / URIs &lt;li>Location information, including limited location history &lt;li>Network information, such as IP/SSID/MAC addresses and saved or scanned APNs &lt;li>System or device information, such as memory and processes</string>
+    <string name="project_id">betterbug-p3u</string>
+    <string name="queued_bug_timestamp">Queued %s, awaiting unmetered network</string>
+    <string name="ramdump_uploader">Ramdump Uploader</string>
+    <string name="recently_reported">My reported issues</string>
+    <string name="release_notes">Release notes</string>
+    <string name="remove">Remove</string>
+    <string name="report_android_bug">Report Android issue</string>
+    <string name="report_app_bug">Report app issue</string>
+    <string name="report_google_issue">Report issue to Google</string>
+    <string name="report_google_issue_statement">"This app is provided as part of a confidential Google testing program. Please don't show, share, or discuss with others."</string>
+    <string name="report_issue">Report issue</string>
+    <string name="reported_issue_section_title">My recently reported issue (%s)</string>
+    <string name="repro_step_hint">%d. Enter repro step here</string>
+    <string name="repro_step_hint_required">%d. Enter repro step here (required)</string>
+    <string name="repro_times_instr">How often has this happened?</string>
+    <string name="save_to_local_files_on_device">Save to local files on device</string>
+    <string name="screen_capturing_cancelled">Capturing was cancelled.</string>
+    <string name="screen_capturing_countdown">Capturing screenshot in %d seconds.</string>
+    <string name="screen_capturing_dialog_instruction_message">"You may capture new screenshots or select existing screenshots from files on this device.
+
+Capture one or more new screenshots by navigating to a screen, then use the controls in the notification to save it.
+
+You will return to this form after the last screenshot has been captured."</string>
+    <string name="screen_capturing_dialog_negative_button">Select from files</string>
+    <string name="screen_capturing_dialog_positive_button">Capture</string>
+    <string name="screen_capturing_dialog_title">Capture new screenshot or attach from files?</string>
+    <string name="screen_capturing_failed">Screen capturing failed.</string>
+    <string name="screen_capturing_notification_capture">Capture</string>
+    <string name="screen_capturing_notification_finish">Finish</string>
+    <string name="screen_capturing_notification_text">Tap Finish to return to your draft issue.</string>
+    <string name="screen_capturing_notification_title">Ready to capture screenshot(s).</string>
+    <string name="screen_recording_cancelled">Recording was cancelled.</string>
+    <string name="screen_recording_dialog_instruction_message">Selecting <b>Continue</b> will minimize this app and send a notification with <b>Start</b> and <b>Stop</b>" controls for recording.
+
+Navigate to the screen where you want to begin, then start recording.
+
+When finished, you'll be returned to this app."</string>
+    <string name="screen_recording_dialog_negative_button">Cancel</string>
+    <string name="screen_recording_dialog_positive_button">Continue</string>
+    <string name="screen_recording_dialog_title">Preparing to record the screen</string>
+    <string name="screen_recording_error_creating_output_directory">Error creating %1$s directory.</string>
+    <string name="screen_recording_failed">Recording failed.</string>
+    <string name="screen_recording_notification_cancel">Cancel</string>
+    <string name="screen_recording_notification_start_recording">Start</string>
+    <string name="screen_recording_notification_stop_recording">Stop</string>
+    <string name="screen_recording_notification_title_ready">Ready to start recording</string>
+    <string name="screen_recording_notification_title_recording">Currently recording</string>
+    <string name="screencast_permission_denied">Screencast permission denied</string>
+    <string name="search">Search</string>
+    <string name="search_app_hint">Search app</string>
+    <string name="send">Send</string>
+    <string name="send_anyway">Send anyway</string>
+    <string name="serial_number_instr">- Serial Number:</string>
+    <string name="server_production">Production</string>
+    <string name="server_staging">Staging</string>
+    <string name="server_testing">Testing</string>
+    <string name="settings">Settings</string>
+    <string name="share_dialog_activity_title">Choose Feedback Type</string>
+    <string name="share_dialog_fullscreen_description">Select how you want to send your feedback. You may add to an existing issue or send a new issue report.</string>
+    <string name="show_system_apps">Show System Apps</string>
+    <string name="sign_in">Sign In</string>
+    <string name="smart_storage_tip_message">"Automatically delete old files created with this app?
+This option may be changed in Settings."</string>
+    <string name="smart_storage_tip_negative_button">"No, I'll manage the files"</string>
+    <string name="smart_storage_tip_positive_button">Yes, free up space</string>
+    <string name="smart_storage_tip_title">Smart Storage</string>
+    <string name="status_canonical">Issue %s</string>
+    <string name="status_capturing">Screen capturing in progress</string>
+    <string name="status_closed">Closed on %s</string>
+    <string name="status_completed">Issue %s</string>
+    <string name="status_draft">Draft report not yet filed</string>
+    <string name="status_duplicated">Issue %1$s • %2$s</string>
+    <string name="status_failed">Report not uploaded</string>
+    <string name="status_failed_timestamp">Last tried on %s</string>
+    <string name="status_fixed">Fixed on %s</string>
+    <string name="status_pending_scotty">Pending for uploading attachments to issue %s</string>
+    <string name="status_processing">Report is processing</string>
+    <string name="status_queued">Queued for upload</string>
+    <string name="status_recording">Screen recording in progress</string>
+    <string name="status_uploading">Report is uploading</string>
+    <string name="steps_to_repro_instr">What steps would let us observe this issue?</string>
+    <string name="summary_allow_additional_file_types">Allow attachments other than bug reports, images, and videos.</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_enable_smart_storage">Manage storage by automatically removing files created by this app</string>
+    <string name="summary_show_detected_issues">Recent detected issues such as crashes will be listed in the app home screen.</string>
+    <string name="summary_take_screenshot_from_bugreport_shortcut">Take a screenshot when starting a bug report</string>
+    <string name="time_picker">Time</string>
+    <string name="timestamp_duplicated">Duplicate of issue %s • Tap for details</string>
+    <string name="timestamp_duplicated_expanded">Duplicate of issue %s • Details below</string>
+    <string name="title_confirm_delete_completed">Remove report from your list?</string>
+    <string name="title_confirm_delete_draft">Discard draft?</string>
+    <string name="title_enable_crash_rcu">Crash on RCU stalls</string>
+    <string name="title_enable_persist_log">Enable extended duration log</string>
+    <string name="title_enable_ramdump">Enable full device ramdump</string>
+    <string name="title_enable_smart_storage">Delete files after sending</string>
+    <string name="title_enable_subsystem_ramdump">Enable subsystem ramdump</string>
+    <string name="title_no_attachment">Attach a bug report (ZIP archive)</string>
+    <string name="title_set_theme">Choose theme</string>
+    <string name="title_show_detected_issues">Show detected issues</string>
+    <string name="title_take_screenshot_from_bugreport_shortcut">Take screenshot automatically</string>
+    <string name="toast_add_to_queue">Reports will upload over unmetered Wi-Fi network. You can change this in Settings.</string>
+    <string name="toast_attachment_not_attached">Some attachments could not be attached.</string>
+    <string name="toast_attachment_not_ready">"Some attachments aren't ready yet. Please wait."</string>
+    <string name="toast_auto_save_draft">Report automatically saved as draft.</string>
+    <string name="toast_bug_number_required">Issue number is required.</string>
+    <string name="toast_bug_summary_required">Brief title is required.</string>
+    <string name="toast_bugreport_attached_to_draft">Bug report attached to draft issue.</string>
+    <string name="toast_cannot_take_bug_report">Cannot take a bug report, please add details to report.</string>
+    <string name="toast_capturing_other_bug_report">A bug report is already in progress, please wait.</string>
+    <string name="toast_component_info_not_ready">"We're still initializing the app. Please try again later."</string>
+    <string name="toast_editing_in_app_is_disabled_while_screen_capturing">Editing in %1$s is disabled while capturing.</string>
+    <string name="toast_editing_in_app_is_disabled_while_screen_recording">Editing in %1$s is disabled while recording.</string>
+    <string name="toast_error_loading_apps">Error loading apps.</string>
+    <string name="toast_no_network_connection">No network connection.</string>
+    <string name="toast_sign_in_required">You must sign in to continue.</string>
+    <string name="toast_signed_in_account">Signed in as %s</string>
+    <string name="toast_star_known_issue_failure">Failed to star the issue.</string>
+    <string name="toast_storage_denied_message">"We can't access the file without the permission. To change it, go to Apps Settings."</string>
+    <string name="toast_switch_to_android_system_bugreport_handler">Please switch to Android System bug report handler.</string>
+    <string name="toast_switch_to_work_profile_bugreport_handler">Please switch to %s of work profile.</string>
+    <string name="toast_text_no_application_available_for_preview">No application is available to preview this file.</string>
+    <string name="toast_turn_on_dev_by_default">Developer options and bug report shortcut have been turned on by default.</string>
+    <string name="toggle_server_endpoint">Toggle Server Endpoint</string>
+    <string name="toolbar_title_android_issue">Android issue</string>
+    <string name="toolbar_title_app_issue">App issue</string>
+    <string name="top_reported_issue_section_title">Top reported issue (%s)</string>
+    <string name="top_reported_issue_title">Top reported issues</string>
+    <string name="traceur">System Tracing</string>
+    <string name="turn_on_dev_dialog_message">"Most reports will require bugreports, for which you'll need to enable &lt;b>Developer options&lt;/b> and the &lt;b>bug report shortcut&lt;/b>. To enable Developer options, please visit Settings and tap your Build Number 7 times. &lt;br />&lt;br /> Follow this &lt;a href=https://developer.android.com/studio/debug/dev-options>link&lt;/a> for instructions."</string>
+    <string name="turn_on_dev_dialog_title">Enable Developer options</string>
+    <string name="undo">Undo</string>
+    <string name="update_now_dialog_message">Your current %s version is out of date. Please update for the latest features and fixes before reporting new issues. Reporting may be disabled for very old app versions.</string>
+    <string name="update_now_dialog_negative_button">Close</string>
+    <string name="update_now_dialog_positive_button">Update Now</string>
+    <string name="update_now_dialog_title_recommend">App update available</string>
+    <string name="update_now_dialog_title_require">App update required</string>
+    <string name="update_now_tip_message">Please update %s for the latest features and fixes.</string>
+    <string name="update_now_tip_negative_button">Dismiss</string>
+    <string name="update_now_tip_positive_button">Update Now</string>
+    <string name="update_now_tip_title">App update available</string>
+    <string name="upgrade_required_dialog_message">An app update is required to use %1$s.</string>
+    <string name="upgrade_required_dialog_negative_action">Close app</string>
+    <string name="upgrade_required_dialog_positive_action">Update</string>
+    <string name="upload_failure_text">Issue report has not been sent.</string>
+    <string name="upload_failure_title">Upload failed.</string>
+    <string name="upload_in_progress">Report uploading</string>
+    <string name="upload_retry_failure_text">Will try again when there is a data connection.</string>
+    <string name="upload_retry_no_connection_text">Waiting for a data connection.</string>
+    <string name="upload_retry_poor_connection_text">Waiting for a better data connection.</string>
+    <string name="upload_retry_title">Upload pending.</string>
+    <string name="use_internal_app_dialog_message">%1$s is only meant for external users. Please use the internal app to report any platform issues.</string>
+    <string name="use_internal_app_dialog_negative_action">Close app</string>
+    <string name="use_internal_app_dialog_positive_action_enable">Enable internal app</string>
+    <string name="use_internal_app_dialog_positive_action_get">Get internal app</string>
+    <string name="use_internal_app_dialog_positive_action_launch">Launch internal app</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="version_stamp">Version (%1$s): %2$s</string>
+    <string name="view_known_issue">View or vote on issue</string>
+    <string name="view_or_report_issues">View or report issues</string>
+    <string name="warn_large_attachment_dialog_message">The attachment is too large (over %d MB), and it may be lost during uploading or cause the upload to fail.</string>
+    <string name="warn_large_attachment_dialog_title">Attachment is too large</string>
+    <string name="warn_large_attachment_over_cellular_dialog_message">This report includes a large attachment, and your data connection may have limits or fees.</string>
+    <string name="warn_large_attachment_over_cellular_dialog_negative">Wait for unmetered Wi-Fi</string>
+    <string name="warn_large_attachment_over_cellular_dialog_positive">Send now</string>
+    <string name="when_did_it_happen_instr">When did this happen?</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_49">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67">false</item>
+    <item type="string" name="APKTOOL_DUMMY_78">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_101">false</item>
+    <item type="string" name="APKTOOL_DUMMY_104">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_120">false</item>
+    <item type="string" name="APKTOOL_DUMMY_121">false</item>
+    <item type="string" name="APKTOOL_DUMMY_122">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_132">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141">false</item>
+    <item type="string" name="APKTOOL_DUMMY_146">false</item>
+    <item type="string" name="APKTOOL_DUMMY_148">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_153">false</item>
+    <item type="string" name="APKTOOL_DUMMY_154">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_167">false</item>
+    <item type="string" name="APKTOOL_DUMMY_173">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_180">false</item>
+    <item type="string" name="APKTOOL_DUMMY_186">false</item>
+    <item type="string" name="APKTOOL_DUMMY_187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_188">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_190">false</item>
+    <item type="string" name="APKTOOL_DUMMY_191">false</item>
+    <item type="string" name="APKTOOL_DUMMY_192">false</item>
+    <item type="string" name="APKTOOL_DUMMY_193">false</item>
+    <item type="string" name="APKTOOL_DUMMY_194">false</item>
+    <item type="string" name="APKTOOL_DUMMY_196">false</item>
+    <item type="string" name="APKTOOL_DUMMY_197">false</item>
+    <item type="string" name="APKTOOL_DUMMY_198">false</item>
+    <item type="string" name="APKTOOL_DUMMY_199">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_219">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_220">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_230">false</item>
+    <item type="string" name="APKTOOL_DUMMY_245">false</item>
+    <item type="string" name="APKTOOL_DUMMY_250">false</item>
+    <item type="string" name="APKTOOL_DUMMY_255">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_264">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_270">false</item>
+    <item type="string" name="APKTOOL_DUMMY_292">false</item>
+    <item type="string" name="APKTOOL_DUMMY_299">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29e">false</item>
+</resources>

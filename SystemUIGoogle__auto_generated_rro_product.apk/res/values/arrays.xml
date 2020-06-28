@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_pluginWhitelist">
+        <item>com.android.systemui</item>
+        <item>com.android.systemui.plugin.globalactions.wallet</item>
+        <item>com.google.oslo</item>
+    </string-array>
+    <integer-array name="elmyra_lower_threshold">
+        <item>-400</item>
+        <item>-1000</item>
+    </integer-array>
+    <integer-array name="elmyra_slope_sensitivity">
+        <item>40</item>
+        <item>70</item>
+    </integer-array>
+    <integer-array name="elmyra_time_window">
+        <item>1000</item>
+        <item>5000</item>
+    </integer-array>
+    <integer-array name="elmyra_upper_threshold">
+        <item>1000</item>
+        <item>20000</item>
+    </integer-array>
+</resources>

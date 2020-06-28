@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="accessibility_no_wifi">ไม่ได้เชื่อมต่อ Wi-Fi</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณ Wi-Fi 1 ขีด</string>
+    <string name="accessibility_wifi_security_type_none">เครือข่ายแบบเปิด</string>
+    <string name="accessibility_wifi_security_type_secured">เครือข่ายที่ปลอดภัย</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi เต็ม</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณ Wi-Fi 3 ขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณ Wi-Fi 2 ขีด</string>
+    <string name="account_exists_info">"อีเมล รายชื่อติดต่อ กิจกรรมในปฏิทิน และอื่นๆ จะซิงค์กับ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้ คุณยังพร้อมที่จะเริ่มดาวน์โหลดแอป เพลง และเกมจาก Google Play แล้วด้วย
+
+คุณจะเพิ่มหรือนำบัญชีออกได้ภายหลังโดยไปที่การตั้งค่า > บัญชี"</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> พร้อมแล้ว</string>
+    <string name="account_exists_text_unknown_name">บัญชีของคุณพร้อมแล้ว</string>
+    <string name="account_exists_title">{accounts,plural, =1{เพิ่มบัญชีแล้ว}other{เพิ่มบัญชีแล้ว}}</string>
+    <string name="activating_carrier_service_text">อาจใช้เวลาสักครู่</string>
+    <string name="activating_unknown_carrier_service_title">กำลังเปิดใช้งาน…</string>
+    <string name="activation_failed_message">"คุณทำดังต่อไปนี้ได้
+"<ul><li>ลองเชื่อมต่ออินเทอร์เน็ตมือถืออีกครั้ง</li>"
+"<li>ใช้เครือข่ายอื่นเพื่อตั้งค่า</li></ul>"
+
+หากตัวเลือกเหล่านี้ใช้ไม่ได้ผล ก็รีสตาร์ท{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}} แล้วลองอีกครั้งได้"</string>
+    <string name="activation_failed_title">ไม่สามารถเชื่อมต่ออินเทอร์เน็ตมือถือ</string>
+    <string name="activation_progress_flow">"ใช้เวลานานไปหรือ
+
+การเชื่อมต่ออินเทอร์เน็ตมือถือต้องใช้เวลาสักครู่ คุณสามารถกลับไปลองเชื่อมต่อเครือข่ายอื่นแทนได้"</string>
+    <string name="activation_title">กำลังเชื่อมต่อบริการมือถือ…</string>
+    <string name="activation_unprovisioned_sim_message">รีสตาร์ท {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}แล้วลองอีกครั้ง หรือเชื่อมต่อ Wi‑Fi เพื่อตั้งค่า หากยังพบปัญหาในการเปิดใช้งานเน็ตมือถือ โปรดติดต่อผู้ให้บริการ</string>
+    <string name="activation_unprovisioned_title">ไม่สามารถเปิดใช้งานอินเทอร์เน็ตมือถือ</string>
+    <string name="android_privacy_policy_title">นโยบายความเป็นส่วนตัวเพิ่มเติม</string>
+    <string name="available_via_carrier">พร้อมใช้งานผ่านทาง %1$s</string>
+    <string name="cancel_button_label">ยกเลิก</string>
+    <string name="captive_portal_connection_unsuccessful">เชื่อมต่ออินเทอร์เน็ตไม่ได้</string>
+    <string name="captive_portal_description_text">อาจใช้เวลาสักครู่</string>
+    <string name="captive_portal_ssl_error_text">การเชื่อมต่อนี้ใช้ใบรับรองที่ไม่ปลอดภัยหรือไม่ถูกต้อง เลือกเครือข่ายอื่นแล้วลองอีกครั้ง</string>
+    <string name="captive_portal_title">กำลังเชื่อมต่อ…</string>
+    <string name="chrome_privacy_title">ประกาศเกี่ยวกับนโยบายความเป็นส่วนตัวของ Chrome</string>
+    <string name="chrome_tos_title">ข้อกำหนดในการให้บริการของ Chrome</string>
+    <string name="close_button_label">ปิด</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="connect_to_wifi_btn_text">การตั้งค่า Wi-Fi</string>
+    <string name="connect_to_wifi_message">เชื่อมต่อ Wi-Fi เพื่อดำเนินการต่อ</string>
+    <string name="connect_to_wifi_title">การอัปเดตแอปพร้อมใช้งานแล้ว</string>
+    <string name="connected_via_app">เชื่อมต่อแล้วผ่าน %1$s</string>
+    <string name="connected_via_carrier">เชื่อมต่อผ่าน %1$s แล้ว</string>
+    <string name="connected_via_network_scorer_default">เชื่อมต่ออัตโนมัติผ่านผู้ให้บริการการจัดอันดับเครือข่าย</string>
+    <string name="consolidate_captive_portal_description_text">อาจใช้เวลาสักครู่</string>
+    <string name="consolidate_captive_portal_title">กำลังตรวจหาอัปเดต…</string>
+    <string name="continue_for_a11y">แตะต่อไปบนหน้าจอจนกว่าคุณจะได้ยินเสียงบี๊ปเพื่อเปิดใช้งานโหมดการเข้าถึง</string>
+    <string name="date_time_current_date">วันที่</string>
+    <string name="date_time_current_time">เวลา</string>
+    <string name="date_time_message">ปรับเปลี่ยนหากจำเป็น</string>
+    <string name="date_time_setup_title">วันที่และเวลา</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">ต่อไป</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">ขั้นตอนเพิ่มเติมรวมถึง Google Assistant, Google Pay, กำลังเล่น, ขนาดแบบอักษร, วอลเปเปอร์ และอื่นๆ</string>
+    <string name="decision_point_leave_setup">ออกและรับการช่วยเตือน</string>
+    <string name="decision_point_now_playing">กำลังเล่น</string>
+    <string name="default_device_name_device">อุปกรณ์</string>
+    <string name="default_device_name_phone">โทรศัพท์</string>
+    <string name="default_device_name_tablet">แท็บเล็ต</string>
+    <string name="deferred_notification_prompt_title">ตั้งค่า ^1 ให้เสร็จ</string>
+    <string name="deferred_setup_button_label">สิ้นสุดการตั้งค่า</string>
+    <string name="deferred_setup_wizard_reason_assistant">คุยกับ Assistant</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">คุยกับ Google Assistant</string>
+    <string name="deferred_setup_wizard_reason_default">อีกเพียงไม่กี่ขั้นตอน</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">คัดลอกข้อมูลของคุณ</string>
+    <string name="deferred_setup_wizard_reason_google_pay">ใช้ Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">ชำระเงินได้เร็วขึ้นด้วย Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 และอื่นๆ</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1 ^2 และอื่นๆ</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">อีกเพียงไม่กี่ขั้นตอน ^1 ก็จะพร้อมใช้งาน</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">ตั้งค่าวอลเปเปอร์</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">ตั้งค่าวอลเปเปอร์</string>
+    <string name="deferred_setup_wizard_title">ตั้งค่าอุปกรณ์ให้เสร็จ</string>
+    <string name="deferred_snooze_dialog_option_never">ไม่เลย</string>
+    <string name="deferred_snooze_dialog_option_today">วันนี้เวลาอื่น</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">พรุ่งนี้</string>
+    <string name="deferred_snooze_dialog_title">เตือนฉัน</string>
+    <string name="deferred_welcome_airplane_mode_message">"คุณต้องเชื่อมต่ออินเทอร์เน็ตจึงจะดำเนินการขั้นตอน 2-3 ขั้นสุดท้ายให้เสร็จได้
+
+การเปิดโหมดเครื่องบินจะตัดการเชื่อมต่อ Wi‑Fi เครือข่ายมือถือ และบลูทูธ"</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">ตั้งค่าทีหลัง</string>
+    <string name="deferred_welcome_airplane_mode_title">ปิดโหมดบนเครื่องบินไหม</string>
+    <string name="deferred_welcome_screen_cancel_button">เตือนภายหลัง</string>
+    <string name="deferred_welcome_title">ตั้งค่า ^1 ให้เสร็จสิ้น</string>
+    <string name="deferred_welcome_turn_off_button_label">ปิด</string>
+    <string name="device_owner_continue">ตั้งค่าต่อ</string>
+    <string name="device_owner_reset">รีเซ็ต {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}</string>
+    <string name="device_owner_warning">{0} กำลังจัดการ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}และเข้าถึงข้อมูลของคุณได้ หากไม่ต้องการให้ {0} มีสิทธิ์เข้าถึง โปรดรีเซ็ต {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ของคุณ</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}อาจได้รับการตรวจสอบ</string>
+    <string name="dialog_back_button_label">กลับ</string>
+    <string name="dialog_continue_button_label">ต่อไป</string>
+    <string name="early_update_installing_updates_text">กำลังติดตั้งอัปเดต</string>
+    <string name="early_update_text">อาจใช้เวลาสักครู่</string>
+    <string name="early_update_timeout_text">หากใช้เวลานานเกินไป โปรดลองกลับไปเชื่อมต่อเครือข่ายอื่น</string>
+    <string name="early_update_title">กำลังตรวจหาการอัปเดต…</string>
+    <string name="emergency_dial">โทรฉุกเฉิน</string>
+    <string name="enabled_a11y">เปิดใช้งานโหมดการเข้าถึงแล้ว</string>
+    <string name="esim_option_button_summary">เพิ่มหมายเลขโดยใช้ eSIM</string>
+    <string name="esim_option_button_title">ดาวน์โหลดซิมแทนไหม</string>
+    <string name="esim_warning_title">ดาวน์โหลดซิม</string>
+    <string name="esim_warning_txt">หากคุณเป็นสมาชิก %1$s คุณจะได้รับสายเรียกเข้า ข้อความ และอินเทอร์เน็ตจากการดาวน์โหลด eSIM แทนการใส่ซิมการ์ด</string>
+    <string name="esim_warning_txt_default">เชื่อมต่อกับเครือข่ายมือถือโดยการดาวน์โหลดข้อมูลที่ปกติจะอยู่ในซิมการ์ด ซึ่งจะแทนที่ซิมการ์ดมาตรฐานและปลอดภัยเช่นเดียวกัน</string>
+    <string name="exit_loading_launcher">กำลังโหลด Launcher…</string>
+    <string name="factory_reset_button">ลบและรีเซ็ต</string>
+    <string name="factory_reset_confirmation">ลบบัญชีและข้อมูลทั้งหมดใน {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้ไหม คุณจะเลิกทำการดำเนินการนี้ไม่ได้</string>
+    <string name="factory_reset_confirmation_title">รีเซ็ตไหม</string>
+    <string name="factory_reset_instructions">คำเตือน: การรีเซ็ตจะลบบัญชีและข้อมูลทั้งหมดในที่จัดเก็บข้อมูลภายในของ {DEVICE_TYPE,select, PHONE{โทรศัพท์เครื่องนี้}TABLET{แท็บเล็ตเครื่องนี้}other{อุปกรณ์เครื่องนี้}}เครื่องนี้</string>
+    <string name="factory_reset_title">รีเซ็ต {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}</string>
+    <string name="final_hold_description_text">อาจใช้เวลาสักครู่</string>
+    <string name="final_hold_title">กำลังเพิ่มการดำเนินการขั้นสุดท้าย…</string>
+    <string name="final_hold_title_setup_work_account">กำลังเตรียมโทรศัพท์สำหรับตั้งค่างาน…</string>
+    <string name="gms_account_checkin_title">กำลังรับข้อมูลบัญชี…</string>
+    <string name="gms_checkin_description_text">อาจใช้เวลาสักครู่</string>
+    <string name="gms_checkin_description_text_timeout">หากใช้เวลานานเกินไป โปรดลองกลับไปเชื่อมต่อเครือข่ายอื่น</string>
+    <string name="gms_checkin_title">กำลังตรวจหาการอัปเดต…</string>
+    <string name="go_back_button_label">ย้อนกลับ</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">ข้อกำหนดในการให้บริการของ Google Play</string>
+    <string name="google_plus_privacy_policy_title">นโยบายความเป็นส่วนตัวของ Google Plus</string>
+    <string name="google_privacy_policy_title">นโยบายความเป็นส่วนตัวของ Google</string>
+    <string name="google_provisioning_disclaimer_content">เป็นไปตามข้อกำหนดในการให้บริการและนโยบายความเป็นส่วนตัวของ Google โปรดดูข้อมูลเพิ่มเติมที่ &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a></string>
+    <string name="google_terms_of_service_title">ข้อกำหนดในการให้บริการของ Google</string>
+    <string name="invalid_phone_number">หมายเลขโทรศัพท์ที่ไม่รู้จัก</string>
+    <string name="invalid_qr_code_content">ขอโค้ดที่ถูกต้องจากผู้ดูแลระบบไอที</string>
+    <string name="invalid_qr_code_retry">ลองอีกครั้ง</string>
+    <string name="invalid_qr_code_title">โค้ด QR ไม่ถูกต้อง</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari และ iTunes เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+    <string name="language_picker_section_all">ทุกภาษา</string>
+    <string name="language_picker_section_suggested">แนะนำ</string>
+    <string name="migrate_from_ios_description">โดยทำตามขั้นตอนต่อไปนี้</string>
+    <string name="migrate_from_ios_header">คัดลอกข้อมูลของคุณ</string>
+    <string name="migrate_from_ios_instructions_1">1. เปิด Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. ไปที่ <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. ทำตามคำแนะนำ</string>
+    <string name="network_description_text">เลือกเครือข่าย</string>
+    <string name="network_description_text_esim">โปรดเชื่อมต่อ Wi‑Fi เพื่อดาวน์โหลดซิม</string>
+    <string name="network_see_all_wifi">ดูเครือข่าย Wi‑Fi ทั้งหมด</string>
+    <string name="network_timeout_description_text">ลองอีกครั้งโดยใช้เครือข่ายอื่น หากดำเนินการต่อโดยที่ไม่มีการเชื่อมต่อ คุณทำตามขั้นตอนการตั้งค่าบางอย่างให้เสร็จสิ้นในภายหลังได้</string>
+    <string name="network_timeout_title">เชื่อมต่อไม่ได้</string>
+    <string name="network_timeout_try_another_network_button">ลองใช้เครือข่ายอื่น</string>
+    <string name="network_title">เชื่อมต่อ Wi-Fi</string>
+    <string name="network_use_cellular">ใช้เครือข่ายมือถือเพื่อตั้งค่า</string>
+    <string name="network_use_cellular_carrier">เชื่อมต่อ Wi-Fi ในภายหลัง</string>
+    <string name="network_wifi_continue_button">ต่อไป</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="notification_channel_name_deferred">การตั้งค่าเพิ่มเติม</string>
+    <string name="notification_channel_name_initial">การตั้งค่า</string>
+    <string name="notification_channel_name_restore">การคืนค่าข้อมูล</string>
+    <string name="notification_channel_security_name_warnings">คำเตือนด้านความปลอดภัย</string>
+    <string name="ok_button_label">ตกลง</string>
+    <string name="ota_agreement_text">การดำเนินการต่อและการรับการอัปเดตซอฟต์แวร์นี้แสดงว่าคุณยอมรับ<annotation link="tos">ข้อกำหนดในการให้บริการของ Google</annotation> และ <annotation link="google_privacy">นโยบายความเป็นส่วนตัว</annotation></string>
+    <string name="ota_info">ขณะนี้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ต้องดาวน์โหลดการอัปเดตและรีสตาร์ท</string>
+    <string name="ota_size">ขนาด: %s</string>
+    <string name="ota_update_title">อัปเดต {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}</string>
+    <string name="predeferred_prepare_setup">กำลังเตรียมการตั้งค่า…</string>
+    <string name="predeferred_prepare_setup_details">คุณจะตั้งค่า ^1 ให้เสร็จได้เร็วๆ นี้</string>
+    <string name="predeferred_wifi_required_notification_connect_button">เชื่อมต่อ Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">เชื่อมต่อ Wi-Fi เพื่อดำเนินการต่อ</string>
+    <string name="predeferred_wifi_required_notification_title">การอัปเดตแอปพร้อมใช้งานแล้ว</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="qr_code_scan_title">กำลังสแกนหาโค้ด QR</string>
+    <string name="region_picker_section_all">ภูมิภาคทั้งหมด</string>
+    <string name="restart_setup_wizard_button_label">ตั้งค่า {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}</string>
+    <string name="restart_setup_wizard_dialog_text">"หากต้องการใช้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้ คุณต้องลงชื่อเข้าใช้บัญชี Google ของเจ้าของที่ใช้อยู่ใน {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้เมื่อตอนที่รีเซ็ตอุปกรณ์ครั้งล่าสุด
+
+คุณยังไม่ได้ดำเนินการดังกล่าว คุณจึงต้องตั้งค่า {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}อีกครั้ง"</string>
+    <string name="restart_setup_wizard_dialog_title">ไม่ได้ลงชื่อเข้าใช้</string>
+    <string name="restore_failed_message">ไม่สามารถคืนค่าข้อมูลสำรอง</string>
+    <string name="restore_no_backup_message">ไม่มีข้อมูลสำรองใดๆ บนอุปกรณ์อีกเครื่องหนึ่งของคุณ</string>
+    <string name="restore_no_backup_title">ไม่สามารถคืนค่า</string>
+    <string name="restore_stopped_message">ไม่สามารถคืนค่าข้อมูลสำรองให้เสร็จสิ้น</string>
+    <string name="restore_title">กำลังคืนค่า…</string>
+    <string name="setup_ongoing_notification_text">แตะเพื่อตั้งค่า ^1 ให้เสร็จสิ้น</string>
+    <string name="setup_ongoing_notification_title">^1 อยู่ระหว่างการตั้งค่า</string>
+    <string name="setup_wizard_title">การตั้งค่า Android</string>
+    <string name="sim_locked_text">"โทรศัพท์เครื่องนี้ล็อคอยู่กับผู้ให้บริการรายอื่น คุณต้องใช้ซิมการ์ดที่ถูกต้อง
+
+เมื่อใส่ซิมการ์ดแล้ว โปรดรอการเปิดใช้งานสักครู่"</string>
+    <string name="sim_locked_title">ซิมการ์ดไม่รองรับ</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{หากคุณมีซิมการ์ด ก็ใส่ได้เลย}other{หากคุณมีซิมการ์ด ก็ใส่ได้เลย}}</string>
+    <string name="sim_missing_title">เชื่อมต่อเครือข่ายมือถือ</string>
+    <string name="sim_ready_message">%1$s พร้อมใช้งาน</string>
+    <string name="sim_ready_message_carrier_app">คุณจะต้องดาวน์โหลดแอป %2$s เพื่อเปิดใช้งาน %1$s ให้เสร็จ ตอนนี้เรามาตั้งค่าโทรศัพท์ให้เสร็จก่อน</string>
+    <string name="sim_ready_message_invalid_phone_number">หมายเลขพร้อมใช้งาน</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">คุณจะต้องดาวน์โหลดแอป %1$s เพื่อเปิดใช้งานหมายเลขให้เสร็จ ตอนนี้เรามาตั้งค่าโทรศัพท์ให้เสร็จก่อน</string>
+    <string name="sim_ready_title">%1$s ใช้งานอยู่</string>
+    <string name="sim_ready_title_carrier_app">เชื่อมต่อกับ %1$s ภายหลัง</string>
+    <string name="sim_setup_ask_every_time">ถามทุกครั้ง</string>
+    <string name="sim_setup_select_data">ค่ากำหนดอินเทอร์เน็ตมือถือ</string>
+    <string name="sim_setup_select_data_description">เลือกหมายเลขที่จะใช้สำหรับอินเทอร์เน็ตมือถือ</string>
+    <string name="sim_setup_select_text">ค่ากำหนด SMS</string>
+    <string name="sim_setup_select_text_description">เลือกหมายเลขสำหรับข้อความขาออก (ทุกหมายเลขที่มีการใช้งานจะรับข้อความขาเข้าได้)</string>
+    <string name="sim_setup_select_voice">ค่ากำหนดการโทร</string>
+    <string name="sim_setup_select_voice_description">เลือกหมายเลขสำหรับสายโทรออก (ทุกหมายเลขที่มีการใช้งานจะรับสายเรียกเข้าได้)</string>
+    <string name="sim_setup_title">ตั้งค่าซิมการ์ด</string>
+    <string name="skip_anyway_button_label">ข้ามไปเลย</string>
+    <string name="skip_button_label">ข้าม</string>
+    <string name="skip_toast">ตัวช่วยการตั้งค่าถูกข้าม</string>
+    <string name="slots_selection_item_summary_activating">กำลังเปิดใช้งาน…</string>
+    <string name="slots_selection_item_summary_error">เปิดใช้งานไม่ได้ในขณะนี้</string>
+    <string name="slots_selection_title">เลือกจำนวนที่จะใช้</string>
+    <string name="speed_label_fast">เร็ว</string>
+    <string name="speed_label_okay">ตกลง</string>
+    <string name="speed_label_slow">ช้า</string>
+    <string name="speed_label_very_fast">เร็วมาก</string>
+    <string name="sud_back_button_label">กลับ</string>
+    <string name="sud_more_button_label">เพิ่มเติม</string>
+    <string name="sud_next_button_label">ถัดไป</string>
+    <string name="suggested_actions_description">ตั้งค่าสิ่งอื่นๆ ตอนนี้เลยหรือตั้งค่าทีหลังใน \"การตั้งค่า\"</string>
+    <string name="suggested_actions_description_single_item">มีอีก 1 อย่างที่คุณต้องตั้งค่าใน ^1 คุณสามารถตั้งค่าทีหลังใน \"การตั้งค่า\" ได้ด้วย</string>
+    <string name="suggested_actions_done_label">เรียบร้อย</string>
+    <string name="suggested_actions_no_thanks_label">ไม่เป็นไร</string>
+    <string name="suggested_actions_title">มีอะไรเพิ่มเติมอีกไหม</string>
+    <string name="switch_camera">เปลี่ยนกล้อง</string>
+    <string name="switch_to_back_camera_button_content_description">กล้องหลัง</string>
+    <string name="switch_to_front_camera_button_content_description">กล้องหน้า</string>
+    <string name="switched_to_back_camera_announcement">ขณะนี้ปุ่มเป็นกล้องหน้า</string>
+    <string name="switched_to_front_camera_announcement">ขณะนี้ปุ่มเป็นกล้องหลัง</string>
+    <string name="tap_to_sign_up">แตะเพื่อลงชื่อสมัครใช้</string>
+    <string name="terminate_toast">"ยุติการใช้งานตัวช่วยการตั้งค่าแล้ว
+ไม่มีการจัดเตรียมอุปกรณ์"</string>
+    <string name="try_again_button_label">ลองใหม่อีกครั้ง</string>
+    <string name="url_load_unsuccessful_message">ขณะนี้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ไม่ได้เชื่อมต่อกับบริการข้อมูลโทรศัพท์มือถือ หากต้องการดูข้อมูลนี้เลย ให้ไปที่ {0} ในเว็บเบราว์เซอร์</string>
+    <string name="url_load_unsuccessful_message_wifi_only">ขณะนี้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ไม่ได้เชื่อมต่อเครือข่าย Wi-Fi หากต้องการดูข้อมูลนี้เลย ให้ไปที่ {0} ในเว็บเบราว์เซอร์</string>
+    <string name="user_warning_cannot_switch_message">เปลี่ยนกลับไปเป็นผู้ใช้ที่เป็นเจ้าของไม่ได้ โปรดลองอีกครั้งภายหลัง</string>
+    <string name="user_warning_label_continue">ต่อไป</string>
+    <string name="user_warning_label_quit">ยกเลิก</string>
+    <string name="user_warning_quit_dialog_button_keep">เก็บผู้ใช้ไว้</string>
+    <string name="user_warning_quit_dialog_button_remove">นำผู้ใช้ออก</string>
+    <string name="user_warning_quit_dialog_message">นำผู้ใช้ออกใช่ไหม</string>
+    <string name="user_warning_title">ตั้งค่าผู้ใช้ใหม่</string>
+    <string name="wait_msg">รอแป๊บเดียว...</string>
+    <string name="web_dialog_unable_to_view">หากต้องการดูข้อมูลนี้เลย ให้ไปที่ ^1 ในเว็บเบราว์เซอร์</string>
+    <string name="welcome_accessibility_button">การตั้งค่าการมองเห็น</string>
+    <string name="welcome_language_picker_content_description">ภาษา: %s</string>
+    <string name="welcome_language_picker_dialog_title">เลือกภาษาของคุณ</string>
+    <string name="welcome_message">สวัสดี</string>
+    <string name="welcome_secondary_user_added_text">เพิ่มคุณลงใน {DEVICE_TYPE,select, PHONE{โทรศัพท์เครื่องนี้}TABLET{แท็บเล็ตเครื่องนี้}other{อุปกรณ์เครื่องนี้}}</string>
+    <string name="welcome_secondary_user_info_text"><b>ข้อมูลสำคัญ:</b>"
+
+"<ul><li>เจ้าของ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ตเครื่องนี้}other{อุปกรณ์}}จะถอนการติดตั้งแอปหรือนำโปรไฟล์ผู้ใช้ออกได้ทั้งหมด</li>"
+
+"<li>ผู้ใช้คนอื่นๆ จะยอมรับสิทธิ์ของแอปที่อัปเดตได้</li>"
+
+"<li>โปรดใช้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ตเครื่องนี้}other{อุปกรณ์}}เครื่องนี้ร่วมกับผู้ที่คุณเชื่อถือได้เท่านั้น</li></ul></string>
+    <string name="welcome_start_button_label">เริ่ม</string>
+    <string name="wifi_add_new_network">เพิ่มเครือข่ายใหม่</string>
+    <string name="wifi_and_mobile_skipped_message">"การเชื่อมต่อเครือข่าย Wi‑Fi หรือเครือข่ายมือถือช่วยให้คุณตั้งค่า{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ได้อย่างรวดเร็ว
+
+หากไม่ได้เชื่อมต่อ คุณจะทำดังต่อไปนี้ไม่ได้
+
+"<ul><li>ลงชื่อเข้าใช้บัญชี Google</li>"
+
+"<li>กู้คืนแอปและข้อมูลต่างๆ</li>"
+
+"<li>รับการอัปเดตซอฟต์แวร์</li>"
+
+"<li>ตั้งวันที่และเวลาโดยอัตโนมัติ</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"การเชื่อมต่อเครือข่าย Wi‑Fi หรือเครือข่ายมือถือช่วยให้คุณตั้งค่า{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}ได้อย่างรวดเร็ว
+
+หากไม่ได้เชื่อมต่อ คุณจะทำดังต่อไปนี้ไม่ได้
+
+"<ul><li>ลงชื่อเข้าใช้บัญชี Google</li>"
+
+"<li>กู้คืนแอปและข้อมูลต่างๆ</li>"
+
+"<li>ดาวน์โหลดซิม</li>"
+
+"<li>รับการอัปเดตซอฟต์แวร์</li>"
+
+"<li>ตั้งวันที่และเวลาโดยอัตโนมัติ</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานเต็มชั่วคราว</string>
+    <string name="wifi_check_password_try_again">ตรวจสอบรหัสผ่านและลองอีกครั้ง</string>
+    <string name="wifi_connected_no_internet">เชื่อมต่อแล้ว ไม่พบอินเทอร์เน็ต</string>
+    <string name="wifi_disabled_by_recommendation_provider">ไม่ได้เชื่อมต่อเนื่องจากเครือข่ายคุณภาพต่ำ</string>
+    <string name="wifi_disabled_generic">ปิดอยู่</string>
+    <string name="wifi_disabled_network_failure">การกำหนดค่า IP ล้มเหลว</string>
+    <string name="wifi_disabled_password_failure">ปัญหาในการตรวจสอบสิทธิ์</string>
+    <string name="wifi_fail_to_scan">ไม่สามารถสแกนหาเครือข่าย</string>
+    <string name="wifi_ip_address_not_available">ไม่มีให้บริการ</string>
+    <string name="wifi_ip_address_title">ที่อยู่ IP</string>
+    <string name="wifi_limited_connection">การเชื่อมต่อที่จำกัด</string>
+    <string name="wifi_mac_address_not_available">ไม่มีให้บริการ</string>
+    <string name="wifi_mac_address_title">ที่อยู่ MAC</string>
+    <string name="wifi_metered_label">มีการวัดปริมาณอินเทอร์เน็ต</string>
+    <string name="wifi_no_internet">เข้าถึงอินเทอร์เน็ตไม่ได้</string>
+    <string name="wifi_no_internet_no_reconnect">จะไม่เชื่อมต่อโดยอัตโนมัติ</string>
+    <string name="wifi_not_in_range">ไม่อยู่ในพื้นที่ให้บริการ</string>
+    <string name="wifi_remembered">บันทึกแล้ว</string>
+    <string name="wifi_scanning">กำลังค้นหาเครือข่าย Wi-Fi…</string>
+    <string name="wifi_set_up_offline_title">ตั้งค่าแบบออฟไลน์ใช่ไหม</string>
+    <string name="wifi_skip_button_label">ตั้งค่าแบบออฟไลน์</string>
+    <string name="wifi_skipped_message">ขณะนี้ {DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}จะใช้เครือข่ายมือถือระหว่างการตั้งค่า และอาจมีค่าใช้จ่ายสำหรับปริมาณการใช้อินเทอร์เน็ต โปรดเชื่อมต่อ Wi-Fi เพื่อหลีกเลี่ยงค่าใช้จ่ายที่อาจเกิดขึ้น</string>
+    <string name="wifi_skipped_title">อาจมีค่าบริการอินเทอร์เน็ต</string>
+    <string name="wifi_title">เชื่อมต่อ Wi-Fi</string>
+    <string name="wifi_unmetered_label">ไม่มีการวัดปริมาณอินเทอร์เน็ต</string>
+    <string name="work_profile_setup_description">เพื่อตั้งค่าอุปกรณ์นี้สำหรับงานและแยกข้อมูลงานออกจากข้อมูลส่วนตัว</string>
+    <string name="work_profile_setup_next">ถัดไป</string>
+    <string name="work_profile_setup_skip">ข้ามการตั้งค่าบัญชีงาน</string>
+    <string name="work_profile_setup_title">เพิ่มบัญชีงาน</string>
+    <string name="work_setup_interrupted">"เราสังเกตเห็นกิจกรรมที่ผิดปกติใน{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้ และข้อมูลของคุณอาจมีความเสี่ยงหากดำเนินการตั้งค่าต่อ
+
+หากต้องการเริ่มต้นใหม่ ให้รีเซ็ต{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้"</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{โทรศัพท์}TABLET{แท็บเล็ต}other{อุปกรณ์}}เครื่องนี้อาจไม่ปลอดภัย</string>
+</resources>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">"S'estan mostrant %1$d elements."</item>
+        <item quantity="one">"S'està mostrant %1$d element."</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d comentaris</item>
+        <item quantity="one">%1$d comentari</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">"Elements d'acció: %1$d elements de seguiment"</item>
+        <item quantity="one">"Elements d'acció: %1$d element de seguiment"</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">"Els elements s'han suprimit permanentment"</item>
+        <item quantity="one">"L'element s'ha suprimit permanentment"</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s no són adreces electròniques vàlides.</item>
+        <item quantity="one">%s no és una adreça electrònica vàlida.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">En afegir aquests fitxers, es compartiran amb tothom que tingui accés a la carpeta compartida %1$s</item>
+        <item quantity="one">En afegir aquest fitxer, es compartirà amb tothom que tingui accés a la carpeta compartida %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">En afegir aquestes carpetes, es compartiran amb tothom que tingui accés a la carpeta compartida %1$s</item>
+        <item quantity="one">En afegir aquesta carpeta, es compartirà amb tothom que tingui accés a la carpeta compartida %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Vols compartir aquests fitxers?</item>
+        <item quantity="one">Vols compartir aquest fitxer?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Vols compartir aquestes carpetes?</item>
+        <item quantity="one">Vols compartir aquesta carpeta?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">"S'han actualitzat %1$d carpetes. S'ha definit el color %2$s."</item>
+        <item quantity="one">"S'ha actualitzat %1$d carpeta. S'ha definit el color %2$s."</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Aplica els filtres:</item>
+        <item quantity="one">Aplica el filtre:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">"Caduca d'aquí a %1$d dies"</item>
+        <item quantity="one">"Caduca d'aquí a %1$d dia"</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">"Si el dispositiu continua inactiu, aquesta còpia de seguretat caducarà d'aquí a %1$d dies."</item>
+        <item quantity="one">"Si el dispositiu continua inactiu, aquesta còpia de seguretat caducarà d'aquí a %1$d dia."</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">"Les còpies de seguretat s'han suprimit."</item>
+        <item quantity="one">"La còpia de seguretat s'ha suprimit."</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d columnes</item>
+        <item quantity="one">%1$d columna</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d columnes immobilitzades</item>
+        <item quantity="one">%1$d columna immobilitzada</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d files immobilitzades</item>
+        <item quantity="one">%1$d fila immobilitzada</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d files</item>
+        <item quantity="one">%1$d fila</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s per a %2$d elements</item>
+        <item quantity="one">%1$s per a %2$d element</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s respostes</item>
+        <item quantity="one">%1$s resposta</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">"No s'han pogut baixar els elements"</item>
+        <item quantity="one">"No s'ha pogut baixar l'element"</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Es baixaran %1$d elements. Consulta la notificació per a més detalls.</item>
+        <item quantity="one">Es baixarà %1$d element. Consulta la notificació per a més detalls.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Es baixaran %1$d elements.</item>
+        <item quantity="one">Es baixarà %1$d element.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s i %2$d elements més</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">"No s'han pogut baixar %1$s elements"</item>
+        <item quantity="one">"No s'ha pogut baixar %1$s element"</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d elements més</item>
+        <item quantity="one">%1$d element més</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Error en %1$d de %2$d baixades</item>
+        <item quantity="one">Error en %1$d d’%2$d baixada</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">"S'ha produït un error en moure els fitxers."</item>
+        <item quantity="one">"S'ha produït un error en moure el fitxer."</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d convidats</item>
+        <item quantity="one">%d convidat</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">"S'han afegit %2$d dreceres a %1$s"</item>
+        <item quantity="one">"S'ha afegit la drecera a %1$s"</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Les dreceres no es poden afegir. Torna-ho a provar.</item>
+        <item quantity="one">La drecera no es pot afegir. Torna-ho a provar.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquests elements tret que es comparteixin amb ells. Els membres de la unitat d'equip \"%2$s\" hi obtindran accés."</item>
+        <item quantity="one">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquest element tret que es comparteixi amb ells. Els membres de la unitat d'equip \"%2$s\" hi obtindran accés."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquests elements tret que es comparteixin amb ells. Els membres de la unitat d'equip \"%2$s\" hi obtindran accés. Com que només tens permís per afegir elements a \"%3$s\" i per editar-los, no podràs desfer aquesta acció."</item>
+        <item quantity="one">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquest element tret que es comparteixi amb ells. Els membres de la unitat d'equip \"%2$s\" hi obtindran accés. Com que només tens permís per afegir elements a \"%3$s\" i per editar-los, no podràs desfer aquesta acció."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">"Alguns dels fitxers que s'estan movent a \"%1$s\" han activat les deteccions de DLP. És possible que continguin informació sensible."</item>
+        <item quantity="one">"El fitxer que s'està movent a \"%1$s\" ha activat les deteccions de DLP. És possible que contingui informació sensible."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquests elements tret que es comparteixin amb ells."</item>
+        <item quantity="one">"Els membres de la unitat d'equip \"%1$s\" perdran l'accés a aquest element tret que es comparteixi amb ells."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">"En moure aquests elements, es compartiran amb tothom que pugui veure la carpeta compartida %1$s. Els membres de la unitat d'equip \"%2$s\" perdran l'accés a aquests elements tret que es comparteixin amb ells."</item>
+        <item quantity="one">"En moure aquest element, es compartirà amb tothom que pugui veure la carpeta compartida %1$s. Els membres de la unitat d'equip \"%2$s\" perdran l'accés a aquest element tret que es comparteixi amb ells."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">"Estàs a punt de moure elements de les carpetes compartides. Els usuaris hi perdran l'accés."</item>
+        <item quantity="one">"Estàs a punt de moure un element d'una carpeta compartida. Els usuaris hi perdran l'accés."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">"Les restriccions addicionals se suprimiran d'aquests elements."</item>
+        <item quantity="one">"Les restriccions addicionals se suprimiran d'aquest element."</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">En moure aquests fitxers, es compartiran amb tothom que tingui accés a la carpeta compartida %1$s</item>
+        <item quantity="one">En moure aquest fitxer, es compartirà amb tothom que tingui accés a la carpeta compartida %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">En moure aquestes carpetes, es compartiran amb tothom que tingui accés a la carpeta compartida %1$s</item>
+        <item quantity="one">En moure aquesta carpeta, es compartirà amb tothom que tingui accés a la carpeta compartida %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Vols compartir aquests fitxers?</item>
+        <item quantity="one">Vols compartir aquest fitxer?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Vols compartir aquestes carpetes?</item>
+        <item quantity="one">Vols compartir aquesta carpeta?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">No tens permís per treure alguns elements de la unitat compartida.</item>
+        <item quantity="one">No tens permís per treure aquest element de la unitat compartida.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">No tens permís per treure alguns elements de la carpeta.</item>
+        <item quantity="one">No tens permís per treure aquest element de la carpeta.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">No pots moure aquests fitxers perquè el propietari no pertany a %1$s.</item>
+        <item quantity="one">No pots moure aquest fitxer perquè el propietari no pertany a %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s Ara \"%2$s\" hi pot accedir.</item>
+        <item quantity="one">%1$s Ara \"%2$s\" hi pot accedir.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">"S'han mogut %1$d elements a la unitat compartida."</item>
+        <item quantity="one">"S'ha mogut 1 element a la unitat compartida."</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">"S'han mogut %1$d elements de la unitat compartida."</item>
+        <item quantity="one">"S'ha mogut %1$d element de la unitat compartida."</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d aprovadors</item>
+        <item quantity="one">1 aprovador</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">"%1$s elements d'acció"</item>
+        <item quantity="one">"%1$s element d'acció"</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s mencions sense resposta</item>
+        <item quantity="one">%1$s menció sense resposta</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s suggeriments</item>
+        <item quantity="one">%1$s suggeriment</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s tasques pendents</item>
+        <item quantity="one">%1$s tasca pendent</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">"Els elements s'han suprimit permanentment"</item>
+        <item quantity="one">"L'element s'ha suprimit permanentment"</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d de %2$s ja estan disponibles sense connexió.</item>
+        <item quantity="one">%1$d de %2$s ja està disponible sense connexió.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Els %1$d fitxers estan disponibles sense connexió.</item>
+        <item quantity="one">%1$d fitxer està disponible sense connexió.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">No es pot fer que els fitxers estiguin disponibles sense connexió</item>
+        <item quantity="one">No es pot fer que el fitxer estigui disponible sense connexió</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">"S'està fent que %1$d fitxers estiguin disponibles sense connexió."</item>
+        <item quantity="one">"S'està fent que %1$d fitxer estigui disponible sense connexió."</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d fitxers</item>
+        <item quantity="one">%1$d fitxer</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">"S'han posat en pausa algunes baixades en espera de tenir xarxa…"</item>
+        <item quantity="one">"S'ha posat en pausa 1 baixada en espera de tenir xarxa…"</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">"S'han posat en pausa %1$d baixades."</item>
+        <item quantity="one">"S'ha posat en pausa %1$d baixada."</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">"Les baixades s'han posat en pausa, a l'espera de tenir Wi-Fi…"</item>
+        <item quantity="one">"La baixada s'ha posat en pausa, a l'espera de tenir Wi-Fi…"</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">Es mouran %1$d elements a la paperera. També se suprimiran de Google Fotos.</item>
+        <item quantity="one">Es mourà 1 element a la paperera. També se suprimirà de Google Fotos.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">Es mouran %1$d elements a la paperera.</item>
+        <item quantity="one">Es mourà 1 element a la paperera.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s elements de seguiment</item>
+        <item quantity="one">%1$s element de seguiment</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s elements de seguiment</item>
+        <item quantity="one">%1$s element de seguiment</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Seguiments</item>
+        <item quantity="one">Seguiment</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Han comentat %1$d fitxers</item>
+        <item quantity="one">Han comentat un fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Ha comentat %1$d fitxers</item>
+        <item quantity="one">Ha comentat un fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Han comentat aquest fitxer</item>
+        <item quantity="one">Ha comentat aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Han creat %1$d elements</item>
+        <item quantity="one">Han creat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Ha creat %1$d elements</item>
+        <item quantity="one">Ha creat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Han creat aquest fitxer</item>
+        <item quantity="one">Ha creat aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Han creat aquesta carpeta</item>
+        <item quantity="one">Ha creat aquesta carpeta</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Han editat %1$d elements</item>
+        <item quantity="one">Han editat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Ha editat %1$d elements</item>
+        <item quantity="one">Ha editat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Han fet canvis en aquest fitxer</item>
+        <item quantity="one">Ha fet canvis en aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">"S'han suprimit %1$d elements permanentment"</item>
+        <item quantity="one">"S'ha suprimit 1 element permanentment"</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Han mogut %1$d elements a:</item>
+        <item quantity="one">Han mogut un element a:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Ha mogut %1$d elements a:</item>
+        <item quantity="one">Ha mogut un element a:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Han mogut %1$d elements</item>
+        <item quantity="one">Han mogut 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Ha mogut %1$d elements</item>
+        <item quantity="one">Ha mogut 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Han mogut aquest fitxer</item>
+        <item quantity="one">Ha mogut aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Han mogut aquest fitxer a:</item>
+        <item quantity="one">Ha mogut aquest fitxer a:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Han mogut aquesta carpeta</item>
+        <item quantity="one">Ha mogut aquesta carpeta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Han mogut aquesta carpeta a:</item>
+        <item quantity="one">Ha mogut aquesta carpeta a:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Han canviat el nom de %1$d elements</item>
+        <item quantity="one">"Han canviat el nom d'1 element"</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Ha canviat el nom de %1$d elements</item>
+        <item quantity="one">"Ha canviat el nom d'1 element"</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">"Han canviat el nom d'aquest fitxer"</item>
+        <item quantity="one">"Ha canviat el nom d'aquest fitxer"</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">"Han canviat el nom d'aquesta carpeta"</item>
+        <item quantity="one">"Ha canviat el nom d'aquesta carpeta"</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Han compartit %1$d elements</item>
+        <item quantity="one">Han compartit 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Ha compartit %1$d elements</item>
+        <item quantity="one">Ha compartit 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Han compartit aquest fitxer</item>
+        <item quantity="one">Ha compartit aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Han compartit aquesta carpeta</item>
+        <item quantity="one">Ha compartit aquesta carpeta</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Han mogut %1$d elements a la paperera</item>
+        <item quantity="one">Han mogut 1 element a la paperera</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Ha mogut %1$d elements a la paperera</item>
+        <item quantity="one">Ha mogut 1 element a la paperera</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Han suprimit aquest fitxer</item>
+        <item quantity="one">Ha suprimit aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Han suprimit aquesta carpeta</item>
+        <item quantity="one">Ha suprimit aquesta carpeta</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Han penjat %1$d elements</item>
+        <item quantity="one">Han penjat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Ha penjat %1$d elements</item>
+        <item quantity="one">Ha penjat 1 element</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Han penjat aquest fitxer</item>
+        <item quantity="one">Ha penjat aquest fitxer</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Han penjat aquesta carpeta</item>
+        <item quantity="one">Ha penjat aquesta carpeta</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">"Es mouran %1$d fitxers a la paperera de la unitat d'equip %2$s i se suprimiran definitivament al cap de 30 dies."</item>
+        <item quantity="one">"Es mourà aquest fitxer a la paperera de la unitat d'equip %2$s i se suprimirà definitivament al cap de 30 dies."</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">"Es mouran %1$d carpetes a la paperera de la unitat d'equip %2$s i se suprimiran definitivament al cap de 30 dies."</item>
+        <item quantity="one">"Es mourà aquesta carpeta a la paperera de la unitat d'equip %2$s i se suprimirà definitivament al cap de 30 dies."</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">"Es mouran %1$d elements a la paperera de la unitat d'equip %2$s i se suprimiran definitivament al cap de 30 dies."</item>
+        <item quantity="one">"Es mourà aquest element a la paperera de la unitat d'equip %2$s i se suprimirà definitivament al cap de 30 dies."</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Aquests %1$d fitxers &lt;b>se suprimiran definitivament per a tothom.&lt;/b> No pots desfer aquesta acció.</item>
+        <item quantity="one">Aquest fitxer &lt;b>se suprimirà definitivament per a tothom.&lt;/b> No pots desfer aquesta acció.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Aquests %1$d fitxers se suprimiran definitivament. No pots desfer aquesta acció.</item>
+        <item quantity="one">Aquest fitxer se suprimirà definitivament. No pots desfer aquesta acció.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d elements no seleccionats</item>
+        <item quantity="one">%1$d element no seleccionat</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Els fitxers estaran disponibles sense connexió</item>
+        <item quantity="one">El fitxer estarà disponible sense connexió</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">"S'han destacat %1$d elements"</item>
+        <item quantity="one">"S'ha destacat 1 element"</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Els fitxers ja no estaran disponibles sense connexió</item>
+        <item quantity="one">El fitxer ja no estarà disponible sense connexió</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">"S'han deixat de destacar %1$d elements"</item>
+        <item quantity="one">"S'ha deixat de destacar 1 element"</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">"S'han restaurat %1$d elements"</item>
+        <item quantity="one">"S'ha restaurat 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">"S'han restaurat %1$d elements"</item>
+        <item quantity="one">"S'ha restaurat 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">"S'han suprimit %1$d elements de la carpeta %2$s"</item>
+        <item quantity="one">"S'ha suprimit 1 element de la carpeta %2$s"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">"S'han suprimit %1$d elements de la carpeta"</item>
+        <item quantity="one">"S'ha suprimit 1 element de la carpeta"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">"S'han suprimit %1$d elements"</item>
+        <item quantity="one">"S'ha suprimit 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">"S'han tornat %1$d elements a la carpeta original"</item>
+        <item quantity="one">"S'ha tornat 1 element a la carpeta original"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">"S'han tornat a moure %1$d elements a la paperera"</item>
+        <item quantity="one">"S'ha tornat a moure 1 element a la paperera"</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">"S'han suprimit %1$d elements"</item>
+        <item quantity="one">"S'ha suprimit 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">"S'han afegit %1$d elements a %2$s"</item>
+        <item quantity="one">"S'ha afegit 1 element a %2$s"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">"S'han afegit %1$d elements"</item>
+        <item quantity="one">"S'ha afegit 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">"S'han restaurat %1$d elements i s'han afegit a %2$s"</item>
+        <item quantity="one">"S'ha restaurat 1 element i s'ha afegit a %2$s"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">"S'han mogut %1$d elements a %2$s."</item>
+        <item quantity="one">"S'ha mogut 1 element a %2$s."</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">"S'han mogut %1$d elements"</item>
+        <item quantity="one">"S'ha mogut 1 element"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">"S'han restaurat %1$d elements i s'han mogut a %2$s."</item>
+        <item quantity="one">"S'ha restaurat 1 element i s'ha mogut a %2$s."</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">"S'han restaurat %1$d elements."</item>
+        <item quantity="one">"S'ha restaurat 1 element."</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">"S'han restaurat %1$d elements a %2$s."</item>
+        <item quantity="one">"S'ha restaurat 1 element a %2$s."</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Envia els fitxers amb</item>
+        <item quantity="one">Envia el fitxer amb</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">Ara %1$d persones poden accedir al fitxer</item>
+        <item quantity="one">Ara 1 persona pot accedir al fitxer</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">Ara %1$s i %2$d persones més poden accedir</item>
+        <item quantity="one">Ara %1$s i 1 persona més poden accedir</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">Ara %1$d persones poden afegir comentaris</item>
+        <item quantity="one">Ara 1 persona pot afegir comentaris</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">Ara %1$s i %2$d persones més poden afegir comentaris</item>
+        <item quantity="one">Ara %1$s i 1 persona més poden afegir comentaris</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">Ara %1$d persones poden editar el fitxer</item>
+        <item quantity="one">Ara 1 persona pot editar el fitxer</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">Ara %1$s i %2$d persones més poden editar el fitxer</item>
+        <item quantity="one">Ara %1$s i 1 persona més poden editar el fitxer</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">Ara %1$d persones poden veure el fitxer</item>
+        <item quantity="one">Ara 1 persona pot veure el fitxer</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">Ara %1$s i %2$d persones més poden veure el fitxer</item>
+        <item quantity="one">Ara %1$s i 1 persona més poden veure el fitxer</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">"L'emmagatzematge caduca d'aquí a %1$d dies"</item>
+        <item quantity="one">"L'emmagatzematge caduca d'aquí a %1$d dia"</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">"S'han afegit %1$d persones a la unitat compartida"</item>
+        <item quantity="one">"S'ha afegit 1 persona a la unitat compartida"</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">"S'ha afegit %2$s i %3$d persones més a %1$s"</item>
+        <item quantity="one">"S'ha afegit %2$s i 1 persona més a %1$s"</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d membres</item>
+        <item quantity="one">1 membre</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Reprèn-ho tot ara</item>
+        <item quantity="one">Reprèn ara</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">"S'ha cancel·lat la pujada de %1$d fitxers."</item>
+        <item quantity="one">S’ha cancel·lat la pujada d’%1$d fitxer.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">No es poden programar %1$d fitxers per penjar-los.</item>
+        <item quantity="one">No es pot programar %1$d fitxer per penjar-lo.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">"S'han penjat %1$d fitxers."</item>
+        <item quantity="one">"S'ha penjat %1$d fitxer."</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">"Fitxers que no s'han pogut penjar: %1$d de %2$d."</item>
+        <item quantity="one">Fitxers que no s’han pogut penjar: %1$d d’%2$d.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">"S'estan penjant %1$d fitxers."</item>
+        <item quantity="one">"S'està penjant %1$d fitxer."</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">"S'han posat en pausa algunes pujades en espera de tenir xarxa…"</item>
+        <item quantity="one">"S'ha posat en pausa 1 pujada en espera de tenir xarxa…"</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">"S'han posat en pausa %1$d pujades."</item>
+        <item quantity="one">"S'ha posat en pausa %1$d pujada."</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">"Les pujades s'han posat en pausa, a l'espera de tenir connexió Wi-Fi…"</item>
+        <item quantity="one">"La pujada s'ha posat en pausa, a l'espera de tenir connexió Wi-Fi…"</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">"S'estan preparant %1$d fitxers per penjar-los."</item>
+        <item quantity="one">"S'està preparant %1$d fitxer per penjar-lo."</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">"%1$d fitxers teus s'estan penjant a %2$s"</item>
+        <item quantity="one">"%1$d fitxer teu s'està penjant a %2$s"</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Mostra %1$d fitxers</item>
+        <item quantity="one">Mostra %1$d fitxer</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">"Mostra els %1$d fitxers de l'àrea de treball %2$s"</item>
+        <item quantity="one">"Mostra %1$d fitxer de l'àrea de treball %2$s"</item>
+    </plurals>
+</resources>

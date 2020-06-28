@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Prikaz %1$d elementov.</item>
+        <item quantity="one">Prikaz %1$d elementa.</item>
+        <item quantity="two">Prikaz %1$d elementov.</item>
+        <item quantity="few">Prikaz %1$d elementov.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d komentarjev</item>
+        <item quantity="one">%1$d komentar</item>
+        <item quantity="two">%1$d komentarja</item>
+        <item quantity="few">%1$d komentarji</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Elementi dejanj: %1$d nadaljnjih elementov</item>
+        <item quantity="one">Elementi dejanj: %1$d nadaljnji element</item>
+        <item quantity="two">Elementi dejanj: %1$d nadaljnja elementa</item>
+        <item quantity="few">Elementi dejanj: %1$d nadaljnji elementi</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Elementi so bili trajno izbrisani</item>
+        <item quantity="one">Elementi so bili trajno izbrisani</item>
+        <item quantity="two">Elementi so bili trajno izbrisani</item>
+        <item quantity="few">Elementi so bili trajno izbrisani</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s naslovov ni veljavnih poštnih naslovov.</item>
+        <item quantity="one">%s naslov ni veljaven e-poštni naslov.</item>
+        <item quantity="two">%s naslova nista veljavna e-poštna naslova.</item>
+        <item quantity="few">%s naslovi niso veljavni e-poštni naslovi.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Če dodate te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="one">Če dodate te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="two">Če dodate te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="few">Če dodate te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Če dodate te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="one">Če dodate te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="two">Če dodate te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="few">Če dodate te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="one">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="two">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="few">Želite dati te datoteke v skupno rabo?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Želite dati te mape v skupno rabo?</item>
+        <item quantity="one">Želite dati te mape v skupno rabo?</item>
+        <item quantity="two">Želite dati te mape v skupno rabo?</item>
+        <item quantity="few">Želite dati te mape v skupno rabo?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d map je posodobljenih. Nastavljena je %2$s barva.</item>
+        <item quantity="one">%1$d mapa je posodobljena. Nastavljena je %2$s barva.</item>
+        <item quantity="two">%1$d mapi sta posodobljeni. Nastavljena je %2$s barva.</item>
+        <item quantity="few">%1$d mape so posodobljene. Nastavljena je %2$s barva.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Uporabi filtre:</item>
+        <item quantity="one">Uporabi filtre:</item>
+        <item quantity="two">Uporabi filtre:</item>
+        <item quantity="few">Uporabi filtre:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Poteče čez %1$d dni</item>
+        <item quantity="one">Poteče čez %1$d dan</item>
+        <item quantity="two">Poteče čez %1$d dni</item>
+        <item quantity="few">Poteče čez %1$d dni</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Ta varnostna kopija bo potekla čez %1$d dni, če bo naprava še naprej neaktivna.</item>
+        <item quantity="one">Ta varnostna kopija bo potekla čez %1$d dan, če bo naprava še naprej neaktivna.</item>
+        <item quantity="two">Ta varnostna kopija bo potekla čez %1$d dni, če bo naprava še naprej neaktivna.</item>
+        <item quantity="few">Ta varnostna kopija bo potekla čez %1$d dni, če bo naprava še naprej neaktivna.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Varnostne kopije so izbrisane.</item>
+        <item quantity="one">Varnostne kopije so izbrisane.</item>
+        <item quantity="two">Varnostne kopije so izbrisane.</item>
+        <item quantity="few">Varnostne kopije so izbrisane.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d stolpcev.</item>
+        <item quantity="one">%1$d stolpec.</item>
+        <item quantity="two">%1$d stolpca.</item>
+        <item quantity="few">%1$d stolpci.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d zamrznjenih stolpcev.</item>
+        <item quantity="one">%1$d zamrznjen stolpec.</item>
+        <item quantity="two">%1$d zamrznjena stolpca.</item>
+        <item quantity="few">%1$d zamrznjeni stolpci.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d zamrznjenih vrstic.</item>
+        <item quantity="one">%1$d zamrznjena vrstica.</item>
+        <item quantity="two">%1$d zamrznjeni vrstici.</item>
+        <item quantity="few">%1$d zamrznjene vrstice.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d vrstic.</item>
+        <item quantity="one">%1$d vrstica.</item>
+        <item quantity="two">%1$d vrstici.</item>
+        <item quantity="few">%1$d vrstice.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s za %2$d elementov</item>
+        <item quantity="one">%1$s za %2$d element</item>
+        <item quantity="two">%1$s za %2$d elementa</item>
+        <item quantity="few">%1$s za %2$d elemente</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s odgovorov</item>
+        <item quantity="one">%1$s odgovor</item>
+        <item quantity="two">%1$s odgovora</item>
+        <item quantity="few">%1$s odgovori</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Elementov ni bilo mogoče prenesti</item>
+        <item quantity="one">Elementov ni bilo mogoče prenesti</item>
+        <item quantity="two">Elementov ni bilo mogoče prenesti</item>
+        <item quantity="few">Elementov ni bilo mogoče prenesti</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d elementov bo prenesenih. Za podrobnosti glejte obvestilo.</item>
+        <item quantity="one">%1$d element bo prenesen. Za podrobnosti glejte obvestilo.</item>
+        <item quantity="two">%1$d elementa bosta prenesena. Za podrobnosti glejte obvestilo.</item>
+        <item quantity="few">%1$d elementi bodo preneseni. Za podrobnosti glejte obvestilo.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Prenesenih bo %1$d elementov.</item>
+        <item quantity="one">Prenesen bo %1$d element.</item>
+        <item quantity="two">Prenesena bosta %1$d elementa.</item>
+        <item quantity="few">Preneseni bodo %1$d elementi.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s in še %2$d elementov</item>
+        <item quantity="one">%1$s in še %2$d element</item>
+        <item quantity="two">%1$s in še %2$d elementa</item>
+        <item quantity="few">%1$s in še %2$d elementi</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s elementov ni bilo mogoče prenesti</item>
+        <item quantity="one">%1$s elementa ni bilo mogoče prenesti</item>
+        <item quantity="two">%1$s elementov ni bilo mogoče prenesti</item>
+        <item quantity="few">%1$s elementov ni bilo mogoče prenesti</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Še %1$d elementov</item>
+        <item quantity="one">Še %1$d element</item>
+        <item quantity="two">Še %1$d elementa</item>
+        <item quantity="few">Še %1$d elementi</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Neuspeli prenosi: %1$d od %2$d</item>
+        <item quantity="one">Neuspeli prenosi: %1$d od %2$d</item>
+        <item quantity="two">Neuspeli prenosi: %1$d od %2$d</item>
+        <item quantity="few">Neuspeli prenosi: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Napaka pri premikanju datotek.</item>
+        <item quantity="one">Napaka pri premikanju datotek.</item>
+        <item quantity="two">Napaka pri premikanju datotek.</item>
+        <item quantity="few">Napaka pri premikanju datotek.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gostov</item>
+        <item quantity="one">%d gost</item>
+        <item quantity="two">%d gosta</item>
+        <item quantity="few">%d gosti</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d bližnjic je bilo dodanih v »%1$s«</item>
+        <item quantity="one">%2$d bližnjica je bila dodana v »%1$s«</item>
+        <item quantity="two">%2$d bližnjici sta bili dodani v »%1$s«</item>
+        <item quantity="few">%2$d bližnjice so bile dodane v »%1$s«</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Bližnjic ni mogoče dodati. Poskusite znova</item>
+        <item quantity="one">Bližnjic ni mogoče dodati. Poskusite znova</item>
+        <item quantity="two">Bližnjic ni mogoče dodati. Poskusite znova</item>
+        <item quantity="few">Bližnjic ni mogoče dodati. Poskusite znova</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov.</item>
+        <item quantity="one">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov.</item>
+        <item quantity="two">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov.</item>
+        <item quantity="few">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov. Imate samo dovoljenje za dodajanje in urejanje elementov v disku ekipe »%3$s«, zato tega dejanja ne boste mogli razveljaviti.</item>
+        <item quantity="one">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov. Imate samo dovoljenje za dodajanje in urejanje elementov v disku ekipe »%3$s«, zato tega dejanja ne boste mogli razveljaviti.</item>
+        <item quantity="two">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov. Imate samo dovoljenje za dodajanje in urejanje elementov v disku ekipe »%3$s«, zato tega dejanja ne boste mogli razveljaviti.</item>
+        <item quantity="few">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi. Člani diska ekipe »%2$s« bodo dobili dostop do teh elementov. Imate samo dovoljenje za dodajanje in urejanje elementov v disku ekipe »%3$s«, zato tega dejanja ne boste mogli razveljaviti.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Nekatere od datotek, ki jih želite premakniti v »%1$s«, so sprožile zaznavanje funkcije DLP. V teh datotekah so morda občutljivi podatki.</item>
+        <item quantity="one">Nekatere od datotek, ki jih želite premakniti v »%1$s«, so sprožile zaznavanje funkcije DLP. V teh datotekah so morda občutljivi podatki.</item>
+        <item quantity="two">Nekatere od datotek, ki jih želite premakniti v »%1$s«, so sprožile zaznavanje funkcije DLP. V teh datotekah so morda občutljivi podatki.</item>
+        <item quantity="few">Nekatere od datotek, ki jih želite premakniti v »%1$s«, so sprožile zaznavanje funkcije DLP. V teh datotekah so morda občutljivi podatki.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="one">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="two">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="few">Člani diska ekipe »%1$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Če premaknete te elemente, jih boste dali v skupno rabo z vsemi, ki si lahko ogledajo mapo v skupni rabi »%1$s«. Člani diska ekipe »%2$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="one">Če premaknete te elemente, jih boste dali v skupno rabo z vsemi, ki si lahko ogledajo mapo v skupni rabi »%1$s«. Člani diska ekipe »%2$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="two">Če premaknete te elemente, jih boste dali v skupno rabo z vsemi, ki si lahko ogledajo mapo v skupni rabi »%1$s«. Člani diska ekipe »%2$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+        <item quantity="few">Če premaknete te elemente, jih boste dali v skupno rabo z vsemi, ki si lahko ogledajo mapo v skupni rabi »%1$s«. Člani diska ekipe »%2$s« ne bodo imeli več dostopa do teh elementov, če jih ne daste v skupno rabo z njimi.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Iz mape v skupni rabi boste premaknili element, s čimer boste drugim osebam onemogočili dostop do teh elementov.</item>
+        <item quantity="one">Iz mape v skupni rabi boste premaknili element, s čimer boste drugim osebam onemogočili dostop do teh elementov.</item>
+        <item quantity="two">Iz mape v skupni rabi boste premaknili element, s čimer boste drugim osebam onemogočili dostop do teh elementov.</item>
+        <item quantity="few">Iz mape v skupni rabi boste premaknili element, s čimer boste drugim osebam onemogočili dostop do teh elementov.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Iz teh elementov bodo odstranjene dodatne omejitve.</item>
+        <item quantity="one">Iz teh elementov bodo odstranjene dodatne omejitve.</item>
+        <item quantity="two">Iz teh elementov bodo odstranjene dodatne omejitve.</item>
+        <item quantity="few">Iz teh elementov bodo odstranjene dodatne omejitve.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Če premaknete te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="one">Če premaknete te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="two">Če premaknete te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="few">Če premaknete te datoteke, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Če premaknete te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="one">Če premaknete te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="two">Če premaknete te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+        <item quantity="few">Če premaknete te mape, jih boste dali v skupno rabo z vsemi, ki imajo dostop do mape v skupni rabi %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="one">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="two">Želite dati te datoteke v skupno rabo?</item>
+        <item quantity="few">Želite dati te datoteke v skupno rabo?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Želite dati te mape v skupno rabo?</item>
+        <item quantity="one">Želite dati te mape v skupno rabo?</item>
+        <item quantity="two">Želite dati te mape v skupno rabo?</item>
+        <item quantity="few">Želite dati te mape v skupno rabo?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Nimate dovoljenja za premik nekaterih elementov iz njihovega diska v skupni rabi.</item>
+        <item quantity="one">Nimate dovoljenja za premik nekaterih elementov iz njihovega diska v skupni rabi.</item>
+        <item quantity="two">Nimate dovoljenja za premik nekaterih elementov iz njihovega diska v skupni rabi.</item>
+        <item quantity="few">Nimate dovoljenja za premik nekaterih elementov iz njihovega diska v skupni rabi.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Nimate dovoljenja za premik nekaterih elementov in njihove mape.</item>
+        <item quantity="one">Nimate dovoljenja za premik nekaterih elementov in njihove mape.</item>
+        <item quantity="two">Nimate dovoljenja za premik nekaterih elementov in njihove mape.</item>
+        <item quantity="few">Nimate dovoljenja za premik nekaterih elementov in njihove mape.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Teh datotek ni mogoče premakniti, ker je lastnik datoteke zunaj domene %1$s.</item>
+        <item quantity="one">Teh datotek ni mogoče premakniti, ker je lastnik datoteke zunaj domene %1$s.</item>
+        <item quantity="two">Teh datotek ni mogoče premakniti, ker je lastnik datoteke zunaj domene %1$s.</item>
+        <item quantity="few">Teh datotek ni mogoče premakniti, ker je lastnik datoteke zunaj domene %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s Disk ekipe »%2$s« ima zdaj dostop.</item>
+        <item quantity="one">%1$s Disk ekipe »%2$s« ima zdaj dostop.</item>
+        <item quantity="two">%1$s Disk ekipe »%2$s« ima zdaj dostop.</item>
+        <item quantity="few">%1$s Disk ekipe »%2$s« ima zdaj dostop.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d elementov je bilo premaknjenih v disk v skupni rabi. Člani imajo zdaj dostop.</item>
+        <item quantity="one">%1$d element je bil premaknjen v disk v skupni rabi. Člani imajo zdaj dostop.</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena v disk v skupni rabi. Člani imajo zdaj dostop.</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni v disk v skupni rabi. Člani imajo zdaj dostop.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d elementov je bilo premaknjenih iz diska v skupni rabi. Člani so izgubili dostop.</item>
+        <item quantity="one">%1$d element je bil premaknjen iz diska v skupni rabi. Člani so izgubili dostop.</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena iz diska v skupni rabi. Člani so izgubili dostop.</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni iz diska v skupni rabi. Člani so izgubili dostop.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d elementov</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="two">%1$d elementa</item>
+        <item quantity="few">%1$d elementi</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d odobriteljev</item>
+        <item quantity="one">%1$d odobritelj</item>
+        <item quantity="two">%1$d odobritelja</item>
+        <item quantity="few">%1$d odobritelji</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s elementov dejanja</item>
+        <item quantity="one">%1$s element dejanja</item>
+        <item quantity="two">%1$s elementa dejanja</item>
+        <item quantity="few">%1$s elementi dejanja</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s neodgovorjenih omemb</item>
+        <item quantity="one">%1$s neodgovorjena omemba</item>
+        <item quantity="two">%1$s neodgovorjeni omembi</item>
+        <item quantity="few">%1$s neodgovorjene omembe</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s predlogov</item>
+        <item quantity="one">%1$s predlog</item>
+        <item quantity="two">%1$s predloga</item>
+        <item quantity="few">%1$s predlogi</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s opravil</item>
+        <item quantity="one">%1$s opravilo</item>
+        <item quantity="two">%1$s opravili</item>
+        <item quantity="few">%1$s opravila</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Elementi so bili trajno izbrisani</item>
+        <item quantity="one">Elementi so bili trajno izbrisani</item>
+        <item quantity="two">Elementi so bili trajno izbrisani</item>
+        <item quantity="few">Elementi so bili trajno izbrisani</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d od %2$s je zdaj na voljo brez povezave.</item>
+        <item quantity="one">%1$d od %2$s je zdaj na voljo brez povezave.</item>
+        <item quantity="two">%1$d od %2$s sta zdaj na voljo brez povezave.</item>
+        <item quantity="few">%1$d od %2$s so zdaj na voljo brez povezave.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Vse (%1$d) datot. so na voljo brez povezave.</item>
+        <item quantity="one">Vse (%1$d) datot. so na voljo brez povezave.</item>
+        <item quantity="two">Vse (%1$d) datot. so na voljo brez povezave.</item>
+        <item quantity="few">Vse (%1$d) datot. so na voljo brez povezave.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Datotek ni mogoče dati na voljo brez povezave</item>
+        <item quantity="one">Datotek ni mogoče dati na voljo brez povezave</item>
+        <item quantity="two">Datotek ni mogoče dati na voljo brez povezave</item>
+        <item quantity="few">Datotek ni mogoče dati na voljo brez povezave</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Prenos %1$d datotek za delo brez povezave.</item>
+        <item quantity="one">Prenos %1$d datoteke za delo brez povezave.</item>
+        <item quantity="two">Prenos %1$d datotek za delo brez povezave.</item>
+        <item quantity="few">Prenos %1$d datotek za delo brez povezave.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d datotek</item>
+        <item quantity="one">%1$d datoteka</item>
+        <item quantity="two">%1$d datoteki</item>
+        <item quantity="few">%1$d datoteke</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Prenosi so zaustavljeni. Čakanje na omrežje …</item>
+        <item quantity="one">Prenosi so zaustavljeni. Čakanje na omrežje …</item>
+        <item quantity="two">Prenosi so zaustavljeni. Čakanje na omrežje …</item>
+        <item quantity="few">Prenosi so zaustavljeni. Čakanje na omrežje …</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Prenos %1$d datotek je začasno ustavljen.</item>
+        <item quantity="one">Prenos %1$d datoteke je začasno ustavljen.</item>
+        <item quantity="two">Prenos %1$d datotek je začasno ustavljen.</item>
+        <item quantity="few">Prenos %1$d datotek je začasno ustavljen.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Prenosi so začasno ustavljeni. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="one">Prenosi so začasno ustavljeni. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="two">Prenosi so začasno ustavljeni. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="few">Prenosi so začasno ustavljeni. Čakanje na povezavo Wi-Fi …</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d elementov bo premaknjenih v smetnjak. S tem jih boste odstranili tudi iz storitve Google Foto.</item>
+        <item quantity="one">%1$d element bo premaknjen v smetnjak. S tem ga boste odstranili tudi iz storitve Google Foto.</item>
+        <item quantity="two">%1$d elementa bosta premaknjena v smetnjak. S tem ju boste odstranili tudi iz storitve Google Foto.</item>
+        <item quantity="few">%1$d elementi bodo premaknjeni v smetnjak. S tem jih boste odstranili tudi iz storitve Google Foto.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d elementov bo premaknjenih v smetnjak.</item>
+        <item quantity="one">%1$d element bo premaknjen v smetnjak.</item>
+        <item quantity="two">%1$d elementa bosta premaknjena v smetnjak.</item>
+        <item quantity="few">%1$d elementi bodo premaknjeni v smetnjak.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s nadaljnjih elementov</item>
+        <item quantity="one">%1$s nadaljnji element</item>
+        <item quantity="two">%1$s nadaljnja elementa</item>
+        <item quantity="few">%1$s nadaljnji elementi</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s nadaljnjih elementov</item>
+        <item quantity="one">%1$s nadaljnji element</item>
+        <item quantity="two">%1$s nadaljnja elementa</item>
+        <item quantity="few">%1$s nadaljnji elementi</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Nadaljnje delo</item>
+        <item quantity="one">Nadaljnje delo</item>
+        <item quantity="two">Nadaljnje delo</item>
+        <item quantity="few">Nadaljnje delo</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Komentirali so %1$d datotek</item>
+        <item quantity="one">Komentirali so %1$d datoteko</item>
+        <item quantity="two">Komentirali so %1$d datoteki</item>
+        <item quantity="few">Komentirali so %1$d datoteke</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Komentiral je %1$d datotek</item>
+        <item quantity="one">Komentiral je %1$d datoteko</item>
+        <item quantity="two">Komentiral je %1$d datoteki</item>
+        <item quantity="few">Komentiral je %1$d datoteke</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Je komentiralo to datoteko</item>
+        <item quantity="one">Je komentiral to datoteko</item>
+        <item quantity="two">Sta komentirala to datoteko</item>
+        <item quantity="few">So komentirali to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Ustvarili so %1$d elementov</item>
+        <item quantity="one">Ustvarili so %1$d element</item>
+        <item quantity="two">Ustvarili so %1$d elementa</item>
+        <item quantity="few">Ustvarili so %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Ustvaril je %1$d elementov</item>
+        <item quantity="one">Ustvaril je %1$d element</item>
+        <item quantity="two">Ustvaril je %1$d elementa</item>
+        <item quantity="few">Ustvaril je %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Je ustvarilo to datoteko</item>
+        <item quantity="one">Je ustvaril to datoteko</item>
+        <item quantity="two">Sta ustvarila to datoteko</item>
+        <item quantity="few">So ustvarili to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Je ustvarilo to mapo</item>
+        <item quantity="one">Je ustvaril to mapo</item>
+        <item quantity="two">Sta ustvarila to mapo</item>
+        <item quantity="few">So ustvarili to mapo</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Uredili so %1$d elementov</item>
+        <item quantity="one">Uredili so %1$d element</item>
+        <item quantity="two">Uredili so %1$d elementa</item>
+        <item quantity="few">Uredili so %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Uredil je %1$d elementov</item>
+        <item quantity="one">Uredil je %1$d element</item>
+        <item quantity="two">Uredil je %1$d elementa</item>
+        <item quantity="few">Uredil je %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Je spremenilo to datoteko</item>
+        <item quantity="one">Je spremenil to datoteko</item>
+        <item quantity="two">Sta spremenila to datoteko</item>
+        <item quantity="few">So spremenili to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Trajno je izbrisal %1$d elementov</item>
+        <item quantity="one">Trajno je izbrisal %1$d element</item>
+        <item quantity="two">Trajno je izbrisal %1$d elementa</item>
+        <item quantity="few">Trajno je izbrisal %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Premaknili so %1$d elementov v:</item>
+        <item quantity="one">Premaknili so %1$d element v:</item>
+        <item quantity="two">Premaknili so %1$d elementa v:</item>
+        <item quantity="few">Premaknili so %1$d elemente v:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Premaknil je %1$d elementov v:</item>
+        <item quantity="one">Premaknil je %1$d element v:</item>
+        <item quantity="two">Premaknil je %1$d elementa v:</item>
+        <item quantity="few">Premaknil je %1$d elemente v:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Premaknili so %1$d elementov</item>
+        <item quantity="one">Premaknili so %1$d element</item>
+        <item quantity="two">Premaknili so %1$d elementa</item>
+        <item quantity="few">Premaknili so %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Premaknil je %1$d elementov</item>
+        <item quantity="one">Premaknil je %1$d element</item>
+        <item quantity="two">Premaknil je %1$d elementa</item>
+        <item quantity="few">Premaknil je %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Je premaknilo to datoteko</item>
+        <item quantity="one">Je premaknil to datoteko</item>
+        <item quantity="two">Sta premaknila to datoteko</item>
+        <item quantity="few">So premaknili to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Je premaknilo to datoteko v:</item>
+        <item quantity="one">Je premaknil to datoteko v:</item>
+        <item quantity="two">Sta premaknila to datoteko v:</item>
+        <item quantity="few">So premaknili to datoteko v:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Je premaknilo to mapo</item>
+        <item quantity="one">Je premaknil to mapo</item>
+        <item quantity="two">Sta premaknila to mapo</item>
+        <item quantity="few">So premaknili to mapo</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Je premaknilo to mapo v:</item>
+        <item quantity="one">Je premaknil to mapo v:</item>
+        <item quantity="two">Sta premaknila to mapo v:</item>
+        <item quantity="few">So premaknili to mapo v:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Preimenovali so %1$d elementov</item>
+        <item quantity="one">Preimenovali so %1$d element</item>
+        <item quantity="two">Preimenovali so %1$d elementa</item>
+        <item quantity="few">Preimenovali so %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Preimenoval(-a) je %1$d elementov</item>
+        <item quantity="one">Preimenoval(-a) je %1$d element</item>
+        <item quantity="two">Preimenoval(-a) je %1$d elementa</item>
+        <item quantity="few">Preimenoval(-a) je %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Je preimenovalo to datoteko</item>
+        <item quantity="one">Je preimenoval(-a) to datoteko</item>
+        <item quantity="two">Sta preimenovala(-li) to datoteko</item>
+        <item quantity="few">So preimenovali(-le) to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Je preimenovalo to mapo</item>
+        <item quantity="one">Je preimenoval(-a) to mapo</item>
+        <item quantity="two">Sta preimenovala(-li) to mapo</item>
+        <item quantity="few">So preimenovali(-le) to mapo</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Dali so %1$d elementov v skupno rabo</item>
+        <item quantity="one">Dali so %1$d element v skupno rabo</item>
+        <item quantity="two">Dali so %1$d elementa v skupno rabo</item>
+        <item quantity="few">Dali so %1$d elemente v skupno rabo</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Dal(-a) je %1$d elementov v skupno rabo</item>
+        <item quantity="one">Dal(-a) je %1$d element v skupno rabo</item>
+        <item quantity="two">Dal(-a) je %1$d elementa v skupno rabo</item>
+        <item quantity="few">Dal(-a) je %1$d elemente v skupno rabo</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Je dalo to datoteko v skupno rabo</item>
+        <item quantity="one">Je dal to datoteko v skupno rabo</item>
+        <item quantity="two">Sta dala to datoteko v skupno rabo</item>
+        <item quantity="few">So dali to datoteko v skupno rabo</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Je dalo to mapo v skupno rabo</item>
+        <item quantity="one">Je dal(-a) to mapo v skupno rabo</item>
+        <item quantity="two">Sta dala(-li) to mapo v skupno rabo</item>
+        <item quantity="few">So dali(-le) to mapo v skupno rabo</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Premaknili so %1$d elementov v smetnjak</item>
+        <item quantity="one">Premaknili so %1$d element v smetnjak</item>
+        <item quantity="two">Premaknili so %1$d elementa v smetnjak</item>
+        <item quantity="few">Premaknili so %1$d elemente v smetnjak</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Premaknil je %1$d elementov v smetnjak</item>
+        <item quantity="one">Premaknil je %1$d element v smetnjak</item>
+        <item quantity="two">Premaknil je %1$d elementa v smetnjak</item>
+        <item quantity="few">Premaknil je %1$d elemente v smetnjak</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Je odstranilo to datoteko</item>
+        <item quantity="one">Je odstranil to datoteko</item>
+        <item quantity="two">Sta odstranila to datoteko</item>
+        <item quantity="few">So odstranili to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Je odstranilo to mapo</item>
+        <item quantity="one">Je odstranil to mapo</item>
+        <item quantity="two">Sta odstranila to mapo</item>
+        <item quantity="few">So odstranili to mapo</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Naložili so %1$d elementov</item>
+        <item quantity="one">Naložili so %1$d element</item>
+        <item quantity="two">Naložili so %1$d elementa</item>
+        <item quantity="few">Naložili so %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Naložil je %1$d elementov</item>
+        <item quantity="one">Naložil je %1$d element</item>
+        <item quantity="two">Naložil je %1$d elementa</item>
+        <item quantity="few">Naložil je %1$d elemente</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Je naložilo to datoteko</item>
+        <item quantity="one">Je naložil to datoteko</item>
+        <item quantity="two">Sta naložila to datoteko</item>
+        <item quantity="few">So naložili to datoteko</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Je naložilo to mapo</item>
+        <item quantity="one">Je naložil to mapo</item>
+        <item quantity="two">Sta naložila to mapo</item>
+        <item quantity="few">So naložili to mapo</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d datotek bo premaknjenih v smetnjak diska ekipe %2$s in trajno izbrisanih po 30 dneh.</item>
+        <item quantity="one">%1$d datoteka bo premaknjena v smetnjak diska ekipe %2$s in trajno izbrisana po 30 dneh.</item>
+        <item quantity="two">%1$d datoteki bosta premaknjeni v smetnjak diska ekipe %2$s in trajno izbrisani po 30 dneh.</item>
+        <item quantity="few">%1$d datoteke bodo premaknjene v smetnjak diska ekipe %2$s in trajno izbrisane po 30 dneh.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d map bo premaknjenih v smetnjak diska ekipe %2$s in trajno izbrisanih po 30 dneh.</item>
+        <item quantity="one">%1$d mapa bo premaknjena v smetnjak diska ekipe %2$s in trajno izbrisana po 30 dneh.</item>
+        <item quantity="two">%1$d mapi bosta premaknjeni v smetnjak diska ekipe %2$s in trajno izbrisani po 30 dneh.</item>
+        <item quantity="few">%1$d mape bodo premaknjene v smetnjak diska ekipe %2$s in trajno izbrisane po 30 dneh.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d elementov bo premaknjenih v smetnjak diska ekipe %2$s in trajno izbrisanih po 30 dneh.</item>
+        <item quantity="one">%1$d element bo premaknjen v smetnjak diska ekipe %2$s in trajno izbrisan po 30 dneh.</item>
+        <item quantity="two">%1$d elementa bosta premaknjena v smetnjak diska ekipe %2$s in trajno izbrisana po 30 dneh.</item>
+        <item quantity="few">%1$d elementi bodo premaknjeni v smetnjak diska ekipe %2$s in trajno izbrisani po 30 dneh.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Te datoteke (%1$d) bodo &lt;b>trajno izbrisane za vsakogar.&lt;/b> Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="one">Te datoteke (%1$d) bodo &lt;b>trajno izbrisane za vsakogar.&lt;/b> Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="two">Te datoteke (%1$d) bodo &lt;b>trajno izbrisane za vsakogar.&lt;/b> Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="few">Te datoteke (%1$d) bodo &lt;b>trajno izbrisane za vsakogar.&lt;/b> Tega dejanja ni mogoče razveljaviti.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Teh %1$d datotek bo trajno izbrisanih. Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="one">Ta %1$d datoteka bo trajno izbrisana. Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="two">Ti %1$d datoteki bosta trajno izbrisani. Tega dejanja ni mogoče razveljaviti.</item>
+        <item quantity="few">Te %1$d datoteke bodo trajno izbrisane. Tega dejanja ni mogoče razveljaviti.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d elementov</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="two">%1$d elementa</item>
+        <item quantity="few">%1$d elementi</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d elementov je izbranih</item>
+        <item quantity="one">%1$d element je izbran</item>
+        <item quantity="two">%1$d elementa sta izbrana</item>
+        <item quantity="few">%1$d elementi so izbrani</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Izbor %1$d elementov je preklican</item>
+        <item quantity="one">Izbor %1$d elementa je preklican</item>
+        <item quantity="two">Izbor %1$d elementov je preklican</item>
+        <item quantity="few">Izbor %1$d elementov je preklican</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Datoteke bodo na voljo brez povezave</item>
+        <item quantity="one">Datoteke bodo na voljo brez povezave</item>
+        <item quantity="two">Datoteke bodo na voljo brez povezave</item>
+        <item quantity="few">Datoteke bodo na voljo brez povezave</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d elementov je označenih z zvezdico</item>
+        <item quantity="one">%1$d element je označen z zvezdico</item>
+        <item quantity="two">%1$d elementa sta označena z zvezdico</item>
+        <item quantity="few">%1$d elementi so označeni z zvezdico</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Datoteke ne bodo več na voljo brez povezave</item>
+        <item quantity="one">Datoteke ne bodo več na voljo brez povezave</item>
+        <item quantity="two">Datoteke ne bodo več na voljo brez povezave</item>
+        <item quantity="few">Datoteke ne bodo več na voljo brez povezave</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d elem. ni več označenih z zvezd.</item>
+        <item quantity="one">%1$d element ni več označen z zvezdico</item>
+        <item quantity="two">%1$d elem. nista več označena z zvezd.</item>
+        <item quantity="few">%1$d elem. niso več označeni z zvezd.</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d elementov je obnovljenih</item>
+        <item quantity="one">%1$d element je obnovljen</item>
+        <item quantity="two">%1$d elementa sta obnovljena</item>
+        <item quantity="few">%1$d elementi so obnovljeni</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d elementov je obnovljenih</item>
+        <item quantity="one">%1$d element je obnovljen</item>
+        <item quantity="two">%1$d elementa sta obnovljena</item>
+        <item quantity="few">%1$d elementi so obnovljeni</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d elementov je bilo odstranjenih iz mape »%2$s«</item>
+        <item quantity="one">%1$d element je bil odstranjen iz mape »%2$s«</item>
+        <item quantity="two">%1$d elementa sta bila odstranjena iz mape »%2$s«</item>
+        <item quantity="few">%1$d elementi so bili odstranjeni iz mape »%2$s«</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d elementov je bilo odstranjenih iz mape</item>
+        <item quantity="one">%1$d element je bil odstranjen iz mape</item>
+        <item quantity="two">%1$d elementa sta bila odstranjena iz mape</item>
+        <item quantity="few">%1$d elementi so bili odstranjeni iz mape</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d elementov je bilo odstranjenih</item>
+        <item quantity="one">%1$d element je bil odstranjen</item>
+        <item quantity="two">%1$d elementa sta bila odstranjena</item>
+        <item quantity="few">%1$d elementi so bili odstranjeni</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d elementov je bilo premaknjenih nazaj</item>
+        <item quantity="one">%1$d element je bil premaknjen nazaj</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena nazaj</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni nazaj</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d elementov je bilo premaknjenih nazaj v koš</item>
+        <item quantity="one">%1$d element je bil premaknjen nazaj v koš</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena nazaj v koš</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni nazaj v koš</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d elementov je bilo odstranjenih</item>
+        <item quantity="one">%1$d element je bil odstranjen</item>
+        <item quantity="two">%1$d elementa sta bila odstranjena</item>
+        <item quantity="few">%1$d elementi so bili odstranjeni</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d elementov je bilo dodanih v mapo »%2$s«</item>
+        <item quantity="one">%1$d element je bil dodan v mapo »%2$s«</item>
+        <item quantity="two">%1$d elementa sta bila dodana v mapo »%2$s«</item>
+        <item quantity="few">%1$d elementi so bili dodani v mapo »%2$s«</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d elementov je bilo dodanih</item>
+        <item quantity="one">%1$d element je bil dodan</item>
+        <item quantity="two">%1$d elementa sta bila dodana</item>
+        <item quantity="few">%1$d elementi so bili dodani</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d elem. je bilo obnov. in dodanih v mapo »%2$s«</item>
+        <item quantity="one">%1$d elem. je bil obnovljen in dodan v mapo »%2$s«</item>
+        <item quantity="two">%1$d elem. sta bila obnov. in dodana v mapo »%2$s«</item>
+        <item quantity="few">%1$d elem. so bili obnov. in dodani v mapo »%2$s«</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d elementov je bilo premaknjenih v mapo »%2$s«.</item>
+        <item quantity="one">%1$d element je bil premaknjen v mapo »%2$s«.</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena v mapo »%2$s«.</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni v mapo »%2$s«.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d elementov je bilo premaknjenih</item>
+        <item quantity="one">%1$d element je bil premaknjen</item>
+        <item quantity="two">%1$d elementa sta bila premaknjena</item>
+        <item quantity="few">%1$d elementi so bili premaknjeni</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d elem. je bilo obnov. in premak. v mapo »%2$s«.</item>
+        <item quantity="one">%1$d element je bil obnovljen in premaknjen v mapo »%2$s«.</item>
+        <item quantity="two">%1$d elem. sta bila obnov. in premak. v mapo »%2$s«.</item>
+        <item quantity="few">%1$d elem. so bili obnov. in premak. v mapo »%2$s«.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d elementov je obnovljenih.</item>
+        <item quantity="one">%1$d element je obnovljen.</item>
+        <item quantity="two">%1$d elementa sta obnovljena.</item>
+        <item quantity="few">%1$d elementi so obnovljeni.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d elementov je bilo obnovljenih v mapo »%2$s«.</item>
+        <item quantity="one">%1$d element je bil obnovljen v mapo »%2$s«.</item>
+        <item quantity="two">%1$d element sta bila obnovljena v mapo »%2$s«.</item>
+        <item quantity="few">%1$d elementi so bili obnovljeni v mapo »%2$s«.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Za pošiljanje datotek uporabi</item>
+        <item quantity="one">Za pošiljanje datotek uporabi</item>
+        <item quantity="two">Za pošiljanje datotek uporabi</item>
+        <item quantity="few">Za pošiljanje datotek uporabi</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d oseb lahko zdaj dostopa</item>
+        <item quantity="one">%1$d oseba lahko zdaj dostopa</item>
+        <item quantity="two">%1$d osebi lahko zdaj dostopata</item>
+        <item quantity="few">%1$d osebe lahko zdaj dostopajo</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">Oseba %1$s in še %2$d drugih ima zdaj dostop</item>
+        <item quantity="one">Oseba %1$s in še %2$d druga imata zdaj dostop</item>
+        <item quantity="two">Oseba %1$s in še %2$d drugi imajo zdaj dostop</item>
+        <item quantity="few">Oseba %1$s in še %2$d druge imajo zdaj dostop</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d oseb lahko zdaj dodaja komentarje</item>
+        <item quantity="one">%1$d oseba lahko zdaj dodaja komentarje</item>
+        <item quantity="two">%1$d osebi lahko zdaj dodajata komentarje</item>
+        <item quantity="few">%1$d osebe lahko zdaj dodajajo komentarje</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">Oseba %1$s in še %2$d drugih lahko zdaj dodaja komentarje</item>
+        <item quantity="one">Oseba %1$s in še %2$d druga lahko zdaj dodajata komentarje</item>
+        <item quantity="two">Oseba %1$s in še %2$d drugi lahko zdaj dodajajo komentarje</item>
+        <item quantity="few">Oseba %1$s in še %2$d druge lahko zdaj dodajajo komentarje</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d oseb lahko zdaj ureja</item>
+        <item quantity="one">%1$d oseba lahko zdaj ureja</item>
+        <item quantity="two">%1$d osebi lahko zdaj urejata</item>
+        <item quantity="few">%1$d osebe lahko zdaj urejajo</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s in še %2$d drugih oseb lahko zdaj urejajo</item>
+        <item quantity="one">%1$s in še %2$d druga oseba lahko zdaj urejajo</item>
+        <item quantity="two">%1$s in še %2$d drugi osebi lahko zdaj urejajo</item>
+        <item quantity="few">%1$s in še %2$d druge osebe lahko zdaj urejajo</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d oseb si zdaj lahko ogleduje</item>
+        <item quantity="one">%1$d oseba si zdaj lahko ogleduje</item>
+        <item quantity="two">%1$d osebi si zdaj lahko ogledujeta</item>
+        <item quantity="few">%1$d osebe si zdaj lahko ogledujejo</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s in še %2$d drugih oseb si lahko zdaj ogledujejo</item>
+        <item quantity="one">%1$s in še %2$d druga oseba si lahko zdaj ogledujejo</item>
+        <item quantity="two">%1$s in še %2$d drugi osebi si lahko zdaj ogledujejo</item>
+        <item quantity="few">%1$s in še %2$d druge osebe si lahko zdaj ogledujejo</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Prostor za shranjevanje v storitvi Drive poteče čez %1$d dni</item>
+        <item quantity="one">Prostor za shranjevanje v storitvi Drive poteče čez %1$d dan</item>
+        <item quantity="two">Prostor za shranjevanje v storitvi Drive poteče čez %1$d dni</item>
+        <item quantity="few">Prostor za shranjevanje v storitvi Drive poteče čez %1$d dni</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d oseb je bilo dodanih v disk v skupni rabi</item>
+        <item quantity="one">%1$d oseba je bila dodana v disk v skupni rabi</item>
+        <item quantity="two">%1$d osebi sta bili dodani v disk v skupni rabi</item>
+        <item quantity="few">%1$d osebe so bile dodane v disk v skupni rabi</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">Oseba %2$s in še %3$d drugih je bilo dodanih v disk ekipe %1$s</item>
+        <item quantity="one">Oseba %2$s in še %3$d druga sta bili dodani v disk ekipe %1$s</item>
+        <item quantity="two">Oseba %2$s in še %3$d drugi so bile dodane v disk ekipe %1$s</item>
+        <item quantity="few">Oseba %2$s in še %3$d druge so bile dodane v disk ekipe %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d članov</item>
+        <item quantity="one">%d član</item>
+        <item quantity="two">%d člana</item>
+        <item quantity="few">%d člani</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Nadaljuj vse zdaj</item>
+        <item quantity="one">Nadaljuj vse zdaj</item>
+        <item quantity="two">Nadaljuj vse zdaj</item>
+        <item quantity="few">Nadaljuj vse zdaj</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Nalaganje %1$d datotek je preklicano.</item>
+        <item quantity="one">Nalaganje %1$d datoteke je preklicano.</item>
+        <item quantity="two">Nalaganje %1$d datotek je preklicano.</item>
+        <item quantity="few">Nalaganje %1$d datotek je preklicano.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Nalaganja %1$d datotek ni bilo mogoče dati na urnik.</item>
+        <item quantity="one">Nalaganja %1$d datoteke ni bilo mogoče dati na urnik.</item>
+        <item quantity="two">Nalaganja %1$d datotek ni bilo mogoče dati na urnik.</item>
+        <item quantity="few">Nalaganja %1$d datotek ni bilo mogoče dati na urnik.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d datotek je naloženih.</item>
+        <item quantity="one">%1$d datoteka je naložena.</item>
+        <item quantity="two">%1$d datoteki sta naloženi.</item>
+        <item quantity="few">%1$d datoteke so naložene.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Ni mogoče naložiti %1$d od %2$d datotek.</item>
+        <item quantity="one">Ni mogoče naložiti %1$d od %2$d datoteke.</item>
+        <item quantity="two">Ni mogoče naložiti %1$d od %2$d datotek.</item>
+        <item quantity="few">Ni mogoče naložiti %1$d od %2$d datotek.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Nalaganje %1$d datotek.</item>
+        <item quantity="one">Nalaganje %1$d datoteke.</item>
+        <item quantity="two">Nalaganje %1$d datotek.</item>
+        <item quantity="few">Nalaganje %1$d datotek.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Nalaganja so zaustavljena. Čakanje na omrežje …</item>
+        <item quantity="one">Nalaganja so zaustavljena. Čakanje na omrežje …</item>
+        <item quantity="two">Nalaganja so zaustavljena. Čakanje na omrežje …</item>
+        <item quantity="few">Nalaganja so zaustavljena. Čakanje na omrežje …</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Nalaganje %1$d datotek je zaustavljeno.</item>
+        <item quantity="one">Nalaganje %1$d datoteke je zaustavljeno.</item>
+        <item quantity="two">Nalaganje %1$d datotek je zaustavljeno.</item>
+        <item quantity="few">Nalaganje %1$d datotek je zaustavljeno.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Nalaganja so zaustavljena. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="one">Nalaganja so zaustavljena. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="two">Nalaganja so zaustavljena. Čakanje na povezavo Wi-Fi …</item>
+        <item quantity="few">Nalaganja so zaustavljena. Čakanje na povezavo Wi-Fi …</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Priprava %1$d datotek za nalaganje.</item>
+        <item quantity="one">Priprava %1$d datoteke za nalaganje.</item>
+        <item quantity="two">Priprava %1$d datotek za nalaganje.</item>
+        <item quantity="few">Priprava %1$d datotek za nalaganje.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Nalaganje %1$d datotek v mapo %2$s</item>
+        <item quantity="one">Nalaganje %1$d datoteke v mapo %2$s</item>
+        <item quantity="two">Nalaganje %1$d datotek v mapo %2$s</item>
+        <item quantity="few">Nalaganje %1$d datotek v mapo %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Prikaži %1$d datotek</item>
+        <item quantity="one">Prikaži %1$d datoteko</item>
+        <item quantity="two">Prikaži %1$d datoteki</item>
+        <item quantity="few">Prikaži %1$d datoteke</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">V delovnem prostoru %2$s prikaži %1$d datotek</item>
+        <item quantity="one">V delovnem prostoru %2$s prikaži %1$d datoteko</item>
+        <item quantity="two">V delovnem prostoru %2$s prikaži %1$d datoteki</item>
+        <item quantity="few">V delovnem prostoru %2$s prikaži %1$d datoteke</item>
+    </plurals>
+</resources>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дн. назад</item>
+        <item quantity="one">%d дн. назад</item>
+        <item quantity="few">%d дн. назад</item>
+        <item quantity="many">%d дн. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">%d мин. назад</item>
+        <item quantity="few">%d мин. назад</item>
+        <item quantity="many">%d мин. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d г. назад</item>
+        <item quantity="one">%d г. назад</item>
+        <item quantity="few">%d г. назад</item>
+        <item quantity="many">%d лет назад</item>
+    </plurals>
+    <plurals name="agenda_card_history_desc">
+        <item quantity="other">%d мероприятия</item>
+        <item quantity="one">%d мероприятие</item>
+        <item quantity="few">%d мероприятия</item>
+        <item quantity="many">%d мероприятий</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s у вас %1$d мероприятия на весь день: %3$s.</item>
+        <item quantity="one">%2$s у вас %1$d мероприятие на весь день: %3$s.</item>
+        <item quantity="few">%2$s у вас %1$d мероприятия на весь день: %3$s.</item>
+        <item quantity="many">%2$s у вас %1$d мероприятий на весь день: %3$s.</item>
+    </plurals>
+    <plurals name="agent_directory_a11y_user_rating">
+        <item quantity="other">Ваша оценка: %d.</item>
+        <item quantity="one">Ваша оценка: %d.</item>
+        <item quantity="few">Ваша оценка: %d.</item>
+        <item quantity="many">Ваша оценка: %d.</item>
+    </plurals>
+    <plurals name="album_photo_count_subtitle">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+    <plurals name="amb_smartspace_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
+    </plurals>
+    <plurals name="amb_smartspace_minutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
+    </plurals>
+    <plurals name="ambient_notification_summary">
+        <item quantity="other">У вас есть %1$d уведомления.</item>
+        <item quantity="one">У вас есть %1$d уведомление.</item>
+        <item quantity="few">У вас есть %1$d уведомления.</item>
+        <item quantity="many">У вас есть %1$d уведомлений.</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_progress">
+        <item quantity="other">Назначается %1$s устройства для помещений</item>
+        <item quantity="one">Назначается %1$s устройство для помещений</item>
+        <item quantity="few">Назначаются %1$s устройства для помещений</item>
+        <item quantity="many">Назначается %1$s устройств для помещений</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_prompt">
+        <item quantity="other">Комнаты не назначены для %1$d устройства. Добавление устройств в комнаты позволяет использовать такие команды, как \"Включить свет в гостиной\".</item>
+        <item quantity="one">Комнаты не назначены для %1$d устройства. Добавление устройств в комнаты позволяет использовать такие команды, как \"Включить свет в гостиной\".</item>
+        <item quantity="few">Комнаты не назначены для %1$d устройств. Добавление устройств в комнаты позволяет использовать такие команды, как \"Включить свет в гостиной\".</item>
+        <item quantity="many">Комнаты не назначены для %1$d устройств. Добавление устройств в комнаты позволяет использовать такие команды, как \"Включить свет в гостиной\".</item>
+    </plurals>
+    <plurals name="assistant_settings_home_cloud_services_unlink_dialog_body_has_devices">
+        <item quantity="other">Вы уверены, что хотите отменить связь с аккаунтом? %1$d устройства будет отключено от Google Ассистента.</item>
+        <item quantity="one">Вы уверены, что хотите отменить связь с аккаунтом? %1$d устройство будет отключено от Google Ассистента.</item>
+        <item quantity="few">Вы уверены, что хотите отменить связь с аккаунтом? %1$d устройства будут отключены от Google Ассистента.</item>
+        <item quantity="many">Вы уверены, что хотите отменить связь с аккаунтом? %1$d устройств будут отключены от Google Ассистента.</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d номера</item>
+        <item quantity="one">%1$d номер</item>
+        <item quantity="few">%1$d номера</item>
+        <item quantity="many">%1$d номеров</item>
+    </plurals>
+    <plurals name="collections_detail_items_moved">
+        <item quantity="other">Перемещено %d объекта.</item>
+        <item quantity="one">Перемещен %d объект.</item>
+        <item quantity="few">Перемещено %d объекта.</item>
+        <item quantity="many">Перемещено %d объектов.</item>
+    </plurals>
+    <plurals name="collections_detail_items_removed">
+        <item quantity="other">Удалено %d объекта.</item>
+        <item quantity="one">Удален %d объект.</item>
+        <item quantity="few">Удалено %d объекта.</item>
+        <item quantity="many">Удалено %d объектов.</item>
+    </plurals>
+    <plurals name="collections_detail_selected_items">
+        <item quantity="other">Выбрано %d объекта.</item>
+        <item quantity="one">Выбран %d объект.</item>
+        <item quantity="few">Выбрано %d объекта.</item>
+        <item quantity="many">Выбрано %d объектов.</item>
+    </plurals>
+    <plurals name="collections_detail_status">
+        <item quantity="other">%1$s · %2$d объекта</item>
+        <item quantity="one">%1$s · %2$d объ​ект</item>
+        <item quantity="few">%1$s · %2$d объекта</item>
+        <item quantity="many">%1$s · %2$d объектов</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_message">
+        <item quantity="other">Удалить выбранные объекты (%d)?</item>
+        <item quantity="one">Удалить выбранные объекты (%d)?</item>
+        <item quantity="few">Удалить выбранные объекты (%d)?</item>
+        <item quantity="many">Удалить выбранные объекты (%d)?</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_title">
+        <item quantity="other">Удаление %d объекта</item>
+        <item quantity="one">Удаление %d объекта</item>
+        <item quantity="few">Удаление %d объектов</item>
+        <item quantity="many">Удаление %d объектов</item>
+    </plurals>
+    <plurals name="collections_list_collections_count">
+        <item quantity="other">%d подборки</item>
+        <item quantity="one">%d подборка</item>
+        <item quantity="few">%d подборки</item>
+        <item quantity="many">%d подборок</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Раз в %d дня</item>
+        <item quantity="one">Раз в %d день</item>
+        <item quantity="few">Раз в %d дня</item>
+        <item quantity="many">Раз в %d дней</item>
+    </plurals>
+    <plurals name="daysAgo">
+        <item quantity="other">%1$d дня назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дня назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="days_left_to_remove_downloads">
+        <item quantity="other">Через %1$d дня</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
+        <item quantity="many">Через %1$d дней</item>
+    </plurals>
+    <plurals name="device_count">
+        <item quantity="other">%1$d устройства</item>
+        <item quantity="one">%1$d устройство</item>
+        <item quantity="few">%1$d устройства</item>
+        <item quantity="many">%1$d устройств</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d часов</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+        <item quantity="many">%1$d часов</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d часов</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+        <item quantity="many">%1$d часов</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минута</item>
+        <item quantity="few">%1$d минуты</item>
+        <item quantity="many">%1$d минут</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+        <item quantity="few">%1$d мин.</item>
+        <item quantity="many">%1$d мин.</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d месяцев</item>
+        <item quantity="one">%1$d месяц</item>
+        <item quantity="few">%1$d месяца</item>
+        <item quantity="many">%1$d месяцев</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d месяцев</item>
+        <item quantity="one">%1$d месяц</item>
+        <item quantity="few">%1$d месяца</item>
+        <item quantity="many">%1$d месяцев</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d лет</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+        <item quantity="many">%1$d лет</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d лет</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+        <item quantity="many">%1$d лет</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Отправить письмо всем участникам (%1$d)</item>
+        <item quantity="one">Отправить письмо всем участникам (%1$d)</item>
+        <item quantity="few">Отправить письмо всем участникам (%1$d)</item>
+        <item quantity="many">Отправить письмо всем участникам (%1$d)</item>
+    </plurals>
+    <plurals name="enabled_podcasts_number_label">
+        <item quantity="other">Включено для %1$d подкаста из %2$d</item>
+        <item quantity="one">Включено для %1$d подкаста из %2$d</item>
+        <item quantity="few">Включено для %1$d подкастов из %2$d</item>
+        <item quantity="many">Включено для %1$d подкастов из %2$d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d раза</item>
+        <item quantity="one">; %d раз</item>
+        <item quantity="few">; %d раза</item>
+        <item quantity="many">; %d раз</item>
+    </plurals>
+    <plurals name="episode_count">
+        <item quantity="other">%1$d выпуска</item>
+        <item quantity="one">%1$d выпуск</item>
+        <item quantity="few">%1$d выпуска</item>
+        <item quantity="many">%1$d выпусков</item>
+    </plurals>
+    <plurals name="episode_list_title_text">
+        <item quantity="other">%1$d выпуска</item>
+        <item quantity="one">%1$d выпуск</item>
+        <item quantity="few">%1$d выпуска</item>
+        <item quantity="many">%1$d выпусков</item>
+    </plurals>
+    <plurals name="episodes_selected">
+        <item quantity="other">Выбрано %1$d выпуска</item>
+        <item quantity="one">Выбран %1$d выпуск</item>
+        <item quantity="few">Выбрано %1$d выпуска</item>
+        <item quantity="many">Выбрано %1$d выпусков</item>
+    </plurals>
+    <plurals name="fast_forward">
+        <item quantity="other">Перемотать на %1$d секунды вперед</item>
+        <item quantity="one">Перемотать на %1$d секунду вперед</item>
+        <item quantity="few">Перемотать на %1$d секунды вперед</item>
+        <item quantity="many">Перемотать на %1$d секунд вперед</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">Выбрано %1$d подкаста.</item>
+        <item quantity="one">Выбран %1$d подкаст.</item>
+        <item quantity="few">Выбрано %1$d подкаста.</item>
+        <item quantity="many">Выбрано %1$d подкастов.</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">%1$d часа назад</item>
+        <item quantity="one">%1$d час назад</item>
+        <item quantity="few">%1$d часа назад</item>
+        <item quantity="many">%1$d часов назад</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+        <item quantity="few">%s ч.</item>
+        <item quantity="many">%s ч.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d часа назад</item>
+        <item quantity="one">%1$d час назад</item>
+        <item quantity="few">%1$d часа назад</item>
+        <item quantity="many">%1$d часов назад</item>
+    </plurals>
+    <plurals name="hours_left_to_remove_downloads">
+        <item quantity="other">Через %1$d часа</item>
+        <item quantity="one">Через %1$d час</item>
+        <item quantity="few">Через %1$d часа</item>
+        <item quantity="many">Через %1$d часов</item>
+    </plurals>
+    <plurals name="ipa_number_of_results_shown">
+        <item quantity="other">Showing %d results.</item>
+        <item quantity="one">Showing %d results.</item>
+        <item quantity="few">Showing %d results.</item>
+        <item quantity="many">Showing %d results.</item>
+    </plurals>
+    <plurals name="message_notifications_been_read">
+        <item quantity="other">Сообщения прочитаны</item>
+        <item quantity="one">Сообщения прочитаны</item>
+        <item quantity="few">Сообщения прочитаны</item>
+        <item quantity="many">Сообщения прочитаны</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d минуты назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
+    </plurals>
+    <plurals name="mins_delay">
+        <item quantity="other">Задержка на %1$d мин.</item>
+        <item quantity="one">Задержка на %1$d мин.</item>
+        <item quantity="few">Задержка на %1$d мин.</item>
+        <item quantity="many">Задержка на %1$d мин.</item>
+    </plurals>
+    <plurals name="mins_delay_less_than_usual">
+        <item quantity="other">На %1$d мин меньше, чем обычно</item>
+        <item quantity="one">На %1$d мин. меньше обычного</item>
+        <item quantity="few">На %1$d мин меньше обычного</item>
+        <item quantity="many">На %1$d мин меньше обычного</item>
+    </plurals>
+    <plurals name="mins_delay_more_than_usual">
+        <item quantity="other">На %1$d мин. больше обычного</item>
+        <item quantity="one">На %1$d мин. больше обычного</item>
+        <item quantity="few">На %1$d мин. больше обычного</item>
+        <item quantity="many">На %1$d мин. больше обычного</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">Осталось %1$d минуты.</item>
+        <item quantity="one">Осталась %1$d минута.</item>
+        <item quantity="few">Осталось %1$d минуты.</item>
+        <item quantity="many">Осталось %1$d минут.</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">%1$d минуты назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+        <item quantity="few">%s мин.</item>
+        <item quantity="many">%s мин.</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Раз в %1$d месяца</item>
+        <item quantity="one">Раз в %1$d месяц</item>
+        <item quantity="few">Раз в %1$d месяца</item>
+        <item quantity="many">Раз в %1$d месяцев</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="nga_productivity_days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дня</item>
+        <item quantity="many">%s дней</item>
+    </plurals>
+    <plurals name="nga_productivity_disable_alarm_response">
+        <item quantity="other">Хорошо, я отключила их.</item>
+        <item quantity="one">Хорошо, я отключила их.</item>
+        <item quantity="few">Хорошо, я отключила их.</item>
+        <item quantity="many">Хорошо, я отключила их.</item>
+    </plurals>
+    <plurals name="nga_productivity_hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+        <item quantity="few">%s часа</item>
+        <item quantity="many">%s часов</item>
+    </plurals>
+    <plurals name="nga_productivity_minutes">
+        <item quantity="other">%s минуты</item>
+        <item quantity="one">%s минута</item>
+        <item quantity="few">%s минуты</item>
+        <item quantity="many">%s минут</item>
+    </plurals>
+    <plurals name="nga_productivity_seconds">
+        <item quantity="other">%s секунды</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="num_more">
+        <item quantity="other">и ещё %1$d</item>
+        <item quantity="one">и ещё %1$d</item>
+        <item quantity="few">и ещё %1$d</item>
+        <item quantity="many">и ещё %1$d</item>
+    </plurals>
+    <plurals name="num_results">
+        <item quantity="other">%1$d запроса выполнены</item>
+        <item quantity="one">%1$d запрос выполнен</item>
+        <item quantity="few">%1$d запроса выполнено</item>
+        <item quantity="many">%1$d запросов выполнено</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="number_of_suggestions_shown">
+        <item quantity="other">Showing %d suggestions.</item>
+        <item quantity="one">Showing %d suggestions.</item>
+        <item quantity="few">Showing %d suggestions.</item>
+        <item quantity="many">Showing %d suggestions.</item>
+    </plurals>
+    <plurals name="opa_photo_selection_reaches_maximum_error_text">
+        <item quantity="other">Можно отправить не более %1$d изображения.</item>
+        <item quantity="one">Можно отправить не более %1$d изображения.</item>
+        <item quantity="few">Можно отправить не более %1$d изображений.</item>
+        <item quantity="many">Можно отправить не более %1$d изображений.</item>
+    </plurals>
+    <plurals name="photos_accessibility_selected_description">
+        <item quantity="other">Выбрано %1$d фото</item>
+        <item quantity="one">Выбрано %1$d фото</item>
+        <item quantity="few">Выбрано %1$d фото</item>
+        <item quantity="many">Выбрано %1$d фото</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d нового уведомления</item>
+        <item quantity="one">%1$d новое уведомление</item>
+        <item quantity="few">%1$d новых уведомления</item>
+        <item quantity="many">%1$d новых уведомлений</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Бронирование номера в отеле на %1$d ночи</item>
+        <item quantity="one">Бронирование номера в отеле на %1$d ночь</item>
+        <item quantity="few">Бронирование номера в отеле на %1$d ночи</item>
+        <item quantity="many">Бронирование номера в отеле на %1$d ночей</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">С интервалом в %1$d часа</item>
+        <item quantity="one">С интервалом в %1$d час</item>
+        <item quantity="few">С интервалом в %1$d часа</item>
+        <item quantity="many">С интервалом в %1$d часов</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">С интервалом в %1$s минуты</item>
+        <item quantity="one">С интервалом в %1$s минуту</item>
+        <item quantity="few">С интервалом в %1$s минуты</item>
+        <item quantity="many">С интервалом в %1$s минут</item>
+    </plurals>
+    <plurals name="read_notification_num_of_audio_messages">
+        <item quantity="other">%1$d звукового сообщения</item>
+        <item quantity="one">%1$d звуковое сообщение</item>
+        <item quantity="few">%1$d звуковых сообщения</item>
+        <item quantity="many">%1$d звуковых сообщений</item>
+    </plurals>
+    <plurals name="read_notification_num_of_pictures">
+        <item quantity="other">%1$d изображения</item>
+        <item quantity="one">%1$d изображение</item>
+        <item quantity="few">%1$d изображения</item>
+        <item quantity="many">%1$d изображений</item>
+    </plurals>
+    <plurals name="read_notification_num_of_videos">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видео</item>
+        <item quantity="many">%1$d видео</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Повторяется: %d раза</item>
+        <item quantity="one">Повторяется: %d раз</item>
+        <item quantity="few">Повторяется: %d раза</item>
+        <item quantity="many">Повторяется: %d раз</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Раз в %d дня</item>
+        <item quantity="one">Раз в %d день</item>
+        <item quantity="few">Раз в %d дня</item>
+        <item quantity="many">Раз в %d дней</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Раз в %d месяца</item>
+        <item quantity="one">Раз в %d месяц</item>
+        <item quantity="few">Раз в %d месяца</item>
+        <item quantity="many">Раз в %d месяцев</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Раз в %d недели</item>
+        <item quantity="one">Раз в %d неделю</item>
+        <item quantity="few">Раз в %d недели</item>
+        <item quantity="many">Раз в %d недель</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Раз в %d года</item>
+        <item quantity="one">Раз в %d год</item>
+        <item quantity="few">Раз в %d года</item>
+        <item quantity="many">Раз в %d лет</item>
+    </plurals>
+    <plurals name="rewind">
+        <item quantity="other">Перемотать на %1$d секунды назад</item>
+        <item quantity="one">Перемотать на %1$d секунду назад</item>
+        <item quantity="few">Перемотать на %1$d секунды назад</item>
+        <item quantity="many">Перемотать на %1$d секунд назад</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">Осталось %1$d секунды.</item>
+        <item quantity="one">Осталась %1$d секунда.</item>
+        <item quantity="few">Осталось %1$d секунды.</item>
+        <item quantity="many">Осталось %1$d секунд.</item>
+    </plurals>
+    <plurals name="show_count">
+        <item quantity="other">%1$d подкаста</item>
+        <item quantity="one">%1$d подкаст</item>
+        <item quantity="few">%1$d подкаста</item>
+        <item quantity="many">%1$d подкастов</item>
+    </plurals>
+    <plurals name="smartspace_chip_display_title">
+        <item quantity="other">%2$s + %1$d</item>
+        <item quantity="one">%2$s + %1$d</item>
+        <item quantity="few">%2$s + %1$d</item>
+        <item quantity="many">%2$s + %1$d</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d овертайма</item>
+        <item quantity="one">%1$d овертайм</item>
+        <item quantity="few">%1$d овертайма</item>
+        <item quantity="many">%1$d овертаймов</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+        <item quantity="many">%1$d часов</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d минуты</item>
+        <item quantity="one">%1$d минута</item>
+        <item quantity="few">%1$d минуты</item>
+        <item quantity="many">%1$d минут</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d секунды</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">На %1$d минуты раньше</item>
+        <item quantity="one">На %1$d минуту раньше</item>
+        <item quantity="few">На %1$d минуты раньше</item>
+        <item quantity="many">На %1$d минут раньше</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%2$s: %1$d минуты пешком</item>
+        <item quantity="one">%2$s: %1$d минута пешком</item>
+        <item quantity="few">%2$s: %1$d минуты пешком</item>
+        <item quantity="many">%2$s: %1$d минут пешком</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d места</item>
+        <item quantity="one">%1$d место</item>
+        <item quantity="few">%1$d места</item>
+        <item quantity="many">%1$d мест</item>
+    </plurals>
+    <plurals name="unsubscribed_favorites">
+        <item quantity="other">Вы отменили подписку на %1$d подкаста.</item>
+        <item quantity="one">Вы отменили подписку на %1$d подкаст.</item>
+        <item quantity="few">Вы отменили подписку на %1$d подкаста.</item>
+        <item quantity="many">Вы отменили подписку на %1$d подкастов.</item>
+    </plurals>
+    <plurals name="user_review_histogram_review_num">
+        <item quantity="other">%d оценки</item>
+        <item quantity="one">%d оценка</item>
+        <item quantity="few">%d оценки</item>
+        <item quantity="many">%d оценок</item>
+    </plurals>
+    <plurals name="usual_traffic_mins_delay">
+        <item quantity="other">Обычные пробки. Задержка на %1$d мин.</item>
+        <item quantity="one">Обычные пробки. Задержка на %1$d мин.</item>
+        <item quantity="few">Обычные пробки. Задержка на %1$d мин.</item>
+        <item quantity="many">Обычные пробки. Задержка на %1$d мин.</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Раз в %1$d недели (%2$s)</item>
+        <item quantity="one">Раз в %1$d неделю (%2$s)</item>
+        <item quantity="few">Раз в %1$d недели (%2$s)</item>
+        <item quantity="many">Раз в %1$d недель (%2$s)</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Раз в %1$d года</item>
+        <item quantity="one">Раз в %1$d год</item>
+        <item quantity="few">Раз в %1$d года</item>
+        <item quantity="many">Раз в %1$d лет</item>
+    </plurals>
+</resources>

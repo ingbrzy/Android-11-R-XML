@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Gå til startsiden</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
+    <string name="abc_search_hint">Søk …</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_slice_permission_allow">Tillat</string>
+    <string name="abc_slice_permission_checkbox">Tillat at %1$s viser utsnitt fra alle apper</string>
+    <string name="abc_slice_permission_deny">Ikke tillat</string>
+    <string name="abc_slice_permission_text_1">– Den kan lese informasjon fra %1$s</string>
+    <string name="abc_slice_permission_text_2">– Den kan utføre handlinger i %1$s</string>
+    <string name="abc_slice_permission_title">Vil du tillate at %1$s viser %2$s-utsnitt?</string>
+    <string name="abc_slices_permission_request">%1$s vil vise %2$s-utsnitt</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="all_topics_header_text">Alle emner</string>
+    <string name="allset_description">"Du kan begynne å bruke telefonen din nå.
+
+Du kan slå av navigering med bevegelser og bruke knapper for å gå tilbake, gå til startsiden og bytte apper.
+"<annotation id="link">Gå til innstillingene</annotation></string>
+    <string name="allset_hint">Sveip opp for å komme i gang</string>
+    <string name="allset_page_title">Ferdig</string>
+    <string name="allset_setting_link">Navigasjonsinnstillinger for tilgjengelighet</string>
+    <string name="allset_title">Alt er klart!</string>
+    <string name="app_name">Pixel-tips</string>
+    <string name="article_helpful_feedback_toast">Takk for tilbakemeldingen. Vi bruker den til å forbedre fremtidige tips.</string>
+    <string name="article_helpful_no">Nei</string>
+    <string name="article_helpful_talkback_selected_no">Merket av for nei</string>
+    <string name="article_helpful_talkback_selected_yes">Merket av for ja</string>
+    <string name="article_helpful_talkback_unselected_no">Fjernet merking av nei</string>
+    <string name="article_helpful_talkback_unselected_yes">Fjernet merking av ja</string>
+    <string name="article_helpful_text">Var dette nyttig?</string>
+    <string name="article_helpful_yes">Ja</string>
+    <string name="asset_is_downloading_content_description">Video-/bilderessursene lastes ned</string>
+    <string name="common_google_play_services_enable_button">Slå på</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="common_google_play_services_wear_update_text">Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg på med Google</string>
+    <string name="connectivity_summary_assets_download_slowly">For å se videoer og bilder, prøv å koble til Wi-Fi eller bytte nettverk</string>
+    <string name="connectivity_summary_assets_not_downloaded">Du trenger en internettilkobling for å vise videoer og bilder</string>
+    <string name="module_1_0010_summary">Bytt apper, endre innstillinger raskt, fokuser bedre og mye mer</string>
+    <string name="module_1_0010_tag_text">Kom i gang</string>
+    <string name="module_1_0010_title">Kom i gang med [model_name]</string>
+    <string name="module_1_0101_summary">Finn apper, bli kjent med telefonen din og mye mer</string>
+    <string name="module_1_0101_tag_text">Kom i gang</string>
+    <string name="module_1_0101_title">Kom i gang med Pixel</string>
+    <string name="module_1_1000_summary">Har du byttet fra iPhoneⓇ? Finn apper, bli kjent med telefonen din med mer</string>
+    <string name="module_1_1000_tag_text">Kom i gang</string>
+    <string name="module_1_1000_title">Kom i gang med Pixel</string>
+    <string name="module_2_1111_summary">Snakk med assistenten din, identifiser musikk med «Spilles nå» og mye mer</string>
+    <string name="module_2_1111_tag_text">Få mest mulig ut av Google</string>
+    <string name="module_2_1111_title">Få mest mulig ut av Google</string>
+    <string name="module_3_1111_summary">Ta flotte portretter, sveip mellom moduser og mye mer</string>
+    <string name="module_3_1111_tag_text">Bruk kameraet</string>
+    <string name="module_3_1111_title">Få tilgang til kamera og bilder</string>
+    <string name="module_4_1111_summary">Send bilder, start videosamtaler, og del bilder</string>
+    <string name="module_4_1111_tag_text">Ring og send meldinger</string>
+    <string name="module_4_1111_title">Ring og send meldinger</string>
+    <string name="module_5_1111_summary">Åpne kameraet raskt, sjekk varsler og mye mer</string>
+    <string name="module_5_1111_tag_text">Bruk bevegelser</string>
+    <string name="module_5_1111_title">Bruk bevegelser for raske snarveier</string>
+    <string name="module_6_1111_summary">Følg med på skjermtiden din, angi en timeplan for skjermpauser med mer</string>
+    <string name="module_6_1111_tag_text">Administrer balanse</string>
+    <string name="module_6_1111_title">Administrer digital balanse</string>
+    <string name="module_7_1111_summary">Se to apper samtidig, organiser apper med mapper og mye mer</string>
+    <string name="module_7_1111_tag_text">Bli en ekspert</string>
+    <string name="module_7_1111_title">Bli en Pixel-ekspert</string>
+    <string name="module_8_1111_summary">Ta notater, betal med Pixel, og se siste nytt</string>
+    <string name="module_8_1111_tag_text">Utforsk apper</string>
+    <string name="module_8_1111_title">Utforsk viktige Google-apper</string>
+    <string name="next_btn">Neste</string>
+    <string name="next_module_link_back_home_page_text">Neste: Utforsk alle tips</string>
+    <string name="next_module_link_text">Neste: %1$s</string>
+    <string name="next_tip_content_description">Neste tips</string>
+    <string name="ob_gesture_app_go_back_media_description">Video om den nye bevegelsen for å gå tilbake</string>
+    <string name="ob_gesture_app_go_back_summary">For å gå tilbake til forrige skjerm, sveip mot midten fra venstre eller høyre kant</string>
+    <string name="ob_gesture_app_go_back_title">Gå tilbake</string>
+    <string name="ob_gesture_app_home_media_description">Video om den nye bevegelsen for å gå til startsiden</string>
+    <string name="ob_gesture_app_home_summary">"Sveip opp fra bunnen av skjermen.
+Denne bevegelsen tar deg alltid til startskjermen."</string>
+    <string name="ob_gesture_app_home_title">Gå til startsiden</string>
+    <string name="ob_gesture_app_overview_media_description">Video om den nye bevegelsen for å åpne oversikten</string>
+    <string name="ob_gesture_app_overview_summary">Sveip opp fra bunnen av skjermen og hold</string>
+    <string name="ob_gesture_app_overview_title">Bytt app</string>
+    <string name="onboarding_education_page_title">En innføring i navigasjon med bevegelser</string>
+    <string name="previous_module_link_text">Forrige: %1$s</string>
+    <string name="previous_tip_content_description">Forrige tips</string>
+    <string name="search_menu_title">Søk</string>
+    <string name="settings_search_main_entry_screen_title">Tips og brukerstøtte > Utforsk Pixel-tips</string>
+    <string name="settings_search_main_entry_summary">Få mest mulig ut av Pixel. Se videoer og mye mer.</string>
+    <string name="smart_space_subtitle_android">Trykk for å se tips</string>
+    <string name="smart_space_subtitle_ios">Trykk for å se tips</string>
+    <string name="smart_space_subtitle_others">Trykk for å se tips</string>
+    <string name="smart_space_subtitle_pixel">Se hva som er nytt</string>
+    <string name="smart_space_title">Velkommen til nye Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Ta portretter, få det perfekte bildet og mye mer</string>
+    <string name="suggestion_summary_module_communication">Send bilder, start videosamtaler og mye mer</string>
+    <string name="suggestion_summary_module_gestures">Sjekk varsler, åpne kameraet og mye mer</string>
+    <string name="suggestion_summary_module_google_smarts">Snakk med Google-assistenten din og mye mer</string>
+    <string name="suggestion_title_module_camera">Få tilgang til kamera og bilder</string>
+    <string name="suggestion_title_module_communication">Tips å ringe og sende tekstmeldinger</string>
+    <string name="suggestion_title_module_gestures">Bruk bevegelser for snarveier</string>
+    <string name="suggestion_title_module_google_smarts">Få mest mulig ut av Google</string>
+    <string name="tip_1_1_media_description">Video om å finne apper</string>
+    <string name="tip_1_1_summary">Sveip opp fra bunnen av skjermen for å se nylige apper. Du ser også en rad med forslag til apper nederst. Sveip opp igjen for å se alle appene dine.</string>
+    <string name="tip_1_1_title">Finn appene dine</string>
+    <string name="tip_1_2_media_description">Video om organisering av apper</string>
+    <string name="tip_1_2_summary">"For å legge til en app på startskjermen, trykk og dra appen.
+
+For å fjerne en app, trykk og hold på appen og dra den mot toppen av skjermen."</string>
+    <string name="tip_1_2_title">Legg til apper på startskjermen</string>
+    <string name="tip_1_3_link">Gå til Play-butikken</string>
+    <string name="tip_1_3_media_description">Bilde om viktige apper</string>
+    <string name="tip_1_3_summary">"Kom i gang med disse appene:
+– Play Butikk: Utforsk og last ned apper
+– Google Foto: Finn, lagre og del bilder
+– Google Keep: Ta notater, skriv lister og mye mer"</string>
+    <string name="tip_1_3_title">Utforsk viktige apper</string>
+    <string name="tip_1_4_media_description">Video om varsler</string>
+    <string name="tip_1_4_summary">"Sveip ned fra toppen av skjermen for å se varsler. For å fjerne et varsel, sveip det til venstre eller høyre.
+
+For å se mer informasjon om et varsel, trykk og hold på det."</string>
+    <string name="tip_1_4_title">Se varslene dine</string>
+    <string name="tip_1_5_media_description">Video om å endre innstillinger</string>
+    <string name="tip_1_5_summary">"Sveip ned fra toppen av Pixel-telefonen for å åpne hurtiginnstillingene. Sveip ned en gang til for å se flere innstillinger.
+
+Trykk på en innstilling for å slå den på eller av. For å se flere alternativer for en innstilling, trykk og hold på den."</string>
+    <string name="tip_1_5_title">Rask endring av innstillinger som brukes ofte</string>
+    <string name="tip_1_6_link">Gå til Innstillinger</string>
+    <string name="tip_1_6_media_description">Video om «Ikke forstyrr»</string>
+    <string name="tip_1_6_summary">"Hvis du bruker telefonen, men trenger å fokusere, kan du hindre at varsler vises.
+
+Utforsk nye kontroller i «Ikke forstyrr»."</string>
+    <string name="tip_1_6_title">Gjør det enklere å fokusere med «Ikke forstyrr»</string>
+    <string name="tip_1_7_media_description">Video om å se handlinger</string>
+    <string name="tip_1_7_summary">"Trykk og hold på tekst for å se tilgjengelige handlinger, for eksempel å bestille bord på en restaurant.
+
+Du kan gjøre dette fra hvilken som helst app. Det fungerer til og med når du bytter mellom apper."</string>
+    <string name="tip_1_7_title">Se handlinger når du velger tekst</string>
+    <string name="tip_1_9_link">Gå til brukerstøtten</string>
+    <string name="tip_1_9_media_description">Video om tips og brukerstøtte</string>
+    <string name="tip_1_9_summary">"Flere tips og brukerstøtte er tilgjengelig når som helst. Gå til Innstillinger > Tips og brukerstøtte.
+
+Du kan utforske tips, bla gjennom hjelpeartikler eller kontakte Pixel-teamet."</string>
+    <string name="tip_1_9_title">Få hjelp når du trenger det</string>
+    <string name="tip_2_1_link">Åpne i Innstillinger</string>
+    <string name="tip_2_1_link_description">For å slå på denne funksjonen, trykk på knappen nedenfor.</string>
+    <string name="tip_2_1_link_description_off">For å slå på denne funksjonen, trykk på knappen nedenfor.</string>
+    <string name="tip_2_1_link_off">Slå på i innstillingene</string>
+    <string name="tip_2_1_link_on">Innstillinger for sammenklemming</string>
+    <string name="tip_2_1_media_description">Video om å klemme sammen for å åpne assistenten din</string>
+    <string name="tip_2_1_summary">For å snakke med Google-assistenten når som helst (selv om skjermen er av), klem sammen og slipp raskt nederst på telefonen.</string>
+    <string name="tip_2_1_title">Klem sammen for å åpne assistenten</string>
+    <string name="tip_2_2_link">Flere handlinger</string>
+    <string name="tip_2_2_media_description">Video om assistenthandlinger</string>
+    <string name="tip_2_2_summary">"Med Google-assistenten kan du raskt og enkelt finne svar og få ting gjort på Pixel-telefonen.
+
+For å snakke med assistenten din, klem sammen og slipp raskt nederst på telefonen og si for eksempel:
+
+– Når er den første aktiviteten min i morgen?
+– Legg til tannkrem på handlelisten
+– La oss dra hjem"</string>
+    <string name="tip_2_2_title">Finn ut hva assistenten kan gjøre</string>
+    <string name="tip_2_3_link">Åpne Visuell</string>
+    <string name="tip_2_3_media_description">Video om å søke med Google Lens</string>
+    <string name="tip_2_3_summary">"Ser du et søtt dyr, en unik plante eller et imponerende landemerke som fanger oppmerksomheten din? Bruk Google Lens for å finne ut mer.
+
+Du trenger bare å åpne Kamera, trykke og holde inne kamerasøkeren og så trykke på det du er interessert i."</string>
+    <string name="tip_2_3_title">Søk etter det du ser, med Google Lens</string>
+    <string name="tip_2_4_link">Åpne Google Play</string>
+    <string name="tip_2_4_link_description">For å bruke Spilles nå, oppdater Pixel Ambient Services.</string>
+    <string name="tip_2_4_link_description_off">For å slå på denne funksjonen, trykk på knappen nedenfor.</string>
+    <string name="tip_2_4_link_off">Slå på i innstillingene</string>
+    <string name="tip_2_4_link_on">Spilles nå-innstillinger</string>
+    <string name="tip_2_4_media_description">Video om Spilles nå</string>
+    <string name="tip_2_4_summary">Spilles nå viser automatisk sanginformasjon for sanger som spilles av – uansett hvor du er.</string>
+    <string name="tip_2_4_title">Identifiser musikk med Spilles nå</string>
+    <string name="tip_2_5_link">Åpne kameraet</string>
+    <string name="tip_2_5_media_description">Video om kameraet</string>
+    <string name="tip_2_5_summary">Pixel-telefonen gjenkjenner automatisk telefonnumre, adresser, e-postadresser, strekkoder og QR-koder. Bare åpne kameraet, rett det mot motivet, og la kameraet gjøre jobben.</string>
+    <string name="tip_2_5_title">La kameraet gjøre jobben</string>
+    <string name="tip_3_1_link">Åpne kameraet</string>
+    <string name="tip_3_1_media_description">Video om kameramoduser</string>
+    <string name="tip_3_1_summary">"Noen ganger vil du ta et bilde, deretter filme og så gjøre noe helt annet. 
+
+For å bytte mellom moduser, åpne kamerasøkeren og sveip til venstre eller høyre. Trykk Mer for å se andre alternativer."</string>
+    <string name="tip_3_1_title">Sveip mellom bilde, video og annet</string>
+    <string name="tip_3_2_link">Åpne kameraet</string>
+    <string name="tip_3_2_media_description">Video om å ta portretter</string>
+    <string name="tip_3_2_summary">"I portrettmodus blir bakgrunnen uskarp, noe som gir flotte bilder som ser profesjonelle ut. Prøv og se selv.
+
+Åpne Kamera, sveip fra venstre til høyre, så er alt klart."</string>
+    <string name="tip_3_2_title">Ta flotte portrettbilder</string>
+    <string name="tip_3_3_media_description">Video om å ta skjermdumper</string>
+    <string name="tip_3_3_summary">"Trykk og hold inne av/på-knappen, og trykk på Skjermdump. Sånn – du har tatt en skjermdump.
+
+For å tegne på skjermdumpen, trykk på Rediger i varselet som vises."</string>
+    <string name="tip_3_3_title">Ta og rediger skjermdumper raskt</string>
+    <string name="tip_3_4_link">Åpne kameraet</string>
+    <string name="tip_3_4_media_description">Video om å velge det perfekte øyeblikket med bildeforslag</string>
+    <string name="tip_3_4_summary">"Hver gang du tar et bilde, lagrer Pixel et ekstra bilde eller to, slik at du får det perfekte bildet.
+
+1. Sørg for at Bevegelse [icon_span] er slått på, og ta bildet
+2. Når du ser på bildet, sveiper du opp fra bunnen
+3. Trykk på «Blinkskudd i dette bildet» for å se alternative bilder"</string>
+    <string name="tip_3_4_title">Velg det perfekte øyeblikket med bildeforslag</string>
+    <string name="tip_3_5_link">Åpne kameraet</string>
+    <string name="tip_3_5_media_description">Video om å ta gruppeselfier</string>
+    <string name="tip_3_5_summary">"Med gruppeselfies får du mer plass til venner og omgivelser i bildet – uten behov for selfiestang.
+
+1. Bytt til frontkameraet [icon_span]
+2. Dobbelttrykk på skjermen eller klyp fingrene sammen for å zoome ut"</string>
+    <string name="tip_3_5_title">Ta en gruppeselfie</string>
+    <string name="tip_4_1_link">Åpne Messages</string>
+    <string name="tip_4_1_media_description">Video om å sende bilder</string>
+    <string name="tip_4_1_summary">"1. Åpne en samtale i Messages-appen
+2. Trykk på Skriv ny [icon_span] til venstre for stedet du skriver meldingen
+3. Velg et bilde, en emoji eller et klistremerke som passer"</string>
+    <string name="tip_4_1_title">Send bilder</string>
+    <string name="tip_4_2_link">Installer Duo</string>
+    <string name="tip_4_2_link_off">Installer Duo</string>
+    <string name="tip_4_2_link_on">Åpne Duo</string>
+    <string name="tip_4_2_media_description">Video om Google Duo</string>
+    <string name="tip_4_2_summary">"Ingenting er bedre enn å snakke ansikt til ansikt med venner og familie. Derfor er det enkelt å ha videosamtaler på Pixel med Google Duo.
+
+1. Åpne Google Duo-appen
+2. Søk etter en kontakt
+3. Start en videosamtale med ett trykk, eller inviter kontakten til å laste ned Google Duo
+
+Vennene dine som bruker iOSⓇ-telefoner og -nettbrett, kan også bruke Google Duo."</string>
+    <string name="tip_4_2_title">Ha videosamtaler med Google Duo</string>
+    <string name="tip_4_3_link">Åpne Google Foto</string>
+    <string name="tip_4_3_media_description">Video om bildedeling</string>
+    <string name="tip_4_3_summary">"1. Åpne Google Foto
+2. Trykk og hold for å velge et bilde
+3. Velg flere bilder hvis du vil
+4. Trykk på Del [icon_span]
+5. Velg personer du vil dele med"</string>
+    <string name="tip_4_3_title">Del bilder</string>
+    <string name="tip_4_4_link">Kom i gang</string>
+    <string name="tip_4_4_media_description">Video om å sende tekstmeldinger fra datamaskinen</string>
+    <string name="tip_4_4_summary">"Du kan sende tekstmeldinger fra datamaskinen med Android Messages. For å komme i gang, gå til Messages-appen og velg «Nettversjonen av Messages» i menyen.
+
+I tillegg til å sende tekstmeldinger kan du sende klistremerker, emojier og legge ved bilder."</string>
+    <string name="tip_4_4_title">Send tekstmeldinger fra datamaskinen</string>
+    <string name="tip_5_1_link">Gå til Innstillinger</string>
+    <string name="tip_5_1_link_off">Slå på dette i Innstillinger</string>
+    <string name="tip_5_1_link_on">Gå til Innstillinger</string>
+    <string name="tip_5_1_media_description">Video om å sjekke telefonen din</string>
+    <string name="tip_5_1_summary">Du kan sjekke klokkeslettet, varsler og mye mer ved å dobbelttrykke på skjermen.</string>
+    <string name="tip_5_1_title">Dobbelttrykk for å sjekke telefonen</string>
+    <string name="tip_5_2_link">Gå til Innstillinger</string>
+    <string name="tip_5_2_link_off">Slå på dette i Innstillinger</string>
+    <string name="tip_5_2_link_on">Gå til Innstillinger</string>
+    <string name="tip_5_2_media_description">Video om å gå til kameraet</string>
+    <string name="tip_5_2_summary">Trykk på av/på-knappen to ganger fra hvilken som helst skjerm for å bytte til kameraet på et øyeblikk.</string>
+    <string name="tip_5_2_title">Åpne kameraet raskt</string>
+    <string name="tip_5_3_link">Gå til Innstillinger</string>
+    <string name="tip_5_3_link_off">Slå på dette i Innstillinger</string>
+    <string name="tip_5_3_link_on">Gå til Innstillinger</string>
+    <string name="tip_5_3_media_description">Video om å bytte til portrettmodus</string>
+    <string name="tip_5_3_summary">Start eller avslutt selfie-modus i kameraet ved å vri to ganger når du er i appen.</string>
+    <string name="tip_5_3_title">Vend kameraet</string>
+    <string name="tip_5_4_link">Gå til Innstillinger</string>
+    <string name="tip_5_4_link_off">Slå på dette i Innstillinger</string>
+    <string name="tip_5_4_link_on">Gå til Innstillinger</string>
+    <string name="tip_5_4_media_description">Video om å sveipe fingeravtrykk for varsler</string>
+    <string name="tip_5_4_summary">"Du kan sjekke varslene dine ved å sveipe ned på fingeravtrykkssensoren på baksiden av telefonen.
+Sveip igjen for å se hurtiginnstillingene."</string>
+    <string name="tip_5_4_title">Sveip fingersensoren for varsler</string>
+    <string name="tip_5_5_media_description">Video om å bytte apper</string>
+    <string name="tip_5_5_summary">For å bytte raskt mellom apper, rull fra venstre til høyre nederst på skjermen. Slipp for å åpne appen.</string>
+    <string name="tip_5_5_title">En raskere måte å bytte apper på</string>
+    <string name="tip_6_1_link">Innstillinger for Nattlys</string>
+    <string name="tip_6_1_media_description">Video om Nattlys</string>
+    <string name="tip_6_1_summary">"Nattlys gir skjermen en ravgul nyanse. Dette gjør det mer komfortabelt å se eller lese på skjermen i svakt lys, og det kan gjøre det enklere å sovne.
+
+Du kan slå Nattlys på eller av raskt i hurtiginnstillingene. Eller du kan trykke og holde for å angi en timeplan."</string>
+    <string name="tip_6_1_title">Sovne lettere med Nattlys</string>
+    <string name="tip_6_2_link">Oppdater Digital balanse</string>
+    <string name="tip_6_2_link_off">Oppdater Digital balanse</string>
+    <string name="tip_6_2_link_on">Konfigurer Ro ned</string>
+    <string name="tip_6_2_media_description">Video om å angi en sengetid med Ro deg ned</string>
+    <string name="tip_6_2_summary">"Lag en sengetidsplan for å få et avbrekk fra telefonen.
+
+1. Åpne Digital balanse [icon_span]
+2. Trykk på Ro ned
+3. Angi en Ro ned-tidsplan
+
+Når det nærmer seg leggetid, endrer skjermen farge, og «Ikke forstyrr» forhindrer at varsler forstyrrer søvnen din."</string>
+    <string name="tip_6_2_title">Angi sengetid med Ro ned-funksjonen</string>
+    <string name="tip_6_3_link">Prøv Vend for å slå på Shhh</string>
+    <string name="tip_6_3_link_off">Oppdater Digital balanse</string>
+    <string name="tip_6_3_link_on">Gå til Innstillinger</string>
+    <string name="tip_6_3_media_description">Video om å stoppe forstyrrelser raskt</string>
+    <string name="tip_6_3_summary">Med Vend for å slå på Shhh trenger du bare å legge fra deg telefonen med forsiden ned for å slå på «Ikke forstyrr» og stoppe varsler og lyder.</string>
+    <string name="tip_6_3_title">Stopp forstyrrelser raskt</string>
+    <string name="tip_6_4_link">Oppdater Digital balanse</string>
+    <string name="tip_6_4_link_off">Oppdater Digital balanse</string>
+    <string name="tip_6_4_link_on">Åpne oversikten</string>
+    <string name="tip_6_4_media_description">Video om Digital balanse</string>
+    <string name="tip_6_4_summary">Sjekk panelet for Digital balanse i innstillingene for å se et øyeblikksbilde av skjermtiden din og angi apptimere for apper du vil bruke mindre.</string>
+    <string name="tip_6_4_title">Følg med på skjermtiden din</string>
+    <string name="tip_7_1_media_description">Video om å organisere apper med mapper</string>
+    <string name="tip_7_1_summary">"Opprett mapper for å gjøre det enkelt å holde oversikt over appene dine.
+
+For å opprette en mappe, dra en app oppå en annen app. Du kan gi navn til den nye mappen.
+
+Du kan dra flere apper inn i mappen eller dra en app ut for å fjerne den."</string>
+    <string name="tip_7_1_title">Organiser apper med mapper</string>
+    <string name="tip_7_2_media_description">Video om å bruke to apper samtidig</string>
+    <string name="tip_7_2_summary">"Du kan bruke to apper samtidig ved å konfigurere delt skjerm på telefonen din. Gjør deg klar til multitasking.
+
+1. Sveip opp fra bunnen av skjermen for å se nylige apper
+2. Trykk og hold på appikonet øverst på skjermen
+3. Trykk på Delt skjerm
+
+Beveg skillelinjen opp og ned etter behov. Sveip den bort når du er ferdig."</string>
+    <string name="tip_7_2_title">Se to apper samtidig</string>
+    <string name="tip_7_3_link">Åpne Google-assistenten</string>
+    <string name="tip_7_3_media_description">Video om å kontrollere telefonen med assistenten</string>
+    <string name="tip_7_3_summary">"Assistenten kan hjelpe deg med å gjøre ting raskere. For å snakke med assistenten, klem sammen den nedre halvdelen av telefonen din. Prøv deretter å si:
+
+1. «Ta en selfie»
+2. «Ta en skjermdump»
+3. «Slå på lommelykten»"</string>
+    <string name="tip_7_3_title">Bruk Google-assistenten for å få hjelp med hverdagsoppgaver</string>
+    <string name="tip_8_1_link">Installer Google Keep</string>
+    <string name="tip_8_1_link_off">Installer Google Keep</string>
+    <string name="tip_8_1_link_on">Åpne Google Keep</string>
+    <string name="tip_8_1_media_description">Video om å ta notater</string>
+    <string name="tip_8_1_summary">"Med Google Keep-appen kan du raskt lagre det du tenker. Legg til notater, lister, bilder og lyd.
+
+Du kan også angi påminnelser, slik at du husker å fullføre oppgavene dine. Med Keep blir det også enkelt å dele notater med venner og familie."</string>
+    <string name="tip_8_1_title">Ta notater og mye mer med Google Keep</string>
+    <string name="tip_8_2_link">Installer Google Nyheter</string>
+    <string name="tip_8_2_link_off">Installer Google Nyheter</string>
+    <string name="tip_8_2_link_on">Åpne Google Nyheter</string>
+    <string name="tip_8_2_media_description">Video om Google Nyheter</string>
+    <string name="tip_8_2_summary">"Få siste nytt både lokalt og globalt.
+
+Med ett trykk kan du se de viktigste overskriftene fra favorittkildene dine. Du ser også en tidslinje med blant annet viktige øyeblikk, meninger og analyser, slik at du enkelt kan gå i dybden av saken."</string>
+    <string name="tip_8_2_title">Hold deg oppdatert med Google Nyheter</string>
+    <string name="tip_8_3_link">Installer Google Pay</string>
+    <string name="tip_8_3_link_off">Installer Google Pay</string>
+    <string name="tip_8_3_link_on">Åpne Google Pay</string>
+    <string name="tip_8_3_media_description">Video om Google Pay</string>
+    <string name="tip_8_3_summary">"Med Google Pay kan du betale raskt i flere millioner butikker med Pixel-telefonen din. Sånn gjør du det:
+
+1. Legg til et kort i Google Pay
+2. Se etter det kontaktløse symbolet [icon_span] i kassen
+3. Lås opp telefonen og hold den i nærheten av terminalen
+4. Vent til du ser et avmerkingssymbol
+
+Det er alt!"</string>
+    <string name="tip_8_3_title">Betal med Pixel-telefonen din</string>
+    <string name="tips_nav_a11y_media_description">Video for bruk av den nye tilgjengelighetsbevegelsen</string>
+    <string name="tips_nav_a11y_summary">"For å få tilgang til Tekstopplesing eller forstørrelse, sveip opp fra bunnen av skjermen med to fingre.
+
+For å bytte mellom tilgjengelighetsapper, sveip opp med to fingre og hold.
+
+Du kan bruke disse bevegelsene etter at du har fullført konfigureringen."</string>
+    <string name="tips_nav_a11y_title">Bruk den nye tilgjengelighetsbevegelsen</string>
+    <string name="title_download_completed_dialog">Last inn nye tips på nytt</string>
+    <string name="try_it_text">Prøv</string>
+    <string name="zero_state_primary">Du har lest alt</string>
+    <string name="zero_state_secondary">Kom tilbake senere for å få nye tips</string>
+</resources>

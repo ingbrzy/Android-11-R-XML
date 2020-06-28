@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nastavení se nepodařilo dokončit, protože %1$d povinných aplikací nelze nainstalovat. Obraťte se přímo na administrátora systému.</item>
+        <item quantity="one">Nastavení se nepodařilo dokončit, protože %1$d povinnou aplikaci nelze nainstalovat. Obraťte se přímo na administrátora systému.</item>
+        <item quantity="few">Nastavení se nepodařilo dokončit, protože %1$d povinné aplikace nelze nainstalovat. Obraťte se přímo na administrátora systému.</item>
+        <item quantity="many">Nastavení se nepodařilo dokončit, protože %1$d povinné aplikace nelze nainstalovat. Obraťte se přímo na administrátora systému.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Aplikace nelze nainstalovat</item>
+        <item quantity="one">Aplikaci nelze nainstalovat</item>
+        <item quantity="few">Aplikace nelze nainstalovat</item>
+        <item quantity="many">Aplikace nelze nainstalovat</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d z %2$d aplikací nainstalováno</item>
+        <item quantity="one">%1$d z %2$d aplikací nainstalována</item>
+        <item quantity="few">%1$d z %2$d aplikací nainstalovány</item>
+        <item quantity="many">%1$d z %2$d aplikací nainstalováno</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Odinstalovat aplikace</item>
+        <item quantity="one">Odinstalovat aplikaci</item>
+        <item quantity="few">Odinstalovat aplikace</item>
+        <item quantity="many">Odinstalovat aplikace</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> dnů</item>
+        <item quantity="one">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> den</item>
+        <item quantity="few">Zbývají &lt;annotation id="numeric_time_left">^1&lt;/annotation> dny</item>
+        <item quantity="many">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> dne</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> hodin</item>
+        <item quantity="one">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> hodina</item>
+        <item quantity="few">Zbývají &lt;annotation id="numeric_time_left">^1&lt;/annotation> hodiny</item>
+        <item quantity="many">Zbývá &lt;annotation id="numeric_time_left">^1&lt;/annotation> hodiny</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d z %2$d aplikací nainstalováno</item>
+        <item quantity="one">%1$d z %2$d aplikace nainstalována</item>
+        <item quantity="few">%1$d ze %2$d aplikací nainstalovány</item>
+        <item quantity="many">%1$d z %2$d aplikace nainstalováno</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d dostupných aplikací (nainstalováno: %2$d, deaktivováno: %3$d)</item>
+        <item quantity="one">%1$d dostupná aplikace (nainstalováno: %2$d, deaktivováno: %3$d)</item>
+        <item quantity="few">%1$d dostupné aplikace (nainstalováno: %2$d, deaktivováno: %3$d)</item>
+        <item quantity="many">%1$d dostupné aplikace (nainstalováno: %2$d, deaktivováno: %3$d)</item>
+    </plurals>
+</resources>

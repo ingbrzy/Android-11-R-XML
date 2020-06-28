@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Não foi possível concluir a configuração porque ocorreu uma falha na instalação de %1$d apps necessários. Entre em contato com o administrador do sistema.</item>
+        <item quantity="one">Não foi possível concluir a configuração porque ocorreu uma falha na instalação de %1$d app necessário. Entre em contato com o administrador do sistema.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Não foi possível instalar os apps</item>
+        <item quantity="one">Não foi possível instalar o app</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d de %2$d apps instalados</item>
+        <item quantity="one">%1$d de %2$d app instalado</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalar apps</item>
+        <item quantity="one">Desinstalar app</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dias restantes</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dia restante</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> horas restantes</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hora restante</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d de %2$d apps instalados</item>
+        <item quantity="one">%1$d de %2$d app instalado</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d apps disponíveis (%2$d instalados, %3$d desativados)</item>
+        <item quantity="one">%1$d app disponível (%2$d instalado, %3$d desativado)</item>
+    </plurals>
+</resources>

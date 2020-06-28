@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye!</string>
+    <string name="abc_activity_chooser_view_see_all">Shikoji të gjitha</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksioni+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">hapësirë</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyja+</string>
+    <string name="abc_search_hint">Kërko...</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Shpërnda publikisht me</string>
+    <string name="abc_shareactionprovider_share_with_application">Ndaje me %s</string>
+    <string name="abc_slice_permission_allow">Lejo</string>
+    <string name="abc_slice_permission_checkbox">Lejo %1$s për të shfaqur pjesë nga çdo aplikacion</string>
+    <string name="abc_slice_permission_deny">Refuzo</string>
+    <string name="abc_slice_permission_text_1">- Mund të lexojë informacion nga %1$s</string>
+    <string name="abc_slice_permission_text_2">- Mund të ndërmarrë veprime brenda %1$s</string>
+    <string name="abc_slice_permission_title">Të lejohet %1$s që të shfaqë pjesë të %2$s?</string>
+    <string name="abc_slices_permission_request">%1$s dëshiron të shfaqë pjesë të %2$s</string>
+    <string name="abc_toolbar_collapse_description">Shpalos</string>
+    <string name="all_topics_header_text">Të gjitha temat</string>
+    <string name="allset_description">"Je gati për të filluar ta përdorësh telefonin.
+
+Mund të çaktivizosh navigimin me gjeste dhe të përdorësh butonat për t'u kthyer pas, për të shkuar tek \"Ekrani bazë\" dhe për të ndryshuar aplikacionet.
+"<annotation id="link">Shko te \"Cilësimet\"</annotation></string>
+    <string name="allset_hint">Rrëshqit shpejt lart për të filluar</string>
+    <string name="allset_page_title">Gati</string>
+    <string name="allset_setting_link">Cilësimet e navigimit për qasshmërinë</string>
+    <string name="allset_title">Plotësisht gati!</string>
+    <string name="app_name">Këshilla për Pixel</string>
+    <string name="article_helpful_feedback_toast">Faleminderit për komentin. Kjo do të na ndihmojë të përmirësojmë këshillat e ardhshme.</string>
+    <string name="article_helpful_no">Jo</string>
+    <string name="article_helpful_talkback_selected_no">Zgjedhur \"Jo\"</string>
+    <string name="article_helpful_talkback_selected_yes">Zgjedhur \"Po\"</string>
+    <string name="article_helpful_talkback_unselected_no">Pazgjedhur \"Jo\"</string>
+    <string name="article_helpful_talkback_unselected_yes">Pazgjedhur \"Po\"</string>
+    <string name="article_helpful_text">E dobishme?</string>
+    <string name="article_helpful_yes">Po</string>
+    <string name="asset_is_downloading_content_description">Videoja/imazhi po shkarkohet</string>
+    <string name="common_google_play_services_enable_button">Aktivizo</string>
+    <string name="common_google_play_services_enable_text">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_enable_title">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_install_button">Instalo</string>
+    <string name="common_google_play_services_install_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde.</string>
+    <string name="common_google_play_services_install_title">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_notification_channel_name">Disponueshmëria e shërbimeve të Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote.</string>
+    <string name="common_google_play_services_update_button">Përditëso</string>
+    <string name="common_google_play_services_update_text">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_update_title">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_updating_text">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="common_google_play_services_wear_update_text">Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti.</string>
+    <string name="common_open_on_phone">Hape në telefon</string>
+    <string name="common_signin_button_text">Identifikohu</string>
+    <string name="common_signin_button_text_long">Identifikohu me Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Për të shikuar video dhe imazhe, provo të lidhesh me Wi-Fi ose të ndërrosh rrjetet</string>
+    <string name="connectivity_summary_assets_not_downloaded">Nevojitet lidhja me internetin për të shfaqur videot dhe imazhet</string>
+    <string name="module_1_0010_summary">Ndërro aplikacionet, ndrysho cilësimet me shpejtësi, fokusohu më mirë etj.</string>
+    <string name="module_1_0010_tag_text">Fillo</string>
+    <string name="module_1_0010_title">Fillo me [model_name]</string>
+    <string name="module_1_0101_summary">Gjej aplikacione, menaxho telefonin tënd etj.</string>
+    <string name="module_1_0101_tag_text">Fillo</string>
+    <string name="module_1_0101_title">Fillo me Pixel</string>
+    <string name="module_1_1000_summary">Ke kaluar nga iPhoneⓇ? Gjej aplikacione, menaxho telefonin tënd etj.</string>
+    <string name="module_1_1000_tag_text">Fillo</string>
+    <string name="module_1_1000_title">Fillo me Pixel</string>
+    <string name="module_2_1111_summary">Fol me \"Asistentin\" tënd, identifiko muzikë me \"Gjej këngën\" etj.</string>
+    <string name="module_2_1111_tag_text">Maksimizo Google</string>
+    <string name="module_2_1111_title">Merr maksimumin nga Google</string>
+    <string name="module_3_1111_summary">Nxirr portrete të bukura, rrëshqit shpejt mes modaliteteve etj.</string>
+    <string name="module_3_1111_tag_text">Shijo kamerën</string>
+    <string name="module_3_1111_title">Shijo fotografitë dhe kamerën tënde</string>
+    <string name="module_4_1111_summary">Dërgo imazhe, bëj telefonata me video dhe ndaj fotografi</string>
+    <string name="module_4_1111_tag_text">Dërgo mesazhe dhe telefono</string>
+    <string name="module_4_1111_title">Dërgo mesazhe dhe telefono</string>
+    <string name="module_5_1111_summary">Hap me shpejtësi kamerën, kontrollo njoftimet etj.</string>
+    <string name="module_5_1111_tag_text">Përdor gjestet</string>
+    <string name="module_5_1111_title">Përdor gjestet për shkurtore të shpejta</string>
+    <string name="module_6_1111_summary">"Monitoro kohën para ekranit, cakto një orar për t'u shkëputur etj."</string>
+    <string name="module_6_1111_tag_text">Menaxho mirëqenien</string>
+    <string name="module_6_1111_title">Menaxho mirëqenien tënde dixhitale</string>
+    <string name="module_7_1111_summary">Shiko dy aplikacione njëkohësisht, organizo aplikacionet me dosje etj.</string>
+    <string name="module_7_1111_tag_text">Bëhu ekspert</string>
+    <string name="module_7_1111_title">Bëhu ekspert i Pixel</string>
+    <string name="module_8_1111_summary">Mbaj shënime, paguaj me Pixel dhe informohu me lajmet më të fundit</string>
+    <string name="module_8_1111_tag_text">Eksploro aplikacionet</string>
+    <string name="module_8_1111_title">Eksploro aplikacionet kryesore të Google</string>
+    <string name="next_btn">Para</string>
+    <string name="next_module_link_back_home_page_text">Para: Eksploro të gjitha skedat</string>
+    <string name="next_module_link_text">Tjetër: %1$s</string>
+    <string name="next_tip_content_description">Këshilla tjetër</string>
+    <string name="ob_gesture_app_go_back_media_description">Video për gjestin e ri për kthimin prapa</string>
+    <string name="ob_gesture_app_go_back_summary">"Për t'u kthyer pas tek ekrani i fundit, rrëshqit shpejt drejt mesit të anës së majtë ose të djathtë"</string>
+    <string name="ob_gesture_app_go_back_title">Kthehu pas</string>
+    <string name="ob_gesture_app_home_media_description">Video për gjestin e ri për kalimin tek ekrani bazë</string>
+    <string name="ob_gesture_app_home_summary">"Rrëshqit shpejt lart nga fundi i ekranit tënd.
+Ky gjest të dërgon gjithmonë tek ekrani bazë."</string>
+    <string name="ob_gesture_app_home_title">Shko te faqja kryesore</string>
+    <string name="ob_gesture_app_overview_media_description">Video për gjestin e ri për përmbledhjen</string>
+    <string name="ob_gesture_app_overview_summary">Rrëshqit shpejt lart nga fundi i ekranit tënd dhe mbaje</string>
+    <string name="ob_gesture_app_overview_title">Ndërro aplikacionet</string>
+    <string name="onboarding_education_page_title">Prezantimi i gjesteve të navigimit</string>
+    <string name="previous_module_link_text">Prapa: %1$s</string>
+    <string name="previous_tip_content_description">Këshilla e mëparshme</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="settings_search_main_entry_screen_title">Këshillat dhe mbështetja > Eksploro këshillat për Pixel</string>
+    <string name="settings_search_main_entry_summary">Përfito sa më shumë nga Pixel. Shiko video dhe më shumë.</string>
+    <string name="smart_space_subtitle_android">Trokit për këshilla</string>
+    <string name="smart_space_subtitle_ios">Trokit për këshilla</string>
+    <string name="smart_space_subtitle_others">Trokit për këshilla</string>
+    <string name="smart_space_subtitle_pixel">Shiko të rejat</string>
+    <string name="smart_space_title">Mirë se erdhe në Pixel-in tënd të ri</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Nxirr portrete, realizo shkrepjen e përsosur etj.</string>
+    <string name="suggestion_summary_module_communication">Dërgo imazhe, bëj telefonata me video etj.</string>
+    <string name="suggestion_summary_module_gestures">Kontrollo njoftimet, hap kamerën etj.</string>
+    <string name="suggestion_summary_module_google_smarts">Fol me \"Asistentin e Google\" dhe më shumë</string>
+    <string name="suggestion_title_module_camera">Shijo fotografitë dhe kamerën tënde</string>
+    <string name="suggestion_title_module_communication">Këshilla për telefonatat dhe mesazhet me tekst</string>
+    <string name="suggestion_title_module_gestures">Përdor gjestet për shkurtoret</string>
+    <string name="suggestion_title_module_google_smarts">Merr maksimumin nga Google</string>
+    <string name="tip_1_1_media_description">Video rreth gjetjes së aplikacioneve</string>
+    <string name="tip_1_1_summary">Rrëshqit shpejt lart nga fundi i ekranit për të parë aplikacionet e tua të fundit. Do të shikosh po ashtu një rresht me aplikacionet e parashikuara në fund. Rrëshqit shpejt përsëri lart për të parë të gjitha aplikacionet e tua.</string>
+    <string name="tip_1_1_title">Gjej aplikacionet e tua</string>
+    <string name="tip_1_2_media_description">Video rreth organizimit të aplikacioneve</string>
+    <string name="tip_1_2_summary">"Për të shtuar një aplikacion në ekranin bazë, prek dhe zvarrit aplikacionin.
+
+Për të hequr një aplikacion, prek dhe mbaj të shtypur aplikacionin dhe më pas zvarrite drejt kreut të ekranit."</string>
+    <string name="tip_1_2_title">Shto aplikacione në \"Ekranin bazë\"</string>
+    <string name="tip_1_3_link">Shko te \"Dyqani i Play\"</string>
+    <string name="tip_1_3_media_description">Imazh rreth aplikacioneve kryesore</string>
+    <string name="tip_1_3_summary">"Fillo me këto aplikacione:
+- \"Dyqani i Play\": Eksploro dhe shkarko aplikacionet
+- \"Fotografitë e Google\": Gjej, ruaj dhe ndaj fotografitë
+- Google Keep: Regjistro shënime, lista dhe më shumë"</string>
+    <string name="tip_1_3_title">Eksploro aplikacionet kryesore</string>
+    <string name="tip_1_4_media_description">Video rreth njoftimeve</string>
+    <string name="tip_1_4_summary">"Rrëshqit shpejt poshtë nga kreu i ekranit për të parë njoftimet. Për të pastruar një njoftim, rrëshqite atë majtas ose djathtas.
+
+Për të parë më shumë informacione për një njoftim, preke dhe mbaje të shtypur atë."</string>
+    <string name="tip_1_4_title">Shiko njoftimet e tua</string>
+    <string name="tip_1_5_media_description">Video rreth ndryshimit të cilësimeve</string>
+    <string name="tip_1_5_summary">"Rrëshqit shpejt poshtë nga kreu i telefonit tënd Pixel për të hapur \"Cilësimet e shpejta\". Rrëshqit shpejt përsëri poshtë për më shumë cilësime.
+
+Për të aktivizuar ose çaktivizuar një cilësim, trokit tek ai. Për të parë më shumë opsione për një cilësim, preke dhe mbaje të shtypur atë."</string>
+    <string name="tip_1_5_title">Ndrysho me shpejtësi cilësimet e zakonshme</string>
+    <string name="tip_1_6_link">Shko te \"Cilësimet\"</string>
+    <string name="tip_1_6_media_description">Video rreth \"Mos shqetëso\"</string>
+    <string name="tip_1_6_summary">"Nëse po përdor telefonin, por dëshiron të mos shpërqendrohesh, mund të ndalosh shfaqjen e njoftimeve.
+
+Eksploro kontrollet e reja te \"Mos shqetëso\"."</string>
+    <string name="tip_1_6_title">Përqendrohu më mirë me \"Mos shqetëso\"</string>
+    <string name="tip_1_7_media_description">Video rreth shikimit të veprimeve</string>
+    <string name="tip_1_7_summary">"Prek dhe mbaj të shtypur tekstin për të shikuar veprimet e mundshme, si p.sh. kryerja e një rezervimi restoranti.
+
+Këtë mund ta bësh nga çdo aplikacion. Kjo funksionon edhe kur i ndërron aplikacionet"</string>
+    <string name="tip_1_7_title">Shiko veprimet kur zgjedh tekstin</string>
+    <string name="tip_1_9_link">Shko te \"Mbështetja\"</string>
+    <string name="tip_1_9_media_description">Video rreth \"Këshillave dhe mbështetjes\"</string>
+    <string name="tip_1_9_summary">"Më shumë këshilla dhe mbështetje ofrohen herë pas here. Thjesht shko te \"Cilësimet\" > \"Këshilla dhe mbështetje\".
+
+Mund të eksplorosh këshilla, të shfletosh artikuj ndihme ose të kontaktosh me ekipin e Pixel."</string>
+    <string name="tip_1_9_title">Merr ndihmë kur të nevojitet</string>
+    <string name="tip_2_1_link">Hape te \"Cilësimet\"</string>
+    <string name="tip_2_1_link_description">Për të aktivizuar këtë funksion, trokit te butoni më poshtë.</string>
+    <string name="tip_2_1_link_description_off">Për të aktivizuar këtë funksion, trokit te butoni më poshtë.</string>
+    <string name="tip_2_1_link_off">Aktivizo te \"Cilësimet\"</string>
+    <string name="tip_2_1_link_on">Cilësimet e shtrydhjes</string>
+    <string name="tip_2_1_media_description">Video rreth shtrydhjes për \"Asistentin\" tënd</string>
+    <string name="tip_2_1_summary">Për të folur me \"Asistentin e Google\" në çdo kohë (edhe kur ekrani është joaktiv), shtrydh me shpejtësi gjysmën e poshtme të telefonit dhe më pas lëshoje.</string>
+    <string name="tip_2_1_title">Shtrydhe për \"Asistentin\" tënd</string>
+    <string name="tip_2_2_link">Veprime të tjera</string>
+    <string name="tip_2_2_media_description">Video rreth veprimeve të \"Asistentit\"</string>
+    <string name="tip_2_2_summary">"\"Asistenti i Google\" është mënyra e shpejtë dhe e lehtë për të gjetur përgjigje dhe për të realizuar gjëra të ndryshme në telefonin tënd Pixel.
+
+Për të folur me \"Asistentin\", shtrydh me shpejtësi gjysmën e poshtme të telefonit dhe më pas lëshoje dhe thuaj:
+
+- Kur është ngjarja ime e parë nesër?
+- Shto pastë dhëmbësh në listën time të blerjeve
+- Shkojmë në shtëpi"</string>
+    <string name="tip_2_2_title">Zbulo se çfarë mund të bëjë \"Asistenti\" yt</string>
+    <string name="tip_2_3_link">Hap \"Lenten\"</string>
+    <string name="tip_2_3_media_description">Video rreth kërkimit me \"Lenten e Google\"</string>
+    <string name="tip_2_3_summary">"Shikon një kafshë të lezetshme, një bimë unike apo një pikë referimi mbresëlënëse që të tërheq vëmendjen? Përdor \"Lenten e Google\" për të mësuar më shumë.
+
+Thjesht hap kamerën, prek dhe mbaj te pamori dhe më pas trokit tek artikulli që të intereson."</string>
+    <string name="tip_2_3_title">Kërko çfarë shikon me \"Lenten e Google\"</string>
+    <string name="tip_2_4_link">Hap Google Play</string>
+    <string name="tip_2_4_link_description">Për të përdorur \"Gjej këngën\" përditëso \"Shërbimet e ambientit të Pixel\".</string>
+    <string name="tip_2_4_link_description_off">Për të aktivizuar këtë funksion, trokit te butoni më poshtë.</string>
+    <string name="tip_2_4_link_off">Aktivizo te \"Cilësimet\"</string>
+    <string name="tip_2_4_link_on">Cilësimet për \"Gjej këngën\"</string>
+    <string name="tip_2_4_media_description">Video rreth \"Gjej këngën\"</string>
+    <string name="tip_2_4_summary">\"Gjej këngën\" shfaq automatikisht informacionet e këngës për çdo këngë që po luhet, kudo ku ndodhesh.</string>
+    <string name="tip_2_4_title">Identifiko muzikën me \"Gjej këngën\"</string>
+    <string name="tip_2_5_link">Hap \"Kamerën\"</string>
+    <string name="tip_2_5_media_description">Video rreth kamerës</string>
+    <string name="tip_2_5_summary">Telefoni yt Pixel njeh automatikisht numrat e telefonit, adresat, email-et, barkodet dhe kodet QR. Thjesht hap kamerën, drejtoje dhe lër kamerën të bëjë atë që duhet.</string>
+    <string name="tip_2_5_title">Vër kamerën në punë</string>
+    <string name="tip_3_1_link">Hap \"Kamerën\"</string>
+    <string name="tip_3_1_media_description">Video rreth modaliteteve të kamerës</string>
+    <string name="tip_3_1_summary">"Ndonjëherë dëshiron të nxjerrësh një fotografi, më pas një video dhe më pas diçka pak ndryshe. 
+
+Për të ndërruar modalitetet, thjesht hap pamorin e Kamerës dhe rrëshqit shpejt majtas ose djathtas. Trokit te \"Më shumë\" për opsionet e tjera."</string>
+    <string name="tip_3_1_title">Rrëshqit shpejt mes fotografisë, videos etj.</string>
+    <string name="tip_3_2_link">Hap \"Kamerën\"</string>
+    <string name="tip_3_2_media_description">Video rreth shkrepjes së portreteve</string>
+    <string name="tip_3_2_summary">"Në \"Modalitetin e portretit\", telefoni Pixel e turbullon sfondin për një pamje të bukur dhe profesionale. Provoje dhe shikoje vetë.
+
+Thjesht hap \"Kamerën\", rrëshqit nga e majta në të djathtë dhe je gati për të vazhduar."</string>
+    <string name="tip_3_2_title">Nxirr portrete të bukura</string>
+    <string name="tip_3_3_media_description">Video rreth shkrepjes së pamjeve të ekranit</string>
+    <string name="tip_3_3_summary">"Shtyp dhe mbaj të shtypur butonin e energjisë dhe më pas trokit te \"Pamja e ekranit\". Ja ku u bë, sapo ke nxjerrë një pamje të ekranit.
+
+Për të vizatuar në pamjen e ekranit, trokit te \"Modifiko\" në njoftimin që shfaqet."</string>
+    <string name="tip_3_3_title">Nxirr dhe modifiko pamjet e ekranit me shpejtësi</string>
+    <string name="tip_3_4_link">Hap \"Kamerën\"</string>
+    <string name="tip_3_4_media_description">Video rreth zgjedhjes së momentit të përkryer me \"Foton e përsosur\"</string>
+    <string name="tip_3_4_summary">"Sa herë që shkrep një fotografi, telefoni Pixel ruan një ose dy imazhe më shumë që të mund të bësh shkrepjen e përsosur.
+
+1. Sigurohu që \"Lëvizja\" [icon_span] të jetë e aktivizuar, më pas shkrep fotografinë
+2. Kur shikon fotografinë, thjesht rrëshqit larg nga poshtë
+3. Trokit te \"Shkrepjet\" në këtë fotografi për të rishikuar imazhet alternative"</string>
+    <string name="tip_3_4_title">Zgjidh momentin e përkryer me \"Foton e përsosur\"</string>
+    <string name="tip_3_5_link">Hap \"Kamerën\"</string>
+    <string name="tip_3_5_media_description">Video rreth shkrepjes së një selfie në grup</string>
+    <string name="tip_3_5_summary">"\"Selfi në grup\" të jep më shumë hapësirë në fotografinë tënde për miqtë ose peizazhin, nuk nevojitet shkop për selfie.
+
+1. Kalo në kamerën e përparme [icon_span]
+2. Trokit dy herë në ekran ose bashko gishtat për të zvogëluar"</string>
+    <string name="tip_3_5_title">Shkrep një \"Selfie në grup\"</string>
+    <string name="tip_4_1_link">Hap \"Mesazhet\"</string>
+    <string name="tip_4_1_media_description">Video rreth dërgimit të imazheve</string>
+    <string name="tip_4_1_summary">"1. Hap një bisedë në aplikacionin \"Mesazhet\"
+2. Trokit te \"Kompozo\" [icon_span] në të majtë të vendit ku shkruan mesazhin
+3. Zgjidh imazhin, emoji-n ose ngjitësen e përsosur"</string>
+    <string name="tip_4_1_title">Dërgo imazhe</string>
+    <string name="tip_4_2_link">Instalo Duo</string>
+    <string name="tip_4_2_link_off">Instalo Duo</string>
+    <string name="tip_4_2_link_on">Hap Duo</string>
+    <string name="tip_4_2_media_description">Video rreth Google Duo</string>
+    <string name="tip_4_2_summary">"Asgjë nuk krahasohet me një bisedë e drejtpërdrejtë me shokët e ngushtë dhe familjen tënde. Kjo është arsyeja pse telefoni Pixel i bën të lehta telefonatat me video me Google Duo.
+
+1. Hap aplikacionin Google Duo
+2. Kërko për një kontakt
+3. Fillo një telefonatë me video me një trokitje ose ftoje që të shkarkojë Google Duo
+
+Edhe shokët e tu në telefonat dhe tabletët me iOSⓇ mund të përdorin Google Duo."</string>
+    <string name="tip_4_2_title">Bëj telefonata me video me Google Duo</string>
+    <string name="tip_4_3_link">Hap \"Fotografitë e Google\"</string>
+    <string name="tip_4_3_media_description">Video rreth ndarjes së fotografive</string>
+    <string name="tip_4_3_summary">"1. Hap \"Fotografitë e Google\"
+2. Prek dhe mbaj prekur për të zgjedhur një imazh
+3. Zgjidh shumë imazhe, nëse dëshiron
+4. Trokit te \"Ndaj\" [icon_span]
+5. Zgjidh personat me të cilët do t'i ndash"</string>
+    <string name="tip_4_3_title">Ndaj fotografitë</string>
+    <string name="tip_4_4_link">Fillo</string>
+    <string name="tip_4_4_media_description">Video rreth dërgimit të mesazheve nga kompjuteri yt</string>
+    <string name="tip_4_4_summary">"Mund të dërgosh mesazhe nga kompjuteri duke përdorur \"Mesazhet në Android\". Për të filluar, shko te aplikacioni \"Mesazhet\" dhe zgjidh \"Mesazhet për ueb\" në meny.
+
+Përveç dërgimit të mesazheve, mund të dërgosh ngjitëse, emoji dhe të bashkëngjitësh imazhe."</string>
+    <string name="tip_4_4_title">Dërgo mesazhe nga kompjuteri yt.</string>
+    <string name="tip_5_1_link">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_1_link_off">Aktivizoje këtë te \"Cilësimet\"</string>
+    <string name="tip_5_1_link_on">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_1_media_description">Video rreth kontrollimit të telefonit tënd</string>
+    <string name="tip_5_1_summary">Mund të kontrollosh orën, njoftimet etj. duke trokitur dy herë në ekran.</string>
+    <string name="tip_5_1_title">Trokit dy herë për të kontrolluar telefonin</string>
+    <string name="tip_5_2_link">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_2_link_off">Aktivizoje këtë te \"Cilësimet\"</string>
+    <string name="tip_5_2_link_on">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_2_media_description">Video rreth kalimit te kamera</string>
+    <string name="tip_5_2_summary">Shtyp dy herë butonin e energjisë nga çdo ekran për të kaluar në çast te kamera.</string>
+    <string name="tip_5_2_title">Kalo te kamera</string>
+    <string name="tip_5_3_link">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_3_link_off">Aktivizoje këtë te \"Cilësimet\"</string>
+    <string name="tip_5_3_link_on">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_3_media_description">Video rreth kalimit te modaliteti i portretit</string>
+    <string name="tip_5_3_summary">Për të hyrë dhe për të dalë nga modaliteti për selfi në \"Kamerën\" tënde, përdridhe dy herë kur je në aplikacion.</string>
+    <string name="tip_5_3_title">Rrotulloje kamerën</string>
+    <string name="tip_5_4_link">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_4_link_off">Aktivizoje këtë te \"Cilësimet\"</string>
+    <string name="tip_5_4_link_on">Shko te \"Cilësimet\"</string>
+    <string name="tip_5_4_media_description">Video rreth rrëshqitjes së shpejtë të gjurmës së gishtit për njoftime</string>
+    <string name="tip_5_4_summary">"Mund t'i kontrollosh njoftimet duke rrëshqitur shpejt poshtë në sensorin e gjurmës së gishtit në pjesën e pasme të telefonit.
+Rrëshqit shpejt përsëri për të parë \"Cilësimet e shpejta\"."</string>
+    <string name="tip_5_4_title">Rrëshqit shpejt gjurmën e gishtit për njoftimet</string>
+    <string name="tip_5_5_media_description">Video rreth ndërrimit të aplikacioneve</string>
+    <string name="tip_5_5_summary">Për të ndërruar me shpejtësi aplikacionet, lëviz nga e majta në të djathtë në fund të ekranit. Lëshoje për të hapur aplikacionin.</string>
+    <string name="tip_5_5_title">Një mënyrë më e shpejtë për të ndërruar aplikacionet</string>
+    <string name="tip_6_1_link">Cilësimet e \"Dritës së natës\"</string>
+    <string name="tip_6_1_media_description">Video rreth \"Dritës së natës\"</string>
+    <string name="tip_6_1_summary">"Drita e natës e ngjyros ekranin në ngjyrë qelibari. Kjo e bën më të lehtë shikimin e ekranit ose leximin në dritë të zbehtë dhe mund të të ndihmojë të biesh në gjumë më lehtë.
+
+Mund të aktivizosh ose çaktivizosh \"Dritën e natës\" me shpejtësi te \"Cilësimet e shpejta\". Ose thjesht prek dhe mbaj prekur për të konfiguruar një orar."</string>
+    <string name="tip_6_1_title">Bjer në gjumë më lehtë me \"Dritën e natës\"</string>
+    <string name="tip_6_2_link">Përditëso \"Mirëqenien dixhitale\"</string>
+    <string name="tip_6_2_link_off">Përditëso \"Mirëqenien dixhitale\"</string>
+    <string name="tip_6_2_link_on">Konfiguro \"Çlodhjen\"</string>
+    <string name="tip_6_2_media_description">Video rreth caktimit të një orari për gjumë me \"Çlodhjen\"</string>
+    <string name="tip_6_2_summary">"Cakto një orar të përnatshëm për t'u shkëputur nga telefoni.
+
+1. Hap \"Mirëqenia dixhitale\" [icon_span]
+2. Trokit \"Çlodhja\"
+3. Konfiguro orarin e \"Çlodhjes\"
+
+Kur është pothuajse koha për të fjetur, ekrani do të ndryshojë ngjyrë dhe \"Mos shqetëso\" do të parandalojë që njoftimet të të ndërpresin gjumin."</string>
+    <string name="tip_6_2_title">Cakto një orar për gjumë me \"Çlodhjen\"</string>
+    <string name="tip_6_3_link">Provo ta përmbysësh për Shhh</string>
+    <string name="tip_6_3_link_off">Përditëso \"Mirëqenien dixhitale\"</string>
+    <string name="tip_6_3_link_on">Shko te \"Cilësimet\"</string>
+    <string name="tip_6_3_media_description">Video rreth ndalimit të shpejtë të gjërave që tërheqin vëmendjen</string>
+    <string name="tip_6_3_summary">Me \"Përmbyse për Shhh\", thjesht vendose telefonin përmbys për të aktivizuar \"Mos shqetëso\" dhe për të ndaluar njoftimet dhe tingujt.</string>
+    <string name="tip_6_3_title">Ndalo shpërqendrimet me shpejtësi</string>
+    <string name="tip_6_4_link">Përditëso \"Mirëqenien dixhitale\"</string>
+    <string name="tip_6_4_link_off">Përditëso \"Mirëqenien dixhitale\"</string>
+    <string name="tip_6_4_link_on">Hap panelin</string>
+    <string name="tip_6_4_media_description">Video rreth \"Mirëqenies dixhitale\"</string>
+    <string name="tip_6_4_summary">"Shiko panelin e \"Mirëqenies dixhitale\" te \"Cilësimet\" për një fotografi çasti të kohës sate para ekranit dhe cakto kohëmatës për aplikacionet që do të doje t'i përdorje më pak."</string>
+    <string name="tip_6_4_title">Monitoro kohën tënde para ekranit</string>
+    <string name="tip_7_1_media_description">Video rreth organizimit të aplikacioneve me dosje</string>
+    <string name="tip_7_1_summary">"Krijo dosje për të monitoruar më lehtë aplikacionet e tua.
+
+Për të krijuar një dosje, zvarrit një aplikacion mbi një aplikacion tjetër. Mund ta emërtosh dosjen e re.
+
+Mund të zvarritësh më shumë aplikacione në dosje ose zvarrit një aplikacion jashtë për ta hequr."</string>
+    <string name="tip_7_1_title">Organizo aplikacionet me dosje</string>
+    <string name="tip_7_2_media_description">Video rreth përdorimit të 2 aplikacioneve njëherësh</string>
+    <string name="tip_7_2_summary">"Mund të përdorësh dy aplikacione njëkohësisht duke konfiguruar ekranin e ndarë në telefonin tënd. Tani mund të kryesh disa detyra.
+
+1. Rrëshqit lart nga fundi i ekranit tënd për të parë aplikacionet e fundit
+2. Prek dhe mbaj prekur ikonën e aplikacionit në krye të ekranit
+3. Trokit \"Ekrani i ndarë\"
+
+Lëvize ndarësin lart e poshtë sipas nevojës. Rrëshqite tutje kur të mbarosh."</string>
+    <string name="tip_7_2_title">Shiko dy aplikacione njëkohësisht</string>
+    <string name="tip_7_3_link">Hap \"Asistentin e Google\"</string>
+    <string name="tip_7_3_media_description">Video rreth komandimit të telefonit me anë të \"Asistentit\"</string>
+    <string name="tip_7_3_summary">"\"Asistenti\" yt mund të të ndihmojë t'i kryesh më shpejt veprimet. Për t'i folur \"Asistentit\" tënd, shtyp me të shpejtë gjysmën e poshtme të telefonit. Pastaj provo të thuash:
+
+1. \"Take a selfie\"
+2. \"Take a screenshot\"
+3. \"Turn on flashlight\""</string>
+    <string name="tip_7_3_title">Përdor \"Asistentin tënd të Google\" për të ndihmuar për detyrat e përditshme</string>
+    <string name="tip_8_1_link">Instalo Google Keep</string>
+    <string name="tip_8_1_link_off">Instalo Google Keep</string>
+    <string name="tip_8_1_link_on">Hap Google Keep</string>
+    <string name="tip_8_1_media_description">Video rreth marrjes së shënimeve</string>
+    <string name="tip_8_1_summary">"Me aplikacionin e Google Keep, mund të regjistrosh me shpejtësi çfarë ke në mendje. Shto shënime, lista, fotografi dhe audio.
+
+Mund të caktosh gjithashtu alarme rikujtuese në mënyrë që të kujtosh të përfundosh detyrat e tua. Dhe Keep e bën të lehtë të ndash shënimet me miqtë dhe familjen."</string>
+    <string name="tip_8_1_title">Mbaj shënime dhe më shumë me Google Keep</string>
+    <string name="tip_8_2_link">Instalo Google News</string>
+    <string name="tip_8_2_link_off">Instalo Google News</string>
+    <string name="tip_8_2_link_on">Hap Google News</string>
+    <string name="tip_8_2_media_description">Video rreth Google News</string>
+    <string name="tip_8_2_summary">"Informohu plotësisht me lajmet e fundit, lokale dhe globale.
+
+Me vetëm një trokitje, shiko titujt kryesorë nga burimet e tua të preferuara. Do të shohësh një kronologji të momenteve kyçe, opinione, analiza etj. për të të ndihmuar ta kuptosh lajmin më në thellësi."</string>
+    <string name="tip_8_2_title">Qëndro i përditësuar me Google News</string>
+    <string name="tip_8_3_link">Instalo Google Pay</string>
+    <string name="tip_8_3_link_off">Instalo Google Pay</string>
+    <string name="tip_8_3_link_on">Hap Google Pay</string>
+    <string name="tip_8_3_media_description">Video rreth Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay është një mënyrë e shpejtë për të paguar në miliona dyqane duke përdorur telefonin Pixel. Ja se si:
+
+1. Shto një kartë në Google Pay
+2. Kërko për simbolin e radio-frekuencës [icon_span] në arkë
+3. Shkyç telefonin dhe mbaje pranë terminalit
+4. Prit derisa të shohësh një shenjë kontrolli
+
+Kaq ishte!"</string>
+    <string name="tip_8_3_title">Paguaj me Pixel</string>
+    <string name="tips_nav_a11y_media_description">Video për përdorimin e gjestit të ri të qasshmërisë</string>
+    <string name="tips_nav_a11y_summary">"Për të pasur qasje te \"Zgjidh që të thuhet\" ose te zmadhimi, rrëshqit shpejt lart nga fundi i ekranit me dy gishta.
+
+Për të ndërruar mes aplikacioneve të qasshmërisë, rrëshqit shpejt lart me dy gishta dhe mbaji.
+
+Këto gjeste mund t'i përdorësh pasi të përfundosh konfigurimin."</string>
+    <string name="tips_nav_a11y_title">Përdor gjestin e ri të qasshmërisë</string>
+    <string name="title_download_completed_dialog">Ringarko këshillat e reja</string>
+    <string name="try_it_text">Provoje</string>
+    <string name="zero_state_primary">I ke lexuar të gjitha</string>
+    <string name="zero_state_secondary">Kontrollo përsëri më vonë për këshilla të reja</string>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробіл</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Введіть пошуковий запит…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Наіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="accessibility_no_wifi">"Wi-Fi від'єднано."</string>
+    <string name="accessibility_wifi_one_bar">Одна смужка сигналу Wi-Fi.</string>
+    <string name="accessibility_wifi_security_type_none">Відкрита мережа</string>
+    <string name="accessibility_wifi_security_type_secured">Захищена мережа</string>
+    <string name="accessibility_wifi_signal_full">Максимальний сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Три смужки сигналу Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Дві смужки сигналу Wi-Fi.</string>
+    <string name="account_exists_info">"Електронні листи, контакти, події календаря й інші дані синхронізуються з цим {DEVICE_TYPE,select, PHONE{телефоном}TABLET{планшетом}other{пристроєм}}. Ви також можете завантажувати додатки, музику й ігри з Google Play.
+
+Додати чи видалити облікові записи можна пізніше в меню \"Налаштування\" > \"Облікові записи\"."</string>
+    <string name="account_exists_text_single">Обліковий запис <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> готовий.</string>
+    <string name="account_exists_text_unknown_name">Обліковий запис готовий.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Обліковий запис додано}one{Облікові записи додано}few{Облікові записи додано}many{Облікові записи додано}other{Облікові записи додано}}</string>
+    <string name="activating_carrier_service_text">Це може зайняти кілька хвилин</string>
+    <string name="activating_unknown_carrier_service_title">Активація…</string>
+    <string name="activation_failed_message">"Спробуйте:
+"<ul><li>знову підключити пристрій до мобільного Інтернету;</li>"
+"<li>вибрати для налаштування іншу мережу.</li></ul>"
+
+Якщо ці варіанти не допоможуть, перезапустіть {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} і повторіть спробу."</string>
+    <string name="activation_failed_title">Не вдається під’єднат. до моб. Інтернету</string>
+    <string name="activation_progress_flow">"Під’єднання триває задовго?
+
+Якщо під’єднання до мобільного Інтернету триває задовго, спробуйте під’єднати пристрій до іншої мережі."</string>
+    <string name="activation_title">Підключення оператора мобільного зв’язку…</string>
+    <string name="activation_unprovisioned_sim_message">Перезапустіть {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} і повторіть спробу або під’єднайтеся до мережі Wi-Fi. Якщо не вдається активувати передавання мобільних даних, зв’яжіться з оператором.</string>
+    <string name="activation_unprovisioned_title">Не вдалось активувати мобільний Інтернет</string>
+    <string name="android_privacy_policy_title">Додаткова політика конфіденційності</string>
+    <string name="available_via_carrier">Доступ через мережу %1$s</string>
+    <string name="cancel_button_label">Скасувати</string>
+    <string name="captive_portal_connection_unsuccessful">Немає з’єднання з Інтернетом</string>
+    <string name="captive_portal_description_text">Це може зайняти кілька хвилин</string>
+    <string name="captive_portal_ssl_error_text">"Це з'єднання використовує ненадійний або недійсний сертифікат. Виберіть іншу мережу та повторіть спробу."</string>
+    <string name="captive_portal_title">З’єднання…</string>
+    <string name="chrome_privacy_title">Примітка про конфіденційність Chrome</string>
+    <string name="chrome_tos_title">Умови використання Chrome</string>
+    <string name="close_button_label">Закрити</string>
+    <string name="common_google_play_services_enable_button">Увімкнути</string>
+    <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
+    <string name="common_google_play_services_install_button">Установити</string>
+    <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступність сервісів Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+    <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
+    <string name="common_google_play_services_updating_text">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="connect_to_wifi_btn_text">Налаштування Wi-Fi</string>
+    <string name="connect_to_wifi_message">Щоб продовжити, під’єднайтся до Wi-Fi</string>
+    <string name="connect_to_wifi_title">Оновлення додатка готові</string>
+    <string name="connected_via_app">Підключено через додаток %1$s</string>
+    <string name="connected_via_carrier">Під’єднано через мережу %1$s</string>
+    <string name="connected_via_network_scorer_default">Автоматично під’єднано через постачальника оцінки якості мережі</string>
+    <string name="consolidate_captive_portal_description_text">Це може зайняти кілька хвилин</string>
+    <string name="consolidate_captive_portal_title">Пошук оновлень…</string>
+    <string name="continue_for_a11y">Щоб увімкнути режим доступності, торкайтеся екрана, доки не почуєте звуковий сигнал.</string>
+    <string name="date_time_current_date">Дата</string>
+    <string name="date_time_current_time">Час</string>
+    <string name="date_time_message">За потреби змініть налаштування.</string>
+    <string name="date_time_setup_title">Дата й час</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Продовжити</string>
+    <string name="decision_point_google_assistant">Google Асистент</string>
+    <string name="decision_point_illustration_description">Додаткові кроки включають налаштування Google Асистента, Google Pay, функції \"Зараз грає\", розміру шрифту, фонового малюнка тощо</string>
+    <string name="decision_point_leave_setup">Вийти й отримати нагадування</string>
+    <string name="decision_point_now_playing">Зараз грає</string>
+    <string name="default_device_name_device">пристрій</string>
+    <string name="default_device_name_phone">телефон</string>
+    <string name="default_device_name_tablet">планшет</string>
+    <string name="deferred_notification_prompt_title">^1 налаштовано не повністю</string>
+    <string name="deferred_setup_button_label">Завершити налаштування</string>
+    <string name="deferred_setup_wizard_reason_assistant">спілкуйтеся з Асистентом</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">розмовляйте з Google Асистентом</string>
+    <string name="deferred_setup_wizard_reason_default">Залишилося ще кілька дій</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">скопіюйте дані</string>
+    <string name="deferred_setup_wizard_reason_google_pay">використовуйте Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">оплачуйте покупки швидше з Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 та інше</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 тощо</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Щоб підготувати пристрій ^1 до роботи, потрібно виконати кілька простих дій</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">виберіть фоновий малюнок</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">виберіть фоновий малюнок</string>
+    <string name="deferred_setup_wizard_title">Налаштуйте пристрій</string>
+    <string name="deferred_snooze_dialog_option_never">Ніколи</string>
+    <string name="deferred_snooze_dialog_option_today">Пізніше сьогодні</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Завтра</string>
+    <string name="deferred_snooze_dialog_title">Нагадати</string>
+    <string name="deferred_welcome_airplane_mode_message">"Щоб завершити кілька останніх кроків налаштування, потрібне інтернет-з’єднання.
+
+У режимі польоту Wi‑Fi, мобільна мережа та Bluetooth не працюють."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Налаштувати пізніше</string>
+    <string name="deferred_welcome_airplane_mode_title">Вимкнути режим польоту?</string>
+    <string name="deferred_welcome_screen_cancel_button">Нагадати пізніше</string>
+    <string name="deferred_welcome_title">Завершіть налаштування пристрою ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Вимкнути</string>
+    <string name="device_owner_continue">Продовжити налаштування</string>
+    <string name="device_owner_reset">Скинути налаштування {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}</string>
+    <string name="device_owner_warning">{0} керує вашим {DEVICE_TYPE,select, PHONE{телефоном}TABLET{планшетом}other{пристроєм}} і має доступ до ваших даних. Щоб скасувати доступ, який має {0}, скиньте налаштування {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Телефон}TABLET{Планшет}other{Пристрій}}може відстежуватися</string>
+    <string name="dialog_back_button_label">Назад</string>
+    <string name="dialog_continue_button_label">Продовжити</string>
+    <string name="early_update_installing_updates_text">Встановлюються оновлення</string>
+    <string name="early_update_text">Це може зайняти кілька хвилин</string>
+    <string name="early_update_timeout_text">Перевірка триває задовго? Поверніться назад і спробуйте під’єднатися до іншої мережі.</string>
+    <string name="early_update_title">Перевірка наявності оновлень…</string>
+    <string name="emergency_dial">Екстренний виклик</string>
+    <string name="enabled_a11y">Режим доступності ввімкнено.</string>
+    <string name="esim_option_button_summary">Додати номер через eSIM-карту</string>
+    <string name="esim_option_button_title">Натомість завантажити SIM-карту?</string>
+    <string name="esim_warning_title">Завантажте SIM-карту</string>
+    <string name="esim_warning_txt">Якщо ви абонент %1$s, ви отримуватимете дзвінки, повідомлення та дані, завантаживши eSIM-карту. Вставляти SIM-карту не потрібно.</string>
+    <string name="esim_warning_txt_default">Щоб підключитися до мобільної мережі, завантажте інформацію, що зазвичай є на SIM-карті. Це безпечно замінює стандартну SIM-карту.</string>
+    <string name="exit_loading_launcher">Завантаження панелі запуску…</string>
+    <string name="factory_reset_button">Видалити й скинути</string>
+    <string name="factory_reset_confirmation">Видалити всі облікові записи й дані з {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}? Цю дію не можна відмінити.</string>
+    <string name="factory_reset_confirmation_title">Скинути налаштування?</string>
+    <string name="factory_reset_instructions">Застереження. Якщо скинути налаштування, буде видалено всі облікові записи й дані з цього {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}.</string>
+    <string name="factory_reset_title">Скинути налаштування {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}</string>
+    <string name="final_hold_description_text">Це може зайняти кілька хвилин</string>
+    <string name="final_hold_title">Завершується налаштування…</string>
+    <string name="final_hold_title_setup_work_account">Підготовка телефона до роботи…</string>
+    <string name="gms_account_checkin_title">Отримання даних облікового запису…</string>
+    <string name="gms_checkin_description_text">Це може зайняти кілька хвилин</string>
+    <string name="gms_checkin_description_text_timeout">Перевірка триває задовго? Поверніться назад і спробуйте під’єднатися до іншої мережі.</string>
+    <string name="gms_checkin_title">Перевірка наявності оновлень…</string>
+    <string name="go_back_button_label">Повернутися</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Умови використання Google Play</string>
+    <string name="google_plus_privacy_policy_title">Конфіденційність Google плюс</string>
+    <string name="google_privacy_policy_title">Політика конфіденційності Google</string>
+    <string name="google_provisioning_disclaimer_content">Застосовуються Загальні положення та умови й Політика конфіденційності Google. Докладніше читайте на сторінці &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Заг. полож. й умови Google</string>
+    <string name="invalid_phone_number">Невідомий номер телефону</string>
+    <string name="invalid_qr_code_content">Отримайте правильний ключ в IT-адміністратора</string>
+    <string name="invalid_qr_code_retry">Повторити</string>
+    <string name="invalid_qr_code_title">Неправильний QR-код</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari та iTunes є торговельними марками корпорації Apple Inc., зареєстрованої в США й інших країнах.</string>
+    <string name="language_picker_section_all">Усі мови</string>
+    <string name="language_picker_section_suggested">Пропоновані</string>
+    <string name="migrate_from_ios_description">Виконайте вказані нижче дії.</string>
+    <string name="migrate_from_ios_header">Копіювати дані</string>
+    <string name="migrate_from_ios_instructions_1">1. Відкрийте Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Перейдіть на сторінку <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Дотримуйтеся вказівок</string>
+    <string name="network_description_text">Виберіть мережу</string>
+    <string name="network_description_text_esim">Щоб завантажити SIM-карту, під’єднайтеся до мережі Wi‑Fi</string>
+    <string name="network_see_all_wifi">Переглянути всі мережі Wi-Fi</string>
+    <string name="network_timeout_description_text">"Спробуйте знову, під'єднавшись до іншої мережі. Також можна продовжити без підключення, а пізніше вибрати налаштування, для яких воно потрібне."</string>
+    <string name="network_timeout_title">Не вдалося підключитись</string>
+    <string name="network_timeout_try_another_network_button">Спробувати іншу мережу</string>
+    <string name="network_title">Під’єднатися до Wi-Fi</string>
+    <string name="network_use_cellular">Налаштувати через мобільну мережу</string>
+    <string name="network_use_cellular_carrier">"Під'єднатися до Wi-Fi пізніше"</string>
+    <string name="network_wifi_continue_button">Продовжити</string>
+    <string name="not_set">Не налаштовано</string>
+    <string name="notification_channel_name_deferred">Додаткові налаштування</string>
+    <string name="notification_channel_name_initial">Налаштування</string>
+    <string name="notification_channel_name_restore">Відновлення даних</string>
+    <string name="notification_channel_security_name_warnings">Застереження про небезпеку</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Продовжуючи та завантажуючи це оновлення програмного забезпечення, ви приймаєте <annotation link="tos">Умови використання Google</annotation> і <annotation link="google_privacy">Політику конфіденційності</annotation>.</string>
+    <string name="ota_info">Потрібно завантажити оновлення на {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} і перезапустити його.</string>
+    <string name="ota_size">Розмір: %s</string>
+    <string name="ota_update_title">Оновити {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}</string>
+    <string name="predeferred_prepare_setup">Підготовка до налаштування…</string>
+    <string name="predeferred_prepare_setup_details">Невдовзі ви зможете завершити налаштування ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Під’єднатися до Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Щоб продовжити, під’єднайтся до Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_title">Доступні оновлення додатка</string>
+    <string name="preference_summary_default_combination">%1$s: %2$s</string>
+    <string name="qr_code_scan_title">Сканування QR-коду</string>
+    <string name="region_picker_section_all">Усі регіони</string>
+    <string name="restart_setup_wizard_button_label">Налаштувати {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Щоб використовувати цей {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}, потрібно ввійти в обліковий запис Google власника цього {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}} після останнього скидання налаштувань.
+
+Оскільки ви цього не зробили, налаштуйте {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} знову."</string>
+    <string name="restart_setup_wizard_dialog_title">Ви не ввійшли в обліковий запис</string>
+    <string name="restore_failed_message">Не вдалося відновити резервну копію</string>
+    <string name="restore_no_backup_message">Немає резервних копій на іншому пристрої</string>
+    <string name="restore_no_backup_title">Неможливо відновити</string>
+    <string name="restore_stopped_message">Не вдалося завершити відновлення резервної копії</string>
+    <string name="restore_title">Відновлення…</string>
+    <string name="setup_ongoing_notification_text">Натисніть, щоб завершити налаштування пристрою ^1</string>
+    <string name="setup_ongoing_notification_title">Триває налаштування пристрою ^1</string>
+    <string name="setup_wizard_title">Налаштування Android</string>
+    <string name="sim_locked_text">"Зараз цей телефон заблоковано з іншим оператором. Скористайтеся дійсною SIM-картою.
+
+Коли ви вставите SIM-карту, її активація може тривати кілька секунд."</string>
+    <string name="sim_locked_title">SIM-карта не підтримується</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Якщо у вас є SIM карта, вставте її}one{Якщо у вас є SIM карти, вставте їх}few{Якщо у вас є SIM карти, вставте їх}many{Якщо у вас є SIM карти, вставте їх}other{Якщо у вас є SIM карти, вставте їх}}</string>
+    <string name="sim_missing_title">Під’єднайтеся до мобільної мережі</string>
+    <string name="sim_ready_message">Номер %1$s можна використовувати</string>
+    <string name="sim_ready_message_carrier_app">Щоб активувати номер %1$s, потрібно завантажити додаток оператора %2$s. Наразі завершімо налаштування телефона.</string>
+    <string name="sim_ready_message_invalid_phone_number">Ваш номер можна використовувати</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Щоб активувати номер, потрібно завантажити додаток оператора %1$s. Наразі завершімо налаштування телефона.</string>
+    <string name="sim_ready_title">%1$s активовано</string>
+    <string name="sim_ready_title_carrier_app">Підключіться до мережі %1$s пізніше</string>
+    <string name="sim_setup_ask_every_time">Запитувати щоразу</string>
+    <string name="sim_setup_select_data">Для мобільного передавання даних</string>
+    <string name="sim_setup_select_data_description">Виберіть номер для мобільного передавання даних</string>
+    <string name="sim_setup_select_text">Для SMS</string>
+    <string name="sim_setup_select_text_description">Виберіть номер для вихідних SMS (вхідні SMS надходитимуть на всі активні номери)</string>
+    <string name="sim_setup_select_voice">Для дзвінків</string>
+    <string name="sim_setup_select_voice_description">Виберіть номер для вихідних дзвінків (вхідні дзвінки надходитимуть на всі активні номери)</string>
+    <string name="sim_setup_title">Налаштування SIM-карт</string>
+    <string name="skip_anyway_button_label">Усе одно пропустити</string>
+    <string name="skip_button_label">Пропустити</string>
+    <string name="skip_toast">Майстер налаштування пропущено</string>
+    <string name="slots_selection_item_summary_activating">Активація…</string>
+    <string name="slots_selection_item_summary_error">Неможливо активувати зараз</string>
+    <string name="slots_selection_title">Виберіть, який номер використовувати</string>
+    <string name="speed_label_fast">Швидка</string>
+    <string name="speed_label_okay">ОК</string>
+    <string name="speed_label_slow">Повільна</string>
+    <string name="speed_label_very_fast">Дуже швидка</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Більше</string>
+    <string name="sud_next_button_label">Далі</string>
+    <string name="suggested_actions_description">Налаштуйте ще кілька функцій зараз або зробіть це пізніше в налаштуваннях</string>
+    <string name="suggested_actions_description_single_item">Ось ще одна функція, яку можна налаштувати на пристрої ^1. Ви також можете зробити це пізніше в налаштуваннях.</string>
+    <string name="suggested_actions_done_label">Готово</string>
+    <string name="suggested_actions_no_thanks_label">Ні, дякую</string>
+    <string name="suggested_actions_title">Що ще можна зробити</string>
+    <string name="switch_camera">Змінити камеру</string>
+    <string name="switch_to_back_camera_button_content_description">Камера на задній панелі</string>
+    <string name="switch_to_front_camera_button_content_description">Камера на передній панелі</string>
+    <string name="switched_to_back_camera_announcement">Зараз це кнопка камери на передній панелі</string>
+    <string name="switched_to_front_camera_announcement">Зараз це кнопка камери на задній панелі</string>
+    <string name="tap_to_sign_up">Торкніться, щоб увійти</string>
+    <string name="terminate_toast">"Майстер налаштування закрито
+Пристрій не налаштовано"</string>
+    <string name="try_again_button_label">Повторити</string>
+    <string name="url_load_unsuccessful_message">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} не під’єднано до служби передавання мобільних даних. Щоб переглянути цю інформацію, перейдіть у веб-переглядачі на сторінку {0}.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} не під’єднано до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть на сторінку {0} у веб-переглядачі.</string>
+    <string name="user_warning_cannot_switch_message">Не вдається перейти в профіль власника. Спробуйте пізніше.</string>
+    <string name="user_warning_label_continue">Продовжити</string>
+    <string name="user_warning_label_quit">Скасувати</string>
+    <string name="user_warning_quit_dialog_button_keep">Залишити користувача</string>
+    <string name="user_warning_quit_dialog_button_remove">Видалити користувача</string>
+    <string name="user_warning_quit_dialog_message">Видалити користувача?</string>
+    <string name="user_warning_title">Налаштувати нового користувача</string>
+    <string name="wait_msg">Зачекайте…</string>
+    <string name="web_dialog_unable_to_view">Щоб переглянути цю інформацію, перейдіть на сторінку ^1 у веб-переглядачі.</string>
+    <string name="welcome_accessibility_button">Спеціальні можливості</string>
+    <string name="welcome_language_picker_content_description">Мова: %s</string>
+    <string name="welcome_language_picker_dialog_title">Виберіть мову</string>
+    <string name="welcome_message">Вітаємо!</string>
+    <string name="welcome_secondary_user_added_text">Вас додано на цьому {DEVICE_TYPE,select, PHONE{телефоні}TABLET{планшеті}other{пристрої}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Важливо.</b>"
+
+"<ul><li>Власник {DEVICE_TYPE,select, PHONE{телефона}TABLET{планшета}other{пристрою}}може видаляти додатки або весь профіль користувача</li>"
+
+"<li>Інші користувачі можуть приймати оновлені дозволи додатків</li>"
+
+"<li>Використовуйте цей {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} спільно з людьми, яким ви довіряєте</li></ul></string>
+    <string name="welcome_start_button_label">Почати</string>
+    <string name="wifi_add_new_network">Додати нову мережу</string>
+    <string name="wifi_and_mobile_skipped_message">"Підключившись до Wi‑Fi або мобільної мережі, ви швидко налаштуєте {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}.
+
+Без з'єднання ви не зможете:
+
+"<ul><li>увійти в обліковий запис Google;</li>"
+
+"<li>відновити додатки й дані;</li>"
+
+"<li>отримати оновлення програмного забезпечення;</li>"
+
+"<li>автоматично налаштувати час і дату</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Підключившись до Wi‑Fi або мобільної мережі, ви швидко налаштуєте {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}.
+
+Без з'єднання ви не зможете:
+
+"<ul><li>увійти в обліковий запис Google;</li>"
+
+"<li>відновити додатки й дані;</li>"
+
+"<li>завантажити SIM-карту;</li>"
+
+"<li>отримати оновлення програмного забезпечення;</li>"
+
+"<li>автоматично налаштувати час і дату</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Точка доступу тимчасово переповнена</string>
+    <string name="wifi_check_password_try_again">Перевірте пароль і повторіть спробу</string>
+    <string name="wifi_connected_no_internet">Під’єднано, але немає доступу до Інтернету</string>
+    <string name="wifi_disabled_by_recommendation_provider">Не під’єднано через низьку якість мережі</string>
+    <string name="wifi_disabled_generic">Вимкнено</string>
+    <string name="wifi_disabled_network_failure">Помилка конфігурації IP-адреси</string>
+    <string name="wifi_disabled_password_failure">Проблема з автентифікацією</string>
+    <string name="wifi_fail_to_scan">Неможливо здійснити сканування мереж</string>
+    <string name="wifi_ip_address_not_available">Недоступно</string>
+    <string name="wifi_ip_address_title">ІР-адреса</string>
+    <string name="wifi_limited_connection">Обмежене з’єднання</string>
+    <string name="wifi_mac_address_not_available">Недоступно</string>
+    <string name="wifi_mac_address_title">MAC-адреса</string>
+    <string name="wifi_metered_label">З тарифікацією трафіку</string>
+    <string name="wifi_no_internet">Немає доступу до Інтернету</string>
+    <string name="wifi_no_internet_no_reconnect">Не під’єднуватиметься автоматично</string>
+    <string name="wifi_not_in_range">Не в діапазоні</string>
+    <string name="wifi_remembered">Збережено</string>
+    <string name="wifi_scanning">Пошук мереж Wi-Fi…</string>
+    <string name="wifi_set_up_offline_title">Налаштувати офлайн?</string>
+    <string name="wifi_skip_button_label">Налаштувати офлайн</string>
+    <string name="wifi_skipped_message">Ваш {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} використовуватиме мобільну мережу під час налаштування. З вас може стягуватися плата за використання трафіку. Щоб не платити, під’єднайте пристрій до Wi‑Fi.</string>
+    <string name="wifi_skipped_title">Можливе стягнення плати</string>
+    <string name="wifi_title">Під’єднатися до Wi-Fi</string>
+    <string name="wifi_unmetered_label">Без тарифікації трафіку</string>
+    <string name="work_profile_setup_description">Щоб налаштувати цей пристрій для роботи та зберігати робочі дані окремо від особистих</string>
+    <string name="work_profile_setup_next">Далі</string>
+    <string name="work_profile_setup_skip">Пропустити налаштування корпоративного запису</string>
+    <string name="work_profile_setup_title">Додайте корпоративний обліковий запис</string>
+    <string name="work_setup_interrupted">"Ми виявили незвичну активність на цьому {DEVICE_TYPE,select, PHONE{телефоні}TABLET{планшеті}other{пристрої}}. Якщо продовжити налаштування, ваші дані можуть опинитися в небезпеці.
+
+Щоб почати знову, перезавантажте цей {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}}."</string>
+    <string name="work_setup_interrupted_title">Цей {DEVICE_TYPE,select, PHONE{телефон}TABLET{планшет}other{пристрій}} може бути в небезпеці</string>
+</resources>

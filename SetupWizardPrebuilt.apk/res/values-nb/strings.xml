@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">slett</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
+    <string name="abc_search_hint">Søk</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="accessibility_no_wifi">Wi-Fi er frakoblet.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi-signalet har én stolpe.</string>
+    <string name="accessibility_wifi_security_type_none">Åpent nettverk</string>
+    <string name="accessibility_wifi_security_type_secured">Sikkert nettverk</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi-signalet er ved full styrke.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi-signalet har tre stolper.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi-signalet har to stolper.</string>
+    <string name="account_exists_info">"E-postadressen din, kontaktene dine, kalenderaktivitetene dine og andre ting synkroniseres til {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}. Du kan også laste ned apper, musikk og spill fra Google Play.
+
+Du kan legge til og fjerne kontoer senere ved å gå til Innstillinger > Kontoer."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> er klar.</string>
+    <string name="account_exists_text_unknown_name">Kontoen din er klar.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Kontoen er lagt til}other{Kontoene er lagt til}}</string>
+    <string name="activating_carrier_service_text">Dette kan ta noen minutter</string>
+    <string name="activating_unknown_carrier_service_title">Aktiverer …</string>
+    <string name="activation_failed_message">"Du kan
+"<ul><li>prøve å koble til mobildata igjen</li>"
+"<li>bruke et annet nettverk for konfigurering</li></ul>"
+
+Hvis disse alternativene ikke fungerer, kan du også starte {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} på nytt og prøve igjen."</string>
+    <string name="activation_failed_title">Kan ikke koble til mobildata</string>
+    <string name="activation_progress_flow">"Tar det for lang tid?
+
+Det tar litt tid å koble til mobildata. Du kan gå tilbake og prøve å koble til et annet nettverk i stedet."</string>
+    <string name="activation_title">Kobler til mobiltjeneste …</string>
+    <string name="activation_unprovisioned_sim_message">Start {DEVICE_TYPE,select, PHONE{telefonen din}TABLET{nettbrettet ditt}other{enheten din}} på nytt og prøv igjen, eller koble til Wi-Fi for konfigurering. Ta kontakt med operatøren din hvis du fremdeles har problemer med å aktivere mobildata.</string>
+    <string name="activation_unprovisioned_title">Kunne ikke aktivere mobildata</string>
+    <string name="android_privacy_policy_title">Tilleggspolicy for personvern</string>
+    <string name="available_via_carrier">Tilgjengelig via %1$s</string>
+    <string name="cancel_button_label">Avbryt</string>
+    <string name="captive_portal_connection_unsuccessful">Kunne ikke koble til Internett</string>
+    <string name="captive_portal_description_text">Dette kan ta noen minutter</string>
+    <string name="captive_portal_ssl_error_text">Denne tilkoblingen bruker et usikkert eller ugyldig sertifikat. Velg et annet nettverk og prøv på nytt.</string>
+    <string name="captive_portal_title">Kobler til …</string>
+    <string name="chrome_privacy_title">Merknad om personvern for Chrome</string>
+    <string name="chrome_tos_title">Vilkår for Chrome</string>
+    <string name="close_button_label">Lukk</string>
+    <string name="common_google_play_services_enable_button">Slå på</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="connect_to_wifi_btn_text">Innstillinger for Wi-Fi</string>
+    <string name="connect_to_wifi_message">Koble til Wi-Fi for å fortsette</string>
+    <string name="connect_to_wifi_title">Appoppdateringer er klare</string>
+    <string name="connected_via_app">Tilkoblet via %1$s</string>
+    <string name="connected_via_carrier">Tilkoblet via %1$s</string>
+    <string name="connected_via_network_scorer_default">Automatisk tilkoblet via leverandør av nettverksvurdering</string>
+    <string name="consolidate_captive_portal_description_text">Dette kan ta noen minutter</string>
+    <string name="consolidate_captive_portal_title">Ser etter oppdateringer …</string>
+    <string name="continue_for_a11y">Trykk og hold inne på skjermen til du hører en pipelyd for å aktivere Tilgjengelighetsmodusen.</string>
+    <string name="date_time_current_date">Dato</string>
+    <string name="date_time_current_time">Tid</string>
+    <string name="date_time_message">Juster hvis nødvendig.</string>
+    <string name="date_time_setup_title">Dato og klokkeslett</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Fortsett</string>
+    <string name="decision_point_google_assistant">Google Assistent</string>
+    <string name="decision_point_illustration_description">Ytterligere trinn inkluderer Google Assistent, Google Pay, Spilles nå, skriftstørrelse, bakgrunner og mye mer</string>
+    <string name="decision_point_leave_setup">Avslutt og få påminnelse</string>
+    <string name="decision_point_now_playing">Spilles nå</string>
+    <string name="default_device_name_device">enheten</string>
+    <string name="default_device_name_phone">telefonen</string>
+    <string name="default_device_name_tablet">nettbrettet</string>
+    <string name="deferred_notification_prompt_title">Fullfør konfigureringen av ^1</string>
+    <string name="deferred_setup_button_label">Fullfør konfigureringen</string>
+    <string name="deferred_setup_wizard_reason_assistant">snakk med assistenten din</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">snakk med Google-assistenten din</string>
+    <string name="deferred_setup_wizard_reason_default">Bare noen trinn til</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopiere dataene dine</string>
+    <string name="deferred_setup_wizard_reason_google_pay">bruk Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">betal raskere med Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 med mer</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 med mer</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">^1-enheten din er klar til bruk etter bare noen få raske trinn</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">angi bakgrunn</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">velg bakgrunnen din</string>
+    <string name="deferred_setup_wizard_title">Fullfør konfigureringen av enheten din</string>
+    <string name="deferred_snooze_dialog_option_never">Aldri</string>
+    <string name="deferred_snooze_dialog_option_today">Senere i dag</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">I morgen</string>
+    <string name="deferred_snooze_dialog_title">Minn meg på det senere</string>
+    <string name="deferred_welcome_airplane_mode_message">"Du må være tilkoblet for å fullføre de siste konfigurasjonstrinnene.
+
+Når flymodus er på, er Wi-Fi, mobilnettverk og Bluetooth frakoblet."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Konfigurer senere</string>
+    <string name="deferred_welcome_airplane_mode_title">Vil du slå av flymodus?</string>
+    <string name="deferred_welcome_screen_cancel_button">Påminn meg senere</string>
+    <string name="deferred_welcome_title">Fullfør konfigureringen av ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Slå av</string>
+    <string name="device_owner_continue">Fortsett konfigureringen</string>
+    <string name="device_owner_reset">Tilbakestill {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}</string>
+    <string name="device_owner_warning">{0} administrerer {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} og har tilgang til informasjonen din. Hvis du ikke vil at {0} skal ha tilgang, må du tilbakestille {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Telefonen}TABLET{Nettbrettet}other{Enheten}} kan overvåkes</string>
+    <string name="dialog_back_button_label">Tilbake</string>
+    <string name="dialog_continue_button_label">Fortsett</string>
+    <string name="early_update_installing_updates_text">Installerer oppdateringer</string>
+    <string name="early_update_text">Dette kan ta noen minutter</string>
+    <string name="early_update_timeout_text">Tar det for lang tid? Prøv å gå tilbake og koble til et annet nettverk.</string>
+    <string name="early_update_title">Ser etter oppdateringer …</string>
+    <string name="emergency_dial">Nødanrop</string>
+    <string name="enabled_a11y">Tilgjengelighetsmodus er aktivert.</string>
+    <string name="esim_option_button_summary">Legg til et nummer med e-SIM-kort</string>
+    <string name="esim_option_button_title">Last ned SIM-kort i stedet?</string>
+    <string name="esim_warning_title">Last ned SIM-kortet ditt</string>
+    <string name="esim_warning_txt">Hvis du abonnerer på %1$s, får du anrop, tekstmeldinger og mobildata ved å laste ned et e-SIM-kort i stedet for å sette inn et SIM-kort.</string>
+    <string name="esim_warning_txt_default">Koble til mobilnettverket ditt ved å laste ned informasjonen som vanligvis er på et SIM-kort. Dette erstatter det vanlige SIM-kortet og er like sikkert.</string>
+    <string name="exit_loading_launcher">Laster inn appoversikten …</string>
+    <string name="factory_reset_button">Slett og tilbakestill</string>
+    <string name="factory_reset_confirmation">Vil du slette alle kontoer og data på {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}? Du kan ikke angre denne handlingen!</string>
+    <string name="factory_reset_confirmation_title">Vil du tilbakestille?</string>
+    <string name="factory_reset_instructions">Advarsel: Hvis du tilbakestiller {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}, blir alle kontoer og data i internminnet slettet.</string>
+    <string name="factory_reset_title">Tilbakestill {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}</string>
+    <string name="final_hold_description_text">Dette kan ta noen minutter</string>
+    <string name="final_hold_title">Vi er nesten i mål …</string>
+    <string name="final_hold_title_setup_work_account">Forbereder telefonen til jobbkonfig. …</string>
+    <string name="gms_account_checkin_title">Henter kontoinformasjon …</string>
+    <string name="gms_checkin_description_text">Dette kan ta noen minutter</string>
+    <string name="gms_checkin_description_text_timeout">Tar det for lang tid? Prøv å gå tilbake og koble til et annet nettverk.</string>
+    <string name="gms_checkin_title">Ser etter oppdateringer …</string>
+    <string name="go_back_button_label">Gå tilbake</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Vilkår for Google Play</string>
+    <string name="google_plus_privacy_policy_title">Personvern for Google Pluss</string>
+    <string name="google_privacy_policy_title">Personvernpolicy for Google</string>
+    <string name="google_provisioning_disclaimer_content">Googles vilkår for bruk og personvernregler gjelder. Du finner mer informasjon på &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Vilkår for Google-tjenester</string>
+    <string name="invalid_phone_number">Ukjent telefonnummer</string>
+    <string name="invalid_qr_code_content">Be om å få riktig kode fra IT-administratoren din</string>
+    <string name="invalid_qr_code_retry">Prøv på nytt</string>
+    <string name="invalid_qr_code_title">Feil QR-kode</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes er varemerker som tilhører Apple Inc., registrert i USA og andre land.</string>
+    <string name="language_picker_section_all">Alle språk</string>
+    <string name="language_picker_section_suggested">Foreslått</string>
+    <string name="migrate_from_ios_description">Følg denne fremgangsmåten:</string>
+    <string name="migrate_from_ios_header">Kopiér dataene dine</string>
+    <string name="migrate_from_ios_instructions_1">1. Åpne Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Gå til <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Følg veiledningen</string>
+    <string name="network_description_text">Velg et nettverk</string>
+    <string name="network_description_text_esim">For å laste ned SIM-kortet ditt, koble til Wi-Fi</string>
+    <string name="network_see_all_wifi">Se alle Wi-Fi-nettverk</string>
+    <string name="network_timeout_description_text">Prøv igjen med et annet nettverk. Hvis du fortsetter uten tilkobling, kan du fullføre noen konfigureringstrinn senere.</string>
+    <string name="network_timeout_title">Kunne ikke koble til</string>
+    <string name="network_timeout_try_another_network_button">Prøv et annet nettverk</string>
+    <string name="network_title">Koble til Wi-Fi</string>
+    <string name="network_use_cellular">Bruk mobilnettverk for konfigureringen</string>
+    <string name="network_use_cellular_carrier">Koble til Wi-Fi senere</string>
+    <string name="network_wifi_continue_button">Fortsett</string>
+    <string name="not_set">Ikke angitt</string>
+    <string name="notification_channel_name_deferred">Ytterligere konfigurasjon</string>
+    <string name="notification_channel_name_initial">Konfigurer</string>
+    <string name="notification_channel_name_restore">Datagjenoppretting</string>
+    <string name="notification_channel_security_name_warnings">Sikkerhetsadvarsler</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Ved å fortsette å motta denne programvareoppdateringen, godtar du <annotation link="tos">Googles vilkår for bruk</annotation> og <annotation link="google_privacy">personvernregler</annotation>.</string>
+    <string name="ota_info">Du må laste ned en oppdatering for {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} og starte enheten på nytt.</string>
+    <string name="ota_size">Størrelse: %s</string>
+    <string name="ota_update_title">Oppdater {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}</string>
+    <string name="predeferred_prepare_setup">Forbereder konfigurering …</string>
+    <string name="predeferred_prepare_setup_details">Du kan fullføre konfigureringen av ^1 snart</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Koble til Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Koble til Wi-Fi for å fortsette</string>
+    <string name="predeferred_wifi_required_notification_title">Appoppdateringer er klare</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Skanner etter QR-kode</string>
+    <string name="region_picker_section_all">Alle områder</string>
+    <string name="restart_setup_wizard_button_label">Konfigurer {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}</string>
+    <string name="restart_setup_wizard_dialog_text">"For å bruke {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} må du først logge på en eiers Google-konto som var i bruk på {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} på tidspunktet for forrige tilbakestilling.
+
+Siden du ikke har gjort dette, må du konfigurere {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} på nytt."</string>
+    <string name="restart_setup_wizard_dialog_title">Ikke pålogget</string>
+    <string name="restore_failed_message">Kan ikke gjenopprette sikkerhetskopien</string>
+    <string name="restore_no_backup_message">Du har ingen sikkerhetskopier tilgjengelig på enheten</string>
+    <string name="restore_no_backup_title">Kan ikke gjenopprette</string>
+    <string name="restore_stopped_message">Kunne ikke fullføre gjenoppretting av sikkerhetskopien</string>
+    <string name="restore_title">Gjenoppretter …</string>
+    <string name="setup_ongoing_notification_text">Trykk for å fullføre konfigureringen av ^1</string>
+    <string name="setup_ongoing_notification_title">Konfigurering av ^1 pågår</string>
+    <string name="setup_wizard_title">Android-konfigurering</string>
+    <string name="sim_locked_text">"Denne telefonen er for øyeblikket låst til en annen operatør. Du må bruke et gyldig SIM-kort.
+
+Når du har satt inn SIM-kortet, kan det ta noen sekunder å aktivere det."</string>
+    <string name="sim_locked_title">SIM-kortet støttes ikke</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Hvis du har et SIM-kort, må du sette det inn nå}other{Hvis du har SIM-kort, må du sette dem inn nå}}</string>
+    <string name="sim_missing_title">Koble til mobilnettverk</string>
+    <string name="sim_ready_message">%1$s skal være klart til bruk</string>
+    <string name="sim_ready_message_carrier_app">For å fullføre aktiveringen av %1$s må du laste ned %2$s-appen. Inntil videre kan vi fullføre konfigureringen av telefonen din.</string>
+    <string name="sim_ready_message_invalid_phone_number">Nummeret ditt skal være klart til bruk</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">For å fullføre aktiveringen av nummeret ditt må du laste ned %1$s-appen. Inntil videre kan vi fullføre konfigureringen av telefonen din.</string>
+    <string name="sim_ready_title">%1$s er aktiv</string>
+    <string name="sim_ready_title_carrier_app">Koble til %1$s senere</string>
+    <string name="sim_setup_ask_every_time">Spør hver gang</string>
+    <string name="sim_setup_select_data">Preferanser for mobildata</string>
+    <string name="sim_setup_select_data_description">Velg et nummer for å bruke mobildata</string>
+    <string name="sim_setup_select_text">SMS-preferanse</string>
+    <string name="sim_setup_select_text_description">Velg et nummer for utgående tekstmeldinger (alle aktive numre kan motta innkommende tekstmeldinger)</string>
+    <string name="sim_setup_select_voice">Anropspreferanse</string>
+    <string name="sim_setup_select_voice_description">Velg et nummer for utgående anrop (alle aktive numre kan motta innkommende anrop)</string>
+    <string name="sim_setup_title">Konfigurer SIM-kortene</string>
+    <string name="skip_anyway_button_label">Hopp over</string>
+    <string name="skip_button_label">Hopp over</string>
+    <string name="skip_toast">Konfigurasjonsveiviseren ble hoppet over</string>
+    <string name="slots_selection_item_summary_activating">Aktiverer …</string>
+    <string name="slots_selection_item_summary_error">Kunne ikke aktiveres nå</string>
+    <string name="slots_selection_title">Velg nummeret du vil bruke</string>
+    <string name="speed_label_fast">Rask</string>
+    <string name="speed_label_okay">Ok</string>
+    <string name="speed_label_slow">Treg</string>
+    <string name="speed_label_very_fast">Veldig rask</string>
+    <string name="sud_back_button_label">Tilbake</string>
+    <string name="sud_more_button_label">Mer</string>
+    <string name="sud_next_button_label">Neste</string>
+    <string name="suggested_actions_description">Konfigurer noen flere ting nå, eller finn dem senere i Innstillinger</string>
+    <string name="suggested_actions_description_single_item">Her er en ting til du kan konfigurere på ^1-enheten din. Du kan også finne den senere i Innstillinger.</string>
+    <string name="suggested_actions_done_label">Ferdig inntil videre</string>
+    <string name="suggested_actions_no_thanks_label">Nei takk</string>
+    <string name="suggested_actions_title">Er det noe annet?</string>
+    <string name="switch_camera">Bytt kamera</string>
+    <string name="switch_to_back_camera_button_content_description">Bakre kamera</string>
+    <string name="switch_to_front_camera_button_content_description">Frontkamera</string>
+    <string name="switched_to_back_camera_announcement">Nå er knappen frontkameraet</string>
+    <string name="switched_to_front_camera_announcement">Nå er knappen det bakre kameraet</string>
+    <string name="tap_to_sign_up">Trykk for å registrere deg</string>
+    <string name="terminate_toast">"Konfigurasjonsveiviseren ble avsluttet
+Enheten er ikke tilordnet"</string>
+    <string name="try_again_button_label">Prøv igjen</string>
+    <string name="url_load_unsuccessful_message">{DEVICE_TYPE,select, PHONE{Telefonen din}TABLET{Nettbrettet ditt}other{Enheten din}} er ikke koblet til noen mobildatatjeneste. For å se denne informasjonen nå, gå til {0} i en nettleser.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefonen din}TABLET{Nettbrettet ditt}other{Enheten din}} er ikke koblet til et Wi-Fi-nettverk. For å se denne informasjonen nå, gå til {0} i en nettleser.</string>
+    <string name="user_warning_cannot_switch_message">Kan ikke bytte tilbake til eierprofilen. Prøv igjen senere.</string>
+    <string name="user_warning_label_continue">Fortsett</string>
+    <string name="user_warning_label_quit">Avbryt</string>
+    <string name="user_warning_quit_dialog_button_keep">Behold brukeren</string>
+    <string name="user_warning_quit_dialog_button_remove">Slett brukeren</string>
+    <string name="user_warning_quit_dialog_message">Vil du slette brukeren?</string>
+    <string name="user_warning_title">Konfigurer nye brukere</string>
+    <string name="wait_msg">Vent litt.</string>
+    <string name="web_dialog_unable_to_view">For å se denne informasjonen nå, gå til ^1 i en nettleser.</string>
+    <string name="welcome_accessibility_button">Synsinnstillinger</string>
+    <string name="welcome_language_picker_content_description">Språk: %s</string>
+    <string name="welcome_language_picker_dialog_title">Velg språk</string>
+    <string name="welcome_message">Hei</string>
+    <string name="welcome_secondary_user_added_text">Du er lagt til på {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Viktig:</b>"
+
+"<ul><li>Eieren av {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} kan avinstallere appene dine eller fjerne brukerprofilen din helt</li>"
+
+"<li>Alle andre brukere kan godta oppdaterte apptillatelser</li>"
+
+"<li>Du bør bare dele {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}} med folk du stoler på</li></ul></string>
+    <string name="welcome_start_button_label">Start</string>
+    <string name="wifi_add_new_network">Legg til et nytt nettverk</string>
+    <string name="wifi_and_mobile_skipped_message">"Når du kobler til et Wi-Fi- eller mobilnettverk, går det raskt å konfigurere {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}.
+
+Hvis du ikke gjør det, kan du ikke
+
+"<ul><li>logge på Google-kontoen din</li>"
+
+"<li>gjenopprette apper og data</li>"
+
+"<li>få programvareoppdateringer</li>"
+
+"<li>konfigurere klokkeslett og dato automatisk</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Når du kobler til et Wi-Fi- eller mobilnettverk, går det raskt å konfigurere {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}.
+
+Hvis du ikke gjør det, kan du ikke
+
+"<ul><li>logge på Google-kontoen din</li>"
+
+"<li>gjenopprette apper og data</li>"
+
+"<li>laste ned et SIM-kort</li>"
+
+"<li>få programvareoppdateringer</li>"
+
+"<li>konfigurere klokkeslett og dato automatisk</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Tilgangspunktet er midlertidig fullt</string>
+    <string name="wifi_check_password_try_again">Sjekk passordet og prøv igjen</string>
+    <string name="wifi_connected_no_internet">Tilkoblet – ingen Internett-tilgang</string>
+    <string name="wifi_disabled_by_recommendation_provider">Ikke tilkoblet på grunn av nettverk av lav kvalitet</string>
+    <string name="wifi_disabled_generic">Slått av</string>
+    <string name="wifi_disabled_network_failure">IP-konfigurasjonsfeil</string>
+    <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
+    <string name="wifi_fail_to_scan">Kan ikke søke etter nettverk</string>
+    <string name="wifi_ip_address_not_available">Ikke tilgjengelig</string>
+    <string name="wifi_ip_address_title">IP-adresse</string>
+    <string name="wifi_limited_connection">Begrenset tilkobling</string>
+    <string name="wifi_mac_address_not_available">Ikke tilgjengelig</string>
+    <string name="wifi_mac_address_title">MAC-adresse</string>
+    <string name="wifi_metered_label">Med datamåling</string>
+    <string name="wifi_no_internet">Ingen Internett-tilgang</string>
+    <string name="wifi_no_internet_no_reconnect">Kobler ikke til automatisk</string>
+    <string name="wifi_not_in_range">Utenfor område</string>
+    <string name="wifi_remembered">Lagret</string>
+    <string name="wifi_scanning">Søker etter Wi-Fi-nettverk …</string>
+    <string name="wifi_set_up_offline_title">Vil du konfigurere uten nett?</string>
+    <string name="wifi_skip_button_label">Konfigurer uten nett</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefonen din}TABLET{Nettbrettet ditt}other{Enheten din}} bruker mobilnettverket i løpet av konfigureringsprosessen, og du kan bli belastet for denne databruken. For å unngå slike kostnader, koble til Wi-Fi.</string>
+    <string name="wifi_skipped_title">Mulige databelastninger</string>
+    <string name="wifi_title">Koble til Wi-Fi</string>
+    <string name="wifi_unmetered_label">Uten datamåling</string>
+    <string name="work_profile_setup_description">For å konfigurere denne enheten for jobb og skille jobbdata fra personlige data</string>
+    <string name="work_profile_setup_next">Neste</string>
+    <string name="work_profile_setup_skip">Hopp over jobbkonfigurering</string>
+    <string name="work_profile_setup_title">Legg til jobbkontoen din</string>
+    <string name="work_setup_interrupted">"Vi merket uvanlig aktivitet på {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}, og dataene dine kan være i fare hvis du fortsetter konfigureringen.
+
+For å starte på nytt, tilbakestill {DEVICE_TYPE,select, PHONE{telefonen}TABLET{nettbrettet}other{enheten}}."</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{Telefonen}TABLET{Nettbrettet}other{Enheten}} kan være i fare</string>
+</resources>

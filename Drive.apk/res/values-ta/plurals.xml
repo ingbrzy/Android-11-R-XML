@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$d விருப்பங்களைக் காட்டுகிறது.</item>
+        <item quantity="one">%1$d விருப்பத்தைக் காட்டுகிறது.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d கருத்துகள்</item>
+        <item quantity="one">%1$d கருத்து</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">பணிகள்: %1$d ஃபாலோ அப்கள்</item>
+        <item quantity="one">பணிகள்: %1$d ஃபாலோ அப்</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">உருப்படிகள் நிரந்தரமாக நீக்கப்பட்டன</item>
+        <item quantity="one">உருப்படி நிரந்தரமாக நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s என்பவை சரியான மின்னஞ்சல் முகவரிகள் அல்ல.</item>
+        <item quantity="one">%s என்பது சரியான மின்னஞ்சல் முகவரி அல்ல.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">இந்தக் கோப்புகளைச் சேர்ப்பதால், %1$s என்ற பகிரப்பட்ட கோப்புறையை அணுகக்கூடிய அனைவருக்கும் அவை பகிரப்படும்</item>
+        <item quantity="one">இந்தக் கோப்பைச் சேர்ப்பதால், %1$s என்ற பகிரப்பட்ட கோப்புறைகளை அணுகக்கூடிய அனைவருக்கும் அது பகிரப்படும்</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">இந்தக் கோப்புகறைகளைச் சேர்ப்பதால், %1$s என்ற பகிரப்பட்ட கோப்புறையை அணுகக்கூடிய அனைவருடனும் அவை பகிரப்படும்</item>
+        <item quantity="one">இந்தக் கோப்புறையைச் சேர்ப்பதால், %1$s என்ற பகிரப்பட்ட கோப்புறையை அணுகக்கூடிய அனைவருடனும் அது பகிரப்படும்</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">இந்தக் கோப்புகளைப் பகிரவா?</item>
+        <item quantity="one">இந்தக் கோப்பைப் பகிரவா?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">இந்தக் கோப்புறைகளைப் பகிரவா?</item>
+        <item quantity="one">இந்தக் கோப்புறையைப் பகிரவா?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d கோப்புறைகள் புதுப்பிக்கப்பட்டன. வண்ணம் %2$sக்கு அமைக்கப்பட்டது.</item>
+        <item quantity="one">%1$d கோப்புறை புதுப்பிக்கப்பட்டது. வண்ணம் %2$sக்கு அமைக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">வடிப்பான்களைப் பயன்படுத்து:</item>
+        <item quantity="one">வடிப்பானைப் பயன்படுத்து:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d நாட்களில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d நாளில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">சாதனம் தொடர்ந்து செயலற்ற நிலையில் இருந்தால், இந்தக் காப்புப் பிரதி %1$d நாட்களில் காலாவதியாகும்.</item>
+        <item quantity="one">சாதனம் தொடர்ந்து செயலற்ற நிலையில் இருந்தால், இந்தக் காப்புப் பிரதி %1$d நாளில் காலாவதியாகும்.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">காப்புப் பிரதிகள் நீக்கப்பட்டன.</item>
+        <item quantity="one">காப்புப் பிரதி நீக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d நெடுவரிசைகள்.</item>
+        <item quantity="one">%1$d நெடுவரிசை.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">நிலையாக்கிய %1$d நெடுவரிசைகள்.</item>
+        <item quantity="one">நிலையாக்கிய %1$d நெடுவரிசை.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d நிலையாக்கிய வரிசைகள்.</item>
+        <item quantity="one">%1$d நிலையாக்கிய வரிசை.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d வரிசைகள்.</item>
+        <item quantity="one">%1$d வரிசை.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%2$d ஆவணங்கள், %1$s</item>
+        <item quantity="one">%2$d ஆவணம், %1$s</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s பதில்கள்</item>
+        <item quantity="one">%1$s பதில்</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">கோப்புகளைப் பதிவிறக்க முடியவில்லை</item>
+        <item quantity="one">கோப்பைப் பதிவிறக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d கோப்புகள் பதிவிறக்கப்பட்டன. விவரங்களுக்கு, அறிவிப்பைப் பார்க்கவும்</item>
+        <item quantity="one">%1$d கோப்பு பதிவிறக்கப்பட்டது. விவரங்களுக்கு, அறிவிப்பைப் பார்க்கவும்</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d கோப்புகள் பதிவிறக்கப்படும்.</item>
+        <item quantity="one">%1$d கோப்பு பதிவிறக்கப்படும்.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s மற்றும் %2$d பதிவிறக்கங்கள்</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s உருப்படிகளைப் பதிவிறக்க முடியவில்லை</item>
+        <item quantity="one">%1$s ஆவணத்தைப் பதிவிறக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">மேலும் %1$d ஆவணங்கள்</item>
+        <item quantity="one">மேலும் %1$d ஆவணம்</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%2$d இல் %1$dஐப் பதிவிறக்க முடியவில்லை</item>
+        <item quantity="one">%2$d இல் %1$dஐப் பதிவிறக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">கோப்புகளை நகர்த்துவதில் பிழை.</item>
+        <item quantity="one">கோப்பை நகர்த்துவதில் பிழை.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d விருந்தினர்கள்</item>
+        <item quantity="one">%d விருந்தினர்</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">\"%1$s\"ல் %2$d ஷார்ட்கட்கள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">\"%1$s\"ல் ஷார்ட்கட் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">ஷார்ட்கட்களை சேர்க்க முடியவில்லை. மீண்டும் முயலவும்</item>
+        <item quantity="one">ஷார்ட்கட்டைச் சேர்க்க முடியவில்லை. மீண்டும் முயலவும்</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">\"%1$s\" இன் உறுப்பினர்களுடன் இவற்றைப் பகிரவில்லை எனில், அவர்கள் இவற்றுக்கான அணுகலை இழப்பார்கள். \"%2$s\" இன் உறுப்பினர்கள் இந்த உருப்படிகளுக்கான அணுகலைப் பெறுவார்கள்.</item>
+        <item quantity="one">\"%1$s\" இன் உறுப்பினர்களுடன் இதைப் பகிரவில்லை எனில், அவர்கள் இதற்கான அணுகலை இழப்பார்கள். \"%2$s\" இன் உறுப்பினர்கள் இந்த உருப்படிக்கான அணுகலைப் பெறுவார்கள்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">\"%1$s\" இன் உறுப்பினர்களுடன் இவற்றைப் பகிரவில்லை எனில், அவர்கள் இவற்றுக்கான அணுகலை இழப்பார்கள். \"%2$s\" இன் உறுப்பினர்கள் இந்த உருப்படிகளுக்கான அணுகலைப் பெறுவார்கள். \"%3$s\" இல் உருப்படிகளைச் சேர்க்கவும் திருத்தவும் மட்டுமே உங்களுக்கு அனுமதி உள்ளதால், இதைச் செயல்தவிர்க்க முடியாது.</item>
+        <item quantity="one">\"%1$s\" இன் உறுப்பினர்களுடன் இதைப் பகிரவில்லை எனில், அவர்கள் இதற்கான அணுகலை இழப்பார்கள். \"%2$s\" இன் உறுப்பினர்கள் இந்த உருப்படிக்கான அணுகலைப் பெறுவார்கள். \"%3$s\" இல் உருப்படிகளைச் சேர்க்கவும் திருத்தவும் மட்டுமே உங்களுக்கு அனுமதி உள்ளதால், இதைச் செயல்தவிர்க்க முடியாது.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">\"%1$s\"க்கு நகர்த்தப்படும் சில கோப்புகளில் DLP கண்டறிதல் இயக்கப்பட்டுள்ளது. இந்தக் கோப்புகளில் முக்கியத் தகவல் இருக்கக்கூடும்.</item>
+        <item quantity="one">\"%1$s\"க்கு நகர்த்தப்படும் கோப்பில் DLP கண்டறிதல் இயக்கப்பட்டுள்ளது. இந்தக் கோப்பில் முக்கியத் தகவல் இருக்கக்கூடும்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">\"%1$s\" இன் உறுப்பினர்களுடன் இவற்றைப் பகிரவில்லை எனில், அவர்கள் இவற்றுக்கான அணுகலை இழப்பார்கள்.</item>
+        <item quantity="one">\"%1$s\" இன் உறுப்பினர்களுடன் இதைப் பகிரவில்லை எனில், அவர்கள் இதற்கான அணுகலை இழப்பார்கள்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">இந்த உருப்படிகளை நகர்த்தினால், \"%1$s\" எனும் பகிர்ந்த கோப்புறையைப் பார்க்கக்கூடிய அனைவருடனும் அவை பகிரப்படும். \"%2$s\" இன் உறுப்பினர்களுடன் இவற்றைப் பகிரவில்லை எனில், அவர்கள் இவற்றுக்கான அணுகலை இழப்பார்கள்.</item>
+        <item quantity="one">இந்த ஆவணத்தை நகர்த்தினால், \"%1$s\" எனும் பகிர்ந்த கோப்புறையைப் பார்க்கக்கூடிய அனைவருடனும் இது பகிரப்படும். \"%2$s\" இன் உறுப்பினர்களுடன் இதைப் பகிரவில்லை எனில், அவர்கள் இதற்கான அணுகலை இழப்பார்கள்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">பகிர்ந்த கோப்புறைகளிலிருந்து சில உருப்படிகளை நகர்த்துகிறீர்கள். இதனால், பிறர் இவற்றுக்கான அணுகலை இழப்பார்கள்.</item>
+        <item quantity="one">பகிர்ந்த கோப்புறையிலிருந்து ஒரு ஆவணத்தை நகர்த்துகிறீர்கள். இதனால், பிறர் இதற்கான அணுகலை இழப்பார்கள்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">இவற்றிலிருந்து கூடுதல் கட்டுப்பாடுகள் அகற்றப்படும்.</item>
+        <item quantity="one">இதிலிருந்து கூடுதல் கட்டுப்பாடுகள் அகற்றப்படும்.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">இந்தக் கோப்புகளை நகர்த்தினால், %1$s எனும் பகிர்ந்த கோப்புறையை அணுகக்கூடிய அனைவருடனும் இவை பகிரப்படும்</item>
+        <item quantity="one">இந்தக் கோப்பை நகர்த்தினால், %1$s எனும் பகிர்ந்த கோப்புறையை அணுகக்கூடிய அனைவருடனும் இது பகிரப்படும்</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">இந்தக் கோப்புறைகளை நகர்த்தினால், %1$s எனும் பகிர்ந்த கோப்புறையை அணுகக்கூடிய அனைவருடனும் இவை பகிரப்படும்</item>
+        <item quantity="one">இந்தக் கோப்புறையை நகர்த்தினால், %1$s எனும் பகிர்ந்த கோப்புறையை அணுகக்கூடிய அனைவருடனும் இது பகிரப்படும்</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">இந்தக் கோப்புகளைப் பகிரவா?</item>
+        <item quantity="one">இந்தக் கோப்பைப் பகிரவா?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">இந்தக் கோப்புறைகளைப் பகிரவா?</item>
+        <item quantity="one">இந்தக் கோப்புறையைப் பகிரவா?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">உங்களுக்கு இந்தக் கோப்புகளை அதன் பகிர்ந்த இயக்ககத்தில் இருந்து நகர்த்துவதற்கான அனுமதி இல்லை.</item>
+        <item quantity="one">உங்களுக்கு இந்தக் கோப்பை அதன் பகிர்ந்த இயக்ககத்தில் இருந்து நகர்த்துவதற்கான அனுமதி இல்லை.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">சில உருப்படிகளை அவற்றின் கோப்புறையிலிருந்து நகர்த்த உங்களுக்கு அனுமதியில்லை.</item>
+        <item quantity="one">இந்த ஆவணத்தை அதன் கோப்புறையிலிருந்து நகர்த்த உங்களுக்கு அனுமதியில்லை.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">கோப்பின் உரிமையாளர் %1$s இல் இல்லாததால், இந்தக் கோப்புகளை உங்களால் நகர்த்த முடியாது.</item>
+        <item quantity="one">கோப்பின் உரிமையாளர் %1$s இல் இல்லாததால், இந்தக் கோப்பை உங்களால் நகர்த்த முடியாது.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s இப்போது \"%2$s\" இவற்றை அணுக முடியும்.</item>
+        <item quantity="one">%1$s இப்போது \"%2$s\" இதை அணுக முடியும்.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d கோப்புகள் நகர்த்தப்பட்டன. இப்போது உறுப்பினர்கள் அவற்றை அணுகலாம்.</item>
+        <item quantity="one">ஒரு கோப்பு நகர்த்தப்பட்டது இப்போது உறுப்பினர்கள் அதை அணுகலாம்.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d கோப்புகள் நகர்த்தப்பட்டன. உறுப்பினர்கள் அணுகலை இழந்தனர்.</item>
+        <item quantity="one">%1$d கோப்பு நகர்த்தப்பட்டது. உறுப்பினர்கள் அணுகலை இழந்தனர்.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d ஆவணங்கள்</item>
+        <item quantity="one">%1$d ஆவணம்</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d அனுமதியளிப்பவர்கள்</item>
+        <item quantity="one">1 அனுமதியளிப்பவர்</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s பணிகள்</item>
+        <item quantity="one">%1$s பணி</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">பதிலளிக்கப்படாத %1$s குறிப்பிடல்கள்</item>
+        <item quantity="one">பதிலளிக்கப்படாத %1$s குறிப்பிடல்</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s பரிந்துரைகள்</item>
+        <item quantity="one">%1$s பரிந்துரை</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">செய்ய வேண்டியவை: %1$s</item>
+        <item quantity="one">செய்ய வேண்டியது: %1$s</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">ஆவணம்கள் நிரந்தரமாக நீக்கப்பட்டன</item>
+        <item quantity="one">ஆவணம் நிரந்தரமாக நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">இப்போது %2$s இல் %1$d ஆஃப்லைனில் கிடைக்கின்றன.</item>
+        <item quantity="one">இப்போது %2$s இல் %1$d ஆஃப்லைனில் கிடைக்கிறது.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">இப்போது எல்லா %1$d கோப்புகளும் ஆஃப்லைனில் கிடைக்கின்றன.</item>
+        <item quantity="one">இப்போது %1$d கோப்பு ஆஃப்லைனில் கிடைக்கிறது.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">ஆஃப்லைனில் பயன்படுத்த, கோப்புகளைப் பதிவிறக்க முடியவில்லை</item>
+        <item quantity="one">ஆஃப்லைனில் பயன்படுத்த, கோப்பைப் பதிவிறக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">ஆஃப்லைனில் பயன்படுத்த, %1$d கோப்புகளைப் பதிவிறக்குகிறது.</item>
+        <item quantity="one">ஆஃப்லைனில் பயன்படுத்த, %1$d கோப்பைப் பதிவிறக்குகிறது.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d கோப்புகள்</item>
+        <item quantity="one">%1$d கோப்பு</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">பதிவிறக்கங்கள் இடைநிறுத்தப்பட்டன, நெட்வொர்க்குக்காகக் காத்திருக்கின்றன…</item>
+        <item quantity="one">பதிவிறக்கம் இடைநிறுத்தப்பட்டது, நெட்வொர்க்குக்காக காத்திருக்கிறது…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d பதிவிறக்கங்கள் இடைநிறுத்தப்பட்டன.</item>
+        <item quantity="one">%1$d பதிவிறக்கம் இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">பதிவிறக்கங்கள் இடைநிறுத்தப்பட்டன. வைஃபைக்காகக் காத்திருக்கின்றன…</item>
+        <item quantity="one">பதிவிறக்கம் இடைநிறுத்தப்பட்டது. வைஃபைக்காகக் காத்திருக்கிறது…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் குப்பைக்கு நகர்த்தப்படும். இவை Google புகைப்படங்களிலிருந்தும் அகற்றப்படும்.</item>
+        <item quantity="one">ஒரு கோப்பு/கோப்புறை குப்பைக்கு நகர்த்தப்படும். இது Google புகைப்படங்களிலிருந்தும் அகற்றப்படும்.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">"'நீக்கியவை' எனும் கோப்புறைக்கு %1$d கோப்புகள் நகர்த்தப்படும்."</item>
+        <item quantity="one">"'நீக்கியவை' எனும் கோப்புறைக்கு ஒரு கோப்பு நகர்த்தப்படும்."</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s ஃபாலோ அப் ஆவணங்கள்</item>
+        <item quantity="one">%1$s ஃபாலோ அப் ஆவணம்</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s ஃபாலோ அப் ஆவணங்கள்</item>
+        <item quantity="one">%1$s ஃபாலோ அப் ஆவணம்</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">ஃபாலோ அப்</item>
+        <item quantity="one">ஃபாலோ அப்</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">%1$d கோப்புகளில் கருத்துத் தெரிவித்துள்ளனர்</item>
+        <item quantity="one">கோப்பில் கருத்துத் தெரிவித்துள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">%1$d கோப்புகளில் கருத்துத் தெரிவித்துள்ளார்</item>
+        <item quantity="one">கோப்பில் கருத்துத் தெரிவித்துள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">இந்தக் கோப்பில் கருத்துத் தெரிவித்துள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பில் கருத்துத் தெரிவித்துள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை உருவாக்கியுள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையை உருவாக்கியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை உருவாக்கியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையை உருவாக்கியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">இந்தக் கோப்பு உருவாக்கப்பட்டுள்ளது</item>
+        <item quantity="one">இந்தக் கோப்பு உருவாக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">இந்தக் கோப்புறை உருவாக்கப்பட்டுள்ளது</item>
+        <item quantity="one">இந்தக் கோப்புறை உருவாக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d கோப்புகளைத் திருத்தியுள்ளனர்</item>
+        <item quantity="one">கோப்பைத் திருத்தியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d கோப்புகளைத் திருத்தியுள்ளார்</item>
+        <item quantity="one">கோப்பைத் திருத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">இந்தக் கோப்பைத் திருத்தியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பைத் திருத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை நிரந்தரமாக நீக்கியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையை நிரந்தரமாக நீக்கியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை இதற்கு நகர்த்தியுள்ளனர்:</item>
+        <item quantity="one">கோப்பு/கோப்புறையை இதற்கு நகர்த்தியுள்ளனர்:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை இதற்கு நகர்த்தியுள்ளார்:</item>
+        <item quantity="one">கோப்பு/கோப்புறையை இதற்கு நகர்த்தியுள்ளார்:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை நகர்த்தியுள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையை நகர்த்தியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை நகர்த்தியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையை நகர்த்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">இந்தக் கோப்பை நகர்த்தியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பை நகர்த்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">இந்தக் கோப்பை இதற்கு நகர்த்தியுள்ளனர்:</item>
+        <item quantity="one">Mஇந்தக் கோப்பை இதற்கு நகர்த்தியுள்ளார்:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">இந்தக் கோப்புறையை நகர்த்தியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்புறையை நகர்த்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">இந்தக் கோப்புறையை இதற்கு நகர்த்தியுள்ளனர்:</item>
+        <item quantity="one">இந்தக் கோப்புறையை இதற்கு நகர்த்தியுள்ளார்:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளின் பெயரை மாற்றியுள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையின் பெயரை மாற்றியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளின் பெயரை மாற்றியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையின் பெயரை மாற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">இந்தக் கோப்பின் பெயரை மாற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பின் பெயரை மாற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">இந்தக் கோப்புறையின் பெயரை மாற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்புறையின் பெயரை மாற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளைப் பகிர்ந்துள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைப் பகிர்ந்துள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளைப் பகிர்ந்துள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைப் பகிர்ந்துள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">இந்தக் கோப்பைப் பகிர்ந்துள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பைப் பகிர்ந்துள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">இந்தக் கோப்புறையைப் பகிர்ந்துள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்புறையைப் பகிர்ந்துள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை குப்பைக்கு நகர்த்தியுள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைக் குப்பைக்கு நகர்த்தியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளை குப்பைக்கு நகர்த்தியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைக் குப்பைக்கு நகர்த்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">இந்தக் கோப்பை அகற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பை அகற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">இந்தக் கோப்புறையை அகற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்புறையை அகற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளைப் பதிவேற்றியுள்ளனர்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைப் பதிவேற்றியுள்ளனர்</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகளைப் பதிவேற்றியுள்ளார்</item>
+        <item quantity="one">கோப்பு/கோப்புறையைப் பதிவேற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">இந்தக் கோப்பைப் பதிவேற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்பைப் பதிவேற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">இந்தக் கோப்புறையைப் பதிவேற்றியுள்ளனர்</item>
+        <item quantity="one">இந்தக் கோப்புறையைப் பதிவேற்றியுள்ளார்</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d கோப்புகள் %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="one">இந்தக் கோப்பு %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d கோப்புறைகள் %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="one">கோப்புறை %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d ஆவணங்கள் %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="one">ஆவணம் %2$s இன் குப்பைக்கு நகர்த்தப்பட்டு, 30 நாட்களுக்குப் பின் நிரந்தரமாக நீக்கப்படும்</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">%1$d கோப்புகள் &lt;b>அனைவருக்கும் நிரந்தரமாக நீக்கப்படும்.&lt;/b> இவற்றை மீண்டும் பெற முடியாது.</item>
+        <item quantity="one">இந்தக் கோப்பு, &lt;b>அனைவருக்கும் நிரந்தரமாக நீக்கப்படும்.&lt;/b> இதை மீண்டும் பெற முடியாது.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">இந்த %1$d கோப்புகளும் நிரந்தரமாக நீக்கப்படும். இவற்றை மீண்டும் பெற முடியாது.</item>
+        <item quantity="one">இந்தக் கோப்பு நிரந்தரமாக நீக்கப்படும். இதை மீண்டும் பெற முடியாது.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d ஆவணங்கள்</item>
+        <item quantity="one">%1$d ஆவணம்</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d ஆவணங்கள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d ஆவணம் தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d ஆவணங்கள் தேர்வுநீக்கப்பட்டன</item>
+        <item quantity="one">%1$d ஆவணம் தேர்வுநீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">கோப்புகள் ஆஃப்லைனில் பயன்படுத்துவதற்குக் கிடைக்கும்</item>
+        <item quantity="one">கோப்பு ஆஃப்லைனில் பயன்படுத்துவதற்குக் கிடைக்கும்</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d ஆவணங்கள் நட்சத்திரமிடப்பட்டன</item>
+        <item quantity="one">1 ஆவணம் நட்சத்திரமிடப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">கோப்புகள் இனி ஆஃப்லைனில் பயன்படுத்துவதற்குக் கிடைக்காது</item>
+        <item quantity="one">கோப்பு இனி ஆஃப்லைனில் பயன்படுத்துவதற்குக் கிடைக்காது</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d கோப்புகளின் நட்சத்திரம் அகற்றப்பட்டது</item>
+        <item quantity="one">1 கோப்பின் நட்சத்திரம் அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d ஆவணங்கள் மீட்டமைக்கப்பட்டன</item>
+        <item quantity="one">1 ஆவணம் மீட்டமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d உள்ளீடுகள் மீட்டமைக்கப்பட்டன</item>
+        <item quantity="one">1 உள்ளீடு மீட்டமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">\"%2$s\" இலிருந்து %1$d கோப்புகள்/கோப்புறைகள் அகற்றப்பட்டன</item>
+        <item quantity="one">\"%2$s\" இலிருந்து 1 கோப்பு/கோப்புறை அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">கோப்புறையிலிருந்து %1$d கோப்புகள்/கோப்புறைகள் அகற்றப்பட்டன</item>
+        <item quantity="one">கோப்புறையிலிருந்து 1 கோப்பு/கோப்புறை அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d ஆவணங்கள் அகற்றப்பட்டன</item>
+        <item quantity="one">1 ஆவணம் அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் மீண்டும் நகர்த்தப்பட்டன</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை மீண்டும் நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d கோப்புகள் மீண்டும் குப்பைக்கு நகர்த்தப்பட்டன</item>
+        <item quantity="one">1 கோப்பு மீண்டும் குப்பைக்கு நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d ஆவணங்கள் அகற்றப்பட்டன</item>
+        <item quantity="one">1 ஆவணம் அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">\"%2$s\" %1$d கோப்புகள்/கோப்புறைகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">\"%2$s\" இல் 1 கோப்பு/கோப்புறை சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் மீட்டமைக்கப்பட்டு, \"%2$s\" இல் சேர்க்கப்பட்டன</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை மீட்டமைக்கப்பட்டு, \"%2$s\" இல் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் \"%2$s\"க்கு நகர்த்தப்பட்டன.</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை \"%2$s\"க்கு நகர்த்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் நகர்த்தப்பட்டன</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d கோப்புகள்/கோப்புறைகள் மீட்டமைக்கப்பட்டு, \"%2$s\"க்கு நகர்த்தப்பட்டன.</item>
+        <item quantity="one">1 கோப்பு/கோப்புறை மீட்டமைக்கப்பட்டு, \"%2$s\"க்கு நகர்த்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d ஆவணங்கள் மீட்டமைக்கப்பட்டன.</item>
+        <item quantity="one">1 ஆவணம் மீட்டமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d ஆவணங்கள் \"%2$s\"க்கு மீட்டமைக்கப்பட்டன.</item>
+        <item quantity="one">1 ஆவணம் \"%2$s\"க்கு மீட்டமைக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">இதன் மூலம் கோப்புகளை அனுப்பு</item>
+        <item quantity="one">இதன் மூலம் கோப்பை அனுப்பு</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">இப்போது %1$d பேர் அணுக முடியும்</item>
+        <item quantity="one">இப்போது ஒருவர் அணுக முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">இப்போது %1$s மற்றும் %2$d பேர் அணுக முடியும்</item>
+        <item quantity="one">இப்போது %1$s மற்றும் ஒருவர் அணுக முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">இப்போது %1$d பேர் கருத்துகளைச் சேர்க்க முடியும்</item>
+        <item quantity="one">இப்போது ஒருவர் கருத்துகளைச் சேர்க்க முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">இப்போது %1$s மற்றும் %2$d பேர் கருத்துகளைச் சேர்க்க முடியும்</item>
+        <item quantity="one">இப்போது %1$s மற்றும் ஒருவர் கருத்துகளைச் சேர்க்க முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">இப்போது %1$d பேர் திருத்த முடியும்</item>
+        <item quantity="one">இப்போது ஒருவர் திருத்த முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">இப்போது %1$s மற்றும் %2$d பேர் திருத்த முடியும்</item>
+        <item quantity="one">இப்போது %1$s மற்றும் ஒருவர் திருத்த முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">இப்போது %1$d பேர் பார்க்க முடியும்</item>
+        <item quantity="one">இப்போது ஒருவர் பார்க்க முடியும்</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">இப்போது %1$s மற்றும் %2$d பேர் பார்க்க முடியும்</item>
+        <item quantity="one">இப்போது %1$s மற்றும் ஒருவர் பார்க்க முடியும்</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">இயக்ககச் சேமிப்பகம் %1$d நாட்களில் காலாவதியாகும்</item>
+        <item quantity="one">இயக்ககச் சேமிப்பகம் %1$d நாளில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d பேர் பகிர்ந்த இயக்ககத்தில் சேர்க்கப்பட்டனர்</item>
+        <item quantity="one">ஒருவர் பகிர்ந்த இயக்ககத்தில் சேர்க்கப்பட்டார்</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%1$s இல் %2$s மற்றும் %3$d பேர் சேர்க்கப்பட்டனர்</item>
+        <item quantity="one">%1$s இல் %2$s மற்றும் ஒருவர் சேர்க்கப்பட்டனர்</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d உறுப்பினர்கள்</item>
+        <item quantity="one">1 உறுப்பினர்</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">இப்போது எல்லாவற்றையும் மீண்டும் தொடங்கு</item>
+        <item quantity="one">இப்போது மீண்டும் தொடங்கு</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$d கோப்புகளின் பதிவேற்றம் ரத்துசெய்யப்பட்டது.</item>
+        <item quantity="one">%1$d கோப்பின் பதிவேற்றம் ரத்துசெய்யப்பட்டது.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">பதிவேற்ற, %1$d கோப்புகளைத் தயார்படுத்த முடியவில்லை.</item>
+        <item quantity="one">பதிவேற்ற, %1$d கோப்பைத் தயார்படுத்த முடியவில்லை.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d கோப்புகள் பதிவேற்றப்பட்டன.</item>
+        <item quantity="one">%1$d கோப்பு பதிவேற்றப்பட்டது.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%2$d இல் %1$d கோப்புகளைப் பதிவேற்ற முடியவில்லை.</item>
+        <item quantity="one">%2$d இல் %1$d கோப்பைப் பதிவேற்ற முடியவில்லை.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d கோப்புகளைப் பதிவேற்றுகிறது.</item>
+        <item quantity="one">%1$d கோப்பைப் பதிவேற்றுகிறது.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">பதிவேற்றங்கள் இடைநிறுத்தப்பட்டன. நெட்வொர்க்குக்காகக் காத்திருக்கின்றன…</item>
+        <item quantity="one">பதிவேற்றம் இடைநிறுத்தப்பட்டது. நெட்வொர்க்குக்காகக் காத்திருக்கிறது…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d பதிவேற்றங்கள் இடைநிறுத்தப்பட்டன.</item>
+        <item quantity="one">%1$d பதிவேற்றம் இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">பதிவேற்றங்கள் இடைநிறுத்தப்பட்டன, வைஃபைக்காகக் காத்திருக்கின்றன…</item>
+        <item quantity="one">பதிவேற்றம் இடைநிறுத்தப்பட்டது, வைஃபைக்காகக் காத்திருக்கிறது…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">பதிவேற்ற, %1$d கோப்புகளைத் தயார்படுத்துகிறது.</item>
+        <item quantity="one">பதிவேற்ற, %1$d கோப்பைத் தயார்படுத்துகிறது.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%2$s இல் %1$d கோப்புகள் பதிவேற்றப்படுகின்றன</item>
+        <item quantity="one">%2$s இல் %1$d கோப்புப் பதிவேற்றப்படுகிறது</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$d கோப்புகளைக் காட்டு</item>
+        <item quantity="one">%1$d கோப்பைக் காட்டு</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%2$s இல் %1$d கோப்புகளைக் காட்டும் பட்டன்</item>
+        <item quantity="one">%2$s இல் %1$d கோப்பினைக் காட்டும் பட்டன்</item>
+    </plurals>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_mode_done">U krye</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksioni+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">hapësirë</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyja+</string>
+    <string name="abc_search_hint">Kërko…</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_toolbar_collapse_description">Palos</string>
+    <string name="accessibility_no_wifi">Wi-Fi është i shkëputur.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi ka një vijë.</string>
+    <string name="accessibility_wifi_security_type_none">Rrjet i hapur</string>
+    <string name="accessibility_wifi_security_type_secured">Rrjet i sigurt</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi ka sinjal të plotë.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi ka tre vija.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi ka dy vija.</string>
+    <string name="account_exists_info">"Email-i, kontaktet, ngjarjet e kalendarit etj. do të sinkronizohen me këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}. Je gjithashtu gati të fillosh shkarkimin e aplikacioneve, muzikës dhe lojërave nga Google Play.
+
+Mund t'i shtosh dhe heqësh llogaritë më vonë duke shkuar te Cilësimet > Llogaritë."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> është gati.</string>
+    <string name="account_exists_text_unknown_name">Llogaria jote është gati.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Llogaria u shtua}other{Llogaritë u shtuan}}</string>
+    <string name="activating_carrier_service_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="activating_unknown_carrier_service_title">Po aktivizon…</string>
+    <string name="activation_failed_message">"Mund që:
+"<ul><li>Të përpiqesh të lidhesh përsëri me të dhënat celulare</li>"
+"<li>Të përdorësh një rrjet tjetër për konfigurimin</li></ul>"
+
+Nëse këto opsione nuk funksionojnë, mund ta rinisësh {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}} dhe provo përsëri."</string>
+    <string name="activation_failed_title">Nuk mund të lidhet me të dhënat celulare</string>
+    <string name="activation_progress_flow">"Po zgjat shumë?
+
+Po zgjat pak për t'u lidhur me të dhënat celulare. Mund të kthehesh prapa dhe të përpiqesh të lidhesh me një rrjet tjetër më mirë."</string>
+    <string name="activation_title">Po lidhet shërbimi celular…</string>
+    <string name="activation_unprovisioned_sim_message">Rinis {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}} dhe provo përsëri ose lidhu me Wi‑Fi për ta konfiguruar. Nëse ke ende probleme me aktivizimin e të dhënave celulare, kontakto me operatorin celular.</string>
+    <string name="activation_unprovisioned_title">Të dhënat celulare nuk mund të aktivizoheshin</string>
+    <string name="android_privacy_policy_title">Politika shtesë e privatësisë</string>
+    <string name="available_via_carrier">E disponueshme përmes %1$s</string>
+    <string name="cancel_button_label">Anulo</string>
+    <string name="captive_portal_connection_unsuccessful">Nuk mund të lidhej me internetin</string>
+    <string name="captive_portal_description_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="captive_portal_ssl_error_text">Kjo lidhje po përdor një certifikatë të pasigurt ose të pavlefshme. Zgjidh një rrjet tjetër dhe provo sërish.</string>
+    <string name="captive_portal_title">Po lidhet...</string>
+    <string name="chrome_privacy_title">Njoftimi i privatësisë i Chrome</string>
+    <string name="chrome_tos_title">Kushtet e shërbimit të Chrome</string>
+    <string name="close_button_label">Mbyll</string>
+    <string name="common_google_play_services_enable_button">Aktivizo</string>
+    <string name="common_google_play_services_enable_text">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_enable_title">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_install_button">Instalo</string>
+    <string name="common_google_play_services_install_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde.</string>
+    <string name="common_google_play_services_install_title">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_notification_channel_name">Disponueshmëria e shërbimeve të Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote.</string>
+    <string name="common_google_play_services_update_button">Përditëso</string>
+    <string name="common_google_play_services_update_text">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_update_title">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_updating_text">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="connect_to_wifi_btn_text">Cilësimet e Wi-Fi</string>
+    <string name="connect_to_wifi_message">Lidhu me Wi-Fi për të vazhduar</string>
+    <string name="connect_to_wifi_title">Përditësimet e aplikacioneve janë gati</string>
+    <string name="connected_via_app">Lidhur përmes %1$s</string>
+    <string name="connected_via_carrier">E lidhur përmes %1$s</string>
+    <string name="connected_via_network_scorer_default">Lidhur automatikisht nëpërmjet ofruesit të vlerësimit të rrjetit</string>
+    <string name="consolidate_captive_portal_description_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="consolidate_captive_portal_title">Po kontrollon për përditësime…</string>
+    <string name="continue_for_a11y">Vazhdo të prekësh ekranin deri sa të dëgjosh një tingull \"bip\" për të aktivizuar \"Modalitetin e qasjes\".</string>
+    <string name="date_time_current_date">Data</string>
+    <string name="date_time_current_time">Ora</string>
+    <string name="date_time_message">Rregulloje nëse duhet.</string>
+    <string name="date_time_setup_title">Data dhe ora</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Vazhdo</string>
+    <string name="decision_point_google_assistant">Asistenti i Google</string>
+    <string name="decision_point_illustration_description">Hapat e tjerë përfshijnë \"Asistentin e Google\", Google Pay, \"Gjej këngën\", madhësinë e fontit, imazhin e sfondit etj.</string>
+    <string name="decision_point_leave_setup">Dil dhe merr një alarm rikujtues</string>
+    <string name="decision_point_now_playing">Po luhet tani</string>
+    <string name="default_device_name_device">pajisjen</string>
+    <string name="default_device_name_phone">telefonin</string>
+    <string name="default_device_name_tablet">tabletin</string>
+    <string name="deferred_notification_prompt_title">Përfundo konfigurimin e pajisjes sate ^1</string>
+    <string name="deferred_setup_button_label">Përfundo konfigurimin</string>
+    <string name="deferred_setup_wizard_reason_assistant">flit me \"Asistentin\" tënd</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">flit me \"Asistentin e Google\"</string>
+    <string name="deferred_setup_wizard_reason_default">Vetëm edhe disa hapa</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopjo të dhënat e tua</string>
+    <string name="deferred_setup_wizard_reason_google_pay">përdor Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">paguaj më shpejt me Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 dhe të tjera</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2, etj.</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">"Vetëm pak hapa të shpejtë dhe pajisja jote ^1 do të jetë gati për t'u përdorur"</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">cakto imazhin e sfondit</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">vendos imazhin e sfondit</string>
+    <string name="deferred_setup_wizard_title">Përfundo konfigurimin e pajisjes tënde</string>
+    <string name="deferred_snooze_dialog_option_never">Asnjëherë</string>
+    <string name="deferred_snooze_dialog_option_today">Sot më vonë</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Nesër</string>
+    <string name="deferred_snooze_dialog_title">Më kujto</string>
+    <string name="deferred_welcome_airplane_mode_message">"Të nevojitet në lidhje për të përfunduar pak hapa të fundit të konfigurimit.
+
+Kur është aktiv modaliteti i aeroplanit, shkëputen Wi‑Fi, rrjetet celulare dhe Bluetooth-i."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Konfiguro më vonë</string>
+    <string name="deferred_welcome_airplane_mode_title">Të çaktivizohet modaliteti i aeroplanit?</string>
+    <string name="deferred_welcome_screen_cancel_button">Më kujto më vonë</string>
+    <string name="deferred_welcome_title">Përfundo konfigurimin e ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Çaktivizo</string>
+    <string name="device_owner_continue">Vazhdo konfigurimin</string>
+    <string name="device_owner_reset">Rivendos {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}}</string>
+    <string name="device_owner_warning">{0} po menaxhon {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}} dhe mund të ketë qasje te informacionet e tua. Nëse nuk do që {0} të ketë qasje, rivendos {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tableti}other{Pajisja}} mund të monitorohet</string>
+    <string name="dialog_back_button_label">Prapa</string>
+    <string name="dialog_continue_button_label">Vazhdo</string>
+    <string name="early_update_installing_updates_text">Përditësimet po instalohen</string>
+    <string name="early_update_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="early_update_timeout_text">Po zgjat shumë? Provo të kthehesh dhe të lidhesh me një rrjet tjetër.</string>
+    <string name="early_update_title">Po kontrollon për përditësime...</string>
+    <string name="emergency_dial">Telefonata e urgjencës</string>
+    <string name="enabled_a11y">Modaliteti i qasjes u aktivizua.</string>
+    <string name="esim_option_button_summary">Shto një numër duke përdorur eSIM</string>
+    <string name="esim_option_button_title">Të shkarkohet një SIM më mirë?</string>
+    <string name="esim_warning_title">Shkarko kartën tënde SIM</string>
+    <string name="esim_warning_txt">"Nëse je një abonent i %1$s, do t'i marrësh telefonatat, mesazhet me tekst dhe të dhënat duke shkarkuar një kartë eSIM në vend të futjes së një karte SIM."</string>
+    <string name="esim_warning_txt_default">Lidhu me rrjetin tënd celular duke shkarkuar informacionin që ndodhet zakonisht në një kartë SIM. Kjo zëvendëson kartat standarde SIM dhe është po aq e sigurt.</string>
+    <string name="exit_loading_launcher">Po ngarkon nisësin…</string>
+    <string name="factory_reset_button">Spastroje dhe rivendose</string>
+    <string name="factory_reset_confirmation">Të spastrohen të gjitha llogaritë dhe të dhënat në këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}? Nuk mund ta zhbësh këtë veprim!</string>
+    <string name="factory_reset_confirmation_title">Të rivendoset?</string>
+    <string name="factory_reset_instructions">Paralajmërim: Rivendosja do të spastrojë të gjitha llogaritë dhe të dhënat në hapësirën ruajtëse në këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}.</string>
+    <string name="factory_reset_title">Rivendos {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}}</string>
+    <string name="final_hold_description_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="final_hold_title">Po përfundon rregullimet e fundit…</string>
+    <string name="final_hold_title_setup_work_account">Po përgatit telefonin për konfigurimin e punës…</string>
+    <string name="gms_account_checkin_title">Po merr informacionin e llogarisë…</string>
+    <string name="gms_checkin_description_text">Kjo mund të zgjasë disa minuta</string>
+    <string name="gms_checkin_description_text_timeout">Po zgjat shumë? Provo të kthehesh dhe të lidhesh me një rrjet tjetër.</string>
+    <string name="gms_checkin_title">Po kontrollon për përditësime...</string>
+    <string name="go_back_button_label">Kthehu prapa</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Kushtet e shërbimit të \"Luaj me Google\"</string>
+    <string name="google_plus_privacy_policy_title">Politika e privatësisë së Google Plus</string>
+    <string name="google_privacy_policy_title">Politika e privatësisë së Google</string>
+    <string name="google_provisioning_disclaimer_content">Zbatohen Kushtet e shërbimit dhe Politika e privatësisë e Google. Për më shumë detaje, vizito &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Kushtet e shërbimit të Google</string>
+    <string name="invalid_phone_number">Numër telefoni i panjohur</string>
+    <string name="invalid_qr_code_content">Pyet administratorin e TI-së për kodin e saktë</string>
+    <string name="invalid_qr_code_retry">Provo përsëri</string>
+    <string name="invalid_qr_code_title">Kodi QR i gabuar</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari dhe iTunes janë marka tregtare të Apple Inc., të regjistruara në Shtetet e Bashkuara dhe në shtete të tjera.</string>
+    <string name="language_picker_section_all">Të gjitha gjuhët</string>
+    <string name="language_picker_section_suggested">Sugjeruar</string>
+    <string name="migrate_from_ios_description">Ndiq këta hapa:</string>
+    <string name="migrate_from_ios_header">Kopjo të dhënat e tua</string>
+    <string name="migrate_from_ios_instructions_1">1. Hap Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Shko tek <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Ndiq udhëzimet</string>
+    <string name="network_description_text">Zgjidh një rrjet</string>
+    <string name="network_description_text_esim">Për të shkarkuar kartën SIM, lidhu me Wi‑Fi</string>
+    <string name="network_see_all_wifi">Shiko të gjitha rrjetet Wi‑Fi</string>
+    <string name="network_timeout_description_text">"Provo përsëri duke përdorur një rrjet tjetër. Nëse vazhdon pa një lidhje, mund t'i përfundosh më vonë disa hapa të konfigurimit."</string>
+    <string name="network_timeout_title">Nuk mund të lidhej</string>
+    <string name="network_timeout_try_another_network_button">Provo një rrjet tjetër</string>
+    <string name="network_title">Lidhu me Wi-Fi</string>
+    <string name="network_use_cellular">Përdor rrjetin celular për konfigurim</string>
+    <string name="network_use_cellular_carrier">Lidhu me Wi-Fi më vonë</string>
+    <string name="network_wifi_continue_button">Vazhdo</string>
+    <string name="not_set">Nuk është caktuar</string>
+    <string name="notification_channel_name_deferred">Konfigurimi shtesë</string>
+    <string name="notification_channel_name_initial">Konfiguro</string>
+    <string name="notification_channel_name_restore">Restaurimi i të dhënave</string>
+    <string name="notification_channel_security_name_warnings">Paralajmërimet e sigurisë</string>
+    <string name="ok_button_label">Në rregull!</string>
+    <string name="ota_agreement_text">Duke vazhduar dhe duke marrë këtë përditësim të softuerit, ti pranon <annotation link="tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation link="google_privacy">\"Politikën e privatësisë së Google\"</annotation>.</string>
+    <string name="ota_info">{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tableti}other{Pajisja}} ka nevojë për përditësim dhe rinisje.</string>
+    <string name="ota_size">Madhësia: %s</string>
+    <string name="ota_update_title">Përditëso {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}}</string>
+    <string name="predeferred_prepare_setup">Po përgatitet për konfigurim…</string>
+    <string name="predeferred_prepare_setup_details">Mund të përfundosh konfigurimin e pajisjes sate ^1 së shpejti</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Lidhu me Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Lidhu me Wi-Fi për të vazhduar</string>
+    <string name="predeferred_wifi_required_notification_title">Përditësimet e aplikacioneve janë gati</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Po skanon për një kod QR</string>
+    <string name="region_picker_section_all">Të gjitha rajonet</string>
+    <string name="restart_setup_wizard_button_label">Konfiguro {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Për të përdorur këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}, fillimisht duhet të identifikohesh te llogaria e Google e zotëruesit në përdorim në këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}} kur u rivendos për herë të fundit.
+
+Duke qenë se nuk ke vepruar kështu, duhet ta konfigurosh {DEVICE_TYPE,select, PHONE{telefonin}TABLET{tabletin}other{pajisjen}} përsëri."</string>
+    <string name="restart_setup_wizard_dialog_title">Nuk je identifikuar</string>
+    <string name="restore_failed_message">Kopja rezervë nuk mund të restaurohet</string>
+    <string name="restore_no_backup_message">Nuk ka asnjë kopje rezervë në pajisjen tjetër</string>
+    <string name="restore_no_backup_title">Nuk mund të restaurohet</string>
+    <string name="restore_stopped_message">Restaurimi i kopjes rezervë nuk mund të përfundonte</string>
+    <string name="restore_title">Po restauron…</string>
+    <string name="setup_ongoing_notification_text">Trokit për të përfunduar konfigurimin e ^1</string>
+    <string name="setup_ongoing_notification_title">Konfigurimi i ^1 është në proces</string>
+    <string name="setup_wizard_title">Konfigurimi i Android</string>
+    <string name="sim_locked_text">"Ky telefon është i kyçur aktualisht me një operator tjetër celular. Do të duhet të përdorësh një kartë SIM të vlefshme.
+
+Pasi të fusësh kartën SIM, mund të duhen disa sekonda për ta aktivizuar."</string>
+    <string name="sim_locked_title">Karta SIM nuk mbështetet</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Nëse ke një kartë SIM, fute atë tani}other{Nëse ke karta SIM, futi ato tani}}</string>
+    <string name="sim_missing_title">Lidhu me rrjetin celular</string>
+    <string name="sim_ready_message">%1$s duhet të jetë gati për përdorim</string>
+    <string name="sim_ready_message_carrier_app">Për të përfunduar aktivizimin e %1$s, do të duhet të shkarkosh aplikacionin e %2$s. Për momentin, le të përfundojmë konfigurimin e telefonit.</string>
+    <string name="sim_ready_message_invalid_phone_number">Numri yt duhet të jetë gati për përdorim</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Për të përfunduar aktivizimin e numrit tënd, do të duhet të shkarkosh aplikacionin e %1$s. Për momentin, le të përfundojmë konfigurimin e telefonit.</string>
+    <string name="sim_ready_title">%1$s është aktiv</string>
+    <string name="sim_ready_title_carrier_app">Lidhu me %1$s më vonë</string>
+    <string name="sim_setup_ask_every_time">Pyet çdo herë</string>
+    <string name="sim_setup_select_data">Preferenca për të dhënat celulare</string>
+    <string name="sim_setup_select_data_description">Zgjidh një numër për ta përdorur për të dhënat celulare</string>
+    <string name="sim_setup_select_text">Preferenca për SMS</string>
+    <string name="sim_setup_select_text_description">Zgjidh një numër për mesazhet dalëse me tekst (të gjithë numrat aktivë mund të marrin mesazhe hyrëse me tekst)</string>
+    <string name="sim_setup_select_voice">Preferencat e telefonatave</string>
+    <string name="sim_setup_select_voice_description">Zgjidh një numër për telefonatat dalëse (të gjithë numrat aktivë mund të marrin telefonata hyrëse)</string>
+    <string name="sim_setup_title">Konfiguro kartat SIM</string>
+    <string name="skip_anyway_button_label">Kapërceje</string>
+    <string name="skip_button_label">Kapërce</string>
+    <string name="skip_toast">Eksperti i konfigurimit u kapërcye</string>
+    <string name="slots_selection_item_summary_activating">Po aktivizohet…</string>
+    <string name="slots_selection_item_summary_error">Nuk mund të aktivizohej në këtë moment</string>
+    <string name="slots_selection_title">Zgjidh një numër për ta përdorur</string>
+    <string name="speed_label_fast">E shpejtë</string>
+    <string name="speed_label_okay">Në rregull</string>
+    <string name="speed_label_slow">E ngadaltë</string>
+    <string name="speed_label_very_fast">Shumë e shpejtë</string>
+    <string name="sud_back_button_label">Prapa</string>
+    <string name="sud_more_button_label">Më shumë</string>
+    <string name="sud_next_button_label">Para</string>
+    <string name="suggested_actions_description">Konfiguro disa gjëra të tjera tani ose gjeji më vonë te \"Cilësimet\"</string>
+    <string name="suggested_actions_description_single_item">Këtu është edhe diçka tjetër për ta konfiguruar në pajisjen tënde ^1. Mund ta gjesh atë po ashtu më vonë te Cilësimet.</string>
+    <string name="suggested_actions_done_label">Asgjë tjetër për momentin</string>
+    <string name="suggested_actions_no_thanks_label">Jo</string>
+    <string name="suggested_actions_title">Ndonjë gjë tjetër?</string>
+    <string name="switch_camera">Ndërro kamerën</string>
+    <string name="switch_to_back_camera_button_content_description">Kamera e pasme</string>
+    <string name="switch_to_front_camera_button_content_description">Kamera e përparme</string>
+    <string name="switched_to_back_camera_announcement">Butoni tani është kamera e përparme</string>
+    <string name="switched_to_front_camera_announcement">Butoni tani është kamera e pasme</string>
+    <string name="tap_to_sign_up">"Trokit për t'u regjistruar"</string>
+    <string name="terminate_toast">"Eksperti i konfigurimi u ndërpre
+Pajisja nuk u përgatit"</string>
+    <string name="try_again_button_label">Provo përsëri</string>
+    <string name="url_load_unsuccessful_message">"{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tableti}other{Pajisja}} nuk është lidhur me një shërbim të dhënash celulare. Për t'i parë këto informacione tani, shko te {0} në një shfletues uebi."</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tableti}other{Pajisja}} nuk është lidhur me një rrjet Wi‑Fi. Për të parë këto informacione tani, shko te {0} në një shfletues uebi.</string>
+    <string name="user_warning_cannot_switch_message">Nuk mund të kthehet sërish te përdoruesi zotërues. Provo përsëri më vonë.</string>
+    <string name="user_warning_label_continue">Vazhdo</string>
+    <string name="user_warning_label_quit">Anulo</string>
+    <string name="user_warning_quit_dialog_button_keep">Mbaje përdoruesin</string>
+    <string name="user_warning_quit_dialog_button_remove">Hiqe përdoruesin</string>
+    <string name="user_warning_quit_dialog_message">Të hiqet ky përdorues?</string>
+    <string name="user_warning_title">Konfiguro një përdorues të ri</string>
+    <string name="wait_msg">Vetëm një sekondë…</string>
+    <string name="web_dialog_unable_to_view">Për të parë këto informacione tani, shko te ^1 në një shfletues uebi.</string>
+    <string name="welcome_accessibility_button">Cilësimet e shikimit</string>
+    <string name="welcome_language_picker_content_description">Gjuha: %s</string>
+    <string name="welcome_language_picker_dialog_title">Zgjidh gjuhën tënde</string>
+    <string name="welcome_message">Përshëndetje</string>
+    <string name="welcome_secondary_user_added_text">Je shtuar në këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}</string>
+    <string name="welcome_secondary_user_info_text"><b>E rëndësishme:</b>"
+
+"<ul><li>Zotëruesi i {DEVICE_TYPE,select, PHONE{telefonit}TABLET{tabletit}other{pajisjes}} mund të çinstalojë aplikacionet e tua ose ta heqë plotësisht profilin tënd të përdoruesit</li>"
+
+"<li>"Çdo përdorues tjetër mund t'i pranojë lejet e përditësuara të aplikacioneve"</li>"
+
+"<li>Ndaje këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}} vetëm me personat te të cilët ke besim</li></ul></string>
+    <string name="welcome_start_button_label">Nis</string>
+    <string name="wifi_add_new_network">Shto rrjet të ri</string>
+    <string name="wifi_and_mobile_skipped_message">"Lidhja me një rrjet Wi‑Fi ose celular ndihmon në konfigurimin e shpejtë të {DEVICE_TYPE,select, PHONE{telefonit}TABLET{tabletit}other{pajisjes}}.
+
+Nëse nuk ke lidhje:
+
+"<ul><li>nuk identifikohesh dot në \"Llogarinë tënde të Google\"</li>"
+
+"<li>nuk restauron dot aplikacionet dhe të dhëna</li>"
+
+"<li>nuk merr dot përditësime të softuerëve</li>"
+
+"<li>nuk i konfiguron dot automatikisht orën dhe datën</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Lidhja me një rrjet Wi‑Fi ose celular ndihmon në konfigurimin e shpejtë të {DEVICE_TYPE,select, PHONE{telefonit}TABLET{tabletit}other{pajisjes}}.
+
+Nëse nuk ke lidhje:
+
+"<ul><li>nuk identifikohesh dot në \"Llogarinë tënde të Google\"</li>"
+
+"<li>nuk restauron dot aplikacionet dhe të dhëna</li>"
+
+"<li>nuk shkarkon dot një kartë SIM</li>"
+
+"<li>nuk merr dot përditësime të softuerëve</li>"
+
+"<li>nuk i konfiguron dot automatikisht orën dhe datën</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Pika e qasjes është përkohësisht plot</string>
+    <string name="wifi_check_password_try_again">Kontrollo fjalëkalimin dhe provo sërish</string>
+    <string name="wifi_connected_no_internet">U lidh, por nuk ka internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">Nuk është lidhur për shkak të rrjetit me cilësi të dobët</string>
+    <string name="wifi_disabled_generic">Të çaktivizuara</string>
+    <string name="wifi_disabled_network_failure">Dështim në konfigurimin e IP-së</string>
+    <string name="wifi_disabled_password_failure">Problem me vërtetimin</string>
+    <string name="wifi_fail_to_scan">Nuk mund të skanojë për rrjete</string>
+    <string name="wifi_ip_address_not_available">Nuk ofrohet</string>
+    <string name="wifi_ip_address_title">Adresa e IP-së</string>
+    <string name="wifi_limited_connection">Lidhje e kufizuar</string>
+    <string name="wifi_mac_address_not_available">Nuk ofrohet</string>
+    <string name="wifi_mac_address_title">Adresa MAC</string>
+    <string name="wifi_metered_label">Me matje</string>
+    <string name="wifi_no_internet">Nuk ka qasje në internet</string>
+    <string name="wifi_no_internet_no_reconnect">Nuk do të lidhet automatikisht</string>
+    <string name="wifi_not_in_range">Nuk është brenda rrezes</string>
+    <string name="wifi_remembered">U ruajt</string>
+    <string name="wifi_scanning">Po kërkon për rrjete Wi‑Fi…</string>
+    <string name="wifi_set_up_offline_title">Të vendoset jashtë linje?</string>
+    <string name="wifi_skip_button_label">Vendos jashtë linje</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefoni}TABLET{Tableti}other{Pajisja}} do të përdorë rrjetin celular gjatë konfigurimit dhe mund të tarifohesh për këtë përdorim të dhënash. Për të shmangur tarifimet e mundshme, lidhu me Wi‑Fi.</string>
+    <string name="wifi_skipped_title">Tarifim i mundshëm i të dhënave</string>
+    <string name="wifi_title">Lidhu me Wi-Fi</string>
+    <string name="wifi_unmetered_label">Pa matje</string>
+    <string name="work_profile_setup_description">Për të konfiguruar këtë pajisje për punë dhe për të ndarë të dhënat e punës nga të dhënat personale</string>
+    <string name="work_profile_setup_next">Para</string>
+    <string name="work_profile_setup_skip">Kapërce konfigurimin për punë</string>
+    <string name="work_profile_setup_title">Shto llogarinë tënde të punës</string>
+    <string name="work_setup_interrupted">"Kemi vënë re disa aktivitete të pazakonta në këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}} dhe të dhënat e tua mund të jenë në rrezik nëse vazhdon konfigurimin.
+
+Për të filluar nga e para, rivendose këtë {DEVICE_TYPE,select, PHONE{telefon}TABLET{tablet}other{pajisje}}."</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{Ky telefon}TABLET{Ky tablet}other{Kjo pajisje}} mund të ketë probleme sigurie</string>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="accessibility_no_wifi">Nakadiskonekta ang Wifi.</string>
+    <string name="accessibility_wifi_one_bar">May isang bar ang Wifi.</string>
+    <string name="accessibility_wifi_security_type_none">Bukas na network</string>
+    <string name="accessibility_wifi_security_type_secured">Secure na network</string>
+    <string name="accessibility_wifi_signal_full">Puno ang signal ng Wifi.</string>
+    <string name="accessibility_wifi_three_bars">May tatlong bar ang Wifi.</string>
+    <string name="accessibility_wifi_two_bars">May dalawang bar ang Wifi.</string>
+    <string name="account_exists_info">"Masi-sync sa {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito ang iyong email, mga contact, mga event sa calendar, at higit pa. Handa ka na ring magsimulang mag-download ng mga app, musika, at mga laro mula sa Google Play.
+
+Maaari kang magdagdag at mag-alis ng mga account sa ibang pagkakataon sa pamamagitan ng pagpunta sa Mga Setting > Mga Account."</string>
+    <string name="account_exists_text_single">Handa na ang <annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation>.</string>
+    <string name="account_exists_text_unknown_name">Handa na ang iyong account.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Naidagdag ang account}one{Naidagdag ang mga account}other{Naidagdag ang mga account}}</string>
+    <string name="activating_carrier_service_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="activating_unknown_carrier_service_title">Ina-activate…</string>
+    <string name="activation_failed_message">"Puwede mong:
+"<ul><li>Subukang kumonekta ulit sa mobile data</li>"
+"<li>Gumamit ng ibang network sa pag-set up</li></ul>"
+
+Kung hindi gagana ang mga opsyong ito, puwede mo ring i-restart ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} at subukan ulit."</string>
+    <string name="activation_failed_title">Hindi makakonekta sa mobile data</string>
+    <string name="activation_progress_flow">"Masyadong matagal?
+
+Natatagalan ang pagkonekta sa mobile data. Maaari kang bumalik at sumubok na kumonekta sa ibang network."</string>
+    <string name="activation_title">Kumokonekta sa serbisyo sa mobile…</string>
+    <string name="activation_unprovisioned_sim_message">I-restart ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} at subukang muli, o kumonekta sa Wi‑Fi para sa pag-set up. Kung nagkakaproblema ka pa rin sa pag-activate sa mobile data, makipag-ugnayan sa iyong carrier.</string>
+    <string name="activation_unprovisioned_title">Hindi ma-activate ang mobile data</string>
+    <string name="android_privacy_policy_title">Karagdagang Patakaran sa Privacy</string>
+    <string name="available_via_carrier">Available sa pamamagitan ng %1$s</string>
+    <string name="cancel_button_label">Kanselahin</string>
+    <string name="captive_portal_connection_unsuccessful">Hindi makakonekta sa internet</string>
+    <string name="captive_portal_description_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="captive_portal_ssl_error_text">Gumagamit ang koneksyong ito ng hindi ligtas o di-wastong certificate. Pumili ng ibang network at subukang muli.</string>
+    <string name="captive_portal_title">Kumokonekta…</string>
+    <string name="chrome_privacy_title">Notification ng Privacy ng Chrome</string>
+    <string name="chrome_tos_title">Mga Tuntunin ng Serbisyo ng Chrome</string>
+    <string name="close_button_label">Isara</string>
+    <string name="common_google_play_services_enable_button">I-enable</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_title">I-enable ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_install_button">I-install</string>
+    <string name="common_google_play_services_install_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device.</string>
+    <string name="common_google_play_services_install_title">Kunin ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Availability ng serbisyo ng Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Nagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukan ulit.</string>
+    <string name="common_google_play_services_unsupported_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device.</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_updating_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="connect_to_wifi_btn_text">Mga setting ng Wi-Fi</string>
+    <string name="connect_to_wifi_message">Kumonekta sa Wi‑Fi para magpatuloy</string>
+    <string name="connect_to_wifi_title">Handa na ang mga update sa app</string>
+    <string name="connected_via_app">Nakakonekta sa pamamagitan ng %1$s</string>
+    <string name="connected_via_carrier">Nakakonekta sa pamamagitan ng %1$s</string>
+    <string name="connected_via_network_scorer_default">Awtomatikong nakakonekta sa pamamagitan ng provider ng rating ng network</string>
+    <string name="consolidate_captive_portal_description_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="consolidate_captive_portal_title">Tinitingnan kung may mga update…</string>
+    <string name="continue_for_a11y">Patuloy na pindutin ang screen hanggang sa makarinig ka ng beep upang paganahin ang mode ng Pagiging Accessible.</string>
+    <string name="date_time_current_date">Petsa</string>
+    <string name="date_time_current_time">Oras</string>
+    <string name="date_time_message">Isaayos kung kinakailangan.</string>
+    <string name="date_time_setup_title">Petsa at oras</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Ituloy</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">Kabilang sa mga karagdagang hakbang ang Google Assistant, Google Pay, Nagpi-play Ngayon, laki ng font, wallpaper, at higit pa</string>
+    <string name="decision_point_leave_setup">Umalis at mapaalalahanan</string>
+    <string name="decision_point_now_playing">Pine-play Ngayon</string>
+    <string name="default_device_name_device">device</string>
+    <string name="default_device_name_phone">telepono</string>
+    <string name="default_device_name_tablet">tablet</string>
+    <string name="deferred_notification_prompt_title">Tapusin ang pag-set up ng iyong ^1</string>
+    <string name="deferred_setup_button_label">Tapusin ang pag-set up</string>
+    <string name="deferred_setup_wizard_reason_assistant">makipag-usap sa iyong Assistant</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">makipag-usap sa iyong Google Assistant</string>
+    <string name="deferred_setup_wizard_reason_default">Ilang hakbang na lang</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopyahin ang iyong data</string>
+    <string name="deferred_setup_wizard_reason_google_pay">gamitin ang Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">mabilis na makapagbayad gamit ang Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1, at higit pa</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2, at higit pa</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Ilang madaling hakbang na lang at magagamit na ang iyong ^1</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">itakda ang wallpaper</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">itakda ang iyong wallpaper</string>
+    <string name="deferred_setup_wizard_title">Tapusin ang pag-set up ng iyong device</string>
+    <string name="deferred_snooze_dialog_option_never">Huwag Kailanman</string>
+    <string name="deferred_snooze_dialog_option_today">Mamaya</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Bukas</string>
+    <string name="deferred_snooze_dialog_title">Paalalahanan ako</string>
+    <string name="deferred_welcome_airplane_mode_message">"Kailangan mo ng koneksyon upang tapusin ang ilang huling hakbang sa pag-set up.
+
+Kapag naka-on ang airplane mode, nakadiskonekta ang Wi‑Fi, mga mobile network, at Bluetooth."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">I-set up sa ibang pagkakataon</string>
+    <string name="deferred_welcome_airplane_mode_title">I-off ang airplane mode?</string>
+    <string name="deferred_welcome_screen_cancel_button">Paalalahanan ako sa ibang pagkakataon</string>
+    <string name="deferred_welcome_title">Tapusin ang pag-set up sa ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">I-off</string>
+    <string name="device_owner_continue">Ituloy ang pag-set up</string>
+    <string name="device_owner_reset">I-reset ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}</string>
+    <string name="device_owner_warning">Pinapamahalaan ng {0} ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} at maa-access nito ang iyong impormasyon. Kung ayaw mong magkaroon ng access ang {0}, i-reset ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Ang telepono}TABLET{Ang tablet}other{Ang device}} ay maaaring subaybayan</string>
+    <string name="dialog_back_button_label">Bumalik</string>
+    <string name="dialog_continue_button_label">Magpatuloy</string>
+    <string name="early_update_installing_updates_text">Ini-install ang mga update</string>
+    <string name="early_update_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="early_update_timeout_text">Masyadong natatagalan? Subukang bumalik at kumonekta sa ibang network.</string>
+    <string name="early_update_title">Tumitingin ng mga update...</string>
+    <string name="emergency_dial">Emergency na tawag</string>
+    <string name="enabled_a11y">Pinagana ang mode ng Accessibility.</string>
+    <string name="esim_option_button_summary">Magdagdag ng numero gamit ang eSIM</string>
+    <string name="esim_option_button_title">Mag-download na lang ng SIM?</string>
+    <string name="esim_warning_title">I-download ang iyong SIM</string>
+    <string name="esim_warning_txt">Kung ikaw ay %1$s subscriber, makakatanggap ka ng mga tawag, text, at data sa pamamagitan ng pag-download ng eSIM sa halip na maglagay ng SIM card.</string>
+    <string name="esim_warning_txt_default">Kumonekta sa iyong mobile network sa pamamagitan ng pag-download ng impormasyong karaniwang nasa isang SIM card. Pinapalitan nito ang mga karaniwang SIM card at magkasingligtas ang mga ito.</string>
+    <string name="exit_loading_launcher">Nilo-load ang launcher…</string>
+    <string name="factory_reset_button">Burahin at I-reset</string>
+    <string name="factory_reset_confirmation">Burahin ang lahat ng account at data sa {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito? Hindi mo maa-undo ang pagkilos na ito!</string>
+    <string name="factory_reset_confirmation_title">I-reset?</string>
+    <string name="factory_reset_instructions">Babala: Kapag nag-reset, mabubura ang lahat ng account at data sa internal storage ng {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito.</string>
+    <string name="factory_reset_title">I-reset ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}</string>
+    <string name="final_hold_description_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="final_hold_title">Mayroon lang ilang tinatapos pa…</string>
+    <string name="final_hold_title_setup_work_account">Inihahanda ang tel. para sa work setup…</string>
+    <string name="gms_account_checkin_title">Kinukuha ang impormasyon ng account…</string>
+    <string name="gms_checkin_description_text">Puwede itong abutin nang ilang minuto</string>
+    <string name="gms_checkin_description_text_timeout">Masyadong natatagalan? Subukang bumalik at kumonekta sa ibang network.</string>
+    <string name="gms_checkin_title">Tumitingin ng mga update...</string>
+    <string name="go_back_button_label">Bumalik</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Mga Tuntunin ng Serbisyo ng Google Play</string>
+    <string name="google_plus_privacy_policy_title">Patakaran sa Privacy ng Google Plus</string>
+    <string name="google_privacy_policy_title">Patakaran sa Privacy ng Google</string>
+    <string name="google_provisioning_disclaimer_content">Nalalapat ang Mga Tuntunin ng Serbisyo at Patakaran sa Privacy ng Google. Para sa higit pang detalye, bisitahin ang &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Mga Tuntunin ng Serbisyo ng Google</string>
+    <string name="invalid_phone_number">Hindi kilalang numero ng telepono</string>
+    <string name="invalid_qr_code_content">Itanong sa iyong IT admin ang tamang code</string>
+    <string name="invalid_qr_code_retry">Subukang muli</string>
+    <string name="invalid_qr_code_title">Mali ang QR code</string>
+    <string name="ios_trademarks_disclaimer">Ang iPhone, iPad, iOS, iMessage, iCloud, Safari, at iTunes ay mga trademark ng Apple Inc., na nakarehistro sa U.S. at iba pang bansa.</string>
+    <string name="language_picker_section_all">Lahat ng wika</string>
+    <string name="language_picker_section_suggested">Iminumungkahi</string>
+    <string name="migrate_from_ios_description">Sundin ang mga hakbang na ito:</string>
+    <string name="migrate_from_ios_header">Kopyahin ang iyong data</string>
+    <string name="migrate_from_ios_instructions_1">1. Buksan ang Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Pumunta sa <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Sundin ang mga tagubilin</string>
+    <string name="network_description_text">Pumili ng network</string>
+    <string name="network_description_text_esim">Para i-download ang iyong SIM, kumonekta sa Wi‑Fi</string>
+    <string name="network_see_all_wifi">Tingnan ang lahat ng Wi‑Fi network</string>
+    <string name="network_timeout_description_text">Subukang muli gamit ang ibang network. Kung magpapatuloy ka nang walang koneksyon, puwede mong tapusin ang ilang hakbang sa pag-set up sa ibang pagkakataon.</string>
+    <string name="network_timeout_title">Hindi makakonekta</string>
+    <string name="network_timeout_try_another_network_button">Sumubok ng ibang network</string>
+    <string name="network_title">Kumonekta sa Wi‑Fi</string>
+    <string name="network_use_cellular">Gamitin ang mobile network sa pag-set up</string>
+    <string name="network_use_cellular_carrier">Kumonekta sa Wi‑Fi sa ibang pagkakataon</string>
+    <string name="network_wifi_continue_button">Magpatuloy</string>
+    <string name="not_set">Hindi nakatakda</string>
+    <string name="notification_channel_name_deferred">Karagdagang setup</string>
+    <string name="notification_channel_name_initial">Pag-set up</string>
+    <string name="notification_channel_name_restore">Pag-restore ng data</string>
+    <string name="notification_channel_security_name_warnings">Mga babala sa seguridad</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Sa pamamagitan ng pagpapatuloy at pagtanggap sa update sa software na ito, sumasang-ayon ka sa <annotation link="tos">Mga Tuntunin ng Serbisyo ng Google</annotation> at <annotation link="google_privacy">Patakaran sa Privacy</annotation>.</string>
+    <string name="ota_info">Ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} ay kailangang mag-download ng update at mag-restart.</string>
+    <string name="ota_size">Laki: %s</string>
+    <string name="ota_update_title">I-update ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}</string>
+    <string name="predeferred_prepare_setup">Naghahanda para sa pag-set up…</string>
+    <string name="predeferred_prepare_setup_details">Malapit mo nang matapos ang pag-set up ng iyong ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Kumonekta sa Wi‑Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Kumonekta sa Wi‑Fi para magpatuloy</string>
+    <string name="predeferred_wifi_required_notification_title">Handa na ang mga update sa app</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Nag-ii-scan ng QR code</string>
+    <string name="region_picker_section_all">Lahat ng rehiyon</string>
+    <string name="restart_setup_wizard_button_label">I-set up ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Para magamit ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito, kailangan mo munang mag-sign in sa Google Account ng may-ari na ginamit sa {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito noong huli itong na-reset.
+
+Dahil hindi mo pa ito nagagawa, kailangan mong i-set up muli ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}."</string>
+    <string name="restart_setup_wizard_dialog_title">Hindi naka-sign in</string>
+    <string name="restore_failed_message">Hindi ma-restore ang backup</string>
+    <string name="restore_no_backup_message">Walang available na anumang mga backup sa iba mo pang device</string>
+    <string name="restore_no_backup_title">Hindi ma-restore</string>
+    <string name="restore_stopped_message">Hindi matapos ang pagre-restore sa backup</string>
+    <string name="restore_title">Ibinabalik…</string>
+    <string name="setup_ongoing_notification_text">I-tap para tapusin ang pag-set up ng ^1</string>
+    <string name="setup_ongoing_notification_title">Isinasagawa ang pag-set up ng ^1</string>
+    <string name="setup_wizard_title">Android Setup</string>
+    <string name="sim_locked_text">"Kasalukuyang naka-lock ang teleponong ito sa ibang carrier. Kakailanganin mong gumamit ng may bisang SIM card.
+
+Kapag nailagay mo na ang iyong SIM card, maaaring abutin nang ilang segundo bago ito ma-activate."</string>
+    <string name="sim_locked_title">Hindi sinusuportahan ang SIM card</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Kung mayroon kang SIM card, ilagay ito ngayon}one{Kung mayroon kang mga SIM card, ilagay ang mga ito ngayon}other{Kung mayroon kang mga SIM card, ilagay ang mga ito ngayon}}</string>
+    <string name="sim_missing_title">Kumonekta sa mobile network</string>
+    <string name="sim_ready_message">Handa na dapat gamitin ang %1$s</string>
+    <string name="sim_ready_message_carrier_app">Para tapusin ang pag-activate sa %1$s, kakailanganin mong i-download ang %2$s app. Sa ngayon, tapusin natin ang pag-set up sa iyong telepono.</string>
+    <string name="sim_ready_message_invalid_phone_number">Handa na dapat gamitin ang iyong numero</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Para tapusin ang pag-activate sa iyong numero, kakailanganin mong i-download ang %1$s app. Sa ngayon, tapusin natin ang pag-set up sa iyong telepono.</string>
+    <string name="sim_ready_title">Aktibo ang %1$s</string>
+    <string name="sim_ready_title_carrier_app">Kumonekta sa %1$s sa ibang pagkakataon</string>
+    <string name="sim_setup_ask_every_time">Magtanong palagi</string>
+    <string name="sim_setup_select_data">Kagustuhan sa mobile data</string>
+    <string name="sim_setup_select_data_description">Pumili ng numerong gagamitin para sa mobile data</string>
+    <string name="sim_setup_select_text">Kagustuhan sa SMS</string>
+    <string name="sim_setup_select_text_description">Pumili ng numero para sa mga papalabas na text (maaaring makatanggap ng mga papasok na text ang lahat ng aktibong numero)</string>
+    <string name="sim_setup_select_voice">Kagustuhan sa mga tawag</string>
+    <string name="sim_setup_select_voice_description">Pumili ng numero para sa mga papalabas na tawag (maaaring makatanggap ng mga papasok na tawag ang lahat ng aktibong numero)</string>
+    <string name="sim_setup_title">I-set up ang mga SIM card</string>
+    <string name="skip_anyway_button_label">Laktawan pa rin</string>
+    <string name="skip_button_label">Laktawan</string>
+    <string name="skip_toast">Nilaktawan ang Setup Wizard</string>
+    <string name="slots_selection_item_summary_activating">Ina-activate…</string>
+    <string name="slots_selection_item_summary_error">Hindi ma-activate sa ngayon</string>
+    <string name="slots_selection_title">Pumili ng numerong gagamitin</string>
+    <string name="speed_label_fast">Mabilis</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Mabagal</string>
+    <string name="speed_label_very_fast">Napakabilis</string>
+    <string name="sud_back_button_label">Bumalik</string>
+    <string name="sud_more_button_label">Higit pa</string>
+    <string name="sud_next_button_label">Susunod</string>
+    <string name="suggested_actions_description">Mag-set up ng ilan pang bagay ngayon, o hanapin ang mga ito sa Mga Setting sa ibang pagkakataon</string>
+    <string name="suggested_actions_description_single_item">Narito ang isa pang bagay na ise-setup sa iyong ^1. Mahahanap mo rin ito sa ibang pagkakataon sa Mga Setting.</string>
+    <string name="suggested_actions_done_label">Tapos na sa ngayon</string>
+    <string name="suggested_actions_no_thanks_label">Hindi, salamat na lang</string>
+    <string name="suggested_actions_title">May iba ka pa bang kailangan?</string>
+    <string name="switch_camera">Lumipat ng camera</string>
+    <string name="switch_to_back_camera_button_content_description">Camera sa likod</string>
+    <string name="switch_to_front_camera_button_content_description">Camera sa harap</string>
+    <string name="switched_to_back_camera_announcement">Ang button ay para na sa camera sa harap</string>
+    <string name="switched_to_front_camera_announcement">Ang button ay para na sa camera sa likod</string>
+    <string name="tap_to_sign_up">I-tap para mag-sign up</string>
+    <string name="terminate_toast">"Winakasan ang Setup Wizard
+Hindi naprobisyon ang device"</string>
+    <string name="try_again_button_label">Subukan muli</string>
+    <string name="url_load_unsuccessful_message">Hindi nakakonekta ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} sa isang serbisyo ng data sa mobile. Para tingnan ang impormasyong ito ngayon, pumunta sa {0} sa isang web browser.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Hindi nakakonekta sa isang Wi‑Fi network ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}. Para tingnan ang impormasyong ito ngayon, bisitahin ang {0} gamit ang isang web browser.</string>
+    <string name="user_warning_cannot_switch_message">Hindi makabalik sa may-aring user. Pakisubukan ulit sa ibang pagkakataon.</string>
+    <string name="user_warning_label_continue">Magpatuloy</string>
+    <string name="user_warning_label_quit">Kanselahin</string>
+    <string name="user_warning_quit_dialog_button_keep">Panatilihin ang user</string>
+    <string name="user_warning_quit_dialog_button_remove">Alisin ang user</string>
+    <string name="user_warning_quit_dialog_message">Alisin ang user?</string>
+    <string name="user_warning_title">Mag-set up ng bagong user</string>
+    <string name="wait_msg">Sandali lang…</string>
+    <string name="web_dialog_unable_to_view">Para tingnan ngayon ang impormasyong ito, bisitahin ang ^1 gamit ang isang web browser.</string>
+    <string name="welcome_accessibility_button">Mga setting ng paningin</string>
+    <string name="welcome_language_picker_content_description">Wika: %s</string>
+    <string name="welcome_language_picker_dialog_title">Piliin ang iyong wika</string>
+    <string name="welcome_message">Kumusta</string>
+    <string name="welcome_secondary_user_added_text">Naidagdag ka na rito sa {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Mahalaga:</b>"
+
+"<ul><li>Magagawa ng may-ari ng {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na i-uninstall ang mga app mo o tuluyang alisin ang iyong profile ng user</li>"
+
+"<li>Maaaring tumanggap ang sinupamang user ng mga na-update na pahintulot sa app</li>"
+
+"<li>Ibahagi lang ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito sa mga taong pinagkakatiwalaan mo</li></ul></string>
+    <string name="welcome_start_button_label">Simulan</string>
+    <string name="wifi_add_new_network">Magdagdag ng bagong network</string>
+    <string name="wifi_and_mobile_skipped_message">"Nakakatulong ang pagkonekta sa Wi‑Fi o mobile network para mabilis mong ma-set up ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}.
+
+Kung walang koneksyon, hindi mo magagawang:
+
+"<ul><li>Mag-sign in sa iyong Google Account</li>"
+
+"<li>Mag-restore ng mga app at data</li>"
+
+"<li>Kumuha ng mga update sa software</li>"
+
+"<li>Awtomatikong i-set up ang oras at petsa</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Nakakatulong ang pagkonekta sa Wi‑Fi o mobile network para mabilis mong ma-set up ang iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}}.
+
+Kung walang koneksyon, hindi mo magagawang:
+
+"<ul><li>Mag-sign in sa iyong Google Account</li>"
+
+"<li>Mag-restore ng mga app at data</li>"
+
+"<li>Mag-download ng SIM</li>"
+
+"<li>Kumuha ng mga update sa software</li>"
+
+"<li>Awtomatikong i-set up ang oras at petsa</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Pansamantalang puno ang access point</string>
+    <string name="wifi_check_password_try_again">Suriin ang password at subukang muli</string>
+    <string name="wifi_connected_no_internet">Nakakonekta, walang internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">Hindi nakakonekta dahil mababa ang kalidad ng network</string>
+    <string name="wifi_disabled_generic">Naka-disable</string>
+    <string name="wifi_disabled_network_failure">Pagkabigo ng Configuration ng IP</string>
+    <string name="wifi_disabled_password_failure">Problema sa pagpapatotoo</string>
+    <string name="wifi_fail_to_scan">Hindi makapag-scan ng mga network</string>
+    <string name="wifi_ip_address_not_available">Hindi available</string>
+    <string name="wifi_ip_address_title">IP address</string>
+    <string name="wifi_limited_connection">Limitadong koneksyon</string>
+    <string name="wifi_mac_address_not_available">Hindi available</string>
+    <string name="wifi_mac_address_title">MAC address</string>
+    <string name="wifi_metered_label">Nakametro</string>
+    <string name="wifi_no_internet">Walang access sa internet</string>
+    <string name="wifi_no_internet_no_reconnect">Hindi awtomatikong kokonekta</string>
+    <string name="wifi_not_in_range">Wala sa sakop</string>
+    <string name="wifi_remembered">Na-save</string>
+    <string name="wifi_scanning">Naghahanap ng mga Wi‑Fi network…</string>
+    <string name="wifi_set_up_offline_title">I-set up offline?</string>
+    <string name="wifi_skip_button_label">I-set up offline</string>
+    <string name="wifi_skipped_message">Gagamitin ng iyong {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} ang mobile network sa pag-set up, at maaari kang singilin para sa paggamit na ito ng data. Para maiwasan ang mga posibleng singil, kumonekta sa Wi‑Fi.</string>
+    <string name="wifi_skipped_title">Mga posibleng singil sa paggamit ng data</string>
+    <string name="wifi_title">Kumonekta sa Wi‑Fi</string>
+    <string name="wifi_unmetered_label">Hindi Nakametro</string>
+    <string name="work_profile_setup_description">Para ma-set up ang device na ito para sa trabaho at maihiwalay ang data ng trabaho sa personal na data</string>
+    <string name="work_profile_setup_next">Susunod</string>
+    <string name="work_profile_setup_skip">Laktawan ang pag-set up ng account sa trabaho</string>
+    <string name="work_profile_setup_title">Idagdag ang iyong account sa trabaho</string>
+    <string name="work_setup_interrupted">"May napansin kaming kakaibang aktibidad sa {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito, at baka mailagay sa panganib ang iyong data kung magpapatuloy ka sa pag-set up.
+
+Para magsimula ulit, i-reset ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito."</string>
+    <string name="work_setup_interrupted_title">Baka hindi ligtas ang {DEVICE_TYPE,select, PHONE{telepono}TABLET{tablet}other{device}} na ito</string>
+</resources>

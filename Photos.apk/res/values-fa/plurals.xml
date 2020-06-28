@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d مورد اسکن شد</item>
+        <item quantity="one">%1$d مورد اسکن شد</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d مورد انتخاب شد</item>
+        <item quantity="one">%1$d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">اندازه آلبوم جدید از حد مجاز فعلی %1$d مورد بیشتر می‌شود.</item>
+        <item quantity="one">اندازه آلبوم جدید از حد مجاز فعلی %1$d مورد بیشتر می‌شود.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">آلبوم %1$d مورد خواهد داشت.</item>
+        <item quantity="one">آلبوم %1$d مورد خواهد داشت.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d مکان اضافه شد</item>
+        <item quantity="one">%d مکان اضافه شد</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d مکان</item>
+        <item quantity="one">%d مکان</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d نقشه</item>
+        <item quantity="one">%d نقشه</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d نقشه اضافه شد</item>
+        <item quantity="one">%d نقشه اضافه شد</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">در حال حذف موارد از این آلبوم…</item>
+        <item quantity="one">در حال حذف مورد از این آلبوم…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d مورد برداشته شد</item>
+        <item quantity="one">%d مورد برداشته شد</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">در حال حذف عکس‌ها از این آلبوم…</item>
+        <item quantity="one">در حال حذف عکس از این آلبوم…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">در حال حذف ویدئوها از این آلبوم…</item>
+        <item quantity="one">در حال حذف ویدئو از این آلبوم…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d مورد</item>
+        <item quantity="one">%1$d مورد</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">حذف از دستگاه (%d)</item>
+        <item quantity="one">حذف از دستگاه (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">حذف همه از دستگاه (%d)</item>
+        <item quantity="one">حذف همه از دستگاه (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">انتقال به حذف‌شده‌ها (%d)</item>
+        <item quantity="one">انتقال به حذف‌شده‌ها (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d مورد بایگانی شد</item>
+        <item quantity="one">%d مورد بایگانی شد</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d مورد از بایگانی خارج شد</item>
+        <item quantity="one">%d مورد از بایگانی خارج شد</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s، %2$s و %3$d نفر دیگر</item>
+        <item quantity="one">%1$s، %2$s و %3$d نفر دیگر</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s و %2$d نفر دیگر</item>
+        <item quantity="one">%1$s و %2$d نفر دیگر</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d انتخاب شد</item>
+        <item quantity="one">%d انتخاب شد</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">درحال بارگذاری %d مورد</item>
+        <item quantity="one">درحال بارگذاری %d مورد</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d مورد پشتیبان‌گیری نشده است زیرا فضای ذخیره‌سازی حسابتان پر است</item>
+        <item quantity="one">%d مورد پشتیبان‌گیری نشده است زیرا فضای ذخیره‌سازی حسابتان پر است</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d مورد باقی مانده است</item>
+        <item quantity="one">%d مورد باقی مانده است</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d مورد پشتیبان‌گیری نشده است</item>
+        <item quantity="one">%d مورد پشتیبان‌گیری نشده است</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">‏%d مورد باقی‌مانده است • با کیفیت بالا</item>
+        <item quantity="one">‏%d مورد باقی‌مانده است • با کیفیت بالا</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">‏%d مورد باقی‌مانده است • با کیفیت اصلی</item>
+        <item quantity="one">‏%d مورد باقی‌مانده است • با کیفیت اصلی</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">درحال بارگذاری %d مورد</item>
+        <item quantity="one">درحال بارگذاری %d مورد</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d مورد باقی مانده است</item>
+        <item quantity="one">%d مورد باقی مانده است</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d مورد برای پشتیبان‌گیری باقی مانده است</item>
+        <item quantity="one">%d مورد برای پشتیبان‌گیری باقی مانده است</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d عکس پشتیبان‌گیری نشده است</item>
+        <item quantity="one">%1$d عکس پشتیبان‌گیری نشده است</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">پشتیبان‌گیری %d مورد</item>
+        <item quantity="one">پشتیبان‌گیری %d مورد</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">درحال بارگذاری %d مورد</item>
+        <item quantity="one">درحال بارگذاری %d مورد</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">بارگذاری %d ویدیو</item>
+        <item quantity="one">بارگذاری %d ویدیو</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d مورد برای بارگذاری</item>
+        <item quantity="one">%d مورد برای بارگذاری</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d ویدیو برای بارگذاری</item>
+        <item quantity="one">%d ویدیو برای بارگذاری</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d عکس پشتیبان‌گیری نشده است</item>
+        <item quantity="one">%d عکس پشتیبان‌گیری نشده است</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">همه %d عکس</item>
+        <item quantity="one">همه %d عکس</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">%1$d مورد پشتیبان‌گیری نشده است زیرا فضای ذخیره‌سازی حسابتان پر است</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری نشده است زیرا فضای ذخیره‌سازی حسابتان پر است</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">چون فضای ذخیره‌سازی‌تان تمام شده است، %1$d عکس پشتیبان‌گیری نشد</item>
+        <item quantity="one">چون فضای ذخیره‌سازی‌تان تمام شده است، %1$d عکس پشتیبان‌گیری نشد</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d مورد اضافه شد</item>
+        <item quantity="one">%1$d مورد اضافه شد</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">حداکثر %d مورد انتخاب کنید.</item>
+        <item quantity="one">حداکثر %d مورد انتخاب کنید.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">حداقل %d مورد انتخاب کنید.</item>
+        <item quantity="one">حداقل %d مورد انتخاب کنید.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">لطفاً مواردی در محدوده %d روز انتخاب کنید.</item>
+        <item quantity="one">لطفاً مواردی در محدوده %d روز انتخاب کنید.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d روز قبل</item>
+        <item quantity="one">%d روز قبل</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ساعت قبل</item>
+        <item quantity="one">%d ساعت قبل</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d هفته</item>
+        <item quantity="one">%d هفته</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d هفته قبل</item>
+        <item quantity="one">%d هفته قبل</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d دقیقه قبل</item>
+        <item quantity="one">%d دقیقه قبل</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d روز قبل</item>
+        <item quantity="one">%d روز قبل</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">حذف %1$d مورد از دستگاه</item>
+        <item quantity="one">حذف %1$d مورد از دستگاه</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">برداشتن %1$d عکس و ویدیوی اصلی</item>
+        <item quantity="one">برداشتن %1$d عکس و ویدیوی اصلی</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d کارت جدید</item>
+        <item quantity="one">%d کارت جدید</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d مورد اضافه شدد</item>
+        <item quantity="one">%d مورد اضافه شدد</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d به‌روزرسانی</item>
+        <item quantity="one">%1$d به‌روزرسانی</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">%1$s، %2$s و %3$d دیگر دیده‌اند</item>
+        <item quantity="one">%1$s، %2$s و %3$d دیگر دیده‌اند</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d نظر</item>
+        <item quantity="one">%1$d نظر</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">در حال ذخیره موارد در کتابخانه…</item>
+        <item quantity="one">در حال ذخیره مورد در کتابخانه…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">‏%1$s ‎• %3$s دقیقه پیش %2$d عکس را پسندید</item>
+        <item quantity="one">‏%1$s ‎• %3$s دقیقه پیش %2$d عکس را پسندید</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">‏%1$s ‎• %3$s دقیقه پیش %2$d ویدیو را پسندید</item>
+        <item quantity="one">‏%1$s ‎• %3$s دقیقه پیش %2$d ویدیو را پسندید</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">انتخاب %d مورد</item>
+        <item quantity="one">انتخاب %d مورد</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">حذف پوشه و %d مورد موجود در آن</item>
+        <item quantity="one">حذف پوشه و %d مورد موجود در آن</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">حذف از دستگاه (%d)</item>
+        <item quantity="one">حذف از دستگاه (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">مشکل در کپی کردن %d مورد</item>
+        <item quantity="one">مشکل در کپی کردن %d مورد</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d مورد کپی شد</item>
+        <item quantity="one">%d مورد کپی شد</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">مشکل در انتقال %d مورد</item>
+        <item quantity="one">مشکل در انتقال %d مورد</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d مورد منتقل شد</item>
+        <item quantity="one">%d مورد منتقل شد</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d نمای توصیه‌شده</item>
+        <item quantity="one">%d نمای توصیه‌شده</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d سال پیش</item>
+        <item quantity="one">%d سال پیش</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">چرخش %d درجه پادساعت‌گرد</item>
+        <item quantity="one">چرخش %d درجه پادساعت‌گرد</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">عکس‌هایی از %d نفر</item>
+        <item quantity="one">عکس‌هایی از %d نفر</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">عکس‌های %d چهره انتخاب‌شده</item>
+        <item quantity="one">عکس‌های %d چهره انتخاب‌شده</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d چهره انتخاب شد</item>
+        <item quantity="one">%d چهره انتخاب شد</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">عکس‌های %1$d چهره انتخاب‌شده، از %2$s</item>
+        <item quantity="one">عکس‌های %1$d چهره انتخاب‌شده، از %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">عکس‌های %d چهره انتخاب‌شده</item>
+        <item quantity="one">عکس‌های %d چهره انتخاب‌شده</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d عکس برداشته شد</item>
+        <item quantity="one">%1$d عکس برداشته شد</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">فقط %d نفر را انتخاب کنید</item>
+        <item quantity="one">فقط %d نفر را انتخاب کنید</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d عکس</item>
+        <item quantity="one">%1$d عکس</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d انتخاب شد</item>
+        <item quantity="one">%d انتخاب شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">فقط %d عکس را می‌توان چاپ کرد،</item>
+        <item quantity="one">فقط %d عکس را می‌توان چاپ کرد،</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d عکس به شما پیشنهاد شده است</item>
+        <item quantity="one">%d عکس به شما پیشنهاد شده است</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d عکس پیشنهاد شده است</item>
+        <item quantity="one">%d عکس پیشنهاد شده است</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d صفحه اضافه</item>
+        <item quantity="one">%d صفحه اضافه</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d صفحه</item>
+        <item quantity="one">%d صفحه</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">افزودن %d عکس دیگر برای خرید آلبوم عکس</item>
+        <item quantity="one">افزودن %d عکس دیگر برای خرید آلبوم عکس</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d صفحه اضافه شد</item>
+        <item quantity="one">%d صفحه اضافه شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d عکس اضافه شد</item>
+        <item quantity="one">%d عکس اضافه شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d صفحه برداشته شد</item>
+        <item quantity="one">%d صفحه برداشته شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d عکس برداشته شد</item>
+        <item quantity="one">%d عکس برداشته شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d صفحه اضافه</item>
+        <item quantity="one">%d صفحه اضافه</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d صفحه</item>
+        <item quantity="one">%d صفحه</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d عکس با اندازه چاپی %2$s اضافه شد</item>
+        <item quantity="one">%1$d عکس با اندازه چاپی %2$s اضافه شد</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">در هر سفارش تنها می‌توانید %1$d عکس %2$s برای چاپ انتخاب کنید</item>
+        <item quantity="one">در هر سفارش تنها می‌توانید %1$d عکس %2$s برای چاپ انتخاب کنید</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">برای ادامه کار با پیش‌نویس، حداقل به %1$d عکس نیاز دارید.</item>
+        <item quantity="one">برای ادامه کار با پیش‌نویس، حداقل به %1$d عکس نیاز دارید.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d چاپ</item>
+        <item quantity="one">%1$d چاپ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%1$d از %2$d مورد بارگیری شد</item>
+        <item quantity="one">%1$d از %2$d مورد بارگیری شد</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">%d مورد بازیابی شود؟</item>
+        <item quantity="one">%d مورد بازیابی شود؟</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d مورد تازه در این دستگاه بازیابی شدند</item>
+        <item quantity="one">%1$d مورد تازه در این دستگاه بازیابی شدند</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d عکس و ویدیو بازیابی شدند</item>
+        <item quantity="one">%1$d عکس و ویدیو بازیابی شدند</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d عکس</item>
+        <item quantity="one">%d عکس</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d مورد به آلبوم اضافه شد</item>
+        <item quantity="one">%d مورد به آلبوم اضافه شد</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">درحال بارگذاری %d مورد</item>
+        <item quantity="one">درحال بارگذاری %d مورد</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d مورد بعد از برقراری اتصال بارگذاری می‌شوند</item>
+        <item quantity="one">%d مورد بعد از برقراری اتصال بارگذاری می‌شوند</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">فایل‌های واقعی</item>
+        <item quantity="one">فایل‌های واقعی</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">فایل‌ها</item>
+        <item quantity="one">فایل‌ها</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">فایل‌های کوچک</item>
+        <item quantity="one">فایل‌های کوچک</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s و %2$d گیرنده دیگر</item>
+        <item quantity="one">%1$s و %2$d گیرنده دیگر</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">%d عکس مرتبط اضافه شود؟</item>
+        <item quantity="one">%d عکس مرتبط اضافه شود؟</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d به‌طور خودکار افزوده شد</item>
+        <item quantity="one">%1$d به‌طور خودکار افزوده شد</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d عکس جدید</item>
+        <item quantity="one">%1$d عکس جدید</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s، %2$d عکس جدید اضافه کرد</item>
+        <item quantity="one">%1$s، %2$d عکس جدید اضافه کرد</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">حذف موارد ممکن نیست</item>
+        <item quantity="one">حذف مورد ممکن نیست</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">حذف %d مورد ممکن نیست</item>
+        <item quantity="one">حذف %d مورد ممکن نیست</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">حذف دائم %d مورد ممکن نیست</item>
+        <item quantity="one">حذف دائم %d مورد ممکن نیست</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d از دستگاه حذف شد</item>
+        <item quantity="one">%d از دستگاه حذف شد</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">در حال بازیابی موارد…</item>
+        <item quantity="one">در حال بازیابی مورد…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">بازیابی %d مورد ممکن نیست</item>
+        <item quantity="one">بازیابی %d مورد ممکن نیست</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">این موارد به‌طور دائم حذف شوند؟</item>
+        <item quantity="one">این مورد به‌طور دائم حذف شود؟</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">حذف %d مورد به‌صورت دائمی</item>
+        <item quantity="one">حذف %d مورد به‌صورت دائمی</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">‏تاریخ انقضای این نسخه %d روز دیگر است. برای اینکه همچنان از Google Photos استفاده کنید، اکنون به‌روزرسانی کنید.</item>
+        <item quantity="one">‏تاریخ انقضای این نسخه %d روز دیگر است. برای اینکه همچنان از Google Photos استفاده کنید، اکنون به‌روزرسانی کنید.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">درحال بارگذاری %d مورد</item>
+        <item quantity="one">درحال بارگذاری %d مورد</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d مورد بعد از برقراری اتصال بارگذاری می‌شود</item>
+        <item quantity="one">%d مورد بعد از برقراری اتصال بارگذاری می‌شود</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">‏%d مورد بعد از برقراری اتصال به Wi-Fi، بارگذاری می‌شود</item>
+        <item quantity="one">‏%d مورد بعد از برقراری اتصال به Wi-Fi، بارگذاری می‌شود</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">درحال بارگذاری…%d باقی‌مانده است</item>
+        <item quantity="one">درحال بارگذاری…%d باقی‌مانده است</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d فایل</item>
+        <item quantity="one">%d فایل</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s عکس</item>
+        <item quantity="one">%s عکس</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s مورد</item>
+        <item quantity="one">%s مورد</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s ویدئو</item>
+        <item quantity="one">%s ویدئو</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">انتخاب عکس‌ها</item>
+        <item quantity="one">انتخاب عکس</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">انتخاب موارد</item>
+        <item quantity="one">انتخاب مورد</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">انتخاب ویدئوها</item>
+        <item quantity="one">انتخاب ویدیو</item>
+    </plurals>
+</resources>

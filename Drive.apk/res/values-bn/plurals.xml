@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$dটি আইটেম দেখাচ্ছে।</item>
+        <item quantity="one">%1$dটি আইটেম দেখাচ্ছে।</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$dটি মন্তব্য</item>
+        <item quantity="one">%1$dটি মন্তব্য</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">অ্যাকশন আইটেম: %1$d টি অনুসরণ করা আইটেম</item>
+        <item quantity="one">অ্যাকশন আইটেম: %1$d টি অনুসরণ করা আইটেম</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">আইটেমগুলি স্থায়ীভাবে মুছে ফেলা হয়েছে</item>
+        <item quantity="one">আইটেমগুলি স্থায়ীভাবে মুছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%sগুলি একটি সঠিক ইমেল আইডি নয়।</item>
+        <item quantity="one">%sগুলি একটি সঠিক ইমেল আইডি নয়।</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">এই ফাইলটি যোগ করা হলে শেয়ার করা ফোল্ডার %1$s যারা অ্যাক্সেস করতে পারেন তাদের সকলের সাথে এটি শেয়ার করা হবে</item>
+        <item quantity="one">এই ফাইলটি যোগ করা হলে শেয়ার করা ফোল্ডার %1$s যারা অ্যাক্সেস করতে পারেন তাদের সকলের সাথে এটি শেয়ার করা হবে</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">এই ফোল্ডারগুলি যোগ করা হলে শেয়ার করা ফোল্ডার অ্যাক্সেস করতে পারেন এমন সকলের সাথে এটি ভাগ করবে %1$s</item>
+        <item quantity="one">এই ফোল্ডারগুলি যোগ করা হলে এটি শেয়ার করা ফোল্ডার অ্যাক্সেস করতে পারেন এমন সকলের সাথে এটি শেয়ার করবে %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">এই ফাইল শেয়ার করবেন?</item>
+        <item quantity="one">এই ফাইল শেয়ার করবেন?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">এই ফোল্ডার শেয়ার করবেন?</item>
+        <item quantity="one">এই ফোল্ডার শেয়ার করবেন?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$dটি ফোল্ডার আপডেট করা হয়েছে। রঙ %2$s এ সেট করা হয়েছে</item>
+        <item quantity="one">%1$dটি ফোল্ডার আপডেট করা হয়েছে। রঙ %2$s এ সেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">ফিল্টার প্রয়োগ করুন:</item>
+        <item quantity="one">ফিল্টার প্রয়োগ করুন:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d দিনে মেয়াদ শেষ হবে</item>
+        <item quantity="one">%1$d দিনে মেয়াদ শেষ হবে</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">যদি ডিভাইসটি এখনও নিষ্ক্রিয় থাকে তবে এই ব্যাক-আপের মেয়াদ %1$d দিনের মধ্যে শেষ হয়ে যাবে।</item>
+        <item quantity="one">যদি ডিভাইসটি এখনও নিষ্ক্রিয় থাকে তবে এই ব্যাক-আপের মেয়াদ %1$d দিনের মধ্যে শেষ হয়ে যাবে।</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">ব্যাক-আপগুলি মুছে ফেলা হয়েছে।</item>
+        <item quantity="one">ব্যাক-আপগুলি মুছে ফেলা হয়েছে।</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$dটি কলাম।</item>
+        <item quantity="one">%1$dটি কলাম।</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$dটি ফ্রিজ করা কলাম।</item>
+        <item quantity="one">%1$dটি ফ্রিজ করা কলাম।</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$dটি ফ্রিজ করা সারি।</item>
+        <item quantity="one">%1$dটি ফ্রিজ করা সারি।</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$dটি সারি।</item>
+        <item quantity="one">%1$dটি সারি।</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%2$dটি আইটেমের জন্য %1$s</item>
+        <item quantity="one">%2$dটি আইটেমের জন্য %1$s</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$sটি উত্তর</item>
+        <item quantity="one">%1$sটি উত্তর</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">আইটেমগুলি ডাউনলোড করা যায়নি</item>
+        <item quantity="one">আইটেমগুলি ডাউনলোড করা যায়নি</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$dটি আইটেম ডাউনলোড করা হবে৷ বিশদ বিবরণের জন্য বিজ্ঞপ্তি দেখুন</item>
+        <item quantity="one">%1$dটি আইটেম ডাউনলোড করা হবে৷ বিশদ বিবরণের জন্য বিজ্ঞপ্তি দেখুন</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$dটি আইটেম ডাউনলোড করা হবে৷</item>
+        <item quantity="one">%1$dটি আইটেম ডাউনলোড করা হবে৷</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s এবং আরও %2$dটি আইটেম</item>
+        <item quantity="one">%1$s এবং আরও %2$dটি আইটেম</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$sটি আইটেম ডাউনলোড করা যায়নি</item>
+        <item quantity="one">%1$sটি আইটেম ডাউনলোড করা যায়নি</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$dটি আরও আইটেম</item>
+        <item quantity="one">%1$dটি আরও আইটেম</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%2$d এর মধ্যে %1$dটি ডাউনলোড করা যায়নি</item>
+        <item quantity="one">%2$d এর মধ্যে %1$dটি ডাউনলোড করা যায়নি</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">ফাইলগুলি সরানোর সময় সমস্যা হয়েছে।</item>
+        <item quantity="one">ফাইলগুলি সরানোর সময় সমস্যা হয়েছে।</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d জন অতিথি</item>
+        <item quantity="one">%d জন অতিথি</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$dটি শর্টকার্ট \"%1$s\"-এ যোগ করা হয়েছে</item>
+        <item quantity="one">%2$dটি শর্টকার্ট \"%1$s\"-এ যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">শর্টকার্টগুলি যোগ করা যাচ্ছে না। আবার চেষ্টা করুন</item>
+        <item quantity="one">শর্টকার্টগুলি যোগ করা যাচ্ছে না। আবার চেষ্টা করুন</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন। \"%2$s\" এর সদস্যরা এই আইটেমে অ্যাক্সেস পাবেন।</item>
+        <item quantity="one">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন। \"%2$s\" এর সদস্যরা এই আইটেমে অ্যাক্সেস পাবেন।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন। \"%2$s\" এর সদস্যরা এই আইটেমে অ্যাক্সেস পাবেন। আপনার কাছে শুধুমাত্র \"%3$s\"এর মধ্যে আইটেমগুলি যোগ করার ও এডিটি করার অনুমতি আছে, তাই আপনি এই কাজটিকে আগের ফেরাতে পারবেন না।</item>
+        <item quantity="one">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন। \"%2$s\" এর সদস্যরা এই আইটেমে অ্যাক্সেস পাবেন। আপনার কাছে শুধুমাত্র \"%3$s\"এর মধ্যে আইটেমগুলি যোগ করার ও এডিটি করার অনুমতি আছে, তাই আপনি এই কাজটিকে আগের ফেরাতে পারবেন না।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">ফাইলগুলির কিছু যেগুলি \"%1$s\"এ সরানো হচ্ছে সেগুলিতে DLP ট্রিগার শনাক্ত করা হয়েছে। এই ফাইলগুলি মধ্যে সংবেদনশীল তথ্য থাকতে পারে।</item>
+        <item quantity="one">ফাইলগুলির কিছু যেগুলি \"%1$s\"এ সরানো হচ্ছে সেগুলিতে DLP ট্রিগার শনাক্ত করা হয়েছে। এই ফাইলগুলি মধ্যে সংবেদনশীল তথ্য থাকতে পারে।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন।</item>
+        <item quantity="one">এই আইটেমগুলি \"%1$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেটির অ্যাক্সেস হারাবেন।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">এই আইটেমগুলি সরানো হলে সেগুলি এমন সবার সাথে শেয়ার করা হবে যারা শেয়ার করা \"%1$s\" ফোল্ডারটি দেখতে পান। এই আইটেমগুলি \"%2$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেগুলির অ্যাক্সেস হারাবেন।</item>
+        <item quantity="one">এই আইটেমগুলি সরানো হলে সেগুলি এমন সবার সাথে শেয়ার করা হবে যারা শেয়ার করা \"%1$s\" ফোল্ডারটি দেখতে পান। এই আইটেমগুলি \"%2$s\" এর সদস্যদের সাথে শেয়ার না করা হলে তারা সেগুলির অ্যাক্সেস হারাবেন।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">আপনি শেয়ার করা ফোল্ডারগুলি থেকে কিছু আইটেম সরাচ্ছেন, তাই অন্যরা এই আইটেমগুলিতে অ্যাক্সেস হারাবেন৷</item>
+        <item quantity="one">আপনি শেয়ার করা ফোল্ডারগুলি থেকে কিছু আইটেম সরাচ্ছেন, তাই অন্যরা এই আইটেমগুলিতে অ্যাক্সেস হারাবেন৷</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">এই আইটেমগুলি থেকে অতিরিক্ত নিষেধাজ্ঞাগুলি সরানো হবে।</item>
+        <item quantity="one">এই আইটেমগুলি থেকে অতিরিক্ত নিষেধাজ্ঞাগুলি সরানো হবে।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">এই ফাইলগুলি সরানোর মাধ্যমে এগুলিকে যারা শেয়ার করা ফোল্ডার %1$sঅ্যাক্সেস করতে পারেন তাদের সবার সাথে শেয়ার করে হবে</item>
+        <item quantity="one">এই ফাইলগুলি সরানোর মাধ্যমে এগুলিকে যারা শেয়ার করা ফোল্ডার %1$sঅ্যাক্সেস করতে পারেন তাদের সবার সাথে শেয়ার করে হবে</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">এই ফোল্ডারগুলি সরানো হলে শেয়ার করা ফোল্ডার %1$sটি অ্যাক্সেস করতে পারেন তাদের সকলের সাথে এটি শেয়ার করা হবে।</item>
+        <item quantity="one">এই ফোল্ডারগুলি সরানো হলে শেয়ার করা ফোল্ডার %1$sটি অ্যাক্সেস করতে পারেন তাদের সকলের সাথে এটি শেয়ার করা হবে।</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">এই ফাইলগুলি শেয়ার করবেন?</item>
+        <item quantity="one">এই ফাইলগুলি শেয়ার করবেন?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">এই ফোল্ডারগুলি শেয়ার করবেন?</item>
+        <item quantity="one">এই ফোল্ডারগুলি শেয়ার করবেন?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">কিছু আইটেম শেয়ার্ড ড্রাইভের বাইরে সরানোর অনুমতি আপনার নেই।</item>
+        <item quantity="one">কিছু আইটেম শেয়ার্ড ড্রাইভের বাইরে সরানোর অনুমতি আপনার নেই।</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">আইটেমগুলি যে ফোল্ডারে রয়েছে সেটির বাইরে সরানোর অনুমতি আপনার কাছে নেই৷</item>
+        <item quantity="one">আইটেমগুলি যে ফোল্ডারে রয়েছে সেটির বাইরে সরানোর অনুমতি আপনার কাছে নেই৷</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">আপনি এই ফাইলটি সরাতে পারবেন না কারণ ফাইলের মালিক %1$s এর বাইরের সদস্য।</item>
+        <item quantity="one">আপনি এই ফাইলটি সরাতে পারবেন না কারণ ফাইলের মালিক %1$s এর বাইরের সদস্য।</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" এখন সেগুলি সজজেই অ্যাক্সেস করতে পারেন৷</item>
+        <item quantity="one">%1$s \"%2$s\" এখন সেগুলি সজজেই অ্যাক্সেস করতে পারেন৷</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$dটি আইটেম শেয়ার্ড ড্রাইভে সরানো হয়েছে। মেম্বাররা এখন সেগুলি অ্যাক্সেস করতে পারেন।</item>
+        <item quantity="one">%1$dটি আইটেম শেয়ার্ড ড্রাইভে সরানো হয়েছে। মেম্বাররা এখন সেগুলি অ্যাক্সেস করতে পারেন।</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$dটি আইটেম শেয়ার্ড ড্রাইভ থেকে সরানো হয়েছে। মেম্বাররা অ্যাক্সেস হারিয়েছেন।</item>
+        <item quantity="one">%1$dটি আইটেম শেয়ার্ড ড্রাইভ থেকে সরানো হয়েছে। মেম্বাররা অ্যাক্সেস হারিয়েছেন।</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
+        <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$dটি আইটেম</item>
+        <item quantity="one">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d জন অনুমোদনকারী</item>
+        <item quantity="one">%1$d জন অনুমোদনকারী</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$sটি অ্যাকশন আইটেম</item>
+        <item quantity="one">%1$sটি অ্যাকশন আইটেম</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$sটি উত্তর দেওয়া হয়নি উল্লেখ আছে</item>
+        <item quantity="one">%1$sটি উত্তর দেওয়া হয়নি উল্লেখ আছে</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$sটি সাজেশন</item>
+        <item quantity="one">%1$sটি সাজেশন</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$sটি কাজ করতে হবে</item>
+        <item quantity="one">%1$sটি কাজ করতে হবে</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">আইটেমগুলি স্থায়ীভাবে মোছে ফেলা হয়েছে</item>
+        <item quantity="one">আইটেমগুলি স্থায়ীভাবে মোছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%2$s এর মধ্যে %1$dটি এখন অফলাইনে উপলভ্য।</item>
+        <item quantity="one">%2$s এর মধ্যে %1$dটি এখন অফলাইনে উপলভ্য।</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">সব %1$dটি ফাইল এখন অফলাইন উপলভ্য।</item>
+        <item quantity="one">সব %1$dটি ফাইল এখন অফলাইন উপলভ্য।</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">ফাইলগুলি অফলাইনে পাওয়া যাবে না</item>
+        <item quantity="one">ফাইলগুলি অফলাইনে পাওয়া যাবে না</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d টি ফাইল অফলাইনে পাওয়া যাবে না।</item>
+        <item quantity="one">%1$d টি ফাইল অফলাইনে পাওয়া যাবে না।</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$dটি ফাইল</item>
+        <item quantity="one">%1$dটি ফাইল</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">ডাউনলোডগুলি থামানো হয়েছে, নেটওয়ার্কের জন্য অপেক্ষা করা হচ্ছে…</item>
+        <item quantity="one">ডাউনলোডগুলি থামানো হয়েছে, নেটওয়ার্কের জন্য অপেক্ষা করা হচ্ছে…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d ডাউনলোডগুলি থামানো হয়েছে।</item>
+        <item quantity="one">%1$d ডাউনলোডগুলি থামানো হয়েছে।</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">ডাউনলোডগুলি থামানো হয়েছে, ওয়াই-ফাইয়ের জন্য অপেক্ষা করা হচ্ছে...</item>
+        <item quantity="one">ডাউনলোডগুলি থামানো হয়েছে, ওয়াই-ফাইয়ের জন্য অপেক্ষা করা হচ্ছে...</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d টি আইটেম ট্র্যাশে সরানো হবে৷ এটি Google ফটো থেকে সেগুলিকে সরিয়ে দেবে।</item>
+        <item quantity="one">%1$d টি আইটেম ট্র্যাশে সরানো হবে৷ এটি Google ফটো থেকে সেগুলিকে সরিয়ে দেবে।</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$dটি আইটেম ট্র্যাশে সরানো হবে।</item>
+        <item quantity="one">%1$dটি আইটেম ট্র্যাশে সরানো হবে।</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$sটি আইটেম ফলো করুন</item>
+        <item quantity="one">%1$sটি আইটেম ফলো করুন</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$sটি আইটেম ফলো করুন</item>
+        <item quantity="one">%1$sটি আইটেম ফলো করুন</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">ফলো-আপ</item>
+        <item quantity="one">ফলো-আপ</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">%1$dটি ফাইলে মন্তব্য করা হয়েছে</item>
+        <item quantity="one">%1$dটি ফাইলে মন্তব্য করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">%1$dটি ফাইলে মন্তব্য করা হয়েছে</item>
+        <item quantity="one">%1$dটি ফাইলে মন্তব্য করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">এই ফাইলটিতে মন্তব্য করা হয়েছে</item>
+        <item quantity="one">এই ফাইলটিতে মন্তব্য করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$dটি আইটেম তৈরি করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম তৈরি করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$dটি আইটেম তৈরি করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম তৈরি করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">এই ফাইল তৈরি করেছেন</item>
+        <item quantity="one">এই ফাইল তৈরি করেছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">এই ফোল্ডারটি তৈরি করেছে</item>
+        <item quantity="one">এই ফোল্ডারটি তৈরি করেছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$dটি আইটেম এডিট করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম এডিট করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$dটি আইটেম এডিট করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম এডিট করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">এই ফাইলটিতে এডিট করেছেন</item>
+        <item quantity="one">এই ফাইলটিতে এডিট করেছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$dটি আইটেম স্থায়ীভাবে মুছে ফেলা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম স্থায়ীভাবে মুছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">এতে %1$dটি আইটেম সরানো হয়েছে:</item>
+        <item quantity="one">এতে %1$dটি আইটেম সরানো হয়েছে:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">এতে %1$dটি আইটেম সরানো হয়েছে:</item>
+        <item quantity="one">এতে %1$dটি আইটেম সরানো হয়েছে:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">এই ফাইলটি সরানো হয়েছে</item>
+        <item quantity="one">এই ফাইলটি সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">এই ফাইলটি এখানে সরানো হয়েছে:</item>
+        <item quantity="one">এই ফাইলটি এখানে সরানো হয়েছে:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">এই ফোল্ডারটি সরানো হয়েছে</item>
+        <item quantity="one">এই ফোল্ডারটি সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">এই ফাইলটি এখানে সরানো হয়েছে:</item>
+        <item quantity="one">এই ফাইলটি এখানে সরানো হয়েছে:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">%1$dটি আইটেমের আবার নাম দেওয়া হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেমের আবার নাম দেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">%1$dটি আইটেমের আবার নাম দেওয়া হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেমের আবার নাম দেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">এই ফাইলটির নতুন নাম দিয়েছেন</item>
+        <item quantity="one">এই ফাইলটির নতুন নাম দিয়েছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">এই ফোল্ডারটির নতুন নাম দিয়েছেন</item>
+        <item quantity="one">এই ফোল্ডারটির নতুন নাম দিয়েছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$dটি আইটেম শেয়ার করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম শেয়ার করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$dটি আইটেম শেয়ার করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম শেয়ার করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">এই ফাইলটি শেয়ার করেছেন</item>
+        <item quantity="one">এই ফাইলটি শেয়ার করেছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">এই ফাইলটি শেয়ার করেছেন</item>
+        <item quantity="one">এই ফাইলটি শেয়ার করেছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$dটি আইটেম ট্র্যাশে সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ট্র্যাশে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$dটি আইটেম ট্র্যাশে সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ট্র্যাশে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">এই ফাইলটি সরানো হয়েছে</item>
+        <item quantity="one">এই ফাইলটি সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">এই ফাইলটি সরানো হয়েছে</item>
+        <item quantity="one">এই ফাইলটি সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$dটি আইটেম আপলোড করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম আপলোড করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$dটি আইটেম আপলোড করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম আপলোড করা হয়েছে</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">এই ফাইলটি আপলোড করেছেন</item>
+        <item quantity="one">এই ফাইলটি আপলোড করেছেন</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">এই ফোল্ডারটি আপলোড করেছেন</item>
+        <item quantity="one">এই ফোল্ডারটি আপলোড করেছেন</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d টি ফাইল %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="one">%1$d টি ফাইল %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$dটি ফোল্ডার %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="one">%1$dটি ফোল্ডার %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d টি আইটেম %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="one">%1$d টি আইটেম %2$s ট্র্যাশে সরানো হবে এবং ৩০ দিন পরে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">এই %1$dটি ফাইল &lt;b>প্রত্যেকের জন্য স্থায়ীভাবে মুছে ফেলা হবে&lt;/b> । মোছা হয়ে গেলে আপনি সেগুলি আর ফিরিয়ে আনতে পারবেন না।</item>
+        <item quantity="one">এই %1$dটি ফাইল &lt;b>প্রত্যেকের জন্য স্থায়ীভাবে মুছে ফেলা হবে&lt;/b> । মোছা হয়ে গেলে আপনি সেগুলি আর ফিরিয়ে আনতে পারবেন না।</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">এই %1$dটি ফাইল স্থায়ীভাবে মুছে ফেলা হবে। আপনি এই অ্যাকশনটি আগের অবস্থায় ফিরিয়ে আনতে পারবেন না।</item>
+        <item quantity="one">এই %1$dটি ফাইল স্থায়ীভাবে মুছে ফেলা হবে। আপনি এই অ্যাকশনটি আগের অবস্থায় ফিরিয়ে আনতে পারবেন না।</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$dটি আইটেম</item>
+        <item quantity="one">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$dটি আইটেম বেছে নেওয়া হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম বেছে নেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$dটি আইটেম বেছে নেওয়া হয়নি</item>
+        <item quantity="one">%1$dটি আইটেম বেছে নেওয়া হয়নি</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">ফাইল অফলাইনে পাওয়া যাবে</item>
+        <item quantity="one">ফাইল অফলাইনে পাওয়া যাবে</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$dটি আইটেম তারা চিহ্নিত করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম তারা চিহ্নিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">ফাইল আর অফলাইনে পাওয়া যাবে না</item>
+        <item quantity="one">ফাইল আর অফলাইনে পাওয়া যাবে না</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$dটি আইটেমের তারা চিহ্ন সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেমের তারা চিহ্ন সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$dটি আইটেম পুনরুদ্ধার করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম পুনরুদ্ধার করা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$dটি আইটেম \"%2$s\" থেকে সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম \"%2$s\" থেকে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$dটি আইটেম ফোল্ডার থেকে সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ফোল্ডার থেকে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$dটি আইটেম ট্র্যাশে ফিরিয়ে আনা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ট্র্যাশে ফিরিয়ে আনা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$dটি আইটেম \"%2$s\" এ যোগ করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম \"%2$s\" এ যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$dটি আইটেম যোগ করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে এবং \"%2$s\" এ যোগ করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে এবং \"%2$s\" এ যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$dটি আইটেম \"%2$s\".এ সরানো হয়েছে।</item>
+        <item quantity="one">%1$dটি আইটেম \"%2$s\".এ সরানো হয়েছে।</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে এবং \"%2$s\".এ সরানো হয়েছে৷</item>
+        <item quantity="one">%1$dটি আইটেম ফিরিয়ে আনা হয়েছে এবং \"%2$s\".এ সরানো হয়েছে৷</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$dটি আইটেম রিস্টোর করা হয়েছে।</item>
+        <item quantity="one">%1$dটি আইটেম রিস্টোর করা হয়েছে।</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$dটি আইটেম \"%2$s\"এ ফিরিয়ে আনা হয়েছে।</item>
+        <item quantity="one">%1$dটি আইটেম \"%2$s\"এ ফিরিয়ে আনা হয়েছে।</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">এর মাধ্যমে ফাইল পাঠান</item>
+        <item quantity="one">এর মাধ্যমে ফাইল পাঠান</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d জন ব্যাক্তি এখন অ্যাক্সেস করতে পারেন</item>
+        <item quantity="one">%1$d জন ব্যাক্তি এখন অ্যাক্সেস করতে পারেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s এবং অন্যান্য %2$d জন এখন অ্যাক্সেস করতে পারবেন</item>
+        <item quantity="one">%1$s এবং অন্যান্য %2$d জন এখন অ্যাক্সেস করতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d জন ব্যক্তি এখন মন্তব্য যোগ করতে পারবেন</item>
+        <item quantity="one">%1$d জন ব্যক্তি এখন মন্তব্য যোগ করতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s এবং অন্য %2$d জন এখন মন্তব্য যোগ করতে পারবেন</item>
+        <item quantity="one">%1$s এবং অন্য %2$d জন এখন মন্তব্য যোগ করতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d জন ব্যক্তি এখন সম্পাদনা করতে পারবেন</item>
+        <item quantity="one">%1$d জন ব্যক্তি এখন সম্পাদনা করতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s এবং %2$dটি একজন এখন সম্পাদনা করতে পারবেন</item>
+        <item quantity="one">%1$s এবং %2$dটি একজন এখন সম্পাদনা করতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d জন ব্যক্তি এখন দেখতে পারবেন</item>
+        <item quantity="one">%1$d জন ব্যক্তি এখন দেখতে পারবেন</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s এবং %2$d জন এখন দেখতে পারবেন</item>
+        <item quantity="one">%1$s এবং %2$d জন এখন দেখতে পারবেন</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">ড্রাইভ স্টোরেজ %1$d দিনের মধ্যে মেয়াদ শেষ হবে</item>
+        <item quantity="one">ড্রাইভ স্টোরেজ %1$d দিনের মধ্যে মেয়াদ শেষ হবে</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d জন ব্যক্তিকে শেয়ার্ড ড্রাইভে যোগ করা হয়েছে</item>
+        <item quantity="one">%1$d জন ব্যক্তিকে শেয়ার্ড ড্রাইভে যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s এবং অন্য %3$d জনকে %1$s এ যোগ করা হয়েছে</item>
+        <item quantity="one">%2$s এবং অন্য %3$d জনকে %1$s এ যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d জন সদস্য</item>
+        <item quantity="one">%d জন সদস্য</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">সমস্ত এখন আবার চালু করুন</item>
+        <item quantity="one">সমস্ত এখন আবার চালু করুন</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$dটি ফাইল আপলোড বাতিল করা হয়েছে।</item>
+        <item quantity="one">%1$dটি ফাইল আপলোড বাতিল করা হয়েছে।</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">আপলোড করার জন্য %1$dটি ফাইলের সময় নির্ধারণ করা যায়নি।</item>
+        <item quantity="one">আপলোড করার জন্য %1$dটি ফাইলের সময় নির্ধারণ করা যায়নি।</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$dটি ফাইল আপলোড করা হয়েছে।</item>
+        <item quantity="one">%1$dটি ফাইল আপলোড করা হয়েছে।</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%2$dটি ফাইলের মধ্যে %1$dটি আপলোড করা যায়নি।</item>
+        <item quantity="one">%2$dটি ফাইলের মধ্যে %1$dটি আপলোড করা যায়নি।</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$dটি ফাইল আপলোড হচ্ছে।</item>
+        <item quantity="one">%1$dটি ফাইল আপলোড হচ্ছে।</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">আপলোডগুলি থামানো হয়েছে, নেটওয়ার্কের জন্য অপেক্ষা করা হচ্ছে…</item>
+        <item quantity="one">আপলোডগুলি থামানো হয়েছে, নেটওয়ার্কের জন্য অপেক্ষা করা হচ্ছে…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d আপলোডগুলি থামানো হয়েছে৷</item>
+        <item quantity="one">%1$d আপলোডগুলি থামানো হয়েছে৷</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">আপলোডগুলি থামানো হয়েছে, ওয়াই-ফাইয়ের জন্য অপেক্ষা করা হচ্ছে ...</item>
+        <item quantity="one">আপলোডগুলি থামানো হয়েছে, ওয়াই-ফাইয়ের জন্য অপেক্ষা করা হচ্ছে ...</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">আপলোডের করার জন্য %1$dটি ফাইল প্রস্তুত করা হচ্ছে।</item>
+        <item quantity="one">আপলোডের করার জন্য %1$dটি ফাইল প্রস্তুত করা হচ্ছে।</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">আপনার %1$dটি ফাইল এতে আপলোড করা হয়েছে: %2$s</item>
+        <item quantity="one">আপনার %1$dটি ফাইল এতে আপলোড করা হয়েছে: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$dটি ফাইল দেখুন</item>
+        <item quantity="one">%1$dটি ফাইল দেখুন</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%2$s এ %1$dটি ফাইল দেখুন</item>
+        <item quantity="one">%2$s এ %1$dটি ফাইল দেখুন</item>
+    </plurals>
+</resources>

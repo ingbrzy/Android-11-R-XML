@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eyða</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_search">Leit</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="accessibility_no_wifi">Wi-Fi ótengt.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: Eitt strik.</string>
+    <string name="accessibility_wifi_security_type_none">Opið net</string>
+    <string name="accessibility_wifi_security_type_secured">Öruggt net</string>
+    <string name="accessibility_wifi_signal_full">Fullur Wi-Fi sendistyrkur.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: Þrjú strik.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: Tvö strik.</string>
+    <string name="account_exists_info">"Tölvupósturinn þinn, tengiliðir, dagatalsviðburðir og fleira verður samstillt í {DEVICE_TYPE,select, PHONE{þessum síma}TABLET{þessari spjaldtölvu}other{þessu tæki}}. Þú getur einnig byrjað að sækja forrit, tónlist og leiki á Google Play.
+
+Þú getur bætt við og fjarlægt reikninga síðar með því að fara í Stillingar > Reikningar."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> er til reiðu.</string>
+    <string name="account_exists_text_unknown_name">Reikningurinn þinn er tilbúinn.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Reikningi bætt við}one{Reikningum bætt við}other{Reikningum bætt við}}</string>
+    <string name="activating_carrier_service_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="activating_unknown_carrier_service_title">Virkjar…</string>
+    <string name="activation_failed_message">"Þú getur:
+"<ul><li>Reynt aftur að tengjast farsímagögnum</li>"
+"<li>Notað annað netkerfi við uppsetninguna</li></ul>"
+
+Ef þessar aðferðir virka ekki geturðu einnig endurræst {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}} og reynt aftur."</string>
+    <string name="activation_failed_title">Ekki tókst að tengjast farsímagögnum</string>
+    <string name="activation_progress_flow">"Tekur þetta of langan tíma?
+
+Hægt gengur að tengjast farsímagögnum. Þú getur farið til baka og reynt að tengjast öðru farsímakerfi í staðinn."</string>
+    <string name="activation_title">Tengist farsímaþjónustu…</string>
+    <string name="activation_unprovisioned_sim_message">Endurræstu {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}} og reyndu aftur, eða tengdu við Wi-Fi til að setja upp. Hafðu samband við símafyrirtækið þitt ef vandamál við virkjun farsímagagna eru viðvarandi.</string>
+    <string name="activation_unprovisioned_title">Ekki var hægt að virkja farsímagögn</string>
+    <string name="android_privacy_policy_title">Aukaleg persónuverndarstefna</string>
+    <string name="available_via_carrier">Í boði í gegnum %1$s</string>
+    <string name="cancel_button_label">Hætta við</string>
+    <string name="captive_portal_connection_unsuccessful">Ekki tókst að tengjast netinu</string>
+    <string name="captive_portal_description_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="captive_portal_ssl_error_text">Þessi tenging er með ótraust eða ógilt vottorð. Veldu annað netkerfi og reyndu aftur.</string>
+    <string name="captive_portal_title">Tengist…</string>
+    <string name="chrome_privacy_title">Persónuverndaryfirlýsing Chrome</string>
+    <string name="chrome_tos_title">Þjónustuskilmálar Chrome</string>
+    <string name="close_button_label">Loka</string>
+    <string name="common_google_play_services_enable_button">Kveikja</string>
+    <string name="common_google_play_services_enable_text">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_install_button">Setja upp</string>
+    <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Staða þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="connect_to_wifi_btn_text">Stillingar Wi-Fi</string>
+    <string name="connect_to_wifi_message">Tengstu við Wi-Fi til að halda áfram</string>
+    <string name="connect_to_wifi_title">Uppfærslur eru í boði fyrir forrit</string>
+    <string name="connected_via_app">Tenging í gegnum %1$s</string>
+    <string name="connected_via_carrier">Tengt í gegnum %1$s</string>
+    <string name="connected_via_network_scorer_default">Sjálfkrafa tengt um netgæðaveitu</string>
+    <string name="consolidate_captive_portal_description_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="consolidate_captive_portal_title">Leitar að uppfærslum…</string>
+    <string name="continue_for_a11y">Haltu áfram að snerta skjáinn þar til þú heyrir hljóðmerki til að gera aðgengisstillingu virka.</string>
+    <string name="date_time_current_date">Dagsetning</string>
+    <string name="date_time_current_time">Tími</string>
+    <string name="date_time_message">Gerðu breytingar ef þörf krefur.</string>
+    <string name="date_time_setup_title">Dagsetning og tími</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Áfram</string>
+    <string name="decision_point_google_assistant">Google hjálpari</string>
+    <string name="decision_point_illustration_description">Viðbótarskref innihalda Google hjálpara, Google Pay, Í spilun, leturstærð, veggfóður og fleira</string>
+    <string name="decision_point_leave_setup">Hætta og fá áminningu</string>
+    <string name="decision_point_now_playing">Í spilun</string>
+    <string name="default_device_name_device">tæki</string>
+    <string name="default_device_name_phone">sími</string>
+    <string name="default_device_name_tablet">spjaldtölva</string>
+    <string name="deferred_notification_prompt_title">Ljúktu við að setja upp ^1 tækið</string>
+    <string name="deferred_setup_button_label">Ljúka við uppsetningu</string>
+    <string name="deferred_setup_wizard_reason_assistant">tala við hjálparann</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">talaðu við Google hjálparann</string>
+    <string name="deferred_setup_wizard_reason_default">Aðeins nokkur skref í viðbót</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">afrita gögnin þín</string>
+    <string name="deferred_setup_wizard_reason_google_pay">nota Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">greiddu hraðar með Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 og fleira</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 og fleira</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Einungis örfá skref og þá er ^1 tilbúið</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">velja veggfóður</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">stilltu veggfóðrið</string>
+    <string name="deferred_setup_wizard_title">Ljúktu við að setja upp tækið</string>
+    <string name="deferred_snooze_dialog_option_never">Aldrei</string>
+    <string name="deferred_snooze_dialog_option_today">Síðar í dag</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Á morgun</string>
+    <string name="deferred_snooze_dialog_title">Minna mig á</string>
+    <string name="deferred_welcome_airplane_mode_message">"Þú þarft tengingu til að ljúka síðustu skrefum uppsetningarinnar.
+
+Þegar kveikt er á flugstillingu er slökkt á Wi-Fi, farsímakerfum og Bluetooth."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Setja upp síðar</string>
+    <string name="deferred_welcome_airplane_mode_title">Viltu slökkva á flugstillingu?</string>
+    <string name="deferred_welcome_screen_cancel_button">Minna mig á þetta seinna</string>
+    <string name="deferred_welcome_title">Ljúka uppsetningu ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Slökkva</string>
+    <string name="device_owner_continue">Halda uppsetningu áfram</string>
+    <string name="device_owner_reset">Endurstilla {DEVICE_TYPE,select, PHONE{símann}TABLET{spaldtölvuna}other{tækið}}</string>
+    <string name="device_owner_warning">{0} stjórnar {DEVICE_TYPE,select, PHONE{símanum þínum}TABLET{spjaldtölvunni þinni}other{tækinu þínu}} og hefur aðgang að upplýsingunum þínum. Ef þú vilt ekki að {0} hafi aðgang skaltu endurstilla {DEVICE_TYPE,select, PHONE{símann}TABLET{spaldtölvuna}other{tækið}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Síminn}TABLET{Spjaldtölvan}other{Tækið}} er hugsanlega undir eftirliti</string>
+    <string name="dialog_back_button_label">Til baka</string>
+    <string name="dialog_continue_button_label">Halda áfram</string>
+    <string name="early_update_installing_updates_text">Setur upp uppfærslur</string>
+    <string name="early_update_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="early_update_timeout_text">Tekur þetta of langan tíma? Prófaðu að fara til baka og tengjast öðru neti.</string>
+    <string name="early_update_title">Leitar að uppfærslum…</string>
+    <string name="emergency_dial">Neyðarsímtal</string>
+    <string name="enabled_a11y">Kveikt á aðgengisstillingu.</string>
+    <string name="esim_option_button_summary">Bæta við númeri með eSIM</string>
+    <string name="esim_option_button_title">Sækja SIM-kort í staðinn?</string>
+    <string name="esim_warning_title">Sækja SIM-kort</string>
+    <string name="esim_warning_txt">Ef þú ert %1$s áskrifandi færðu símtöl, skilaboð og gögn með því að sækja eSIM í stað þess að setja inn SIM-kort.</string>
+    <string name="esim_warning_txt_default">Tengstu við farsímakerfið þitt með því að hlaða niður upplýsingunum sem yfirleitt má finna á SIM-korti. Þetta kemur í stað venjulegs SIM-korts og er alveg jafn öruggt.</string>
+    <string name="exit_loading_launcher">Hleður ræsiforrit…</string>
+    <string name="factory_reset_button">Eyða og endurstilla</string>
+    <string name="factory_reset_confirmation">Eyða öllum reikningum og gögnum í {DEVICE_TYPE,select, PHONE{símanum}TABLET{spjaldtölvunni}other{tækinu}}? Ekki er hægt að afturkalla þessa aðgerð!</string>
+    <string name="factory_reset_confirmation_title">Endurstilla?</string>
+    <string name="factory_reset_instructions">Viðvörun: Við endurstillingu er öllum reikningum og gögnum í {DEVICE_TYPE,select, PHONE{þessum síma}TABLET{þessari spjaldtölvu}other{þessu tæki}} eytt.</string>
+    <string name="factory_reset_title">Endurstilla {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}}</string>
+    <string name="final_hold_description_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="final_hold_title">Klárar lokafrágang…</string>
+    <string name="final_hold_title_setup_work_account">Undirbýr síma fyrir vinnuuppsetningu…</string>
+    <string name="gms_account_checkin_title">Sækir reikningsupplýsingar…</string>
+    <string name="gms_checkin_description_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="gms_checkin_description_text_timeout">Tekur þetta of langan tíma? Prófaðu að fara til baka og tengjast öðru neti.</string>
+    <string name="gms_checkin_title">Leitar að uppfærslum…</string>
+    <string name="go_back_button_label">Til baka</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Þjónustuskilmálar Google Play</string>
+    <string name="google_plus_privacy_policy_title">Persónuverndarstefna Google plús</string>
+    <string name="google_privacy_policy_title">Persónuverndarstefna Google</string>
+    <string name="google_provisioning_disclaimer_content">Þjónustuskilmálar og persónuverndarstefna Google eiga við. Frekari upplýsingar má finna á &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Þjónustuskilmálar Google</string>
+    <string name="invalid_phone_number">Óþekkt símanúmer</string>
+    <string name="invalid_qr_code_content">Biddu kerfisstjórann þinn um réttan kóða</string>
+    <string name="invalid_qr_code_retry">Reyna aftur</string>
+    <string name="invalid_qr_code_title">Rangur QR-kóði</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes eru vörumerki í eigu Apple Inc., skráð í Bandaríkjunum og öðrum löndum.</string>
+    <string name="language_picker_section_all">Öll tungumál</string>
+    <string name="language_picker_section_suggested">Tillögur</string>
+    <string name="migrate_from_ios_description">Fylgdu þessum skrefum:</string>
+    <string name="migrate_from_ios_header">Afrita gögnin þín</string>
+    <string name="migrate_from_ios_instructions_1">1. Opnaðu Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Farðu á <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Fylgdu leiðbeiningunum</string>
+    <string name="network_description_text">Veldu net</string>
+    <string name="network_description_text_esim">Til að sækja SIM-kort skaltu tengjast Wi-Fi</string>
+    <string name="network_see_all_wifi">Sjá öll Wi-Fi net</string>
+    <string name="network_timeout_description_text">Reyndu aftur með því að nota annað net. Ef þú heldur áfram án tengingar geturðu lokið við einhver uppsetningarskref síðar.</string>
+    <string name="network_timeout_title">Ekki tókst að tengjast</string>
+    <string name="network_timeout_try_another_network_button">Prófa annað net</string>
+    <string name="network_title">Tengjast Wi-Fi</string>
+    <string name="network_use_cellular">Nota farsímakerfi fyrir uppsetningu</string>
+    <string name="network_use_cellular_carrier">Tengjast Wi-Fi síðar</string>
+    <string name="network_wifi_continue_button">Halda áfram</string>
+    <string name="not_set">Ekki stillt</string>
+    <string name="notification_channel_name_deferred">Viðbótaruppsetning</string>
+    <string name="notification_channel_name_initial">Uppsetning</string>
+    <string name="notification_channel_name_restore">Endurheimt gagna</string>
+    <string name="notification_channel_security_name_warnings">Öryggisviðvaranir</string>
+    <string name="ok_button_label">Í lagi</string>
+    <string name="ota_agreement_text">Með því að halda áfram og taka á móti þessari hugbúnaðaruppfærslu samþykkirðu <annotation link="tos">þjónustuskilmála Google</annotation> og <annotation link="google_privacy">persónuverndarstefnuna</annotation>.</string>
+    <string name="ota_info">{DEVICE_TYPE,select, PHONE{Síminn}TABLET{Spjaldtölvan}other{Tækið}} þarf að sækja uppfærslu og endurræsa.</string>
+    <string name="ota_size">Stærð: %s</string>
+    <string name="ota_update_title">Uppfæra {DEVICE_TYPE,select, PHONE{síma}TABLET{spjaldtölvu}other{tæki}}</string>
+    <string name="predeferred_prepare_setup">Undirbýr uppsetningu…</string>
+    <string name="predeferred_prepare_setup_details">Þú getur lokið við uppsetningu ^1 fljótlega</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Tengjast Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Tengstu við Wi-Fi til að halda áfram</string>
+    <string name="predeferred_wifi_required_notification_title">Uppfærslur eru í boði fyrir forrit</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Skönnun á QR-kóða</string>
+    <string name="region_picker_section_all">Öll svæði</string>
+    <string name="restart_setup_wizard_button_label">Setja upp {DEVICE_TYPE,select, PHONE{síma}TABLET{spjaldtölvu}other{tæki}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Til að nota {DEVICE_TYPE,select, PHONE{þennan síma}TABLET{þessa spjaldtölvu}other{þetta tæki}} þarftu fyrst að skrá þig inn á Google reikning eiganda, sem var í notkun í {DEVICE_TYPE,select, PHONE{símanum}TABLET{spjaldtölvunni}other{tækinu}} þegar síðasta endurstilling fór fram.
+
+Þar sem þú hefur ekki gert það þarftu að setja {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}} upp aftur."</string>
+    <string name="restart_setup_wizard_dialog_title">Ekki skráð(ur) inn</string>
+    <string name="restore_failed_message">Ekki er hægt að endurheimta afrit</string>
+    <string name="restore_no_backup_message">Engin öryggisafrit eru tiltæk á hinu tækinu þínu</string>
+    <string name="restore_no_backup_title">Ekki hægt að endurheimta</string>
+    <string name="restore_stopped_message">Ekki var hægt að ljúka við endurheimt afrita</string>
+    <string name="restore_title">Endurheimtir…</string>
+    <string name="setup_ongoing_notification_text">Ýttu til að ljúka við uppsetningu ^1</string>
+    <string name="setup_ongoing_notification_title">Uppsetning ^1 er í gangi</string>
+    <string name="setup_wizard_title">Uppsetning Android</string>
+    <string name="sim_locked_text">"Þessi sími er læstur fyrir ákveðið símafyrirtæki. Þú þarft að nota gilt SIM-kort.
+
+Eftir að þú setur SIM-kortið í gæti það tekið nokkrar sekúndur í að virkja sig."</string>
+    <string name="sim_locked_title">Ekki er stuðningur við SIM-kortið</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Settu SIM-kortið í núna ef þú ert með það}one{Settu SIM-kortin í núna ef þú ert með þau}other{Settu SIM-kortin í núna ef þú ert með þau}}</string>
+    <string name="sim_missing_title">Tengjast farsímakerfi</string>
+    <string name="sim_ready_message">%1$s ætti að vera tilbúið til notkunar</string>
+    <string name="sim_ready_message_carrier_app">Til að ljúka við að virkja %1$s þarftu að sækja %2$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="sim_ready_message_invalid_phone_number">Númerið þitt ætti að vera tilbúið til notkunar</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Til að ljúka við að virkja númerið þitt þarftu að sækja %1$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="sim_ready_title">%1$s er virkt</string>
+    <string name="sim_ready_title_carrier_app">Tengjast við %1$s síðar</string>
+    <string name="sim_setup_ask_every_time">Spyrja í hvert skipti</string>
+    <string name="sim_setup_select_data">Stilling farsímagagna</string>
+    <string name="sim_setup_select_data_description">Veldu númer til að nota fyrir farsímagögn</string>
+    <string name="sim_setup_select_text">SMS-kjörstilling</string>
+    <string name="sim_setup_select_text_description">Veldu númer fyrir send skilaboð (öll virk númer geta tekið við skilaboðum)</string>
+    <string name="sim_setup_select_voice">Símtalastilling</string>
+    <string name="sim_setup_select_voice_description">Veldu númer fyrir hringd símtöl (öll virk númer geta svarað símtölum)</string>
+    <string name="sim_setup_title">Setja upp SIM-kort</string>
+    <string name="skip_anyway_button_label">Sleppa samt</string>
+    <string name="skip_button_label">Sleppa</string>
+    <string name="skip_toast">Uppsetningarforriti sleppt</string>
+    <string name="slots_selection_item_summary_activating">Virkjar…</string>
+    <string name="slots_selection_item_summary_error">Ekki er hægt að virkja eins og er</string>
+    <string name="slots_selection_title">Veldu númerið sem á að nota</string>
+    <string name="speed_label_fast">Hratt</string>
+    <string name="speed_label_okay">Í lagi</string>
+    <string name="speed_label_slow">Hægt</string>
+    <string name="speed_label_very_fast">Mjög hratt</string>
+    <string name="sud_back_button_label">Til baka</string>
+    <string name="sud_more_button_label">Meira</string>
+    <string name="sud_next_button_label">Áfram</string>
+    <string name="suggested_actions_description">Settu upp aðeins meira núna eða gerðu það seinna í stillingunum</string>
+    <string name="suggested_actions_description_single_item">Hér er eitt í viðbót sem þú getur sett upp á ^1. Þú getur líka gert það seinna úr stillingunum.</string>
+    <string name="suggested_actions_done_label">Lokið í bili</string>
+    <string name="suggested_actions_no_thanks_label">Nei, takk</string>
+    <string name="suggested_actions_title">Eitthvað fleira?</string>
+    <string name="switch_camera">Skipta um myndavél</string>
+    <string name="switch_to_back_camera_button_content_description">Aftari myndavél</string>
+    <string name="switch_to_front_camera_button_content_description">Fremri myndavél</string>
+    <string name="switched_to_back_camera_announcement">Hnappurinn er nú fremri myndavél</string>
+    <string name="switched_to_front_camera_announcement">Hnappurinn er nú aftari myndavél</string>
+    <string name="tap_to_sign_up">Ýttu til að skrá þig</string>
+    <string name="terminate_toast">"Hætt í uppsetningarforriti 
+Tæki ekki úthlutað"</string>
+    <string name="try_again_button_label">Reyna aftur</string>
+    <string name="url_load_unsuccessful_message">{DEVICE_TYPE,select, PHONE{Síminn er ekki tengdur}TABLET{Spjaldtölvan er ekki tengd}other{Tækið er ekki tengt}} við farsímagagnaþjónustu. Til að skoða þessar upplýsingar núna skaltu fara á {0} í vafra.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Síminn er ekki tengdur}TABLET{Spjaldtölvan er ekki tengd}other{Tækið er ekki tengt}} við Wi-Fi net. Til að skoða þessar upplýsingar núna skaltu opna {0} í vafra.</string>
+    <string name="user_warning_cannot_switch_message">Ekki er hægt að skipta aftur yfir í eiganda. Reyndu aftur síðar.</string>
+    <string name="user_warning_label_continue">Áfram</string>
+    <string name="user_warning_label_quit">Hætta við</string>
+    <string name="user_warning_quit_dialog_button_keep">Halda notanda</string>
+    <string name="user_warning_quit_dialog_button_remove">Fjarlægja notanda</string>
+    <string name="user_warning_quit_dialog_message">Fjarlægja notandann?</string>
+    <string name="user_warning_title">Setja upp nýjan notanda</string>
+    <string name="wait_msg">Augnablik…</string>
+    <string name="web_dialog_unable_to_view">Til að skoða þessar upplýsingar núna skaltu opna ^1 í vafra.</string>
+    <string name="welcome_accessibility_button">Útlitsstillingar</string>
+    <string name="welcome_language_picker_content_description">Tungumál: %s</string>
+    <string name="welcome_language_picker_dialog_title">Veldu tungumál</string>
+    <string name="welcome_message">Halló</string>
+    <string name="welcome_secondary_user_added_text">Þér hefur verið bætt við {DEVICE_TYPE,select, PHONE{þennan síma}TABLET{þessa spjaldtölvu}other{þetta tæki}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Mikilvægt:</b>"
+
+"<ul><li>Eigandi {DEVICE_TYPE,select, PHONE{símans}TABLET{spjaldtölvunnar}other{tækisins}} getur fjarlægt forrit sem þú hefur sett upp eða fjarlægt notandaprófílinn þinn eins og hann leggur sig</li>"
+
+"<li>Aðrir notendur geta samþykkt uppfærðar heimildir forrita</li>"
+
+"<li>Þú ættir aðeins að deila {DEVICE_TYPE,select, PHONE{símanum}TABLET{spjaldtölvunni}other{tækinu}} með fólki sem þú treystir</li></ul></string>
+    <string name="welcome_start_button_label">Byrja</string>
+    <string name="wifi_add_new_network">Bæta við nýju netkerfi</string>
+    <string name="wifi_and_mobile_skipped_message">"Ef þú tengist Wi-Fi eða farsímakerfi geturðu sett {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}} upp á fljótlegan hátt.
+
+Án nettengingar geturðu ekki:
+
+"<ul><li>skráð þig inn á Google reikninginn þinn</li>"
+
+"<li>endurheimt forrit og gögn</li>"
+
+"<li>fengið hugbúnaðaruppfærslur</li>"
+
+"<li>stillt tíma og dagsetningu sjálfkrafa</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Ef þú tengist Wi-Fi eða farsímakerfi geturðu sett {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}} upp á fljótlegan hátt.
+
+Án nettengingar geturðu ekki:
+
+"<ul><li>skráð þig inn á Google reikninginn þinn</li>"
+
+"<li>endurheimt forrit og gögn</li>"
+
+"<li>sótt SIM-kort</li>"
+
+"<li>fengið hugbúnaðaruppfærslur</li>"
+
+"<li>stillt tíma og dagsetningu sjálfkrafa</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Aðgangsstaður tímabundið fullur</string>
+    <string name="wifi_check_password_try_again">Athugaðu aðgangsorðið og reyndu aftur</string>
+    <string name="wifi_connected_no_internet">Tengt, enginn netaðgangur</string>
+    <string name="wifi_disabled_by_recommendation_provider">Tenging er ekki til staðar því nettengingin er léleg</string>
+    <string name="wifi_disabled_generic">Óvirkt</string>
+    <string name="wifi_disabled_network_failure">IP-stillingarvilla</string>
+    <string name="wifi_disabled_password_failure">Vandamál við auðkenningu</string>
+    <string name="wifi_fail_to_scan">Ekki er hægt að leita að netum</string>
+    <string name="wifi_ip_address_not_available">Ekki tiltækt</string>
+    <string name="wifi_ip_address_title">IP-tala</string>
+    <string name="wifi_limited_connection">Takmörkuð tenging</string>
+    <string name="wifi_mac_address_not_available">Ekki tiltækt</string>
+    <string name="wifi_mac_address_title">MAC-vistfang</string>
+    <string name="wifi_metered_label">Mæld notkun</string>
+    <string name="wifi_no_internet">Enginn netaðgangur</string>
+    <string name="wifi_no_internet_no_reconnect">Mun ekki tengjast sjálfkrafa</string>
+    <string name="wifi_not_in_range">Ekkert samband</string>
+    <string name="wifi_remembered">Vistað</string>
+    <string name="wifi_scanning">Leitar að Wi-Fi neti…</string>
+    <string name="wifi_set_up_offline_title">Viltu setja upp án nettengingar?</string>
+    <string name="wifi_skip_button_label">Setja upp án nets</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Síminn}TABLET{Spjaldtölvan}other{Tækið}} mun nota farsímakerfi meðan á uppsetningu stendur og hugsanlega þarf að greiða fyrir gagnanotkunina. Tengdu við Wi-Fi til að forðast slíkan kostnað.</string>
+    <string name="wifi_skipped_title">Hugsanlegur gagnakostnaður</string>
+    <string name="wifi_title">Tengjast Wi-Fi</string>
+    <string name="wifi_unmetered_label">Notkun ekki mæld</string>
+    <string name="work_profile_setup_description">Til að setja upp þetta tæki fyrir vinnu og aðskilja vinnugögnin þín frá persónulegum gögnum</string>
+    <string name="work_profile_setup_next">Áfram</string>
+    <string name="work_profile_setup_skip">Sleppa vinnuuppsetningu</string>
+    <string name="work_profile_setup_title">Bættu við vinnureikningnum þínum</string>
+    <string name="work_setup_interrupted">"Við greindum óvenjulegar aðgerðir í {DEVICE_TYPE,select, PHONE{símanum}TABLET{spjaldtölvunni}other{tækinu}} og gögnin þín kunna að vera í hættu ef þú heldur uppsetningu áfram.
+
+Til að byrja upp á nýtt skaltu endurstilla {DEVICE_TYPE,select, PHONE{símann}TABLET{spjaldtölvuna}other{tækið}}."</string>
+    <string name="work_setup_interrupted_title">Ekki er hægt að tryggja öryggi {DEVICE_TYPE,select, PHONE{símans}TABLET{spjaldtölvunnar}other{tækisins}}</string>
+</resources>

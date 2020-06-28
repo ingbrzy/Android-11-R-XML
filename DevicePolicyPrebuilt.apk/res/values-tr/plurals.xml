@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Gereken %1$d uygulama yüklenemediğinden kurulum tamamlanamadı. Lütfen doğrudan sistem yöneticinizle iletişim kurun.</item>
+        <item quantity="one">Gereken %1$d uygulama yüklenemediğinden kurulum tamamlanamadı. Lütfen doğrudan sistem yöneticinizle iletişim kurun.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Uygulamalar yüklenemiyor</item>
+        <item quantity="one">Uygulama yüklenemiyor</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d uygulama yüklendi</item>
+        <item quantity="one">%1$d/%2$d uygulama yüklendi</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Uygulamaların yüklemesini kaldır</item>
+        <item quantity="one">Uygulamanın yüklemesini kaldır</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> gün kaldı</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> gün kaldı</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> saat kaldı</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> saat kaldı</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%2$d uygulamadan %1$d tanesi yüklendi</item>
+        <item quantity="one">%2$d uygulamadan %1$d tanesi yüklendi</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d uygulama kullanılabilir (%2$d tane yüklü, %3$d tane devre dışı)</item>
+        <item quantity="one">%1$d uygulama kullanılabilir (%2$d tane yüklü, %3$d tane devre dışı)</item>
+    </plurals>
+</resources>

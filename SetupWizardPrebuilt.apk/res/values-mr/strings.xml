@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">वर नेव्‍हिगेट करा</string>
+    <string name="abc_action_mode_done">पूर्ण झाले</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">सुरू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">हटवा</string>
+    <string name="abc_menu_enter_shortcut_label">एंटर करा</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">मेनू+</string>
+    <string name="abc_search_hint">शोधा…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ करा</string>
+    <string name="abc_searchview_description_search">शोध</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करा</string>
+    <string name="abc_searchview_description_voice">व्हॉइस शोध</string>
+    <string name="abc_toolbar_collapse_description">कोलॅप्स करा</string>
+    <string name="accessibility_no_wifi">वायफाय डिस्कनेक्ट झाले.</string>
+    <string name="accessibility_wifi_one_bar">वायफायचा एक बार.</string>
+    <string name="accessibility_wifi_security_type_none">नेटवर्क उघडा</string>
+    <string name="accessibility_wifi_security_type_secured">सुरक्षित नेटवर्क</string>
+    <string name="accessibility_wifi_signal_full">वायफाय सिग्नल पूर्ण आहे.</string>
+    <string name="accessibility_wifi_three_bars">वायफायचे तीन बार.</string>
+    <string name="accessibility_wifi_two_bars">वायफायचे दोन बार.</string>
+    <string name="account_exists_info">"तुमचे ईमेल, संपर्क, कॅलेंडर इव्हेंट आणि अजून बरेच काही या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} सह सिंक होईल. तुम्ही Google Play वरून अ‍ॅप्स, संगीत आणि गेम डाउनलोड करण्यास देखील तयार आहात.
+
+तुम्ही नंतर सेटिंग्ज > खाती वर जाऊन खाती जोडू आणि काढू शकता."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> तयार आहे</string>
+    <string name="account_exists_text_unknown_name">तुमचे खाते तयार आहे.</string>
+    <string name="account_exists_title">{accounts,plural, =1{खाते जोडले}other{खाती जोडली}}</string>
+    <string name="activating_carrier_service_text">याला काही मिनिटे लागू शकतात</string>
+    <string name="activating_unknown_carrier_service_title">अ‍ॅक्टिव्हेट करत आहे…</string>
+    <string name="activation_failed_message">"तुम्ही:
+"<ul><li>मोबाइल डेटाशी पुन्हा कनेक्ट करण्याचा प्रयत्न करा</li>"
+"<li>सेटअपसाठी दुसरे नेटवर्क वापरून पाहा</li></ul>"
+
+या पर्यायायांनी काम न झाल्यास, तुम्ही तुमचा{DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}रीस्टार्ट करूनदेखील पुन्हा प्रयत्न करू शकता."</string>
+    <string name="activation_failed_title">मोबाइल डेटाशी कनेक्ट करू शकत नाही</string>
+    <string name="activation_progress_flow">"खूप वेळ लागत आहे?
+
+मोबाइल डेटाशी कनेक्ट करण्यासाठी वेळ लागत आहे. तुम्ही परत जाऊन त्याऐवजी दुसर्‍या नेटवर्कशी कनेक्ट करण्याचा प्रयत्न करू शकता."</string>
+    <string name="activation_title">मोबाइल सेवेशी कनेक्ट करत आहे…</string>
+    <string name="activation_unprovisioned_sim_message">तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} रीस्टार्ट करा आणि पुन्हा प्रयत्न करा किंवा सेटअपसाठी वाय-फायशी कनेक्ट करा. तुम्हाला तरीही मोबाइल डेटा चालू करण्यात समस्या असल्यास, तुमच्या वाहकाशी संपर्क साधा.</string>
+    <string name="activation_unprovisioned_title">मोबाइल डेटा सक्रिय करता आला नाही</string>
+    <string name="android_privacy_policy_title">अतिरिक्त गोपनीयता धोरण</string>
+    <string name="available_via_carrier">%1$s ने उपलब्‍ध</string>
+    <string name="cancel_button_label">रद्द करा</string>
+    <string name="captive_portal_connection_unsuccessful">इंटरनेटशी कनेक्‍ट करू शकत नाही</string>
+    <string name="captive_portal_description_text">याला काही मिनिटे लागू शकतात</string>
+    <string name="captive_portal_ssl_error_text">हे कनेक्शन असुरक्षित किंवा अवैध प्रमाणपत्र वापरत आहे. दुसरे नेटवर्क निवडा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="captive_portal_title">कनेक्ट करत आहे...</string>
+    <string name="chrome_privacy_title">Chrome गोपनीयता सूचना</string>
+    <string name="chrome_tos_title">Chrome सेवा अटी</string>
+    <string name="close_button_label">बंद करा</string>
+    <string name="common_google_play_services_enable_button">सुरू करा</string>
+    <string name="common_google_play_services_enable_text">तुम्ही Google Play सेवा सक्षम केल्याशिवाय %1$s हा अ‍ॅप कार्य करणार नाही.</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवा सुरू करा</string>
+    <string name="common_google_play_services_install_button">स्‍थापित करा</string>
+    <string name="common_google_play_services_install_text">Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_install_title">Google Play सेवा मिळवा</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवा उपलब्धता</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवा एरर</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="common_google_play_services_unsupported_text">तुमचे डिव्हाइस सपोर्ट करत नसलेल्या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_button">अपडेट करा</string>
+    <string name="common_google_play_services_update_text">तुम्ही Google Play सेवा अपडेट करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_title">Google Play सेवा अपडेट करा</string>
+    <string name="common_google_play_services_updating_text">सध्‍या अपडेट होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="connect_to_wifi_btn_text">वाय-फाय सेटिंग्ज</string>
+    <string name="connect_to_wifi_message">सुरू ठेवण्‍यासाठी वाय-फायशी कनेक्ट करा</string>
+    <string name="connect_to_wifi_title">ॲप अपडेट तयार आहेत</string>
+    <string name="connected_via_app">%1$s द्वारे कनेक्ट केले</string>
+    <string name="connected_via_carrier">%1$s ने कनेक्‍ट केले</string>
+    <string name="connected_via_network_scorer_default">नेटवर्क रेटिंग प्रदात्याद्वारे स्वयंचलितपणे कनेक्ट केले</string>
+    <string name="consolidate_captive_portal_description_text">यास काही मिनिटे लागू शकतात</string>
+    <string name="consolidate_captive_portal_title">अपडेट तपासत आहे…</string>
+    <string name="continue_for_a11y">प्रवेशयोग्यता मोड सक्षम करण्यासाठी तुम्हाला एक बीप ऐकू येईपर्यंत स्क्रीन ला स्पर्श करणे सुरु ठेवा.</string>
+    <string name="date_time_current_date">तारीख</string>
+    <string name="date_time_current_time">वेळ</string>
+    <string name="date_time_message">गरज असल्यास ॲडजस्ट करा.</string>
+    <string name="date_time_setup_title">तारीख आणि वेळ</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">सुरू ठेवा</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">अतिरिक्त पायऱ्यांमध्ये Google असिस्टंट, Google Pay, Now Playing, फॉन्टचा आकार, वॉलपेपर आणि बरेच काही सामाविष्ट आहे</string>
+    <string name="decision_point_leave_setup">सोडा आणि रिमाइंडर मिळवा</string>
+    <string name="decision_point_now_playing">Now Playing</string>
+    <string name="default_device_name_device">डिव्हाइस</string>
+    <string name="default_device_name_phone">फोन</string>
+    <string name="default_device_name_tablet">टॅबलेट</string>
+    <string name="deferred_notification_prompt_title">तुमचे डिव्हाइस ^1 सेट अप करणे पूर्ण करा</string>
+    <string name="deferred_setup_button_label">सेटअप पूर्ण करा</string>
+    <string name="deferred_setup_wizard_reason_assistant">तुमच्या साहाय्यकाशी बोला</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">तुमच्या Google असिस्टंट शी बोला</string>
+    <string name="deferred_setup_wizard_reason_default">फक्त काही अधिक पायऱ्या</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">तुमचा डेटा कॉपी करा</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay वापरा</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay सह जलद पैसे भरा</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 आणि आणखी</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2, आणि बरेचकाही</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">आता फक्त काहीच पायऱ्या बाकी आहेत आणि तुमचे ^1 सुरू होईल</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">वॉलपेपर सेट करा</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">तुमचा वॉलपेपर सेट करा</string>
+    <string name="deferred_setup_wizard_title">तुमचे डिव्हाइस सेट अप करणे संपवा</string>
+    <string name="deferred_snooze_dialog_option_never">कधीही नाही</string>
+    <string name="deferred_snooze_dialog_option_today">आजनंतर</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">उद्या</string>
+    <string name="deferred_snooze_dialog_title">मला आठवण करून द्या</string>
+    <string name="deferred_welcome_airplane_mode_message">"शिल्लक असलेल्या काही सेट अप पायर्‍या पूर्ण करण्यासाठी तुम्हाला एका कनेक्शनची आवश्यकता आहे.
+
+फ्लाइट मोड चालू असताना, वाय-फाय, मोबाईल नेटवर्क, आणि ब्ल्यूटूथ डिस्कनेक्ट होतात."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">नंतर सेट अप करा</string>
+    <string name="deferred_welcome_airplane_mode_title">विमान मोड बंद करायचा का?</string>
+    <string name="deferred_welcome_screen_cancel_button">मला नंतर आठवण करून द्या</string>
+    <string name="deferred_welcome_title">^1 चा सेटअप पूर्ण झाला</string>
+    <string name="deferred_welcome_turn_off_button_label">बंद करा</string>
+    <string name="device_owner_continue">सेटअप सुरू ठेवा</string>
+    <string name="device_owner_reset">रीसेट करा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}</string>
+    <string name="device_owner_warning">{0} तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} व्यवस्थापित करत आहे आणि तुमची माहिती अ‍ॅक्सेस करू शकते. जर तुम्हाला {0} ला अ‍ॅक्सेस द्यायचा नसेल, तर तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}रीसेट करा.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅब्लेट}other{डिव्हाइस}} चे परीक्षण केले जाऊ शकते</string>
+    <string name="dialog_back_button_label">परत</string>
+    <string name="dialog_continue_button_label">सुरू ठेवा</string>
+    <string name="early_update_installing_updates_text">अपडेट इंस्टॉल करत आहे</string>
+    <string name="early_update_text">याला काही मिनिटे लागू शकतात</string>
+    <string name="early_update_timeout_text">खूप वेळ लागत आहे? मागे जाऊन एखाद्या वेगळ्या नेटवर्कशी कनेक्ट करून पहा.</string>
+    <string name="early_update_title">अपडेट तपासत आहे...</string>
+    <string name="emergency_dial">तातडीचा कॉल</string>
+    <string name="enabled_a11y">प्रवेशयोग्यता मोड सक्षम.</string>
+    <string name="esim_option_button_summary">eSIM वापरून नंबर जोडा</string>
+    <string name="esim_option_button_title">त्याऐवजी सिम डाउनलोड करायचे?</string>
+    <string name="esim_warning_title">तुमचे सिम डाउनलोड करा</string>
+    <string name="esim_warning_txt">जर तुम्ही %1$sचे सदस्य असाल, तर सिमकार्ड घालण्यापेक्षा eSIM डाउनलोड करून तुम्‍हाला कॉल, मजकूर आणि डेटा मिळेल.</string>
+    <string name="esim_warning_txt_default">सहसा सिम कार्डवर असलेली माहिती डाउनलोड करून तुमच्या मोबाइल नेटवर्कशी कनेक्ट करा. हे साधारण सिम कार्डे बदलते आणि ते अगदी सुरक्षित आहे.</string>
+    <string name="exit_loading_launcher">लाँचर लोड करत आहे...</string>
+    <string name="factory_reset_button">मिटवा आणि रीसेट करा</string>
+    <string name="factory_reset_confirmation">या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}वरील सर्व खाती आणि डेटा मिटवायचा का? तुम्ही ही क्रिया पहिल्यासारखी करू शकत नाही!</string>
+    <string name="factory_reset_confirmation_title">रीसेट करायचे?</string>
+    <string name="factory_reset_instructions">चेतावणी: रीसेट केल्याने या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}च्या अंतर्गत स्टोरेजमधील सर्व खाती आणि डेटा मिटवला जाईल.</string>
+    <string name="factory_reset_title">रीसेट करा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}</string>
+    <string name="final_hold_description_text">याला काही मिनिटे लागू शकतात</string>
+    <string name="final_hold_title">अखेरच्या सुधारणा जोडत आहे...</string>
+    <string name="final_hold_title_setup_work_account">कामाशी निगडीत गोष्टी सेट करण्यासाठी फोन तयार करत आहे…</string>
+    <string name="gms_account_checkin_title">खाते माहिती मिळवित आहे…</string>
+    <string name="gms_checkin_description_text">याला काही मिनिटे लागू शकतात</string>
+    <string name="gms_checkin_description_text_timeout">खूप वेळ लागतोय? मागे जाऊन पहा आणि एका वेगळ्या नेटवर्कशी कनेक्ट करून पहा.</string>
+    <string name="gms_checkin_title">अपडेट तपासत आहे...</string>
+    <string name="go_back_button_label">परत जा</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play सेवा अटी</string>
+    <string name="google_plus_privacy_policy_title">Google प्लस गोपनीयता धोरण</string>
+    <string name="google_privacy_policy_title">Google गोपनीयता धोरण</string>
+    <string name="google_provisioning_disclaimer_content">Google सेवा अटी आणि गोपनीयता धोरण लागू. अधिक तपशिलांसाठी, &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> ला भेट द्या.</string>
+    <string name="google_terms_of_service_title">Google सेवा अटी</string>
+    <string name="invalid_phone_number">अज्ञात फोन नंबर</string>
+    <string name="invalid_qr_code_content">तुमच्या आयटी प्रशासकाल योग्य कोडबद्दल विचारा</string>
+    <string name="invalid_qr_code_retry">पुन्हा प्रयत्न करा</string>
+    <string name="invalid_qr_code_title">चुकीचा QR कोड</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari आणि iTunes हे Apple Inc चे ट्रेडमार्क आहेत, जे यू.एस. आणि इतर देशांमध्ये नोंदणीकृत आहेत.</string>
+    <string name="language_picker_section_all">सर्व भाषा</string>
+    <string name="language_picker_section_suggested">सुचवलेल्या भाषा</string>
+    <string name="migrate_from_ios_description">या पायऱ्या फॉलो करा:</string>
+    <string name="migrate_from_ios_header">तुमचा डेटा कॉपी करा</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari® उघडा</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b> वर जा</string>
+    <string name="migrate_from_ios_instructions_3">3. सूचनांना फॉलो करा</string>
+    <string name="network_description_text">नेटवर्क निवडा</string>
+    <string name="network_description_text_esim">तुमचे सिम डाउनलोड करण्यासाठी वाय-फायशी कनेक्ट करा</string>
+    <string name="network_see_all_wifi">सर्व वाय‑फाय नेटवर्क पहा</string>
+    <string name="network_timeout_description_text">दुसरे नेटवर्क वापरून पुन्हा प्रयत्न करा. तुम्ही कनेक्शनशिवाय सुरू ठेवल्यास, तुम्ही काही सेटअपच्या पायऱ्या नंतर पूर्ण करू शकता.</string>
+    <string name="network_timeout_title">कनेक्ट करू शकलो नाही</string>
+    <string name="network_timeout_try_another_network_button">दुसरे नेटवर्क वापरून पाहा</string>
+    <string name="network_title">वाय‑फायशी कनेक्ट करा</string>
+    <string name="network_use_cellular">सेटअपसाठी मोबाइल नेटवर्क वापरा</string>
+    <string name="network_use_cellular_carrier">नंतर वाय‑फाय शी कनेक्ट करा</string>
+    <string name="network_wifi_continue_button">सुरू ठेवा</string>
+    <string name="not_set">सेट केलेले नाही</string>
+    <string name="notification_channel_name_deferred">अतिरिक्‍त सेटअप</string>
+    <string name="notification_channel_name_initial">सेटअप</string>
+    <string name="notification_channel_name_restore">डेटा रीस्‍टोअर</string>
+    <string name="notification_channel_security_name_warnings">सुरक्षा चेतावण्या</string>
+    <string name="ok_button_label">ठीक आहे</string>
+    <string name="ota_agreement_text">हे सॉफ्टवेअर अपडेट सुरु ठेवून आणि मिळवून तुम्ही <annotation link="tos">Google सेवा अटी</annotation> आणि <annotation link="google_privacy">गोपनीयता धोरण</annotation> यांना सहमती देता.</string>
+    <string name="ota_info">तुमच्या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} ला अपडेट डाउनलोड करणे आणि रीस्टार्ट करण्याची आवश्यकता आहे.</string>
+    <string name="ota_size">आकार: %s</string>
+    <string name="ota_update_title">अपडेट करा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}</string>
+    <string name="predeferred_prepare_setup">सेटअपची तयारी करत आहे…</string>
+    <string name="predeferred_prepare_setup_details">तुम्ही तुमचे ^1 सेट करणे लवकरच पूर्ण करू शकता</string>
+    <string name="predeferred_wifi_required_notification_connect_button">वाय-फायशी कनेक्ट करा</string>
+    <string name="predeferred_wifi_required_notification_content">सुरू ठेवण्‍यासाठी वाय-फायशी कनेक्ट करा</string>
+    <string name="predeferred_wifi_required_notification_title">ॲप अपडेट तयार आहेत</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR कोड स्कॅन करत आहे</string>
+    <string name="region_picker_section_all">सर्व प्रदेश</string>
+    <string name="restart_setup_wizard_button_label">हे सेट करा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}</string>
+    <string name="restart_setup_wizard_dialog_text">"हा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}वापरण्यासाठी, सर्वप्रथम तुम्हाला या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} वर ते शेवटचे रिसेट केले तेव्हा वापरात असलेल्या मालकाच्या Google खात्यावर साइन इन करावे लागेल.
+
+तुम्ही असे न केल्यामुळे तुम्हाला {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} वर पुन्हा सेट करावे लागेल."</string>
+    <string name="restart_setup_wizard_dialog_title">साइन इन केलेले नाही</string>
+    <string name="restore_failed_message">बॅकअप पुनर्संचयित करू शकत नाही</string>
+    <string name="restore_no_backup_message">आपल्या इतर डिव्हाइसवर कोणतेही बॅकअप उपलब्ध नाहीत</string>
+    <string name="restore_no_backup_title">पुनर्संचयित करू शकत नाही</string>
+    <string name="restore_stopped_message">बॅकअप पुनर्संचयन समाप्त करू शकत नाही</string>
+    <string name="restore_title">पुनर्संचयित करत आहे…</string>
+    <string name="setup_ongoing_notification_text">^1 सेटअप पूर्ण करण्‍यासाठी टॅप करा</string>
+    <string name="setup_ongoing_notification_title">^1 सेटअप होत आहे</string>
+    <string name="setup_wizard_title">Android सेटअप</string>
+    <string name="sim_locked_text">"हा फोन सध्या दुसर्‍या वाहकावर लॉक केला आहे. तुम्हाला एक वैध सिम कार्ड वापरावे लागेल.
+
+तुम्ही तुमचे सिम कार्ड घातल्यावर, ते सक्रिय होण्यासाठी काही सेकंद लागू शकतात."</string>
+    <string name="sim_locked_title">सिम कार्ड समर्थित नाही</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{तुमच्याकडे सिमकार्ड असल्यास, ते घाला}other{तुमच्याकडे सिमकार्डे असल्यास, ती घाला}}</string>
+    <string name="sim_missing_title">मोबाइल नेटवर्कशी कनेक्‍ट करा</string>
+    <string name="sim_ready_message">%1$s वापरण्यासाठी तयार असणे आवश्यक आहे</string>
+    <string name="sim_ready_message_carrier_app">%1$s अ‍ॅक्टिव्हेट करणे पूर्ण करण्यासाठी, तुम्हाला %2$sचे अ‍ॅप डाउनलोड करणे आवश्यक आहे. सध्यासाठी, तुमचा फोन सेट करणे पूर्ण करूया.</string>
+    <string name="sim_ready_message_invalid_phone_number">तुमचा नंबर वापरण्यासाठी तयार असणे आवश्यक आहे</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">तुमचा नंबर अ‍ॅक्टिव्हेट करणे पूर्ण करण्यासाठी, तुम्हाला %1$sचे अ‍ॅप डाउनलोड करणे आवश्यक आहे. सध्यासाठी, तुमचा फोन सेट करणे पूर्ण करूया.</string>
+    <string name="sim_ready_title">%1$s अ‍ॅक्टिव्ह आहे</string>
+    <string name="sim_ready_title_carrier_app">%1$s शी नंतर कनेक्ट करा</string>
+    <string name="sim_setup_ask_every_time">प्रत्येक वेळी विचारा</string>
+    <string name="sim_setup_select_data">मोबाइल डेटा प्राधान्य</string>
+    <string name="sim_setup_select_data_description">मोबाइल डेटा वापरण्यासाठी नंबर निवडा</string>
+    <string name="sim_setup_select_text">एसएमएस प्राधान्य</string>
+    <string name="sim_setup_select_text_description">आउटगोइंग एसएमएससाठी नंबर निवडा (सर्व अ‍ॅक्टिव्ह नंबर येणारे एसएमएस मिळवू शकतात)</string>
+    <string name="sim_setup_select_voice">कॉल प्राधान्य</string>
+    <string name="sim_setup_select_voice_description">आउटगोइंग कॉलसाठी नंबर निवडा (सर्व अ‍ॅक्टिव्ह नंबर येणारे कॉल मिळवू शकतात)</string>
+    <string name="sim_setup_title">सिम कार्ड सेट करा</string>
+    <string name="skip_anyway_button_label">कसेही करून वगळा</string>
+    <string name="skip_button_label">वगळा</string>
+    <string name="skip_toast">सेटअप विझार्ड वगळले</string>
+    <string name="slots_selection_item_summary_activating">अ‍ॅक्टिव्हेट करत आहे…</string>
+    <string name="slots_selection_item_summary_error">आता अ‍ॅक्टिव्हेट करता आले नाही</string>
+    <string name="slots_selection_title">वापरण्यासाठी नंबर निवडा</string>
+    <string name="speed_label_fast">जलद</string>
+    <string name="speed_label_okay">ठीक आहे</string>
+    <string name="speed_label_slow">हळू</string>
+    <string name="speed_label_very_fast">खूप जलद</string>
+    <string name="sud_back_button_label">मागे जा</string>
+    <string name="sud_more_button_label">आणखी</string>
+    <string name="sud_next_button_label">पुढील</string>
+    <string name="suggested_actions_description">आता आणखी काही गोष्टी सेट अप करा किंवा नंतर त्या सेटिंग्जमध्ये शोधा.</string>
+    <string name="suggested_actions_description_single_item">तुमच्या ^1वर सेट अप करण्यासारखी आणखी एक गोष्ट येथे आहे. तुम्ही ती नंतर सेटिंग्जमध्ये देखील शोधू शकता.</string>
+    <string name="suggested_actions_done_label">आता साठी पूर्ण झाले</string>
+    <string name="suggested_actions_no_thanks_label">नाही नको</string>
+    <string name="suggested_actions_title">आणखी काही?</string>
+    <string name="switch_camera">कॅमेरा स्विच करा</string>
+    <string name="switch_to_back_camera_button_content_description">मागील कॅमेरा</string>
+    <string name="switch_to_front_camera_button_content_description">पुढील कॅमेरा</string>
+    <string name="switched_to_back_camera_announcement">बटण आता पुढील कॅमेरा आहे</string>
+    <string name="switched_to_front_camera_announcement">बटण आता मागील कॅमेरा आहे</string>
+    <string name="tap_to_sign_up">साइन अप करण्यासाठी टॅप करा</string>
+    <string name="terminate_toast">"सेटअप विझार्ड निरस्त
+डिव्हाइस तरतूद करण्यात आलेली नाही"</string>
+    <string name="try_again_button_label">पुन्हा प्रयत्न करा</string>
+    <string name="url_load_unsuccessful_message">तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} मोबाइल डेटा सेवेशी कनेक्ट केलेला नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरमध्ये {0} वर जा.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} वाय-फाय नेटवर्कशी कनेक्ट केलेला नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरमधून {0} ला भेट द्या.</string>
+    <string name="user_warning_cannot_switch_message">मालक वापरकर्त्यावर पुन्हा स्विच करू शकत नाही. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="user_warning_label_continue">सुरू ठेवा</string>
+    <string name="user_warning_label_quit">रद्द करा</string>
+    <string name="user_warning_quit_dialog_button_keep">वापरकर्ता ठेवा</string>
+    <string name="user_warning_quit_dialog_button_remove">वापरकर्ता काढा</string>
+    <string name="user_warning_quit_dialog_message">वापरकर्त्यास काढायचे का?</string>
+    <string name="user_warning_title">नवीन वापरकर्ता सेट करा</string>
+    <string name="wait_msg">फक्त एक सेकंद…</string>
+    <string name="web_dialog_unable_to_view">आता ही माहिती पाहण्यासाठी, वेब ब्राउझरसह ^1ला भेट द्या.</string>
+    <string name="welcome_accessibility_button">दृष्टी सेटिंग्ज</string>
+    <string name="welcome_language_picker_content_description">भाषा: %s</string>
+    <string name="welcome_language_picker_dialog_title">तुमची भाषा निवडा</string>
+    <string name="welcome_message">हाय</string>
+    <string name="welcome_secondary_user_added_text">तुम्हाला यामध्ये जोडण्यात आले आहे {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}</string>
+    <string name="welcome_secondary_user_info_text"><b>महत्त्वाचे:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}चा मालक तुमचे ॲप्स अनइंस्टॉल करू शकतो किंवा तुमची मोकळी जागा पूर्णपणे काढू शकतो</li>"
+
+"<li>कोणताही अन्य वापरकर्ता अपडेट ॲप परवानग्या स्वीकारू शकतो</li>"
+
+"<li>हा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} फक्त ज्या लोकांवर तुमचा विश्वास आहे त्यांच्यासह शेअर करा</li></ul></string>
+    <string name="welcome_start_button_label">सुरू करा</string>
+    <string name="wifi_add_new_network">नवीन नेटवर्क जोडा</string>
+    <string name="wifi_and_mobile_skipped_message">"वाय-फाय किंवा मोबाइल नेटवर्कशी कनेक्ट केल्याने तुम्हाला तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}लगेच सेट करण्यात मदत होते.
+
+कनेक्शनशिवाय, तुम्ही पुढील गोष्टी करू शकत नाही:
+
+"<ul><li>तुमच्या Google खाते मध्ये साइन इन करणे</li>"
+
+"<li>ॲप्स आणि डेटा रिस्टोअर करणे</li>"
+
+"<li>सॉफ्टवेअर अपडेट मिळवणे</li>"
+
+"<li>वेळ आणि तारीख आपोआप सेट करणे</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"वाय-फाय किंवा मोबाइल नेटवर्कशी कनेक्ट केल्याने तुम्हाला तुमचा{DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}लगेच सेट करण्यात मदत होते.
+
+कनेक्शनशिवाय, तुम्ही पुढील गोष्टी करू शकत नाही:
+
+"<ul><li>तुमच्या Google खाते मध्ये साइन इन करणे</li>"
+
+"<li>ॲप्स आणि डेटा रिस्टोअर करणे</li>"
+
+"<li>सिम डाउनलोड करणे</li>"
+
+"<li>सॉफ्टवेअर अपडेट मिळवणे</li>"
+
+"<li>वेळ आणि तारीख आपोआप सेट करणे</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">अ‍ॅक्सेस पॉइंट तात्पुरते भरलेले</string>
+    <string name="wifi_check_password_try_again">पासवर्ड तपासा आणि पुन्‍हा प्रयत्‍न करा</string>
+    <string name="wifi_connected_no_internet">कनेक्‍ट केले, इंटरनेट नाही</string>
+    <string name="wifi_disabled_by_recommendation_provider">कमी दर्जाच्या नेटवर्कमुळे कनेक्ट केलेले नाही</string>
+    <string name="wifi_disabled_generic">अक्षम</string>
+    <string name="wifi_disabled_network_failure">IP कॉन्फिगरेशन अयशस्वी</string>
+    <string name="wifi_disabled_password_failure">प्रमाणीकरण समस्या</string>
+    <string name="wifi_fail_to_scan">नेटवर्कसाठी स्कॅन करू शकत नाही</string>
+    <string name="wifi_ip_address_not_available">अनुपलब्ध</string>
+    <string name="wifi_ip_address_title">IP पत्ता</string>
+    <string name="wifi_limited_connection">मर्यादित कनेक्शन</string>
+    <string name="wifi_mac_address_not_available">अनुपलब्ध</string>
+    <string name="wifi_mac_address_title">MAC पत्ता</string>
+    <string name="wifi_metered_label">मीटरने मोजलेले</string>
+    <string name="wifi_no_internet">इंटरनेट अ‍ॅक्सेस नाही</string>
+    <string name="wifi_no_internet_no_reconnect">स्वयंचलितपणे कनेक्ट करणार नाही</string>
+    <string name="wifi_not_in_range">परिक्षेत्रामध्ये नाही</string>
+    <string name="wifi_remembered">सेव्ह केले</string>
+    <string name="wifi_scanning">वाय-फाय नेटवर्क शोधत आहे…</string>
+    <string name="wifi_set_up_offline_title">तुम्हाला ऑफलाईन सेट करायचे आहे का?</string>
+    <string name="wifi_skip_button_label">ऑफलाईन सेट करा</string>
+    <string name="wifi_skipped_message">तुमचा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} सेटअप दरम्यान मोबाइल नेटवर्क वापरेल आणि या डेटा वापरासाठी तुमच्याकडून शुल्क आकारले जाऊ शकते. संभाव्य शुल्क टाळण्यासाठी, वाय-फायशी कनेक्ट करा.</string>
+    <string name="wifi_skipped_title">संभाव्य डेटा शुल्क</string>
+    <string name="wifi_title">वाय‑फायशी कनेक्ट करा</string>
+    <string name="wifi_unmetered_label">मीटरने न मोजलेले</string>
+    <string name="work_profile_setup_description">हे डिव्हाइस कामाकरिता सेट करण्यासाठी आणि वैयक्तिक व कामाचा डेटा वेगवेगळा ठेवण्यासाठी</string>
+    <string name="work_profile_setup_next">पुढे जा</string>
+    <string name="work_profile_setup_skip">कामाचे सेटअप वगळा</string>
+    <string name="work_profile_setup_title">तुमचे ऑफिस खाते जोडा</string>
+    <string name="work_setup_interrupted">"आम्हाला या {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}}वर असामान्य अ‍ॅक्टिव्हिटी आढळली आणि तुम्ही सेटअप पुढे सुरू ठेवल्यास तुमच्या डेटाला धोका निर्माण होऊ शकतो.
+
+ हे पुन्हा सुरू करण्यासाठी, हा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} रीसेट करा."</string>
+    <string name="work_setup_interrupted_title">हा {DEVICE_TYPE,select, PHONE{फोन}TABLET{टॅबलेट}other{डिव्हाइस}} कदाचित असुरक्षित असू शकताे</string>
+</resources>

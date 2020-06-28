@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">필수 앱 %1$d개를 설치하지 못했으므로 설정을 완료할 수 없습니다. 시스템 관리자에게 직접 문의하세요.</item>
+        <item quantity="one">필수 앱 %1$d개를 설치하지 못했으므로 설정을 완료할 수 없습니다. 시스템 관리자에게 직접 문의하세요.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">앱을 설치할 수 없음</item>
+        <item quantity="one">앱을 설치할 수 없음</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d개 앱이 설치됨</item>
+        <item quantity="one">%1$d/%2$d개 앱이 설치됨</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">앱 제거</item>
+        <item quantity="one">앱 제거</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation>일 남음</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation>일 남음</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation>시간 남음</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation>시간 남음</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%2$d개 중 %1$d개 앱이 설치됨</item>
+        <item quantity="one">%2$d개 중 %1$d개 앱이 설치됨</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">사용 가능한 앱 %1$d개(설치된 앱 %2$d개, 사용 중지된 앱 %3$d개)</item>
+        <item quantity="one">사용 가능한 앱 %1$d개(설치된 앱 %2$d개, 사용 중지된 앱 %3$d개)</item>
+    </plurals>
+</resources>

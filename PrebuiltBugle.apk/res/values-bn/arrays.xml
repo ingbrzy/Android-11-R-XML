@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>রেস্তোরাঁ</item>
+        <item>সিনেমা</item>
+        <item>আবহাওয়া</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>রেস্তোরাঁ</item>
+        <item>আশেপাশে যে সিনেমা চলছে</item>
+        <item>আবহাওয়া</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>কোনো বিষয় নেই</item>
+        <item>বিষয়হীন</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>প্রেম</item>
+        <item>হ্যাঁ</item>
+        <item>চুম্বন</item>
+        <item>হ্যালো</item>
+        <item>আলিঙ্গন</item>
+        <item>পার্টি</item>
+        <item>রাগান্বিত</item>
+        <item>উৎসাহিত</item>
+        <item>বিদায়</item>
+        <item>অট্টহাসি</item>
+        <item>কাঁদছে</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>হ্যাঁ</item>
+        <item>না</item>
+        <item>ঠিক আছে</item>
+        <item>হিহি</item>
+        <item>ধন্যবাদ</item>
+        <item>আমি রাজি</item>
+        <item>সুন্দর</item>
+        <item>রাস্তায় রয়েছি</item>
+        <item>ঠিক আছে, পরে আপনার সঙ্গে এই নিয়ে কথা বলছি</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>এসএমএস এর মাধ্যমে লিঙ্ক পাঠানো</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>সর্বদা SMS হিসাবে আবার পাঠান</item>
+        <item>রোমিং এ না থাকলে সর্বদা SMS হিসাবে আবার পাঠান</item>
+        <item>আবার পাঠানোর আগে জিজ্ঞাসা করুন</item>
+        <item>SMS হিসাবে কখনই আবার পাঠাবেন না</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>সর্বদা SMS/MMS হিসাবে আবার পাঠান</item>
+        <item>রোমিং এ না থাকলে SMS/MMS হিসাবে আবার পাঠান</item>
+        <item>আবার পাঠানোর আগে জিজ্ঞাসা করুন</item>
+        <item>SMS/MMS হিসাবে কখনই আবার পাঠাবেন না</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

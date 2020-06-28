@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Die Einrichtung kann nicht abgeschlossen werden, weil %1$d benötigte Apps nicht installiert werden konnten. Wenden Sie sich bitte direkt an Ihren Systemadministrator.</item>
+        <item quantity="one">Die Einrichtung kann nicht abgeschlossen werden, weil %1$d benötigte App nicht installiert werden konnte. Wenden Sie sich bitte direkt an Ihren Systemadministrator.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Die Apps können nicht installiert werden</item>
+        <item quantity="one">Die App kann nicht installiert werden</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d von %2$d Apps installiert</item>
+        <item quantity="one">%1$d von %2$d App installiert</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Apps deinstallieren</item>
+        <item quantity="one">App deinstallieren</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Noch &lt;annotation id="numeric_time_left">^1&lt;/annotation> Tage</item>
+        <item quantity="one">Noch &lt;annotation id="numeric_time_left">^1&lt;/annotation> Tag</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Noch &lt;annotation id="numeric_time_left">^1&lt;/annotation> Stunden</item>
+        <item quantity="one">Noch &lt;annotation id="numeric_time_left">^1&lt;/annotation> Stunde</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d von %2$d Apps installiert</item>
+        <item quantity="one">%1$d von %2$d App installiert</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d Apps verfügbar (%2$d installiert, %3$d deaktiviert)</item>
+        <item quantity="one">%1$d App verfürbar (%2$d installiert, %3$d deaktiviert)</item>
+    </plurals>
+</resources>

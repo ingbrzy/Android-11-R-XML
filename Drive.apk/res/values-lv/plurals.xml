@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Tiek rādīti %1$d vienumi.</item>
+        <item quantity="zero">Tiek rādīti %1$d vienumi.</item>
+        <item quantity="one">Tiek rādīts %1$d vienums.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d komentāri</item>
+        <item quantity="zero">%1$d komentāri</item>
+        <item quantity="one">%1$d komentārs</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Darbības vienumi: %1$d sekojuma vienumi</item>
+        <item quantity="zero">Darbības vienumi: %1$d sekojuma vienumi</item>
+        <item quantity="one">Darbības vienumi: %1$d sekojuma vienums</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Vienumi tika neatgriezeniski izdzēsti</item>
+        <item quantity="zero">Vienumi tika neatgriezeniski izdzēsti</item>
+        <item quantity="one">Vienumi tika neatgriezeniski izdzēsti</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s nav derīgas e-pasta adreses.</item>
+        <item quantity="zero">%s nav derīgas e-pasta adreses.</item>
+        <item quantity="one">%s nav derīgas e-pasta adreses.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Pievienojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+        <item quantity="zero">Pievienojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+        <item quantity="one">Pievienojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Pievienojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+        <item quantity="zero">Pievienojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+        <item quantity="one">Pievienojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kuri var piekļūt kopīgotajai mapei %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Vai kopīgot šos failus?</item>
+        <item quantity="zero">Vai kopīgot šos failus?</item>
+        <item quantity="one">Vai kopīgot šos failus?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Vai kopīgot šīs mapes?</item>
+        <item quantity="zero">Vai kopīgot šīs mapes?</item>
+        <item quantity="one">Vai kopīgot šīs mapes?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Atjauninātas %1$d mapes. Iestatīta krāsa: %2$s.</item>
+        <item quantity="zero">Atjauninātas %1$d mapes. Iestatīta krāsa: %2$s.</item>
+        <item quantity="one">Atjaunināta %1$d mape. Iestatīta krāsa: %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Lietot filtrus:</item>
+        <item quantity="zero">Lietot filtrus:</item>
+        <item quantity="one">Lietot filtrus:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Derīguma termiņš beigsies pēc %1$d dienām</item>
+        <item quantity="zero">Derīguma termiņš beigsies pēc %1$d dienām</item>
+        <item quantity="one">Derīguma termiņš beigsies pēc %1$d dienas</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Šī dublējuma derīguma termiņš beigsies pēc %1$d dienām, ja ierīce paliks neaktīva.</item>
+        <item quantity="zero">Šī dublējuma derīguma termiņš beigsies pēc %1$d dienām, ja ierīce paliks neaktīva.</item>
+        <item quantity="one">Šī dublējuma derīguma termiņš beigsies pēc %1$d dienas, ja ierīce paliks neaktīva.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Dublējumi ir izdzēsti.</item>
+        <item quantity="zero">Dublējumi ir izdzēsti.</item>
+        <item quantity="one">Dublējumi ir izdzēsti.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d kolonnas.</item>
+        <item quantity="zero">%1$d kolonnas.</item>
+        <item quantity="one">%1$d kolonna.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d fiksētas kolonnas.</item>
+        <item quantity="zero">%1$d fiksētas kolonnas.</item>
+        <item quantity="one">%1$d fiksēta kolonna.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d fiksētas rindas.</item>
+        <item quantity="zero">%1$d fiksētas rindas.</item>
+        <item quantity="one">%1$d fiksēta rinda.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d rindas.</item>
+        <item quantity="zero">%1$d rindas.</item>
+        <item quantity="one">%1$d rinda.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s ar %2$d vienumiem</item>
+        <item quantity="zero">%1$s ar %2$d vienumiem</item>
+        <item quantity="one">%1$s ar %2$d vienumu</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s atbildes</item>
+        <item quantity="zero">%1$s atbildes</item>
+        <item quantity="one">%1$s atbilde</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Vienumus nevarēja lejupielādēt</item>
+        <item quantity="zero">Vienumus nevarēja lejupielādēt</item>
+        <item quantity="one">Vienumus nevarēja lejupielādēt</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Tiks lejupielādēti %1$d vienumi. Detalizētu informāciju skatiet paziņojumā</item>
+        <item quantity="zero">Tiks lejupielādēti %1$d vienumi. Detalizētu informāciju skatiet paziņojumā</item>
+        <item quantity="one">Tiks lejupielādēts %1$d vienums. Detalizētu informāciju skatiet paziņojumā</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Tiks lejupielādēti %1$d vienumi.</item>
+        <item quantity="zero">Tiks lejupielādēti %1$d vienumi.</item>
+        <item quantity="one">Tiks lejupielādēts %1$d vienums.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s un vēl %2$d vienumi</item>
+        <item quantity="zero">%1$s un vēl %2$d vienumi</item>
+        <item quantity="one">%1$s un vēl %2$d vienums</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Nevarēja lejupielādēt %1$s vienumus.</item>
+        <item quantity="zero">Nevarēja lejupielādēt %1$s vienumus.</item>
+        <item quantity="one">Nevarēja lejupielādēt %1$s vienumu.</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Vēl %1$d vienumi</item>
+        <item quantity="zero">Vēl %1$d vienumi</item>
+        <item quantity="one">Vēl %1$d vienums</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Neizdevās %1$d no %2$d lejupielādēm</item>
+        <item quantity="zero">Neizdevās %1$d no %2$d lejupielādēm</item>
+        <item quantity="one">Neizdevās %1$d no %2$d lejupielādēm</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Pārvietojot failus, radās kļūda.</item>
+        <item quantity="zero">Pārvietojot failus, radās kļūda.</item>
+        <item quantity="one">Pārvietojot failus, radās kļūda.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d viesi</item>
+        <item quantity="zero">%d viesi</item>
+        <item quantity="one">%d viesis</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d saīsnes ir pievienotas mapei “%1$s”</item>
+        <item quantity="zero">%2$d saīsnes ir pievienotas mapei “%1$s”</item>
+        <item quantity="one">%2$d saīsne ir pievienota mapei “%1$s”</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Nevar pievienot saīsnes. Mēģināt vēlreiz</item>
+        <item quantity="zero">Nevar pievienot saīsnes. Mēģināt vēlreiz</item>
+        <item quantity="one">Nevar pievienot saīsnes. Mēģināt vēlreiz</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem.</item>
+        <item quantity="zero">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem.</item>
+        <item quantity="one">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem. Jums ir atļauts tikai pievienot un rediģēt vienumus mapē “%3$s”, tādēļ jūs nevarēsit atsaukt šo darbību.</item>
+        <item quantity="zero">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem. Jums ir atļauts tikai pievienot un rediģēt vienumus mapē “%3$s”, tādēļ jūs nevarēsit atsaukt šo darbību.</item>
+        <item quantity="one">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem. Komandas diska “%2$s” dalībnieki iegūs piekļuvi šiem vienumiem. Jums ir atļauts tikai pievienot un rediģēt vienumus mapē “%3$s”, tādēļ jūs nevarēsit atsaukt šo darbību.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Daži no failiem, kas tiek pārvietoti uz komandas disku “%1$s”, ir aktivizējuši DZN noteikšanu. Iespējams, šajos failos ir sensitīva informācija.</item>
+        <item quantity="zero">Daži no failiem, kas tiek pārvietoti uz komandas disku “%1$s”, ir aktivizējuši DZN noteikšanu. Iespējams, šajos failos ir sensitīva informācija.</item>
+        <item quantity="one">Daži no failiem, kas tiek pārvietoti uz komandas disku “%1$s”, ir aktivizējuši DZN noteikšanu. Iespējams, šajos failos ir sensitīva informācija.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+        <item quantity="zero">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+        <item quantity="one">Komandas diska “%1$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape “%1$s”. Komandas diska “%2$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+        <item quantity="zero">Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape “%1$s”. Komandas diska “%2$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+        <item quantity="one">Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape “%1$s”. Komandas diska “%2$s” dalībnieki zaudēs piekļuvi, ja šie vienumi netiks kopīgoti ar tiem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Jūs pārvietojat dažus vienumus no kopīgotajām mapēm, tādējādi citi lietotāji zaudēs piekļuvi šiem vienumiem.</item>
+        <item quantity="zero">Jūs pārvietojat dažus vienumus no kopīgotajām mapēm, tādējādi citi lietotāji zaudēs piekļuvi šiem vienumiem.</item>
+        <item quantity="one">Jūs pārvietojat dažus vienumus no kopīgotajām mapēm, tādējādi citi lietotāji zaudēs piekļuvi šiem vienumiem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Šiem vienumiem tiks noņemti papildu ierobežojumi.</item>
+        <item quantity="zero">Šiem vienumiem tiks noņemti papildu ierobežojumi.</item>
+        <item quantity="one">Šiem vienumiem tiks noņemti papildu ierobežojumi.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Pārvietojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+        <item quantity="zero">Pārvietojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+        <item quantity="one">Pārvietojot šos failus, tie tiks kopīgoti ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Pārvietojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+        <item quantity="zero">Pārvietojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+        <item quantity="one">Pārvietojot šīs mapes, tās tiks kopīgotas ar visiem lietotājiem, kas var piekļūt kopīgotajai mapei “%1$s”</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Vai kopīgot šos failus?</item>
+        <item quantity="zero">Vai kopīgot šos failus?</item>
+        <item quantity="one">Vai kopīgot šos failus?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Vai kopīgot šīs mapes?</item>
+        <item quantity="zero">Vai kopīgot šīs mapes?</item>
+        <item quantity="one">Vai kopīgot šīs mapes?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Jums nav atļauts pārvietot dažus vienumus ārpus to kopīgā diska.</item>
+        <item quantity="zero">Jums nav atļauts pārvietot dažus vienumus ārpus to kopīgā diska.</item>
+        <item quantity="one">Jums nav atļauts pārvietot dažus vienumus ārpus to kopīgā diska.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Jums nav atļauts pārvietot dažus vienumus ārpus to mapes.</item>
+        <item quantity="zero">Jums nav atļauts pārvietot dažus vienumus ārpus to mapes.</item>
+        <item quantity="one">Jums nav atļauts pārvietot dažus vienumus ārpus to mapes.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Jūs nevarat pārvietot šos failus, jo failu īpašnieks ir ārpus domēna %1$s.</item>
+        <item quantity="zero">Jūs nevarat pārvietot šos failus, jo failu īpašnieks ir ārpus domēna %1$s.</item>
+        <item quantity="one">Jūs nevarat pārvietot šos failus, jo failu īpašnieks ir ārpus domēna %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s“%2$s” tagad var piekļūt šiem vienumiem.</item>
+        <item quantity="zero">%1$s“%2$s” tagad var piekļūt šiem vienumiem.</item>
+        <item quantity="one">%1$s“%2$s” tagad var piekļūt šiem vienumiem.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d vienumi ir pārvietoti uz kopīgo disku. Dalībnieki var tiem tagad piekļūt.</item>
+        <item quantity="zero">%1$d vienumi ir pārvietoti uz kopīgo disku. Dalībnieki var tiem tagad piekļūt.</item>
+        <item quantity="one">%1$d vienums ir pārvietots uz kopīgo disku. Dalībnieki var tiem tagad piekļūt.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d vienumi ir noņemti no kopīgā diska. Dalībnieki zaudēja piekļuvi.</item>
+        <item quantity="zero">%1$d vienumi ir noņemti no kopīgā diska. Dalībnieki zaudēja piekļuvi.</item>
+        <item quantity="one">%1$d vienums ir noņemts no kopīgā diska. Dalībnieki zaudēja piekļuvi.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d vienumi</item>
+        <item quantity="zero">%1$d vienumi</item>
+        <item quantity="one">%1$d vienums</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d apstiprinātāji</item>
+        <item quantity="zero">Nav norādīts neviens apstiprinātājs</item>
+        <item quantity="one">%1$d apstiprinātājs</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s darbības vienumi</item>
+        <item quantity="zero">%1$s darbības vienumi</item>
+        <item quantity="one">%1$s darbības vienums</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s neatbildēti minējumi</item>
+        <item quantity="zero">%1$s neatbildēti minējumi</item>
+        <item quantity="one">%1$s neatbildēts minējums</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s ieteikumi</item>
+        <item quantity="zero">%1$s ieteikumi</item>
+        <item quantity="one">%1$s ieteikums</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s uzdevumi</item>
+        <item quantity="zero">%1$s uzdevumi</item>
+        <item quantity="one">%1$s uzdevums</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Vienumi tika neatgriezeniski izdzēsti</item>
+        <item quantity="zero">Vienumi tika neatgriezeniski izdzēsti</item>
+        <item quantity="one">Vienumi tika neatgriezeniski izdzēsti</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d no %2$s tagad ir pieejami bezsaistē.</item>
+        <item quantity="zero">%1$d no %2$s tagad ir pieejami bezsaistē.</item>
+        <item quantity="one">%1$d no %2$s tagad ir pieejams bezsaistē.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Visi %1$d faili tagad ir pieejami bezsaistē.</item>
+        <item quantity="zero">Visi %1$d faili tagad ir pieejami bezsaistē.</item>
+        <item quantity="one">Visi %1$d faili tagad ir pieejami bezsaistē.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Nevar padarīt failus pieejamus bezsaistē</item>
+        <item quantity="zero">Nevar padarīt failus pieejamus bezsaistē</item>
+        <item quantity="one">Nevar padarīt failus pieejamus bezsaistē</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d faili tiek padarīti pieejami bezsaistē.</item>
+        <item quantity="zero">%1$d faili tiek padarīti pieejami bezsaistē.</item>
+        <item quantity="one">%1$d fails tiek padarīts pieejams bezsaistē.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d faili</item>
+        <item quantity="zero">%1$d faili</item>
+        <item quantity="one">%1$d fails</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Lejupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+        <item quantity="zero">Lejupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+        <item quantity="one">Lejupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d lejupielādes ir apturētas.</item>
+        <item quantity="zero">%1$d lejupielādes ir apturētas.</item>
+        <item quantity="one">%1$d lejupielāde ir apturēta.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Lejupielādes ir apturētas; gaida Wi-Fi savienojuma izveidi…</item>
+        <item quantity="zero">Lejupielādes ir apturētas; gaida Wi-Fi savienojuma izveidi…</item>
+        <item quantity="one">Lejupielādes ir apturētas; gaida Wi-Fi savienojuma izveidi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d vienumi tiks pārvietoti uz atkritni. Tādējādi tie tiks noņemti arī no Google fotoattēliem.</item>
+        <item quantity="zero">%1$d vienumi tiks pārvietoti uz atkritni. Tādējādi tie tiks noņemti arī no Google fotoattēliem.</item>
+        <item quantity="one">%1$d vienums tiks pārvietots uz atkritni. Tādējādi tie tiks noņemti arī no Google fotoattēliem.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d vienumi tiks pārvietoti uz atkritni.</item>
+        <item quantity="zero">%1$d vienumi tiks pārvietoti uz atkritni.</item>
+        <item quantity="one">%1$d vienums tiks pārvietots uz atkritni.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s turpmākie vienumi</item>
+        <item quantity="zero">%1$s turpmākie vienumi</item>
+        <item quantity="one">%1$s turpmākais vienums</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s turpmākie vienumi</item>
+        <item quantity="zero">%1$s turpmākie vienumi</item>
+        <item quantity="one">%1$s turpmākais vienums</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Sekojums</item>
+        <item quantity="zero">Sekojums</item>
+        <item quantity="one">Sekojums</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Komentēja %1$d failus</item>
+        <item quantity="zero">Komentēja %1$d failus</item>
+        <item quantity="one">Komentēja %1$d failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Komentēja %1$d failus</item>
+        <item quantity="zero">Komentēja %1$d failus</item>
+        <item quantity="one">Komentēja %1$d failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Komentēja šo failu</item>
+        <item quantity="zero">Komentēja šo failu</item>
+        <item quantity="one">Komentēja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Izveidoja %1$d vienumus</item>
+        <item quantity="zero">Izveidoja %1$d vienumus</item>
+        <item quantity="one">Izveidoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Izveidoja %1$d vienumus</item>
+        <item quantity="zero">Izveidoja %1$d vienumus</item>
+        <item quantity="one">Izveidoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Izveidoja šo failu</item>
+        <item quantity="zero">Izveidoja šo failu</item>
+        <item quantity="one">Izveidoja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Izveidoja šo mapi</item>
+        <item quantity="zero">Izveidoja šo mapi</item>
+        <item quantity="one">Izveidoja šo mapi</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Rediģēja %1$d vienumus</item>
+        <item quantity="zero">Rediģēja %1$d vienumus</item>
+        <item quantity="one">Rediģēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Rediģēja %1$d vienumus</item>
+        <item quantity="zero">Rediģēja %1$d vienumus</item>
+        <item quantity="one">Rediģēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Rediģēja šo failu</item>
+        <item quantity="zero">Rediģēja šo failu</item>
+        <item quantity="one">Rediģēja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Neatgriezeniski izdzēsa %1$d vienumus</item>
+        <item quantity="zero">Neatgriezeniski izdzēsa %1$d vienumus</item>
+        <item quantity="one">Neatgriezeniski izdzēsa %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Pārvietoja %1$d vienumus uz:</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus uz:</item>
+        <item quantity="one">Pārvietoja %1$d vienumu uz:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Pārvietoja %1$d vienumus uz:</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus uz:</item>
+        <item quantity="one">Pārvietoja %1$d vienumu uz:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Pārvietoja %1$d vienumus</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus</item>
+        <item quantity="one">Pārvietoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Pārvietoja %1$d vienumus</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus</item>
+        <item quantity="one">Pārvietoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Pārvietoja šo failu</item>
+        <item quantity="zero">Pārvietoja šo failu</item>
+        <item quantity="one">Pārvietoja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Pārvietoja šo failu uz:</item>
+        <item quantity="zero">Pārvietoja šo failu uz:</item>
+        <item quantity="one">Pārvietoja šo failu uz:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Pārvietoja šo mapi</item>
+        <item quantity="zero">Pārvietoja šo mapi</item>
+        <item quantity="one">Pārvietoja šo mapi</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Pārvietoja šo mapi uz:</item>
+        <item quantity="zero">Pārvietoja šo mapi uz:</item>
+        <item quantity="one">Pārvietoja šo mapi uz:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Pārdēvēja %1$d vienumus</item>
+        <item quantity="zero">Pārdēvēja %1$d vienumus</item>
+        <item quantity="one">Pārdēvēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Pārdēvēja %1$d vienumus</item>
+        <item quantity="zero">Pārdēvēja %1$d vienumus</item>
+        <item quantity="one">Pārdēvēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Pārdēvēja šo failu</item>
+        <item quantity="zero">Pārdēvēja šo failu</item>
+        <item quantity="one">Pārdēvēja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Pārdēvēja šo mapi</item>
+        <item quantity="zero">Pārdēvēja šo mapi</item>
+        <item quantity="one">Pārdēvēja šo mapi</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Kopīgoja %1$d vienumus</item>
+        <item quantity="zero">Kopīgoja %1$d vienumus</item>
+        <item quantity="one">Kopīgoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Kopīgoja %1$d vienumus</item>
+        <item quantity="zero">Kopīgoja %1$d vienumus</item>
+        <item quantity="one">Kopīgoja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Kopīgoja šo failu</item>
+        <item quantity="zero">Kopīgoja šo failu</item>
+        <item quantity="one">Kopīgoja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Kopīgoja šo mapi</item>
+        <item quantity="zero">Kopīgoja šo mapi</item>
+        <item quantity="one">Kopīgoja šo mapi</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Pārvietoja %1$d vienumus uz atkritni</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus uz atkritni</item>
+        <item quantity="one">Pārvietoja %1$d vienumu uz atkritni</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Pārvietoja %1$d vienumus uz atkritni</item>
+        <item quantity="zero">Pārvietoja %1$d vienumus uz atkritni</item>
+        <item quantity="one">Pārvietoja %1$d vienumu uz atkritni</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Noņēma šo failu</item>
+        <item quantity="zero">Noņēma šo failu</item>
+        <item quantity="one">Noņēma šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Noņēma šo mapi</item>
+        <item quantity="zero">Noņēma šo mapi</item>
+        <item quantity="one">Noņēma šo mapi</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Augšupielādēja %1$d vienumus</item>
+        <item quantity="zero">Augšupielādēja %1$d vienumus</item>
+        <item quantity="one">Augšupielādēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Augšupielādēja %1$d vienumus</item>
+        <item quantity="zero">Augšupielādēja %1$d vienumus</item>
+        <item quantity="one">Augšupielādēja %1$d vienumu</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Augšupielādēja šo failu</item>
+        <item quantity="zero">Augšupielādēja šo failu</item>
+        <item quantity="one">Augšupielādēja šo failu</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Augšupielādēja šo mapi</item>
+        <item quantity="zero">Augšupielādēja šo mapi</item>
+        <item quantity="one">Augšupielādēja šo mapi</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d faili tiks pārvietoti uz komandas diska %2$s atkritni un neatgriezeniski izdzēsti pēc 30 dienām.</item>
+        <item quantity="zero">%1$d faili tiks pārvietoti uz komandas diska %2$s atkritni un neatgriezeniski izdzēsti pēc 30 dienām.</item>
+        <item quantity="one">%1$d fails tiks pārvietots uz komandas diska %2$s atkritni un neatgriezeniski izdzēsts pēc 30 dienām.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d mapes tiks pārvietotas uz komandas diska %2$s atkritni un neatgriezeniski izdzēstas pēc 30 dienām.</item>
+        <item quantity="zero">%1$d mapes tiks pārvietotas uz komandas diska %2$s atkritni un neatgriezeniski izdzēstas pēc 30 dienām.</item>
+        <item quantity="one">%1$d mape tiks pārvietota uz komandas diska %2$s atkritni un neatgriezeniski izdzēsta pēc 30 dienām.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d vienumi tiks pārvietoti uz komandas diska %2$s atkritni un neatgriezeniski izdzēsti pēc 30 dienām.</item>
+        <item quantity="zero">%1$d vienumi tiks pārvietoti uz komandas diska %2$s atkritni un neatgriezeniski izdzēsti pēc 30 dienām.</item>
+        <item quantity="one">%1$d vienums tiks pārvietots uz komandas diska %2$s atkritni un neatgriezeniski izdzēsts pēc 30 dienām.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Šie %1$d faili tiks &lt;b>neatgriezeniski izdzēsti visiem lietotājiem.&lt;/b> Šo darbību nevar atsaukt.</item>
+        <item quantity="zero">Šie %1$d faili tiks &lt;b>neatgriezeniski izdzēsti visiem lietotājiem.&lt;/b> Šo darbību nevar atsaukt.</item>
+        <item quantity="one">Šis %1$d fails tiks &lt;b>neatgriezeniski izdzēsts visiem lietotājiem.&lt;/b> Šo darbību nevar atsaukt.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Šie %1$d faili tiks neatgriezeniski izdzēsti. Jūs nevarat atsaukt šo darbību.</item>
+        <item quantity="zero">Šie %1$d faili tiks neatgriezeniski izdzēsti. Jūs nevarat atsaukt šo darbību.</item>
+        <item quantity="one">Šis %1$d fails tiks neatgriezeniski izdzēsts. Jūs nevarat atsaukt šo darbību.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d vienumi</item>
+        <item quantity="zero">%1$d vienumi</item>
+        <item quantity="one">%1$d vienums</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Atlasīti %1$d vienumi</item>
+        <item quantity="zero">Atlasīti %1$d vienumi</item>
+        <item quantity="one">Atlasīts %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Atcelta %1$d vienumu atlase</item>
+        <item quantity="zero">Atcelta %1$d vienumu atlase</item>
+        <item quantity="one">Atcelta %1$d vienuma atlase</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Faili būs pieejami bezsaistē</item>
+        <item quantity="zero">Faili būs pieejami bezsaistē</item>
+        <item quantity="one">Faili būs pieejami bezsaistē</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d vienumi atzīmēti ar zvaigznīti</item>
+        <item quantity="zero">%1$d vienumi atzīmēti ar zvaigznīti</item>
+        <item quantity="one">%1$d vienums atzīmēts ar zvaigznīti</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Faili vairs nebūs pieejami bezsaistē</item>
+        <item quantity="zero">Faili vairs nebūs pieejami bezsaistē</item>
+        <item quantity="one">Faili vairs nebūs pieejami bezsaistē</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d vienumiem tika noņemta zvaigznīte</item>
+        <item quantity="zero">%1$d vienumiem tika noņemta zvaigznīte</item>
+        <item quantity="one">%1$d vienumam tika noņemta zvaigznīte</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Atjaunoti %1$d vienumi</item>
+        <item quantity="zero">Atjaunoti %1$d vienumi</item>
+        <item quantity="one">Atjaunots %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Atjaunoti %1$d vienumi</item>
+        <item quantity="zero">Atjaunoti %1$d vienumi</item>
+        <item quantity="one">Atjaunots %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d vienumi ir noņemti no mapes “%2$s”</item>
+        <item quantity="zero">%1$d vienumi ir noņemti no mapes “%2$s”</item>
+        <item quantity="one">%1$d vienums ir noņemts no mapes “%2$s”</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d vienumi ir noņemti no mapes</item>
+        <item quantity="zero">%1$d vienumi ir noņemti no mapes</item>
+        <item quantity="one">%1$d vienums ir noņemts no mapes</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Noņemti %1$d vienumi</item>
+        <item quantity="zero">Noņemti %1$d vienumi</item>
+        <item quantity="one">Noņemts %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d vienumi ir pārvietoti atpakaļ</item>
+        <item quantity="zero">%1$d vienumi ir pārvietoti atpakaļ</item>
+        <item quantity="one">%1$d vienums ir pārvietots atpakaļ</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d vienumi ir pārvietoti atpakaļ uz atkritni</item>
+        <item quantity="zero">%1$d vienumi ir pārvietoti atpakaļ uz atkritni</item>
+        <item quantity="one">%1$d vienums ir pārvietots atpakaļ uz atkritni</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Noņemti %1$d vienumi</item>
+        <item quantity="zero">Noņemti %1$d vienumi</item>
+        <item quantity="one">Noņemts %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d vienumi ir pievienoti mapei “%2$s”</item>
+        <item quantity="zero">%1$d vienumi ir pievienoti mapei “%2$s”</item>
+        <item quantity="one">%1$d vienums ir pievienots mapei “%2$s”</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">Pievienoti %1$d vienumi</item>
+        <item quantity="zero">Pievienoti %1$d vienumi</item>
+        <item quantity="one">Pievienots %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d vienumi ir atjaunoti un pievienoti mapei “%2$s”</item>
+        <item quantity="zero">%1$d vienumi ir atjaunoti un pievienoti mapei “%2$s”</item>
+        <item quantity="one">%1$d vienums ir atjaunots un pievienots mapei “%2$s”</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d vienumi ir pārvietoti uz mapi “%2$s”.</item>
+        <item quantity="zero">%1$d vienumi ir pārvietoti uz mapi “%2$s”.</item>
+        <item quantity="one">%1$d vienums ir pārvietots uz mapi “%2$s”.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">Pārvietoti %1$d vienumi</item>
+        <item quantity="zero">Pārvietoti %1$d vienumi</item>
+        <item quantity="one">Pārvietots %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d vienumi ir atjaunoti un pārvietoti uz mapi “%2$s”.</item>
+        <item quantity="zero">%1$d vienumi ir atjaunoti un pārvietoti uz mapi “%2$s”.</item>
+        <item quantity="one">%1$d vienums ir atjaunots un pārvietots uz mapi “%2$s”.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Atjaunoti %1$d vienumi</item>
+        <item quantity="zero">Atjaunoti %1$d vienumi</item>
+        <item quantity="one">Atjaunots %1$d vienums</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d vienumi ir atjaunoti mapē “%2$s”.</item>
+        <item quantity="zero">%1$d vienumi ir atjaunoti mapē “%2$s”.</item>
+        <item quantity="one">%1$d vienums ir atjaunots mapē “%2$s”.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Sūtīt failus, izmantojot</item>
+        <item quantity="zero">Sūtīt failus, izmantojot</item>
+        <item quantity="one">Sūtīt failus, izmantojot</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">Tagad var piekļūt %1$d personas</item>
+        <item quantity="zero">Tagad var piekļūt %1$d personas</item>
+        <item quantity="one">Tagad var piekļūt %1$d persona</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">Tagad var piekļūt %1$s un vēl %2$d personas</item>
+        <item quantity="zero">Tagad var piekļūt %1$s un vēl %2$d personas</item>
+        <item quantity="one">Tagad var piekļūt %1$s un vēl %2$d persona</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d personas tagad var pievienot komentārus</item>
+        <item quantity="zero">%1$d personas tagad var pievienot komentārus</item>
+        <item quantity="one">%1$d persona tagad var pievienot komentārus</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s un vēl %2$d personas tagad var pievienot komentārus</item>
+        <item quantity="zero">%1$s un vēl %2$d personas tagad var pievienot komentārus</item>
+        <item quantity="one">%1$s un vēl %2$d persona tagad var pievienot komentārus</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d personas tagad var rediģēt</item>
+        <item quantity="zero">%1$d personas tagad var rediģēt</item>
+        <item quantity="one">%1$d persona tagad var rediģēt</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s un vēl %2$d personas tagad var rediģēt</item>
+        <item quantity="zero">%1$s un vēl %2$d personas tagad var rediģēt</item>
+        <item quantity="one">%1$s un vēl %2$d persona tagad var rediģēt</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d personas tagad var skatīt</item>
+        <item quantity="zero">%1$d personas tagad var skatīt</item>
+        <item quantity="one">%1$d persona tagad var skatīt</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s un vēl %2$d personas tagad var skatīt</item>
+        <item quantity="zero">%1$s un vēl %2$d personas tagad var skatīt</item>
+        <item quantity="one">%1$s un vēl %2$d persona tagad var skatīt</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Krāt. termiņš beigsies pēc %1$d d.</item>
+        <item quantity="zero">Krāt. termiņš beigsies pēc %1$d d.</item>
+        <item quantity="one">Krāt. termiņš beigsies pēc %1$d d.</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d personas ir pievienotas kopīgajam diskam</item>
+        <item quantity="zero">%1$d personas ir pievienotas kopīgajam diskam</item>
+        <item quantity="one">%1$d persona ir pievienota kopīgajam diskam</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s un vēl %3$d personas ir pievienotas diskam %1$s</item>
+        <item quantity="zero">%2$s un vēl %3$d personas ir pievienotas diskam %1$s</item>
+        <item quantity="one">%2$s un vēl %3$d persona ir pievienotas diskam %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d dalībnieki</item>
+        <item quantity="zero">Nav dalībnieku</item>
+        <item quantity="one">%d dalībnieks</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Atsākt visu tūlīt</item>
+        <item quantity="zero">Atsākt visu tūlīt</item>
+        <item quantity="one">Atsākt visu tūlīt</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Atcelta %1$d failu augšupielāde.</item>
+        <item quantity="zero">Atcelta %1$d failu augšupielāde.</item>
+        <item quantity="one">Atcelta %1$d faila augšupielāde.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Nevar ieplānot %1$d failu augšupielādi.</item>
+        <item quantity="zero">Nevar ieplānot %1$d failu augšupielādi.</item>
+        <item quantity="one">Nevar ieplānot %1$d faila augšupielādi.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Augšupielādēti %1$d faili.</item>
+        <item quantity="zero">Augšupielādēti %1$d faili.</item>
+        <item quantity="one">Augšupielādēts %1$d fails.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Nevar augšupielādēt %1$d no %2$d failiem.</item>
+        <item quantity="zero">Nevar augšupielādēt %1$d no %2$d failiem.</item>
+        <item quantity="one">Nevar augšupielādēt %1$d no %2$d faila.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Notiek %1$d failu augšupielāde.</item>
+        <item quantity="zero">Notiek %1$d failu augšupielāde.</item>
+        <item quantity="one">Notiek %1$d faila augšupielāde.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Augšupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+        <item quantity="zero">Augšupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+        <item quantity="one">Augšupielādes ir apturētas; gaida savienojuma izveidi ar tīklu…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Apturētas %1$d augšupielādes.</item>
+        <item quantity="zero">Apturētas %1$d augšupielādes.</item>
+        <item quantity="one">Apturēta %1$d augšupielāde.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Augšupielādes ir pārtrauktas; gaida Wi-Fi savienojuma izveidi…</item>
+        <item quantity="zero">Augšupielādes ir pārtrauktas; gaida Wi-Fi savienojuma izveidi…</item>
+        <item quantity="one">Augšupielādes ir pārtrauktas; gaida Wi-Fi savienojuma izveidi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d faili tiek sagatavoti augšupielādei.</item>
+        <item quantity="zero">%1$d faili tiek sagatavoti augšupielādei.</item>
+        <item quantity="one">%1$d fails tiek sagatavots augšupielādei.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Jūsu %1$d faili tiek augšupielādēti mapē %2$s</item>
+        <item quantity="zero">Jūsu %1$d faili tiek augšupielādēti mapē %2$s</item>
+        <item quantity="one">Jūsu %1$d fails tiek augšupielādēts mapē %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Skatīt %1$d failus</item>
+        <item quantity="zero">Skatīt %1$d failus</item>
+        <item quantity="one">Skatīt %1$d failu</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Skatīt %1$d failus darbvietā %2$s</item>
+        <item quantity="zero">Skatīt %1$d failus darbvietā %2$s</item>
+        <item quantity="one">Skatīt %1$d failu darbvietā %2$s</item>
+    </plurals>
+</resources>

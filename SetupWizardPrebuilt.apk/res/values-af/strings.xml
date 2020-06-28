@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Gaan op</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_capital_off">AF</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksie+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasiebalk</string>
+    <string name="abc_menu_sym_shortcut_label">Simbool+</string>
+    <string name="abc_prepend_shortcut_label">Kieslys+</string>
+    <string name="abc_search_hint">Soek …</string>
+    <string name="abc_searchview_description_clear">Vee navraag uit</string>
+    <string name="abc_searchview_description_search">Soek</string>
+    <string name="abc_searchview_description_submit">Dien navraag in</string>
+    <string name="abc_searchview_description_voice">Stemsoektog</string>
+    <string name="abc_toolbar_collapse_description">Vou in</string>
+    <string name="accessibility_no_wifi">Wi-Fi is ontkoppel.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi een staaf.</string>
+    <string name="accessibility_wifi_security_type_none">Oop netwerk</string>
+    <string name="accessibility_wifi_security_type_secured">Veilige netwerk</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi-sein vol.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi drie stawe.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi twee stawe.</string>
+    <string name="account_exists_info">"Jou e-pos, kontakte, kalender, geleenthede en meer sal met hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} gesinkroniseer word. Jy is ook gereed om te begin om programme, musiek en speletjies in Google Play af te laai.
+
+Jy kan rekeninge later byvoeg en verwyder deur na Instellings > Rekeninge toe te gaan."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> is gereed.</string>
+    <string name="account_exists_text_unknown_name">Jou rekening is gereed.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Rekening is bygevoeg}other{Rekeninge is bygevoeg}}</string>
+    <string name="activating_carrier_service_text">"Dit kan 'n paar minute neem"</string>
+    <string name="activating_unknown_carrier_service_title">Aktiveer tans …</string>
+    <string name="activation_failed_message">"Jy kan:
+"<ul><li>Probeer om weer aan mobiele data te koppel</li>"
+"<li>"'n Ander netwerk vir opstelling gebruik"</li></ul>"
+
+As hierdie opsies nie werk nie, kan jy ook jou{DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} herbegin en weer probeer."</string>
+    <string name="activation_failed_title">Kan nie aan mobiele data koppel nie</string>
+    <string name="activation_progress_flow">"Vat dit te lank?
+
+Dit neem 'n ruk om aan mobiele data te koppel. Jy kan teruggaan en probeer om eerder aan 'n ander netwerk te koppel."</string>
+    <string name="activation_title">Koppel tans mobiele diens …</string>
+    <string name="activation_unprovisioned_sim_message">Herbegin jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} en probeer weer, of koppel aan Wi‑Fi om op te stel. Kontak jou diensverskaffer as jy steeds sukkel om mobiele data te aktiveer.</string>
+    <string name="activation_unprovisioned_title">Kon nie mobiele data aktiveer nie</string>
+    <string name="android_privacy_policy_title">Addisionele privaatheidsbeleid</string>
+    <string name="available_via_carrier">Beskikbaar via %1$s</string>
+    <string name="cancel_button_label">Kanselleer</string>
+    <string name="captive_portal_connection_unsuccessful">Kon nie aan die internet koppel nie</string>
+    <string name="captive_portal_description_text">"Dit kan 'n paar minute neem"</string>
+    <string name="captive_portal_ssl_error_text">"Hierdie verbinding gebruik 'n onveilige of ongeldige sertifikaat. Kies 'n ander netwerk en probeer weer."</string>
+    <string name="captive_portal_title">Koppel tans …</string>
+    <string name="chrome_privacy_title">Chrome-privaatheidskennisgewing</string>
+    <string name="chrome_tos_title">Chrome-diensbepalings</string>
+    <string name="close_button_label">Maak toe</string>
+    <string name="common_google_play_services_enable_button">Aktiveer</string>
+    <string name="common_google_play_services_enable_text">%1$s sal nie werk nie tensy jy Google Play Dienste aktiveer.</string>
+    <string name="common_google_play_services_enable_title">Aktiveer Google Play Dienste</string>
+    <string name="common_google_play_services_install_button">Installeer</string>
+    <string name="common_google_play_services_install_text">%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.</string>
+    <string name="common_google_play_services_install_title">Kry Google Play Dienste</string>
+    <string name="common_google_play_services_notification_channel_name">Beskikbaarheid van Google Play Dienste</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-fout</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.</string>
+    <string name="common_google_play_services_update_button">Dateer op</string>
+    <string name="common_google_play_services_update_text">%1$s sal nie werk nie tensy jy Google Play Dienste opdateer.</string>
+    <string name="common_google_play_services_update_title">Dateer Google Play Dienste op</string>
+    <string name="common_google_play_services_updating_text">%1$s sal nie sonder Google Play Dienste werk nie, wat tans opdateer.</string>
+    <string name="connect_to_wifi_btn_text">Wi-Fi-instellings</string>
+    <string name="connect_to_wifi_message">Koppel aan Wi-Fi om voort te gaan</string>
+    <string name="connect_to_wifi_title">Programopdaterings is gereed</string>
+    <string name="connected_via_app">Gekoppel via %1$s</string>
+    <string name="connected_via_carrier">Gekoppel via %1$s</string>
+    <string name="connected_via_network_scorer_default">Outomaties deur netwerkgraderingverskaffer gekoppel</string>
+    <string name="consolidate_captive_portal_description_text">"Dit kan 'n paar minute neem"</string>
+    <string name="consolidate_captive_portal_title">Kyk tans vir opdaterings …</string>
+    <string name="continue_for_a11y">"Hou aan om die skerm te raak totdat jy 'n biepgeluid hoor, om toeganklikheid-modus te aktiveer."</string>
+    <string name="date_time_current_date">Datum</string>
+    <string name="date_time_current_time">Tyd</string>
+    <string name="date_time_message">Pas aan indien nodig.</string>
+    <string name="date_time_setup_title">Datum en tyd</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Gaan voort</string>
+    <string name="decision_point_google_assistant">Google Assistent</string>
+    <string name="decision_point_illustration_description">Bykomende stappe sluit in Google Assistent, Google Pay, Wat Speel, lettergrootte, muurpapier, en meer</string>
+    <string name="decision_point_leave_setup">Gaan uit en kry onthounota</string>
+    <string name="decision_point_now_playing">Wat Speel</string>
+    <string name="default_device_name_device">toestel</string>
+    <string name="default_device_name_phone">foon</string>
+    <string name="default_device_name_tablet">tablet</string>
+    <string name="deferred_notification_prompt_title">Voltooi die opstelling van jou ^1</string>
+    <string name="deferred_setup_button_label">Voltooi opstelling</string>
+    <string name="deferred_setup_wizard_reason_assistant">praat met jou Assistent</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">praat met jou Google Assistent</string>
+    <string name="deferred_setup_wizard_reason_default">"Net nog 'n paar stappe"</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopieer jou data</string>
+    <string name="deferred_setup_wizard_reason_google_pay">gebruik Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">betaal vinniger met Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1, en meer</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 en meer</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">"Net nog 'n paar vinnige stappe en jou ^1 sal gereed wees"</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">stel muurpapier</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">stel jou muurpapier</string>
+    <string name="deferred_setup_wizard_title">Voltooi die opstelling van jou toestel</string>
+    <string name="deferred_snooze_dialog_option_never">Nooit</string>
+    <string name="deferred_snooze_dialog_option_today">Later vandag</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Môre</string>
+    <string name="deferred_snooze_dialog_title">Herinner my</string>
+    <string name="deferred_welcome_airplane_mode_message">"Jy moet 'n verbinding hê om die laaste paar opstellingstappe te voltooi.
+
+Wanneer vliegtuigmodus aan is, is Wi‑Fi, mobiele netwerke en Bluetooth ontkoppel."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Stel later op</string>
+    <string name="deferred_welcome_airplane_mode_title">Skakel vliegtuigmodus af?</string>
+    <string name="deferred_welcome_screen_cancel_button">Herinner my later</string>
+    <string name="deferred_welcome_title">Voltooi ^1-opstelling</string>
+    <string name="deferred_welcome_turn_off_button_label">Skakel af</string>
+    <string name="device_owner_continue">Gaan voort met opstelling</string>
+    <string name="device_owner_reset">Stel {DEVICE_TYPE,select, PHONE{foon terug}TABLET{tablet terug}other{toestel terug}}</string>
+    <string name="device_owner_warning">{0} bestuur tans jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} en het toegang tot jou inligting. As jy nie wil hê dat {0} toegang moet hê nie, stel jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} terug.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Foon}TABLET{Tablet}other{Toestel}} kan gemonitor word</string>
+    <string name="dialog_back_button_label">Terug</string>
+    <string name="dialog_continue_button_label">Gaan voort</string>
+    <string name="early_update_installing_updates_text">Installeer tans opdaterings</string>
+    <string name="early_update_text">"Dit kan 'n paar minute neem"</string>
+    <string name="early_update_timeout_text">"Vat dit te lank? Probeer teruggaan en aan 'n ander netwerk koppel."</string>
+    <string name="early_update_title">Kyk tans vir opdaterings …</string>
+    <string name="emergency_dial">Noodoproep</string>
+    <string name="enabled_a11y">Toeganklikheidsmodus geaktiveer.</string>
+    <string name="esim_option_button_summary">"Gebruik 'n e-SIM om 'n nommer by te voeg"</string>
+    <string name="esim_option_button_title">"Laai eerder 'n SIM-kaart af?"</string>
+    <string name="esim_warning_title">Laai jou SIM af</string>
+    <string name="esim_warning_txt">"As jy 'n %1$s-intekenaar is, sal jy oproepe, teksboodskappe en data kry deur 'n e-SIM pleks van 'n SIM-kaart in te sit."</string>
+    <string name="esim_warning_txt_default">"Koppel aan jou selnetwerk deur die inligting wat gewoonlik op 'n SIM-kaart is, af te laai. Dit vervang die standaard-SIM-kaart en is net so veilig."</string>
+    <string name="exit_loading_launcher">Laai tans lanseerder …</string>
+    <string name="factory_reset_button">Vee uit en stel terug</string>
+    <string name="factory_reset_confirmation">Vee alle rekeninge en data op hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} uit? Jy kan nie hierdie handeling ontdoen nie!</string>
+    <string name="factory_reset_confirmation_title">Stel terug?</string>
+    <string name="factory_reset_instructions">Waarskuwing: Terugstelling sal alle rekening en data in hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} se interne berging uitvee.</string>
+    <string name="factory_reset_title">Stel {DEVICE_TYPE,select, PHONE{foon terug}TABLET{tablet terug}other{toestel terug}}</string>
+    <string name="final_hold_description_text">"Dit kan 'n paar minute neem"</string>
+    <string name="final_hold_title">Doen tans afrondingswerk …</string>
+    <string name="final_hold_title_setup_work_account">Berei foon tans voor vir werkopstelling …</string>
+    <string name="gms_account_checkin_title">Kry tans rekeninginligting …</string>
+    <string name="gms_checkin_description_text">"Dit kan 'n paar minute neem"</string>
+    <string name="gms_checkin_description_text_timeout">"Vat dit te lank? Probeer om terug te gaan en aan 'n ander netwerk te koppel."</string>
+    <string name="gms_checkin_title">Kyk tans vir opdaterings …</string>
+    <string name="go_back_button_label">Gaan terug</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play se diensbepalings</string>
+    <string name="google_plus_privacy_policy_title">Google Plus se privaatheidsbeleid</string>
+    <string name="google_privacy_policy_title">Google se privaatheidsbeleid</string>
+    <string name="google_provisioning_disclaimer_content">Google se diensbepalings en privaatheidsbeleid geld. Besoek &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> vir meer besonderhede.</string>
+    <string name="google_terms_of_service_title">Google se diensbepalings</string>
+    <string name="invalid_phone_number">Onbekende foonnommer</string>
+    <string name="invalid_qr_code_content">Vra jou IT-administrateur vir die korrekte kode</string>
+    <string name="invalid_qr_code_retry">Probeer weer</string>
+    <string name="invalid_qr_code_title">Verkeerde QR-kode</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari en iTunes is handelsmerke van Apple Inc. en is in die VSA en ander lande geregistreer.</string>
+    <string name="language_picker_section_all">Alle tale</string>
+    <string name="language_picker_section_suggested">Voorgestel</string>
+    <string name="migrate_from_ios_description">Volg hierdie stappe:</string>
+    <string name="migrate_from_ios_header">Kopieer jou data</string>
+    <string name="migrate_from_ios_instructions_1">1. Maak Safari® oop</string>
+    <string name="migrate_from_ios_instructions_2">2. Gaan na <b>android.com/switch/</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Volg die instruksies</string>
+    <string name="network_description_text">"Kies 'n netwerk"</string>
+    <string name="network_description_text_esim">Koppel aan Wi‑Fi om jou SIM af te laai</string>
+    <string name="network_see_all_wifi">Sien alle Wi‑Fi-netwerke</string>
+    <string name="network_timeout_description_text">"Gebruik 'n ander netwerk en probeer weer. As jy voortgaan sonder 'n verbinding, kan jy sommige opstellingstappe later voltooi."</string>
+    <string name="network_timeout_title">Kon nie koppel nie</string>
+    <string name="network_timeout_try_another_network_button">"Probeer 'n ander netwerk"</string>
+    <string name="network_title">Koppel aan Wi-Fi</string>
+    <string name="network_use_cellular">Gebruik mobiele netwerk om op te stel</string>
+    <string name="network_use_cellular_carrier">Koppel later aan Wi-Fi</string>
+    <string name="network_wifi_continue_button">Gaan voort</string>
+    <string name="not_set">Nie gestel nie</string>
+    <string name="notification_channel_name_deferred">Bykomende opstelling</string>
+    <string name="notification_channel_name_initial">Opstelling</string>
+    <string name="notification_channel_name_restore">Dataherwinning</string>
+    <string name="notification_channel_security_name_warnings">Sekuriteitswaarskuwings</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Deur voort te gaan en hierdie sagteware-opdatering te ontvang, stem jy in tot die <annotation link="tos">Google Diensbepalings</annotation> en <annotation link="google_privacy">Privaatheidbeleid</annotation>.</string>
+    <string name="ota_info">"Jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} moet 'n opdatering aflaai en herbegin."</string>
+    <string name="ota_size">Grootte: %s</string>
+    <string name="ota_update_title">Dateer {DEVICE_TYPE,select, PHONE{foon op}TABLET{tablet op}other{toestel op}}</string>
+    <string name="predeferred_prepare_setup">Berei tans voor vir opstelling …</string>
+    <string name="predeferred_prepare_setup_details">Jy kan jou ^1 binnekort klaar opstel</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Koppel aan Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Koppel aan Wi-Fi om voort te gaan</string>
+    <string name="predeferred_wifi_required_notification_title">Programopdaterings is gereed</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">"Soek tans 'n QR-kode"</string>
+    <string name="region_picker_section_all">Allle streke</string>
+    <string name="restart_setup_wizard_button_label">Stel {DEVICE_TYPE,select, PHONE{foon op}TABLET{tablet op}other{toestel op}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Om hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} te gebruik, moet jy eers by 'n eienaar se Google-rekening aanmeld wat op hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} gebruik is toe dit laas teruggestel is.
+
+Omdat jy dit nie gedoen het nie, moet jy die {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} weer opstel."</string>
+    <string name="restart_setup_wizard_dialog_title">Nie aangemeld nie</string>
+    <string name="restore_failed_message">Kan nie rugsteun terugstel nie</string>
+    <string name="restore_no_backup_message">Geen rugsteune is op jou ander toestel beskikbaar nie</string>
+    <string name="restore_no_backup_title">Kan nie terugstel nie</string>
+    <string name="restore_stopped_message">Kon nie die rugsteun klaar terugstel nie</string>
+    <string name="restore_title">Stel tans terug …</string>
+    <string name="setup_ongoing_notification_text">Tik om opstelling van ^1 te voltooi</string>
+    <string name="setup_ongoing_notification_title">Opstelling van ^1 vind tans plaas</string>
+    <string name="setup_wizard_title">Android-opstelling</string>
+    <string name="sim_locked_text">"Hierdie foon is tans vir 'n ander diensverskaffer gesluit. Jy sal 'n geldige SIM-kaart moet gebruik.
+
+Nadat jy jou SIM-kaart ingesit het, kan dit 'n paar sekondes neem om te aktiveer."</string>
+    <string name="sim_locked_title">SIM-kaart word nie gesteun nie</string>
+    <string name="sim_missing_text">"{sim_slots,plural, =1{As jy 'n SIM-kaart het, sit dit nou in}other{As jy SIM-kaarte het, sit hulle nou in}}"</string>
+    <string name="sim_missing_title">Koppel aan mobiele netwerk</string>
+    <string name="sim_ready_message">%1$s behoort gereed te wees om te gebruik</string>
+    <string name="sim_ready_message_carrier_app">Jy sal die %2$s-program moet aflaai om %1$s klaar te aktiveer. Kom ons stel eers jou foon klaar op.</string>
+    <string name="sim_ready_message_invalid_phone_number">Jou nommer behoort gereed te wees om te gebruik</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Jy sal die %1$s-program moet aflaai om jou nommer klaar te aktiveer. Kom ons stel eers jou foon klaar op.</string>
+    <string name="sim_ready_title">%1$s is aktief</string>
+    <string name="sim_ready_title_carrier_app">Koppel later aan %1$s</string>
+    <string name="sim_setup_ask_every_time">Vra elke keer</string>
+    <string name="sim_setup_select_data">Mobieledatavoorkeur</string>
+    <string name="sim_setup_select_data_description">"Kies 'n nommer om vir mobiele data te gebruik"</string>
+    <string name="sim_setup_select_text">SMS-voorkeur</string>
+    <string name="sim_setup_select_text_description">"Kies 'n nommer vir uitgaande SMS'e (alle aktiewe nommers kan inkomende SMS'e ontvang)"</string>
+    <string name="sim_setup_select_voice">Oproepevoorkeur</string>
+    <string name="sim_setup_select_voice_description">"Kies 'n nommer vir uitgaande oproepe (alle aktiewe nommers kan inkomende oproepe ontvang)"</string>
+    <string name="sim_setup_title">Stel SIM-kaarte op</string>
+    <string name="skip_anyway_button_label">Slaan steeds oor</string>
+    <string name="skip_button_label">Slaan oor</string>
+    <string name="skip_toast">Opstelassistent oorgeslaan</string>
+    <string name="slots_selection_item_summary_activating">Aktiveer tans …</string>
+    <string name="slots_selection_item_summary_error">Kan nie nou onmiddellik geaktiveer word nie</string>
+    <string name="slots_selection_title">"Kies 'n nommer om te gebruik"</string>
+    <string name="speed_label_fast">Vinnig</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Stadig</string>
+    <string name="speed_label_very_fast">Baie vinnig</string>
+    <string name="sud_back_button_label">Terug</string>
+    <string name="sud_more_button_label">Meer</string>
+    <string name="sud_next_button_label">Volgende</string>
+    <string name="suggested_actions_description">"Stel 'n paar dinge nou op of kry hulle later in Instellings"</string>
+    <string name="suggested_actions_description_single_item">Hier is nog een ding om op jou ^1 op te stel. Jy kan dit ook later in Instellings kry.</string>
+    <string name="suggested_actions_done_label">Klaar vir nou</string>
+    <string name="suggested_actions_no_thanks_label">Nee, dankie</string>
+    <string name="suggested_actions_title">Enigiets anders?</string>
+    <string name="switch_camera">Wissel kamera</string>
+    <string name="switch_to_back_camera_button_content_description">Agterste kamera</string>
+    <string name="switch_to_front_camera_button_content_description">Voorste kamera</string>
+    <string name="switched_to_back_camera_announcement">Knoppie is nou voorste kamera</string>
+    <string name="switched_to_front_camera_announcement">Knoppie is nou agterste kamera</string>
+    <string name="tap_to_sign_up">Tik om aan te meld</string>
+    <string name="terminate_toast">"Opstelassistent beëindig
+Toestel nie opgestel nie"</string>
+    <string name="try_again_button_label">Probeer weer</string>
+    <string name="url_load_unsuccessful_message">"Jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} is nie aan 'n mobiele datadiens gekoppel nie. Gaan in 'n webblaaier na {0} toe om hierdie inligting nou te bekyk."</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"Jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} is nie aan 'n Wi‑Fi-netwerk gekoppel nie. Besoek {0} met 'n webblaaier om hierdie inligting nou te bekyk."</string>
+    <string name="user_warning_cannot_switch_message">Kan nie terugwissel na eienaargebruiker toe nie. Probeer asseblief later weer.</string>
+    <string name="user_warning_label_continue">Gaan voort</string>
+    <string name="user_warning_label_quit">Kanselleer</string>
+    <string name="user_warning_quit_dialog_button_keep">Hou gebruiker</string>
+    <string name="user_warning_quit_dialog_button_remove">Verwyder gebruiker</string>
+    <string name="user_warning_quit_dialog_message">Verwyder gebruiker?</string>
+    <string name="user_warning_title">Stel nuwe gebruiker op</string>
+    <string name="wait_msg">"Net 'n sekonde ..."</string>
+    <string name="web_dialog_unable_to_view">"Besoek ^1 met 'n webblaaier om hierdie inligting nou te bekyk."</string>
+    <string name="welcome_accessibility_button">Visie-instellings</string>
+    <string name="welcome_language_picker_content_description">Taal: %s</string>
+    <string name="welcome_language_picker_dialog_title">Kies jou taal</string>
+    <string name="welcome_message">Hallo</string>
+    <string name="welcome_secondary_user_added_text">Jy is by hierdie {DEVICE_TYPE,select, PHONE{foon gevoeg}TABLET{tablet gevoeg}other{toestel gevoeg}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Belangrik:</b>"
+
+"<ul><li>Die {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} se eienaar kan jou programme deïnstalleer of jou gebruikerprofiel heeltemal verwyder</li>"
+
+"<li>Enige ander gebruiker kan opgedateerde programtoestemmings aanvaar</li>"
+
+"<li>Deel hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} net met mense wat jy vertrou</li></ul></string>
+    <string name="welcome_start_button_label">Begin</string>
+    <string name="wifi_add_new_network">Voeg nuwe netwerk by</string>
+    <string name="wifi_and_mobile_skipped_message">"As jy aan 'n Wi‑Fi- of selnetwerk koppel, help dit jou om vinnig jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} op te stel.
+
+Sonder 'n verbinding kan jy nie:
+
+"<ul><li>By jou Google-rekening aanmeld nie</li>"
+
+"<li>Programme en data teruglaai nie</li>"
+
+"<li>Sagteware-opdaterings kry nie</li>"
+
+"<li>Tyd en datum outomaties opstel nie</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"As jy aan 'n Wi‑Fi- of selnetwerk koppel, help dit jou om vinnig jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} op te stel.
+
+Sonder 'n verbinding kan jy nie:
+
+"<ul><li>By jou Google-rekening aanmeld nie</li>"
+
+"<li>Programme en data teruglaai nie</li>"
+
+"<li>"'n SIM aflaai nie"</li>"
+
+"<li>Sagtewareopdaterings kry nie</li>"
+
+"<li>Tyd en datum outomaties opstel nie</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt is tydelik vol</string>
+    <string name="wifi_check_password_try_again">Gaan wagwoord na en probeer weer</string>
+    <string name="wifi_connected_no_internet">Gekoppel, geen internet nie</string>
+    <string name="wifi_disabled_by_recommendation_provider">Nie gekoppel nie weens laegehalte-netwerk</string>
+    <string name="wifi_disabled_generic">Gedeaktiveer</string>
+    <string name="wifi_disabled_network_failure">IP-opstelling het misluk</string>
+    <string name="wifi_disabled_password_failure">Stawingsprobleem</string>
+    <string name="wifi_fail_to_scan">Kan nie skandeer vir netwerke nie</string>
+    <string name="wifi_ip_address_not_available">Nie beskikbaar nie</string>
+    <string name="wifi_ip_address_title">IP-adres</string>
+    <string name="wifi_limited_connection">Beperkte verbinding</string>
+    <string name="wifi_mac_address_not_available">Nie beskikbaar nie</string>
+    <string name="wifi_mac_address_title">MAC-adres</string>
+    <string name="wifi_metered_label">Beperk</string>
+    <string name="wifi_no_internet">Geen internettoegang nie</string>
+    <string name="wifi_no_internet_no_reconnect">Sal nie outomaties koppel nie</string>
+    <string name="wifi_not_in_range">Nie binne ontvangs nie</string>
+    <string name="wifi_remembered">Gestoor</string>
+    <string name="wifi_scanning">Soek tans na Wi-Fi-netwerke …</string>
+    <string name="wifi_set_up_offline_title">Stel vanlyn op?</string>
+    <string name="wifi_skip_button_label">Stel vanlyn op</string>
+    <string name="wifi_skipped_message">Jou {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} sal die mobiele netwerk tydens opstelling gebruik en betaling vir hierdie datagebruik sal dalk van jou gehef word. Koppel aan Wi‑Fi om moontlike koste te vermy.</string>
+    <string name="wifi_skipped_title">Moontlike dataheffings</string>
+    <string name="wifi_title">Koppel aan Wi-Fi</string>
+    <string name="wifi_unmetered_label">Onbeperk</string>
+    <string name="work_profile_setup_description">Om hierdie toestel vir werk op te stel en werkdata van persoonlike data te skei</string>
+    <string name="work_profile_setup_next">Volgende</string>
+    <string name="work_profile_setup_skip">Slaan werkopstelling oor</string>
+    <string name="work_profile_setup_title">Voeg jou werkrekening by</string>
+    <string name="work_setup_interrupted">"Ons het ongewone aktiwiteit op hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} opgemerk, en jou data kan in gevaar wees as jy met opstelling voortgaan.
+
+Stel hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} terug om oor te begin."</string>
+    <string name="work_setup_interrupted_title">Hierdie {DEVICE_TYPE,select, PHONE{foon}TABLET{tablet}other{toestel}} is dalk onveilig</string>
+</resources>

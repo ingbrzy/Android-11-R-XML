@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_slice_permission_allow">Consenti</string>
+    <string name="abc_slice_permission_checkbox">"Consenti all'app %1$s di mostrare porzioni di qualsiasi app"</string>
+    <string name="abc_slice_permission_deny">Nega</string>
+    <string name="abc_slice_permission_text_1">"- Può leggere informazioni dell'app %1$s"</string>
+    <string name="abc_slice_permission_text_2">"- Può compiere azioni nell'app %1$s"</string>
+    <string name="abc_slice_permission_title">"Vuoi consentire all'app %1$s di mostrare porzioni dell'app %2$s?"</string>
+    <string name="abc_slices_permission_request">"L'app %1$s vuole mostrare porzioni dell'app %2$s"</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="all_topics_header_text">Tutti gli argomenti</string>
+    <string name="allset_description">"Puoi iniziare a usare il telefono.
+
+Puoi disattivare la navigazione tramite gesti e usare i pulsanti per tornare indietro, andare alla schermata Home e cambiare app.
+"<annotation id="link">Vai alle Impostazioni</annotation></string>
+    <string name="allset_hint">"Scorri verso l'alto per iniziare"</string>
+    <string name="allset_page_title">Fatto</string>
+    <string name="allset_setting_link">"Impostazioni di navigazione per l'accessibilità"</string>
+    <string name="allset_title">Finito.</string>
+    <string name="app_name">Consigli per Pixel</string>
+    <string name="article_helpful_feedback_toast">Grazie per il feedback. Ci servirà per i futuri suggerimenti.</string>
+    <string name="article_helpful_no">No</string>
+    <string name="article_helpful_talkback_selected_no">È selezionato No</string>
+    <string name="article_helpful_talkback_selected_yes">È selezionato Sì</string>
+    <string name="article_helpful_talkback_unselected_no">No è deselezionato</string>
+    <string name="article_helpful_talkback_unselected_yes">Sì è deselezionato</string>
+    <string name="article_helpful_text">È utile?</string>
+    <string name="article_helpful_yes">Sì</string>
+    <string name="asset_is_downloading_content_description">Video/Immagine in fase di download</string>
+    <string name="common_google_play_services_enable_button">Attiva</string>
+    <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_install_button">Installa</string>
+    <string name="common_google_play_services_install_text">"L'app %1$s non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilità di Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services, non supportati dal tuo dispositivo.</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services, attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Per vedere video e immagini, prova a collegarti alla rete Wi-Fi o a cambiare rete</string>
+    <string name="connectivity_summary_assets_not_downloaded">È necessaria una connessione a Internet per mostrare video e immagini</string>
+    <string name="module_1_0010_summary">Cambia app, modifica velocemente le impostazioni, concentrati meglio e non solo</string>
+    <string name="module_1_0010_tag_text">Inizia</string>
+    <string name="module_1_0010_title">Guida introduttiva a [model_name]</string>
+    <string name="module_1_0101_summary">Trova app, esplora il tuo telefono e altro ancora</string>
+    <string name="module_1_0101_tag_text">Inizia</string>
+    <string name="module_1_0101_title">Inizia a usare il telefono Pixel</string>
+    <string name="module_1_1000_summary">Prima avevi un iPhoneⓇ? Trova app, esplora il tuo telefono e altro ancora</string>
+    <string name="module_1_1000_tag_text">Inizia</string>
+    <string name="module_1_1000_title">Inizia a usare il telefono Pixel</string>
+    <string name="module_2_1111_summary">"Parla all'assistente, scopri la musica con Now Playing e altro ancora"</string>
+    <string name="module_2_1111_tag_text">Utilizza Google al meglio</string>
+    <string name="module_2_1111_title">Usa al meglio Google</string>
+    <string name="module_3_1111_summary">"Scatta bellissimi ritratti, scorri per passare da una modalità all'altra e altro ancora"</string>
+    <string name="module_3_1111_tag_text">Il meglio della fotocamera</string>
+    <string name="module_3_1111_title">Il meglio della fotocamera</string>
+    <string name="module_4_1111_summary">Invia immagini, fai videochiamate e condividi foto</string>
+    <string name="module_4_1111_tag_text">SMS e chiamate</string>
+    <string name="module_4_1111_title">Messaggi e chiamate</string>
+    <string name="module_5_1111_summary">Apri rapidamente la fotocamera, controlla le notifiche e altro ancora</string>
+    <string name="module_5_1111_tag_text">Utilizza gesti</string>
+    <string name="module_5_1111_title">Usa i gesti per le scorciatoie</string>
+    <string name="module_6_1111_summary">Traccia il tempo di utilizzo, imposta una programmazione per scollegarti e non solo</string>
+    <string name="module_6_1111_tag_text">Gestisci il benessere</string>
+    <string name="module_6_1111_title">Gestisci il benessere digitale</string>
+    <string name="module_7_1111_summary">Apri due app allo stesso tempo, organizza le app con cartelle e non solo</string>
+    <string name="module_7_1111_tag_text">Diventa un esperto</string>
+    <string name="module_7_1111_title">Diventa un esperto di Pixel</string>
+    <string name="module_8_1111_summary">Crea note, paga con Pixel e scopri le ultime notizie</string>
+    <string name="module_8_1111_tag_text">Esplora le app</string>
+    <string name="module_8_1111_title">Scopri le app Google essenziali</string>
+    <string name="next_btn">Avanti</string>
+    <string name="next_module_link_back_home_page_text">Passaggio successivo: scopri tutti i suggerimenti</string>
+    <string name="next_module_link_text">Successivo: %1$s</string>
+    <string name="next_tip_content_description">Suggerimento successivo</string>
+    <string name="ob_gesture_app_go_back_media_description">Video relativo al nuovo gesto per tornare indietro</string>
+    <string name="ob_gesture_app_go_back_summary">"Per tornare all'ultima schermata, scorri verso il centro dal bordo sinistro o destro"</string>
+    <string name="ob_gesture_app_go_back_title">Indietro</string>
+    <string name="ob_gesture_app_home_media_description">Video relativo al nuovo gesto per andare alla schermata Home</string>
+    <string name="ob_gesture_app_home_summary">"Scorri verso l'alto dalla parte inferiore dello schermo.
+Questo gesto ti porta sempre alla schermata Home."</string>
+    <string name="ob_gesture_app_home_title">Vai alla schermata Home</string>
+    <string name="ob_gesture_app_overview_media_description">Video relativo al nuovo gesto per la panoramica</string>
+    <string name="ob_gesture_app_overview_summary">"Scorri verso l'alto dalla parte inferiore dello schermo e tieni premuto"</string>
+    <string name="ob_gesture_app_overview_title">Cambia app</string>
+    <string name="onboarding_education_page_title">Presentazione dei gesti di navigazione</string>
+    <string name="previous_module_link_text">Precedente: %1$s</string>
+    <string name="previous_tip_content_description">Suggerimento precedente</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="settings_search_main_entry_screen_title">Consigli e assistenza > Scopri i consigli per il telefono Pixel</string>
+    <string name="settings_search_main_entry_summary">Utilizza al meglio il tuo telefono Pixel. Guarda i video e non solo.</string>
+    <string name="smart_space_subtitle_android">Tocca per suggerimenti</string>
+    <string name="smart_space_subtitle_ios">Tocca per suggerimenti</string>
+    <string name="smart_space_subtitle_others">Tocca per suggerimenti</string>
+    <string name="smart_space_subtitle_pixel">Scopri le novità</string>
+    <string name="smart_space_title">Il tuo nuovo Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Scatta ritratti, trova lo scatto perfetto e altro</string>
+    <string name="suggestion_summary_module_communication">Invia immagini, fai videochiamate e non solo</string>
+    <string name="suggestion_summary_module_gestures">Controlla le notifiche, apri la fotocamera e non solo</string>
+    <string name="suggestion_summary_module_google_smarts">"Parla con l'Assistente Google e non solo"</string>
+    <string name="suggestion_title_module_camera">Il meglio della fotocamera</string>
+    <string name="suggestion_title_module_communication">Suggerimenti per SMS e chiamate</string>
+    <string name="suggestion_title_module_gestures">Usa i gesti per le scorciatoie</string>
+    <string name="suggestion_title_module_google_smarts">Usa al meglio Google</string>
+    <string name="tip_1_1_media_description">Video su come trovare le app</string>
+    <string name="tip_1_1_summary">"Scorri verso l'alto dalla parte inferiore dello schermo per visualizzare le tue app recenti. Vedrai anche una riga di app previste in fondo. Scorri di nuovo verso l'alto per visualizzare tutte le app."</string>
+    <string name="tip_1_1_title">Trovare le app</string>
+    <string name="tip_1_2_media_description">Video su come organizzare le app</string>
+    <string name="tip_1_2_summary">"Per aggiungere un'app alla schermata Home, toccala e trascina.
+
+Per rimuovere un'app, toccala e tienila premuta, quindi trascinala verso la parte superiore dello schermo."</string>
+    <string name="tip_1_2_title">Aggiungi app alla schermata Home</string>
+    <string name="tip_1_3_link">Visita il Play Store</string>
+    <string name="tip_1_3_media_description">Immagine delle app principali</string>
+    <string name="tip_1_3_summary">"Inizia a usare le seguenti app:
+- Play Store: esplora e scarica app
+- Google Foto: trova, salva e condividi foto
+- Google Keep: crea note, elenchi e non solo"</string>
+    <string name="tip_1_3_title">Scopri le app principali</string>
+    <string name="tip_1_4_media_description">Video sulle notifiche</string>
+    <string name="tip_1_4_summary">"Scorri verso il basso dalla parte superiore dello schermo per visualizzare le notifiche. Per cancellare una notifica, falla scorrere verso sinistra o destra.
+
+Per visualizzare ulteriori informazioni su una notifica, tienila premuta."</string>
+    <string name="tip_1_4_title">Visualizza le notifiche</string>
+    <string name="tip_1_5_media_description">Video su come modificare le impostazioni</string>
+    <string name="tip_1_5_summary">"Scorri verso il basso dalla parte superiore del tuo telefono Pixel per aprire le Impostazioni rapide. Scorri di nuovo verso il basso per visualizzare altre impostazioni.
+
+Tocca un'impostazione per attivarla o disattivarla. Per visualizzare altre opzioni di un'impostazione, tienila premuta."</string>
+    <string name="tip_1_5_title">Modifica velocemente le impostazioni più comuni</string>
+    <string name="tip_1_6_link">Vai a Impostazioni</string>
+    <string name="tip_1_6_media_description">Video su Non disturbare</string>
+    <string name="tip_1_6_summary">"Se stai usando il telefono, ma vuoi mantenere la concentrazione, puoi interrompere la visualizzazione delle notifiche.
+
+Scopri i nuovi controlli della modalità Non disturbare."</string>
+    <string name="tip_1_6_title">Concentrati meglio usando la modalità Non disturbare</string>
+    <string name="tip_1_7_media_description">Video su come visualizzare le azioni</string>
+    <string name="tip_1_7_summary">"Tocca e tieni premuto del testo per vedere le azioni disponibili, ad esempio prenotare un tavolo in un ristorante.
+
+Puoi farlo da qualsiasi app e anche quando passi da un'app a un'altra."</string>
+    <string name="tip_1_7_title">Scopri le azioni disponibili quando selezioni del testo</string>
+    <string name="tip_1_9_link">"Vai all'assistenza"</string>
+    <string name="tip_1_9_media_description">Video su Suggerimenti e assistenza</string>
+    <string name="tip_1_9_summary">"Più suggerimenti e assistenza disponibili in ogni momento. Apri Impostazioni > Suggerimenti e assistenza.
+
+Puoi consultare i suggerimenti, sfogliare gli articoli del Centro assistenza oppure contattare il team di Pixel."</string>
+    <string name="tip_1_9_title">Ricevi assistenza quando nei hai bisogno</string>
+    <string name="tip_2_1_link">Apri in Impostazioni</string>
+    <string name="tip_2_1_link_description">Per attivare questa funzione, tocca il seguente pulsante.</string>
+    <string name="tip_2_1_link_description_off">Per attivare questa funzione, tocca il seguente pulsante.</string>
+    <string name="tip_2_1_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_2_1_link_on">Impostazioni pressione</string>
+    <string name="tip_2_1_media_description">"Video su come stringere il telefono per parlare con l'assistente"</string>
+    <string name="tip_2_1_summary">"Per parlare con l'Assistente Google quando vuoi (anche con lo schermo spento), stringi rapidamente la metà inferiore del telefono e rilascia."</string>
+    <string name="tip_2_1_title">"Stringi per attivare l'assistente"</string>
+    <string name="tip_2_2_link">Altre azioni</string>
+    <string name="tip_2_2_media_description">"Video sulle azioni dell'assistente"</string>
+    <string name="tip_2_2_summary">"L'Assistente Google ti consente di trovare risposte e svolgere attività in modo facile e veloce con il tuo telefono Pixel.
+
+Per parlare con l'assistente, stringi rapidamente la metà inferiore del telefono, poi rilascia e dì:
+
+- Quando sarà il mio primo evento domani?
+- Aggiungi il dentifricio alla lista della spesa
+- Andiamo a casa"</string>
+    <string name="tip_2_2_title">"Scopri cosa sa fare l'assistente"</string>
+    <string name="tip_2_3_link">Apri Lens</string>
+    <string name="tip_2_3_media_description">Video sulla ricerca con Google Lens</string>
+    <string name="tip_2_3_summary">"La tua attenzione è stata catturata da un animaletto carino, una pianta particolare o un luogo di interesse straordinario? Utilizza Google Lens per avere ulteriori informazioni.
+
+Apri la Fotocamera, tocca e tieni premuto nel mirino, quindi tocca ciò che ti interessa."</string>
+    <string name="tip_2_3_title">Esegui ricerche su ciò che vedi con Google Lens</string>
+    <string name="tip_2_4_link">Apri Google Play</string>
+    <string name="tip_2_4_link_description">Per usare la funzionalità Now Playing, aggiorna Pixel Ambient Services.</string>
+    <string name="tip_2_4_link_description_off">Per attivare questa funzione, tocca il seguente pulsante.</string>
+    <string name="tip_2_4_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_2_4_link_on">Impostazioni Now Playing</string>
+    <string name="tip_2_4_media_description">Video sulla funzione Now Playing</string>
+    <string name="tip_2_4_summary">La funzione Now Playing mostra automaticamente informazioni su qualsiasi brano in riproduzione, ovunque tu sia.</string>
+    <string name="tip_2_4_title">Identifica i brani con la funzione Now Playing</string>
+    <string name="tip_2_5_link">Apri la fotocamera</string>
+    <string name="tip_2_5_media_description">Video sulla fotocamera</string>
+    <string name="tip_2_5_summary">"Il telefono Pixel riconosce automaticamente numeri di telefono, indirizzi, email, codici a barre e codici QR. Apri la fotocamera e inquadra: non dovrai fare nient'altro."</string>
+    <string name="tip_2_5_title">Lascia fare tutto alla fotocamera</string>
+    <string name="tip_3_1_link">Apri la fotocamera</string>
+    <string name="tip_3_1_media_description">Video sulle modalità della fotocamera</string>
+    <string name="tip_3_1_summary">"Ci sono momenti in cui vuoi scattare una foto, poi registrare un video e quindi fare un'altra cosa ancora.
+
+Per cambiare modalità, apri il mirino della fotocamera e scorri verso sinistra o verso destra. Tocca Altro per visualizzare altre opzioni."</string>
+    <string name="tip_3_1_title">Scorri tra le modalità foto, video e altre ancora</string>
+    <string name="tip_3_2_link">Apri la fotocamera</string>
+    <string name="tip_3_2_media_description">Video su come scattare ritratti</string>
+    <string name="tip_3_2_summary">"In modalità Ritratto, il telefono Pixel sfoca lo sfondo per creare splendide foto dall'aspetto professionale. Fai una prova.
+
+Apri la Fotocamera, scorri da sinistra verso destra ed è fatta."</string>
+    <string name="tip_3_2_title">Scatta bellissimi ritratti</string>
+    <string name="tip_3_3_media_description">Video su come acquisire screenshot</string>
+    <string name="tip_3_3_summary">"Tieni premuto il tasto di accensione, quindi tocca Screenshot. Voilà, hai appena fatto uno screenshot.
+
+Per disegnare sullo screenshot, tocca Modifica nella notifica che viene mostrata."</string>
+    <string name="tip_3_3_title">Acquisisci e modifica screenshot rapidamente</string>
+    <string name="tip_3_4_link">Apri la fotocamera</string>
+    <string name="tip_3_4_media_description">Video su come immortalare il momento perfetto con la funzione Scatto migliore</string>
+    <string name="tip_3_4_summary">"Per ogni foto che scatti, il telefono Pixel salva una o due immagini in più per permetterti di ottenere lo scatto perfetto.
+
+1. Assicurati che l'opzione Movimento [icon_span] sia attiva, quindi scatta la foto.
+2. Quando guardi la foto, scorri verso l'alto dalla parte inferiore dello schermo.
+3. Tocca \"Scatti in questa foto\" per vedere le immagini alternative."</string>
+    <string name="tip_3_4_title">Cogli il momento giusto con la funzione Scatto migliore</string>
+    <string name="tip_3_5_link">Apri la fotocamera</string>
+    <string name="tip_3_5_media_description">Video su come scattare un selfie di gruppo</string>
+    <string name="tip_3_5_summary">"La funzionalità Selfie di gruppo ti offre più spazio per inquadrare i tuoi amici o lo sfondo senza bisogno di usare il selfie stick.
+
+1. Passa alla fotocamera anteriore [icon_span].
+2. Tocca due volte lo schermo oppure pizzica con le dita sullo schermo avvicinandole per diminuire lo zoom."</string>
+    <string name="tip_3_5_title">Scatta un selfie di gruppo</string>
+    <string name="tip_4_1_link">Apri Messaggi</string>
+    <string name="tip_4_1_media_description">"Video sull'invio di immagini"</string>
+    <string name="tip_4_1_summary">"1. Apri una conversazione nell'app Messaggi.
+2. Tocca Scrivi [icon_span] a sinistra dello spazio in cui digitare il messaggio.
+3. Seleziona l'immagine, l'emoji o l'adesivo perfetti."</string>
+    <string name="tip_4_1_title">Invia immagini</string>
+    <string name="tip_4_2_link">Installa Duo</string>
+    <string name="tip_4_2_link_off">Installa Duo</string>
+    <string name="tip_4_2_link_on">Apri Duo</string>
+    <string name="tip_4_2_media_description">Video su Google Duo</string>
+    <string name="tip_4_2_summary">"Non c'è niente di meglio di una chiacchierata faccia a faccia con i tuoi amici più cari o con la tua famiglia. Ecco perché il telefono Pixel ti consente di videochiamare facilmente con Google Duo.
+
+1. Apri l'app Google Duo.
+2. Cerca un contatto.
+3. Avvia una videochiamata con un tocco o invita la persona a scaricare Google Duo.
+
+Anche i tuoi amici che hanno telefoni e tablet iOSⓇ possono usare Google Duo."</string>
+    <string name="tip_4_2_title">Fai videochiamate con Google Duo</string>
+    <string name="tip_4_3_link">Apri Google Foto</string>
+    <string name="tip_4_3_media_description">Video su come condividere le foto</string>
+    <string name="tip_4_3_summary">"1. Apri Google Foto
+2. Tocca e tieni premuto per selezionare un'immagine
+3. Seleziona più immagini, se vuoi
+4. Tocca Condividi [icon_span]
+5. Seleziona le persone con cui effettuare la condivisione."</string>
+    <string name="tip_4_3_title">Condividi foto</string>
+    <string name="tip_4_4_link">Inizia</string>
+    <string name="tip_4_4_media_description">"Video relativo all'invio di SMS dal computer"</string>
+    <string name="tip_4_4_summary">"Puoi inviare messaggi di testo dal computer tramite Android Messaggi. Per iniziare, vai all'app Messaggi e seleziona \"Messaggi per il Web\" nel menu.
+
+Oltre a messaggi di testo, puoi inviare adesivi ed emoji, nonché allegare immagini."</string>
+    <string name="tip_4_4_title">Invia messaggi dal tuo computer</string>
+    <string name="tip_5_1_link">Vai a Impostazioni</string>
+    <string name="tip_5_1_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_5_1_link_on">Vai alle Impostazioni</string>
+    <string name="tip_5_1_media_description">Video su come controllare il telefono</string>
+    <string name="tip_5_1_summary">"Puoi controllare l'ora, le notifiche e altro ancora toccando due volte lo schermo."</string>
+    <string name="tip_5_1_title">Tocca due volte per controllare il telefono</string>
+    <string name="tip_5_2_link">Vai a Impostazioni</string>
+    <string name="tip_5_2_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_5_2_link_on">Vai alle Impostazioni</string>
+    <string name="tip_5_2_media_description">Video su come passare alla fotocamera</string>
+    <string name="tip_5_2_summary">Premi due volte il tasto di accensione da qualsiasi schermata per passare alla fotocamera in un attimo.</string>
+    <string name="tip_5_2_title">Apri la fotocamera</string>
+    <string name="tip_5_3_link">Vai a Impostazioni</string>
+    <string name="tip_5_3_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_5_3_link_on">Vai alle Impostazioni</string>
+    <string name="tip_5_3_media_description">Video su come passare alla modalità Ritratto</string>
+    <string name="tip_5_3_summary">"Per attivare e disattivare la modalità selfie nella fotocamera, apri l'app e ruota due volte il polso."</string>
+    <string name="tip_5_3_title">Cambia fotocamera</string>
+    <string name="tip_5_4_link">Vai a Impostazioni</string>
+    <string name="tip_5_4_link_off">Attiva nelle Impostazioni</string>
+    <string name="tip_5_4_link_on">Vai a Impostazioni</string>
+    <string name="tip_5_4_media_description">Video su come scorrere sul sensore di impronte digitali per le notifiche</string>
+    <string name="tip_5_4_summary">"Puoi controllare le notifiche scorrendo verso il basso sul sensore di impronte digitali sul retro del telefono.
+Scorri di nuovo per visualizzare le Impostazioni rapide."</string>
+    <string name="tip_5_4_title">"Usa l'impronta digitale per le notifiche"</string>
+    <string name="tip_5_5_media_description">Video su come cambiare app</string>
+    <string name="tip_5_5_summary">"Per cambiare rapidamente app, scorri da sinistra verso destra in fondo allo schermo e rilascia per aprire l'app."</string>
+    <string name="tip_5_5_title">Un modo più veloce per cambiare app</string>
+    <string name="tip_6_1_link">Impostazioni di Luminosità notturna</string>
+    <string name="tip_6_1_media_description">Video sulla Luminosità notturna</string>
+    <string name="tip_6_1_summary">"Con l'opzione Luminosità notturna lo schermo diventa color ambra. In questo modo potrai guardarlo senza sforzare la vista o leggere in condizioni di luce attenuata e potrai addormentarti più facilmente.
+
+Puoi attivare o disattivare rapidamente l'opzione Luminosità notturna nelle Impostazioni rapide; tieni premuto per impostare una programmazione."</string>
+    <string name="tip_6_1_title">Addormentati più facilmente con la Luminosità notturna</string>
+    <string name="tip_6_2_link">Aggiorna Benessere digitale</string>
+    <string name="tip_6_2_link_off">Aggiorna Benessere digitale</string>
+    <string name="tip_6_2_link_on">Configura la funzionalità Relax</string>
+    <string name="tip_6_2_media_description">"Video sull'impostazione di un orario per andare a dormire con la funzione Relax"</string>
+    <string name="tip_6_2_summary">"Imposta una programmazione notturna per scollegarti dal telefono.
+
+1. Apri Benessere digitale [icon_span].
+2. Tocca Relax.
+3. Imposta la programmazione Relax.
+
+Quando sarà quasi ora di andare a dormire, lo schermo cambierà colore e la modalità Non disturbare impedirà alle notifiche di svegliarti."</string>
+    <string name="tip_6_2_title">Imposta un orario per andare a dormire con la funzione Relax</string>
+    <string name="tip_6_3_link">Prova la modalità Shhh</string>
+    <string name="tip_6_3_link_off">Aggiorna Benessere digitale</string>
+    <string name="tip_6_3_link_on">Vai a Impostazioni</string>
+    <string name="tip_6_3_media_description">Video relativo alla rapida interruzione delle distrazioni</string>
+    <string name="tip_6_3_summary">Con la modalità Shhh puoi semplicemente mettere il telefono a faccia in giù per attivare la modalità Non disturbare e interrompere notifiche e suoni.</string>
+    <string name="tip_6_3_title">Interrompi rapidamente le distrazioni</string>
+    <string name="tip_6_4_link">Aggiorna Benessere digitale</string>
+    <string name="tip_6_4_link_off">Aggiorna Benessere digitale</string>
+    <string name="tip_6_4_link_on">Apri la dashboard</string>
+    <string name="tip_6_4_media_description">"Video sull'iniziativa Benessere digitale"</string>
+    <string name="tip_6_4_summary">Apri la dashboard Benessere digitale nelle Impostazioni per avere una panoramica del tuo tempo di utilizzo e per impostare timer per le app che vuoi utilizzare meno.</string>
+    <string name="tip_6_4_title">Tieni traccia del tuo tempo di utilizzo</string>
+    <string name="tip_7_1_media_description">"Video sull'organizzazione delle app con le cartelle"</string>
+    <string name="tip_7_1_summary">"Crea cartelle per tenere facilmente traccia delle tue app.
+
+Per creare una cartella, trascina un'app su un'altra app. Puoi assegnare un nome alla nuova cartella.
+
+Puoi trascinare altre app nella cartella oppure trascinare fuori un'app per rimuoverla."</string>
+    <string name="tip_7_1_title">Organizza le tue app con le cartelle</string>
+    <string name="tip_7_2_media_description">"Video relativo all'uso di due app in contemporanea"</string>
+    <string name="tip_7_2_summary">"Puoi usare due app contemporaneamente grazie all'impostazione dello schermo diviso. Dai inizio al multitasking.
+
+1. Scorri verso l'alto dalla parte inferiore dello schermo per vedere le tue app recenti.
+2. Tocca e tieni premuta l'icona delle app nella parte superiore dello schermo.
+3. Tocca Schermo diviso.
+
+Sposta il divisore in alto o in basso in base alle tue necessità. Rimuovilo facendolo scorrere quando avrai finito."</string>
+    <string name="tip_7_2_title">Visualizza due app contemporaneamente</string>
+    <string name="tip_7_3_link">"Apri l'Assistente Google"</string>
+    <string name="tip_7_3_media_description">"Video relativo al controllo del telefono con l'assistente"</string>
+    <string name="tip_7_3_summary">"L'assistente può aiutarti a svolgere più rapidamente le operazioni. Per parlare con l'assistente, stringi rapidamente la metà inferiore del telefono, quindi prova a dire:
+
+1. \"Scatta un selfie\"
+2. \"Acquisisci uno screenshot\"
+3. \"Accendi la torcia\""</string>
+    <string name="tip_7_3_title">"Fatti aiutare dall'Assistente Google con le attività quotidiane"</string>
+    <string name="tip_8_1_link">Installa Google Keep</string>
+    <string name="tip_8_1_link_off">Installa Google Keep</string>
+    <string name="tip_8_1_link_on">Apri Google Keep</string>
+    <string name="tip_8_1_media_description">Video relativo alla creazione di note</string>
+    <string name="tip_8_1_summary">"Grazie all'app Google Keep, puoi annotare rapidamente i tuoi pensieri. Aggiungi note, elenchi, foto e audio.
+
+Puoi anche impostare promemoria per ricordarti di portare a termine le tue attività. Inoltre, Keep semplifica la condivisione delle note con familiari e amici."</string>
+    <string name="tip_8_1_title">Scrivi annotazioni e non solo con Google Keep</string>
+    <string name="tip_8_2_link">Installa Google News</string>
+    <string name="tip_8_2_link_off">Installa Google News</string>
+    <string name="tip_8_2_link_on">Apri Google News</string>
+    <string name="tip_8_2_media_description">Video relativo a Google News</string>
+    <string name="tip_8_2_summary">"La miglior copertura sulle notizie dell'ultim'ora, locali e internazionali.
+
+Con un solo tocco, consulta i titoli principali delle tue fonti preferite. Vedrai una sequenza temporale con momenti chiave, opinioni, analisi e altro ancora per aiutarti ad avere un quadro completo e approfondito della notizia."</string>
+    <string name="tip_8_2_title">Resta sempre al corrente di ciò accade con Google News</string>
+    <string name="tip_8_3_link">Installa Google Pay</string>
+    <string name="tip_8_3_link_off">Installa Google Pay</string>
+    <string name="tip_8_3_link_on">Apri Google Pay</string>
+    <string name="tip_8_3_media_description">Video su Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay è il modo più veloce per pagare in milioni di negozi utilizzando solo il tuo telefono Pixel. Ecco come:
+
+1. Aggiungi una carta a Google Pay.
+2. Al momento del pagamento, cerca il simbolo contactless [icon_span].
+3. Sblocca il telefono e avvicinalo al terminale.
+4. Attendi che venga visualizzato un segno di spunta.
+
+Fatto!"</string>
+    <string name="tip_8_3_title">Paga con il tuo Pixel</string>
+    <string name="tips_nav_a11y_media_description">"Video relativo all'uso del nuovo gesto di accessibilità"</string>
+    <string name="tips_nav_a11y_summary">"Per accedere alla funzionalità Seleziona per ascoltare o all'ingrandimento, scorri verso l'alto dalla parte inferiore dello schermo con due dita.
+
+Per spostarti tra le app di accessibilità, scorri verso l'alto con due dita e tieni premuto.
+
+Puoi usare questi gesti dopo aver completato la configurazione."</string>
+    <string name="tips_nav_a11y_title">Usa il nuovo gesto di accessibilità</string>
+    <string name="title_download_completed_dialog">Ricarica nuovi suggerimenti</string>
+    <string name="try_it_text">Prova</string>
+    <string name="zero_state_primary">Hai letto tutto</string>
+    <string name="zero_state_secondary">Ricontrolla più tardi se ci sono nuovi suggerimenti</string>
+</resources>

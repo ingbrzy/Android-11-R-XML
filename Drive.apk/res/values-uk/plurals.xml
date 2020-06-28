@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Показано %1$d елемента.</item>
+        <item quantity="one">Показано %1$d елемент.</item>
+        <item quantity="few">Показано %1$d елементи.</item>
+        <item quantity="many">Показано %1$d елементів.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d коментаря</item>
+        <item quantity="one">%1$d коментар</item>
+        <item quantity="few">%1$d коментарі</item>
+        <item quantity="many">%1$d коментарів</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Завдання: %1$d подальшої дії</item>
+        <item quantity="one">Завдання: %1$d подальша дія</item>
+        <item quantity="few">Завдання: %1$d подальші дії</item>
+        <item quantity="many">Завдання: %1$d подальших дій</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Елементи видалено назавжди</item>
+        <item quantity="one">Елементи видалено назавжди</item>
+        <item quantity="few">Елементи видалено назавжди</item>
+        <item quantity="many">Елементи видалено назавжди</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">\"%s\" не є дійсними електронними адресами.</item>
+        <item quantity="one">\"%s\" не є дійсними електронними адресами.</item>
+        <item quantity="few">\"%s\" не є дійсними електронними адресами.</item>
+        <item quantity="many">\"%s\" не є дійсними електронними адресами.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Якщо додати ці файли, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="one">Якщо додати ці файли, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="few">Якщо додати ці файли, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="many">Якщо додати ці файли, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Якщо додати ці папки, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="one">Якщо додати ці папки, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="few">Якщо додати ці папки, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="many">Якщо додати ці папки, їх зможе відкрити кожен, хто має доступ до спільної папки \"%1$s\"</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Надати доступ до цих файлів?</item>
+        <item quantity="one">Надати доступ до цих файлів?</item>
+        <item quantity="few">Надати доступ до цих файлів?</item>
+        <item quantity="many">Надати доступ до цих файлів?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Надати доступ до цих папок?</item>
+        <item quantity="one">Надати доступ до цих папок?</item>
+        <item quantity="few">Надати доступ до цих папок?</item>
+        <item quantity="many">Надати доступ до цих папок?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Оновлено %1$d папки. Вибраний колір: %2$s.</item>
+        <item quantity="one">Оновлено %1$d папку. Вибраний колір: %2$s.</item>
+        <item quantity="few">Оновлено %1$d папки. Вибраний колір: %2$s.</item>
+        <item quantity="many">Оновлено %1$d папок. Вибраний колір: %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Застосувати фільтри:</item>
+        <item quantity="one">Застосувати фільтри:</item>
+        <item quantity="few">Застосувати фільтри:</item>
+        <item quantity="many">Застосувати фільтри:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Термін дії закінчується через %1$d дня</item>
+        <item quantity="one">Термін дії закінчується через %1$d день</item>
+        <item quantity="few">Термін дії закінчується через %1$d дні</item>
+        <item quantity="many">Термін дії закінчується через %1$d днів</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Якщо пристрій залишатиметься неактивним, термін дії цієї резервної копії завершиться через %1$d дня.</item>
+        <item quantity="one">Якщо пристрій залишатиметься неактивним, термін дії цієї резервної копії завершиться через %1$d день.</item>
+        <item quantity="few">Якщо пристрій залишатиметься неактивним, термін дії цієї резервної копії завершиться через %1$d дні.</item>
+        <item quantity="many">Якщо пристрій залишатиметься неактивним, термін дії цієї резервної копії завершиться через %1$d днів.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Резервні копії видалено.</item>
+        <item quantity="one">Резервні копії видалено.</item>
+        <item quantity="few">Резервні копії видалено.</item>
+        <item quantity="many">Резервні копії видалено.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d стовпця.</item>
+        <item quantity="one">%1$d стовпець.</item>
+        <item quantity="few">%1$d стовпці.</item>
+        <item quantity="many">%1$d стовпців.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d закріпленого стовпця.</item>
+        <item quantity="one">%1$d закріплений стовпець.</item>
+        <item quantity="few">%1$d закріплені стовпці.</item>
+        <item quantity="many">%1$d закріплених стовпців.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d закріпленого рядка.</item>
+        <item quantity="one">%1$d закріплений рядок.</item>
+        <item quantity="few">%1$d закріплені рядки.</item>
+        <item quantity="many">%1$d закріплених рядків.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d рядка.</item>
+        <item quantity="one">%1$d рядок.</item>
+        <item quantity="few">%1$d рядки.</item>
+        <item quantity="many">%1$d рядків.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s (%2$d елемента)</item>
+        <item quantity="one">%1$s (%2$d елемент)</item>
+        <item quantity="few">%1$s (%2$d елементи)</item>
+        <item quantity="many">%1$s (%2$d елементів)</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s відповіді</item>
+        <item quantity="one">%1$s відповідь</item>
+        <item quantity="few">%1$s відповіді</item>
+        <item quantity="many">%1$s відповідей</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Не вдалося завантажити елементи</item>
+        <item quantity="one">Не вдалося завантажити елементи</item>
+        <item quantity="few">Не вдалося завантажити елементи</item>
+        <item quantity="many">Не вдалося завантажити елементи</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Кількість елементів для завантаження: %1$d. Деталі наведено в сповіщенні</item>
+        <item quantity="one">Кількість елементів для завантаження: %1$d. Деталі наведено в сповіщенні</item>
+        <item quantity="few">Кількість елементів для завантаження: %1$d. Деталі наведено в сповіщенні</item>
+        <item quantity="many">Кількість елементів для завантаження: %1$d. Деталі наведено в сповіщенні</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Буде завантажено %1$d елемента.</item>
+        <item quantity="one">Буде завантажено %1$d елемент.</item>
+        <item quantity="few">Буде завантажено %1$d елементи.</item>
+        <item quantity="many">Буде завантажено %1$d елементів.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s і ще %2$d елемента</item>
+        <item quantity="one">%1$s і ще %2$d елемент</item>
+        <item quantity="few">%1$s і ще %2$d елементи</item>
+        <item quantity="many">%1$s і ще %2$d елементів</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Не вдалося завантажити %1$s елемента</item>
+        <item quantity="one">Не вдалося завантажити %1$s елемент</item>
+        <item quantity="few">Не вдалося завантажити %1$s елементи</item>
+        <item quantity="many">Не вдалося завантажити %1$s елементів</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Ще %1$d елемента</item>
+        <item quantity="one">Ще %1$d елемент</item>
+        <item quantity="few">Ще %1$d елементи</item>
+        <item quantity="many">Ще %1$d елементів</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Не вдалося завантажити %1$d з %2$d</item>
+        <item quantity="one">Не вдалося завантажити %1$d з %2$d</item>
+        <item quantity="few">Не вдалося завантажити %1$d з %2$d</item>
+        <item quantity="many">Не вдалося завантажити %1$d з %2$d</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Під час переміщення файлів сталася помилка.</item>
+        <item quantity="one">Під час переміщення файлів сталася помилка.</item>
+        <item quantity="few">Під час переміщення файлів сталася помилка.</item>
+        <item quantity="many">Під час переміщення файлів сталася помилка.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d гостя</item>
+        <item quantity="one">%d гість</item>
+        <item quantity="few">%d гості</item>
+        <item quantity="many">%d гостей</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d ярлика додано в папку \"%1$s\"</item>
+        <item quantity="one">%2$d ярлик додано в папку \"%1$s\"</item>
+        <item quantity="few">%2$d ярлики додано в папку \"%1$s\"</item>
+        <item quantity="many">%2$d ярликів додано в папку \"%1$s\"</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Не вдається додати ярлики. Повторити</item>
+        <item quantity="one">Не вдається додати ярлики. Повторити</item>
+        <item quantity="few">Не вдається додати ярлики. Повторити</item>
+        <item quantity="many">Не вдається додати ярлики. Повторити</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів.</item>
+        <item quantity="one">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів.</item>
+        <item quantity="few">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів.</item>
+        <item quantity="many">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів. Ви можете лише редагувати елементи й додавати їх на спільний диск \"%3$s\", тож не зможете відмінити цю дію.</item>
+        <item quantity="one">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів. Ви можете лише редагувати елементи й додавати їх на спільний диск \"%3$s\", тож не зможете відмінити цю дію.</item>
+        <item quantity="few">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів. Ви можете лише редагувати елементи й додавати їх на спільний диск \"%3$s\", тож не зможете відмінити цю дію.</item>
+        <item quantity="many">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його. Користувачі спільного диска \"%2$s\" отримають доступ до цих елементів. Ви можете лише редагувати елементи й додавати їх на спільний диск \"%3$s\", тож не зможете відмінити цю дію.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Переміщення деяких файлів у папку \" %1$s\" може становити загрозу витоку даних. Ці файли можуть містити конфіденційну інформацію.</item>
+        <item quantity="one">Переміщення деяких файлів у папку \" %1$s\" може становити загрозу витоку даних. Ці файли можуть містити конфіденційну інформацію.</item>
+        <item quantity="few">Переміщення деяких файлів у папку \" %1$s\" може становити загрозу витоку даних. Ці файли можуть містити конфіденційну інформацію.</item>
+        <item quantity="many">Переміщення деяких файлів у папку \" %1$s\" може становити загрозу витоку даних. Ці файли можуть містити конфіденційну інформацію.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="one">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="few">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="many">Користувачі спільного диска \"%1$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Якщо перемістити ці файли, доступ до них отримають усі, хто бачить спільну папку \"%1$s\". Користувачі спільного диска \"%2$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="one">Якщо перемістити ці файли, доступ до них отримають усі, хто бачить спільну папку \"%1$s\". Користувачі спільного диска \"%2$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="few">Якщо перемістити ці файли, доступ до них отримають усі, хто бачить спільну папку \"%1$s\". Користувачі спільного диска \"%2$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+        <item quantity="many">Якщо перемістити ці файли, доступ до них отримають усі, хто бачить спільну папку \"%1$s\". Користувачі спільного диска \"%2$s\" утратять доступ до цих елементів, тому вам потрібно буде знову надати його.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Ви переміщуєте кілька елементів зі спільних папок, тому інші користувачі втратять доступ до цих елементів.</item>
+        <item quantity="one">Ви переміщуєте кілька елементів зі спільних папок, тому інші користувачі втратять доступ до цих елементів.</item>
+        <item quantity="few">Ви переміщуєте кілька елементів зі спільних папок, тому інші користувачі втратять доступ до цих елементів.</item>
+        <item quantity="many">Ви переміщуєте кілька елементів зі спільних папок, тому інші користувачі втратять доступ до цих елементів.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Додаткові обмеження для цих елементів буде вилучено.</item>
+        <item quantity="one">Додаткові обмеження для цих елементів буде вилучено.</item>
+        <item quantity="few">Додаткові обмеження для цих елементів буде вилучено.</item>
+        <item quantity="many">Додаткові обмеження для цих елементів буде вилучено.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Якщо перемістити ці файли, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="one">Якщо перемістити ці файли, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="few">Якщо перемістити ці файли, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="many">Якщо перемістити ці файли, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Якщо перемістити ці папки, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="one">Якщо перемістити ці папки, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="few">Якщо перемістити ці папки, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+        <item quantity="many">Якщо перемістити ці папки, вони будуть доступні для всіх, хто має доступ до спільної папки \"%1$s\"</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Поділитися цими файлами?</item>
+        <item quantity="one">Поділитися цими файлами?</item>
+        <item quantity="few">Поділитися цими файлами?</item>
+        <item quantity="many">Поділитися цими файлами?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Поділитися цими папками?</item>
+        <item quantity="one">Поділитися цими папками?</item>
+        <item quantity="few">Поділитися цими папками?</item>
+        <item quantity="many">Поділитися цими папками?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">У вас немає дозволу переміщувати деякі елементи з їх спільного диска.</item>
+        <item quantity="one">У вас немає дозволу переміщувати деякі елементи з їх спільного диска.</item>
+        <item quantity="few">У вас немає дозволу переміщувати деякі елементи з їх спільного диска.</item>
+        <item quantity="many">У вас немає дозволу переміщувати деякі елементи з їх спільного диска.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">У вас немає дозволу переміщувати деякі елементи з їх папки.</item>
+        <item quantity="one">У вас немає дозволу переміщувати деякі елементи з їх папки.</item>
+        <item quantity="few">У вас немає дозволу переміщувати деякі елементи з їх папки.</item>
+        <item quantity="many">У вас немає дозволу переміщувати деякі елементи з їх папки.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Ви не можете переміщувати ці файли, оскільки їх власник не є користувачем домену %1$s.</item>
+        <item quantity="one">Ви не можете переміщувати ці файли, оскільки їх власник не є користувачем домену %1$s.</item>
+        <item quantity="few">Ви не можете переміщувати ці файли, оскільки їх власник не є користувачем домену %1$s.</item>
+        <item quantity="many">Ви не можете переміщувати ці файли, оскільки їх власник не є користувачем домену %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$sКористувачі \"%2$s\" тепер мають доступ.</item>
+        <item quantity="one">%1$sКористувачі \"%2$s\" тепер мають доступ.</item>
+        <item quantity="few">%1$sКористувачі \"%2$s\" тепер мають доступ.</item>
+        <item quantity="many">%1$sКористувачі \"%2$s\" тепер мають доступ.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">На спільний диск переміщено %1$d елемента. В учасників є доступ.</item>
+        <item quantity="one">На спільний диск переміщено %1$d елемент. В учасників є доступ.</item>
+        <item quantity="few">На спільний диск переміщено %1$d елементи. В учасників є доступ.</item>
+        <item quantity="many">На спільний диск переміщено %1$d елементів. В учасників є доступ.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">Зі спільного диска переміщено %1$d елемента. Доступ утрачено.</item>
+        <item quantity="one">Зі спільного диска переміщено %1$d елемент. Доступ утрачено.</item>
+        <item quantity="few">Зі спільного диска переміщено %1$d елементи. Доступ утрачено.</item>
+        <item quantity="many">Зі спільного диска переміщено %1$d елементів. Доступ утрачено.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+        <item quantity="few">%1$d елементи</item>
+        <item quantity="many">%1$d елементів</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d користувача, який схвалює</item>
+        <item quantity="one">%1$d користувач, який схвалює</item>
+        <item quantity="few">%1$d користувачі, які схвалюють</item>
+        <item quantity="many">%1$d користувачів, які схвалюють</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s завдання</item>
+        <item quantity="one">%1$s завдання</item>
+        <item quantity="few">%1$s завдання</item>
+        <item quantity="many">%1$s завдань</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s згадки без відповіді</item>
+        <item quantity="one">%1$s згадка без відповіді</item>
+        <item quantity="few">%1$s згадки без відповіді</item>
+        <item quantity="many">%1$s згадок без відповіді</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s пропозиції</item>
+        <item quantity="one">%1$s пропозиція</item>
+        <item quantity="few">%1$s пропозиції</item>
+        <item quantity="many">%1$s пропозицій</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s невиконаного завдання</item>
+        <item quantity="one">%1$s невиконане завдання</item>
+        <item quantity="few">%1$s невиконані завдання</item>
+        <item quantity="many">%1$s невиконаних завдань</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Елементи видалено назавжди</item>
+        <item quantity="one">Елементи видалено назавжди</item>
+        <item quantity="few">Елементи видалено назавжди</item>
+        <item quantity="many">Елементи видалено назавжди</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">Наразі доступно офлайн: %1$d з %2$s.</item>
+        <item quantity="one">Наразі доступно офлайн: %1$d з %2$s.</item>
+        <item quantity="few">Наразі доступно офлайн: %1$d з %2$s.</item>
+        <item quantity="many">Наразі доступно офлайн: %1$d з %2$s.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Файлів, доступних офлайн: %1$d.</item>
+        <item quantity="one">Файлів, доступних офлайн: %1$d.</item>
+        <item quantity="few">Файлів, доступних офлайн: %1$d.</item>
+        <item quantity="many">Файлів, доступних офлайн: %1$d.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Файли не можна зробити доступними офлайн</item>
+        <item quantity="one">Файли не можна зробити доступними офлайн</item>
+        <item quantity="few">Файли не можна зробити доступними офлайн</item>
+        <item quantity="many">Файли не можна зробити доступними офлайн</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Зберігання %1$d файлу на пристрій.</item>
+        <item quantity="one">Зберігання %1$d файлу на пристрій.</item>
+        <item quantity="few">Зберігання %1$d файлів на пристрій.</item>
+        <item quantity="many">Зберігання %1$d файлів на пристрій.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d файлу</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файли</item>
+        <item quantity="many">%1$d файлів</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="one">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="few">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="many">Завантаження призупинено. Очікування відгуку мережі…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Завантаження %1$d файлу призупинено.</item>
+        <item quantity="one">Завантаження %1$d файлу призупинено.</item>
+        <item quantity="few">Завантаження %1$d файлів призупинено.</item>
+        <item quantity="many">Завантаження %1$d файлів призупинено.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="one">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="few">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="many">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d елемента буде переміщено в кошик. Також їх буде вилучено з Google Фото.</item>
+        <item quantity="one">%1$d елемент буде переміщено в кошик. Також їх буде вилучено з Google Фото.</item>
+        <item quantity="few">%1$d елементи буде переміщено в кошик. Також їх буде вилучено з Google Фото.</item>
+        <item quantity="many">%1$d елементів буде переміщено в кошик. Також їх буде вилучено з Google Фото.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d елемента буде переміщено в кошик.</item>
+        <item quantity="one">%1$d елемент буде переміщено в кошик.</item>
+        <item quantity="few">%1$d елементи буде переміщено в кошик.</item>
+        <item quantity="many">%1$d елементів буде переміщено в кошик.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s подальшої дії</item>
+        <item quantity="one">%1$s подальша дія</item>
+        <item quantity="few">%1$s подальші дії</item>
+        <item quantity="many">%1$s подальших дій</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s подальшої дії</item>
+        <item quantity="one">%1$s подальша дія</item>
+        <item quantity="few">%1$s подальші дії</item>
+        <item quantity="many">%1$s подальших дій</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Подальші дії</item>
+        <item quantity="one">Подальші дії</item>
+        <item quantity="few">Подальші дії</item>
+        <item quantity="many">Подальші дії</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Додано коментарі до %1$d файлу</item>
+        <item quantity="one">Додано коментарі до %1$d файлу</item>
+        <item quantity="few">Додано коментарі до %1$d файлів</item>
+        <item quantity="many">Додано коментарі до %1$d файлів</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Додано коментарі до %1$d файлу</item>
+        <item quantity="one">Додано коментарі до %1$d файлу</item>
+        <item quantity="few">Додано коментарі до %1$d файлів</item>
+        <item quantity="many">Додано коментарі до %1$d файлів</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Додали коментарі до цього файлу</item>
+        <item quantity="one">Додали коментарі до цього файлу</item>
+        <item quantity="few">Додали коментарі до цього файлу</item>
+        <item quantity="many">Додали коментарі до цього файлу</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Створено %1$d елемента</item>
+        <item quantity="one">Створено %1$d елемент</item>
+        <item quantity="few">Створено %1$d елементи</item>
+        <item quantity="many">Створено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Створено %1$d елемента</item>
+        <item quantity="one">Створено %1$d елемент</item>
+        <item quantity="few">Створено %1$d елементи</item>
+        <item quantity="many">Створено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Створили цей файл</item>
+        <item quantity="one">Створили цей файл</item>
+        <item quantity="few">Створили цей файл</item>
+        <item quantity="many">Створили цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Створили цю папку</item>
+        <item quantity="one">Створили цю папку</item>
+        <item quantity="few">Створили цю папку</item>
+        <item quantity="many">Створили цю папку</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Відредаговано %1$d елемента</item>
+        <item quantity="one">Відредаговано %1$d елемент</item>
+        <item quantity="few">Відредаговано %1$d елементи</item>
+        <item quantity="many">Відредаговано %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Відредаговано %1$d елемента</item>
+        <item quantity="one">Відредаговано %1$d елемент</item>
+        <item quantity="few">Відредаговано %1$d елементи</item>
+        <item quantity="many">Відредаговано %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Внесли зміни в цей файл</item>
+        <item quantity="one">Внесли зміни в цей файл</item>
+        <item quantity="few">Внесли зміни в цей файл</item>
+        <item quantity="many">Внесли зміни в цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Назавжди видалено %1$d елемента</item>
+        <item quantity="one">Назавжди видалено %1$d елемент</item>
+        <item quantity="few">Назавжди видалено %1$d елементи</item>
+        <item quantity="many">Назавжди видалено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d елемента переміщено в:</item>
+        <item quantity="one">%1$d елемент переміщено в:</item>
+        <item quantity="few">%1$d елементи переміщено в:</item>
+        <item quantity="many">%1$d елементів переміщено в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d елемента переміщено в:</item>
+        <item quantity="one">%1$d елемент переміщено в:</item>
+        <item quantity="few">%1$d елементи переміщено в:</item>
+        <item quantity="many">%1$d елементів переміщено в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Переміщено %1$d елемента</item>
+        <item quantity="one">Переміщено %1$d елемент</item>
+        <item quantity="few">Переміщено %1$d елементи</item>
+        <item quantity="many">Переміщено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Переміщено %1$d елемента</item>
+        <item quantity="one">Переміщено %1$d елемент</item>
+        <item quantity="few">Переміщено %1$d елементи</item>
+        <item quantity="many">Переміщено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Перемістили цей файл</item>
+        <item quantity="one">Перемістили цей файл</item>
+        <item quantity="few">Перемістили цей файл</item>
+        <item quantity="many">Перемістили цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Перемістили цей файл у таке розташування:</item>
+        <item quantity="one">Перемістили цей файл у таке розташування:</item>
+        <item quantity="few">Перемістили цей файл у таке розташування:</item>
+        <item quantity="many">Перемістили цей файл у таке розташування:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Перемістили цю папку</item>
+        <item quantity="one">Перемістили цю папку</item>
+        <item quantity="few">Перемістили цю папку</item>
+        <item quantity="many">Перемістили цю папку</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Перемістили цю папку в таке розташування:</item>
+        <item quantity="one">Перемістили цю папку в таке розташування:</item>
+        <item quantity="few">Перемістили цю папку в таке розташування:</item>
+        <item quantity="many">Перемістили цю папку в таке розташування:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Перейменовано %1$d елемента</item>
+        <item quantity="one">Перейменовано %1$d елемент</item>
+        <item quantity="few">Перейменовано %1$d елементи</item>
+        <item quantity="many">Перейменовано %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Перейменовано %1$d елемента</item>
+        <item quantity="one">Перейменовано %1$d елемент</item>
+        <item quantity="few">Перейменовано %1$d елементи</item>
+        <item quantity="many">Перейменовано %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Перейменували цей файл</item>
+        <item quantity="one">Перейменували цей файл</item>
+        <item quantity="few">Перейменували цей файл</item>
+        <item quantity="many">Перейменували цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Перейменували цю папку</item>
+        <item quantity="one">Перейменували цю папку</item>
+        <item quantity="few">Перейменували цю папку</item>
+        <item quantity="many">Перейменували цю папку</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Надано доступ до %1$d елемента</item>
+        <item quantity="one">Надано доступ до %1$d елемента</item>
+        <item quantity="few">Надано доступ до %1$d елементів</item>
+        <item quantity="many">Надано доступ до %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Надано доступ до %1$d елемента</item>
+        <item quantity="one">Надано доступ до %1$d елемента</item>
+        <item quantity="few">Надано доступ до %1$d елементів</item>
+        <item quantity="many">Надано доступ до %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Надали доступ до цього файлу</item>
+        <item quantity="one">Надали доступ до цього файлу</item>
+        <item quantity="few">Надали доступ до цього файлу</item>
+        <item quantity="many">Надали доступ до цього файлу</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Надали доступ до цієї папки</item>
+        <item quantity="one">Надали доступ до цієї папки</item>
+        <item quantity="few">Надали доступ до цієї папки</item>
+        <item quantity="many">Надали доступ до цієї папки</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d елемента переміщено в кошик</item>
+        <item quantity="one">%1$d елемент переміщено в кошик</item>
+        <item quantity="few">%1$d елементи переміщено в кошик</item>
+        <item quantity="many">%1$d елементів переміщено в кошик</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d елемента переміщено в кошик</item>
+        <item quantity="one">%1$d елемент переміщено в кошик</item>
+        <item quantity="few">%1$d елементи переміщено в кошик</item>
+        <item quantity="many">%1$d елементів переміщено в кошик</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Вилучили цей файл</item>
+        <item quantity="one">Вилучили цей файл</item>
+        <item quantity="few">Вилучили цей файл</item>
+        <item quantity="many">Вилучили цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Вилучили цю папку</item>
+        <item quantity="one">Вилучили цю папку</item>
+        <item quantity="few">Вилучили цю папку</item>
+        <item quantity="many">Вилучили цю папку</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Завантажено %1$d елемента</item>
+        <item quantity="one">Завантажено %1$d елемент</item>
+        <item quantity="few">Завантажено %1$d елементи</item>
+        <item quantity="many">Завантажено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Завантажено %1$d елемента</item>
+        <item quantity="one">Завантажено %1$d елемент</item>
+        <item quantity="few">Завантажено %1$d елементи</item>
+        <item quantity="many">Завантажено %1$d елементів</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Завантажили цей файл</item>
+        <item quantity="one">Завантажили цей файл</item>
+        <item quantity="few">Завантажили цей файл</item>
+        <item quantity="many">Завантажили цей файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Завантажили цю папку</item>
+        <item quantity="one">Завантажили цю папку</item>
+        <item quantity="few">Завантажили цю папку</item>
+        <item quantity="many">Завантажили цю папку</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d файлу буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="one">%1$d файл буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="few">%1$d файли буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="many">%1$d файлів буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d папки буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="one">%1$d папку буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="few">%1$d папки буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="many">%1$d папок буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d елемента буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="one">%1$d елемент буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="few">%1$d елементи буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+        <item quantity="many">%1$d елементів буде переміщено в кошик спільного диска \"%2$s\" і видалено назавжди через 30 днів.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Ці %1$d файлу буде &lt;b>видалено для всіх назавжди&lt;/b>. Цю дію не можна відмінити.</item>
+        <item quantity="one">Цей %1$d файл буде &lt;b>видалено для всіх назавжди.&lt;/b> Цю дію не можна відмінити.</item>
+        <item quantity="few">Ці %1$d файли буде &lt;b>видалено для всіх назавжди&lt;/b>. Цю дію не можна відмінити.</item>
+        <item quantity="many">Ці %1$d файлів буде &lt;b>видалено для всіх назавжди&lt;/b>. Цю дію не можна відмінити.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">%1$d файлу буде видалено назавжди. Відмінити цю дію неможливо.</item>
+        <item quantity="one">%1$d файл буде видалено назавжди. Відмінити цю дію неможливо.</item>
+        <item quantity="few">%1$d файли буде видалено назавжди. Відмінити цю дію неможливо.</item>
+        <item quantity="many">%1$d файлів буде видалено назавжди. Відмінити цю дію неможливо.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+        <item quantity="few">%1$d елементи</item>
+        <item quantity="many">%1$d елементів</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Вибрано %1$d елемента</item>
+        <item quantity="one">Вибрано %1$d елемент</item>
+        <item quantity="few">Вибрано %1$d елементи</item>
+        <item quantity="many">Вибрано %1$d елементів</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Скасовано вибір %1$d елемента</item>
+        <item quantity="one">Скасовано вибір %1$d елемента</item>
+        <item quantity="few">Скасовано вибір %1$d елементів</item>
+        <item quantity="many">Скасовано вибір %1$d елементів</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Файли будуть доступні офлайн</item>
+        <item quantity="one">Файли будуть доступні офлайн</item>
+        <item quantity="few">Файли будуть доступні офлайн</item>
+        <item quantity="many">Файли будуть доступні офлайн</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d документа позначено зірочкою</item>
+        <item quantity="one">%1$d документ позначено зірочкою</item>
+        <item quantity="few">%1$d документи позначено зірочкою</item>
+        <item quantity="many">%1$d документів позначено зірочкою</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Файли більше не будуть доступні офлайн</item>
+        <item quantity="one">Файли більше не будуть доступні офлайн</item>
+        <item quantity="few">Файли більше не будуть доступні офлайн</item>
+        <item quantity="many">Файли більше не будуть доступні офлайн</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d позначки знято</item>
+        <item quantity="one">%1$d позначку знято</item>
+        <item quantity="few">%1$d позначки знято</item>
+        <item quantity="many">%1$d позначок знято</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Відновлено %1$d елемента</item>
+        <item quantity="one">Відновлено %1$d елемент</item>
+        <item quantity="few">Відновлено %1$d елементи</item>
+        <item quantity="many">Відновлено %1$d елементів</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Відновлено %1$d елемента</item>
+        <item quantity="one">Відновлено %1$d елемент</item>
+        <item quantity="few">Відновлено %1$d елементи</item>
+        <item quantity="many">Відновлено %1$d елементів</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d елемента вилучено з папки \"%2$s\"</item>
+        <item quantity="one">%1$d елемент вилучено з папки \"%2$s\"</item>
+        <item quantity="few">%1$d елементи вилучено з папки \"%2$s\"</item>
+        <item quantity="many">%1$d елементів вилучено з папки \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d елемента вилучено з папки</item>
+        <item quantity="one">%1$d елемент вилучено з папки</item>
+        <item quantity="few">%1$d елементи вилучено з папки</item>
+        <item quantity="many">%1$d елементів вилучено з папки</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d елемента вилучено</item>
+        <item quantity="one">%1$d елемент вилучено</item>
+        <item quantity="few">%1$d елементи вилучено</item>
+        <item quantity="many">%1$d елементів вилучено</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d елемента переміщено назад</item>
+        <item quantity="one">%1$d елемент переміщено назад</item>
+        <item quantity="few">%1$d елементи переміщено назад</item>
+        <item quantity="many">%1$d елементів переміщено назад</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d елемента переміщено назад у кошик</item>
+        <item quantity="one">%1$d елемент переміщено назад у кошик</item>
+        <item quantity="few">%1$d елементи переміщено назад у кошик</item>
+        <item quantity="many">%1$d елементів переміщено назад у кошик</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d елемента вилучено</item>
+        <item quantity="one">%1$d елемент вилучено</item>
+        <item quantity="few">%1$d елементи вилучено</item>
+        <item quantity="many">%1$d елементів вилучено</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d елемента додано в папку \"%2$s\"</item>
+        <item quantity="one">%1$d елемент додано в папку \"%2$s\"</item>
+        <item quantity="few">%1$d елементи додано в папку \"%2$s\"</item>
+        <item quantity="many">%1$d елементів додано в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d елемента додано</item>
+        <item quantity="one">%1$d елемент додано</item>
+        <item quantity="few">%1$d елементи додано</item>
+        <item quantity="many">%1$d елементів додано</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d елемента відновлено й додано в папку \"%2$s\"</item>
+        <item quantity="one">%1$d елемент відновлено й додано в папку \"%2$s\"</item>
+        <item quantity="few">%1$d елементи відновлено й додано в папку \"%2$s\"</item>
+        <item quantity="many">%1$d елементів відновлено й додано в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d елемента переміщено в папку \"%2$s\".</item>
+        <item quantity="one">%1$d елемент переміщено в папку \"%2$s\".</item>
+        <item quantity="few">%1$d елементи переміщено в папку \"%2$s\".</item>
+        <item quantity="many">%1$d елементів переміщено в папку \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d елемента переміщено</item>
+        <item quantity="one">%1$d елемент переміщено</item>
+        <item quantity="few">%1$d елементи переміщено</item>
+        <item quantity="many">%1$d елементів переміщено</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d елемента відновлено й переміщено в папку \"%2$s\".</item>
+        <item quantity="one">%1$d елемент відновлено й переміщено в папку \"%2$s\".</item>
+        <item quantity="few">%1$d елементи відновлено й переміщено в папку \"%2$s\".</item>
+        <item quantity="many">%1$d елементів відновлено й переміщено в папку \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Відновлено %1$d елемента.</item>
+        <item quantity="one">Відновлено %1$d елемент.</item>
+        <item quantity="few">Відновлено %1$d елементи.</item>
+        <item quantity="many">Відновлено %1$d елементів.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d елемента відновлено в папку \"%2$s\".</item>
+        <item quantity="one">%1$d елемент відновлено в папку \"%2$s\".</item>
+        <item quantity="few">%1$d елементи відновлено в папку \"%2$s\".</item>
+        <item quantity="many">%1$d елементів відновлено в папку \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Надіслати файли за допомогою</item>
+        <item quantity="one">Надіслати файли за допомогою</item>
+        <item quantity="few">Надіслати файли за допомогою</item>
+        <item quantity="many">Надіслати файли за допомогою</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d користувача тепер мають доступ</item>
+        <item quantity="one">%1$d користувач тепер має доступ</item>
+        <item quantity="few">%1$d користувача тепер мають доступ</item>
+        <item quantity="many">%1$d користувачів тепер мають доступ</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s і ще %2$d користувача тепер мають доступ</item>
+        <item quantity="one">%1$s і ще %2$d користувач тепер мають доступ</item>
+        <item quantity="few">%1$s і ще %2$d користувача тепер мають доступ</item>
+        <item quantity="many">%1$s і ще %2$d користувачів тепер мають доступ</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d користувача тепер можуть коментувати</item>
+        <item quantity="one">%1$d користувач тепер може коментувати</item>
+        <item quantity="few">%1$d користувача тепер можуть коментувати</item>
+        <item quantity="many">%1$d користувачів тепер можуть коментувати</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s і ще %2$d користувача тепер можуть коментувати</item>
+        <item quantity="one">%1$s і ще %2$d користувач тепер можуть коментувати</item>
+        <item quantity="few">%1$s і ще %2$d користувача тепер можуть коментувати</item>
+        <item quantity="many">%1$s і ще %2$d користувачів тепер можуть коментувати</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d користувача тепер можуть редагувати</item>
+        <item quantity="one">%1$d користувач тепер може редагувати</item>
+        <item quantity="few">%1$d користувачі тепер можуть редагувати</item>
+        <item quantity="many">%1$d користувачів тепер можуть редагувати</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s і ще %2$d користувача тепер можуть редагувати</item>
+        <item quantity="one">%1$s і ще %2$d користувач тепер можуть редагувати</item>
+        <item quantity="few">%1$s і ще %2$d користувачі тепер можуть редагувати</item>
+        <item quantity="many">%1$s і ще %2$d користувачів тепер можуть редагувати</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d користувача тепер можуть переглядати</item>
+        <item quantity="one">%1$d користувач тепер може переглядати</item>
+        <item quantity="few">%1$d користувачі тепер можуть переглядати</item>
+        <item quantity="many">%1$d користувачів тепер можуть переглядати</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s і ще %2$d користувача тепер можуть переглядати</item>
+        <item quantity="one">%1$s і ще %2$d користувач тепер можуть переглядати</item>
+        <item quantity="few">%1$s і ще %2$d користувачі тепер можуть переглядати</item>
+        <item quantity="many">%1$s і ще %2$d користувачів тепер можуть переглядати</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Пам’ять буде доступна ще %1$d дня</item>
+        <item quantity="one">Пам’ять буде доступна ще %1$d день</item>
+        <item quantity="few">Пам’ять буде доступна ще %1$d дні</item>
+        <item quantity="many">Пам’ять буде доступна ще %1$d днів</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">Доступ до спільного диска надано %1$d користувача</item>
+        <item quantity="one">Доступ до спільного диска надано %1$d користувачу</item>
+        <item quantity="few">Доступ до спільного диска надано %1$d користувачам</item>
+        <item quantity="many">Доступ до спільного диска надано %1$d користувачам</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s і ще %3$d користувача отримали доступ до Диска \"%1$s\"</item>
+        <item quantity="one">%2$s і ще %3$d користувач отримали доступ до Диска \"%1$s\"</item>
+        <item quantity="few">%2$s і ще %3$d користувача отримали доступ до Диска \"%1$s\"</item>
+        <item quantity="many">%2$s і ще %3$d користувачів отримали доступ до Диска \"%1$s\"</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d учасника</item>
+        <item quantity="one">%d учасник</item>
+        <item quantity="few">%d учасники</item>
+        <item quantity="many">%d учасників</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Відновити всі</item>
+        <item quantity="one">Відновити всі</item>
+        <item quantity="few">Відновити всі</item>
+        <item quantity="many">Відновити всі</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Скасовано завантаження %1$d файлу.</item>
+        <item quantity="one">Скасовано завантаження %1$d файлу.</item>
+        <item quantity="few">Скасовано завантаження %1$d файлів.</item>
+        <item quantity="many">Скасовано завантаження %1$d файлів.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Не вдається запланувати завантаження %1$d файлу.</item>
+        <item quantity="one">Не вдається запланувати завантаження %1$d файлу.</item>
+        <item quantity="few">Не вдається запланувати завантаження %1$d файлів.</item>
+        <item quantity="many">Не вдається запланувати завантаження %1$d файлів.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Завантажено %1$d файлу.</item>
+        <item quantity="one">Завантажено %1$d файл.</item>
+        <item quantity="few">Завантажено %1$d файли.</item>
+        <item quantity="many">Завантажено %1$d файлів.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Не вдається завантажити файли (%1$d з %2$d).</item>
+        <item quantity="one">Не вдається завантажити файли (%1$d з %2$d).</item>
+        <item quantity="few">Не вдається завантажити файли (%1$d з %2$d).</item>
+        <item quantity="many">Не вдається завантажити файли (%1$d з %2$d).</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Завантаження %1$d файлу.</item>
+        <item quantity="one">Завантаження %1$d файлу.</item>
+        <item quantity="few">Завантаження %1$d файлів.</item>
+        <item quantity="many">Завантаження %1$d файлів.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="one">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="few">Завантаження призупинено. Очікування відгуку мережі…</item>
+        <item quantity="many">Завантаження призупинено. Очікування відгуку мережі…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Додавання %1$d файлу призупинено.</item>
+        <item quantity="one">Додавання %1$d файлу призупинено.</item>
+        <item quantity="few">Додавання %1$d файлів призупинено.</item>
+        <item quantity="many">Додавання %1$d файлів призупинено.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="one">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="few">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+        <item quantity="many">Завантаження призупинено. Очікується з’єднання Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Підготовка %1$d файлу до завантаження.</item>
+        <item quantity="one">Підготовка %1$d файлу до завантаження.</item>
+        <item quantity="few">Підготовка %1$d файлів до завантаження.</item>
+        <item quantity="many">Підготовка %1$d файлів до завантаження.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">У папку \"%2$s\" завантажуються %1$d файлу</item>
+        <item quantity="one">У папку \"%2$s\" завантажується %1$d файл</item>
+        <item quantity="few">У папку \"%2$s\" завантажуються %1$d файли</item>
+        <item quantity="many">У папку \"%2$s\" завантажуються %1$d файлів</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Переглянути %1$d файлу</item>
+        <item quantity="one">Переглянути %1$d файл</item>
+        <item quantity="few">Переглянути %1$d файли</item>
+        <item quantity="many">Переглянути %1$d файлів</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Переглянути всі %1$d файлу в робочій області \"%2$s\"</item>
+        <item quantity="one">Переглянути всі %1$d файл у робочій області \"%2$s\"</item>
+        <item quantity="few">Переглянути всі %1$d файли в робочій області \"%2$s\"</item>
+        <item quantity="many">Переглянути всі %1$d файлів у робочій області \"%2$s\"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Показват се %1$d елемента.</item>
+        <item quantity="one">Показва се %1$d елемент.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d коментара</item>
+        <item quantity="one">%1$d коментар</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Елементи за действие: %1$d елемента за последващо действие</item>
+        <item quantity="one">Елементи за действие: %1$d елемент за последващо действие</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Елементите бяха изтрити за постоянно</item>
+        <item quantity="one">Елементът бе изтрит за постоянно</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s не са валидни имейл адреси.</item>
+        <item quantity="one">%s не е валиден имейл адрес.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Добавянето на тези файлове ще ги сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+        <item quantity="one">Добавянето на този файл ще го сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Добавянето на тези папки ще ги сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+        <item quantity="one">Добавянето на тази папка ще я сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Да се споделят ли тези файлове?</item>
+        <item quantity="one">Да се сподели ли този файл?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Да се споделят ли тези папки?</item>
+        <item quantity="one">Да се сподели ли тази папка?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d папки бяха актуализирани. Като цвят е зададено %2$s.</item>
+        <item quantity="one">%1$d папка бе актуализирана. Като цвят е зададено %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Прилагане на филтри:</item>
+        <item quantity="one">Прилагане на филтър:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Изтича след %1$d дни</item>
+        <item quantity="one">Изтича след %1$d ден</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Валидността на това резервно копие ще изтече след %1$d дни, ако устройството остане неактивно.</item>
+        <item quantity="one">Валидността на това резервно копие ще изтече след %1$d ден, ако устройството остане неактивно.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Резервните копия бяха изтрити.</item>
+        <item quantity="one">Резервното копие бе изтрито.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d колони.</item>
+        <item quantity="one">%1$d колона.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d фиксирани колони.</item>
+        <item quantity="one">%1$d фиксирана колона.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d фиксирани реда.</item>
+        <item quantity="one">%1$d фиксиран ред.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d реда.</item>
+        <item quantity="one">%1$d ред.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s за %2$d елемента</item>
+        <item quantity="one">%1$s за %2$d елемент</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s отговора</item>
+        <item quantity="one">%1$s отговор</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Елементите не можаха да бъдат изтеглени</item>
+        <item quantity="one">Елементът не можа да бъде изтеглен</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d елемента ще бъдат изтеглени. Вижте известието за подробности</item>
+        <item quantity="one">%1$d елемент ще бъде изтеглен. Вижте известието за подробности</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">Ще бъдат изтеглени %1$d елемента.</item>
+        <item quantity="one">Ще бъде изтеглен %1$d елемент.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s и още %2$d елемента</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s елемента не можаха да бъдат изтеглени</item>
+        <item quantity="one">%1$s елемент не можа да бъде изтеглен</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Още %1$d елемента</item>
+        <item quantity="one">Още %1$d елемент</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Неуспешни изтегляния: %1$d от %2$d</item>
+        <item quantity="one">Неуспешни изтегляния: %1$d от %2$d</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Грешка при преместването на файловете.</item>
+        <item quantity="one">Грешка при преместването на файла.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d гости</item>
+        <item quantity="one">%d гост</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d преки пътища са добавени към „%1$s“</item>
+        <item quantity="one">Прекият път е добавен към „%1$s“</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Преките пътища не могат да се добавят. Опитайте пак</item>
+        <item quantity="one">Прекият път не може да се добави. Опитайте пак</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Членовете на „%1$s“ ще загубят достъп, освен ако елементите не бъдат споделени с тях. Членовете на „%2$s“ ще получат достъп до елементите.</item>
+        <item quantity="one">Членовете на „%1$s“ ще загубят достъп, освен ако елементът не бъде споделен с тях. Членовете на „%2$s“ ще получат достъп до елемента.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Членовете на „%1$s“ ще загубят достъп, освен ако елементите не бъдат споделени с тях. Членовете на „%2$s“ ще получат достъп до елементите. Имате разрешение само да добавяте и редактирате елементи в/ъв „%3$s“, така че няма да можете да отмените това действие.</item>
+        <item quantity="one">Членовете на „%1$s“ ще загубят достъп, освен ако елементът не бъде споделен с тях. Членовете на „%2$s“ ще получат достъп до елемента. Имате разрешение само да добавяте и редактирате елементи в/ъв „%3$s“, така че няма да можете да отмените това действие.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Някои от файловете, които се преместват в/ъв „%1$s“, задействаха защитата от загуба на данни (ЗЗД). Те може да съдържат поверителна информация.</item>
+        <item quantity="one">Файлът, който се премества в/ъв „%1$s“, задейства защитата от загуба на данни (ЗЗД). Той може да съдържа поверителна информация.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Членовете на „%1$s“ ще загубят достъп, освен ако елементите не бъдат споделени с тях.</item>
+        <item quantity="one">Членовете на „%1$s“ ще загубят достъп, освен ако елементът не бъде споделен с тях.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">След преместването тези елементи ще бъдат споделени с всички, които могат да виждат споделената папка „%1$s“. Членовете на „%2$s“ ще загубят достъп, освен ако елементите не бъдат споделени с тях.</item>
+        <item quantity="one">След преместването този елемент ще бъде споделен с всички, които могат да виждат споделената папка „%1$s“. Членовете на „%2$s“ ще загубят достъп, освен ако елементът не бъде споделен с тях.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Премествате някои елементи извън споделените папки и хората ще загубят достъп до тях.</item>
+        <item quantity="one">Премествате елемент извън споделена папка и хората ще загубят достъп до него.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Допълнителните ограничения ще бъдат премахнати от тези елементи.</item>
+        <item quantity="one">Допълнителните ограничения ще бъдат премахнати от този елемент.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Преместването на тези файлове ще ги сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+        <item quantity="one">Преместването на този файл ще го сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Преместването на тези папки ще ги сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+        <item quantity="one">Преместването на тази папка ще я сподели с всички, които имат достъп до споделената папка „%1$s“</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Да се споделят ли тези файлове?</item>
+        <item quantity="one">Да се сподели ли този файл?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Да се споделят ли тези папки?</item>
+        <item quantity="one">Да се сподели ли тази папка?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Нямате разрешение да премествате някои елементи извън споделения им диск.</item>
+        <item quantity="one">Нямате разрешение да премествате този елемент извън споделения му диск.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Нямате разрешение да преместите някои елементи извън папката им.</item>
+        <item quantity="one">Нямате разрешение да преместите този елемент извън папката му.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Не можете да преместите тези файлове, защото собственикът е извън %1$s.</item>
+        <item quantity="one">Не можете да преместите този файл, защото собственикът е извън %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s „%2$s“ вече има достъп.</item>
+        <item quantity="one">%1$s „%2$s“ вече има достъп.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d елемента бяха преместени в споделения диск. Членовете вече имат достъп до тях.</item>
+        <item quantity="one">1 елемент бе преместен в споделения диск. Членовете вече имат достъп до него.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d елемента бяха премахнати от споделения диск. Членовете загубиха достъп.</item>
+        <item quantity="one">%1$d елемент бе премахнат от споделения диск. Членовете загубиха достъп.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d одобряващи</item>
+        <item quantity="one">1 одобряващ</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s елемента за действие</item>
+        <item quantity="one">%1$s елемент за действие</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s споменавания без отговор</item>
+        <item quantity="one">%1$s споменаване без отговор</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s предложения</item>
+        <item quantity="one">%1$s предложение</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s задачи</item>
+        <item quantity="one">%1$s задача</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Елементите бяха изтрити за постоянно</item>
+        <item quantity="one">Елементът бе изтрит за постоянно</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d от %2$s файла вече са налице офлайн.</item>
+        <item quantity="one">%1$d от %2$s файла вече е налице офлайн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Всичките %1$d файла вече са налице офлайн.</item>
+        <item quantity="one">%1$d файл вече е налице офлайн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Файловете не могат да бъдат налични офлайн</item>
+        <item quantity="one">Файлът не може да бъде наличен офлайн</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d файла се правят налични офлайн.</item>
+        <item quantity="one">%1$d файл се прави наличен офлайн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d файла</item>
+        <item quantity="one">%1$d файл</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Изтеглянията са на пауза, чака се мрежа…</item>
+        <item quantity="one">Изтеглянето е на пауза, чака се мрежа…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Изтеглянето на %1$d файла е на пауза.</item>
+        <item quantity="one">Изтеглянето на %1$d файл е на пауза.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Изтеглянията са на пауза, изчаква се Wi-Fi…</item>
+        <item quantity="one">Изтеглянето е на пауза, изчаква се Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d елемента ще бъдат преместени в кошчето. Това ще доведе и до премахването им от Google Снимки.</item>
+        <item quantity="one">Един елемент ще бъде преместен в кошчето. Това ще доведе и до премахването му от Google Снимки.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d елемента ще бъдат преместени в кошчето.</item>
+        <item quantity="one">Един елемент ще бъде преместен в кошчето.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s елемента за последващо действие</item>
+        <item quantity="one">%1$s елемент за последващо действие</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s елем. за последващо действие</item>
+        <item quantity="one">%1$s елем. за последващо действие</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Последващо действие</item>
+        <item quantity="one">Последващо действие</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Коментираха %1$d файла</item>
+        <item quantity="one">Коментираха файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Коментира %1$d файла</item>
+        <item quantity="one">Коментира файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Коментираха този файл</item>
+        <item quantity="one">Коментира този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Създадоха %1$d елемента</item>
+        <item quantity="one">Създадоха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Създаде %1$d елемента</item>
+        <item quantity="one">Създаде елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Създадоха този файл</item>
+        <item quantity="one">Създаде този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Създадоха тази папка</item>
+        <item quantity="one">Създаде тази папка</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Редактираха %1$d елемента</item>
+        <item quantity="one">Редактираха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Редактира %1$d елемента</item>
+        <item quantity="one">Редактира елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Редактираха този файл</item>
+        <item quantity="one">Редактира този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Изтриха %1$d елемента за постоянно</item>
+        <item quantity="one">Изтри елемент за постоянно</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Преместиха %1$d елемента във:</item>
+        <item quantity="one">Преместиха елемент във:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Премести %1$d елемента във:</item>
+        <item quantity="one">Премести елемент във:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Преместиха %1$d елемента</item>
+        <item quantity="one">Преместиха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Премести %1$d елемента</item>
+        <item quantity="one">Премести елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Преместиха този файл</item>
+        <item quantity="one">Премести този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Преместиха този файл във:</item>
+        <item quantity="one">Премести този файл във:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Преместиха тази папка</item>
+        <item quantity="one">Премести тази папка</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Преместиха тази папка във:</item>
+        <item quantity="one">Премести тази папка във:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Преименуваха %1$d елемента</item>
+        <item quantity="one">Преименуваха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Преименува %1$d елемента</item>
+        <item quantity="one">Преименува елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Преименуваха този файл</item>
+        <item quantity="one">Преименува този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Преименуваха тази папка</item>
+        <item quantity="one">Преименува тази папка</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Споделиха %1$d елемента</item>
+        <item quantity="one">Споделиха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Сподели %1$d елемента</item>
+        <item quantity="one">Сподели елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Споделиха този файл</item>
+        <item quantity="one">Сподели този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Споделиха тази папка</item>
+        <item quantity="one">Сподели тази папка</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Преместиха %1$d елемента в кошчето</item>
+        <item quantity="one">Преместиха елемент в кошчето</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Премести %1$d елемента в кошчето</item>
+        <item quantity="one">Премести елемент в кошчето</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Премахнаха този файл</item>
+        <item quantity="one">Премахна този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Премахнаха тази папка</item>
+        <item quantity="one">Премахна тази папка</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Качиха %1$d елемента</item>
+        <item quantity="one">Качиха елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Качи %1$d елемента</item>
+        <item quantity="one">Качи елемент</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Качиха този файл</item>
+        <item quantity="one">Качи този файл</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Качиха тази папка</item>
+        <item quantity="one">Качи тази папка</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d файла ще бъдат преместени в кошчето на „%2$s“ и след 30 дни ще бъдат изтрити завинаги.</item>
+        <item quantity="one">Този файл ще бъде преместен в кошчето на „%2$s“ и след 30 дни ще бъде изтрит завинаги</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d папки ще бъдат преместени в кошчето на „%2$s“ и след 30 дни ще бъдат изтрити завинаги.</item>
+        <item quantity="one">Папката ще бъде преместена в кошчето на „%2$s“ и след 30 дни ще бъде изтрита завинаги</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d елемента ще бъдат преместени в кошчето на „%2$s“ и след 30 дни ще бъдат изтрити завинаги.</item>
+        <item quantity="one">Елементът ще бъде преместен в кошчето на „%2$s“ и след 30 дни ще бъде изтрит завинаги</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Тези %1$d файла &lt;b>ще бъдат изтрити за постоянно за всички&lt;/b>. Не можете да отмените това.</item>
+        <item quantity="one">Този файл ще бъде &lt;b>изтрит за постоянно за всички&lt;/b>. Не можете да отмените това.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Тези %1$d файла ще бъдат изтрити за постоянно. Не можете да отмените това.</item>
+        <item quantity="one">Този файл ще бъде изтрит за постоянно. Не можете да отмените това.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d избрани елемента</item>
+        <item quantity="one">%1$d избран елемент</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Избирането бе премахнато за %1$d елемента</item>
+        <item quantity="one">Избирането бе премахнато за %1$d елемент</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Файловете ще бъдат налице офлайн</item>
+        <item quantity="one">Файлът ще бъде налице офлайн</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d елемента бяха означени със звезда</item>
+        <item quantity="one">1 елемент бе означен със звезда</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Файловете повече няма да са налице офлайн</item>
+        <item quantity="one">Файлът повече няма да е налице офлайн</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Звездата бе премахната от %1$d елемента</item>
+        <item quantity="one">Звездата бе премахната от елемента</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d елемента бяха възстановени</item>
+        <item quantity="one">1 елемент бе възстановен</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d елемента бяха възстановени</item>
+        <item quantity="one">1 елемент бе възстановен</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d елемента бяха премахнати от „%2$s“</item>
+        <item quantity="one">1 елемент бе премахнат от „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d елемента бяха премахнати от папката</item>
+        <item quantity="one">1 елемент бе премахнат от папката</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Премахнати бяха %1$d елемента</item>
+        <item quantity="one">Премахнат бе 1 елемент</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d елемента бяха върнати обратно</item>
+        <item quantity="one">1 елемент бе върнат обратно</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d елемента бяха върнати обратно в кошчето</item>
+        <item quantity="one">1 елемент бе върнат обратно в кошчето</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Премахнати бяха %1$d елемента</item>
+        <item quantity="one">Премахнат бе 1 елемент</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d елемента бяха добавени в/ъв „%2$s“.</item>
+        <item quantity="one">1 елемент бе добавен в/ъв „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d елемента бяха добавени</item>
+        <item quantity="one">1 елемент бе добавен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d елемента бяха възстановени и добавени в/ъв „%2$s“</item>
+        <item quantity="one">1 елемент бе възстановен и добавен в/ъв „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d елемента бяха преместени в/ъв „%2$s“.</item>
+        <item quantity="one">1 елемент бе преместен в/ъв „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d елемента бяха преместени</item>
+        <item quantity="one">1 елемент бе преместен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d елемента бяха възстановени и преместени в/ъв „%2$s“.</item>
+        <item quantity="one">1 елемент бе възстановен и преместен в/ъв „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d елемента бяха възстановени.</item>
+        <item quantity="one">1 елемент бе възстановен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d елемента бяха възстановени в/ъв „%2$s“.</item>
+        <item quantity="one">1 елемент бе възстановен в/ъв „%2$s“.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Изпращане на файловете чрез</item>
+        <item quantity="one">Изпращане на файла чрез</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d души вече имат достъп</item>
+        <item quantity="one">Един човек вече има достъп</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s и още %2$d души вече имат достъп</item>
+        <item quantity="one">%1$s и още един човек вече имат достъп</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d души вече могат да добавят коментари</item>
+        <item quantity="one">Един човек вече може да добавя коментари</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s и още %2$d души вече могат да добавят коментари</item>
+        <item quantity="one">%1$s и още един човек вече могат да добавят коментари</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d души вече могат да редактират</item>
+        <item quantity="one">Един човек вече може да редактира</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s и още %2$d души вече могат да редактират</item>
+        <item quantity="one">%1$s и още един човек вече могат да редактират</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d души вече могат да преглеждат</item>
+        <item quantity="one">Един човек вече може да преглежда</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s и още %2$d души вече могат да преглеждат</item>
+        <item quantity="one">%1$s и още един човек вече могат да преглеждат</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Хранилището изтича след %1$d дни</item>
+        <item quantity="one">Хранилището изтича след %1$d ден</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d души бяха добавени към споделения диск</item>
+        <item quantity="one">Един човек бе добавен към споделения диск</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s и още %3$d души бяха добавени към %1$s</item>
+        <item quantity="one">%2$s и още един човек бяха добавени към „%1$s“</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d членове</item>
+        <item quantity="one">1 член</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Възобновяване на всички сега</item>
+        <item quantity="one">Възобновяване сега</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Качването на %1$d файла бе анулирано.</item>
+        <item quantity="one">Качването на %1$d файл бе анулирано.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Насрочването на %1$d файла за качване не е възможно.</item>
+        <item quantity="one">Насрочването на %1$d файл за качване не е възможно.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d файла бяха качени.</item>
+        <item quantity="one">%1$d файл беше качен.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Не могат да се качат %1$d от %2$d файла.</item>
+        <item quantity="one">Не може да се качи %1$d от %2$d файла.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Качват се %1$d файла.</item>
+        <item quantity="one">Качва се %1$d файл.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Качванията са на пауза, чака се мрежа…</item>
+        <item quantity="one">Качването е на пауза, чака се мрежа…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d качвания са на пауза.</item>
+        <item quantity="one">%1$d качване е на пауза.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Качванията са на пауза, изчаква се Wi-Fi…</item>
+        <item quantity="one">Качването е на пауза, изчаква се Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d файла се подготвят за качване.</item>
+        <item quantity="one">%1$d файл се подготвя за качване.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Вашите %1$d файла се качват във: %2$s</item>
+        <item quantity="one">Вашият %1$d файл се качва във: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Преглед на %1$d файла</item>
+        <item quantity="one">Преглед на %1$d файл</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Преглед на всичките %1$d файла в/ъв „%2$s“</item>
+        <item quantity="one">Преглед на %1$d файл в/ъв „%2$s“</item>
+    </plurals>
+</resources>

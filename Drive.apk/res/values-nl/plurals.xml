@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$d items worden weergegeven.</item>
+        <item quantity="one">%1$d item wordt weergegeven.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d reacties</item>
+        <item quantity="one">%1$d reactie</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Actie-items: %1$d vervolgitems</item>
+        <item quantity="one">Actie-items: %1$d vervolgitem</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Items zijn definitief verwijderd</item>
+        <item quantity="one">Item is definitief verwijderd</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s zijn geen geldig e-mailadressen.</item>
+        <item quantity="one">%s is geen geldig e-mailadres.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Als je deze bestanden toevoegt, worden ze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+        <item quantity="one">Als je dit bestand toevoegt, wordt het gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Als je deze mappen toevoegt, worden ze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+        <item quantity="one">Als je deze map toevoegt, wordt deze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Deze bestanden delen?</item>
+        <item quantity="one">Dit bestand delen?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Deze mappen delen?</item>
+        <item quantity="one">Deze map delen?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d mappen geüpdatet. Kleur ingesteld op %2$s.</item>
+        <item quantity="one">%1$d map geüpdatet. Kleur ingesteld op %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Filters toepassen:</item>
+        <item quantity="one">Filter toepassen:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Verloopt over %1$d dagen</item>
+        <item quantity="one">Verloopt over %1$d dag</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Deze back-up verloopt over %1$d dagen als het apparaat inactief blijft.</item>
+        <item quantity="one">Deze back-up verloopt over %1$d dag als het apparaat inactief blijft.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Back-ups verwijderd.</item>
+        <item quantity="one">Back-up verwijderd.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d kolommen.</item>
+        <item quantity="one">%1$d kolom.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d vastgezette kolommen.</item>
+        <item quantity="one">%1$d vastgezette kolom.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d vastgezette rijen.</item>
+        <item quantity="one">%1$d vastgezette rij.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d rijen.</item>
+        <item quantity="one">%1$d rij.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s voor %2$d items</item>
+        <item quantity="one">%1$s voor %2$d item</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s antwoorden</item>
+        <item quantity="one">%1$s antwoord</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Items kunnen niet worden gedownload</item>
+        <item quantity="one">Item kan niet worden gedownload</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d items worden gedownload. Zie melding voor meer informatie</item>
+        <item quantity="one">%1$d item wordt gedownload. Zie melding voor meer informatie</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d items worden gedownload.</item>
+        <item quantity="one">%1$d item wordt gedownload.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s en nog %2$d items</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s items kunnen niet worden gedownload</item>
+        <item quantity="one">%1$s item kan niet worden gedownload</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Nog %1$d items</item>
+        <item quantity="one">Nog %1$d item</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d van %2$d downloads mislukt</item>
+        <item quantity="one">%1$d van %2$d download mislukt</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Fout bij verplaatsen van bestanden.</item>
+        <item quantity="one">Fout bij verplaatsen van bestand.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gasten</item>
+        <item quantity="one">%d gast</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d snelkoppelingen toegevoegd aan %1$s</item>
+        <item quantity="one">Snelkoppeling toegevoegd aan %1$s</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Kan snelkoppelingen niet toevoegen. Probeer het opnieuw</item>
+        <item quantity="one">Kan snelkoppeling niet toevoegen. Probeer het opnieuw</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Leden van %1$s raken hun toegang kwijt, tenzij deze items met hen worden gedeeld. Leden van %2$s krijgen toegang tot deze items.</item>
+        <item quantity="one">Leden van %1$s raken hun toegang kwijt, tenzij dit item met hen wordt gedeeld. Leden van %2$s krijgen toegang tot dit item.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Leden van %1$s raken hun toegang kwijt, tenzij deze items met hen worden gedeeld. Leden van %2$s krijgen toegang tot deze items. Je hebt alleen rechten om items toe te voegen aan en te bewerken in %3$s. Je kunt deze actie dus niet ongedaan maken</item>
+        <item quantity="one">Leden van %1$s raken hun toegang kwijt, tenzij dit item met hen wordt gedeeld. Leden van %2$s krijgen toegang tot dit item. Je hebt alleen rechten om items toe te voegen aan en te bewerken in %3$s. Je kunt deze actie dus niet ongedaan maken.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Sommige van de bestanden die naar %1$s worden verplaatst, hebben DLP-detectie geactiveerd. Mogelijk bevatten deze bestanden gevoelige informatie.</item>
+        <item quantity="one">Het bestand dat naar %1$s wordt verplaatst, heeft DLP-detectie geactiveerd. Mogelijk bevat dit bestand gevoelige informatie.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Leden van %1$s raken hun toegang kwijt, tenzij deze items met hen worden gedeeld.</item>
+        <item quantity="one">Leden van %1$s raken hun toegang kwijt, tenzij dit item met hen wordt gedeeld.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Als je deze items verplaatst, worden ze gedeeld met iedereen die de gedeelde map %1$s kan zien. Leden van %2$s raken hun toegang kwijt, tenzij deze items met hen worden gedeeld.</item>
+        <item quantity="one">Als je dit item verplaatst, wordt het gedeeld met iedereen die de gedeelde map %1$s kan zien. Leden van %2$s raken hun toegang kwijt, tenzij dit item met hen wordt gedeeld.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Je verplaatst enkele items uit gedeelde mappen. Andere mensen raken hierdoor hun toegang tot deze items kwijt.</item>
+        <item quantity="one">Je verplaatst een item uit een gedeelde map. Andere mensen raken hierdoor hun toegang tot dit item kwijt.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Extra beperkingen worden verwijderd voor deze items.</item>
+        <item quantity="one">Extra beperkingen worden verwijderd voor dit item.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Als je deze bestanden verplaatst, worden ze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+        <item quantity="one">Als je dit bestand verplaatst, wordt het gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Als je deze mappen verplaatst, worden ze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+        <item quantity="one">Als je deze map verplaatst, wordt deze gedeeld met iedereen die toegang heeft tot de gedeelde map %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Deze bestanden delen?</item>
+        <item quantity="one">Dit bestand delen?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Deze mappen delen?</item>
+        <item quantity="one">Deze map delen?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Je hebt geen rechten om sommige items uit de gedeelde drive te verplaatsen.</item>
+        <item quantity="one">Je hebt geen rechten om dit item uit de gedeelde drive te verplaatsen.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Je hebt geen rechten om sommige items uit de map te verplaatsen.</item>
+        <item quantity="one">Je hebt geen rechten om dit item uit de map te verplaatsen.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Je kunt deze bestanden niet verplaatsen, omdat de bestandseigenaar niet tot %1$s behoort.</item>
+        <item quantity="one">Je kunt dit bestand niet verplaatsen, omdat de bestandseigenaar niet tot %1$s behoort.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s %2$s hebben nu toegang.</item>
+        <item quantity="one">%1$s %2$s heeft nu toegang.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d items verplaatst naar gedeelde drive. Leden hebben nu toegang.</item>
+        <item quantity="one">1 item verplaatst naar gedeelde drive. Leden hebben nu toegang.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d items verplaatst uit gedeelde drive (leden zijn toegang kwijt).</item>
+        <item quantity="one">%1$d item verplaatst uit gedeelde drive (leden zijn toegang kwijt).</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d goedkeurders</item>
+        <item quantity="one">1 goedkeurder</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s actie-items</item>
+        <item quantity="one">%1$s actie-item</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s niet-beantwoorde vermeldingen</item>
+        <item quantity="one">%1$s niet-beantwoorde vermelding</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s suggesties</item>
+        <item quantity="one">%1$s suggestie</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s taken</item>
+        <item quantity="one">%1$s taak</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Items zijn definitief verwijderd</item>
+        <item quantity="one">Item is definitief verwijderd</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d van %2$s zijn nu offline beschikbaar.</item>
+        <item quantity="one">%1$d van %2$s is nu offline beschikbaar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d bestanden zijn nu offline beschikbaar.</item>
+        <item quantity="one">%1$d bestand is nu offline beschikbaar.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Bestanden kunnen niet offline beschikbaar worden gemaakt</item>
+        <item quantity="one">Bestand kan niet offline beschikbaar worden gemaakt</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d bestanden offline beschikbaar maken.</item>
+        <item quantity="one">%1$d bestand offline beschikbaar maken.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d bestanden</item>
+        <item quantity="one">%1$d bestand</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Downloads onderbroken, wachten op netwerk…</item>
+        <item quantity="one">Download onderbroken, wachten op netwerk…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d downloads onderbroken.</item>
+        <item quantity="one">%1$d download onderbroken.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Downloads onderbroken, wachten op wifi…</item>
+        <item quantity="one">Download onderbroken, wachten op wifi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">"%1$d items worden naar de prullenbak verplaatst. De items worden hierdoor ook verwijderd uit Google Foto's."</item>
+        <item quantity="one">"Eén item wordt naar de prullenbak verplaatst. Het item wordt hierdoor ook verwijderd uit Google Foto's."</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d items worden naar de prullenbak verplaatst.</item>
+        <item quantity="one">Eén item wordt naar de prullenbak verplaatst.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s vervolgitems</item>
+        <item quantity="one">%1$s vervolgitem</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s vervolgitems</item>
+        <item quantity="one">%1$s vervolgitem</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Vervolgacties</item>
+        <item quantity="one">Vervolgactie</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Gereageerd op %1$d bestanden</item>
+        <item quantity="one">Gereageerd op een bestand</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Gereageerd op %1$d bestanden</item>
+        <item quantity="one">Gereageerd op een bestand</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Hebben gereageerd op dit bestand</item>
+        <item quantity="one">Heeft gereageerd op dit bestand</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d items gemaakt</item>
+        <item quantity="one">Een item gemaakt</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d items gemaakt</item>
+        <item quantity="one">Een item gemaakt</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Hebben dit bestand gemaakt</item>
+        <item quantity="one">Heeft dit bestand gemaakt</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Hebben deze map gemaakt</item>
+        <item quantity="one">Heeft deze map gemaakt</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d items bewerkt</item>
+        <item quantity="one">Een item bewerkt</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d items bewerkt</item>
+        <item quantity="one">Een item bewerkt</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Hebben dit bestand bewerkt</item>
+        <item quantity="one">Heeft dit bestand bewerkt</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$d items definitief verwijderd</item>
+        <item quantity="one">Een item definitief verwijderd</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d items verplaatst naar:</item>
+        <item quantity="one">Een item verplaatst naar:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d items verplaatst naar:</item>
+        <item quantity="one">Een item verplaatst naar:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d items verplaatst</item>
+        <item quantity="one">Een item verplaatst</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d items verplaatst</item>
+        <item quantity="one">Een item verplaatst</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Hebben dit bestand verplaatst</item>
+        <item quantity="one">Heeft dit bestand verplaatst</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Hebben dit bestand verplaatst naar:</item>
+        <item quantity="one">Heeft dit bestand verplaatst naar:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Hebben deze map verplaatst</item>
+        <item quantity="one">Heeft deze map verplaatst</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Hebben deze map verplaatst naar:</item>
+        <item quantity="one">Heeft deze map verplaatst naar:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Naam van %1$d items gewijzigd</item>
+        <item quantity="one">Naam van een item gewijzigd</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Naam van %1$d items gewijzigd</item>
+        <item quantity="one">Naam van een item gewijzigd</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Hebben de naam van dit bestand gewijzigd</item>
+        <item quantity="one">Heeft de naam van dit bestand gewijzigd</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Hebben de naam van deze map gewijzigd</item>
+        <item quantity="one">Heeft de naam van deze map gewijzigd</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d items gedeeld</item>
+        <item quantity="one">Een item gedeeld</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d items gedeeld</item>
+        <item quantity="one">Een item gedeeld</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Hebben dit bestand gedeeld</item>
+        <item quantity="one">Heeft dit bestand gedeeld</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Hebben deze map gedeeld</item>
+        <item quantity="one">Heeft deze map gedeeld</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d items verplaatst naar de prullenbak</item>
+        <item quantity="one">Een item verplaatst naar de prullenbak</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d items verplaatst naar de prullenbak</item>
+        <item quantity="one">Een item verplaatst naar de prullenbak</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Hebben dit bestand verwijderd</item>
+        <item quantity="one">Heeft dit bestand verwijderd</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Hebben deze map verwijderd</item>
+        <item quantity="one">Heeft deze map verwijderd</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d items geüpload</item>
+        <item quantity="one">Een item geüpload</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d items geüpload</item>
+        <item quantity="one">Een item geüpload</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Hebben dit bestand geüpload</item>
+        <item quantity="one">Heeft dit bestand geüpload</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Hebben deze map geüpload</item>
+        <item quantity="one">Heeft deze map geüpload</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d bestanden worden verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+        <item quantity="one">Dit bestand wordt verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d mappen worden verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+        <item quantity="one">Map wordt verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d items worden verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+        <item quantity="one">Item wordt verplaatst naar de prullenbak van %2$s en na 30 dagen definitief verwijderd.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Deze %1$d bestanden worden &lt;b>definitief verwijderd voor iedereen&lt;/b>. Je kunt deze actie niet ongedaan maken.</item>
+        <item quantity="one">Dit bestand wordt &lt;b>definitief verwijderd voor iedereen&lt;/b>. Je kunt deze actie niet ongedaan maken.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Deze %1$d bestanden worden definitief verwijderd. Je kunt deze actie niet ongedaan maken.</item>
+        <item quantity="one">Dit bestand wordt definitief verwijderd. Je kunt deze actie niet ongedaan maken.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d items geselecteerd</item>
+        <item quantity="one">%1$d item geselecteerd</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Selectie van %1$d items opgeheven</item>
+        <item quantity="one">Selectie van %1$d item opgeheven</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Bestanden worden offline beschikbaar gemaakt</item>
+        <item quantity="one">Bestand wordt offline beschikbaar gemaakt</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d items een ster gegeven</item>
+        <item quantity="one">Eén item een ster gegeven</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Bestanden zijn niet meer offline beschikbaar</item>
+        <item quantity="one">Bestand is niet meer offline beschikbaar</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Ster verwijderd van %1$d items</item>
+        <item quantity="one">Ster verwijderd van één item</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d items hersteld</item>
+        <item quantity="one">Eén item hersteld</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d items hersteld</item>
+        <item quantity="one">1 item hersteld</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d items verwijderd uit %2$s</item>
+        <item quantity="one">Eén item verwijderd uit %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d items verwijderd uit map</item>
+        <item quantity="one">Eén item verwijderd uit map</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d items verwijderd</item>
+        <item quantity="one">Eén item verwijderd</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d items teruggezet</item>
+        <item quantity="one">Eén item teruggezet</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d items teruggezet naar de prullenbak</item>
+        <item quantity="one">Eén item teruggezet naar de prullenbak</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d items verwijderd</item>
+        <item quantity="one">Eén item verwijderd</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d items toegevoegd aan %2$s</item>
+        <item quantity="one">Eén item toegevoegd aan %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d items toegevoegd</item>
+        <item quantity="one">Eén item toegevoegd</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d items hersteld en toegevoegd aan %2$s</item>
+        <item quantity="one">Eén item hersteld en toegevoegd aan %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d items verplaatst naar %2$s.</item>
+        <item quantity="one">Eén item verplaatst naar %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d items verplaatst</item>
+        <item quantity="one">Eén item verplaatst</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d items hersteld en verplaatst naar %2$s.</item>
+        <item quantity="one">Eén item hersteld en verplaatst naar %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d items hersteld.</item>
+        <item quantity="one">Eén item hersteld</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d items hersteld in %2$s.</item>
+        <item quantity="one">Eén item hersteld in %2$s.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Bestanden verzenden met</item>
+        <item quantity="one">Bestand verzenden met</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d mensen hebben nu toegang</item>
+        <item quantity="one">Eén persoon heeft nu toegang</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s en %2$d anderen hebben nu toegang</item>
+        <item quantity="one">%1$s en één andere persoon hebben nu toegang</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d mensen mogen nu reageren</item>
+        <item quantity="one">Eén persoon mag nu reageren</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s en %2$d anderen mogen nu reageren</item>
+        <item quantity="one">%1$s en één andere persoon mogen nu reageren</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d mensen kunnen nu bewerken</item>
+        <item quantity="one">Eén persoon kan nu bewerken</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s en %2$d anderen kunnen nu bewerken</item>
+        <item quantity="one">%1$s en één andere persoon kunnen nu bewerken</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d mensen kunnen nu bekijken</item>
+        <item quantity="one">Eén persoon kan nu bekijken</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s en %2$d anderen kunnen nu bekijken</item>
+        <item quantity="one">%1$s en één andere persoon kunnen nu bekijken</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Drive-opslag vervalt over %1$d dagen</item>
+        <item quantity="one">Drive-opslag vervalt over %1$d dag</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d mensen toegevoegd aan de gedeelde drive</item>
+        <item quantity="one">Eén persoon toegevoegd aan de gedeelde drive</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s en %3$d anderen toegevoegd aan %1$s</item>
+        <item quantity="one">%2$s en één andere persoon toegevoegd aan %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d leden</item>
+        <item quantity="one">Eén lid</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Alles nu hervatten</item>
+        <item quantity="one">Nu hervatten</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Upload van %1$d bestanden geannuleerd.</item>
+        <item quantity="one">Upload van %1$d bestand geannuleerd.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Upload van %1$d bestanden kan niet worden gepland.</item>
+        <item quantity="one">Upload van %1$d bestand kan niet worden gepland.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d bestanden geüpload.</item>
+        <item quantity="one">%1$d bestand geüpload.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%1$d van %2$d bestanden kunnen niet worden geüpload.</item>
+        <item quantity="one">%1$d van %2$d bestand kan niet worden geüpload.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d bestanden uploaden.</item>
+        <item quantity="one">%1$d bestand uploaden.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Uploads onderbroken, wachten op netwerk…</item>
+        <item quantity="one">Upload onderbroken, wachten op netwerk…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d uploads onderbroken.</item>
+        <item quantity="one">%1$d upload onderbroken.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Uploads onderbroken, wachten op wifi…</item>
+        <item quantity="one">Upload onderbroken, wachten op wifi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Upload van %1$d bestanden wordt voorbereid.</item>
+        <item quantity="one">Upload van %1$d bestand wordt voorbereid.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d bestanden worden geüpload naar: %2$s</item>
+        <item quantity="one">%1$d bestand wordt geüpload naar: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$d bestanden bekijken</item>
+        <item quantity="one">%1$d bestand bekijken</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Alle %1$d bestanden in %2$s bekijken</item>
+        <item quantity="one">%1$d bestand in %2$s bekijken</item>
+    </plurals>
+</resources>

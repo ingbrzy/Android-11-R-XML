@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Zrušeno) %1$d aplikací bylo odinstalováno</item>
+        <item quantity="one">(Zrušeno) %1$d aplikace byla odinstalována</item>
+        <item quantity="few">(Zrušeno) %1$d aplikace byly odinstalovány</item>
+        <item quantity="many">(Zrušeno) %1$d aplikace bylo odinstalováno</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d aplikací bylo odinstalováno</item>
+        <item quantity="one">%1$d aplikace byla odinstalována</item>
+        <item quantity="few">%1$d aplikace byly odinstalovány</item>
+        <item quantity="many">%1$d aplikace bylo odinstalováno</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">%1$d souborů bylo zkopírováno</item>
+        <item quantity="one">%1$d soubor byl zkopírován</item>
+        <item quantity="few">%1$d soubory byly zkopírovány</item>
+        <item quantity="many">%1$d souboru bylo zkopírováno</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Bylo zkopírováno %1$d složek a %2$d souborů</item>
+        <item quantity="one">Bylo zkopírováno %1$d složek a %2$d soubor</item>
+        <item quantity="few">Bylo zkopírováno %1$d složek a %2$d soubory</item>
+        <item quantity="many">Bylo zkopírováno %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Bylo zkopírováno %1$d složek</item>
+        <item quantity="one">Byla zkopírována %1$d složka</item>
+        <item quantity="few">Byly zkopírovány %1$d složky</item>
+        <item quantity="many">Bylo zkopírováno %1$d složky</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Byla zkopírována %1$d složka a %2$d souborů</item>
+        <item quantity="one">Byla zkopírována %1$d složka a %2$d soubor</item>
+        <item quantity="few">Byla zkopírována %1$d složka a %2$d soubory</item>
+        <item quantity="many">Byla zkopírována %1$d složka a %2$d souboru</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">Bylo smazáno %1$d souborů</item>
+        <item quantity="one">Byl smazán %1$d soubor</item>
+        <item quantity="few">Byly smazány %1$d soubory</item>
+        <item quantity="many">Bylo smazáno %1$d souboru</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Bylo smazáno %1$d složek a %2$d souborů</item>
+        <item quantity="one">Bylo smazáno %1$d složek a %2$d soubor</item>
+        <item quantity="few">Bylo smazáno %1$d složek a %2$d soubory</item>
+        <item quantity="many">Bylo smazáno %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Bylo smazáno %1$d složek</item>
+        <item quantity="one">Byla smazána %1$d složka</item>
+        <item quantity="few">Byly smazány %1$d složky</item>
+        <item quantity="many">Bylo smazáno %1$d složky</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Byla smazána %1$d složka a %2$d souborů</item>
+        <item quantity="one">Byla smazána %1$d složka a %2$d soubor</item>
+        <item quantity="few">Byla smazána %1$d složka a %2$d soubory</item>
+        <item quantity="many">Byla smazána %1$d složka a %2$d souboru</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">%1$d souborů bylo přesunuto</item>
+        <item quantity="one">%1$d soubor byl přesunut</item>
+        <item quantity="few">%1$d soubory byly přesunuty</item>
+        <item quantity="many">%1$d souboru bylo přesunuto</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Bylo přesunuto %1$d složek a %2$d souborů</item>
+        <item quantity="one">Bylo přesunuto %1$d složek a %2$d soubor</item>
+        <item quantity="few">Bylo přesunuto %1$d složek a %2$d soubory</item>
+        <item quantity="many">Bylo přesunuto %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Bylo přesunuto %1$d složek</item>
+        <item quantity="one">Byla přesunuta %1$d složka</item>
+        <item quantity="few">Byly přesunuty %1$d složky</item>
+        <item quantity="many">Bylo přesunuto %1$d složky</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Byla přesunuta %1$d složka a %2$d souborů</item>
+        <item quantity="one">Byla přesunuta %1$d složka a %2$d soubor</item>
+        <item quantity="few">Byla přesunuta %1$d složka a %2$d soubory</item>
+        <item quantity="many">Byla přesunuta %1$d složka a %2$d souboru</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Trvale tím smažete také %1$d souborů v těchto složkách</item>
+        <item quantity="one">Trvale tím smažete také %1$d soubor v těchto složkách</item>
+        <item quantity="few">Trvale tím smažete také %1$d soubory v těchto složkách</item>
+        <item quantity="many">Trvale tím smažete také %1$d souboru v těchto složkách</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Smazat %1$d souborů?</item>
+        <item quantity="one">Smazat %1$d soubor?</item>
+        <item quantity="few">Smazat %1$d soubory?</item>
+        <item quantity="many">Smazat %1$d souboru?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Smazat %1$d složek a soubory (%2$d)?</item>
+        <item quantity="one">Smazat 1 složku a soubory (%2$d)?</item>
+        <item quantity="few">Smazat %1$d složky a soubory (%2$d)?</item>
+        <item quantity="many">Smazat %1$d složky a soubory (%2$d)?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Smazat %1$d složek a 1 soubor?</item>
+        <item quantity="one">Smazat 1 složku a 1 soubor?</item>
+        <item quantity="few">Smazat %1$d složky a 1 soubor?</item>
+        <item quantity="many">Smazat %1$d složky a 1 soubor?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Smazat %1$d složek?</item>
+        <item quantity="one">Smazat %1$d složku?</item>
+        <item quantity="few">Smazat %1$d složky?</item>
+        <item quantity="many">Smazat %1$d složky?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Chystáte se vymazat %1$d položek</item>
+        <item quantity="one">Chystáte se vymazat %1$d položku</item>
+        <item quantity="few">Chystáte se vymazat %1$d položky</item>
+        <item quantity="many">Chystáte se vymazat %1$d položky</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Přesunout %1$d souborů?</item>
+        <item quantity="one">Přesunout %1$d soubor?</item>
+        <item quantity="few">Přesunout %1$d soubory?</item>
+        <item quantity="many">Přesunout %1$d souboru?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Soubory nelze zkopírovat. %1$s</item>
+        <item quantity="one">Soubor nelze zkopírovat. %1$s</item>
+        <item quantity="few">Soubory nelze zkopírovat. %1$s</item>
+        <item quantity="many">Soubory nelze zkopírovat. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Kopírování %1$d souborů</item>
+        <item quantity="one">Kopírování %1$d souboru</item>
+        <item quantity="few">Kopírování %1$d souborů</item>
+        <item quantity="many">Kopírování %1$d souboru</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Kopírování %1$d složek a %2$d souborů</item>
+        <item quantity="one">Kopírování %1$d složek a %2$d souboru</item>
+        <item quantity="few">Kopírování %1$d složek a %2$d souborů</item>
+        <item quantity="many">Kopírování %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Kopírování %1$d složek</item>
+        <item quantity="one">Kopírování %1$d složky</item>
+        <item quantity="few">Kopírování %1$d složek</item>
+        <item quantity="many">Kopírování %1$d složky</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Kopírování %1$d složky a %2$d souborů</item>
+        <item quantity="one">Kopírování %1$d složky a %2$d souboru</item>
+        <item quantity="few">Kopírování %1$d složky a %2$d souborů</item>
+        <item quantity="many">Kopírování %1$d složky a %2$d souboru</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Smažte %1$d duplicitních souborů</item>
+        <item quantity="one">Smažte %1$d duplicitní soubor</item>
+        <item quantity="few">Smažte %1$d duplicitní soubory</item>
+        <item quantity="many">Smažte %1$d duplicitního souboru</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Soubory nelze smazat. %1$s</item>
+        <item quantity="one">Soubor nelze smazat. %1$s</item>
+        <item quantity="few">Soubory nelze smazat. %1$s</item>
+        <item quantity="many">Soubory nelze smazat. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Vymazat %1$d memů</item>
+        <item quantity="one">Vymazat %1$d mem</item>
+        <item quantity="few">Vymazat %1$d memy</item>
+        <item quantity="many">Vymazat %1$d memu</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Mazání %1$d souborů</item>
+        <item quantity="one">Mazání %1$d souboru</item>
+        <item quantity="few">Mazání %1$d souborů</item>
+        <item quantity="many">Mazání %1$d souboru</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Mazání %1$d složek a %2$d souborů</item>
+        <item quantity="one">Mazání %1$d složek a %2$d souboru</item>
+        <item quantity="few">Mazání %1$d složek a %2$d souborů</item>
+        <item quantity="many">Mazání %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Mazání %1$d složek</item>
+        <item quantity="one">Mazání %1$d složky</item>
+        <item quantity="few">Mazání %1$d složek</item>
+        <item quantity="many">Mazání %1$d složky</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Mazání %1$d složky a %2$d souborů</item>
+        <item quantity="one">Mazání %1$d složky a %2$d souboru</item>
+        <item quantity="few">Mazání %1$d složky a %2$d souborů</item>
+        <item quantity="many">Mazání %1$d složky a %2$d souboru</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Tyto položky už jsou ve složce %s</item>
+        <item quantity="one">Tato položka už je ve složce %s</item>
+        <item quantity="few">Tyto položky už jsou ve složce %s</item>
+        <item quantity="many">Tyto položky už jsou ve složce %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Soubory nelze rozbalit. %1$s</item>
+        <item quantity="one">Soubor nelze rozbalit. %1$s</item>
+        <item quantity="few">Soubory nelze rozbalit. %1$s</item>
+        <item quantity="many">Soubory nelze rozbalit. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">Bylo rozbaleno %1$d souborů</item>
+        <item quantity="one">Byl rozbalen %1$d soubor</item>
+        <item quantity="few">Byly rozbaleny %1$d soubory</item>
+        <item quantity="many">Bylo rozbaleno %1$d souboru</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">Uživateli %1$s se nepodařilo uživateli %3$s odeslat %2$d souborů</item>
+        <item quantity="one">Uživateli %1$s se nepodařilo uživateli %3$s odeslat %2$d soubor</item>
+        <item quantity="few">Uživateli %1$s se nepodařilo uživateli %3$s odeslat %2$d soubory</item>
+        <item quantity="many">Uživateli %1$s se nepodařilo uživateli %3$s odeslat %2$d souboru</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d souborů je už v umístění %2$s a nelze je zkopírovat</item>
+        <item quantity="one">%1$d soubor je už v umístění %2$s a nelze ho zkopírovat</item>
+        <item quantity="few">%1$d soubory jsou už v umístění %2$s a nelze je zkopírovat</item>
+        <item quantity="many">%1$d souboru je už v umístění %2$s a nelze je zkopírovat</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d souborů je už v umístění %2$s a nelze je přesunout</item>
+        <item quantity="one">%1$d soubor je už v umístění %2$s a nelze ho přesunout</item>
+        <item quantity="few">%1$d soubory jsou už v umístění %2$s a nelze je přesunout</item>
+        <item quantity="many">%1$d souboru je už v umístění %2$s a nelze je přesunout</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">%1$d z %2$d souborů nelze smazat. Je vyžadován přístup k SD kartě</item>
+        <item quantity="one">Soubor %1$d nelze smazat. Je vyžadován přístup k SD kartě</item>
+        <item quantity="few">%1$d ze %2$d souborů nelze smazat. Je vyžadován přístup k SD kartě</item>
+        <item quantity="many">%1$d z %2$d souboru nelze smazat. Je vyžadován přístup k SD kartě</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">Vybráno: %1$d</item>
+        <item quantity="one">Vybráno: %1$d</item>
+        <item quantity="few">Vybráno: %1$d</item>
+        <item quantity="many">Vybráno: %1$d</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s souborů</item>
+        <item quantity="one">%1$s soubor</item>
+        <item quantity="few">%1$s soubory</item>
+        <item quantity="many">%1$s souboru</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d souborů bude zkopírováno</item>
+        <item quantity="one">%1$d soubor bude zkopírován</item>
+        <item quantity="few">%1$d soubory budou zkopírovány</item>
+        <item quantity="many">%1$d souboru bude zkopírováno</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d souborů bude přesunuto</item>
+        <item quantity="one">%1$d soubor bude přesunut</item>
+        <item quantity="few">%1$d soubory budou přesunuty</item>
+        <item quantity="many">%1$d souboru bude přesunuto</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d souborů</item>
+        <item quantity="one">%1$s, %2$d soubor</item>
+        <item quantity="few">%1$s, %2$d soubory</item>
+        <item quantity="many">%1$s, %2$d souboru</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">Celkem %1$d souborů</item>
+        <item quantity="one">Celkem %1$d soubor</item>
+        <item quantity="few">Celkem %1$d soubory</item>
+        <item quantity="many">Celkem %1$d souboru</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s složek</item>
+        <item quantity="one">%1$s složka</item>
+        <item quantity="few">%1$s složky</item>
+        <item quantity="many">%1$s složky</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Funkce Google Play Protect v zařízení našla %1$s škodlivých aplikací</item>
+        <item quantity="one">Funkce Google Play Protect v zařízení našla 1 škodlivou aplikaci</item>
+        <item quantity="few">Funkce Google Play Protect v zařízení našla %1$s škodlivé aplikace</item>
+        <item quantity="many">Funkce Google Play Protect v zařízení našla %1$s škodlivé aplikace</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d hodin</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+        <item quantity="many">%1$d hodiny</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Odstraňte %1$d mediálních souborů</item>
+        <item quantity="one">Odstraňte %1$d mediální soubor</item>
+        <item quantity="few">Odstraňte %1$d mediální soubory</item>
+        <item quantity="many">Odstraňte %1$d mediálního souboru</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minuty</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Soubory nelze přesunout. %1$s</item>
+        <item quantity="one">Soubor nelze přesunout. %1$s</item>
+        <item quantity="few">Soubory nelze přesunout. %1$s</item>
+        <item quantity="many">Soubory nelze přesunout. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Přesouvání %1$d souborů</item>
+        <item quantity="one">Přesouvání %1$d souboru</item>
+        <item quantity="few">Přesouvání %1$d souborů</item>
+        <item quantity="many">Přesouvání %1$d souboru</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Přesouvání %1$d složek a %2$d souborů</item>
+        <item quantity="one">Přesouvání %1$d složek a %2$d souboru</item>
+        <item quantity="few">Přesouvání %1$d složek a %2$d souborů</item>
+        <item quantity="many">Přesouvání %1$d složek a %2$d souboru</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Přesouvání %1$d složek</item>
+        <item quantity="one">Přesouvání %1$d složky</item>
+        <item quantity="few">Přesouvání %1$d složek</item>
+        <item quantity="many">Přesouvání %1$d složky</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Přesouvání %1$d složky a %2$d souborů</item>
+        <item quantity="one">Přesouvání %1$d složky a %2$d souboru</item>
+        <item quantity="few">Přesouvání %1$d složky a %2$d souborů</item>
+        <item quantity="many">Přesouvání %1$d složky a %2$d souboru</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="many">%1$d sekundy</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s odesílá uživateli %3$s %2$d souborů</item>
+        <item quantity="one">%1$s odesílá uživateli %3$s %2$d soubor</item>
+        <item quantity="few">%1$s odesílá uživateli %3$s %2$d soubory</item>
+        <item quantity="many">%1$s odesílá uživateli %3$s %2$d souboru</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">Uživatel %1$s odeslal uživateli %3$s %2$d souborů</item>
+        <item quantity="one">Uživatel %1$s odeslal uživateli %3$s %2$d soubor</item>
+        <item quantity="few">Uživatel %1$s odeslal uživateli %3$s %2$d soubory</item>
+        <item quantity="many">Uživatel %1$s odeslal uživateli %3$s %2$d souboru</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">příjemců sdílení</item>
+        <item quantity="one">příjemce sdílení</item>
+        <item quantity="few">příjemci sdílení</item>
+        <item quantity="many">příjemce sdílení</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Zastavit kopírování %1$d souborů?</item>
+        <item quantity="one">Zastavit kopírování souboru %2$s?</item>
+        <item quantity="few">Zastavit kopírování %1$d souborů?</item>
+        <item quantity="many">Zastavit kopírování %1$d souboru?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Zastavit mazání %1$d souborů?</item>
+        <item quantity="one">Zastavit mazání souboru %2$s?</item>
+        <item quantity="few">Zastavit mazání %1$d souborů?</item>
+        <item quantity="many">Zastavit mazání %1$d souboru?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Zastavit přesouvání %1$d souborů?</item>
+        <item quantity="one">Zastavit přesouvání souboru %2$s?</item>
+        <item quantity="few">Zastavit přesouvání %1$d souborů?</item>
+        <item quantity="many">Zastavit přesouvání %1$d souboru?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Odinstalujte %1$d starých aplikací</item>
+        <item quantity="one">Odinstalujte %1$d starou aplikaci</item>
+        <item quantity="few">Odinstalujte %1$d staré aplikace</item>
+        <item quantity="many">Odinstalujte %1$d staré aplikace</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">a %1$d dalších souborů</item>
+        <item quantity="one">a %1$d další soubor</item>
+        <item quantity="few">a %1$d další soubory</item>
+        <item quantity="many">a %1$d dalšího souboru</item>
+    </plurals>
+</resources>

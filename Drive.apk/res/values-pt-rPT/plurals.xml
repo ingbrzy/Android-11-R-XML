@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">A mostrar %1$d itens…</item>
+        <item quantity="one">A mostrar %1$d item…</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d comentários</item>
+        <item quantity="one">%1$d comentário</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Itens de ação: %1$d itens de seguimento</item>
+        <item quantity="one">Itens de ação: %1$d item de seguimento</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Itens eliminados definitivamente.</item>
+        <item quantity="one">Item eliminado definitivamente.</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s não são endereços de email válidos.</item>
+        <item quantity="one">%s não é um endereço de email válido.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Ao adicionar estes ficheiros, está a partilhá-los com todas as pessoas que podem aceder à pasta partilhada %1$s</item>
+        <item quantity="one">Ao adicionar este ficheiro, está a partilhá-lo com todas as pessoas que podem aceder à pasta partilhada %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Ao adicionar estas pastas, está a partilhá-las com todas as pessoas que podem aceder à pasta partilhada %1$s</item>
+        <item quantity="one">Ao adicionar esta pasta, está a partilhá-la com todas as pessoas que podem aceder à pasta partilhada %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Pretende partilhar estes ficheiros?</item>
+        <item quantity="one">Pretende partilhar este ficheiro?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Pretende partilhar estas pastas?</item>
+        <item quantity="one">Pretende partilhar esta pasta?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d pastas atualizadas. Cor definida para %2$s.</item>
+        <item quantity="one">%1$d pasta atualizada. Cor definida para %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Aplicar filtros:</item>
+        <item quantity="one">Aplicar filtro:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Expira dentro de %1$d dias</item>
+        <item quantity="one">Expira dentro de %1$d dia</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Esta cópia de segurança expira dentro de %1$d dias se o dispositivo continuar inativo.</item>
+        <item quantity="one">Esta cópia de segurança expira dentro de %1$d dia se o dispositivo continuar inativo.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">As cópias de segurança foram eliminadas.</item>
+        <item quantity="one">A cópia de segurança foi eliminada.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d colunas.</item>
+        <item quantity="one">%1$d coluna.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d colunas fixas.</item>
+        <item quantity="one">%1$d coluna fixa.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d linhas fixas.</item>
+        <item quantity="one">%1$d linha fixa.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d linhas.</item>
+        <item quantity="one">%1$d linha.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s de %2$d itens</item>
+        <item quantity="one">%1$s de %2$d item</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s respostas</item>
+        <item quantity="one">%1$s resposta</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Não foi possível transferir os itens.</item>
+        <item quantity="one">Não foi possível transferir o item.</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d itens serão transferidos. Veja a notificação para obter detalhes.</item>
+        <item quantity="one">%1$d item será transferido. Veja a notificação para obter detalhes.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d itens serão transferidos.</item>
+        <item quantity="one">%1$d item será transferido.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s e mais %2$d itens</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Não foi possível transferir %1$s itens.</item>
+        <item quantity="one">Não foi possível transferir %1$s item.</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Mais %1$d itens</item>
+        <item quantity="one">Mais %1$d item</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d de %2$d transferências falharam</item>
+        <item quantity="one">%1$d de %2$d transferência falhou</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Ocorreu um erro ao mover os ficheiros.</item>
+        <item quantity="one">Ocorreu um erro ao mover o ficheiro.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d convidados</item>
+        <item quantity="one">%d convidado</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d atalhos adicionados a \"%1$s\".</item>
+        <item quantity="one">Atalho adicionado a \"%1$s\".</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Não é possível adicionar atalhos. Tente novamente</item>
+        <item quantity="one">Não é possível adicionar o atalho. Tente novamente</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Os membros de \"%1$s\" irão perder o acesso, a menos que estes itens sejam partilhados com os mesmos. Os membros de \"%2$s\" irão obter acesso a estes itens.</item>
+        <item quantity="one">Os membros de \"%1$s\" irão perder o acesso, a menos que este item seja partilhado com os mesmos. Os membros de \"%2$s\" irão obter acesso a este item.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Os membros de \"%1$s\" irão perder o acesso, a menos que estes itens sejam partilhados com os mesmos. Os membros de \"%2$s\" irão obter acesso a estes itens. Só tem autorização para adicionar e editar itens em \"%3$s\", pelo que não é possível anular esta ação.</item>
+        <item quantity="one">Os membros de \"%1$s\" irão perder o acesso, a menos que este item seja partilhado com os mesmos. Os membros de \"%2$s\" irão obter acesso a este item. Só tem autorização para adicionar e editar itens em \"%3$s\", pelo que não é possível anular esta ação.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Alguns dos ficheiros que estão a ser movidos para \" %1$s\" acionaram deteções de DLP. Estes ficheiros podem conter informações confidenciais.</item>
+        <item quantity="one">O ficheiro que está a ser movido para \" %1$s\" acionou deteções de DLP. Este ficheiro pode conter informações confidenciais.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Os membros de \"%1$s\" irão perder o acesso, a menos que estes itens sejam partilhados com os mesmos.</item>
+        <item quantity="one">Os membros de \"%1$s\" irão perder o acesso, a menos que este item seja partilhado com os mesmos.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Ao mover estes itens, está a partilhá-los com todas as pessoas que conseguem ver a pasta partilhada \"%1$s\". Os membros de \"%2$s\" irão perder o acesso, a menos que estes itens sejam partilhados com os mesmos.</item>
+        <item quantity="one">Ao mover este item, está a partilhá-lo com todas as pessoas que conseguem ver a pasta partilhada \"%1$s\". Os membros de \"%2$s\" irão perder o acesso, a menos que este item seja partilhado com os mesmos.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Está a retirar alguns itens de pastas partilhadas, o que fará com que as pessoas percam o acesso aos mesmos.</item>
+        <item quantity="one">Está a retirar um item de uma pasta partilhada, o que fará com que as pessoas percam o acesso ao mesmo.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">As restrições adicionais serão removidas destes itens.</item>
+        <item quantity="one">As restrições adicionais serão removidas deste item.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Ao mover estes ficheiros, estará a partilhá-los com todas as pessoas que podem aceder à pasta partilhada %1$s.</item>
+        <item quantity="one">Ao mover este ficheiro, estará a partilhá-lo com todas as pessoas que podem aceder à pasta partilhada %1$s.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Ao mover estas pastas, estará a partilhá-las com todas as pessoas que têm acesso à pasta partilhada %1$s.</item>
+        <item quantity="one">Ao mover esta pasta, estará a partilhá-la com todas as pessoas que podem aceder à pasta partilhada %1$s.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Pretende partilhar estes ficheiros?</item>
+        <item quantity="one">Pretende partilhar este ficheiro?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Pretende partilhar estas pastas?</item>
+        <item quantity="one">Pretende partilhar esta pasta?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Não tem autorização para mover alguns itens para fora da respetiva unidade partilhada.</item>
+        <item quantity="one">Não tem autorização para mover este item para fora da respetiva unidade partilhada.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Não tem autorização para mover alguns itens para fora da respetiva pasta.</item>
+        <item quantity="one">Não tem autorização para mover este item para fora da respetiva pasta.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Não é possível mover estes ficheiros porque o proprietário dos ficheiros está fora do domínio %1$s.</item>
+        <item quantity="one">Não é possível mover este ficheiro porque o proprietário do ficheiro está fora do domínio %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" pode agora aceder aos itens.</item>
+        <item quantity="one">%1$s \"%2$s\" pode agora aceder ao item.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d itens movidos para a unidade partilhada. Membros com acesso.</item>
+        <item quantity="one">1 item movido para o disco partilhado. Os membros têm acesso.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d itens movidos da unidade partilhada. Membros sem acesso.</item>
+        <item quantity="one">%1$d item movido da unidade partilhada. Membros sem acesso.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d aprovadores</item>
+        <item quantity="one">1 aprovador</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s itens de ação</item>
+        <item quantity="one">%1$s item de ação</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s menções sem resposta</item>
+        <item quantity="one">%1$s menção sem resposta</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s sugestões</item>
+        <item quantity="one">%1$s sugestão</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s tarefas</item>
+        <item quantity="one">%1$s tarefa</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Os itens foram eliminados definitivamente.</item>
+        <item quantity="one">O item foi eliminado definitivamente.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d de %2$s estão agora disponíveis offline.</item>
+        <item quantity="one">%1$d de %2$s está agora disponível offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Os %1$d ficheiros estão disponíveis offline.</item>
+        <item quantity="one">%1$d ficheiro está agora disponível offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Não é possível disponibilizar os ficheiros offline.</item>
+        <item quantity="one">Não é possível disponibilizar o ficheiro offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">A disponibilizar %1$d ficheiros offline…</item>
+        <item quantity="one">A disponibilizar %1$d ficheiro offline…</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d ficheiros</item>
+        <item quantity="one">%1$d ficheiro</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">As transferências foram interrompidas. A aguardar rede…</item>
+        <item quantity="one">A transferência foi interrompida. A aguardar rede…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d transferências interrompidas.</item>
+        <item quantity="one">%1$d transferência interrompida.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">As transferências foram interrompidas. A aguardar ligação Wi-Fi…</item>
+        <item quantity="one">A transferência foi interrompida. A aguardar ligação Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d itens serão movidos para o lixo. Esta ação também remove os itens do Google Fotos.</item>
+        <item quantity="one">Um item será movido para o lixo. Esta ação também remove o item do Google Fotos.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d itens serão movidos para o lixo.</item>
+        <item quantity="one">Um item será movido para o lixo.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s itens de seguimento</item>
+        <item quantity="one">%1$s item de seguimento</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s itens de seguimento</item>
+        <item quantity="one">%1$s item de seguimento</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Seguimentos</item>
+        <item quantity="one">Seguimento</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Comentaram %1$d ficheiros.</item>
+        <item quantity="one">Comentaram um ficheiro.</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Comentou %1$d ficheiros.</item>
+        <item quantity="one">Comentou um ficheiro.</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Comentaram este ficheiro</item>
+        <item quantity="one">Comentou este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Criaram %1$d itens.</item>
+        <item quantity="one">Criaram um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Criou %1$d itens.</item>
+        <item quantity="one">Criou um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Criaram este ficheiro</item>
+        <item quantity="one">Criou este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Criaram esta pasta</item>
+        <item quantity="one">Criou esta pasta</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Editaram %1$d itens.</item>
+        <item quantity="one">Editaram um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Editou %1$d itens.</item>
+        <item quantity="one">Editou um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Editaram este ficheiro</item>
+        <item quantity="one">Editou este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Eliminou definitivamente %1$d itens.</item>
+        <item quantity="one">Eliminou definitivamente um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Moveram %1$d itens para:</item>
+        <item quantity="one">Moveram um item para:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Moveu %1$d itens para:</item>
+        <item quantity="one">Moveu um item para:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Moveram %1$d itens.</item>
+        <item quantity="one">Moveram um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Moveu %1$d itens.</item>
+        <item quantity="one">Moveu um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Moveram este ficheiro</item>
+        <item quantity="one">Moveu este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Moveram este ficheiro para:</item>
+        <item quantity="one">Moveu este ficheiro para:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Moveram esta pasta</item>
+        <item quantity="one">Moveu esta pasta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Moveram esta pasta para:</item>
+        <item quantity="one">Moveu esta pasta para:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Mudaram o nome de %1$d itens.</item>
+        <item quantity="one">Mudaram o nome de um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Mudou o nome de %1$d itens.</item>
+        <item quantity="one">Mudou o nome de um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Mudaram o nome deste ficheiro</item>
+        <item quantity="one">Mudou o nome deste ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Mudaram o nome desta pasta</item>
+        <item quantity="one">Mudou o nome desta pasta</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Partilharam %1$d itens.</item>
+        <item quantity="one">Partilharam um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Partilhou %1$d itens.</item>
+        <item quantity="one">Partilhou um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Partilharam este ficheiro</item>
+        <item quantity="one">Partilhou este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Partilharam esta pasta</item>
+        <item quantity="one">Partilhou esta pasta</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Moveram %1$d itens para o lixo.</item>
+        <item quantity="one">Moveram um item para o lixo.</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Moveu %1$d itens para o lixo.</item>
+        <item quantity="one">Moveu um item para o lixo.</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Removeram este ficheiro</item>
+        <item quantity="one">Removeu este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Removeram esta pasta</item>
+        <item quantity="one">Removeu esta pasta</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Carregaram %1$d itens.</item>
+        <item quantity="one">Carregaram um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Carregou %1$d itens.</item>
+        <item quantity="one">Carregou um item.</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Carregaram este ficheiro</item>
+        <item quantity="one">Carregou este ficheiro</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Carregaram esta pasta</item>
+        <item quantity="one">Carregou esta pasta</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d ficheiros serão movidos para o lixo do Drive de equipa %2$s e eliminados definitivamente após 30 dias.</item>
+        <item quantity="one">Este ficheiro será movido para o lixo do Drive de equipa %2$s e eliminado definitivamente após 30 dias.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d pastas serão movidas para o lixo do Drive de equipa %2$s e eliminadas definitivamente após 30 dias.</item>
+        <item quantity="one">A pasta será movida para o lixo do Drive de equipa %2$s e eliminada definitivamente após 30 dias</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d itens serão movidos para o lixo do Drive de equipa %2$s e eliminados definitivamente após 30 dias.</item>
+        <item quantity="one">O item será movido para o lixo do Drive de equipa %2$s e eliminado definitivamente após 30 dias.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Estes %1$d ficheiros serão &lt;b>eliminados definitivamente para todos.&lt;/b> Não é possível anular esta ação.</item>
+        <item quantity="one">Este ficheiro será &lt;b>eliminado definitivamente para todos.&lt;/b> Não é possível anular esta ação.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Estes %1$d ficheiros serão eliminados definitivamente. Não é possível anular esta ação.</item>
+        <item quantity="one">Este ficheiro será eliminado definitivamente. Não é possível anular esta ação.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d itens não selecionados</item>
+        <item quantity="one">%1$d item não selecionado</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Os ficheiros serão disponibilizados offline.</item>
+        <item quantity="one">O ficheiro será disponibilizado offline.</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d itens marcados com uma estrela</item>
+        <item quantity="one">1 item marcado com estrela</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Os ficheiros deixarão de estar disponíveis offline.</item>
+        <item quantity="one">O ficheiro deixará de estar disponível offline.</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d itens sem estrela.</item>
+        <item quantity="one">1 item sem estrela.</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d itens restaurados</item>
+        <item quantity="one">1 item restaurado</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d itens restaurados</item>
+        <item quantity="one">1 item restaurado</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d itens removidos da pasta \"%2$s\"</item>
+        <item quantity="one">1 item removido da pasta \" %2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d itens removidos da pasta</item>
+        <item quantity="one">1 item removido da pasta</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d itens removidos</item>
+        <item quantity="one">1 item removido.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d itens movidos de volta.</item>
+        <item quantity="one">1 item movido de volta.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d itens movidos de volta para o lixo.</item>
+        <item quantity="one">1 item movido de volta para o lixo.</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d itens removidos.</item>
+        <item quantity="one">1 item removido.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d itens adicionados à pasta \"%2$s\".</item>
+        <item quantity="one">1 item adicionado à pasta \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d itens adicionados.</item>
+        <item quantity="one">1 item adicionado.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d itens restaurados e adicionados à pasta \"%2$s\".</item>
+        <item quantity="one">1 item restaurado e adicionado à pasta \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d itens movidos para a pasta \"%2$s\".</item>
+        <item quantity="one">1 item movido para a pasta \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d itens movidos.</item>
+        <item quantity="one">1 item movido.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d itens restaurados e movidos para a pasta \"%2$s\".</item>
+        <item quantity="one">1 item restaurado e movido para a pasta \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d itens restaurados.</item>
+        <item quantity="one">1 item restaurado.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d itens restaurados para a pasta \"%2$s\".</item>
+        <item quantity="one">1 item restaurado para a pasta \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Enviar ficheiros com</item>
+        <item quantity="one">Enviar ficheiro com</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d pessoas podem agora aceder.</item>
+        <item quantity="one">Uma pessoa pode agora aceder.</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s e mais %2$d pessoas podem agora aceder.</item>
+        <item quantity="one">%1$s e mais uma pessoa podem agora aceder.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d pessoas podem agora adicionar comentários.</item>
+        <item quantity="one">Uma pessoa pode agora adicionar comentários.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s e mais %2$d pessoas podem agora adicionar comentários.</item>
+        <item quantity="one">%1$s e mais uma pessoa podem agora adicionar comentários.</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d pessoas podem agora editar</item>
+        <item quantity="one">Uma pessoa pode agora editar</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s e mais %2$d pessoas podem agora editar</item>
+        <item quantity="one">%1$s e mais uma pessoa podem agora editar</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d pessoas podem agora ver</item>
+        <item quantity="one">Uma pessoa pode agora ver</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s e mais %2$d pessoas podem agora ver</item>
+        <item quantity="one">%1$s e mais uma pessoa podem agora ver</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">O armazenamento do Drive expira dentro de %1$d dias</item>
+        <item quantity="one">O armazenamento do Drive expira dentro de %1$d dia</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d pessoas foram adicionadas à unidade partilhada.</item>
+        <item quantity="one">Uma pessoa foi adicionada à unidade partilhada.</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s e mais %3$d pessoas foram adicionados a %1$s.</item>
+        <item quantity="one">%2$s e mais uma pessoa foram adicionados a %1$s.</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d membros</item>
+        <item quantity="one">1 membro</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Retomar tudo agora</item>
+        <item quantity="one">Retomar agora</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">O carregamento de %1$d ficheiros foi cancelado.</item>
+        <item quantity="one">O carregamento de %1$d ficheiro foi cancelado.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Não é possível agendar %1$d ficheiros para carregamento.</item>
+        <item quantity="one">Não é possível agendar %1$d ficheiro para carregamento.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d ficheiros carregados.</item>
+        <item quantity="one">%1$d ficheiro carregado.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Não é possível carregar %1$d de %2$d ficheiros.</item>
+        <item quantity="one">Não é possível carregar %1$d de %2$d ficheiros.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">A carregar %1$d ficheiros…</item>
+        <item quantity="one">A carregar %1$d ficheiro…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Os carregamentos foram interrompidos. A aguardar rede…</item>
+        <item quantity="one">O carregamento foi interrompido. A aguardar rede…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d carregamentos interrompidos.</item>
+        <item quantity="one">%1$d carregamento interrompido.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Os carregamentos foram interrompidos. A aguardar ligação Wi-Fi…</item>
+        <item quantity="one">O carregamento foi interrompido. A aguardar ligação Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">A preparar %1$d ficheiros para carregamento…</item>
+        <item quantity="one">A preparar %1$d ficheiro para carregamento…</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d ficheiros seus estão a ser carregados para: %2$s</item>
+        <item quantity="one">%1$d ficheiro seu está a ser carregado para: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Ver %1$d ficheiros</item>
+        <item quantity="one">Ver %1$d ficheiro</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Ver todos os %1$d ficheiros em %2$s</item>
+        <item quantity="one">Ver %1$d ficheiro em %2$s</item>
+    </plurals>
+</resources>

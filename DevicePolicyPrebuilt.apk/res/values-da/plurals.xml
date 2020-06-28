@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Konfigurationen kan ikke afsluttes, da %1$d nødvendige apps ikke kunne installeres. Kontakt din systemadministrator direkte.</item>
+        <item quantity="one">Konfigurationen kan ikke afsluttes, da %1$d nødvendig app ikke kunne installeres. Kontakt din systemadministrator direkte.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Disse apps kunne ikke installeres</item>
+        <item quantity="one">Appen kan ikke installeres</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d af %2$d apps er installeret</item>
+        <item quantity="one">%1$d af %2$d app er installeret</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Afinstaller apps</item>
+        <item quantity="one">Afinstaller app</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dage tilbage</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dag tilbage</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> timer tilbage</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> time tilbage</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d af %2$d apps er installeret</item>
+        <item quantity="one">%1$d af %2$d app er installeret</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Der er %1$d tilgængelige apps (%2$d er installeret og %3$d er deaktiveret)</item>
+        <item quantity="one">Der er %1$d tilgængelig app (%2$d er installeret og %3$d er deaktiveret)</item>
+    </plurals>
+</resources>

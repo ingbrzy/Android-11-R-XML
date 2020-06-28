@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">ดำเนินการตั้งค่าให้เสร็จสมบูรณ์ไม่ได้เพราะติดตั้งแอปที่จำเป็นไม่สำเร็จ %1$d แอป โปรดติดต่อผู้ดูแลระบบของคุณโดยตรง</item>
+        <item quantity="one">ดำเนินการตั้งค่าให้เสร็จสมบูรณ์ไม่ได้เพราะติดตั้งแอปที่จำเป็นไม่สำเร็จ %1$d แอป โปรดติดต่อผู้ดูแลระบบของคุณโดยตรง</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">ติดตั้งแอปไม่ได้</item>
+        <item quantity="one">ติดตั้งแอปไม่ได้</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">ติดตั้ง %1$d จาก %2$d แอป</item>
+        <item quantity="one">ติดตั้ง %1$d จาก %2$d แอป</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">ถอนการติดตั้งแอป</item>
+        <item quantity="one">ถอนการติดตั้งแอป</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">เหลืออีก &lt;annotation id="numeric_time_left">^1&lt;/annotation> วัน</item>
+        <item quantity="one">เหลืออีก &lt;annotation id="numeric_time_left">^1&lt;/annotation> วัน</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">เหลืออีก &lt;annotation id="numeric_time_left">^1&lt;/annotation> ชั่วโมง</item>
+        <item quantity="one">เหลืออีก &lt;annotation id="numeric_time_left">^1&lt;/annotation> ชั่วโมง</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">ติดตั้ง %1$d จาก %2$d แอป</item>
+        <item quantity="one">ติดตั้ง %1$d จาก %2$d แอป</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">มี %1$d แอป (ติดตั้งแล้ว %2$d ปิดใช้อยู่ %3$d)</item>
+        <item quantity="one">มี %1$d แอป (ติดตั้งแล้ว %2$d ปิดใช้อยู่ %3$d)</item>
+    </plurals>
+</resources>

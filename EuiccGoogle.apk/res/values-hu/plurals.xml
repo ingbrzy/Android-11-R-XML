@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">%1$d számot adott hozzá az eszközhöz, azonban egyszerre csak egyet használhat</item>
+        <item quantity="one">%1$d számot adott hozzá az eszközhöz, azonban egyszerre csak egyet használhat</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">&lt;b>%2$d számot&lt;/b> kérünk le a következő szolgáltatóktól: %1$s és %3$d további. Ez eltarthat egy ideig.</item>
+        <item quantity="one">&lt;b>%2$d számot&lt;/b> kérünk le a következő szolgáltatóktól: %1$s és 1 további. Ez eltarthat egy ideig.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">&lt;b>%2$d számot&lt;/b> kérünk le a következő szolgáltatótól: %1$s. Ez eltarthat egy ideig.</item>
+        <item quantity="one">Lekérjük a számát a következő szolgáltatótól: %1$s. Ez eltarthat egy ideig.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Telefonszámok hozzáadása…</item>
+        <item quantity="one">Telefonszám hozzáadása…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">A hálózatok nincsenek aktiválva</item>
+        <item quantity="one">%1$s nincs aktiválva</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d új számot&lt;/b> hozzá lehet adni a telefonhoz. Ha szeretné megnézni őket, törölnie kell egyet a jelenlegi számai közül.</item>
+        <item quantity="one">&lt;b>%d új számot&lt;/b> hozzá lehet adni a telefonhoz. Ha szeretné megnézni, törölnie kell egyet a jelenlegi számai közül.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">A számok használatához először helyet kell felszabadítania: törölje a meglévő számokat az eszközről. Ezt később is megteheti a Beállítások között.</item>
+        <item quantity="one">A szám használatához először helyet kell felszabadítania: törölje a meglévő számokat az eszközről. Ezt később is megteheti a Beállítások között.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d szám</item>
+        <item quantity="one">%d szám</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">&lt;b>%d telefonszámot&lt;/b> hozzá lehet adni ezektől a szolgáltatóktól</item>
+        <item quantity="one">&lt;b>%d telefonszámot&lt;/b> hozzá lehet adni ettől a szolgáltatótól</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d további szám készen áll a hozzáadásra</item>
+        <item quantity="one">%d további szám készen áll a hozzáadásra</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">A(z) %1$s szolgáltatóhoz tartozó számai és %2$d további szám készen állnak a hozzáadásra</item>
+        <item quantity="one">A(z) %1$s szolgáltatóhoz tartozó száma és %2$d további szám készen áll a hozzáadásra</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">A %1$s szolgáltatóhoz tartozó számai készen állnak a hozzáadásra</item>
+        <item quantity="one">A %1$s szolgáltatóhoz tartozó száma készen áll a hozzáadásra</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Hiba történt a szolgáltatás aktiválása során. Segítségért vegye fel a kapcsolatot a szolgáltatóval.</item>
+        <item quantity="one">Hiba történt a szolgáltatás aktiválása során. Kérjük, vegye fel a kapcsolatot a szolgáltatóval: %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Hiba történt a számok aktiválása során. Segítségért forduljon a(z) %1$s szolgáltatóhoz: %2$s.</item>
+        <item quantity="one">Hiba történt a szám aktiválása során. Segítségért forduljon a(z) %1$s szolgáltatóhoz: %2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Hiba történt a számok aktiválása során. Segítségért forduljon a(z) %1$s szolgáltatóhoz.</item>
+        <item quantity="one">Hiba történt a szám aktiválása során. Segítségért forduljon a(z) %1$s szolgáltatóhoz.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Hiba történt a számok aktiválása során. Segítségért vegye fel a kapcsolatot a hálózati szolgáltatókkal.</item>
+        <item quantity="one">Hiba történt a szám aktiválása során. Segítségért vegye fel a kapcsolatot a hálózati szolgáltatóval.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">%d rendelkezésre álló telefonszámot találtunk ehhez az eszközhöz.</item>
+        <item quantity="one">%d rendelkezésre álló telefonszámot találtunk ehhez az eszközhöz.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_metadata_confirm_subtitle">
+        <item quantity="other">%d rendelkezésre álló telefonszámot találtunk ehhez az eszközhöz. Aktiválás után a szolgáltató megkezdheti a díjak felszámítását a szolgáltatásért.</item>
+        <item quantity="one">%d rendelkezésre álló telefonszámot találtunk ehhez az eszközhöz. Aktiválás után a szolgáltató megkezdheti a díjak felszámítását a szolgáltatásért.</item>
+    </plurals>
+    <plurals name="q_result_download_metadata_text">
+        <item quantity="other">%2$d rendelkezésre álló %1$s-telefonszámot találtunk ehhez az eszközhöz. Aktiválás után a(z) %1$s megkezdheti a díjak felszámítását a szolgáltatásért.</item>
+        <item quantity="one">1 rendelkezésre álló %1$s-telefonszámot találtunk ehhez az eszközhöz. Aktiválás után a(z) %1$s megkezdheti a díjak felszámítását a szolgáltatásért.</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">%2$d rendelkezésre álló %1$s-telefonszámot találtunk ehhez az eszközhöz.</item>
+        <item quantity="one">1 rendelkezésre álló %1$s-telefonszámot találtunk ehhez az eszközhöz.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Nem tudtuk hozzáadni a(z) %1$s szolgáltatóhoz tartozó és %2$d további szolgáltató számait.</item>
+        <item quantity="one">Nem tudtuk hozzáadni a(z) %1$s szolgáltatóhoz tartozó és %2$d további szolgáltató számait.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Sajnos nem tudtuk hozzáadni a számokat az Ön szolgáltatóitól.</item>
+        <item quantity="one">Sajnos nem tudtunk hozzáadni &lt;b>1 számot&lt;/b> az Ön szolgáltatójától.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Sajnos nem tudtunk hozzáadni &lt;b>%2$d számot&lt;/b> a következő szolgáltatótól: %1$s.</item>
+        <item quantity="one">Sajnos nem tudtunk hozzáadni &lt;b>%2$d számot&lt;/b> a következő szolgáltatótól: %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Nem volt elég hely a(z) %1$s szolgáltatóhoz tartozó és %2$d további szolgáltató számainak hozzáadásához.</item>
+        <item quantity="one">Nem volt elég hely a(z) %1$s szolgáltatóhoz tartozó és %2$d további szolgáltató számainak hozzáadásához.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Nem volt elég hely ahhoz, hogy hozzáadjunk számokat bármelyik szolgáltatótól.</item>
+        <item quantity="one">Nem volt elég hely &lt;b>1 szám&lt;/b> hozzáadásához.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Nem volt elég hely, hogy hozzáadjunk &lt;b>%2$d számot&lt;/b> a következő szolgáltatótól: %1$s.</item>
+        <item quantity="one">Nem volt elég hely, hogy hozzáadjunk &lt;b>%2$d számot&lt;/b> a következő szolgáltatótól: %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Hozzáadott &lt;b>%1$d számot&lt;/b> a következő szolgáltatóktól: %2$s, %3$s és %4$d további</item>
+        <item quantity="one">Hozzáadott &lt;b>%1$d számot&lt;/b> a következő szolgáltatóktól: %2$s és %3$s</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Hozzáadott &lt;b>%1$d számot&lt;/b> a következő szolgáltatótól: %2$s</item>
+        <item quantity="one">Hozzáadott &lt;b>%1$d számot&lt;/b> a következő szolgáltatótól: %2$s</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d szám hozzáadva</item>
+        <item quantity="one">Telefonszám hozzáadva</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">A(z) %1$s szolgáltatótól származó &lt;b>%2$d számát&lt;/b> hozzá lehet adni a telefonhoz.</item>
+        <item quantity="one">A(z) %1$s szolgáltatótól származó számát hozzá lehet adni a telefonhoz.</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Hiba történt a számok aktiválása során. Később újra megpróbálkozhat vele a Beállítások között.</item>
+        <item quantity="one">Hiba történt a szám aktiválása során. Később újra megpróbálkozhat vele a Beállítások között.</item>
+    </plurals>
+</resources>

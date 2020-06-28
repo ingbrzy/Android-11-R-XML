@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d ಐಟಂಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">ಪ್ರಸ್ತುತವಿರುವ %1$d ಐಟಂಗಳಿಗಿಂತ ಹೊಸ ಆಲ್ಬಮ್‌ಗಳ ಗಾತ್ರವು ಹೆಚ್ಚಾಗಿರಬಹುದು.</item>
+        <item quantity="one">ಪ್ರಸ್ತುತವಿರುವ %1$d ಐಟಂಗಳಿಗಿಂತ ಹೊಸ ಆಲ್ಬಮ್‌ಗಳ ಗಾತ್ರವು ಹೆಚ್ಚಾಗಿರಬಹುದು.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">ಆಲ್ಬಮ್ %1$d ಐಟಂಗಳನ್ನು ಹೊಂದಿರಬಹುದು.</item>
+        <item quantity="one">ಆಲ್ಬಮ್ %1$d ಐಟಂಗಳನ್ನು ಹೊಂದಿರಬಹುದು.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d ಸ್ಥಳಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಸ್ಥಳಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d ಸ್ಥಳಗಳು</item>
+        <item quantity="one">%d ಸ್ಥಳಗಳು</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d ನಕ್ಷೆಗಳು</item>
+        <item quantity="one">%d ನಕ್ಷೆಗಳು</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d ನಕ್ಷೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ನಕ್ಷೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ವೀಡಿಯೊಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">ಈ ಆಲ್ಬಮ್‌ನಿಂದ ವೀಡಿಯೊಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ಐಟಂಗಳು</item>
+        <item quantity="one">%1$d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ಐಟಂಗಳು</item>
+        <item quantity="one">%d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">ಸಾಧನದಿಂದ ಅಳಿಸಿ (%d)</item>
+        <item quantity="one">ಸಾಧನದಿಂದ ಅಳಿಸಿ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">ಸಾಧನದಿಂದ ಎಲ್ಲವನ್ನು ಅಳಿಸಿ (%d)</item>
+        <item quantity="one">ಸಾಧನದಿಂದ ಎಲ್ಲವನ್ನು ಅಳಿಸಿ (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">(%d)ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಿ</item>
+        <item quantity="one">(%d)ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d ಆರ್ಕೈವ್‌‌ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಆರ್ಕೈವ್‌‌ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d ಅನ್ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಅನ್ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s ಮತ್ತು %3$d ಇತರರು</item>
+        <item quantity="one">%1$s, %2$s ಮತ್ತು %3$d ಇತರರು</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s ಮತ್ತು %2$d ಇತರರು</item>
+        <item quantity="one">%1$s ಮತ್ತು %2$d ಇತರರು</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">%d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿವೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">ನಿಮ್ಮ ಖಾತೆಯ ಸಂಗ್ರಹಣೆಯು ಪೂರ್ಣಗೊಂಡಿರುವುದರಿಂದ %d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗಿಲ್ಲ</item>
+        <item quantity="one">ನಿಮ್ಮ ಖಾತೆಯ ಸಂಗ್ರಹಣೆಯು ಪೂರ್ಣಗೊಂಡಿರುವುದರಿಂದ %d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ • ಉನ್ನತ ಗುಣಮಟ್ಟ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ • ಉನ್ನತ ಗುಣಮಟ್ಟ</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ • ಮೂಲ ಗುಣಮಟ್ಟ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬಾಕಿ ಉಳಿದಿವೆ • ಮೂಲ ಗುಣಮಟ್ಟ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d ಐಟಂಗಳು ಉಳಿದಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಉಳಿದಿವೆ</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಾಕಿ ಉಳಿದಿವೆ</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d ಫೋಟೋಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಿಲ್ಲ</item>
+        <item quantity="one">%1$d ಫೋಟೋಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್‌ ಆಗುತ್ತಿವೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳು ಬ್ಯಾಕಪ್‌ ಆಗುತ್ತಿವೆ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%dಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿವೆ</item>
+        <item quantity="one">%dಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿವೆ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d ವೀಡಿಯೊಗಳ ಅಪ್‌ಲೋಡ್</item>
+        <item quantity="one">%d ವೀಡಿಯೊಗಳ ಅಪ್‌ಲೋಡ್</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">ಅಪ್‌ಲೋಡ್ ಮಾಡಲು %d ಐಟಂಗಳು</item>
+        <item quantity="one">ಅಪ್‌ಲೋಡ್ ಮಾಡಲು %d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">ಅಪ್‌ಲೋಡ್ ಮಾಡಲು %d ವೀಡಿಯೊಗಳು</item>
+        <item quantity="one">ಅಪ್‌ಲೋಡ್ ಮಾಡಲು %d ವೀಡಿಯೊಗಳು</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d ಫೋಟೋಗಳು ಬ್ಯಾಕಪ್‌ ಆಗಿಲ್ಲ</item>
+        <item quantity="one">%d ಫೋಟೋಗಳು ಬ್ಯಾಕಪ್‌ ಆಗಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">ಎಲ್ಲ %d ಫೋಟೋಗಳು</item>
+        <item quantity="one">ಎಲ್ಲ %d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">ಖಾತೆಯ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿರುವುದರಿಂದ %1$d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲು ಆಗಲಿಲ್ಲ</item>
+        <item quantity="one">ಖಾತೆಯ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿರುವುದರಿಂದ %1$d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲು ಆಗಲಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">ನಿಮ್ಮ ಸಂಗ್ರಹಣೆಯು ಪೂರ್ಣಗೊಂಡಿರುವುದರಿಂದ %1$d ಫೋಟೋಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗಿಲ್ಲ</item>
+        <item quantity="one">ನಿಮ್ಮ ಸಂಗ್ರಹಣೆಯು ಪೂರ್ಣಗೊಂಡಿರುವುದರಿಂದ %1$d ಫೋಟೋಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">ಹೆಚ್ಚೆಂದರೆ %d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</item>
+        <item quantity="one">ಹೆಚ್ಚೆಂದರೆ %d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">ಕನಿಷ್ಠ %d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</item>
+        <item quantity="one">ಕನಿಷ್ಠ %d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">ದಯವಿಟ್ಟು ಐಟಂಗಳನ್ನು %d ದಿನದ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಆಯ್ಕೆಮಾಡಿ.</item>
+        <item quantity="one">ದಯವಿಟ್ಟು ಐಟಂಗಳನ್ನು %d ದಿನದ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಆಯ್ಕೆಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ದಿನಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dಗಂ</item>
+        <item quantity="one">%dಗಂ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ಗಂಟೆಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ಗಂಟೆಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dವಾ</item>
+        <item quantity="one">%dವಾ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d ವಾರಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ವಾರಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dನಿ</item>
+        <item quantity="one">%dನಿ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dದಿ</item>
+        <item quantity="one">%dದಿ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ದಿನಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">ಸಾಧನದಲ್ಲಿರುವ %1$d ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಿ</item>
+        <item quantity="one">ಸಾಧನದಲ್ಲಿರುವ %1$d ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಿ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d ಮೂಲ ಫೋಟೋಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%1$d ಮೂಲ ಫೋಟೋಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d ಐಟಂಗಳು</item>
+        <item quantity="one">%d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d ಹೊಸ ಕಾರ್ಡ್‌ಗಳು</item>
+        <item quantity="one">%d ಹೊಸ ಕಾರ್ಡ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳು</item>
+        <item quantity="one">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">%1$s, %2$s, ಮತ್ತು %3$d ಇತರರಿಂದ ವೀಕ್ಷಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$s, %2$s, ಮತ್ತು %3$d ಇತರರಿಂದ ವೀಕ್ಷಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ಕಾಮೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">%1$d ಕಾಮೆಂಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ಲೈಬ್ರರಿಗೆ ಐಟಂಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">ಲೈಬ್ರರಿಗೆ ಐಟಂಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s ಅವರು %2$d ಫೋಟೋಗಳನ್ನು ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ • %3$s</item>
+        <item quantity="one">%1$s liked %2$d photos • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s ಅವರು %2$d ವೀಡಿಯೊ ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ • %3$s</item>
+        <item quantity="one">%1$s ಅವರು %2$d ವೀಡಿಯೊ ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">ಸಾಧನದಲ್ಲಿನ ಫೋಲ್ಡರ್‌ ಮತ್ತು %d ಐಟಂಗಳನ್ನು ಅಳಿಸಿ</item>
+        <item quantity="one">ಸಾಧನದಲ್ಲಿನ ಫೋಲ್ಡರ್‌ ಮತ್ತು %d ಐಟಂಗಳನ್ನು ಅಳಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">(%d) ಸಾಧನದಿಂದ ಅಳಿಸಿ</item>
+        <item quantity="one">(%d) ಸಾಧನದಿಂದ ಅಳಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ನಕಲು ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ನಕಲು ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ನಕಲಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ನಕಲಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಸರಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಸರಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಸರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಸರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d ಶಿಫಾರಸು ಮಾಡಲಾದ ಶಾಟ್‌ಗಳು</item>
+        <item quantity="one">%d ಶಿಫಾರಸು ಮಾಡಲಾದ ಶಾಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d ವರ್ಷಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ವರ್ಷದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">ಅಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ %d ಡಿಗ್ರಿಗಳಷ್ಟು ತಿರುಗಿಸಿ</item>
+        <item quantity="one">ಅಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ %d ಡಿಗ್ರಿಗಳಷ್ಟು ತಿರುಗಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d ಜನರ ಫೋಟೋಗಳು</item>
+        <item quantity="one">%d ಜನರ ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %d ಫೋಟೋಗಳು</item>
+        <item quantity="one">ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d ಮುಖಗಳನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಮುಖಗಳನ್ನು ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s ದಿನಾಂಕದಿಂದ ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %1$d ಫೋಟೋಗಳು</item>
+        <item quantity="one">%2$s ದಿನಾಂಕದಿಂದ ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %1$d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %d ಫೋಟೋಗಳು</item>
+        <item quantity="one">ಆಯ್ಕೆ ಮಾಡಿದ ಮುಖಗಳ %d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d ಜನರನ್ನು ಮಾತ್ರ ಆಯ್ಕೆಮಾಡಿ</item>
+        <item quantity="one">%d ಜನರನ್ನು ಮಾತ್ರ ಆಯ್ಕೆಮಾಡಿ</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d ಫೋಟೋಗಳು</item>
+        <item quantity="one">%1$d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">%d ಫೋಟೋಗಳನ್ನು ಮಾತ್ರ ಮುದ್ರಿಸಬಹುದು,</item>
+        <item quantity="one">%d ಫೋಟೋಗಳನ್ನು ಮಾತ್ರ ಮುದ್ರಿಸಬಹುದು,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">ನಿಮಗಾಗಿ %d ಫೋಟೋಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">ನಿಮಗಾಗಿ %d ಫೋಟೋಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d ಫೋಟೋಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಫೋಟೋಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d ಹೆಚ್ಚುವರಿ ಪುಟಗಳು</item>
+        <item quantity="one">%d ಹೆಚ್ಚುವರಿ ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d ಪುಟಗಳು</item>
+        <item quantity="one">%d ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">ಖರೀದಿಸಲು ಹೆಚ್ಚುವರಿ %d ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಿ</item>
+        <item quantity="one">ಖರೀದಿಸಲು ಹೆಚ್ಚುವರಿ %d ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d ಪುಟಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಪುಟಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d ಪುಟಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಪುಟಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d ಹೆಚ್ಚು ಪುಟಗಳು</item>
+        <item quantity="one">%d ಹೆಚ್ಚು ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d ಪುಟಗಳು</item>
+        <item quantity="one">%d ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d ಫೋಟೋಗಳನ್ನು %2$s ಗಾತ್ರದ ಪ್ರಿಂಟ್‌ಗಳಿಗಾಗಿ ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಫೋಟೋಗಳನ್ನು %2$s ಗಾತ್ರದ ಪ್ರಿಂಟ್‌ಗಳಿಗಾಗಿ ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">ಪ್ರತಿ ಆರ್ಡರ್‌ಗಾಗಿ ನೀವು %1$d %2$s ಪ್ರಿಂಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಆಯ್ಕೆಮಾಡಬಹುದು</item>
+        <item quantity="one">ಪ್ರತಿ ಆರ್ಡರ್‌ಗಾಗಿ ನೀವು %1$d %2$s ಪ್ರಿಂಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಆಯ್ಕೆಮಾಡಬಹುದು</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">ನಿಮ್ಮ ಡ್ರಾಫ್ಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ ಕನಿಷ್ಠ %1$d ಫೋಟೋಗಳ ಅಗತ್ಯವಿದೆ.</item>
+        <item quantity="one">ನಿಮ್ಮ ಡ್ರಾಫ್ಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ ಕನಿಷ್ಠ %1$d ಫೋಟೋಗಳ ಅಗತ್ಯವಿದೆ.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d ಪ್ರಿಂಟ್‌ಗಳು</item>
+        <item quantity="one">%1$d ಪ್ರಿಂಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%2$d ರಲ್ಲಿ %1$d ಐಟಂಗಳನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%2$d ರಲ್ಲಿ %1$dಐಟಂಗಳನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಬೇಕೆ?</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಬೇಕೆ?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d ಇತ್ತೀಚಿನ ಐಟಂಗಳನ್ನು ಸಾಧನಕ್ಕೆ ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಇತ್ತೀಚಿನ ಐಟಂಗಳನ್ನು ಸಾಧನಕ್ಕೆ ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">"%1$d ಫೋಟೋಗಳನ್ನು  ವೀಡಿಯೊಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ"</item>
+        <item quantity="one">"%1$d ಫೋಟೋಗಳನ್ನು  ವೀಡಿಯೊಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ"</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d ಫೋಟೋಗಳು</item>
+        <item quantity="one">%d ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">ಆಲ್ಬಮ್‌ಗೆ %d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಆಲ್ಬಮ್‌ಗೆ %d ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d ಸಂಪರ್ಕಗೊಂಡಾಗ ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗೊಂಡಾಗ ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">ನಿಜವಾದ ಫೈಲ್‌ಗಳು</item>
+        <item quantity="one">ನಿಜವಾದ ಫೈಲ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">ಫೈಲ್‌ಗಳು</item>
+        <item quantity="one">ಫೈಲ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">ಚಿಕ್ಕ ಫೈಲ್‌ಗಳು</item>
+        <item quantity="one">ಚಿಕ್ಕ ಫೈಲ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s ಮತ್ತು %2$d ಇತರರು</item>
+        <item quantity="one">%1$s ಮತ್ತು %2$d ಇತರರು</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ಐಟಂಗಳು</item>
+        <item quantity="one">%d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">%d ಸಂಬಂಧಿತ ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಬೇಕೆ?</item>
+        <item quantity="one">%d ಸಂಬಂಧಿತ ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಬೇಕೆ?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d ಫೋಟೋಗಳನ್ನು ಸ್ವಯಂ-ಸೇರಿಸಿದೆ</item>
+        <item quantity="one">%1$d ಫೋಟೋಗಳನ್ನು ಸ್ವಯಂ-ಸೇರಿಸಿದೆ</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d ಹೊಸ ಫೋಟೋಗಳು</item>
+        <item quantity="one">%1$d ಹೊಸ ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s%2$d ಹೊಸ ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$s%2$d ಹೊಸ ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item quantity="one">ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">ಸಾಧನದಿಂದ %d ಅಳಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಸಾಧನದಿಂದ %d ಅಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ...</item>
+        <item quantity="one">ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ...</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ಐಟಂಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">ಐಟಂಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">ಶಾಶ್ವತವಾಗಿ %d ಐಟಂಗಳನ್ನು ಅಳಿಸಿ</item>
+        <item quantity="one">ಶಾಶ್ವತವಾಗಿ %d ಐಟಂಗಳನ್ನು ಅಳಿಸಿ</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">ಈ ಆವೃತ್ತಿಯ ಅವಧಿ ಮುಗಿಯಲು %d ದಿನಗಳು ಉಳಿದಿವೆ. Google ಫೋಟೋಗಳು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು, ಈಗಲೇ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ.</item>
+        <item quantity="one">ಈ ಆವೃತ್ತಿಯ ಅವಧಿ ಮುಗಿಯಲು %d ದಿನಗಳು ಉಳಿದಿವೆ. Google ಫೋಟೋಗಳು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು, ಈಗಲೇ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">ಸಂಪರ್ಕಗೊಂಡಾಗ %d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+        <item quantity="one">ಸಂಪರ್ಕಗೊಂಡಾಗ %d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">ವೈ-ಫೈಗೆ ಸಂಪರ್ಕಗೊಂಡಾಗ %d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+        <item quantity="one">ವೈ-ಫೈಗೆ ಸಂಪರ್ಕಗೊಂಡಾಗ %d ಐಟಂಗಳು ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತವೆ</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">ಅಪ್‌ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…%d ಉಳಿದಿದೆ</item>
+        <item quantity="one">ಅಪ್‌ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…%d ಉಳಿದಿದೆ</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ಫೈಲ್‌ಗಳು</item>
+        <item quantity="one">%d ಫೈಲ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s ಫೋಟೋಗಳು</item>
+        <item quantity="one">%s ಫೋಟೋಗಳು</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ಐಟಂಗಳು</item>
+        <item quantity="one">%s ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s ವೀಡಿಯೊಗಳು</item>
+        <item quantity="one">%s ವೀಡಿಯೊಗಳು</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">ಫೋಟೋಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+        <item quantity="one">ಫೋಟೋಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+        <item quantity="one">ಐಟಂಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">ವೀಡಿಯೊಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+        <item quantity="one">ವೀಡಿಯೊಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+    </plurals>
+</resources>

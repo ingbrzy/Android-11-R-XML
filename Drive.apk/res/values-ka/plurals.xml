@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">ნაჩვენებია %1$d ერთეული.</item>
+        <item quantity="one">ნაჩვენებია %1$d ერთეული.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d კომენტარი</item>
+        <item quantity="one">%1$d კომენტარი</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">ქმედების ერთეულები: %1$d შემდგომი ერთეული</item>
+        <item quantity="one">ქმედების ერთეულები: %1$d შემდგომი ერთეული</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">ერთეულები სამუდამოდ წაიშალა</item>
+        <item quantity="one">ერთეული სამუდამოდ წაიშალა</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s ელფოსტის სწორი მისამართი არ არის.</item>
+        <item quantity="one">%s ელფოსტის სწორი მისამართი არ არის.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">ამ ფაილების დამატებით ისინი გაზიარდება ყველასთან, ვისაც აქვს წვდომა გაზიარებულ საქაღალდეზე %1$s</item>
+        <item quantity="one">ამ ფაილის დამატებით ის გაზიარდება ყველასთან, ვისაც აქვს წვდომა გაზიარებულ საქაღალდეზე %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">ამ საქაღალდეების დამატებით ის გაზიარდება ყველასთან, ვისაც აქვს წვდომა გაზიარებულ საქაღალდეზე %1$s</item>
+        <item quantity="one">ამ საქაღალდის დამატებით ის გაზიარდება ყველასთან, ვისაც აქვს წვდომა გაზიარებულ საქაღალდეზე %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">გსურთ ამ ფაილების გაზიარება?</item>
+        <item quantity="one">გსურთ ამ ფაილის გაზიარება?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">გსურთ ამ საქაღალდეების გაზიარება?</item>
+        <item quantity="one">გსურთ ამ საქაღალდის გაზიარება?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">განახლდა %1$d საქაღალდე. დაყენებულია %2$s ფერი.</item>
+        <item quantity="one">განახლდა %1$d საქაღალდე. დაყენებულია %2$s ფერი.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">გამოიყენეთ ფილტრები:</item>
+        <item quantity="one">გამოიყენეთ ფილტრი:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">ვადა ეწურება %1$d დღეში</item>
+        <item quantity="one">ვადა ეწურება %1$d დღეში</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">ამ სარეზერვო ასლს ვადა ამოეწურება %1$d დღეში, თუ მოწყობილობა არააქტიური დარჩება.</item>
+        <item quantity="one">ამ სარეზერვო ასლს ვადა ამოეწურება %1$d დღეში, თუ მოწყობილობა არააქტიური დარჩება.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">სარეზერვო ასლი წაიშალა.</item>
+        <item quantity="one">სარეზერვო ასლი წაიშალა.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d სვეტი.</item>
+        <item quantity="one">%1$d სვეტი.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d გაყინული სვეტი.</item>
+        <item quantity="one">%1$d გაყინული სვეტი.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d გაყინული მწკრივი.</item>
+        <item quantity="one">%1$d გაყინული მწკრივი.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d მწკრივი.</item>
+        <item quantity="one">%1$d მწკრივი.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s %2$d ერთეულისთვის</item>
+        <item quantity="one">%1$s %2$d ერთეულისთვის</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s პასუხი</item>
+        <item quantity="one">%1$s პასუხი</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">ერთეულის ჩამოტვირთვა ვერ მოხერხდა</item>
+        <item quantity="one">ერთეულის ჩამოტვირთვა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">ჩამოიტვირთება %1$d ერთეული. დეტალებისთვის იხილეთ შეტყობინება</item>
+        <item quantity="one">ჩამოიტვირთება %1$d ერთეული. დეტალებისთვის იხილეთ შეტყობინება</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">ჩამოიტვირთება %1$d ერთეული.</item>
+        <item quantity="one">ჩამოიტვირთება %1$d ერთეული.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s და %2$d სხვა ერთეული</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s ერთეულის ჩამოტვირთვა ვერ მოხერხდა</item>
+        <item quantity="one">%1$s ერთეულის ჩამოტვირთვა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d სხვა ერთეული</item>
+        <item quantity="one">%1$d სხვა ერთეული</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d / %2$d-დან ვერ ჩამოიტვირთა</item>
+        <item quantity="one">%1$d / %2$d-დან ვერ ჩამოიტვირთა</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">მოხდა შეცდომა ფაილების გადატანისას.</item>
+        <item quantity="one">მოხდა შეცდომა ფაილის გადატანისას.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d სტუმარი</item>
+        <item quantity="one">%d სტუმარი</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d მალსახმობი დაემატა „%1$s“-ს</item>
+        <item quantity="one">მალსახმობი დაემატა „%1$s“-ს</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">მალსახმობების დამატება შეუძლებელია. სცადეთ ხელახლა</item>
+        <item quantity="one">მალსახმობის დამატება შეუძლებელია. სცადეთ ხელახლა</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">„%1$s“-ის წევრები დაკარგავენ წვდომას, თუ ეს ერთეულები მათთან გაზიარებული არ არის. „%2$s“-ის წევრები მიიღებენ წვდომას ამ ერთეულებზე.</item>
+        <item quantity="one">„%1$s“-ის წევრები დაკარგავენ წვდომას თუ ეს ერთეული მათთან გაზიარებული არ არის. „%2$s“-ის წევრები მიიღებენ წვდომას ამ ერთეულზე.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">„%1$s“-ის წევრები დაკარგავენ წვდომას, თუ ეს ერთეულები მათთან გაზიარებული არ არის. „%2$s“-ის წევრები მიიღებენ წვდომას ამ ერთეულებზე. თქვენ გაქვთ ერთეულების მხოლოდ დამატებისა და რედაქტირების ნებართვა „%3$s“-ში, ამიტომ ამ ქმედების გაუქმებას ვერ შეძლებთ.</item>
+        <item quantity="one">„%1$s“-ის წევრები დაკარგავენ წვდომას თუ ეს ერთეული მათთან გაზიარებული არ არის. „%2$s“-ის წევრები მიიღებენ წვდომას ამ ერთეულზე. თქვენ გაქვთ ერთეულების მხოლოდ დამატებისა და რედაქტირების ნებართვა „%3$s“-ში, ამიტომ ამ ქმედების გაუქმებას ვერ შეძლებთ.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">ზოგიერთმა ფაილმა, რომლის გადატანაც მიმდინარეობს „ %1$s“-ში\", გაააქტიურა DLP აღმოჩენები. შესაძლოა ამ ფაილებში იყოს სენსიტიური ინფორმაცია.</item>
+        <item quantity="one">ფაილმა, რომლის გადატანაც მიმდინარეობს „ %1$s“-ში\", გაააქტიურა DLP აღმოჩენები. შესაძლოა ამ ფაილში იყოს სენსიტიური ინფორმაცია.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">„%1$s“-ის წევრები დაკარგავენ წვდომას, თუ ეს ერთეულები მათთან გაზიარებული არ არის.</item>
+        <item quantity="one">„%1$s“-ის წევრები დაკარგავენ წვდომას თუ ეს ერთეული მათთან გაზიარებული არ არის.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">ამ ერთეულების გადატანა გააზიარებს მათ ყველასთან, ვისაც შეუძლია ნახოს გაზიარებული საქაღალდე „%1$s“. „%2$s“-ის წევრები დაკარგავენ წვდომას, თუ ეს ერთეულები მათთან გაზიარებული არ არის.</item>
+        <item quantity="one">ამ ერთეულის გადატანა გააზიარებს მას ყველასთან, ვისაც შეუძლია ნახოს გაზიარებული საქაღალდე „%1$s“. „%2$s“-ის წევრები დაკარგავენ წვდომას, თუ ეს ერთეული მათთან გაზიარებული არ არის.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">თქვენ გადაგაქვთ ზოგიერთი ერთეული გაზიარებული საქაღალდიდან. შესაბამისად, ადამიანები დაკარგავენ წვდომას ამ ერთეულებზე.</item>
+        <item quantity="one">თქვენ გადაგაქვთ ერთეული გაზიარებული საქაღალდიდან. შესაბამისად, ადამიანები დაკარგავენ წვდომას ამ ერთეულზე.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">ამ ერთეულებიდან ამოიშლება დამატებითი შეზღუდვები.</item>
+        <item quantity="one">ამ ერთეულიდან ამოიშლება დამატებითი შეზღუდვები.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">ამ ფაილების გადატანით ისინი გაზიარდება ყველასთან, ვისაც წვდომა აქვს გაზიარებულ საქაღალდეზე: %1$s</item>
+        <item quantity="one">ამ ფაილის გადატანით ის გაზიარდება ყველასთან, ვისაც წვდომა აქვს გაზიარებულ საქაღალდეზე: %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">ამ საქაღალდეების გადატანით ის გაზიარდება ყველასთან, ვისაც წვდომა აქვს გაზიარებულ საქაღალდეზე: %1$s</item>
+        <item quantity="one">ამ საქაღალდის გადატანით ის გაზიარდება ყველასთან, ვისაც წვდომა აქვს გაზიარებულ საქაღალდეზე: %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">გსურთ ამ ფაილების გაზიარება?</item>
+        <item quantity="one">გსურთ ამ ფაილის გაზიარება?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">გსურთ ამ საქაღალდეების გაზიარება?</item>
+        <item quantity="one">გსურთ ამ საქაღალდის გაზიარება?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">თქვენ არ გაქვთ ზოგიერთი ერთეულის გადატანის ნებართვა მათი საზიარო Drive-იდან.</item>
+        <item quantity="one">თქვენ არ გაქვთ ამ ერთეულის გადატანის ნებართვა მისი საზიარო Drive-იდან.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">თქვენ არ გაქვთ ზოგიერთი ერთეულის მათი საქაღალდიდან გადატანის ნებართვა.</item>
+        <item quantity="one">თქვენ არ გაქვთ ამ ერთეულის მისი საქაღალდიდან გადატანის ნებართვა.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">ამ ფაილების გადატანას ვერ შეძლებთ, რადგან მისი მფლობელი არ ეკუთვნის %1$s-ს.</item>
+        <item quantity="one">ამ ფაილის გადატანას ვერ შეძლებთ, რადგან მისი მფლობელი არ ეკუთვნის %1$s-ს.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s „%2$s“-ს ახლა მათზე წვდომა შეუძლია.</item>
+        <item quantity="one">%1$s „%2$s“-ს ახლა მასზე წვდომა შეუძლია.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d ერთ. გადავიდა საზიარო დისკში. წევრებს წვდომა შეუძლიათ.</item>
+        <item quantity="one">1 ერთეული გადავიდა საზიარო დისკში. წევრებს წვდომა შეუძლიათ.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d ერთ. გადავიდა საზიარო Drive-იდან. წევრებმა წვდ. დაკარგეს.</item>
+        <item quantity="one">%1$d ერთ. გადავიდა საზიარო Drive-იდან. წევრებმა წვდომა დაკარგეს.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d ერთეული</item>
+        <item quantity="one">%1$d ერთეული</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d დამმტკიცებელი</item>
+        <item quantity="one">1 დამმტკიცებელი</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s ქმედების ერთეული</item>
+        <item quantity="one">%1$s ქმედების ერთეული</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s უპასუხო ხსენება</item>
+        <item quantity="one">%1$s უპასუხო ხსენება</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s შეთავაზება</item>
+        <item quantity="one">%1$s შეთავაზება</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s საქმე</item>
+        <item quantity="one">%1$s საქმე</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">ერთეული სამუდამოდ წაიშალა</item>
+        <item quantity="one">ერთეული სამუდამოდ წაიშალა</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d / %2$s-დან ახლა ხელმისაწვდომია ხაზგარეშე.</item>
+        <item quantity="one">%1$d / %2$s-დან ახლა ხელმისაწვდომია ხაზგარეშე.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d-ვე ფაილი ახლა ხელმისაწვდომია ხაზგარეშე.</item>
+        <item quantity="one">%1$d ფაილი ახლა ხელმისაწვდომია ხაზგარეშე.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">ფაილები ხაზგარეშე ხელმისაწვდომი ვერ გახდება</item>
+        <item quantity="one">ფაილი ხაზგარეშე ხელმისაწვდომი ვერ გახდება</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d ფაილი ხაზგარეშე ხელმისაწვდომი ხდება.</item>
+        <item quantity="one">%1$d ფაილი ხაზგარეშე ხელმისაწვდომი ხდება.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d ფაილი</item>
+        <item quantity="one">%1$d ფაილი</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">ჩამოტვირთვა დაპაუზდა. ელოდება ქსელს…</item>
+        <item quantity="one">ჩამოტვირთვა დაპაუზდა. ელოდება ქსელს…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d ჩამოტვირთვა დაპაუზდა.</item>
+        <item quantity="one">%1$d ჩამოტვირთვა დაპაუზდა.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">ჩამოტვირთვა დაპაუზდა. ელოდება Wi-Fi-ს…</item>
+        <item quantity="one">ჩამოტვირთვა დაპაუზდა. ელოდება Wi-Fi-ს…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d ერთეული წაშლილებში გადავა. ამ მოქმედებით ისინი ასევე წაიშლება Google Photos-იდან.</item>
+        <item quantity="one">ერთი ერთეული წაშლილებში გადავა. ამ მოქმედებით ის ასევე წაიშლება Google Photos-იდან.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d ერთეული წაშლილებში გადავა.</item>
+        <item quantity="one">ერთი ერთეული წაშლილებში გადავა.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">შემდგომი ქმედების %1$s ერთეული</item>
+        <item quantity="one">შემდგომი ქმედების %1$s ერთეული</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">შემდგომი ქმედების %1$s ერთეული</item>
+        <item quantity="one">შემდგომი ქმედების %1$s ერთეული</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">შემდგომი ქმედება</item>
+        <item quantity="one">შემდგომი ქმედება</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">დატოვეს კომენტარი %1$d ფაილზე</item>
+        <item quantity="one">დატოვეს კომენტარი ფაილზე</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">დატოვა კომენტარი %1$d ფაილზე</item>
+        <item quantity="one">დატოვა კომენტარი ფაილზე</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">დატოვეს კომენტარი ამ ფაილზე</item>
+        <item quantity="one">დატოვა კომენტარი ამ ფაილზე</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">შექმნეს %1$d ერთეული</item>
+        <item quantity="one">შექმნეს ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">შექმნა %1$d ერთეული</item>
+        <item quantity="one">შექმნა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">შექმნეს ეს ფაილი</item>
+        <item quantity="one">შექმნა ეს ფაილი</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">შექმნეს ეს საქაღალდე</item>
+        <item quantity="one">შექმნა ეს საქაღალდე</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">დაარედაქტირეს %1$d ერთეული</item>
+        <item quantity="one">დაარედაქტირეს ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">დაარედაქტირა %1$d ერთეული</item>
+        <item quantity="one">დაარედაქტირა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">შეიტანეს ცვლილებები ამ ფაილში</item>
+        <item quantity="one">შეიტანა ცვლილებები ამ ფაილში</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">სამუდამოდ წაშალა %1$d ერთეული</item>
+        <item quantity="one">სამუდამოდ წაშალა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">გადაიტანეს %1$d ერთეული აქ:</item>
+        <item quantity="one">გადაიტანეს ერთეული აქ:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">გადაიტანა %1$d ერთეული აქ:</item>
+        <item quantity="one">გადაიტანა ერთეული აქ:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">გადაიტანეს %1$d ერთეული</item>
+        <item quantity="one">გადაიტანეს ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">გადაიტანა %1$d ერთეული</item>
+        <item quantity="one">გადაიტანა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">გადაიტანეს ეს ფაილი</item>
+        <item quantity="one">გადაიტანა ეს ფაილი</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">გადაიტანეს ეს ფაილი აქ:</item>
+        <item quantity="one">გადაიტანა ეს ფაილი აქ:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">გადაიტანეს ეს საქაღალდე</item>
+        <item quantity="one">გადაიტანა ეს საქაღალდე</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">გადაიტანეს ეს საქაღალდე აქ:</item>
+        <item quantity="one">გადაიტანა ეს საქაღალდე აქ:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">გადაარქვეს %1$d ერთეულს</item>
+        <item quantity="one">გადაარქვეს ერთეულს</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">გადაარქვა %1$d ერთეულს</item>
+        <item quantity="one">გადაარქვა ერთეულს</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">გადაარქვეს ამ ფაილს</item>
+        <item quantity="one">გადაარქვა ამ ფაილს</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">გადაარქვეს ამ საქაღალდეს</item>
+        <item quantity="one">გადაარქვა ამ საქაღალდეს</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">გააზიარეს %1$d ერთეული</item>
+        <item quantity="one">გააზიარეს ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">გააზიარა %1$d ერთეული</item>
+        <item quantity="one">გააზიარა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">გააზიარეს ეს ფაილი</item>
+        <item quantity="one">გააზიარა ეს ფაილი</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">გააზიარეს ეს საქაღალდე</item>
+        <item quantity="one">გააზიარა ეს საქაღალდე</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">გადაიტანეს %1$d ერთეული წაშლილებში</item>
+        <item quantity="one">გადაიტანეს ერთეული წაშლილებში</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">გადაიტანეს %1$d ერთეული წაშლილებში</item>
+        <item quantity="one">გადაიტანა ერთეული წაშლილებში</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">წაშალეს ეს ფაილი</item>
+        <item quantity="one">წაშალა ეს ფაილი</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">წაშალეს ეს საქაღალდე</item>
+        <item quantity="one">წაშალა ეს საქაღალდე</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">ატვირთეს %1$d ერთეული</item>
+        <item quantity="one">ატვირთეს ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">ატვირთა %1$d ერთეული</item>
+        <item quantity="one">ატვირთა ერთეული</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">ატვირთეს ეს ფაილი</item>
+        <item quantity="one">ატვირთა ეს ფაილი</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">ატვირთეს ეს საქაღალდე</item>
+        <item quantity="one">ატვირთა ეს საქაღალდე</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d ფაილი გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში</item>
+        <item quantity="one">ეს ფაილი გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$dსაქაღალდე გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში.</item>
+        <item quantity="one">საქაღალდე გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d ერთეული გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში.</item>
+        <item quantity="one">ერთეული გადავა %2$s-ის წაშლილებში და სამუდამოდ წაიშლება 30 დღეში</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">ეს %1$d ფაილი &lt;b>სამუდამოდ წაიშლება ყველასათვის.&lt;/b> ამ მოქმედებას ვერ გააუქმებთ.</item>
+        <item quantity="one">ეს ფაილი &lt;b>სამუდამოდ წაიშლება ყველასათვის.&lt;/b> ამ მოქმედებას ვერ გააუქმებთ.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">ეს %1$d ფაილი სამუდამოდ წაიშლება. ამ მოქმედების გაუქმება შეუძლებელია.</item>
+        <item quantity="one">ეს ფაილი სამუდამოდ წაიშლება. ამ მოქმედების გაუქმება შეუძლებელია.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d ერთეული</item>
+        <item quantity="one">%1$d ერთეული</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d ერთეული არჩეულია</item>
+        <item quantity="one">%1$d ერთეული არჩეულია</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d ერთეულის არჩევა გაუქმებულია</item>
+        <item quantity="one">%1$d ერთეულის არჩევა გაუქმებულია</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">ფაილები ხაზგარეშე ხელმისაწვდომი გახდება</item>
+        <item quantity="one">ფაილი ხაზგარეშე ხელმისაწვდომი გახდება</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d ერთეული მოინიშნა ვარსკვლავით</item>
+        <item quantity="one">1 ერთეული მოინიშნა ვარსკვლავით</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">ფაილები ხაზგარეშე ხელმისაწვდომი აღარ იქნება</item>
+        <item quantity="one">ფაილი ხაზგარეშე ხელმისაწვდომი აღარ იქნება</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d ერთეულიდან მოხსნილია ვარსკვლავი</item>
+        <item quantity="one">1 ერთეულიდან მოხსნილია ვარსკვლავი</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d ერთეული აღდგენილია</item>
+        <item quantity="one">1 ერთეული აღდგენილია</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">აღდგენილია %1$d ერთეული</item>
+        <item quantity="one">აღდგენილია 1 ერთეული</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d ერთეული წაშლილია „%2$s“-დან</item>
+        <item quantity="one">1 ერთეული წაშლილია „ %2$s“-დან</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d ერთეული წაშლილია საქაღალდიდან</item>
+        <item quantity="one">1 ერთეული წაშლილია საქაღალდიდან</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d ერთეული წაიშალა</item>
+        <item quantity="one">1 ერთეული წაიშალა</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d ერთეული დაბრუნებულია</item>
+        <item quantity="one">1 ერთეული დაბრუნებულია</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d ერთეული დაბრუნებულია წაშლილებში</item>
+        <item quantity="one">1 iერთეული დაბრუნებულია წაშლილებში</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d ერთეული წაიშალა</item>
+        <item quantity="one">1 ერთეული წაიშალა</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d ერთეული დაემატა „%2$s“-ში</item>
+        <item quantity="one">1 ერთეული დაემატა „%2$s“-ში</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d ერთეული დამატებულია</item>
+        <item quantity="one">1 ერთეული დამატებულია</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d ერთეული აღდგენილი და დამატებულია „%2$s“-ში</item>
+        <item quantity="one">1 ერთეული აღდგენილი და დამატებულია „%2$s“-ში</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d ერთეული გადატანილია „%2$s“-ში.</item>
+        <item quantity="one">1 ერთეული გადატანილია „%2$s“-ში.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d ერთეული გადატანილია</item>
+        <item quantity="one">1 ერთეული გადატანილია</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d ერთეული აღდგენილი და გადატანილია „%2$s“-ში.</item>
+        <item quantity="one">1 ერთეული აღდგენილი და გადატანილია „%2$s“-ში.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d ერთეული აღდგენილია.</item>
+        <item quantity="one">1 ერთეული აღდგენილია</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d ერთეული აღდგენილია „%2$s“-ში.</item>
+        <item quantity="one">1 ერთეული აღდგენილია „%2$s“-ში.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">ფაილების გაგზავნა აპით</item>
+        <item quantity="one">ფაილის გაგზავნა აპით</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">ახლა წვდომა შეუძლია %1$d ადამიანს</item>
+        <item quantity="one">ახლა წვდომა შეუძლია ერთ ადამიანს</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">ახლა წვდომა აქვს %1$s-სა და %2$d სხვას</item>
+        <item quantity="one">ახლა წვდომა აქვს %1$s-ს და ერთ სხვას</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">ახლა კომენტარების დამატება %1$d ადამიანს შეუძლია</item>
+        <item quantity="one">ახლა კომენტარების დამატება ერთ ადამიანს შეუძლია</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">ახლა კომენტარებ. დამატება %1$s-ს და %2$d სხვას შეუძლიათ</item>
+        <item quantity="one">ახლა კომენტარებ. დამატება %1$s-ს და ერთ სხვას შეუძლიათ</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">ახლა რედაქტირება %1$d ადამიანს შეუძლია</item>
+        <item quantity="one">ახლა რედაქტირება ერთ ადამიანს შეუძლია</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">ახლა რედაქტირება %1$s-ს და %2$d სხვას შეუძლიათ</item>
+        <item quantity="one">ახლა რედაქტირება %1$s-ს და ერთ სხვას შეუძლიათ</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">ახლა ნახვა %1$d ადამიანს შეუძლია</item>
+        <item quantity="one">ახლა ნახვა ერთ ადამიანს შეუძლია</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">ახლა ნახვა %1$s-ს და %2$d სხვას შეუძლიათ</item>
+        <item quantity="one">ახლა ნახვა %1$s-ს და ერთ სხვას შეუძლიათ</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Drive მეხს.ვადა ეწურება %1$d დღეში</item>
+        <item quantity="one">Drive მეხს.ვადა ეწურება %1$d დღეში</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">საზიარო Drive-ს დაემატა %1$d ადამიანი</item>
+        <item quantity="one">საზიარო Drive-ს დაემატა ერთი ადამიანი</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s და %3$d სხვა დაემატა %1$s-ს</item>
+        <item quantity="one">%2$s და ერთი სხვა დაემატა %1$s-ს</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d წევრი</item>
+        <item quantity="one">1 წევრი</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">ყველას ახლავე განახლება</item>
+        <item quantity="one">ახლავე განახლება</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$d ფაილის ატვირთვა გაუქმდა.</item>
+        <item quantity="one">%1$d ფაილის ატვირთვა გაუქმდა.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d ფაილის ატვირთვის დაგეგმვა ვერ ხერხდება.</item>
+        <item quantity="one">%1$d ფაილის ატვირთვის დაგეგმვა ვერ ხერხდება.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d ფაილი აიტვირთა.</item>
+        <item quantity="one">%1$d ფაილი აიტვირთა.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">ვერ ხერხდება ატვირთვა: %1$d / %2$d ფაილიდან.</item>
+        <item quantity="one">ვერ ხერხდება ატვირთვა: %1$d / %2$d ფაილიდან.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">მიმდინარეობს %1$d ფაილის ატვირთვა.</item>
+        <item quantity="one">მიმდინარეობს %1$d ფაილის ატვირთვა.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">ატვირთვა დაპაუზდა. ელოდება ქსელს…</item>
+        <item quantity="one">ატვირთვა დაპაუზდა. ელოდება ქსელს…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d ატვირთვა დაპაუზდა.</item>
+        <item quantity="one">%1$d ატვირთვა დაპაუზდა.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">ატვირთვა დაპაუზდა, ელოდება Wi-Fi-ს…</item>
+        <item quantity="one">ატვირთვა დაპაუზდა, ელოდება Wi-Fi-ს…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d ფაილი მზადდება ასატვირთად.</item>
+        <item quantity="one">%1$d ფაილი მზადდება ასატვირთად.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">მიმდინარეობს თქვენი %1$d ფაილის ატვირთვა %2$s-ში</item>
+        <item quantity="one">მიმდინარეობს თქვენი %1$d ფაილის ატვირთვა %2$s-ში</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$d ფაილის ნახვა</item>
+        <item quantity="one">%1$d ფაილის ნახვა</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%1$d ფაილის ნახვა %2$s-ში</item>
+        <item quantity="one">%1$d ფაილის ნახვა %2$s-ში</item>
+    </plurals>
+</resources>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_slice_permission_allow">Povolit</string>
+    <string name="abc_slice_permission_checkbox">Povolit aplikaci %1$s zobrazovat ukázky z libovolné aplikace</string>
+    <string name="abc_slice_permission_deny">Zamítnout</string>
+    <string name="abc_slice_permission_text_1">– Může číst informace z aplikace %1$s</string>
+    <string name="abc_slice_permission_text_2">– Může provádět akce v aplikaci %1$s</string>
+    <string name="abc_slice_permission_title">Povolit aplikaci %1$s zobrazovat ukázky z aplikace %2$s?</string>
+    <string name="abc_slices_permission_request">Aplikace %1$s chce zobrazovat ukázky z aplikace %2$s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="all_topics_header_text">Všechna témata</string>
+    <string name="allset_description">"Telefon je připraven k použití.
+
+Můžete vypnout navigaci gesty a pomocí tlačítek přejít zpět, na plochu a přepnout aplikace.
+"<annotation id="link">Přejít do Nastavení</annotation></string>
+    <string name="allset_hint">Začněte přejetím nahoru</string>
+    <string name="allset_page_title">Vše je nastaveno</string>
+    <string name="allset_setting_link">Nastavení navigace pro usnadnění přístupu</string>
+    <string name="allset_title">Hotovo!</string>
+    <string name="app_name">Tipy pro Pixel</string>
+    <string name="article_helpful_feedback_toast">Děkujeme vám za zpětnou vazbu. Pomůže nám v budoucnu.</string>
+    <string name="article_helpful_no">Ne</string>
+    <string name="article_helpful_talkback_selected_no">Vybrána možnost Ne</string>
+    <string name="article_helpful_talkback_selected_yes">Vybrána možnost Ano</string>
+    <string name="article_helpful_talkback_unselected_no">Zrušen výběr možnosti Ne</string>
+    <string name="article_helpful_talkback_unselected_yes">Zrušen výběr možnosti Ano</string>
+    <string name="article_helpful_text">Užitečné?</string>
+    <string name="article_helpful_yes">Ano</string>
+    <string name="asset_is_downloading_content_description">Video/obrázek se stahuje</string>
+    <string name="common_google_play_services_enable_button">Povolit</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Chcete-li zobrazit videa a obrázky, zkuste se připojit k síti Wi-Fi nebo přepnout sítě</string>
+    <string name="connectivity_summary_assets_not_downloaded">K zobrazení videí a obrázků je potřeba připojení k internetu</string>
+    <string name="module_1_0010_summary">Přepnutí aplikací, rychlá změna nastavení, lepší ostření a další možnosti</string>
+    <string name="module_1_0010_tag_text">Začínáme</string>
+    <string name="module_1_0010_title">Začínáme se zařízením [model_name]</string>
+    <string name="module_1_0101_summary">Najděte aplikace, seznamte se s telefonem a dalšími možnostmi</string>
+    <string name="module_1_0101_tag_text">Začínáme</string>
+    <string name="module_1_0101_title">Začínáme s telefonem Pixel</string>
+    <string name="module_1_1000_summary">Přešli jste z iPhonuⓇ? Najděte aplikace, seznamte se s telefonem a dalšími možnostmi</string>
+    <string name="module_1_1000_tag_text">Začínáme</string>
+    <string name="module_1_1000_title">Začínáme s telefonem Pixel</string>
+    <string name="module_2_1111_summary">Komunikace s Asistentem, rozpoznání hudby pomocí funkce Co to hraje a nejen to</string>
+    <string name="module_2_1111_tag_text">Využití Googlu na maximum</string>
+    <string name="module_2_1111_title">Využití Googlu na maximum</string>
+    <string name="module_3_1111_summary">Vytváření skvělých portrétů, přepínání mezi režimy apod.</string>
+    <string name="module_3_1111_tag_text">Využití možností fotoaparátu</string>
+    <string name="module_3_1111_title">Práce s fotoaparátem a fotkami</string>
+    <string name="module_4_1111_summary">Posílání obrázků, zahajování videohovorů a sdílení fotek</string>
+    <string name="module_4_1111_tag_text">Volání a SMS</string>
+    <string name="module_4_1111_title">Volání a SMS</string>
+    <string name="module_5_1111_summary">Rychlé otevření fotoaparátu, zobrazení oznámení apod.</string>
+    <string name="module_5_1111_tag_text">Používání gest</string>
+    <string name="module_5_1111_title">Používání gest jako zkratek</string>
+    <string name="module_6_1111_summary">Sledujte čas strávený na zařízení, naplánujte si čas offline a mnohem víc</string>
+    <string name="module_6_1111_tag_text">Správa digitální rovnováhy</string>
+    <string name="module_6_1111_title">Správa digitální rovnováhy</string>
+    <string name="module_7_1111_summary">Zobrazte dvě aplikace najednou, třiďte aplikace pomocí složek a mnohem víc</string>
+    <string name="module_7_1111_tag_text">Staňte se expertem</string>
+    <string name="module_7_1111_title">Staňte se expertem na Pixel</string>
+    <string name="module_8_1111_summary">Pište si poznámky, plaťte pomocí telefonu Pixel a sledujte nejnovější zpravodajství</string>
+    <string name="module_8_1111_tag_text">Objevování aplikací</string>
+    <string name="module_8_1111_title">Objevujte aplikace od Googlu</string>
+    <string name="next_btn">Další</string>
+    <string name="next_module_link_back_home_page_text">Další: Mrkněte na všechny tipy</string>
+    <string name="next_module_link_text">Další: %1$s</string>
+    <string name="next_tip_content_description">Další tip</string>
+    <string name="ob_gesture_app_go_back_media_description">Video o novém gestu pro přechod zpět</string>
+    <string name="ob_gesture_app_go_back_summary">Chcete-li se vrátit na poslední obrazovku, přejeďte prstem z levého nebo pravého okraje obrazovky doprostřed</string>
+    <string name="ob_gesture_app_go_back_title">Zpět</string>
+    <string name="ob_gesture_app_home_media_description">Video o novém gestu pro přechod na plochu</string>
+    <string name="ob_gesture_app_home_summary">"Přejeďte prstem nahoru z dolního okraje obrazovky.
+Tímto gestem se vždy dostanete na domovskou stránku."</string>
+    <string name="ob_gesture_app_home_title">Přejít na domovskou stránku</string>
+    <string name="ob_gesture_app_overview_media_description">Video o novém gestu pro zobrazení přehledu</string>
+    <string name="ob_gesture_app_overview_summary">Přejeďte prstem z dolního okraje obrazovky nahoru a podržte prst na obrazovce</string>
+    <string name="ob_gesture_app_overview_title">Přepnutí aplikací</string>
+    <string name="onboarding_education_page_title">Úvod do navigačních gest</string>
+    <string name="previous_module_link_text">Předchozí: %1$s</string>
+    <string name="previous_tip_content_description">Předchozí tip</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="settings_search_main_entry_screen_title">Tipy a podpora > Prozkoumat tipy pro Pixel</string>
+    <string name="settings_search_main_entry_summary">Využijte zařízení Pixel na maximum. Mrkněte na videa a další informace.</string>
+    <string name="smart_space_subtitle_android">Klepněte pro tipy</string>
+    <string name="smart_space_subtitle_ios">Klepněte pro tipy</string>
+    <string name="smart_space_subtitle_others">Klepněte pro tipy</string>
+    <string name="smart_space_subtitle_pixel">Co je nového</string>
+    <string name="smart_space_title">Vítá vás nový telefon Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Vytvoření portrétu, správné ostření apod.</string>
+    <string name="suggestion_summary_module_communication">Posílání obrázků, zahajování videohovorů apod.</string>
+    <string name="suggestion_summary_module_gestures">Kontrola oznámení, otevření fotoaparátu apod.</string>
+    <string name="suggestion_summary_module_google_smarts">Komunikace s Asistentem Google apod.</string>
+    <string name="suggestion_title_module_camera">Práce s fotoaparátem a fotkami</string>
+    <string name="suggestion_title_module_communication">Tipy k volání a psaní SMS</string>
+    <string name="suggestion_title_module_gestures">Používání gest jako zkratek</string>
+    <string name="suggestion_title_module_google_smarts">Využití Googlu na maximum</string>
+    <string name="tip_1_1_media_description">Video o vyhledání aplikací</string>
+    <string name="tip_1_1_summary">Přejetím prstem nahoru z dolního okraje obrazovky zobrazíte nedávné aplikace. Dole se také zobrazí řádek předpokládaných aplikací. Opětovným přejetím nahoru zobrazíte všechny aplikace.</string>
+    <string name="tip_1_1_title">Nalezení aplikací</string>
+    <string name="tip_1_2_media_description">Video o uspořádání aplikací</string>
+    <string name="tip_1_2_summary">"Chcete-li nějakou aplikaci přidat na plochu, podržte ji a přetáhněte ji.
+
+Chcete-li aplikaci odstranit, podržte ji a pak ji přetáhněte do horní části obrazovky."</string>
+    <string name="tip_1_2_title">Přidání aplikací na plochu</string>
+    <string name="tip_1_3_link">Přejít do Obchodu Play</string>
+    <string name="tip_1_3_media_description">Obrázek o hlavních aplikacích</string>
+    <string name="tip_1_3_summary">"Aplikace do začátku:
+– Obchod Play: objevujte a stahujte aplikace
+– Fotky Google: vyhledávejte, ukládejte a sdílejte fotky
+– Google Keep: pište si poznámky, seznamy apod."</string>
+    <string name="tip_1_3_title">Objevte důležité aplikace</string>
+    <string name="tip_1_4_media_description">Video o oznámeních</string>
+    <string name="tip_1_4_summary">"Chcete-li zobrazit oznámení, přejeďte po obrazovce shora dolů. Chcete-li některé oznámení vymazat, přejeďte po něm doprava nebo doleva.
+
+Chcete-li o oznámení zobrazit další informace, podržte ho."</string>
+    <string name="tip_1_4_title">Zobrazení oznámení</string>
+    <string name="tip_1_5_media_description">Video o změně nastavení</string>
+    <string name="tip_1_5_summary">"Chcete-li otevřít Rychlé nastavení, přejeďte po obrazovce telefonu Pixel shora dolů. Druhým přejetím dolů otevřete další nastavení.
+
+Chcete-li nějaké nastavení zapnout nebo vypnout, klepněte na něj. Chcete-li zobrazit další informace o nastavení, podržte ho."</string>
+    <string name="tip_1_5_title">Rychlá změna běžných nastavení</string>
+    <string name="tip_1_6_link">Přejít do Nastavení</string>
+    <string name="tip_1_6_media_description">Video o režimu Nerušit</string>
+    <string name="tip_1_6_summary">"Pokud používáte telefon, ale chcete se soustředit, můžete vypnout oznámení.
+
+Podívejte se na nové možnosti režimu Nerušit"</string>
+    <string name="tip_1_6_title">Lepší soustředění díky režimu Nerušit</string>
+    <string name="tip_1_7_media_description">Video o zobrazení akcí</string>
+    <string name="tip_1_7_summary">"Podržením textu zobrazíte dostupné akce, například provedení rezervace v restauraci.
+
+Můžete to udělat v libovolné aplikaci. Funguje to, dokonce i když mezi aplikacemi přepínáte."</string>
+    <string name="tip_1_7_title">Zobrazení akcí při výběru textu</string>
+    <string name="tip_1_9_link">Kontaktování podpory</string>
+    <string name="tip_1_9_media_description">Video ohledně tipů a podpory</string>
+    <string name="tip_1_9_summary">"Další tipy a podporu máte kdykoli po ruce – stačí přejít do Nastavení > Tipy a podpora.
+
+Můžete si projít doporučení a články nápovědy nebo kontaktovat tým telefonů Pixel."</string>
+    <string name="tip_1_9_title">Pomoc, když ji potřebujete</string>
+    <string name="tip_2_1_link">Otevřít v Nastavení</string>
+    <string name="tip_2_1_link_description">Tuto funkci zapnete klepnutím na tlačítko níže.</string>
+    <string name="tip_2_1_link_description_off">Tuto funkci zapnete klepnutím na tlačítko níže.</string>
+    <string name="tip_2_1_link_off">Zapnout v Nastavení</string>
+    <string name="tip_2_1_link_on">Nastavení zmáčknutí</string>
+    <string name="tip_2_1_media_description">Video o aktivaci Asistenta zmáčknutím</string>
+    <string name="tip_2_1_summary">Budete-li chtít mluvit s Asistentem Google (i když bude obrazovka vypnutá), rychle zmáčkněte spodní polovinu telefonu a poté uvolněte.</string>
+    <string name="tip_2_1_title">Otevření Asistenta zmáčknutím</string>
+    <string name="tip_2_2_link">Další akce</string>
+    <string name="tip_2_2_media_description">Video o akcích Asistenta</string>
+    <string name="tip_2_2_summary">"Asistent Google nabízí rychlé a snadné vyhledávání odpovědí a provádění akcí v telefonu Pixel.
+
+Chcete-li s Asistentem mluvit, rychle zmáčkněte spodní polovinu telefonu, uvolněte ji a řekněte:
+
+– Jaké mám plány na zítra?
+– Přidej do nákupního seznamu zubní pastu.
+– Najdi trasu domů."</string>
+    <string name="tip_2_2_title">Objevte možnosti Asistenta</string>
+    <string name="tip_2_3_link">Otevřít aplikaci Lens</string>
+    <string name="tip_2_3_media_description">Video o vyhledávání pomocí Google Lens</string>
+    <string name="tip_2_3_summary">"Pozorujete roztomilé zvířátko, jedinečnou rostlinu nebo úchvatnou pamětihodnost, která vám učarovala? Pomocí aplikace Google Lens můžete získat další informace.
+
+Stačí otevřít fotoaparát, podržet hledáček a klepnout na položku, která vás zajímá."</string>
+    <string name="tip_2_3_title">Co lze zobrazit pomocí Google Lens</string>
+    <string name="tip_2_4_link">Otevřít Google Play</string>
+    <string name="tip_2_4_link_description">Chcete-li používat funkci Co to hraje, aktualizujte sadu Pixel Ambient Services.</string>
+    <string name="tip_2_4_link_description_off">Tuto funkci zapnete klepnutím na tlačítko níže.</string>
+    <string name="tip_2_4_link_off">Zapnout v Nastavení</string>
+    <string name="tip_2_4_link_on">Nastavení funkce Co to hraje</string>
+    <string name="tip_2_4_media_description">Video o funkci Co to hraje</string>
+    <string name="tip_2_4_summary">Funkce Co to hraje automaticky zobrazuje informace o skladbách, které hrají ve vašem okolí</string>
+    <string name="tip_2_4_title">Poznejte hudbu díky funkci Co to hraje</string>
+    <string name="tip_2_5_link">Otevřít fotoaparát</string>
+    <string name="tip_2_5_media_description">Video o fotoaparátu</string>
+    <string name="tip_2_5_summary">Telefon Pixel automaticky rozpoznává telefonní čísla, adresy, e‑maily, čárové kódy a QR kódy. Stačí otevřít fotoaparát, namířit ho na příslušné místo, a nechat ho pracovat.</string>
+    <string name="tip_2_5_title">Možnosti fotoaparátu</string>
+    <string name="tip_3_1_link">Otevřít fotoaparát</string>
+    <string name="tip_3_1_media_description">Video o režimech fotoaparátu</string>
+    <string name="tip_3_1_summary">"Někdy chcete vyfotit fotku, natočit video a pak udělat něco trochu jiného.
+
+Mezi režimy můžete přepínat přejížděním doprava nebo doleva po hledáčku Fotoaparátu. Klepnutím na Více zobrazíte další možnosti."</string>
+    <string name="tip_3_1_title">Přepínání mezi focením, videi a dalšími možnostmi</string>
+    <string name="tip_3_2_link">Otevřít fotoaparát</string>
+    <string name="tip_3_2_media_description">Video o focení portrétů</string>
+    <string name="tip_3_2_summary">"V režimu portrétu Pixel rozmaže pozadí, aby vše vypadalo hezky a profesionálně. Vyzkoušejte to a uvidíte.
+
+Stačí otevřít fotoaparát, přejet zleva doprava a můžete fotit."</string>
+    <string name="tip_3_2_title">Foťte krásné portréty</string>
+    <string name="tip_3_3_media_description">Video o pořizování snímků obrazovek</string>
+    <string name="tip_3_3_summary">"Podržte vypínač a poté klepněte na Snímek obrazovky. A je to, snímek obrazovky je uložen.
+
+Chcete-li na snímek obrazovky něco nakreslit, v oznámení klepněte na Upravit."</string>
+    <string name="tip_3_3_title">Rychlé pořizování a úpravy snímků obrazovky</string>
+    <string name="tip_3_4_link">Otevřít fotoaparát</string>
+    <string name="tip_3_4_media_description">Video o zachycení ideálního momentu pomocí funkce Nejlepší záběr</string>
+    <string name="tip_3_4_summary">"Při každém focení Pixel uloží pár snímků navíc, abyste mohli vybrat ten nejlepší.
+
+1. Zkontrolujte, zda jsou zapnuté pohyblivé fotky [icon_span] a vyfoťte fotku.
+2. Při prohlížení fotky přejeďte prstem z dolní části obrazovky nahoru.
+3. Klepnutím na Snímky v této fotce zobrazte alternativní fotky."</string>
+    <string name="tip_3_4_title">Zachycení ideálního momentu pomocí funkce Nejlepší záběr</string>
+    <string name="tip_3_5_link">Otevřít fotoaparát</string>
+    <string name="tip_3_5_media_description">Video o pořízení skupinového selfie</string>
+    <string name="tip_3_5_summary">"Skupinová selfie vám přináší víc místa na fotce pro přátele nebo krajinu, aniž byste potřebovali selfie tyč.
+
+1. Přepněte na přední fotoaparát [icon_span].
+2. Oddalte zobrazení dvojitým klepnutím na obrazovku nebo stažením prstů k sobě."</string>
+    <string name="tip_3_5_title">Pořízení skupinového selfie</string>
+    <string name="tip_4_1_link">Otevření aplikace Zprávy</string>
+    <string name="tip_4_1_media_description">Video o odesílání obrázků</string>
+    <string name="tip_4_1_summary">"1. V aplikaci Zprávy otevřete konverzaci.
+2. Vlevo od pole k zadání zprávy klepněte na Napsat [icon_span].
+3. Vyberte požadovaný obrázek, emodži nebo nálepku."</string>
+    <string name="tip_4_1_title">Posílání obrázků</string>
+    <string name="tip_4_2_link">Nainstalovat aplikaci Duo</string>
+    <string name="tip_4_2_link_off">Nainstalovat aplikaci Duo</string>
+    <string name="tip_4_2_link_on">Otevřít aplikaci Duo</string>
+    <string name="tip_4_2_media_description">Video o aplikaci Google Duo</string>
+    <string name="tip_4_2_summary">"Komunikace z očí do očí je vždy nejlepší. Proto vám telefon Pixel nabízí jednoduché videohovory pomocí aplikace Google Duo.
+
+1. Otevřete aplikaci Google Duo.
+2. Vyhledejte kontakt.
+3. Jedním klepnutím zahajte videohovor nebo odešlete výzvu ke stažení aplikace Google Duo.
+
+Aplikace je dostupná i pro uživatele telefonů a tabletů iOSⓇ."</string>
+    <string name="tip_4_2_title">Pořádání videohovorů v aplikaci Google Duo</string>
+    <string name="tip_4_3_link">Otevření Fotek Google</string>
+    <string name="tip_4_3_media_description">Video o sdílení fotek</string>
+    <string name="tip_4_3_summary">"1. Otevřete Fotky Google.
+2. Podržením vyberte fotku.
+3. Pokud chcete, vyberte více fotek.
+4. Klepněte na Sdílet [icon_span].
+5. Vyberte uživatele, se kterými chcete fotky sdílet."</string>
+    <string name="tip_4_3_title">Sdílení fotek</string>
+    <string name="tip_4_4_link">Začínáme</string>
+    <string name="tip_4_4_media_description">Video o posílání SMS z počítače</string>
+    <string name="tip_4_4_summary">"Pomocí Zpráv pro Android můžete odesílat SMS z počítače. Začněte tím, že přejdete do aplikace Zprávy a v nabídce vyberte Zprávy na webu.
+
+Kromě SMS můžete odesílat také nálepky, smajlíky a přikládat fotky."</string>
+    <string name="tip_4_4_title">Odesílání SMS z počítače</string>
+    <string name="tip_5_1_link">Přejít do Nastavení</string>
+    <string name="tip_5_1_link_off">Zapnout v Nastavení</string>
+    <string name="tip_5_1_link_on">Přejít do Nastavení</string>
+    <string name="tip_5_1_media_description">Video o kontrole telefonu</string>
+    <string name="tip_5_1_summary">Dvojitým klepnutím na obrazovku můžete zkontrolovat čas, oznámení apod.</string>
+    <string name="tip_5_1_title">Kontrola telefonu dvojitým klepnutím</string>
+    <string name="tip_5_2_link">Přejít do Nastavení</string>
+    <string name="tip_5_2_link_off">Zapnout v Nastavení</string>
+    <string name="tip_5_2_link_on">Přejít do Nastavení</string>
+    <string name="tip_5_2_media_description">Video o přechodu na fotoaparát</string>
+    <string name="tip_5_2_summary">Dvojitým stisknutím vypínače na libovolné obrazovce rychle přepnete na fotoaparát.</string>
+    <string name="tip_5_2_title">Spuštění fotoaparátu</string>
+    <string name="tip_5_3_link">Přejít do Nastavení</string>
+    <string name="tip_5_3_link_off">Zapnout v Nastavení</string>
+    <string name="tip_5_3_link_on">Přejít do Nastavení</string>
+    <string name="tip_5_3_media_description">Video o přepnutí do režimu portrétu</string>
+    <string name="tip_5_3_summary">Režim selfie ve Fotoaparátu aktivujete či deaktivujete tak, že dvakrát otočíte zařízením, když je tato aplikace otevřena.</string>
+    <string name="tip_5_3_title">Přepnutí fotoaparátu</string>
+    <string name="tip_5_4_link">Přejít do Nastavení</string>
+    <string name="tip_5_4_link_off">Zapnout v Nastavení</string>
+    <string name="tip_5_4_link_on">Přejít do Nastavení</string>
+    <string name="tip_5_4_media_description">Video o použití otisku prstu pro oznámení</string>
+    <string name="tip_5_4_summary">"Chcete-li zkontrolovat oznámení, přejeďte prstem dolů po snímači otisků prstů na zadní straně telefonu.
+Opětovným přejetím dolů zobrazíte Rychlé nastavení."</string>
+    <string name="tip_5_4_title">Otisk prstu pro oznámení</string>
+    <string name="tip_5_5_media_description">Video o přepínání aplikací</string>
+    <string name="tip_5_5_summary">Mezi aplikacemi můžete rychle přepínat přejetím prstem zleva doprava v dolní části obrazovky. Zvednutím prstu aplikaci otevřete.</string>
+    <string name="tip_5_5_title">Rychlejší přepínání aplikací</string>
+    <string name="tip_6_1_link">Nastavení nočního režimu</string>
+    <string name="tip_6_1_media_description">Video o nočním režimu</string>
+    <string name="tip_6_1_summary">"Noční režim obrazovku v noci zbarví do jantarova. Čtení a sledování obrazovky při tlumeném osvětlení tak bude snazší a bude se vám lépe usínat.
+
+Noční režim můžete rychle zapnout nebo vypnout pomocí Rychlého nastavení, případně podržením nastavte plán."</string>
+    <string name="tip_6_1_title">Snazší usínání pomocí nočního režimu</string>
+    <string name="tip_6_2_link">Aktualizovat digitální rovnováhu</string>
+    <string name="tip_6_2_link_off">Aktualizovat digitální rovnováhu</string>
+    <string name="tip_6_2_link_on">Nastavení večerky</string>
+    <string name="tip_6_2_media_description">Video o nastavení času, kdy jít spát, pomocí funkce Večerka</string>
+    <string name="tip_6_2_summary">"Nastavte si plán, odkdy v noci nebudete používat telefon.
+
+1. Otevřete aplikaci Digitální rovnováha [icon_span].
+2. Klepněte na Večerka.
+3. Nastavte plán večerky.
+
+Až se bude blížit čas jít spát, obrazovka změní barvu a režim Nerušit zajistí, aby vás při spánku nerušila oznámení."</string>
+    <string name="tip_6_2_title">Nastavení času, kdy jít spát, pomocí funkce Večerka</string>
+    <string name="tip_6_3_link">Vyzkoušet režim Nerušit otočením</string>
+    <string name="tip_6_3_link_off">Aktualizovat digitální rovnováhu</string>
+    <string name="tip_6_3_link_on">Přejít do Nastavení</string>
+    <string name="tip_6_3_media_description">Video o tom, jak rychle ukončit rušení</string>
+    <string name="tip_6_3_summary">Když zapnete režim Nerušit otočením telefonu, stačí telefon položit displejem dolů a budou blokována oznámení a zvuky.</string>
+    <string name="tip_6_3_title">Rychlé blokování vyrušení</string>
+    <string name="tip_6_4_link">Aktualizovat digitální rovnováhu</string>
+    <string name="tip_6_4_link_off">Aktualizovat digitální rovnováhu</string>
+    <string name="tip_6_4_link_on">Otevřít hlavní panel</string>
+    <string name="tip_6_4_media_description">Video o digitální rovnováze</string>
+    <string name="tip_6_4_summary">Na panelu digitální rovnováhy v Nastavení najdete čas strávený na zařízení a můžete nastavit časovače aplikací, které chcete používat méně často.</string>
+    <string name="tip_6_4_title">Sledování času stráveného na zařízení</string>
+    <string name="tip_7_1_media_description">Video o třídění aplikací pomocí složek</string>
+    <string name="tip_7_1_summary">"Vytvořte si složky k přehlednému uspořádání aplikací.
+
+Složku vytvoříte přetažením jedné ikony aplikace na druhou. Složku můžete pojmenovat.
+
+Do složky můžete přetáhnout další aplikace, případně je vyjmout přetažením mimo složku."</string>
+    <string name="tip_7_1_title">Uspořádání aplikací pomocí složek</string>
+    <string name="tip_7_2_media_description">Video o používání dvou aplikací najednou</string>
+    <string name="tip_7_2_summary">"Chcete-li v telefonu používat dvě aplikace současně, nastavte rozdělenou obrazovku.
+
+1. Přejetím ze spodní části obrazovky nahoru zobrazte nedávné aplikace.
+2. Podržte ikonu aplikace v horní části obrazovky.
+3. Klepněte na Rozdělená obrazovka.
+
+Dělicí čáru můžete posunout podle potřeby. Až budete hotovi, přetáhněte ji prstem pryč."</string>
+    <string name="tip_7_2_title">Zobrazení dvou aplikací najednou</string>
+    <string name="tip_7_3_link">Otevřít Asistenta Google</string>
+    <string name="tip_7_3_media_description">Video o ovládání telefonu pomocí Asistenta</string>
+    <string name="tip_7_3_summary">"Asistent vám pomůže zrychlit ovládání telefonu. Chcete-li ho aktivovat, rychle zmáčkněte dolní polovinu telefonu. Poté řekněte:
+
+1. Vyfoť selfie.
+2. Pořiď snímek obrazovky.
+3. Zapni svítilnu."</string>
+    <string name="tip_7_3_title">Nechte si od Asistenta Google pomáhat s každodenními úkoly</string>
+    <string name="tip_8_1_link">Nainstalovat Google Keep</string>
+    <string name="tip_8_1_link_off">Nainstalovat Google Keep</string>
+    <string name="tip_8_1_link_on">Otevřít Google Keep</string>
+    <string name="tip_8_1_media_description">Video o psaní poznámek</string>
+    <string name="tip_8_1_summary">"Pomocí aplikace Google Keep si můžete zaznamenat, co vás zrovna napadlo, a ukládat poznámky, fotky a zvuk.
+
+Můžete si také nastavit připomenutí, abyste nezapomněli na uložené úkoly. Poznámky lze také snadno sdílet."</string>
+    <string name="tip_8_1_title">Psaní poznámek pomocí aplikace Google Keep</string>
+    <string name="tip_8_2_link">Nainstalovat Zprávy Google</string>
+    <string name="tip_8_2_link_off">Nainstalovat Zprávy Google</string>
+    <string name="tip_8_2_link_on">Otevřít Zprávy Google</string>
+    <string name="tip_8_2_media_description">Video o Zprávách Google</string>
+    <string name="tip_8_2_summary">"Sledujte mimořádné zprávy i události z domova a ze světa.
+
+Jediným klepnutím zobrazíte titulky z vašich oblíbených zdrojů. Můžete si zobrazit časovou osu klíčových okamžiků, názory, analýzy a další informace, které vám pomohou porozumět problematice."</string>
+    <string name="tip_8_2_title">Přehled o událostech pomocí Zpráv Google</string>
+    <string name="tip_8_3_link">Nainstalovat Google Pay</string>
+    <string name="tip_8_3_link_off">Nainstalovat Google Pay</string>
+    <string name="tip_8_3_link_on">Otevřít Google Pay</string>
+    <string name="tip_8_3_media_description">Video o Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay představuje rychlý způsob placení v milionech obchodů jen s pomocí telefonu Pixel. Postup:
+
+1. Přidejte do služby Google Pay kartu.
+2. U pokladny hledejte symbol bezkontaktních plateb [icon_span].
+3. Odemkněte telefon a přiložte jej k terminálu.
+4. Počkejte, až se zobrazí značka zaškrtnutí.
+
+To je vše."</string>
+    <string name="tip_8_3_title">Placení pomocí telefonu Pixel</string>
+    <string name="tips_nav_a11y_media_description">Video o používání nového gesta pro usnadnění přístupu</string>
+    <string name="tips_nav_a11y_summary">"Chcete-li přejít na poslech vybraného textu nebo zvětšení, přejeďte dvěma prsty nahoru z dolního okraje obrazovky.
+
+Chcete-li přepnout mezi aplikacemi pro usnadnění přístupu, přejeďte dvěma prsty nahoru a podržte obrazovku.
+
+Tato gesta můžete používat až po dokončení nastavení."</string>
+    <string name="tips_nav_a11y_title">Použití nového gesta pro usnadnění přístupu</string>
+    <string name="title_download_completed_dialog">Znovu načíst nové tipy</string>
+    <string name="try_it_text">Vyzkoušet</string>
+    <string name="zero_state_primary">Už jste vše přečetli</string>
+    <string name="zero_state_secondary">Brzy tu najdete další tipy</string>
+</resources>

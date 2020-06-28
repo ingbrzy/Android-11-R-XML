@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Määritystä ei voida suorittaa loppuun, sillä %1$d vaaditun sovelluksen asentaminen epäonnistui. Ota suoraan yhteyttä järjestelmänvalvojaan.</item>
+        <item quantity="one">Määritystä ei voida suorittaa loppuun, sillä %1$d vaaditun sovelluksen asentaminen epäonnistui. Ota suoraan yhteyttä järjestelmänvalvojaan.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Sovellusten asentaminen epäonnistui</item>
+        <item quantity="one">Sovelluksen asentaminen epäonnistui</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d sovellusta asennettu</item>
+        <item quantity="one">%1$d/%2$d sovellus asennettu</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Poista sovelluksia</item>
+        <item quantity="one">Poista sovellus</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> päivää jäljellä</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> päivä jäljellä</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> tuntia jäljellä</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> tunti jäljellä</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d sovellusta asennettu</item>
+        <item quantity="one">%1$d/%2$d sovellus asennettu</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d saatavilla olevaa sovellusta (%2$d asennettu, %3$d poistettu käytöstä)</item>
+        <item quantity="one">%1$d saatavilla oleva sovellus (%2$d asennettu, %3$d poistettu käytöstä)</item>
+    </plurals>
+</resources>

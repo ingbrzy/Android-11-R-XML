@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$d అంశాలు చూపబడుతున్నాయి.</item>
+        <item quantity="one">%1$d అంశం చూపబడుతోంది.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d వ్యాఖ్యలు</item>
+        <item quantity="one">%1$d వ్యాఖ్య</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">చర్య అంశాలు: %1$d తదనంతర చర్య తీసుకోవలసిన అంశాలు</item>
+        <item quantity="one">చర్య అంశం: %1$d తదనంతర చర్య తీసుకోవలసిన అంశం</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">అంశాలు శాశ్వతంగా తొలగించబడ్డాయి</item>
+        <item quantity="one">అంశం శాశ్వతంగా తొలగించబడింది</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామాలు కాదు.</item>
+        <item quantity="one">%s చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా కాదు.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">ఈ ఫైల్‌లను జోడించడం వలన షేర్ చేసిన ఫోల్డర్ %1$sని యాక్సెస్ చేయగల అందరితో ఇవి షేర్ చేయబడతాయి</item>
+        <item quantity="one">ఈ ఫైల్‌ను జోడించడం వలన షేర్ చేసిన ఫోల్డర్ %1$sని యాక్సెస్ చేయగల అందరితో ఇది షేర్ చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">ఈ ఫోల్డర్‌లను జోడించడం వలన షేర్ చేసిన ఫోల్డర్ %1$sని యాక్సెస్ చేయగల అందరితో ఇవి షేర్ చేయబడతాయి</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను జోడించడం వలన షేర్ చేసిన ఫోల్డర్ %1$sని యాక్సెస్ చేయగల అందరితో ఇది షేర్ చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">ఈ ఫైల్‌లను షేర్ చేయాలా?</item>
+        <item quantity="one">ఈ ఫైల్‌ను షేర్ చేయాలా?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">ఈ ఫోల్డర్‌లను షేర్ చేయాలా?</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను షేర్ చేయాలా?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d ఫోల్డర్‌లు అప్‌డేట్ చేయబడ్డాయి. రంగు %2$sకి సెట్ చేయబడింది.</item>
+        <item quantity="one">%1$d ఫోల్డర్ అప్‌డేట్ చేయబడింది. రంగు %2$sకి సెట్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">ఫిల్టర్‌లను వర్తింపజేయండి:</item>
+        <item quantity="one">ఫిల్టర్‌ను వర్తింపజేయండి:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d రోజులలో గడువు ముగుస్తుంది</item>
+        <item quantity="one">%1$d రోజులో గడువు ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">పరికరం నిష్క్రియంగా ఉన్నట్లయితే, ఈ బ్యాకప్ గడువు %1$d రోజులలో ముగుస్తుంది.</item>
+        <item quantity="one">పరికరం నిష్క్రియంగా ఉన్నట్లయితే, ఈ బ్యాకప్ గడువు %1$d రోజులో ముగుస్తుంది.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">బ్యాకప్‌లు తొలగించబడ్డాయి.</item>
+        <item quantity="one">బ్యాకప్ తొలగించబడింది.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d నిలువు వరుసలు.</item>
+        <item quantity="one">%1$d నిలువు వరుస.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d స్తంభించిన నిలువు వరుసలు.</item>
+        <item quantity="one">%1$d స్తంభించిన నిలువు వరుస.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d స్తంభించిన అడ్డు వరుసలు.</item>
+        <item quantity="one">%1$d స్తంభించిన అడ్డు వరుస.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d అడ్డు వరుసలు.</item>
+        <item quantity="one">%1$d అడ్డు వరుస.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%2$d అంశాల కోసం %1$s</item>
+        <item quantity="one">%2$d అంశం కోసం %1$s</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s ప్రత్యుత్తరాలు</item>
+        <item quantity="one">%1$s ప్రత్యుత్తరం</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">అంశాలను డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు</item>
+        <item quantity="one">అంశాన్ని డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d అంశాలు డౌన్‌లోడ్ చేయబడతాయి. వివరాల కోసం నోటిఫికేషన్ చూడండి</item>
+        <item quantity="one">%1$d అంశం డౌన్‌లోడ్ చేయబడుతుంది. వివరాల కోసం నోటిఫికేషన్ చూడండి</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d అంశాలు డౌన్‌లోడ్ చేయబడతాయి.</item>
+        <item quantity="one">%1$d అంశం డౌన్‌లోడ్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s మరియు మరో %2$d అంశాలు</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s అంశాలను డౌన్‌లోడ్ చేయడం సాధ్యబడలేదు</item>
+        <item quantity="one">%1$s అంశాన్ని డౌన్‌లోడ్ చేయడం సాధ్యబడలేదు</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">మరో %1$d అంశాలు</item>
+        <item quantity="one">మరో %1$d అంశం</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%2$dలో %1$d డౌన్‌లోడ్‌లు విఫలమయ్యాయి</item>
+        <item quantity="one">%2$dలో %1$d డౌన్‌లోడ్ విఫలమైంది</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">ఫైల్‌లను తరలించడంలో లోపం.</item>
+        <item quantity="one">ఫైల్‌ను తరలించడంలో లోపం.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d అతిథులు</item>
+        <item quantity="one">%d అతిథి</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">\"%1$s\"కు %2$d షార్ట్‌కట్‌లు జోడించబడ్డాయి</item>
+        <item quantity="one">\"%1$s\"కు షార్ట్‌కట్ జోడించబడింది</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">షార్ట్‌కట్‌లను జోడించడం సాధ్యపడదు. మళ్ళీ ప్రయత్నించండి</item>
+        <item quantity="one">షార్ట్‌కట్‌ను జోడించడం సాధ్యపడదు. మళ్ళీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">\"%1$s\" సభ్యులు ఈ అంశాలను వారితో షేర్ చేసి ఉంటే మినహా యాక్సెస్‌ను కోల్పోతారు. \"%2$s\" సభ్యులు ఈ అంశాలకు యాక్సెస్‌ను పొందుతారు.</item>
+        <item quantity="one">ఈ అంశం \"%1$s\" సభ్యులతో భాగస్వామ్యం చేయబడకపోతే అందులోని వారు యాక్సెస్ కోల్పోతారు. \"%2$s\" సభ్యులు ఈ అంశానికి యాక్సెస్‌ను పొందుతారు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">\"%1$s\" సభ్యులు ఈ అంశాలను వారితో షేర్ చేసి ఉంటే మినహా యాక్సెస్‌ను కోల్పోతారు. \"%2$s\" సభ్యులు ఈ అంశాలకు యాక్సెస్‌ను పొందుతారు. మీకు \"%3$s\"లో అంశాలను జోడించడానికి మరియు సవరించడానికి, మాత్రమే అనుమతి ఉంది, కాబట్టి మీరు ఈ చర్యను ఒకసారి అమలు చేసాక తిరిగి రద్దు చేయలేరు.</item>
+        <item quantity="one">ఈ అంశం \"%1$s\" సభ్యులతో భాగస్వామ్యం చేయబడకపోతే అందులోని వారు యాక్సెస్ కోల్పోతారు. \"%2$s\" సభ్యులు ఈ అంశానికి యాక్సెస్‌ను పొందుతారు. మీకు \"%3$s\"లో అంశాలను జోడించడానికి మరియు సవరించడానికి, మాత్రమే అనుమతి ఉంది, కాబట్టి మీరు ఈ చర్యను ఒకసారి అమలు చేసాక తిరిగి రద్దు చేయలేరు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">\"%1$s\"కు తరలించబడుతున్న కొన్ని ఫైల్‌ల కారణంగా DLP గుర్తింపులు ప్రారంభించబడ్డాయి. ఈ ఫైల్‌లలో సున్నితమైన సమాచారం ఉండవచ్చు.</item>
+        <item quantity="one">\"%1$s\"కు తరలించబడుతున్న ఫైల్ కారణంగా DLP గుర్తింపులు ప్రారంభించబడ్డాయి. ఈ ఫైల్‌లో అతి ముఖ్యమైన సమాచారం ఉండవచ్చు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">\"%1$s\" సభ్యులు ఈ అంశాలను వారితో షేర్ చేసి ఉంటే మినహా యాక్సెస్‌ను కోల్పోతారు.</item>
+        <item quantity="one">ఈ అంశం \"%1$s\" సభ్యులతో భాగస్వామ్యం చేయబడకపోతే అందులోని వారు యాక్సెస్ కోల్పోతారు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">ఈ అంశాలను తరలిస్తే, ఇవి \"%1$s\" షేర్ ఫోల్డర్‌ను చూడగలిగే వారందరితో షేర్ చేయబడతాయి. ఈ అంశాలు \"%2$s\" సభ్యులతో షేర్ చేయబడకపోతే అందులోని వారు యాక్సెస్‌ను కోల్పోతారు.</item>
+        <item quantity="one">ఈ అంశాన్ని తరలిస్తే, ఇది \"%1$s\" షేర్ ఫోల్డర్‌ను చూడగలిగే వారందరితో షేర్ చేయబడుతుంది. ఈ అంశం \"%2$s\" సభ్యులతో షేర్ చేయబడకపోతే అందులోని వారు యాక్సెస్‌ను కోల్పోతారు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">మీరు ఒక అంశాలను షేర్ ఫోల్డర్‌ల నుండి వెలుపలికి తరలిస్తున్నారు, దీని వలన వ్యక్తులు ఈ అంశాలకు యాక్సెస్ కోల్పోతారు.</item>
+        <item quantity="one">మీరు ఒక అంశాన్ని షేర్ ఫోల్డర్ నుండి వెలుపలికి తరలిస్తున్నారు, దీని వలన వ్యక్తులు ఈ అంశానికి యాక్సెస్ కోల్పోతారు.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">ఈ అంశాల నుండి అదనపు పరిమితులు తీసివేయబడతాయి.</item>
+        <item quantity="one">ఈ అంశం నుండి అదనపు పరిమితులు తీసివేయబడతాయి.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">ఈ ఫైల్‌లను తరలించడం వలన భాగస్వామ్య ఫోల్డర్ %1$sను ప్రాప్యత చేయగల అందరితో అవి భాగస్వామ్యం చేయబడతాయి</item>
+        <item quantity="one">ఈ ఫైల్‌ను తరలించడం వలన భాగస్వామ్య ఫోల్డర్ %1$sని ప్రాప్యత చేయగల అందరితో ఇది భాగస్వామ్యం చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">ఈ ఫోల్డర్‌లను తరలించడం వలన భాగస్వామ్య ఫోల్డర్ %1$sను ప్రాప్యత చేయగల అందరితో అవి భాగస్వామ్యం చేయబడతాయి</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను తరలించడం వలన భాగస్వామ్య ఫోల్డర్ %1$sని ప్రాప్యత చేయగల ప్రతి ఒక్కరితో ఇది భాగస్వామ్యం చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">ఈ ఫైల్‌లను భాగస్వామ్యం చేయాలా?</item>
+        <item quantity="one">ఈ ఫైల్‌ను భాగస్వామ్యం చేయాలా?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">ఈ ఫోల్డర్‌లను భాగస్వామ్యం చేయాలా?</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను భాగస్వామ్యం చేయాలా?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">కొన్ని అంశాలను వాటి షేర్ చేసిన డిస్క్ నుండి వెలుపలికి తరలించడానికి మీకు అనుమతి లేదు.</item>
+        <item quantity="one">ఈ అంశాన్ని, దీని షేర్ చేసిన డిస్క్ నుండి వెలుపలికి తరలించడానికి మీకు అనుమతి లేదు.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">మీకు కొన్ని అంశాలను వాటి ఫోల్డర్ నుండి వెలుపలికి తరలించడానికి అనుమతి లేదు.</item>
+        <item quantity="one">మీకు ఈ అంశాన్ని దీని ఫోల్డర్ నుండి వెలుపలికి తరలించడానికి అనుమతి లేదు.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">ఈ ఫైల్‌ల యజమాని %1$s వెలుపల ఉన్నందున మీరు ఫైల్‌లను తరలించలేరు.</item>
+        <item quantity="one">ఈ ఫైల్ యజమాని %1$s వెలుపల ఉన్నందున మీరు ఫైల్‌ని తరలించలేరు.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" ఇప్పుడు వాటిని యాక్సెస్ చేయగలదు.</item>
+        <item quantity="one">%1$s \"%2$s\" ఇప్పుడు దీన్ని యాక్సెస్ చేయగలదు.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d అంశాలు షేర్ చేసిన డిస్క్‌లోకి తరలించబడ్డాయి. ఇప్పుడు సభ్యులు వాటిని యాక్సెస్ చేయవచ్చు.</item>
+        <item quantity="one">1 అంశం షేర్ చేసిన డిస్క్‌లోకి తరలించబడింది. ఇప్పుడు సభ్యులు దానిని యాక్సెస్ చేయవచ్చు.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d అంశాలు షేర్ చేసిన డిస్క్ నుండి తరలించబడ్డాయి. సభ్యులు యాక్సెస్‌ను కోల్పోయారు.</item>
+        <item quantity="one">%1$d అంశం షేర్ చేసిన డిస్క్ నుండి తరలించబడింది. సభ్యులు యాక్సెస్‌ను కోల్పోయారు.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d అంశాలు</item>
+        <item quantity="one">%1$d అంశం</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d ఆమోదకులు</item>
+        <item quantity="one">ఒక ఆమోదకుడు</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s చర్య అంశాలు</item>
+        <item quantity="one">%1$s చర్య అంశం</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s ప్రత్యుత్తరం ఇవ్వని ప్రస్తావనలు</item>
+        <item quantity="one">%1$s ప్రత్యుత్తరం ఇవ్వని ప్రస్తావన</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s సూచనలు</item>
+        <item quantity="one">%1$s సూచన</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s చేయాల్సిన అంశాలు</item>
+        <item quantity="one">%1$s చేయాల్సిన అంశం</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">అంశాలు శాశ్వతంగా తొలగించబడ్డాయి</item>
+        <item quantity="one">అంశం శాశ్వతంగా తొలగించబడింది</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">ఇప్పుడు %2$sలో %1$d ఆఫ్‌లైన్‌లో అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">ఇప్పుడు %2$sలో %1$d ఆఫ్‌లైన్‌లో అందుబాటులో ఉంది.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">ఇప్పుడు %1$d ఫైల్‌లు ఆఫ్‌లైన్‌లో అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">ఇప్పుడు %1$d ఫైల్ ఆఫ్‌లైన్‌లో అందుబాటులో ఉంది.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">ఫైల్‌లను ఆఫ్‌లైన్‌కి అందుబాటులో ఉంచడం సాధ్యం కాదు</item>
+        <item quantity="one">ఫైల్‌ని ఆఫ్‌లైన్‌కి అందుబాటులో ఉంచడం సాధ్యం కాదు</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d ఫైల్‌లను ఆఫ్‌లైన్‌లో అందుబాటులో ఉంచుతోంది.</item>
+        <item quantity="one">%1$d ఫైల్‌ను ఆఫ్‌లైన్‌లో అందుబాటులో ఉంచుతోంది.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d ఫైల్‌లు</item>
+        <item quantity="one">%1$d ఫైల్</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">డౌన్‌లోడ్‌లు పాజ్ చేయబడ్డాయి, నెట్‌వర్క్ కోసం వేచి ఉంది…</item>
+        <item quantity="one">డౌన్‌లోడ్ పాజ్ చేయబడింది, నెట్‌వర్క్ కోసం వేచి ఉంది…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d డౌన్‌లోడ్‌లు పాజ్ చేయబడ్డాయి.</item>
+        <item quantity="one">%1$d డౌన్‌లోడ్ పాజ్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">డౌన్‌లోడ్‌లు పాజ్ చేయబడ్డాయి, Wi-Fi కోసం వేచి ఉన్నాయి…</item>
+        <item quantity="one">డౌన్‌లోడ్ పాజ్ చేయబడింది, Wi-Fi కోసం వేచి ఉంది…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d అంశాలు ట్రాష్‌కి తరలించబడతాయి. దీని వలన Google ఫోటోలు నుండి కూడా ఇవి తీసివేయబడతాయి.</item>
+        <item quantity="one">ఒక అంశం ట్రాష్‌కి తరలించబడుతుంది. దీని వలన Google ఫోటోలు నుండి కూడా ఇది తీసివేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d అంశాలు ట్రాష్‌కు తరలించబడతాయి.</item>
+        <item quantity="one">ఒక అంశం ట్రాష్‌కు తరలించబడుతుంది.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s మళ్లీ చూడాల్సిన అంశాలు</item>
+        <item quantity="one">%1$s మళ్లీ చూడాల్సిన అంశం</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s మళ్లీ చూడాల్సిన అంశాలు</item>
+        <item quantity="one">%1$s మళ్లీ చూడాల్సిన అంశం</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">వాకబు చేయాల్సినవి</item>
+        <item quantity="one">వాకబు చేయాల్సినది</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">%1$d ఫైల్‌లపై వ్యాఖ్యానించారు</item>
+        <item quantity="one">పైల్‌పై వ్యాఖ్యానించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">%1$d ఫైల్‌లపై వ్యాఖ్యానించారు</item>
+        <item quantity="one">పైల్‌పై వ్యాఖ్యానించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">ఈ ఫైల్‌పై వ్యాఖ్యానించారు</item>
+        <item quantity="one">ఈ ఫైల్‌పై వ్యాఖ్యానించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d అంశాలను సృష్టించారు</item>
+        <item quantity="one">అంశాన్ని సృష్టించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d అంశాలను సృష్టించారు</item>
+        <item quantity="one">అంశాన్ని సృష్టించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">ఈ ఫైల్‌ను సృష్టించారు</item>
+        <item quantity="one">ఈ ఫైల్‌ను సృష్టించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్‌ను సృష్టించారు</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను సృష్టించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d అంశాలను సవరించారు</item>
+        <item quantity="one">ఒక అంశాన్ని సవరించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d అంశాలను సవరించారు</item>
+        <item quantity="one">ఒక అంశాన్ని సవరించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">ఈ ఫైల్‌కు సవరణలు చేసారు</item>
+        <item quantity="one">ఈ ఫైల్‌కు సవరణలు చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$d అంశాలను శాశ్వతంగా తొలగించారు</item>
+        <item quantity="one">ఒక అంశాన్ని శాశ్వతంగా తొలగించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d అంశాలను దీనిలోకి తరలించారు:</item>
+        <item quantity="one">ఒక అంశాన్ని దీనిలోకి తరలించారు:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d అంశాలను దీనిలోకి తరలించారు:</item>
+        <item quantity="one">ఒక అంశాన్ని దీనిలోకి తరలించారు:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d అంశాలను తరలించారు</item>
+        <item quantity="one">ఒక అంశాన్ని తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d అంశాలను తరలించారు</item>
+        <item quantity="one">ఒక అంశాన్ని తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">ఈ ఫైల్‌ను తరలించారు</item>
+        <item quantity="one">ఈ ఫైల్‌ను తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">ఈ ఫైల్‌ను దీనిలోకి తరలించారు:</item>
+        <item quantity="one">ఈ ఫైల్‌ను దీనిలోకి తరలించారు:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్‌ను తరలించారు</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">ఈ ఫోల్డర్‌ను దీనిలోకి తరలించారు:</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను దీనిలోకి తరలించారు:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">%1$d అంశాల పేరులను మార్చారు</item>
+        <item quantity="one">ఒక అంశానికి పేరు మార్చారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">%1$d అంశాల పేరులను మార్చారు</item>
+        <item quantity="one">ఒక అంశానికి పేరు మార్చారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">ఈ ఫైల్ పేరు మార్చారు</item>
+        <item quantity="one">ఈ ఫైల్ పేరు మార్చారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్ పేరు మార్చారు</item>
+        <item quantity="one">ఈ ఫోల్డర్ పేరు మార్చారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d అంశాలను షేర్ చేసారు</item>
+        <item quantity="one">ఒక అంశాన్ని షేర్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d అంశాలను షేర్ చేసారు</item>
+        <item quantity="one">ఒక అంశాన్ని షేర్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">ఈ ఫైల్‌ను షేర్ చేసారు</item>
+        <item quantity="one">ఈ ఫైల్‌ను షేర్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్‌ను షేర్ చేసారు</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను షేర్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d అంశాలను ట్రాష్‌కి తరలించారు</item>
+        <item quantity="one">ఒక అంశాన్ని ట్రాష్‌కి తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d అంశాలను ట్రాష్‌కి తరలించారు</item>
+        <item quantity="one">ఒక అంశాన్ని ట్రాష్‌కి తరలించారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">ఈ ఫైల్‌ను తీసివేసారు</item>
+        <item quantity="one">ఈ ఫైల్‌ను తీసివేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్‌ను తీసివేసారు</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను తీసివేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d అంశాలను అప్‌లోడ్ చేసారు</item>
+        <item quantity="one">ఒక అంశాన్ని అప్‌లోడ్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d అంశాలను అప్‌లోడ్ చేసారు</item>
+        <item quantity="one">ఒక అంశాన్ని అప్‌లోడ్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">ఈ ఫైల్‌ను అప్‌లోడ్ చేసారు</item>
+        <item quantity="one">ఈ ఫైల్‌ను అప్‌లోడ్ చేసారు</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">ఈ ఫోల్డర్‌ను అప్‌లోడ్ చేసారు</item>
+        <item quantity="one">ఈ ఫోల్డర్‌ను అప్‌లోడ్ చేసారు</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d ఫైల్‌లు %2$s ట్రాష్‌కు తరలించబడి, 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడతాయి.</item>
+        <item quantity="one">ఈ ఫైల్ %2$s ట్రాష్‌కు తరలించబడుతుంది మరియు 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడుతుంది</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d ఫోల్డర్‌లు %2$s ట్రాష్‌కు తరలించబడి, 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడతాయి.</item>
+        <item quantity="one">ఫోల్డర్ %2$s ట్రాష్‌కు తరలించబడుతుంది మరియు 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడుతుంది</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d అంశాలు %2$s ట్రాష్‌కు తరలించబడి, 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడతాయి.</item>
+        <item quantity="one">అంశం %2$s ట్రాష్‌కు తరలించబడుతుంది మరియు 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడుతుంది</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">ఈ %1$d ఫైల్‌లు &lt;b>శాశ్వతంగా తొలగించబడతాయి, ఎవరికీ అందుబాటులో ఉండవు.&lt;/b> మీరు ఈ చర్యను చర్యరద్దు చేయలేరు.</item>
+        <item quantity="one">ఈ ఫైల్ శాశ్వతంగా తొలగించబడుతుంది, ఎవరికీ అందుబాటులో ఉండదు. మీరు ఈ చర్యను చర్యరద్దు చేయలేరు.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">ఈ %1$d ఫైల్‌లు శాశ్వతంగా తొలగించబడతాయి. మీరు ఈ చర్యను తిరిగి రద్దు చేయలేరు.</item>
+        <item quantity="one">ఈ ఫైల్ శాశ్వతంగా తొలగించబడుతుంది. మీరు ఈ చర్యను తిరిగి రద్దు చేయలేరు.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d అంశాలు</item>
+        <item quantity="one">%1$d అంశం</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%1$d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d అంశాలు ఎంపిక తీసివేయబడ్డాయి</item>
+        <item quantity="one">%1$d అంశం ఎంపిక తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">ఫైల్‌లు ఆఫ్‌లైన్‌లో అందుబాటులోకి వస్తాయి</item>
+        <item quantity="one">ఫైల్ ఆఫ్‌లైన్‌లో అందుబాటులోకి వస్తుంది</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d అంశాలను నక్షత్రం జోడించారు</item>
+        <item quantity="one">1 అంశానికి నక్షత్రం జోడించారు</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">ఫైల్‌లు ఇకపై ఆఫ్‌లైన్‌లో అందుబాటులో ఉండవు</item>
+        <item quantity="one">ఫైల్ ఇకపై ఆఫ్‌లైన్‌లో అందుబాటులో ఉండదు</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d అంశాలు నక్షత్రం తీసివేయబడ్డాయి</item>
+        <item quantity="one">1 అంశానికి నక్షత్రం తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d అంశాలు పునరుద్ధరించబడ్డాయి</item>
+        <item quantity="one">1 అంశం పునరుద్ధరించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d అంశాలు పునరుద్ధరించబడ్డాయి</item>
+        <item quantity="one">1 అంశం పునరుద్ధరించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d అంశాలు \"%2$s\" నుండి తీసివేయబడ్డాయి</item>
+        <item quantity="one">1 అంశం \"%2$s\" నుండి తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d ఫోల్డర్ నుండి అంశాలు తీసివేయబడ్డాయి</item>
+        <item quantity="one">ఫోల్డర్ నుండి 1 అంశం తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d అంశాలు తీసివేయబడ్డాయి</item>
+        <item quantity="one">1 అంశం తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d1 అంశాలు తిరిగి పూర్వస్థానానికి తరలించబడ్డాయి</item>
+        <item quantity="one">1 అంశం తిరిగి పూర్వస్థానానికి తరలించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d అంశాలు తిరిగి ట్రాష్‌కు తరలించబడ్డాయి</item>
+        <item quantity="one">1 అంశం తిరిగి ట్రాష్‌కు తరలించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d అంశాలు తీసివేయబడ్డాయి</item>
+        <item quantity="one">1 అంశం తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d1 అంశాలు \"%2$s\"కు జోడించబడ్డాయి</item>
+        <item quantity="one">1 అంశం \"%2$s\"కు జోడించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d అంశాలు జోడించబడ్డాయి</item>
+        <item quantity="one">1 అంశం జోడించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$dఅంశాలు పునరుద్ధరించి, \"%2$s\"కి జోడించబడ్డాయి</item>
+        <item quantity="one">1 అంశం పునరుద్ధరించి, \"%2$s\"కి జోడించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d1 అంశం \"%2$s\"కి తరలించబడ్డాయి.</item>
+        <item quantity="one">1 అంశం \"%2$s\"కి తరలించబడింది.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d అంశాలు తరలించబడ్డాయి</item>
+        <item quantity="one">1 అంశం తరలించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d అంశాలు పునరుద్ధరించి, \"%2$s\"కి తరలించబడింది.</item>
+        <item quantity="one">1 అంశం పునరుద్ధరించి, \"%2$s\"కి తరలించబడింది.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d అంశాలు పునరుద్ధరించబడ్డాయి.</item>
+        <item quantity="one">1 అంశం పునరుద్ధరించబడింది</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d అంశం \"%2$s\"కి పునరుద్ధరించబడ్డాయి.</item>
+        <item quantity="one">1 అంశం \"%2$s\"కి పునరుద్ధరించబడింది.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">ఫైల్‌లను దీనితో పంపు</item>
+        <item quantity="one">ఫైల్‌ను దీనితో పంపు</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d వ్యక్తులు ఇప్పుడు యాక్సెస్ చేయవచ్చు</item>
+        <item quantity="one">ఇప్పుడు ఒక వ్యక్తి యాక్సెస్ చేయవచ్చు</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s మరియు %2$d మంది ఇతరులు ఇప్పుడు యాక్సెస్ చేయగలరు</item>
+        <item quantity="one">%1$s మరియు ఇంకొకరు ఇప్పుడు యాక్సెస్ చేయగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d మంది వ్యక్తులు ఇప్పుడు వ్యాఖ్యలను జోడించగలరు</item>
+        <item quantity="one">ఒక వ్యక్తి ఇప్పుడు వ్యాఖ్యలను జోడించగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s మరియు %2$d మంది ఇతరులు ఇప్పుడు వ్యాఖ్యలను జోడించగలరు</item>
+        <item quantity="one">%1$s మరియు ఇంకొకరు ఇప్పుడు వ్యాఖ్యలను జోడించగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d వ్యక్తులు ఇప్పుడు సవరించగలరు</item>
+        <item quantity="one">ఒక వ్యక్తి ఇప్పుడు సవరించగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s మరియు మరో %2$d ఇప్పుడు సవరించగలరు</item>
+        <item quantity="one">%1$s మరియు ఇంకొకరు ఇప్పుడు సవరించగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d వ్యక్తులు ఇప్పుడు చూడగలరు</item>
+        <item quantity="one">ఒక వ్యక్తి ఇప్పుడు చూడగలరు</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s మరియు మరో %2$d ఇప్పుడు చూడగలరు</item>
+        <item quantity="one">%1$s మరియు ఇంకొకరు ఇప్పుడు చూడగలరు</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">డిస్క్ నిల్వ గడువు %1$d రోజులలో ముగుస్తుంది</item>
+        <item quantity="one">డిస్క్ నిల్వ గడువు %1$d రోజులో ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d మంది వ్యక్తులు షేర్ చేసిన డిస్క్‌కు జోడించబడ్డారు</item>
+        <item quantity="one">ఒక వ్యక్తి షేర్ చేసిన డిస్క్‌కు జోడించబడ్డారు</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s మరియు %3$d %1$sకు జోడించబడ్డారు</item>
+        <item quantity="one">%2$s మరియు ఇంకొకరు %1$sకు జోడించబడ్డారు</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d మంది సభ్యులు</item>
+        <item quantity="one">1 సభ్యుడు</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">అన్నింటినీ ఇప్పుడు మళ్లీ ప్రారంభించు</item>
+        <item quantity="one">ఇప్పుడు మళ్లీ ప్రారంభించు</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$d ఫైల్‌లు అప్‌లోడ్ చేయడం రద్దు చేయబడ్డాయి.</item>
+        <item quantity="one">%1$d ఫైల్ అప్‌లోడ్ చేయడం రద్దు చేయబడింది.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d ఫైల్‌లను అప్‌లోడ్ కోసం షెడ్యూల్ చేయలేకపోయింది.</item>
+        <item quantity="one">%1$d ఫైల్‌ను అప్‌లోడ్ కోసం షెడ్యూల్ చేయలేకపోయింది.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d ఫైల్‌లు అప్‌లోడ్ చేయబడ్డాయి.</item>
+        <item quantity="one">%1$d ఫైల్ అప్‌లోడ్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%2$d ఫైల్‌లలో %1$d అప్‌లోడ్ చేయలేకపోయింది.</item>
+        <item quantity="one">%2$d ఫైల్‌లలో %1$d అప్‌లోడ్ చేయలేకపోయింది.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d ఫైల్‌లను అప్‌లోడ్ చేస్తోంది.</item>
+        <item quantity="one">%1$d ఫైల్‌ను అప్‌లోడ్ చేస్తోంది.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">అప్‌లోడ్‌లు పాజ్ చేయబడ్డాయి, నెట్‌వర్క్ కోసం వేచి ఉంది…</item>
+        <item quantity="one">అప్‌లోడ్ పాజ్ చేయబడింది, నెట్‌వర్క్ కోసం వేచి ఉంది…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d అప్‌లోడ్‌లు పాజ్ చేయబడ్డాయి.</item>
+        <item quantity="one">%1$d అప్‌లోడ్ పాజ్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">అప్‌లోడ్‌లు పాజ్ చేయబడ్డాయి, Wi-Fi కోసం వేచి ఉన్నాయి…</item>
+        <item quantity="one">అప్‌లోడ్ పాజ్ చేయబడింది, Wi-Fi కోసం వేచి ఉంది.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d ఫైల్‌లను అప్‌లోడ్ చేయడానికి సిద్ధమవుతున్నాయి.</item>
+        <item quantity="one">%1$d ఫైల్‌ను అప్‌లోడ్ చేయడానికి సిద్ధమవుతోంది.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">మీ %1$d ఫైల్‌లు దీనికి అప్‌లోడ్ చేయబడుతున్నాయి: %2$s</item>
+        <item quantity="one">మీ %1$d ఫైల్ దీనికి అప్‌లోడ్ చేయబడుతోంది: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$d ఫైల్‌లని చూడండి</item>
+        <item quantity="one">%1$d ఫైల్‌ని చూడండి</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%2$sలో %1$d ఫైల్‌లను చూడండి</item>
+        <item quantity="one">%2$sలో %1$d ఫైల్‌ను చూడండి</item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Настройка не завершена, так как не удалось установить %1$d обязательного приложения. Обратитесь к системному администратору.</item>
+        <item quantity="one">Настройка не завершена, так как не удалось установить %1$d обязательное приложение. Обратитесь к системному администратору.</item>
+        <item quantity="few">Настройка не завершена, так как не удалось установить %1$d обязательных приложения. Обратитесь к системному администратору.</item>
+        <item quantity="many">Настройка не завершена, так как не удалось установить %1$d обязательных приложений. Обратитесь к системному администратору.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Не удалось установить приложения</item>
+        <item quantity="one">Не удалось установить приложения</item>
+        <item quantity="few">Не удалось установить приложения</item>
+        <item quantity="many">Не удалось установить приложения</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Установлено %1$d приложения из %2$d</item>
+        <item quantity="one">Установлено %1$d приложение из %2$d</item>
+        <item quantity="few">Установлено %1$d приложения из %2$d</item>
+        <item quantity="many">Установлено %1$d приложений из %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Удалить приложения</item>
+        <item quantity="one">Удалить приложения</item>
+        <item quantity="few">Удалить приложения</item>
+        <item quantity="many">Удалить приложения</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> дня</item>
+        <item quantity="one">Остался &lt;annotation id="numeric_time_left">^1&lt;/annotation> день</item>
+        <item quantity="few">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> дня</item>
+        <item quantity="many">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> дней</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> часа</item>
+        <item quantity="one">Остался &lt;annotation id="numeric_time_left">^1&lt;/annotation> час</item>
+        <item quantity="few">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> часа</item>
+        <item quantity="many">Осталось &lt;annotation id="numeric_time_left">^1&lt;/annotation> часов</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Предустановлено %1$d приложения из %2$d</item>
+        <item quantity="one">Предустановлено %1$d приложение из %2$d</item>
+        <item quantity="few">Предустановлено %1$d приложения из %2$d</item>
+        <item quantity="many">Предустановлено %1$d приложений из %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Доступно %1$d приложения (установлено: %2$d, отключено: %3$d)</item>
+        <item quantity="one">Доступно %1$d приложение (установлено: %2$d, отключено: %3$d)</item>
+        <item quantity="few">Доступны %1$d приложения (установлено: %2$d, отключено: %3$d)</item>
+        <item quantity="many">Доступны %1$d приложений (установлено: %2$d, отключено: %3$d)</item>
+    </plurals>
+</resources>

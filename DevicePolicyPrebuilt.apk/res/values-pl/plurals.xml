@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nie można dokończyć konfiguracji, ponieważ nie udało się zainstalować %1$d wymaganej aplikacji. Skontaktuj się bezpośrednio z administratorem systemu.</item>
+        <item quantity="one">Nie można dokończyć konfiguracji, ponieważ nie udało się zainstalować %1$d wymaganej aplikacji. Skontaktuj się bezpośrednio z administratorem systemu.</item>
+        <item quantity="few">Nie można dokończyć konfiguracji, ponieważ nie udało się zainstalować %1$d wymaganych aplikacji. Skontaktuj się bezpośrednio z administratorem systemu.</item>
+        <item quantity="many">Nie można dokończyć konfiguracji, ponieważ nie udało się zainstalować %1$d wymaganych aplikacji. Skontaktuj się bezpośrednio z administratorem systemu.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nie można zainstalować aplikacji</item>
+        <item quantity="one">Nie można zainstalować aplikacji</item>
+        <item quantity="few">Nie można zainstalować aplikacji</item>
+        <item quantity="many">Nie można zainstalować aplikacji</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="one">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="few">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="many">Zainstalowano %1$d z %2$d aplikacji</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Odinstaluj aplikacje</item>
+        <item quantity="one">Odinstaluj aplikację</item>
+        <item quantity="few">Odinstaluj aplikacje</item>
+        <item quantity="many">Odinstaluj aplikacje</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Pozostało &lt;annotation id="numeric_time_left">^1&lt;/annotation> dnia</item>
+        <item quantity="one">Pozostał &lt;annotation id="numeric_time_left">^1&lt;/annotation> dzień</item>
+        <item quantity="few">Pozostały &lt;annotation id="numeric_time_left">^1&lt;/annotation> dni</item>
+        <item quantity="many">Pozostało &lt;annotation id="numeric_time_left">^1&lt;/annotation> dni</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Pozostało &lt;annotation id="numeric_time_left">^1&lt;/annotation> godziny</item>
+        <item quantity="one">Pozostała &lt;annotation id="numeric_time_left">^1&lt;/annotation> godzina</item>
+        <item quantity="few">Pozostały &lt;annotation id="numeric_time_left">^1&lt;/annotation> godziny</item>
+        <item quantity="many">Pozostało &lt;annotation id="numeric_time_left">^1&lt;/annotation> godzin</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="one">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="few">Zainstalowano %1$d z %2$d aplikacji</item>
+        <item quantity="many">Zainstalowano %1$d z %2$d aplikacji</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Dostępne %1$d aplikacji (zainstalowane: %2$d, wyłączone: %3$d)</item>
+        <item quantity="one">Dostępna %1$d aplikacja (zainstalowane: %2$d, wyłączone: %3$d)</item>
+        <item quantity="few">Dostępne %1$d aplikacje (zainstalowane: %2$d, wyłączone: %3$d)</item>
+        <item quantity="many">Dostępnych %1$d aplikacji (zainstalowane: %2$d, wyłączone: %3$d)</item>
+    </plurals>
+</resources>

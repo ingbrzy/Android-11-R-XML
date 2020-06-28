@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_category_names">
+        <item>음식점</item>
+        <item>영화</item>
+        <item>날씨</item>
+    </string-array>
+    <string-array name="assistant_category_queries">
+        <item>음식점</item>
+        <item>주변 영화관</item>
+        <item>날씨</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>제목 없음</item>
+        <item>제목없음</item>
+    </string-array>
+    <string-array name="gif_category_names_tenor">
+        <item>사랑</item>
+        <item>예</item>
+        <item>키스</item>
+        <item>인사</item>
+        <item>포옹</item>
+        <item>파티</item>
+        <item>화남</item>
+        <item>신남</item>
+        <item>작별 인사</item>
+        <item>깔깔깔</item>
+        <item>울음</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>예</item>
+        <item>아니요</item>
+        <item>알겠습니다.</item>
+        <item>하하</item>
+        <item>감사합니다.</item>
+        <item>동의합니다.</item>
+        <item>좋습니다.</item>
+        <item>가는 중입니다.</item>
+        <item>나중에 연락드리겠습니다</item>
+        <item>^^</item>
+        <item>-_-</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>링크가 포함된 SMS</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>항상 SMS로 재전송</item>
+        <item>로밍을 사용하지 않을 경우 SMS로 재전송</item>
+        <item>재전송하기 전에 확인</item>
+        <item>SMS로 재전송하지 않음</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>항상 SMS/MMS로 재전송</item>
+        <item>로밍을 사용하지 않을 경우 SMS/MMS로 재전송</item>
+        <item>재전송하기 전에 확인</item>
+        <item>SMS/MMS로 재전송하지 않음</item>
+    </string-array>
+    <string-array name="rcs_mobile_data_auto_download_limit_entries">
+        <item>@string/rcs_mobile_data_auto_download_limit_default_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_2mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_5mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_10mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_25mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_50mb_entry</item>
+        <item>@string/rcs_mobile_data_auto_download_limit_disable_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_entries">
+        <item>@string/rcs_provisioning_flow_default_entry</item>
+        <item>@string/rcs_provisioning_flow_production_entry</item>
+        <item>@string/rcs_provisioning_flow_test_entry</item>
+    </string-array>
+    <string-array name="rcs_provisioning_flow_list_values">
+        <item>@string/rcs_provisioning_flow_default_value</item>
+        <item>@string/rcs_provisioning_flow_production_value</item>
+        <item>@string/rcs_provisioning_flow_test_value</item>
+    </string-array>
+    <string-array name="zss_contacts_synonyms">
+        <item>@string/zero_state_search_contacts</item>
+    </string-array>
+    <string-array name="zss_conversations_synonyms">
+        <item>@string/zero_state_search_conversations</item>
+    </string-array>
+    <string-array name="zss_images_synonyms">
+        <item>@string/zero_state_search_images</item>
+        <item>@string/zero_state_search_photos</item>
+        <item>@string/zero_state_search_pictures</item>
+        <item>@string/zero_state_search_screenshots</item>
+    </string-array>
+    <string-array name="zss_links_synonyms">
+        <item>@string/zero_state_search_links</item>
+    </string-array>
+    <string-array name="zss_places_synonyms">
+        <item>@string/zero_state_search_places</item>
+        <item>@string/zero_state_search_locations</item>
+        <item>@string/zero_state_search_addresses</item>
+        <item>@string/zero_state_search_streets</item>
+        <item>@string/zero_state_search_restaurants</item>
+    </string-array>
+    <string-array name="zss_videos_synonyms">
+        <item>@string/zero_state_search_videos</item>
+        <item>@string/zero_state_search_movies</item>
+    </string-array>
+</resources>

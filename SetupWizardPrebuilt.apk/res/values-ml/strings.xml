@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">മുകളിലേക്ക് പോവുക</string>
+    <string name="abc_action_mode_done">പൂർത്തിയായി</string>
+    <string name="abc_capital_off">ഓഫ്</string>
+    <string name="abc_capital_on">ഓൺ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ഇല്ലാതാക്കുക</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">ഫംഗ്ഷന്‍+</string>
+    <string name="abc_menu_meta_shortcut_label">മെറ്റ+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">സ്‌പെയ്‌സ്</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">മെനു+</string>
+    <string name="abc_search_hint">തിരയുക…</string>
+    <string name="abc_searchview_description_clear">ചോദ്യം മായ്‌ക്കുക</string>
+    <string name="abc_searchview_description_search">തിരയുക</string>
+    <string name="abc_searchview_description_submit">ചോദ്യം സമർപ്പിക്കുക</string>
+    <string name="abc_searchview_description_voice">സംസാരത്തിലൂടെ തിരയുക</string>
+    <string name="abc_toolbar_collapse_description">ചുരുക്കുക</string>
+    <string name="accessibility_no_wifi">വൈഫൈ വിച്ഛേദിച്ചു.</string>
+    <string name="accessibility_wifi_one_bar">വൈഫൈ ഒരു ബാർ.</string>
+    <string name="accessibility_wifi_security_type_none">ഓപ്പൺ നെറ്റ്‍വർക്ക്</string>
+    <string name="accessibility_wifi_security_type_secured">സുരക്ഷിത നെറ്റ്‌വർക്ക്</string>
+    <string name="accessibility_wifi_signal_full">വൈഫൈ മികച്ച സിഗ്‌നൽ.</string>
+    <string name="accessibility_wifi_three_bars">വൈഫൈ മൂന്ന് ബാറുകൾ.</string>
+    <string name="accessibility_wifi_two_bars">വൈഫൈ രണ്ട് ബാറുകൾ.</string>
+    <string name="account_exists_info">"നിങ്ങളുടെ ഇമെയിൽ, കോൺടാക്റ്റുകൾ, കലണ്ടർ ഇവന്റുകൾ എന്നിവയും അതിലേറെയും ഇതിലേക്ക് സമന്വയിക്കും {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}. Google Play-യിൽ നിന്ന് ആപ്പുകൾ, സംഗീതം, ഗെയിമുകൾ എന്നിവ ഡൗൺലോഡ് ചെയ്യുന്നത് ആരംഭിക്കാനും നിങ്ങൾ തയ്യാറായിക്കഴിഞ്ഞു.
+
+ക്രമീകരണം > അക്കൗണ്ടുകൾ എന്നതിലേക്ക് പോയി, നിങ്ങൾക്ക് അക്കൗണ്ടുകൾ ചേർക്കുകയും പിന്നീട് നീക്കം ചെയ്യുകയും ചെയ്യാം."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> തയ്യാറാണ്.</string>
+    <string name="account_exists_text_unknown_name">നിങ്ങളുടെ അക്കൗണ്ട് തയ്യാറാണ്.</string>
+    <string name="account_exists_title">{accounts,plural, =1{അക്കൗണ്ട് ചേർത്തു}other{അക്കൗണ്ടുകൾ ചേർത്തു}}</string>
+    <string name="activating_carrier_service_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="activating_unknown_carrier_service_title">സജീവമാക്കുന്നു…</string>
+    <string name="activation_failed_message">"നിങ്ങൾക്ക് ഇനിപ്പറയുന്നവ ചെയ്യാനാകും:
+"<ul><li>മൊബൈൽ ഡാറ്റയിലേക്ക് വീണ്ടും കണക്റ്റ് ചെയ്യാൻ ശ്രമിക്കാം</li>"
+"<li>സജ്ജീകരിക്കാൻ മറ്റൊരു നെറ്റ്‌വർക്ക് ഉപയോഗിക്കാം</li></ul>"
+
+ഈ ഓപ്ഷനുകൾ പ്രവർത്തിക്കുന്നില്ലെങ്കിൽ, നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} എന്നിവ റീസ്‌റ്റാർട്ട് ചെയ്യാനും വീണ്ടും ശ്രമിക്കാനും."</string>
+    <string name="activation_failed_title">മൊബൈൽ ഡാറ്റയിലേക്ക് കണക്റ്റ് ചെയ്യാൻ കഴിയുന്നില്ല</string>
+    <string name="activation_progress_flow">"ഒരുപാട് സമയം എടുക്കുന്നുണ്ടോ?
+
+മൊബൈൽ ഡാറ്റയിലേക്ക് കണക്റ്റുചെയ്യുന്നതിന് സമയമെടുക്കുന്നുവെന്ന് തോന്നുന്നു. പകരം, നിങ്ങൾക്ക് തിരികെ പോവുകയും മറ്റൊരു നെറ്റ്‌വർക്കിലേക്ക് കണക്റ്റുചെയ്യാൻ ശ്രമിക്കുകയും ചെയ്യാവുന്നതാണ്."</string>
+    <string name="activation_title">മൊബൈൽ സേവനത്തിലേക്ക് കണക്‌റ്റുചെയ്യുന്നു…</string>
+    <string name="activation_unprovisioned_sim_message">നിങ്ങളുടെ ഇനിപ്പറയുന്നവ പുനരാരംഭിക്കുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} വീണ്ടും ശ്രമിക്കുക, അല്ലെങ്കിൽ സജ്ജീകരിക്കുന്നതിന് വൈഫൈയിലേക്ക് കണക്റ്റ് ചെയ്യുക. തുടർന്നും മൊബൈൽ ഡാറ്റ സജീവമാക്കുന്നതിൽ നിങ്ങൾക്ക് ബുദ്ധിമുട്ടുണ്ടെങ്കിൽ, കാരിയറുമായി ബന്ധപ്പെടുക.</string>
+    <string name="activation_unprovisioned_title">മൊബൈൽ ഡാറ്റ സജീവമാക്കാൻ കഴിഞ്ഞില്ല</string>
+    <string name="android_privacy_policy_title">അധിക സ്വകാര്യതാ നയം</string>
+    <string name="available_via_carrier">%1$s വഴി ലഭ്യം</string>
+    <string name="cancel_button_label">റദ്ദാക്കുക</string>
+    <string name="captive_portal_connection_unsuccessful">ഇന്റർനെറ്റിലേക്ക് കണക്റ്റ് ചെയ്യാനായില്ല</string>
+    <string name="captive_portal_description_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="captive_portal_ssl_error_text">ഈ കണക്ഷൻ സുരക്ഷിതമല്ലാത്ത അല്ലെങ്കിൽ അസാധുവായ സർട്ടിഫിക്കറ്റ് ഉപയോഗിക്കുന്നു. മറ്റൊരു നെറ്റ്‌വർക്ക് തിരഞ്ഞെടുത്ത് വീണ്ടും ശ്രമിച്ചുനോക്കുക.</string>
+    <string name="captive_portal_title">കണക്‌റ്റുചെയ്യുന്നു...</string>
+    <string name="chrome_privacy_title">Chrome സ്വകാര്യതാ അറിയിപ്പ്</string>
+    <string name="chrome_tos_title">Chrome സേവന നിബന്ധനകൾ</string>
+    <string name="close_button_label">അവസാനിപ്പിക്കുക</string>
+    <string name="common_google_play_services_enable_button">പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="common_google_play_services_enable_text">നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="common_google_play_services_enable_title">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="common_google_play_services_install_button">ഇന്‍സ്റ്റാള്‍ ചെയ്യുക</string>
+    <string name="common_google_play_services_install_text">Google Play സേവനങ്ങളില്ലാതെ %1$s പ്രവർത്തിക്കില്ല, ഈ സേവനങ്ങളാകട്ടെ നിങ്ങളുടെ ഉപകരണത്തിൽ ഇല്ല.</string>
+    <string name="common_google_play_services_install_title">Google Play സേവനങ്ങൾ നേടുക</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play സേവന ലഭ്യത</string>
+    <string name="common_google_play_services_notification_ticker">Google Play സേവനങ്ങളിലെ പിശക്</string>
+    <string name="common_google_play_services_unknown_issue">Google Play സേവനങ്ങളുമായി ബന്ധപ്പെട്ട് %1$s ആപ്പിനെന്തോ പ്രശ്നമുണ്ട്. വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play സേവനങ്ങളില്ലാതെ %1$s പ്രവർത്തിക്കില്ല, സേവനങ്ങളെയാകട്ടെ നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്ക്കുന്നുമില്ല.</string>
+    <string name="common_google_play_services_update_button">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="common_google_play_services_update_text">നിങ്ങൾ Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="common_google_play_services_update_title">Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="common_google_play_services_updating_text">നിലവിൽ അപ്‌ഡേറ്റുചെയ്യുന്ന Google Play സേവനങ്ങൾ ഇല്ലാതെ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="connect_to_wifi_btn_text">വൈഫൈ ക്രമീകരണം</string>
+    <string name="connect_to_wifi_message">തുടരാൻ വൈഫൈയിലേക്ക് കണക്റ്റ് ചെയ്യുക</string>
+    <string name="connect_to_wifi_title">ആപ്പ് അപ്‌ഡേറ്റുകൾ തയ്യാറാണ്</string>
+    <string name="connected_via_app">%1$s മുഖേന കണക്‌റ്റ് ചെയ്‌തു</string>
+    <string name="connected_via_carrier">%1$s വഴി ബന്ധിപ്പിച്ചു</string>
+    <string name="connected_via_network_scorer_default">നെറ്റ്‌വർക്ക് റേറ്റിംഗ് ദാതാവുമായി സ്വയം കണക്‌റ്റുചെയ്‌തു</string>
+    <string name="consolidate_captive_portal_description_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="consolidate_captive_portal_title">അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുന്നു…</string>
+    <string name="continue_for_a11y">ഉപയോഗസഹായി മോഡ് പ്രവർത്തനക്ഷമമാക്കുന്നതിന് ബീപ് ശബ്‌ദം കേൾക്കുന്നതുവരെ സ്‌ക്രീനിൽ സ്‌പർശിക്കുന്നത് തുടരുക.</string>
+    <string name="date_time_current_date">തീയതി</string>
+    <string name="date_time_current_time">സമയം</string>
+    <string name="date_time_message">അവശ്യമെങ്കിൽ ക്രമീകരിക്കുക.</string>
+    <string name="date_time_setup_title">തീയതിയും സമയവും</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">തുടരുക</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">അധിക ഘട്ടങ്ങളിൽ Google അസിസ്റ്റന്റ്, Google Pay, ഇപ്പോൾ കേൾക്കുന്നത്, ഫോണ്ട് വലുപ്പം, വാൾപേപ്പർ എന്നിവയും മറ്റും ഉൾപ്പെടുന്നു</string>
+    <string name="decision_point_leave_setup">പുറത്ത് കടന്ന് റിമൈൻഡർ സ്വീകരിക്കുക</string>
+    <string name="decision_point_now_playing">ഇപ്പോൾ പ്ലേ ചെയ്യുന്നത്</string>
+    <string name="default_device_name_device">ഉപകരണം</string>
+    <string name="default_device_name_phone">ഫോൺ</string>
+    <string name="default_device_name_tablet">ടാബ്‌ലെറ്റ്</string>
+    <string name="deferred_notification_prompt_title">നിങ്ങളുടെ ^1 സജ്ജീകരിക്കൽ ‌പൂർത്തിയാക്കുക</string>
+    <string name="deferred_setup_button_label">സജ്ജമാക്കൽ പൂർത്തിയാക്കുക</string>
+    <string name="deferred_setup_wizard_reason_assistant">നിങ്ങളുടെ Assistant-നോട് സംസാരിക്കുക</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">നിങ്ങളുടെ Google അസിസ്‌റ്റന്റിനോട് സംസാരിക്കുക</string>
+    <string name="deferred_setup_wizard_reason_default">കുറച്ച് ഘട്ടങ്ങൾ കൂടി മാത്രം</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">നിങ്ങളുടെ ഡാറ്റ പകർത്തുക</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay ഉപയോഗിക്കുക</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay ഉപയോഗിച്ച് വേഗത്തിൽ പണമടയ്ക്കുക</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 എന്നതും മറ്റും</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 എന്നിവയും മറ്റും</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">വേഗത്തിലുള്ള ഏതാനും ചില ഘട്ടങ്ങൾ പൂർത്തിയാക്കിയാലുടൻ നിങ്ങളുടെ ^1 തയ്യാറാകും</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">വാൾപേപ്പർ സജ്ജീകരിക്കുക</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">നിങ്ങളുടെ വാൾപേപ്പർ സജ്ജീകരിക്കുക</string>
+    <string name="deferred_setup_wizard_title">നിങ്ങളുടെ ഉപകരണം സജ്ജീകരിക്കൽ ‌പൂർത്തിയാക്കുക</string>
+    <string name="deferred_snooze_dialog_option_never">ഒരിക്കലും വേണ്ട</string>
+    <string name="deferred_snooze_dialog_option_today">ഇന്ന് കുറച്ചുകഴിഞ്ഞ്</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">നാളെ</string>
+    <string name="deferred_snooze_dialog_title">എന്നെ ഓർമ്മപ്പെടുത്തുക</string>
+    <string name="deferred_welcome_airplane_mode_message">"അവസാന സജ്ജീകരണ ഘട്ടങ്ങൾ പൂർത്തിയാക്കാൻ കണക്ഷൻ ആവശ്യമാണ്.
+
+ഫ്ലൈറ്റ് മോഡ് ഓണായിരിക്കുമ്പോൾ, വൈഫൈ, മൊബൈൽ നെറ്റ്‌വർക്കുകൾ, Bluetooth തുടങ്ങിയ കണക്ഷനുകൾ വിച്ഛേദിക്കപ്പെടും."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">പിന്നീട് സജ്ജീകരിക്കുക</string>
+    <string name="deferred_welcome_airplane_mode_title">ഫ്ലൈറ്റ് മോഡ് ഓഫാക്കണോ?</string>
+    <string name="deferred_welcome_screen_cancel_button">പിന്നീട് എന്നെ ഓർമ്മിപ്പിക്കുക</string>
+    <string name="deferred_welcome_title">^1 സജ്ജമാക്കൽ പൂർത്തിയാക്കുക</string>
+    <string name="deferred_welcome_turn_off_button_label">ഓഫുചെയ്യുക</string>
+    <string name="device_owner_continue">സജ്ജീകരിക്കുന്നത് തുടരുക</string>
+    <string name="device_owner_reset">{DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} റീസെറ്റ് ചെയ്യുക</string>
+    <string name="device_owner_warning">{0} നിങ്ങളുടെ, ഇനിപ്പറയുന്നവ മാനേജ് ചെയ്യുന്നു {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} ഒപ്പം നിങ്ങളുടെ വിവരങ്ങൾ ആക്‌സസ് ചെയ്യാനാവും. {0}-ന് ആക്‌സസ് വേണമെന്ന് നിങ്ങൾ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, ഇനിപ്പറയുന്നവ പുനഃസജ്ജീകരിക്കുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} നിരീക്ഷിക്കാനാവും</string>
+    <string name="dialog_back_button_label">മടങ്ങുക</string>
+    <string name="dialog_continue_button_label">തുടരുക</string>
+    <string name="early_update_installing_updates_text">അപ്‌ഡേറ്റുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്നു</string>
+    <string name="early_update_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="early_update_timeout_text">കൂടുതൽ സമയമെടുക്കുന്നുണ്ടോ? തിരികെപ്പോയി മറ്റൊരു നെറ്റ്‌വർക്കിൽ കണക്‌റ്റ് ചെയ്‌ത് ശ്രമിക്കുക.</string>
+    <string name="early_update_title">അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുന്നു…</string>
+    <string name="emergency_dial">അടിയന്തര കോൾ</string>
+    <string name="enabled_a11y">ഉപയോഗസഹായി മോഡ് പ്രവർത്തനക്ഷമമാക്കി.</string>
+    <string name="esim_option_button_summary">ഇ-സിം ഉപയോഗിച്ച് ഒരു നമ്പർ ചേർക്കുക</string>
+    <string name="esim_option_button_title">പകരം സിം ഡൗൺലോഡ് ചെയ്യണോ?</string>
+    <string name="esim_warning_title">നിങ്ങളുടെ സിം ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="esim_warning_txt">നിങ്ങളൊരു %1$s സബ്‌സ്‌ക്രൈബറാണെങ്കിൽ, ഒരു സിം കാർഡ് ഇടുന്നതിന് പകരമായി eSIM ഡൗൺലോഡ് ചെയ്ത്‌ നിങ്ങൾക്ക് കോളുകളും ടെക്സ്റ്റും ഡാറ്റയും സ്വീകരിക്കാം.</string>
+    <string name="esim_warning_txt_default">സാധാരണയായി ഒരു സിം കാർഡിലുള്ള വിവരങ്ങൾ ഡൗൺലോഡ് ചെയ്യുക വഴി നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്കുമായി കണക്റ്റ് ചെയ്യുക. ഇത് സാധാരണ സിം കാർഡുകളെ മാറ്റി സ്ഥാപിക്കും, അവയെപ്പോല സുരക്ഷിതവുമാണ്.</string>
+    <string name="exit_loading_launcher">ലോഞ്ചർ ലോഡുചെയ്യുന്നു…</string>
+    <string name="factory_reset_button">മായ്‌ക്കുക, ഫോർമാറ്റ് ചെയ്യുക</string>
+    <string name="factory_reset_confirmation">ഇതിൽ എല്ലാ അക്കൗണ്ടുകളും വിവരവും മായ്ക്കുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}? ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാകില്ല!</string>
+    <string name="factory_reset_confirmation_title">റീസെറ്റുചെയ്യണോ?</string>
+    <string name="factory_reset_instructions">മുന്നറിയിപ്പ്: റീസെറ്റ് ചെയ്യുന്നത് ഇതിലെ എല്ലാ അക്കൗണ്ടുകളും ഡാറ്റായും മായ്ക്കും {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}-ന്റെ ഉള്ളിലെ മെമ്മറി.</string>
+    <string name="factory_reset_title">റീസെറ്റ് ചെയ്യുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}</string>
+    <string name="final_hold_description_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="final_hold_title">മിനുക്കുപണികൾ നടത്തുന്നു…</string>
+    <string name="final_hold_title_setup_work_account">ഫോണ്‍ സജ്ജീകരണത്തിന് തയ്യാറെടുക്കുന്നു…</string>
+    <string name="gms_account_checkin_title">അക്കൗണ്ട് വിവരങ്ങൾ സ്വീകരിക്കുന്നു…</string>
+    <string name="gms_checkin_description_text">ഇതിന് കുറച്ച് സമയമെടുത്തേക്കാം</string>
+    <string name="gms_checkin_description_text_timeout">കൂടുതൽ സമയമെടുക്കുന്നുണ്ടോ? തിരികെപ്പോയി മറ്റൊരു നെറ്റ്‌വർക്കിൽ കണക്‌റ്റ് ചെയ്‌ത് ശ്രമിക്കുക.</string>
+    <string name="gms_checkin_title">അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുന്നു…</string>
+    <string name="go_back_button_label">മടങ്ങുക</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play സേവന നിബന്ധനകൾ</string>
+    <string name="google_plus_privacy_policy_title">Google Plus സ്വകാര്യത നയം</string>
+    <string name="google_privacy_policy_title">Google സ്വകാര്യത നയം</string>
+    <string name="google_provisioning_disclaimer_content">Google സേവന നിബന്ധനകളും സ്വകാര്യതാ നയവും ബാധകം. കൂടുതൽ ‌വിവരങ്ങൾക്ക്, &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> സന്ദർശിക്കുക.</string>
+    <string name="google_terms_of_service_title">Google സേവന നിബന്ധനകൾ</string>
+    <string name="invalid_phone_number">അജ്ഞാതമായ ഫോൺ നമ്പർ</string>
+    <string name="invalid_qr_code_content">ശരിയായ കോഡിന് വേണ്ടി ഐടി അഡ്‌മിനോട് ചോദിക്കുക</string>
+    <string name="invalid_qr_code_retry">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="invalid_qr_code_title">തെറ്റായ QR കോഡ്</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, iTunes എന്നിവ Apple Inc-ന്‍റെ വ്യാപാരമുദ്രകളാണ്, ഇവ യുഎസിലും മറ്റ് രാജ്യങ്ങളിലും രജിസ്റ്റർ ചെയ്തിട്ടുള്ളവയുമാണ്.</string>
+    <string name="language_picker_section_all">എല്ലാ ഭാഷകളും</string>
+    <string name="language_picker_section_suggested">നിര്‍‌ദ്ദേശിച്ചത്</string>
+    <string name="migrate_from_ios_description">ഈ ഘട്ടങ്ങൾ പാലിക്കുക:</string>
+    <string name="migrate_from_ios_header">നിങ്ങളുടെ വിവരങ്ങൾ പകർത്തുക</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari® തുറക്കുക</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b> എന്നതിലേക്ക് പോവുക</string>
+    <string name="migrate_from_ios_instructions_3">3. നിർദ്ദേശങ്ങൾ പാലിക്കുക</string>
+    <string name="network_description_text">നെറ്റ്‌വർക്ക് തിരഞ്ഞെടുക്കുക</string>
+    <string name="network_description_text_esim">SIM ഡൗൺലോഡ് ചെയ്യാൻ വൈഫൈയിൽ കണക്റ്റ് ചെയ്യുക</string>
+    <string name="network_see_all_wifi">എല്ലാ വൈഫൈ നെറ്റ്‌വർക്കുകളും കാണുക</string>
+    <string name="network_timeout_description_text">മറ്റൊരു നെറ്റ്‌വർക്ക് ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക. കണക്ഷനില്ലാതെ നിങ്ങൾ തുടരുകയാണെങ്കിൽ, ചില സജ്ജീകരണ ഘട്ടങ്ങൾ പിന്നീട് പൂർത്തിയാക്കാം.</string>
+    <string name="network_timeout_title">കണക്റ്റ് ചെയ്യാനായില്ല</string>
+    <string name="network_timeout_try_another_network_button">മറ്റൊരു നെറ്റ്‌വർക്ക് പരീക്ഷിക്കുക</string>
+    <string name="network_title">വൈഫൈയിൽ കണക്റ്റ് ചെയ്യുക</string>
+    <string name="network_use_cellular">സജ്ജമാക്കലിന് മൊബൈൽ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കുക</string>
+    <string name="network_use_cellular_carrier">വൈഫൈയിലേക്ക് പിന്നീട് കണക്റ്റ് ചെയ്യുക</string>
+    <string name="network_wifi_continue_button">തുടരുക</string>
+    <string name="not_set">സജ്ജീകരിച്ചിട്ടില്ല</string>
+    <string name="notification_channel_name_deferred">അധിക സജ്ജീകരണം</string>
+    <string name="notification_channel_name_initial">സജ്ജീകരണം</string>
+    <string name="notification_channel_name_restore">ഡാറ്റ പുനഃസ്ഥാപിക്കൽ</string>
+    <string name="notification_channel_security_name_warnings">സുരക്ഷാ മുന്നറിയിപ്പുകൾ</string>
+    <string name="ok_button_label">ശരി</string>
+    <string name="ota_agreement_text">ഈ സോഫ്‌റ്റ്‌വെയർ അപ്ഡേറ്റിൽ തുടർന്ന് അത് നേടുന്നതിലൂടെ, നിങ്ങൾ <annotation link="tos">Google സേവന നിബന്ധനകളും</annotation> <annotation link="google_privacy">സ്വകാര്യത നയവും</annotation> അംഗീകരിക്കുന്നു.</string>
+    <string name="ota_info">നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്‌ത് പുനരാരംഭിക്കേണ്ടതുണ്ട്.</string>
+    <string name="ota_size">വലുപ്പം: %s</string>
+    <string name="ota_update_title">അപ്ഡേറ്റ് ചെയ്യുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}</string>
+    <string name="predeferred_prepare_setup">സജ്ജമാക്കലിന് തയ്യാറെടുക്കുന്നു…</string>
+    <string name="predeferred_prepare_setup_details">നിങ്ങളുടെ ^1 സജ്ജീകരണം ഉടൻ പൂർത്തിയാക്കാനാവും</string>
+    <string name="predeferred_wifi_required_notification_connect_button">വൈഫൈയിൽ കണക്റ്റ് ചെയ്യുക</string>
+    <string name="predeferred_wifi_required_notification_content">തുടരാൻ വൈഫൈയിലേക്ക് കണക്റ്റ് ചെയ്യുക</string>
+    <string name="predeferred_wifi_required_notification_title">ആപ്പ് അപ്‌ഡേറ്റുകൾ തയ്യാറാണ്</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR കോഡിനായി സ്കാൻ ചെയ്യുന്നു</string>
+    <string name="region_picker_section_all">എല്ലാ പ്രദേശങ്ങളും</string>
+    <string name="restart_setup_wizard_button_label">ഇനിപ്പറയുന്നവ സജ്ജീകരിക്കുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}</string>
+    <string name="restart_setup_wizard_dialog_text">"ഇത് ഉപയോഗിക്കാൻ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}, നിങ്ങൾ ആദ്യം ഒരു ഉടമയുടെ ഈ ഉപകരണത്തിൽ ഉപയോഗിക്കുന്ന Google അക്കൗണ്ടിലേക്ക് സൈൻ ഇൻ ചെയ്യണം {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} അത് അവസാനമായി റീസെറ്റ് ചെയ്‌തപ്പോൾ.
+
+നിങ്ങൾ അങ്ങിനെ ചെയ്യാത്തത് കാരണം, ഇനിപ്പറയുന്നവ സജ്ജീകരിക്കേണ്ടതുണ്ട് {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} വീണ്ടും."</string>
+    <string name="restart_setup_wizard_dialog_title">സൈൻ ഇൻ ചെയ്തിട്ടില്ല</string>
+    <string name="restore_failed_message">ബാക്കപ്പ് പുനഃസ്ഥാപിക്കാൻ കഴിയില്ല</string>
+    <string name="restore_no_backup_message">നിങ്ങളുടെ ഇതര ഉപകരണത്തിൽ ബാക്കപ്പുകളൊന്നും ലഭ്യമല്ല</string>
+    <string name="restore_no_backup_title">പുനഃസ്ഥാപിക്കാൻ കഴിയില്ല</string>
+    <string name="restore_stopped_message">ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുന്നത് പൂർത്തിയാക്കാൻ കഴിഞ്ഞില്ല</string>
+    <string name="restore_title">പുനഃസ്ഥാപിക്കുന്നു…</string>
+    <string name="setup_ongoing_notification_text">^1 സജ്ജീകരണം പൂർത്തിയാക്കാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="setup_ongoing_notification_title">^1 സജ്ജീകരണം പുരോഗതിയിലാണ്</string>
+    <string name="setup_wizard_title">Android സജ്ജീകരണം</string>
+    <string name="sim_locked_text">"ഈ ഫോൺ നിലവിൽ മറ്റൊരു ദാതാവിലേക്ക് ലോക്കുചെയ്തിരിക്കുകയാണ്. നിങ്ങളൊരു സാധുതയുള്ള സിം കാർഡ് ഉപയോഗിക്കേണ്ടതുണ്ട്.
+
+സിം കാർഡ് ഇട്ടുകഴിഞ്ഞാൽ, സജീവമാകുന്നതിന് കുറച്ച് സെക്കൻഡുകൾ എടുത്തേക്കാം."</string>
+    <string name="sim_locked_title">സിം കാർഡിന് പിന്തുണയില്ല</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{സിം കാർഡ് ഉണ്ടെങ്കിൽ, ഇപ്പോൾ തന്നെ ഇടുക}other{സിം കാർഡുകൾ ഉണ്ടെങ്കിൽ, ഇപ്പോൾ തന്നെ അവ ഇടുക}}</string>
+    <string name="sim_missing_title">മൊബൈൽ നെറ്റ്‌വർക്കിലേക്ക് കണക്റ്റുചെയ്യൂ</string>
+    <string name="sim_ready_message">%1$s ഉപയോഗത്തിന് തയ്യാറാണ്</string>
+    <string name="sim_ready_message_carrier_app">%1$s സജീവമാക്കുന്നത് പൂർത്തിയാക്കാൻ %2$s ആപ്പ് ഡൗൺലോഡ് ചെയ്യേണ്ടതുണ്ട്. തൽക്കാലം നമുക്ക് ഫോൺ സജ്ജീകരണം പൂർത്തിയാക്കാം.</string>
+    <string name="sim_ready_message_invalid_phone_number">നിങ്ങളുടെ നമ്പർ ഉപയോഗത്തിന് തയ്യാറായിരിക്കണം</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">നിങ്ങളുടെ നമ്പർ സജീവമാക്കുന്നത് പൂർത്തിയാക്കാൻ %1$s ആപ്പ് ഡൗൺലോഡ് ചെയ്യേണ്ടതുണ്ട്. തൽക്കാലം നമുക്ക് ഫോൺ സജ്ജീകരണം പൂർത്തിയാക്കാം.</string>
+    <string name="sim_ready_title">%1$s സജീവമാണ്</string>
+    <string name="sim_ready_title_carrier_app">%1$s-ലേക്ക് പിന്നീട് കണക്റ്റ് ചെയ്യുക</string>
+    <string name="sim_setup_ask_every_time">ഓരോ തവണയും ചോദിക്കുക</string>
+    <string name="sim_setup_select_data">മൊബൈൽ ഡാറ്റ മുൻഗണന</string>
+    <string name="sim_setup_select_data_description">മൊബൈൽ ഡാറ്റ ഉപയോഗിക്കാനുള്ള നമ്പർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="sim_setup_select_text">SMS മുൻഗണന</string>
+    <string name="sim_setup_select_text_description">ഔട്ട്‌ഗോയിംഗ് ടെക്‌സ്‌റ്റ് സന്ദേശങ്ങൾക്കായി ഒരു നമ്പർ തിരഞ്ഞെടുക്കുക (എല്ലാ സജീവ നമ്പറുകൾക്കും ഇന്‍‌കമിംഗ് ടെക്‌സ്‌റ്റ് സന്ദേശങ്ങൾ സ്വീകരിക്കാനാവും)</string>
+    <string name="sim_setup_select_voice">കോൾ മുൻഗണന</string>
+    <string name="sim_setup_select_voice_description">ഔട്ട്‌ഗോയിംഗ് കോളുകൾക്കായി ഒരു നമ്പർ തിരഞ്ഞെടുക്കുക (എല്ലാ സജീവ നമ്പറുകൾക്കും ഇന്‍‌കമിംഗ് കോളുകൾ സ്വീകരിക്കാനാവും)</string>
+    <string name="sim_setup_title">SIM കാർഡുകൾ സജ്ജമാക്കുക</string>
+    <string name="skip_anyway_button_label">എങ്ങനെയും ഒഴിവാക്കൂ</string>
+    <string name="skip_button_label">ഒഴിവാക്കുക</string>
+    <string name="skip_toast">സജ്ജീകരണ വിസാർഡ് ഒഴിവാക്കി</string>
+    <string name="slots_selection_item_summary_activating">സജീവമാക്കുന്നു…</string>
+    <string name="slots_selection_item_summary_error">ഇപ്പോൾ സജീവമാക്കാനാവില്ല</string>
+    <string name="slots_selection_title">ഉപയോഗിക്കാൻ ഒരു നമ്പർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="speed_label_fast">വേഗത്തിൽ</string>
+    <string name="speed_label_okay">ശരി</string>
+    <string name="speed_label_slow">കുറഞ്ഞ വേഗത്തിൽ</string>
+    <string name="speed_label_very_fast">വളരെ വേഗത്തിൽ</string>
+    <string name="sud_back_button_label">മടങ്ങുക</string>
+    <string name="sud_more_button_label">കൂടുതൽ</string>
+    <string name="sud_next_button_label">അടുത്തത്</string>
+    <string name="suggested_actions_description">ഇപ്പോൾ കുറച്ചുകൂടി കാര്യങ്ങൾ സജ്ജീകരിക്കുക അല്ലെങ്കിൽ പിന്നീട് ക്രമീകരണത്തിൽ പോയി ഇവ ചെയ്യാവുന്നതുമാണ്</string>
+    <string name="suggested_actions_description_single_item">നിങ്ങളുടെ ^1 ഉപകരണത്തിൽ സജ്ജമാക്കാനുള്ള ഒരു കാര്യം കൂടി ഇതാ. നിങ്ങൾക്ക് ക്രമീകരണത്തിൽ പോയിക്കൊണ്ട് ഇവ പിന്നീട് പൂർത്തിയാക്കാനും കഴിയും.</string>
+    <string name="suggested_actions_done_label">ഇപ്പോഴത്തേക്ക് പൂർത്തിയായി</string>
+    <string name="suggested_actions_no_thanks_label">വേണ്ട</string>
+    <string name="suggested_actions_title">മറ്റെന്തെങ്കിലും?</string>
+    <string name="switch_camera">ക്യാമറ സ്വിച്ചുചെയ്യുക</string>
+    <string name="switch_to_back_camera_button_content_description">പിൻ ക്യാമറ</string>
+    <string name="switch_to_front_camera_button_content_description">മുൻ ക്യാമറ</string>
+    <string name="switched_to_back_camera_announcement">ബട്ടൺ അമർത്തിയാൻ മുൻ ക്യാമറ ലഭിക്കും</string>
+    <string name="switched_to_front_camera_announcement">ബട്ടൺ അമർത്തിയാൻ പിൻ ക്യാമറ ലഭിക്കും</string>
+    <string name="tap_to_sign_up">സൈൻ അപ്പ് ചെയ്യാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="terminate_toast">"സജ്ജീകരണ വിസാർഡ് നിർത്തലാക്കി
+ഉപകരണം പ്രൊവിഷൻ ചെയ്‌തില്ല"</string>
+    <string name="try_again_button_label">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="url_load_unsuccessful_message">നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} മൊബൈൽ ഡാറ്റാ സേവനത്തിലേക്ക് കണക്‌റ്റ് ചെ‌യ്‌തിട്ടില്ല. ഈ വിവരം ഇപ്പോൾ കാണുന്നതിന്, വെബ് ബ്രൗസറിലെ {0} എന്നതിലേക്ക് പോവുക.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} ഒരു വൈഫൈ നെറ്റ്‌വർക്കിലേക്ക് കണക്‌റ്റ് ചെ‌യ്‌തിട്ടില്ല. ഈ വിവരം ഇപ്പോൾ കാണുന്നതിന്, ഒരു വെബ് ബ്രൌസറിനൊപ്പം {0} സന്ദർശിക്കുക.</string>
+    <string name="user_warning_cannot_switch_message">ഉടമയായ ഉപയോക്താവിലേക്ക് വീണ്ടും മാറാനാവില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="user_warning_label_continue">തുടരുക</string>
+    <string name="user_warning_label_quit">റദ്ദാക്കുക</string>
+    <string name="user_warning_quit_dialog_button_keep">ഉപയോക്താവിനെ നിലനിർത്തുക</string>
+    <string name="user_warning_quit_dialog_button_remove">ഉപയോക്താവിനെ നീക്കംചെയ്യുക</string>
+    <string name="user_warning_quit_dialog_message">ഉപയോക്താവിനെ ഇല്ലാതാക്കണോ?</string>
+    <string name="user_warning_title">പുതിയ ഉപയോക്താവിനെ സജ്ജമാക്കുക</string>
+    <string name="wait_msg">ഒരു നിമിഷം മാത്രം…</string>
+    <string name="web_dialog_unable_to_view">ഈ വിവരം ഇപ്പോൾ കാണുന്നതിന്, ഒരു വെബ് ബ്രൗസറിൽ ^1 സന്ദർശിക്കുക.</string>
+    <string name="welcome_accessibility_button">വീക്ഷണ ക്രമീകരണം</string>
+    <string name="welcome_language_picker_content_description">ഭാഷ: %s</string>
+    <string name="welcome_language_picker_dialog_title">ഭാഷ തിരഞ്ഞെടുക്കൂ</string>
+    <string name="welcome_message">ഹായ്</string>
+    <string name="welcome_secondary_user_added_text">നിങ്ങളെ ഇതിലേക്ക് ചേർത്തു {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}</string>
+    <string name="welcome_secondary_user_info_text"><b>പ്രധാനപ്പെട്ടത്:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}}-ന്റെ ഉടമസ്ഥന് നിങ്ങളുടെ ആപ്പുകൾ അൺ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ അല്ലെങ്കിൽ നിങ്ങളുടെ ഉപയോക്തൃ പ്രൊഫൈൽ പൂർണമായി നീക്കം ചെയ്യാനാവും</li>"
+
+"<li>മറ്റേതൊരു ഉപയോക്താവിനും അപ്‌ഡേറ്റ് ചെയ്‌ത ആപ്പ് അനുമതികൾ അംഗീകരിക്കാനാവും.</li>"
+
+"<li>ഇനിപ്പറയുന്നവ മാത്രം പങ്കിടുക {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} നിങ്ങൾ വിശ്വസിക്കുന്ന ആളുകളുമായി</li></ul></string>
+    <string name="welcome_start_button_label">ആരംഭിക്കുക</string>
+    <string name="wifi_add_new_network">പുതിയ നെറ്റ്‍വര്‍ക്ക് ചേർക്കുക</string>
+    <string name="wifi_and_mobile_skipped_message">"വൈഫൈ അല്ലെങ്കിൽ മൊബൈൽ നെറ്റ്‌വർക്കിലേക്ക് കണക്റ്റ് ചെയ്യുന്നത് നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} എന്നിവ അതിവേഗം സജ്ജീകരിക്കാൻ സഹായിക്കുന്നു.
+
+കണക്ഷനില്ലാതെ ഇനിപ്പറയുന്നവ ചെയ്യാൻ നിങ്ങൾക്കാവില്ല:
+
+"<ul><li>Google അക്കൗണ്ടിലേക്ക് സെെൻ ഇൻ ചെയ്യാൻ</li>"
+
+"<li>ആപ്പുകളും ഡാറ്റയും പുനഃസ്ഥാപിക്കാൻ</li>"
+
+"<li>സോഫ്‌റ്റ്‌വെയർ അപ്‌ഡേറ്റുകൾ നേടാൻ</li>"
+
+"<li>സമയവും തീയതിയും സ്വയമേവ സജ്ജീകരിക്കാൻ</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"വൈഫൈ അല്ലെങ്കിൽ മൊബൈൽ നെറ്റ്‌വർക്കിലേക്ക് കണക്റ്റ് ചെയ്യുന്നത് നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} എന്നിവ അതിവേഗം സജ്ജീകരിക്കാൻ സഹായിക്കുന്നു.
+
+കണക്ഷനില്ലാതെ ഇനിപ്പറയുന്നവ ചെയ്യാൻ നിങ്ങൾക്കാവില്ല:
+
+"<ul><li>Google അക്കൗണ്ടിലേക്ക് സെെൻ ഇൻ ചെയ്യാൻ</li>"
+
+"<li>ആപ്പുകളും ഡാറ്റയും പുനഃസ്ഥാപിക്കാൻ</li>"
+
+"<li>സിം ഡൗൺലോഡ് ചെയ്യാൻ</li>"
+
+"<li>സോഫ്‌റ്റ്‌വെയർ അപ്‌ഡേറ്റുകൾ നേടാൻ</li>"
+
+"<li>സമയവും തീയതിയും സ്വയമേവ സജ്ജീകരിക്കാൻ</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">ആക്‌സസ് പോയിന്റ് താൽക്കാലികമായി നിറഞ്ഞിരിക്കുന്നു</string>
+    <string name="wifi_check_password_try_again">പാസ്‌വേഡ് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="wifi_connected_no_internet">കണക്റ്റ് ചെയ്‌തു, ഇന്റർനെറ്റ് ഇല്ല</string>
+    <string name="wifi_disabled_by_recommendation_provider">മോശം നെറ്റ്‌വർക്ക് ‌ആയതിനാൽ കണക്‌റ്റായില്ല</string>
+    <string name="wifi_disabled_generic">പ്രവർത്തനരഹിതമാക്കി</string>
+    <string name="wifi_disabled_network_failure">IP കോൺഫിഗറേഷൻ പരാജയം</string>
+    <string name="wifi_disabled_password_failure">ആധികാരികമാക്കുന്നതിലെ പ്രശ്‌നം</string>
+    <string name="wifi_fail_to_scan">നെ‌റ്റ്‌വർക്കുകൾക്കായി സ്കാൻ ചെയ്യാനായില്ല</string>
+    <string name="wifi_ip_address_not_available">ലഭ്യമല്ല</string>
+    <string name="wifi_ip_address_title">IP വിലാസം</string>
+    <string name="wifi_limited_connection">പരിമിത കണക്‌ഷൻ</string>
+    <string name="wifi_mac_address_not_available">ലഭ്യമല്ല</string>
+    <string name="wifi_mac_address_title">MAC വിലാസം</string>
+    <string name="wifi_metered_label">മീറ്റർചെയ്ത</string>
+    <string name="wifi_no_internet">ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല</string>
+    <string name="wifi_no_internet_no_reconnect">സ്വയമേവ കണക്‌റ്റുചെയ്യില്ല</string>
+    <string name="wifi_not_in_range">പരിധിയിലില്ല</string>
+    <string name="wifi_remembered">സംരക്ഷിച്ചു</string>
+    <string name="wifi_scanning">വൈഫൈ നെറ്റ്‌വർക്കുകൾക്കായി തിരയുന്നു…</string>
+    <string name="wifi_set_up_offline_title">ഓഫ്‌ലൈനായി സജ്ജീകരിക്കണോ?</string>
+    <string name="wifi_skip_button_label">ഓഫ്‌ലൈനായി സജ്ജീകരിക്കൂ</string>
+    <string name="wifi_skipped_message">നിങ്ങളുടെ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} സജ്ജീകരിക്കൽ സമയത്ത് മൊബൈൽ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കും, ഈ ഡാറ്റാ ഉപയോഗത്തിന് നിങ്ങളിൽ നിന്ന് നിരക്ക് ഈടാക്കിയേക്കാം. സാധ്യമായ നിരക്കുകൾ ഈടാക്കപ്പെടുന്നത് ഒഴിവാക്കാൻ വൈഫൈയിലേക്ക് കണക്റ്റ് ചെയ്യുക.</string>
+    <string name="wifi_skipped_title">ഡാറ്റാ നിരക്ക് ഈടാക്കാൻ സാധ്യത</string>
+    <string name="wifi_title">വൈഫൈയിൽ കണക്റ്റുചെയ്യുക</string>
+    <string name="wifi_unmetered_label">മീറ്റർമാപകമല്ലാത്തത്</string>
+    <string name="work_profile_setup_description">ഔദ്യോഗിക അക്കൗണ്ടിനായി ഈ ഉപകരണം സജ്ജീകരിച്ച് വ്യക്തിഗത ഡാറ്റയിൽ നിന്ന് ഔദ്യോഗിക ഡാറ്റ വേർതിരിക്കാൻ</string>
+    <string name="work_profile_setup_next">അടുത്തത്</string>
+    <string name="work_profile_setup_skip">ഔദ്യോഗിക അക്കൗണ്ട് സജ്ജീകരണം ഒഴിവാക്കുക</string>
+    <string name="work_profile_setup_title">നിങ്ങളുടെ ഔദ്യോഗിക അക്കൗണ്ട് ചേർക്കുക</string>
+    <string name="work_setup_interrupted">"ഈ {DEVICE_TYPE,select, PHONE{ഫോണിൽ}TABLET{ടാബ്‌ലെറ്റിൽ}other{ഉപകരണത്തിൽ}} ചില അസ്വഭാവിക പ്രവർത്തനങ്ങൾ ഞങ്ങൾ കണ്ടെത്തി.സജ്ജീകരണം തുടരുകയാണെങ്കിൽ നിങ്ങളുടെ ഡാറ്റ അപകടത്തിലായേക്കാം.
+
+പുനരാംരംഭിക്കാനായി ഈ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} റീസെറ്റ് ചെയ്യുക."</string>
+    <string name="work_setup_interrupted_title">ഈ {DEVICE_TYPE,select, PHONE{ഫോൺ}TABLET{ടാബ്‌ലെറ്റ്}other{ഉപകരണം}} സുരക്ഷിതമല്ലായിരിക്കാം</string>
+</resources>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">ወደ ላይ ያስሱ</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_capital_off">አጥፋ</string>
+    <string name="abc_capital_on">አብራ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ሰርዝ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ክፍተት</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ይፈልጉ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ አስገባ</string>
+    <string name="abc_searchview_description_voice">የድምጽ ፍለጋ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="accessibility_no_wifi">የWifi ግንኙነት ተቋርጧል።</string>
+    <string name="accessibility_wifi_one_bar">አንድ የWiFi አሞሌ።</string>
+    <string name="accessibility_wifi_security_type_none">አውታረ መረብ ክፈት</string>
+    <string name="accessibility_wifi_security_type_secured">ደህንነቱ የተጠበቀ አውታረ መረብ</string>
+    <string name="accessibility_wifi_signal_full">የWiFi ሲግናል ሙሉ ነው።</string>
+    <string name="accessibility_wifi_three_bars">ሦስት የWiFi አሞሌዎች።</string>
+    <string name="accessibility_wifi_two_bars">ሁለት የWiFi አሞሌዎች።</string>
+    <string name="account_exists_info">"የእርስዎ ኢሜይል፣ እውቂያዎች፣ የቀን መቁጠሪያ ክስተቶች እና ተጨማሪ ነገሮች ከዚህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} በፍጥነት እንዲያዋቅሩት ያግዘዎታል። እንዲሁም መተግበሪያዎችን፣ ሙዚቃን እና ጨዋታዎችን ከGoogle Play ለማውረድ ዝግጁ ነዎት።
+
+በኋላ ላይ ወደ ቅንብሮች > መለያዎች በመሄድ መለያዎችን ማከል እና ማስወገድ ይችላሉ።"</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> ዝግጁ ነው።</string>
+    <string name="account_exists_text_unknown_name">የእርስዎ መለያ ዝግጁ ነው።</string>
+    <string name="account_exists_title">{accounts,plural, =1{መለያ ታክሏል}one{መለያዎች ታክለዋል}other{መለያዎች ታክለዋል}}</string>
+    <string name="activating_carrier_service_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="activating_unknown_carrier_service_title">በማግበር ላይ…</string>
+    <string name="activation_failed_message">"እርስዎ እነዚህን ማድረግ ይችላሉ፦
+"<ul><li>እንደገና ከተንቀሳቃሽ ስልክ ውሂብ ጋር ለመገናኘት መሞከር</li>"
+"<li>ለማዋቀር የተለየ አውታረ መረብ መጠቀም</li></ul>"
+
+እነዚህ አማራጮች ካልሠሩ በተጨማሪ የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ዳግም አስጀምረው እንደገና መሞከር ይችላሉ።"</string>
+    <string name="activation_failed_title">ከተንቀሳቃሽ ስልክ ውሂብዎ ጋር መገናኘት አልተቻለም</string>
+    <string name="activation_progress_flow">"በጣም ረጅም ጊዜ እየወሰደ ነው?
+
+ከተንቀሳቃሽ ስልክ ውሂብ ጋር ለመገናኘት ጊዜ እየወሰደ ነው። ተመልሰው በምትኩ ከሌላ አውታረ መረብ ጋር ለመገናኘት መሞከር ይችላሉ።"</string>
+    <string name="activation_title">ተንቀሳቃሽ አገልግሎትን በማገናኘት ላይ…</string>
+    <string name="activation_unprovisioned_sim_message">የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ዳግም ያስነሱትና እንደገና ይሞክሩ፣ ወይም ለማዋቀር ከWi‑Fi ጋር ይገናኝኡ። አሁንም የተንቀሳቃሽ ስልክ ውሂብን ማግበር ላይ ችግር ካጋጠመዎት የአገልግሎት አቅራቢዎን ያነጋግሩ።</string>
+    <string name="activation_unprovisioned_title">የተንቀሳቃሽ ስልክ ውሂብን ማግበር አልተቻለም</string>
+    <string name="android_privacy_policy_title">ተጨማሪ የብሕትውነት መመሪያ</string>
+    <string name="available_via_carrier">በ%1$s በኩል የሚገኝ</string>
+    <string name="cancel_button_label">ይቅር</string>
+    <string name="captive_portal_connection_unsuccessful">ከበይነመረቡ ጋር መገናኘት አልተቻለም</string>
+    <string name="captive_portal_description_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="captive_portal_ssl_error_text">ይህ ግንኙነት ደህንነቱ ያልተጠበቀ ወይም ልክ ያልሆነ የእውቅና ማረጋገጫ እየተጠቀመ ነው። ሌላ አውታረ መረብ ይምረጡና እንደገና ይሞክሩ።</string>
+    <string name="captive_portal_title">በመገናኘት ላይ…</string>
+    <string name="chrome_privacy_title">የChrome የግላዊነት ማሳወቂያ</string>
+    <string name="chrome_tos_title">የChrome አገልግሎት ውል</string>
+    <string name="close_button_label">ዝጋ</string>
+    <string name="common_google_play_services_enable_button">አንቃ</string>
+    <string name="common_google_play_services_enable_text">Google Play አገልግሎቶችን ካላነቁ በስተቀር %1$s አይሰራም።</string>
+    <string name="common_google_play_services_enable_title">Google Play አገልግሎቶችን ያንቁ</string>
+    <string name="common_google_play_services_install_button">ጫን</string>
+    <string name="common_google_play_services_install_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በመሣሪያዎ ላይ የሉም።</string>
+    <string name="common_google_play_services_install_title">Google Play አገልግሎቶችን ያግኙ</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play አገልግሎቶች ተገኝነት</string>
+    <string name="common_google_play_services_notification_ticker">የGoogle Play አገልግሎቶች ስህተት</string>
+    <string name="common_google_play_services_unknown_issue">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ያለGoogle Play አገልግሎቶች አይሄድም፣ እነዚህም በመሣሪያዎ አይደገፉም።</string>
+    <string name="common_google_play_services_update_button">ያዘምኑ</string>
+    <string name="common_google_play_services_update_text">Google Play አገልግሎቶችን ካላዘመኑ በስተቀር ድረስ %1$s አይሰራም።</string>
+    <string name="common_google_play_services_update_title">Google Play አገልግሎቶችን ያዘምኑ</string>
+    <string name="common_google_play_services_updating_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በአሁኑ ጊዜ በመዘመን ላይ ናቸው።</string>
+    <string name="connect_to_wifi_btn_text">የWi-Fi ቅንብሮች</string>
+    <string name="connect_to_wifi_message">ለመቀጠል ከWi-Fi ጋር ይገናኙ</string>
+    <string name="connect_to_wifi_title">የመተግበሪያ ዝማኔዎች ዝግጁ ናቸው</string>
+    <string name="connected_via_app">በ %1$s በኩል ተገናኝተዋል</string>
+    <string name="connected_via_carrier">በ%1$s በኩል ተገናኝቷል</string>
+    <string name="connected_via_network_scorer_default">በአውታረ መረብ ደረጃ ሰጪ አቅራቢ በኩል በራስ-ሰር ተገናኝቷል</string>
+    <string name="consolidate_captive_portal_description_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="consolidate_captive_portal_title">ዝማኔዎችን ካሉ በመፈተሽ ላይ…</string>
+    <string name="continue_for_a11y">ተደራሽ ሁናቴን ለማንቃት ድምጽ እስኪሰሙ ድረስ ማያ ገጹን እንደነኩ ይቆዩ።</string>
+    <string name="date_time_current_date">ቀን</string>
+    <string name="date_time_current_time">ሰዓት</string>
+    <string name="date_time_message">ካስፈለገ ያስተካክሉ።</string>
+    <string name="date_time_setup_title">ቀን እና ሰዓት</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">ቀጥል</string>
+    <string name="decision_point_google_assistant">Google ረዳት</string>
+    <string name="decision_point_illustration_description">ተጨማሪ እርምጃዎች Google ረዳትን፣ Google Payን፣ Now Playingን፣ የቅርጸ ቁምፊ መጠንን፣ ልጣፍን፣ እና ተጨማሪ ነገሮችን ያካትታል</string>
+    <string name="decision_point_leave_setup">ውጣና አስታዋሽ አግኝ</string>
+    <string name="decision_point_now_playing">አሁን እየተጫወተ ያለ</string>
+    <string name="default_device_name_device">መሣሪያ</string>
+    <string name="default_device_name_phone">ስልክ</string>
+    <string name="default_device_name_tablet">ጡባዊ</string>
+    <string name="deferred_notification_prompt_title">የእርስዎን ^1 ማዋቀር ይጨርሱ</string>
+    <string name="deferred_setup_button_label">ማዋቀርን አጠናቅቅ</string>
+    <string name="deferred_setup_wizard_reason_assistant">የእርስዎን ረዳት ያናግሩ</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">ከእርስዎ የGoogle ረዳት ጋር ይነጋገሩ</string>
+    <string name="deferred_setup_wizard_reason_default">ጥቂት ተጨማሪ ደረጃዎች ብቻ</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">ውሂብዎን ይቅዱ</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Payን ይጠቀሙ</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">በGoogle Pay በበለጠ ፍጥነት ይክፈሉ</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1፣ እና ተጨማሪ</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1፣ ^2 እና ተጨማሪ</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">ጥቂት ፈጣን ደረጃዎችን ብቻ ይከተሉና ^1 ለመሥራት ዝግጁ ይሆናል</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">ልጣፍ ያቀናብሩ</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">የእርስዎን ልጣፍ ያቀናብሩ</string>
+    <string name="deferred_setup_wizard_title">የእርስዎን መሣሪያ ማዋቀር ይጨርሱ</string>
+    <string name="deferred_snooze_dialog_option_never">በጭራሽ</string>
+    <string name="deferred_snooze_dialog_option_today">ዛሬ በኋላ ላይ</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">ነገ</string>
+    <string name="deferred_snooze_dialog_title">አስታውሰኝ</string>
+    <string name="deferred_welcome_airplane_mode_message">"የመጨረሻዎቹን ጥቂት የማዋቀሪያ ደረጃዎችን ለመጨረስ ግንኙነት ያስፈልገዎታል።
+
+የአውሮፕላን ሁነታ ሲበራ የWi‑Fi፣ የተንቀሳቃሽ ስልክ አውታረ መረቦች እና የብሉቱዝ ግንኙነቶች ይቋረጣሉ።"</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">በኋላ አዋቅር</string>
+    <string name="deferred_welcome_airplane_mode_title">የአውሮፕላን ሁነታን ይጥፋ?</string>
+    <string name="deferred_welcome_screen_cancel_button">በኋላ አስታውሰኝ</string>
+    <string name="deferred_welcome_title">^1ን ማዋቀር ይጨርሱ</string>
+    <string name="deferred_welcome_turn_off_button_label">አጥፋ</string>
+    <string name="device_owner_continue">ማዋቀር ቀጥል</string>
+    <string name="device_owner_reset">{DEVICE_TYPE,select, PHONE{ስልክ ዳግም ያስጀምሩ}TABLET{ጡባዊ ዳግም ያስጀምሩ}other{መሣሪያ ዳግም ያስጀምሩ}}</string>
+    <string name="device_owner_warning">{0} የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} እያስተዳደሩ ሲሆን መረጃዎን መድረስ ይችላሉ። {0} መዳረሻ እንዲኖረው ካልፈለጉ የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}}ዳግም ያስጀምሩት።</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ክትትል ሊደረግበት ይችላል</string>
+    <string name="dialog_back_button_label">ተመለስ</string>
+    <string name="dialog_continue_button_label">ቀጥል</string>
+    <string name="early_update_installing_updates_text">ዝማኔዎችን በመጫን ላይ</string>
+    <string name="early_update_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="early_update_timeout_text">ረዥም ጊዜ እየወሰደ ነው? ወደ ኋላ ተመልሰው ከተለየ አውታረ መረብ ጋር ለመገናኘት ይሞክሩ።</string>
+    <string name="early_update_title">ዝማኔዎች ካሉ በመፈለግ ላይ…</string>
+    <string name="emergency_dial">የአደጋ ጊዜ ጥሪ</string>
+    <string name="enabled_a11y">የመዳረሻ ሁናቴ ነቅቷል።</string>
+    <string name="esim_option_button_summary">eSIMን በመጠቀም ቁጥር አክል</string>
+    <string name="esim_option_button_title">በምትኩ ሲም ይውረድ?</string>
+    <string name="esim_warning_title">የእርስዎን ሲም ያውርዱት</string>
+    <string name="esim_warning_txt">የ%1$s የደንበኝነት ተመዝጋቢ ከሆኑ ሲም ካርድ በማስገባት ፈንታ eSIMን በማውረድ ጥሪዎችን፣ ጽሑፎችን እና ውሂብን ያገኛሉ።</string>
+    <string name="esim_warning_txt_default">አብዛኛው ጊዜ በሲም ካርድ ላይ ያለውን መረጃ በማውረድ ከተንቀሳቃሽ ስልክዎ ጋር ይገናኙ። ይህ መደበኛ ሲም ካርዶችን የሚተካ ሲሆን በዚያው ልክ ደህንነቱ የተጠበቀ ነው።</string>
+    <string name="exit_loading_launcher">ማስጀመሪያን በመጫን ላይ…</string>
+    <string name="factory_reset_button">ደምስስ እና ዳግም አስጀምር</string>
+    <string name="factory_reset_confirmation">በዚህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}}ላይ ያሉ ሁሉም መለያዎች እና ውሂብ ይሰረዙ? ይህን ድርጊት መቀልበስ አይችሉም!</string>
+    <string name="factory_reset_confirmation_title">ዳግም ይጀምር?</string>
+    <string name="factory_reset_instructions">ማስጠንቀቂያ፦ ዳግም ማስጀመር ሁሉንም የዚህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} መለያዎችን እና ውስጣዊ ማከማቻን ይደመስሳል።</string>
+    <string name="factory_reset_title">{DEVICE_TYPE,select, PHONE{ስልክ ዳግም ያስጀምሩ}TABLET{ጡባዊ ዳግም ያስጀምሩ}other{መሣሪያ ዳግም ያስጀምሩ}}</string>
+    <string name="final_hold_description_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="final_hold_title">የመጨረሻ የማሳመሪያ ንክኪዎችን በማከል ላይ...</string>
+    <string name="final_hold_title_setup_work_account">ስልክ ለስራ ውቅረት በማዘጋጀት ላይ…</string>
+    <string name="gms_account_checkin_title">የመለያ መረጃን በማግኘት ላይ…</string>
+    <string name="gms_checkin_description_text">ይሄ ጥቂት ደቂቃዎችን ሊወስድ ይችላል</string>
+    <string name="gms_checkin_description_text_timeout">ረዥም ጊዜ እየወሰደ ነው? ወደ ኋላ ተመልሰው ከተለየ አውታረ መረብ ጋር ለመገናኘት ይሞክሩ።</string>
+    <string name="gms_checkin_title">ዝማኔዎች ካሉ በመፈለግ ላይ…</string>
+    <string name="go_back_button_label">ወደኋላ ተመለስ</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">የGoogle Play አገልግሎት ውል</string>
+    <string name="google_plus_privacy_policy_title">የGoogle Plus ግላዊነት መመሪያ</string>
+    <string name="google_privacy_policy_title">የGoogle የግላዊነት መመሪያ</string>
+    <string name="google_provisioning_disclaimer_content">የGoogle አገልግሎት ውል እና የግላዊነት መመሪያ ተፈጻሚ ናቸው። ተጨማሪ ዝርዝሮችን ለማግኘት &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>ን ይጎብኙ።</string>
+    <string name="google_terms_of_service_title">"የGoogle  የአግልግሎት ውሎች ስምምነት"</string>
+    <string name="invalid_phone_number">ያልታወቀ ስልክ ቁጥር</string>
+    <string name="invalid_qr_code_content">ትክክለኛውን ኮድ ለማግኘት የእርስዎን የአይቲ አስተዳዳሪ ይጠይቁ</string>
+    <string name="invalid_qr_code_retry">እንደገና ይሞክሩ</string>
+    <string name="invalid_qr_code_title">የተሳሳተ QR ኮድ</string>
+    <string name="ios_trademarks_disclaimer">iPhone፣ iPad፣ iOS፣ iMessage፣ iCloud፣ Safari እና iTunes በአሜሪካ እና ሌሎች አገሮች የተመዘገቡ የApple Inc. ንግድ ምልክቶች ናቸው።</string>
+    <string name="language_picker_section_all">ሁሉም ቋንቋዎች</string>
+    <string name="language_picker_section_suggested">የተጠቆሙ</string>
+    <string name="migrate_from_ios_description">እነዚህን ደረጃዎች ይከተሉ፦</string>
+    <string name="migrate_from_ios_header">ውሂብዎን ይቅዱ</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari®ን ክፈት</string>
+    <string name="migrate_from_ios_instructions_2">2. ወደ <b>android.com/switch</b> ይሂዱ</string>
+    <string name="migrate_from_ios_instructions_3">3. መመሪያዎቹን ይከተሉ</string>
+    <string name="network_description_text">አውታረ መረብ ይምረጡ</string>
+    <string name="network_description_text_esim">የእርስዎን ሲም ለማውረድ ከWi‑Fi ጋር ይገናኙ</string>
+    <string name="network_see_all_wifi">ሁሉንም የWi‑Fi አውታረ መረቦችን ይመልከቱ</string>
+    <string name="network_timeout_description_text">ሌላ አውታረ መረብ በመጠቀም እንደገና ይሞክሩ። ያለ ግንኙነት ከቀጠሉ አንዳንድ የማዋቀር እርምጃዎችን በኋላ ላይ ማጠናቀቅ ይችላሉ።</string>
+    <string name="network_timeout_title">መገናኘት አልተቻለም</string>
+    <string name="network_timeout_try_another_network_button">ሌላ አውታረ መረብ ይሞክሩ</string>
+    <string name="network_title">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="network_use_cellular">ለማዋቀር የተንቀሳቃሽ ስልክ አውታረ መረብን ይጠቀሙ</string>
+    <string name="network_use_cellular_carrier">በኋላ ላይ ከWi-Fi ጋር ይገናኙ</string>
+    <string name="network_wifi_continue_button">ቀጥል</string>
+    <string name="not_set">አልተዘጋጀም</string>
+    <string name="notification_channel_name_deferred">ተጨማሪ ማዋቀር</string>
+    <string name="notification_channel_name_initial">ቅንብር</string>
+    <string name="notification_channel_name_restore">ውሂብን እነበረበት መመለስ</string>
+    <string name="notification_channel_security_name_warnings">የደህንነት ማስጠንቀቂያዎች</string>
+    <string name="ok_button_label">እሺ</string>
+    <string name="ota_agreement_text">ይህን የሶፍትዌር ዝማኔ በመቀጠልዎ እና በመቀበልዎ በ<annotation link="tos">Google አገልግሎት ውል</annotation> እና <annotation link="google_privacy">ግላዊነት መመሪያ</annotation> ተስማምተዋል።</string>
+    <string name="ota_info">የእርስዎ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} አንድ ዝማኔ አውርዶ ዳግም መነሳት አለበት።</string>
+    <string name="ota_size">መጠን፦ %s</string>
+    <string name="ota_update_title">{DEVICE_TYPE,select, PHONE{ስልክ ያዘምኑ}TABLET{ጡባዊ ያዘምኑ}other{መሣሪያ ያዘምኑ}}</string>
+    <string name="predeferred_prepare_setup">ለማዋቀር በማዘጋጀት ላይ…</string>
+    <string name="predeferred_prepare_setup_details">በቅርቡ የእርስዎን ^1 ማዋቀር ማጠናቀቅ ይችላሉ</string>
+    <string name="predeferred_wifi_required_notification_connect_button">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="predeferred_wifi_required_notification_content">ለመቀጠል ከWi-Fi ጋር ይገናኙ</string>
+    <string name="predeferred_wifi_required_notification_title">የመተግበሪያ ዝማኔዎች ዝግጁ ናቸው</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">የኪውአር ኮድን በመቃኘት ላይ</string>
+    <string name="region_picker_section_all">ሁሉም ክልሎች</string>
+    <string name="restart_setup_wizard_button_label">{DEVICE_TYPE,select, PHONE{ስልክ ያዋቅሩ}TABLET{ጡባዊ ያዋቅሩ}other{መሣሪያ ያዋቅሩ}}</string>
+    <string name="restart_setup_wizard_dialog_text">"ይህን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ለመጠቀም መጀመሪያ ይህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ዳግም ሲጀመር ጥቅም ላይ ወደዋለው የባለቤት Google መለያ መግባት አለብዎት።
+
+ይህን ስላላደረጉ {DEVICE_TYPE,select, PHONE{ስልኩን}TABLET{ጡባዊውን}other{መሣሪያውን}} እንደገና ማዋቀር አለብዎት።"</string>
+    <string name="restart_setup_wizard_dialog_title">አልተገባም</string>
+    <string name="restore_failed_message">ምትኬን ወደነበረበት መመለስ አልተቻለም</string>
+    <string name="restore_no_backup_message">በሌላኛው መሣሪያዎ ላይ ሊገኙ የሚችሉ ምንም ምትኬዎች የሉም</string>
+    <string name="restore_no_backup_title">ወደነበረበት መመለስ አልተቻለም</string>
+    <string name="restore_stopped_message">ምትኬን ወደነበረበት መመለስ ማጠናቀቅ አልተቻለም</string>
+    <string name="restore_title">ወደነበረበት በመመለስ ላይ...</string>
+    <string name="setup_ongoing_notification_text">^1ን ማዋቀር ለመጨረስ መታ ያድርጉ</string>
+    <string name="setup_ongoing_notification_title">የ^1 ውቅረት በሂደት lay</string>
+    <string name="setup_wizard_title">Android ቅንብር</string>
+    <string name="sim_locked_text">"ይህ ስልክ በአሁኑ ጊዜ በሌላ አገልግሎት አቅራቢ ታስሯል። የሚሰራ የሲም ካርድ መጠቀም ይኖርብዎታል።
+
+አንዴ የእርስዎን ሲም ካርድ ካስገቡ በኋላ ለማግበር ጥቂት ሰከንዶችን ሊወስድ ይችላል።"</string>
+    <string name="sim_locked_title">ሲም ካርድ አይደገፍም</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{ሲም ካርድ ካለዎት አሁን ያስገቡት}one{ሲም ካርዶች ካለዎት አሁን ያስገቧቸው}other{ሲም ካርዶች ካለዎት አሁን ያስገቧቸው}}</string>
+    <string name="sim_missing_title">ወደ ሞባይል አውታረመረብ ያገናኙ</string>
+    <string name="sim_ready_message">%1$s ስራ ላይ ለመዋል ዝግጁ መሆን አለበት</string>
+    <string name="sim_ready_message_carrier_app">%1$s ን ማግበር ለማጠናቀቅ፣ የ %2$s መተግበሪያን ማውረድ ያስፈልግዎታል። ለአሁን፣ የእርስዎን ስልክ ማቀናበራችን እንጨርስ።</string>
+    <string name="sim_ready_message_invalid_phone_number">ቁጥርዎ ሥራ ላይ ለመዋል ዝግጁ መሆን አለበት</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">የእርስዎን ቁጥር ማግበርን ለማጠናቀቅ፣ የ %1$s መተግበሪያን ማውረድ ያስፈልግዎታል። ለአሁን፣ የእርስዎን ስልክ ማቀናበራችን እንጨርስ።</string>
+    <string name="sim_ready_title">%1$s ገቢር ነው</string>
+    <string name="sim_ready_title_carrier_app">ወደ %1$s በኋላ ላይ አገናኝ</string>
+    <string name="sim_setup_ask_every_time">ሁልጊዜ ጊዜ ጠይቅ</string>
+    <string name="sim_setup_select_data">የሞባይል ውሂብ ምርጫ</string>
+    <string name="sim_setup_select_data_description">ለተንቀሳቃሽ ውሂብ ለመጠቀም ቁጥር ይምረጡ</string>
+    <string name="sim_setup_select_text">የኤስኤምኤስ ምርጫ</string>
+    <string name="sim_setup_select_text_description">ለወጪ መልእክት ጽሑፎች ቁጥርን ይምረጡ (ሁሉም ንቁ ቁጥሮች ገቢ መልእክት ጽሑፎችን መቀበል ይችላሉ)</string>
+    <string name="sim_setup_select_voice">የጥሪዎች ምርጫ</string>
+    <string name="sim_setup_select_voice_description">ለወጪ ጥሪዎች ቁጥርን ይምረጡ (ሁሉም ንቁ ቁጥሮች ገቢ ጥሪዎችን መቀበል ይችላሉ)</string>
+    <string name="sim_setup_title">ሲም ካርዶችን አዘጋጅ</string>
+    <string name="skip_anyway_button_label">ለማንኛውም ዝለለው</string>
+    <string name="skip_button_label">ዝለል</string>
+    <string name="skip_toast">የማዋቀር አዋቂ ተዘልሏል</string>
+    <string name="slots_selection_item_summary_activating">በማግበር ላይ…</string>
+    <string name="slots_selection_item_summary_error">አሁን ማግበር አይቻልም</string>
+    <string name="slots_selection_title">የሚጠቀሙበትን ቁጥር ይምረጡ</string>
+    <string name="speed_label_fast">ፈጣን</string>
+    <string name="speed_label_okay">እሺ</string>
+    <string name="speed_label_slow">አዘግይ</string>
+    <string name="speed_label_very_fast">እጅግ በጣም ፈጣን</string>
+    <string name="sud_back_button_label">ተመለስ</string>
+    <string name="sud_more_button_label">ተጨማሪ</string>
+    <string name="sud_next_button_label">ቀጣይ</string>
+    <string name="suggested_actions_description">አሁን ጥቂት ተጨማሪ ነገሮችን ያቀናብሩ ወይም በኋላ ላይ በቅንብሮች ውስጥ ያግኟቸው</string>
+    <string name="suggested_actions_description_single_item">በእርስዎ ^1 ላይ መቀናበር ያለበት አንድ ተጨማሪ ነገር እነሆ። በኋላ ላይ በቅንብሮች ውስጥ ሊያገኙት ይችላሉ።</string>
+    <string name="suggested_actions_done_label">ለአሁን ተከናውኗል</string>
+    <string name="suggested_actions_no_thanks_label">አይ፣ አመሰግናለሁ</string>
+    <string name="suggested_actions_title">ሌላ የቀረ ነገር አለ?</string>
+    <string name="switch_camera">ካሜራ ቀይር</string>
+    <string name="switch_to_back_camera_button_content_description">የኋላ ካሜራ</string>
+    <string name="switch_to_front_camera_button_content_description">የፊት ካሜራ</string>
+    <string name="switched_to_back_camera_announcement">አዝራር አሁን የፊት ካሜራ ነው</string>
+    <string name="switched_to_front_camera_announcement">አዝራር አሁን የኋላ ካሜራ ነው</string>
+    <string name="tap_to_sign_up">ለመመዝገብ መታ ያድርጉ</string>
+    <string name="terminate_toast">"የማዋቀር አዋቂ ተቋርጧል
+መሣሪያ አልቀረበም"</string>
+    <string name="try_again_button_label">በድጋሚ ሞክር</string>
+    <string name="url_load_unsuccessful_message">የእርስዎ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ከተንቀሳቃሽ የውሂብ አገልግሎት ጋር አልተገናኘም። ይህንን መረጃ አሁን ለመመልከት በድር አሳሽ ውስጥ ወደ {0} ይሂዱ።</string>
+    <string name="url_load_unsuccessful_message_wifi_only">የእርስዎ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ከWi-Fi አውታረ መረብ ጋር አልተገናኘም። ይህን መረጃ አሁን ለማየት {0}ን በድር አሳሽ ይጎብኙ።</string>
+    <string name="user_warning_cannot_switch_message">ወደ ባለቤት ተጠቃሚ መልሶ መቀየር አይቻልም። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
+    <string name="user_warning_label_continue">ቀጥል</string>
+    <string name="user_warning_label_quit">ተወው</string>
+    <string name="user_warning_quit_dialog_button_keep">ተጠቃሚን አቆይ</string>
+    <string name="user_warning_quit_dialog_button_remove">ተጠቃሚ አስወግድ</string>
+    <string name="user_warning_quit_dialog_message">ተጠቃሚ ይወገድ?</string>
+    <string name="user_warning_title">አዲስ ተጠቃሚ ያዘጋጁ</string>
+    <string name="wait_msg">አንድ ጊዜ…</string>
+    <string name="web_dialog_unable_to_view">ይህን መረጃ ለመመልከት፣ ከድር አሳሽ ጋር ^1 ይጎብኙ።</string>
+    <string name="welcome_accessibility_button">የዕይታ ቅንብሮች</string>
+    <string name="welcome_language_picker_content_description">ቋንቋ፦ %s</string>
+    <string name="welcome_language_picker_dialog_title">የእርስዎ ቋንቋ ይምረጡ</string>
+    <string name="welcome_message">ሠላም</string>
+    <string name="welcome_secondary_user_added_text">እርስዎ ወደዚህ {DEVICE_TYPE,select, PHONE{ስልክ ታክለዋል}TABLET{ጡባዊ ታክለዋል}other{መሣሪያ ታክለዋል}}</string>
+    <string name="welcome_secondary_user_info_text"><b>አስፈላጊ፦</b>"
+
+"<ul><li>የ {DEVICE_TYPE,select, PHONE{ስልኩ}TABLET{ጡባዊው}other{መሣሪያው}} ባለቤት መተግበሪያዎችዎን ማራገፍ ወይም የተጠቃሚ መገለጫዎን ሙሉ ለሙሉ ማስወገድ ይችላሉ</li>"
+
+"<li>ሌላ ማንኛውም ተጠቃሚ የተዘመኑ የመተግበሪያ ፈቃዶችን መቀበል ይችላሉ</li>"
+
+"<li>ይህን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ለሚያምኗቸው ሰዎች ብቻ ያጋሩ</li></ul></string>
+    <string name="welcome_start_button_label">ጀምር</string>
+    <string name="wifi_add_new_network">አዲስ አውታረ መረብ ያክሉ</string>
+    <string name="wifi_and_mobile_skipped_message">"ከWi‑Fi ወይም ሞባይል አውታረ መረብ ጋር መገናኘት የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}}በፍጥነት እንዲያዋቅሩት ያግዘዎታል።
+
+ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦
+
+"<ul><li>ወደ የእርስዎ የGoogle መለያ መግባት</li>"
+
+"<li>መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ</li>"
+
+"<li>የሶፍትዌር ዝዝማኔዎችን ማግኘት</li>"
+
+"<li>ሰዓት እና ቀን በራስ-ሰር ማቀናበር</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"ከWi‑Fi ወይም ሞባይል አውታረ መረብ ጋር መገናኘት የእርስዎን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}}በፍጥነት እንዲያዋቅሩት ያግዘዎታል።
+
+ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦
+
+"<ul><li>ወደ የእርስዎ የGoogle መለያ መግባት</li>"
+
+"<li>መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ</li>"
+
+"<li>ሲም ማውረድ</li>"
+
+"<li>የሶፍትዌር ዝዝማኔዎችን ማግኘት</li>"
+
+"<li>ሰዓት እና ቀን በራስ-ሰር ማቀናበር</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">የመዳረሻ ነጥብ ለጊዜው ሞልቷል</string>
+    <string name="wifi_check_password_try_again">የይለፍ ቃልን ይፈትሹ እና እንደገና ይሞክሩ</string>
+    <string name="wifi_connected_no_internet">ተገናኝቷል፣ ምንም በይነመረብ የለም</string>
+    <string name="wifi_disabled_by_recommendation_provider">በዝቅተኛ አውታረ መረብ ምክንያት አልተገናኘም</string>
+    <string name="wifi_disabled_generic">ተሰናክሏል</string>
+    <string name="wifi_disabled_network_failure">የአይ.ፒ. ውቅረት መሰናከል</string>
+    <string name="wifi_disabled_password_failure">የማረጋገጫ ችግር</string>
+    <string name="wifi_fail_to_scan">ለአውታረመረቦች መቃኘት አይቻልም</string>
+    <string name="wifi_ip_address_not_available">አይገኝም</string>
+    <string name="wifi_ip_address_title">የአይፒ አድራሻ</string>
+    <string name="wifi_limited_connection">የተገደበ ግንኙነት</string>
+    <string name="wifi_mac_address_not_available">አይገኝም</string>
+    <string name="wifi_mac_address_title">የማክ አድራሻ</string>
+    <string name="wifi_metered_label">የሚለካ</string>
+    <string name="wifi_no_internet">ምንም የበይነመረብ መዳረሻ ያለም</string>
+    <string name="wifi_no_internet_no_reconnect">በራስ-ሰር አይገናኝም</string>
+    <string name="wifi_not_in_range">በክልል ውስጥ የለም</string>
+    <string name="wifi_remembered">ተቀምጧል</string>
+    <string name="wifi_scanning">የWi-Fi አውታረ መረቦችን በመፈለግ ላይ…</string>
+    <string name="wifi_set_up_offline_title">ከመስመር ውጭ ይቀናበር?</string>
+    <string name="wifi_skip_button_label">ከመስመር ውጭ ያቀናብሩ</string>
+    <string name="wifi_skipped_message">የእርስዎ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} በሚዋቀርበት ጊዜ የተንቀሳቃሽ ስልክ አውታረ መረቡን ይጠቀማል፣ እና ለተጠቀሙበት ውሂብ እንዲከፍሉ ሊደረጉ ይችላሉ። ክፍያዎችን ለማስቀረት ከWi‑Fi ጋር ይገናኙ።</string>
+    <string name="wifi_skipped_title">ሊከሰቱ የሚችሉ የውሂብ ክፍያዎች</string>
+    <string name="wifi_title">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="wifi_unmetered_label">ያልተለካ</string>
+    <string name="work_profile_setup_description">ይህን መሣሪያ ለስራ ለማዋቀር እና የስራ ውሂብን ከግል ለመለየት</string>
+    <string name="work_profile_setup_next">ቀጣይ</string>
+    <string name="work_profile_setup_skip">የስራ ማዋቀርን ዝለል</string>
+    <string name="work_profile_setup_title">የስራ መለያዎን ያክሉ</string>
+    <string name="work_setup_interrupted">"በዚህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ላይ አንዳንድ ያልተለመደ እንቅስቃሴ እንዳለ አስተውለናል እና ማቀናበርን ከቀጠሉ የእርስዎ ውሂብ አደጋ ውስጥ ሊወድቅ ይችላል።
+
+እንደገና ለመጀመር፣ ይህን {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}}ዳግም ያቀናብሩት።"</string>
+    <string name="work_setup_interrupted_title">ይህ {DEVICE_TYPE,select, PHONE{ስልክ}TABLET{ጡባዊ}other{መሣሪያ}} ለደህንነት አስተማማኝ ላይሆን ይችላል</string>
+</resources>

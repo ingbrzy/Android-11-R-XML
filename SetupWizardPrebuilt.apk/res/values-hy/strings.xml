@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="accessibility_no_wifi">Wi-Fi-ն անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi-ի ուժգնությունը՝ մեկ գիծ:</string>
+    <string name="accessibility_wifi_security_type_none">Բաց ցանց</string>
+    <string name="accessibility_wifi_security_type_secured">Անվտանգ ցանց</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi-ի ազդանշանը ուժեղ է:</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi-ի ուժգնությունը՝ երեք գիծ:</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi-ի ուժգնությունը՝ երկու գիծ:</string>
+    <string name="account_exists_info">"Ձեր էլեկտրոնային հասցեն, կոնտակտները, օրացույցի իրադարձությունները և այլ տվյալներ կհամաժամացվեն այս {DEVICE_TYPE,select, PHONE{հեռախոսի հետ}TABLET{պլանշետի հետ}other{սարքի հետ}}: Այժմ դուք կարող եք նաև ներբեռնել հավելվածներ, երաժշտություն ու խաղեր Google Play-ից:
+
+Հաշիվ ավելացնելու և հեռացնելու համար անցեք Կարգավորումներ > Հաշիվներ:"</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> հաշիվը պատրաստ է:</string>
+    <string name="account_exists_text_unknown_name">Ձեր հաշիվը պատրաստ է:</string>
+    <string name="account_exists_title">{accounts,plural, =1{Հաշիվն ավելացված է}one{Հաշիվներն ավելացվել են}other{Հաշիվներն ավելացվել են}}</string>
+    <string name="activating_carrier_service_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="activating_unknown_carrier_service_title">Ակտիվացում…</string>
+    <string name="activation_failed_message">"Դուք կարող եք՝
+"<ul><li>փորձել նորից միանալ բջջային ինտերնետին,</li>"
+"<li>կարգավորման համար օգտագործել մեկ այլ ցանց,</li></ul>"
+
+եթե վերը նշված տարբերակներն արդյունք չտան, կարող եք նաև վերագործարկել {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} և նորից փորձել։"</string>
+    <string name="activation_failed_title">Չհաջողվեց միանալ բջջային ինտերնետին</string>
+    <string name="activation_progress_flow">"Կապակցումը շատ երկա՞ր է տևում:
+
+Բջջային ինտերնետին միանալը շատ երկար է տևում: Կարող եք վերադառնալ և փոխարենը փորձել միանալ մեկ այլ ցանցին:"</string>
+    <string name="activation_title">Բջջային ծառայության միացում…</string>
+    <string name="activation_unprovisioned_sim_message">Վերագործարկեք ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} և նորից փորձեք, կամ միացեք Wi‑Fi ցանցին՝ սարքը կարգավորելու համար: Եթե դարձյալ չի հաջողվում ակտիվացնել բջջային ինտերնետը, ապա դիմեք կապի օպերատորին:</string>
+    <string name="activation_unprovisioned_title">Հնարավոր չէ ակտիվացնել բջջային ինտերնետը</string>
+    <string name="android_privacy_policy_title">Լրացուցիչ Գաղտնիության Քաղաքականություն</string>
+    <string name="available_via_carrier">Հասանելի է %1$s-ի միջոցով</string>
+    <string name="cancel_button_label">Չեղարկել</string>
+    <string name="captive_portal_connection_unsuccessful">Չհաջողվեց միանալ համացանցին</string>
+    <string name="captive_portal_description_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="captive_portal_ssl_error_text">Այս միացումն օգտագործում է անապահով կամ անվավեր հավաստագիր: Ընտրեք մեկ այլ ցանց և փորձեք նորից:</string>
+    <string name="captive_portal_title">Միանում է…</string>
+    <string name="chrome_privacy_title">Chrome-ի Գաղտնիության Ծանուցում</string>
+    <string name="chrome_tos_title">Chrome-ի Ծառայությունների Մատուցման Պայմանները</string>
+    <string name="close_button_label">Փակել</string>
+    <string name="common_google_play_services_enable_button">Միացնել</string>
+    <string name="common_google_play_services_enable_text">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_install_button">Տեղադրել</string>
+    <string name="common_google_play_services_install_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="common_google_play_services_install_title">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ծառայությունների հասանելիություն</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_unknown_issue">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="common_google_play_services_unsupported_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="common_google_play_services_update_button">Թարմացնել</string>
+    <string name="common_google_play_services_update_text">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_update_title">Թարմացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_updating_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="connect_to_wifi_btn_text">Wi‑Fi կարգավորումներ</string>
+    <string name="connect_to_wifi_message">Շարունակելու համար միացեք Wi-Fi ցանցի</string>
+    <string name="connect_to_wifi_title">Հավելվածների թարմացումները պատրաստ են</string>
+    <string name="connected_via_app">Միացված է %1$s-ի միջոցով</string>
+    <string name="connected_via_carrier">Միացված է %1$s-ի միջոցով</string>
+    <string name="connected_via_network_scorer_default">Ավտոմատ կերպով միացել է ցանցի վարկանիշի ծառայության մատակարարի միջոցով</string>
+    <string name="consolidate_captive_portal_description_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="consolidate_captive_portal_title">Ստուգվում է թարմացումների առկայությունը…</string>
+    <string name="continue_for_a11y">Շարունակեք հպել էկրանին,մինչև չլսեք մատչելիության ռեժիմը միացնելու ազդանշանը:</string>
+    <string name="date_time_current_date">Ամսաթիվ</string>
+    <string name="date_time_current_time">Ժամ</string>
+    <string name="date_time_message">Փոփոխեք ըստ անհրաժեշտության:</string>
+    <string name="date_time_setup_title">Ամսաթիվ և ժամ</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Շարունակել</string>
+    <string name="decision_point_google_assistant">Google Օգնական</string>
+    <string name="decision_point_illustration_description">Դուք կարող եք միացնել Google Օգնականը, Google Pay-ը, «Այժմ հնչում է» գործառույթը, կարգավորել տառաչափը, պաստառը և այլն</string>
+    <string name="decision_point_leave_setup">Շարունակել ավելի ուշ</string>
+    <string name="decision_point_now_playing">Այժմ հնչում է</string>
+    <string name="default_device_name_device">սարք</string>
+    <string name="default_device_name_phone">հեռախոս</string>
+    <string name="default_device_name_tablet">պլանշետ</string>
+    <string name="deferred_notification_prompt_title">Ավարտեք ^1 սարքի կարգավորումը</string>
+    <string name="deferred_setup_button_label">Ավարտել կարգավորումը</string>
+    <string name="deferred_setup_wizard_reason_assistant">խոսեք ձեր Օգնականի հետ</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">խոսել ձեր Google Օգնականի հետ</string>
+    <string name="deferred_setup_wizard_reason_default">Մնացել է ընդամենը մի քանի քայլ</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">պատճենեք ձեր տվյալները</string>
+    <string name="deferred_setup_wizard_reason_google_pay">օգտագործեք Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">վճարել ավելի արագ Google Pay-ի միջոցով</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 և այլն</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 և այլն</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Եվս մի քանի արագ կարգավորում և ձեր ^1 սարքը պատրաստ կլինի օգտագործման համար</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">տեղադրեք պաստառ</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">տեղադրել պաստառ</string>
+    <string name="deferred_setup_wizard_title">Ավարտեք սարքի կարգավորումը</string>
+    <string name="deferred_snooze_dialog_option_never">Երբեք</string>
+    <string name="deferred_snooze_dialog_option_today">Այսօր ավելի ուշ</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Վաղը</string>
+    <string name="deferred_snooze_dialog_title">Հիշեցնել ինձ</string>
+    <string name="deferred_welcome_airplane_mode_message">"Վերջին քայլերն ավարտին հասցնելու համար անհրաժեշտ է միանալ ցանցին:
+
+Երբ Ավիառեժիմը միացած է, Wi‑Fi-ը, բջջային ցանցերն ու Bluetooth-ն անջատվում են:"</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Կարգավորել ավելի ուշ</string>
+    <string name="deferred_welcome_airplane_mode_title">Անջատե՞լ Ավիառեժիմը</string>
+    <string name="deferred_welcome_screen_cancel_button">Հիշեցնել ավելի ուշ</string>
+    <string name="deferred_welcome_title">Ավարտեք ^1 սարքի կարգավորումը</string>
+    <string name="deferred_welcome_turn_off_button_label">Անջատել</string>
+    <string name="device_owner_continue">Շարունակել կարգավորումը</string>
+    <string name="device_owner_reset">Վերակայել {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}</string>
+    <string name="device_owner_warning">{0} կազմակերպությունը կառավարում է ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}, և դրան հասանելի են ձեր տվյալները։ Եթե ուզում եք չեղարկել ձեր տվյալների հասանելիությունը {0}-ի համար, վերակայեք {DEVICE_TYPE,select, PHONE{հեռախոսի}TABLET{պլանշետի}other{սարքի}}կարգավորումները:</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Հեռախոսը}TABLET{Պլանշետը}other{Սարքը}} կարող է վերահսկվել</string>
+    <string name="dialog_back_button_label">Հետ</string>
+    <string name="dialog_continue_button_label">Շարունակել</string>
+    <string name="early_update_installing_updates_text">Թարմացումները տեղադրվում են…</string>
+    <string name="early_update_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="early_update_timeout_text">Շատ երկա՞ր է տևում: Փորձեք վերադառնալ և միանալ մեկ այլ ցանցի:</string>
+    <string name="early_update_title">Ստուգվում է թարմացումների առկայությունը…</string>
+    <string name="emergency_dial">Շտապ կանչ</string>
+    <string name="enabled_a11y">Մատչելիության ռեժիմը միացված է:</string>
+    <string name="esim_option_button_summary">Ավելացնել հեռախոսահամար eSIM-ի միջոցով</string>
+    <string name="esim_option_button_title">Ներբեռնե՞լ SIM քարտ</string>
+    <string name="esim_warning_title">SIM քարտի ներբեռնում</string>
+    <string name="esim_warning_txt">Եթե %1$s-ի բաժանորդ եք, ապա զանգերը, SMS հաղորդագրությունները և տվյալները կստանաք eSIM ներբեռնելու միջոցով՝ SIM քարտ տեղադրելու փոխարեն:</string>
+    <string name="esim_warning_txt_default">Բջջային ցանցին միանալու համար ներբեռնեք տվյալները, որոնք սովորաբար լինում են SIM քարտում։ Այն փոխարինում է սովորական SIM քարտին և նույնքան անվտանգ է։</string>
+    <string name="exit_loading_launcher">Գործարկչի բեռնում…</string>
+    <string name="factory_reset_button">Ջնջել և վերակայել</string>
+    <string name="factory_reset_confirmation">Ջնջե՞լ {DEVICE_TYPE,select, PHONE{հեռախոսի}TABLET{պլանշետի}other{սարքի}} բոլոր հաշիվները և տվյալները: Այս գործողությունը չեք կարող հետարկել:</string>
+    <string name="factory_reset_confirmation_title">Զրոյացնե՞լ կարգավորումները</string>
+    <string name="factory_reset_instructions">Ուշադրություն. վերակայման արդյունքում կջնջվեն բոլոր հաշիվներն ու {DEVICE_TYPE,select, PHONE{հեռախոսում}TABLET{պլանշետում}other{սարքում}} պահվող տվյալները:</string>
+    <string name="factory_reset_title">Վերակայեք {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}</string>
+    <string name="final_hold_description_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="final_hold_title">Կարգավորումն ավարտվում է…</string>
+    <string name="final_hold_title_setup_work_account">Պրոֆիլի կարգավորման նախապատրաստում…</string>
+    <string name="gms_account_checkin_title">Հաշվի տվյալների ստացում…</string>
+    <string name="gms_checkin_description_text">Դա կարող է տևել մի քանի րոպե</string>
+    <string name="gms_checkin_description_text_timeout">Շատ երկա՞ր է տևում: Փորձեք վերադառնալ և միանալ մեկ այլ ցանցի:</string>
+    <string name="gms_checkin_title">Ստուգվում է թարմացումների առկայությունը…</string>
+    <string name="go_back_button_label">Հետ</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play-ի Ծառայությունների Մատուցման Պայմաններ</string>
+    <string name="google_plus_privacy_policy_title">Google Plus-ի Գաղտնիության Քաղաքականություն</string>
+    <string name="google_privacy_policy_title">Google-ի Գաղտնիության Քաղաքականություն</string>
+    <string name="google_provisioning_disclaimer_content">Կիրառվում են Google-ի օգտագործման պայմաններն ու գաղտնիության քաղաքականությունը: Լրացուցիչ տեղեկությունների համար այցելեք &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>։</string>
+    <string name="google_terms_of_service_title">Google-ի Ծառայությունների Մատուցման Պայմաններ</string>
+    <string name="invalid_phone_number">Անհայտ համար</string>
+    <string name="invalid_qr_code_content">Խնդրեք ձեր ադմինիստրատորին շտկել կոդը</string>
+    <string name="invalid_qr_code_retry">Կրկին փորձեք</string>
+    <string name="invalid_qr_code_title">Սխալ QR կոդ</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari և iTunes ապրանքանիշերը Apple Inc. ընկերության ԱՄՆ-ում և այլ երկրներում գրանցված ապրանքանիշեր են:</string>
+    <string name="language_picker_section_all">Բոլոր լեզուները</string>
+    <string name="language_picker_section_suggested">Առաջարկվող</string>
+    <string name="migrate_from_ios_description">Արեք հետևյալը․</string>
+    <string name="migrate_from_ios_header">Տվյալների պատճենում</string>
+    <string name="migrate_from_ios_instructions_1">1. Բացեք Safari® դիտարկիչը</string>
+    <string name="migrate_from_ios_instructions_2">2. Այցելեք <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Հետևեք ցուցումներին</string>
+    <string name="network_description_text">Ընտրեք ցանց</string>
+    <string name="network_description_text_esim">SIM քարտը ներբեռնելու համար միացեք Wi‑Fi-ին</string>
+    <string name="network_see_all_wifi">Տեսնել բոլոր Wi-Fi ցանցերը</string>
+    <string name="network_timeout_description_text">Նորից փորձեք՝ օգտագործելով մեկ այլ ցանց: Եթե շարունակեք առանց ցանցին միանալու, կարգավորման որոշ քայլեր կարող եք ավելի ուշ ավարտել:</string>
+    <string name="network_timeout_title">Չհաջողվեց միանալ</string>
+    <string name="network_timeout_try_another_network_button">Փորձել այլ ցանց</string>
+    <string name="network_title">Միացեք Wi-Fi-ին</string>
+    <string name="network_use_cellular">Կարգավորելու համար օգտագործել բջջային ցանցը</string>
+    <string name="network_use_cellular_carrier">Միանալ Wi-Fi ցանցին ավելի ուշ</string>
+    <string name="network_wifi_continue_button">Շարունակել</string>
+    <string name="not_set">Կարգավորված չէ</string>
+    <string name="notification_channel_name_deferred">Լրացուցիչ կարգավորում</string>
+    <string name="notification_channel_name_initial">Կարգավորում</string>
+    <string name="notification_channel_name_restore">Տվյալների վերականգնում</string>
+    <string name="notification_channel_security_name_warnings">Անվտանգության զգուշացումներ</string>
+    <string name="ok_button_label">Եղավ</string>
+    <string name="ota_agreement_text">Շարունակելով և ստանալով այս ծրագրային թարմացումը՝ դուք համաձայնում եք <annotation link="tos">Google-ի Ծառայությունների պայմաններին</annotation> և <annotation link="google_privacy">Գաղտնիության քաղաքականությանը</annotation>:</string>
+    <string name="ota_info">Դուք պետք է թարմացնեք ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} և վերագործարկեք այն:</string>
+    <string name="ota_size">Չափը՝ %s</string>
+    <string name="ota_update_title">Թարմացրեք {DEVICE_TYPE,select, PHONE{հեռախոսի ծրագրակազմը}TABLET{պլանշետի ծրագրակազմը}other{սարքի ծրագրակազմը}}</string>
+    <string name="predeferred_prepare_setup">Սարքը նախապատրաստվում է կարգավորման…</string>
+    <string name="predeferred_prepare_setup_details">^1 սարքի կարգավորումը շուտով կավարտվի</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Միանալ Wi-Fi ցանցին</string>
+    <string name="predeferred_wifi_required_notification_content">Շարունակելու համար միացեք Wi-Fi ցանցի</string>
+    <string name="predeferred_wifi_required_notification_title">Հավելվածների թարմացումները պատրաստ են</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR կոդը սկանավորվում է</string>
+    <string name="region_picker_section_all">Բոլոր տարածաշրջանները</string>
+    <string name="restart_setup_wizard_button_label">Կարգավորել {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Այս {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}օգտագործելու համար նախ պետք է մուտք գործեք սեփականատիրոջ Google հաշիվ, որն օգտագործվում էր {DEVICE_TYPE,select, PHONE{հեռախոսում}TABLET{պլանշետում}other{սարքում}} վերակայումից առաջ:
+
+Քանի որ մուտք չեք գործել, պետք է նորից կարգավորեք {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}:"</string>
+    <string name="restart_setup_wizard_dialog_title">Մուտք գործված չէ</string>
+    <string name="restore_failed_message">Չհաջողվեց վերականգնել պահուստավորված տվյալները</string>
+    <string name="restore_no_backup_message">Ձեր մյուս սարքում պահուստավորված տվյալներ չկան</string>
+    <string name="restore_no_backup_title">Հնարավոր չէ վերականգնել</string>
+    <string name="restore_stopped_message">Չհաջողվեց ավարտել պահուստավորված տվյալների վերականգնումը</string>
+    <string name="restore_title">Վերականգնում…</string>
+    <string name="setup_ongoing_notification_text">Հպեք՝ ^1-ի կարգավորումն ավարտելու համար</string>
+    <string name="setup_ongoing_notification_title">^1-ի կարգավորումն ընթացքի մեջ է</string>
+    <string name="setup_wizard_title">Android կարգավորումներ</string>
+    <string name="sim_locked_text">"Այս հեռախոսը ներկայումս կողպված է մեկ այլ օպերատորի կողմից: Օգտագործեք վավեր SIM քարտ:
+
+SIM քարտը տեղադրելուց հետո դրա ակտիվացման համար կարող է մի քանի վայրկյան պահանջվել:"</string>
+    <string name="sim_locked_title">SIM քարտը չի աջակցվում</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Եթե ունեք SIM քարտ, տեղադրեք այն հիմա}one{If you have SIM cards, insert them now}other{Եթե ունեք SIM քարտեր, տեղադրեք դրանք հիմա}}</string>
+    <string name="sim_missing_title">Միացեք բջջային ցանցին</string>
+    <string name="sim_ready_message">%1$s հեռախոսահամարը կարող է արդեն օգտագործվել</string>
+    <string name="sim_ready_message_carrier_app">Ներբեռնեք %2$s-ի հավելվածը՝ %1$s հեռախոսահամարի ակտիվացումն ավարտելու համար: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="sim_ready_message_invalid_phone_number">Ձեր հեռախոսահամարը պատրաստ է օգտագործման</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք %1$s-ի հավելվածը: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="sim_ready_title">%1$s ցանցն ակտիվ է</string>
+    <string name="sim_ready_title_carrier_app">Հնարավոր չէ միանալ %1$s-ին</string>
+    <string name="sim_setup_ask_every_time">Ամեն անգամ հարցնել</string>
+    <string name="sim_setup_select_data">Բջջային ինտերնետի կարգավորում</string>
+    <string name="sim_setup_select_data_description">Ընտրեք SIM քարտ՝ բջջային ինտերնետի համար</string>
+    <string name="sim_setup_select_text">SMS-ների կարգավորում</string>
+    <string name="sim_setup_select_text_description">Ընտրեք հեռախոսահամար՝ ելքային SMS-ների համար (բոլոր ակտիվ համարները կարող են մուտքային SMS-ներ ստանալ)</string>
+    <string name="sim_setup_select_voice">Զանգերի կարգավորում</string>
+    <string name="sim_setup_select_voice_description">Ընտրեք SIM քարտ՝ ելքային զանգերի համար (բոլոր ակտիվ համարները կարող են մուտքային զանգեր ստանալ)</string>
+    <string name="sim_setup_title">Կարգավորել SIM քարտերը</string>
+    <string name="skip_anyway_button_label">Բաց թողնել ամեն դեպքում</string>
+    <string name="skip_button_label">Բաց թողնել</string>
+    <string name="skip_toast">Կարգավորման օգնականը բաց է թողնված</string>
+    <string name="slots_selection_item_summary_activating">Ակտիվացում…</string>
+    <string name="slots_selection_item_summary_error">Չհաջողվեց ակտիվացնել պրոֆիլը</string>
+    <string name="slots_selection_title">Ընտրեք համար</string>
+    <string name="speed_label_fast">Արագ</string>
+    <string name="speed_label_okay">Հաստատել</string>
+    <string name="speed_label_slow">Դանդաղ</string>
+    <string name="speed_label_very_fast">Շատ արագ</string>
+    <string name="sud_back_button_label">Հետ</string>
+    <string name="sud_more_button_label">Ավելին</string>
+    <string name="sud_next_button_label">Առաջ</string>
+    <string name="suggested_actions_description">Կարգավորեք ևս մի քանի գործառույթ հիմա, կամ արեք դա ավելի ուշ՝ «Կարգավորումներ» հավելվածում</string>
+    <string name="suggested_actions_description_single_item">Ձեր ^1 սարքում կարող եք կատարել նաև հետևյալ կարգավորումը: Կարող եք այն կատարել նաև հետո՝ Կարգավորումներ անցնելու միջոցով:</string>
+    <string name="suggested_actions_done_label">Պատրաստ է</string>
+    <string name="suggested_actions_no_thanks_label">Ոչ, շնորհակալություն</string>
+    <string name="suggested_actions_title">Էլ ինչ կարող եք անել</string>
+    <string name="switch_camera">Փոխարկել տեսախցիկը</string>
+    <string name="switch_to_back_camera_button_content_description">Հետևի տեսախցիկ</string>
+    <string name="switch_to_front_camera_button_content_description">Առջևի տեսախցիկ</string>
+    <string name="switched_to_back_camera_announcement">Կոճակն այժմ առջևի տեսախցիկն է</string>
+    <string name="switched_to_front_camera_announcement">Կոճակն այժմ հետևի տեսախցիկն է</string>
+    <string name="tap_to_sign_up">Հպեք՝ գրանցվելու համար</string>
+    <string name="terminate_toast">"Կարգավորման օգնականը դադարեցված է
+Սարքը կարգավորված չէ:"</string>
+    <string name="try_again_button_label">Կրկնել</string>
+    <string name="url_load_unsuccessful_message">Ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} միացած չէ բջջային ինտերնետին: Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք {0} կայքը։</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} միացած չէ Wi-Fi ցանցի: Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք {0} կայքը:</string>
+    <string name="user_warning_cannot_switch_message">Չհաջողվեց անցնել հեռախոսի սեփականատիրոջ հաշիվ: Փորձեք ավելի ուշ:</string>
+    <string name="user_warning_label_continue">Շարունակել</string>
+    <string name="user_warning_label_quit">Չեղարկել</string>
+    <string name="user_warning_quit_dialog_button_keep">Պահել օգտատիրոջը</string>
+    <string name="user_warning_quit_dialog_button_remove">Հեռացնել օգտատիրոջը</string>
+    <string name="user_warning_quit_dialog_message">Հեռացնե՞լ օգտատիրոջը:</string>
+    <string name="user_warning_title">Ավելացնել նոր օգտատեր</string>
+    <string name="wait_msg">Մի վայրկյան...</string>
+    <string name="web_dialog_unable_to_view">Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք ^1 կայքը:</string>
+    <string name="welcome_accessibility_button">Տեսողության կարգավորումներ</string>
+    <string name="welcome_language_picker_content_description">Լեզուն՝ %s</string>
+    <string name="welcome_language_picker_dialog_title">Ընտրեք լեզուն</string>
+    <string name="welcome_message">Ողջույն</string>
+    <string name="welcome_secondary_user_added_text">Ձեզ ավելացրել են այս {DEVICE_TYPE,select, PHONE{հեռախոսում}TABLET{պլանշետում}other{սարքում}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Ուշադրություն:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{Հեռախոսի}TABLET{Պլանշետի}other{Սարքի}} սեփականատերը կարող է ապատեղադրել ձեր հավելվածները կամ արգելել ձեզ օգտագործել սարքի հիշողությունը:</li>"
+
+"<li>Ցանկացած այլ օգտատեր կարող է թարմացնել հավելվածները և դրանց թույլտվությունները:</li>"
+
+"<li>Տվեք {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} միայն վստահելի մարդկանց:</li></ul></string>
+    <string name="welcome_start_button_label">Սկսել</string>
+    <string name="wifi_add_new_network">Ավելացնել նոր ցանց</string>
+    <string name="wifi_and_mobile_skipped_message">"Միացեք Wi‑Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}։
+
+Առանց ցանցին միանալու դուք չեք կարողանա՝
+
+"<ul><li>մտնել ձեր Google հաշիվ,</li>"
+
+"<li>վերականգնել հավելվածները և տվյալները,</li>"
+
+"<li>ստանալ ծրագրակազմի թարմացումներ,</li>"
+
+"<li>ավտոմատ կարգավորել ամսաթիվն ու ժամը։</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Միացեք Wi‑Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}։
+
+Առանց ցանցին միանալու դուք չեք կարողանա՝
+
+"<ul><li>մտնել ձեր Google հաշիվ,</li>"
+
+"<li>վերականգնել հավելվածները և տվյալները,</li>"
+
+"<li>ներբեռնել SIM քարտ,</li>"
+
+"<li>ստանալ ծրագրակազմի թարմացումներ,</li>"
+
+"<li>ավտոմատ կարգավորել ամսաթիվն ու ժամը։</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Հասանելիության կետը ժամանակավորապես լիքն է</string>
+    <string name="wifi_check_password_try_again">Ստուգեք գաղտնաբառը և նորից փորձեք</string>
+    <string name="wifi_connected_no_internet">Միացված է, սակայն ինտերնետ կապ չկա</string>
+    <string name="wifi_disabled_by_recommendation_provider">Չի կապակցվել ցանցի թույլ ազդանշանի պատճառով</string>
+    <string name="wifi_disabled_generic">Անջատված</string>
+    <string name="wifi_disabled_network_failure">IP կարգավորման ձախողում</string>
+    <string name="wifi_disabled_password_failure">Նույնականացման խնդիր</string>
+    <string name="wifi_fail_to_scan">Հնարավոր չէ սկանավորել ցանցերը</string>
+    <string name="wifi_ip_address_not_available">Անհասանելի է</string>
+    <string name="wifi_ip_address_title">IP հասցե</string>
+    <string name="wifi_limited_connection">Սահմանափակ կապ</string>
+    <string name="wifi_mac_address_not_available">Անհասանելի է</string>
+    <string name="wifi_mac_address_title">MAC հասցե</string>
+    <string name="wifi_metered_label">Վճարովի թրաֆիկ</string>
+    <string name="wifi_no_internet">Ինտերնետ կապ չկա</string>
+    <string name="wifi_no_internet_no_reconnect">Չի միանա ավտոմատ</string>
+    <string name="wifi_not_in_range">Ընդգրկույթից դուրս է</string>
+    <string name="wifi_remembered">Պահված է</string>
+    <string name="wifi_scanning">Որոնվում են Wi-Fi ցանցեր…</string>
+    <string name="wifi_set_up_offline_title">Կարգավորե՞լ առանց ցանցին միանալու</string>
+    <string name="wifi_skip_button_label">Կարգավորել անցանց</string>
+    <string name="wifi_skipped_message">Կարգավորման ընթացքում ձեր {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}} կօգտագործի բջջային ցանցը, և թրաֆիկի օգտագործման համար ձեզանից կարող է գումար գանձվել: Ավելորդ վճարներից խուսափելու համար միացեք Wi‑Fi ցանցին:</string>
+    <string name="wifi_skipped_title">Տվյալների համար հնարավոր վճարներ</string>
+    <string name="wifi_title">Միացեք Wi-Fi-ին</string>
+    <string name="wifi_unmetered_label">Անսահմանափակ թրաֆիկ</string>
+    <string name="work_profile_setup_description">Դա թույլ կտա կարգավորել սարքը գործնական նպատակներով և առանձնացնել աշխատանքային ու անձնական տվյալները</string>
+    <string name="work_profile_setup_next">Հաջորդը</string>
+    <string name="work_profile_setup_skip">Բաց թողնել աշխատանքային հաշվի կարգավորումը</string>
+    <string name="work_profile_setup_title">Ավելացրեք աշխատանքային հաշիվ</string>
+    <string name="work_setup_interrupted">"Մենք կասկածելի գործողություններ ենք հայտնաբերել այս {DEVICE_TYPE,select, PHONE{հեռախոսում}TABLET{պլանշետում}other{սարքում}}, և ձեր տվյալները կարող են վտանգված լինել, եթե շարունակեք կարգավորումը:
+
+Նորից սկսելու համար վերակայեք {DEVICE_TYPE,select, PHONE{հեռախոսը}TABLET{պլանշետը}other{սարքը}}:"</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{Հեռախոսը}TABLET{Պլանշետը}other{Սարքը}} կարող է վտանգված լինել</string>
+</resources>

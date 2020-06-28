@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Atšaukta) %1$d programų pašalinta</item>
+        <item quantity="one">(Atšaukta) %1$d programa pašalinta</item>
+        <item quantity="few">(Atšaukta) %1$d programos pašalintos</item>
+        <item quantity="many">(Atšaukta) %1$d programos pašalinta</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">%1$d programų pašalinta</item>
+        <item quantity="one">%1$d programa pašalinta</item>
+        <item quantity="few">%1$d programos pašalintos</item>
+        <item quantity="many">%1$d programos pašalinta</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">Nukopijuota %1$d failų</item>
+        <item quantity="one">Nukopijuotas %1$d failas</item>
+        <item quantity="few">Nukopijuoti %1$d failai</item>
+        <item quantity="many">Nukopijuota %1$d failo</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Nukopijuoti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Nukopijuoti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Nukopijuoti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Nukopijuoti %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Nukopijuota aplankų: %1$d</item>
+        <item quantity="one">Nukopijuota aplankų: %1$d</item>
+        <item quantity="few">Nukopijuota aplankų: %1$d</item>
+        <item quantity="many">Nukopijuota aplankų: %1$d</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Nukopijuota %1$d aplank. ir %2$d failų</item>
+        <item quantity="one">Nukopijuota %1$d aplank. ir %2$d failų</item>
+        <item quantity="few">Nukopijuota %1$d aplank. ir %2$d failų</item>
+        <item quantity="many">Nukopijuota %1$d aplank. ir %2$d failų</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d failų ištrinta</item>
+        <item quantity="one">%1$d failas ištrintas</item>
+        <item quantity="few">%1$d failai ištrinti</item>
+        <item quantity="many">%1$d failo ištrinta</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Ištrinti %1$d aplank. ir %2$d failai</item>
+        <item quantity="one">Ištrinti %1$d aplank. ir %2$d failai</item>
+        <item quantity="few">Ištrinti %1$d aplank. ir %2$d failai</item>
+        <item quantity="many">Ištrinti %1$d aplank. ir %2$d failai</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Ištrinta aplankų: %1$d</item>
+        <item quantity="one">Ištrinta aplankų: %1$d</item>
+        <item quantity="few">Ištrinta aplankų: %1$d</item>
+        <item quantity="many">Ištrinta aplankų: %1$d</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Ištrinti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Ištrinti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Ištrinti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Ištrinti %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">Perkelta %1$d failų</item>
+        <item quantity="one">Perkeltas %1$d failas</item>
+        <item quantity="few">Perkelti %1$d failai</item>
+        <item quantity="many">Perkelta %1$d failo</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Perkelti %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Perkelta aplankų: %1$d</item>
+        <item quantity="one">Perkelta aplankų: %1$d</item>
+        <item quantity="few">Perkelta aplankų: %1$d</item>
+        <item quantity="many">Perkelta aplankų: %1$d</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Perkelti %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Perkelti %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Šis veiksmas taip pat visam laikui ištrins aplanke esančius failus: %1$d</item>
+        <item quantity="one">Šis veiksmas taip pat visam laikui ištrins aplanke esančius failus: %1$d</item>
+        <item quantity="few">Šis veiksmas taip pat visam laikui ištrins aplanke esančius failus: %1$d</item>
+        <item quantity="many">Šis veiksmas taip pat visam laikui ištrins aplanke esančius failus: %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Ištrinti %1$d fail.?</item>
+        <item quantity="one">Ištrinti %1$d fail.?</item>
+        <item quantity="few">Ištrinti %1$d fail.?</item>
+        <item quantity="many">Ištrinti %1$d fail.?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Ištrinti %1$d aplank. ir %2$d fail.?</item>
+        <item quantity="one">Ištrinti %1$d aplanką ir %2$d failą?</item>
+        <item quantity="few">Ištrinti %1$d aplank. ir %2$d fail.?</item>
+        <item quantity="many">Ištrinti %1$d aplank. ir %2$d fail.?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Ištrinti %1$d aplank. ir 1 failą?</item>
+        <item quantity="one">Ištrinti %1$d aplanką ir 1 failą?</item>
+        <item quantity="few">Ištrinti %1$d aplank. ir 1 failą?</item>
+        <item quantity="many">Ištrinti %1$d aplank. ir 1 failą?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Ištrinti %1$d aplank.?</item>
+        <item quantity="one">Ištrinti %1$d aplank.?</item>
+        <item quantity="few">Ištrinti %1$d aplank.?</item>
+        <item quantity="many">Ištrinti %1$d aplank.?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Ketinate išvalyti %1$d elementų</item>
+        <item quantity="one">Ketinate išvalyti %1$d elementą</item>
+        <item quantity="few">Ketinate išvalyti %1$d elementus</item>
+        <item quantity="many">Ketinate išvalyti %1$d elemento</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Perkelti %1$d fail.?</item>
+        <item quantity="one">Perkelti %1$d fail.?</item>
+        <item quantity="few">Perkelti %1$d fail.?</item>
+        <item quantity="many">Perkelti %1$d fail.?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Nepavyko nukopijuoti failų. %1$s</item>
+        <item quantity="one">Nepavyko nukopijuoti failų. %1$s</item>
+        <item quantity="few">Nepavyko nukopijuoti failų. %1$s</item>
+        <item quantity="many">Nepavyko nukopijuoti failų. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Kopijuojama %1$d failų</item>
+        <item quantity="one">Kopijuojamas %1$d failas</item>
+        <item quantity="few">Kopijuojami %1$d failai</item>
+        <item quantity="many">Kopijuojama %1$d failo</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Kopijuojami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Kopijuojami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Kopijuojami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Kopijuojami %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Kopijuojama aplankų: %1$d</item>
+        <item quantity="one">Kopijuojama aplankų: %1$d</item>
+        <item quantity="few">Kopijuojama aplankų: %1$d</item>
+        <item quantity="many">Kopijuojama aplankų: %1$d</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Kopijuojami %1$d aplank. ir %2$d failai</item>
+        <item quantity="one">Kopijuojami %1$d aplank. ir %2$d failai</item>
+        <item quantity="few">Kopijuojami %1$d aplank. ir %2$d failai</item>
+        <item quantity="many">Kopijuojami %1$d aplank. ir %2$d failai</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Ištrinkite %1$d pasikartojančių failų</item>
+        <item quantity="one">Ištrinkite %1$d pasikartojantį failą</item>
+        <item quantity="few">Ištrinkite %1$d pasikartojančius failus</item>
+        <item quantity="many">Ištrinkite %1$d pasikartojančio failo</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Nepavyko ištrinti failų. %1$s</item>
+        <item quantity="one">Nepavyko ištrinti failų. %1$s</item>
+        <item quantity="few">Nepavyko ištrinti failų. %1$s</item>
+        <item quantity="many">Nepavyko ištrinti failų. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Išvalyti %1$d memų</item>
+        <item quantity="one">Išvalyti %1$d memą</item>
+        <item quantity="few">Išvalyti %1$d memus</item>
+        <item quantity="many">Išvalyti %1$d memo</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Trinama %1$d failų</item>
+        <item quantity="one">Trinamas %1$d failas</item>
+        <item quantity="few">Trinami %1$d failai</item>
+        <item quantity="many">Trinama %1$d failo</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Ištrinami %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Trinami aplankai: %1$d</item>
+        <item quantity="one">Trinami aplankai: %1$d</item>
+        <item quantity="few">Trinami aplankai: %1$d</item>
+        <item quantity="many">Trinami aplankai: %1$d</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Ištrinami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Ištrinami %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Šie elementai jau yra %s</item>
+        <item quantity="one">Šie elementai jau yra %s</item>
+        <item quantity="few">Šie elementai jau yra %s</item>
+        <item quantity="many">Šie elementai jau yra %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Nepavyko išskleisti failų. %1$s</item>
+        <item quantity="one">Nepavyko išskleisti failų. %1$s</item>
+        <item quantity="few">Nepavyko išskleisti failų. %1$s</item>
+        <item quantity="many">Nepavyko išskleisti failų. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">Išskleista %1$d failų</item>
+        <item quantity="one">Išskleistas %1$d failas</item>
+        <item quantity="few">Išskleisti %1$d failai</item>
+        <item quantity="many">Išskleista %1$d failo</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s negalėjo nusiųsti %2$d failų šiam gavėjui: %3$s</item>
+        <item quantity="one">%1$s negalėjo nusiųsti %2$d failo šiam gavėjui: %3$s</item>
+        <item quantity="few">%1$s negalėjo nusiųsti %2$d failų šiam gavėjui: %3$s</item>
+        <item quantity="many">%1$s negalėjo nusiųsti %2$d failo šiam gavėjui: %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d failų jau yra %2$s, jie nebus nukopijuoti</item>
+        <item quantity="one">%1$d failas jau yra %2$s, jis nebus nukopijuotas</item>
+        <item quantity="few">%1$d failai jau yra %2$s, jie nebus nukopijuoti</item>
+        <item quantity="many">%1$d failų jau yra %2$s, jie nebus nukopijuoti</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d failų jau yra %2$s, jie nebus perkelti</item>
+        <item quantity="one">%1$d failas jau yra %2$s, jis nebus perkeltas</item>
+        <item quantity="few">%1$d failai jau yra %2$s, jie nebus perkelti</item>
+        <item quantity="many">%1$d failų jau yra %2$s, jie nebus perkelti</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">Nepavyko ištrinti %1$d failų iš %2$d. Reikalingi SD kortelės leidimai.</item>
+        <item quantity="one">Nepavyko ištrinti %1$d failo iš %2$d. Reikalingi SD kortelės leidimai.</item>
+        <item quantity="few">Nepavyko ištrinti %1$d failų iš %2$d. Reikalingi SD kortelės leidimai.</item>
+        <item quantity="many">Nepavyko ištrinti %1$d failo iš %2$d. Reikalingi SD kortelės leidimai.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">Failų: %1$s</item>
+        <item quantity="one">Failų: %1$s</item>
+        <item quantity="few">Failų: %1$s</item>
+        <item quantity="many">Failų: %1$s</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d failų bus nukopijuota</item>
+        <item quantity="one">%1$d failas bus nukopijuotas</item>
+        <item quantity="few">%1$d failai bus nukopijuoti</item>
+        <item quantity="many">%1$d failų bus nukopijuota</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d failų bus perkelta</item>
+        <item quantity="one">%1$d failas bus perkeltas</item>
+        <item quantity="few">%1$d failai bus perkelti</item>
+        <item quantity="many">%1$d failų bus perkelta</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d fail.</item>
+        <item quantity="one">%1$s, %2$d fail.</item>
+        <item quantity="few">%1$s, %2$d fail.</item>
+        <item quantity="many">%1$s, %2$d fail.</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">Iš viso failų: %1$d</item>
+        <item quantity="one">Iš viso failų: %1$d</item>
+        <item quantity="few">Iš viso failų: %1$d</item>
+        <item quantity="many">Iš viso failų: %1$d</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">Aplankų: %1$s</item>
+        <item quantity="one">Aplankų: %1$s</item>
+        <item quantity="few">Aplankų: %1$s</item>
+        <item quantity="many">Aplankų: %1$s</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">„Google Play Protect“ įrenginyje rado %1$s žalingų programų įrenginyje</item>
+        <item quantity="one">„Google Play Protect“ rado %1$s žalingą programą įrenginyje</item>
+        <item quantity="few">„Google Play Protect“ įrenginyje rado %1$s žalingas programas įrenginyje</item>
+        <item quantity="many">„Google Play Protect“ įrenginyje rado %1$s žalingų programų įrenginyje</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d val.</item>
+        <item quantity="one">%1$d val.</item>
+        <item quantity="few">%1$d val.</item>
+        <item quantity="many">%1$d val.</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Pašalinkite %1$d medijos failų</item>
+        <item quantity="one">Pašalinkite %1$d medijos failą</item>
+        <item quantity="few">Pašalinkite %1$d medijos failus</item>
+        <item quantity="many">Pašalinkite %1$d medijos failo</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Nepavyko perkelti failų. %1$s</item>
+        <item quantity="one">Nepavyko perkelti failų. %1$s</item>
+        <item quantity="few">Nepavyko perkelti failų. %1$s</item>
+        <item quantity="many">Nepavyko perkelti failų. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Perkeliama %1$d failų</item>
+        <item quantity="one">Perkeliamas %1$d failas</item>
+        <item quantity="few">Perkeliami %1$d failai</item>
+        <item quantity="many">Perkeliama %1$d failo</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Perkeliami %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Perkeliama aplankų: %1$d</item>
+        <item quantity="one">Perkeliama aplankų: %1$d</item>
+        <item quantity="few">Perkeliama aplankų: %1$d</item>
+        <item quantity="many">Perkeliama aplankų: %1$d</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="one">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="few">Perkeliami %1$d aplank. ir %2$d fail.</item>
+        <item quantity="many">Perkeliami %1$d aplank. ir %2$d fail.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s siunčia %2$d failų šiam gavėjui: %3$s</item>
+        <item quantity="one">%1$s siunčia %2$d failą šiam gavėjui: %3$s</item>
+        <item quantity="few">%1$s siunčia %2$d failus šiam gavėjui: %3$s</item>
+        <item quantity="many">%1$s siunčia %2$d failo šiam gavėjui: %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s nusiuntė %2$d failų šiam gavėjui: %3$s</item>
+        <item quantity="one">%1$s nusiuntė %2$d failą šiam gavėjui: %3$s</item>
+        <item quantity="few">%1$s nusiuntė %2$d failus šiam gavėjui: %3$s</item>
+        <item quantity="many">%1$s nusiuntė %2$d failo šiam gavėjui: %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">gavėjų, su kuriais bendrinama</item>
+        <item quantity="one">gavėjas, su kuriuo bendrinama</item>
+        <item quantity="few">gavėjai, su kuriais bendrinama</item>
+        <item quantity="many">gavėjo, su kuriais bendrinama</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Sustabdyti %1$d failų kopijavimą?</item>
+        <item quantity="one">Sustabdyti %1$d failo kopijavimą?</item>
+        <item quantity="few">Sustabdyti %1$d failų kopijavimą?</item>
+        <item quantity="many">Sustabdyti %1$d failo kopijavimą?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Sustabdyti %1$d failų ištrynimą?</item>
+        <item quantity="one">Sustabdyti %1$d failo ištrynimą?</item>
+        <item quantity="few">Sustabdyti %1$d failų ištrynimą?</item>
+        <item quantity="many">Sustabdyti %1$d failo ištrynimą?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Sustabdyti %1$d failų perkėlimą?</item>
+        <item quantity="one">Sustabdyti %1$d failo perkėlimą?</item>
+        <item quantity="few">Sustabdyti %1$d failų perkėlimą?</item>
+        <item quantity="many">Sustabdyti %1$d failo perkėlimą?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Pašalinkite %1$d senų programų</item>
+        <item quantity="one">Pašalinkite %1$d seną programą</item>
+        <item quantity="few">Pašalinkite %1$d senas programas</item>
+        <item quantity="many">Pašalinkite %1$d senos programos</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">Dar %1$d failų</item>
+        <item quantity="one">Dar %1$d failas</item>
+        <item quantity="few">Dar %1$d failai</item>
+        <item quantity="many">Dar %1$d failo</item>
+    </plurals>
+</resources>

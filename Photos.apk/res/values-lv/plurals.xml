@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Skenēti %1$d vienumi</item>
+        <item quantity="zero">Skenēti %1$d vienumi</item>
+        <item quantity="one">Skenēts %1$d vienums</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">Atlasīti %1$d vienumi</item>
+        <item quantity="zero">Atlasīti %1$d vienumi</item>
+        <item quantity="one">Atlasīts %1$d vienums</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Jaunā albuma lielums pārsniegtu pašreizējo ierobežojumu: %1$d vienumi.</item>
+        <item quantity="zero">Jaunā albuma lielums pārsniegtu pašreizējo ierobežojumu: %1$d vienumi.</item>
+        <item quantity="one">Jaunā albuma lielums pārsniegtu pašreizējo ierobežojumu: %1$d vienums.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumā būtu %1$d vienumi.</item>
+        <item quantity="zero">Albumā būtu %1$d vienumi.</item>
+        <item quantity="one">Albumā būtu %1$d vienums.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">Pievienotas %d atrašanās vietas</item>
+        <item quantity="zero">Pievienotas %d atrašanās vietas</item>
+        <item quantity="one">Pievienota %d atrašanās vieta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d atrašanās vietas</item>
+        <item quantity="zero">%d atrašanās vietas</item>
+        <item quantity="one">%d atrašanās vieta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d kartes</item>
+        <item quantity="zero">%d kartes</item>
+        <item quantity="one">%d karte</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Pievienotas %d kartes</item>
+        <item quantity="zero">Pievienotas %d kartes</item>
+        <item quantity="one">Pievienota %d karte</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Notiek vienumu noņemšana no šī albuma…</item>
+        <item quantity="zero">Notiek vienumu noņemšana no šī albuma…</item>
+        <item quantity="one">Notiek vienumu noņemšana no šī albuma…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Noņemti %d vienumi</item>
+        <item quantity="zero">Noņemti %d vienumi</item>
+        <item quantity="one">Noņemts %d vienums</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Notiek fotoattēlu noņemšana no šī albuma…</item>
+        <item quantity="zero">Notiek fotoattēlu noņemšana no šī albuma…</item>
+        <item quantity="one">Notiek fotoattēlu noņemšana no šī albuma…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Notiek videoklipu noņemšana no šī albuma…</item>
+        <item quantity="zero">Notiek videoklipu noņemšana no šī albuma…</item>
+        <item quantity="one">Notiek videoklipu noņemšana no šī albuma…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d vienumi</item>
+        <item quantity="zero">%1$d vienumi</item>
+        <item quantity="one">%1$d vienums</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Dzēst no ierīces (%d)</item>
+        <item quantity="zero">Dzēst no ierīces (%d)</item>
+        <item quantity="one">Dzēst no ierīces (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Dzēst visu no ierīces (%d)</item>
+        <item quantity="zero">Dzēst visu no ierīces (%d)</item>
+        <item quantity="one">Dzēst visu no ierīces (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Uz atkritni (%d)</item>
+        <item quantity="zero">Uz atkritni (%d)</item>
+        <item quantity="one">Uz atkritni (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">Arhivēti %d vienumi</item>
+        <item quantity="zero">Arhivēti %d vienumi</item>
+        <item quantity="one">Arhivēts %d vienums</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">Atarhivēti %d vienumi</item>
+        <item quantity="zero">Atarhivēti %d vienumi</item>
+        <item quantity="one">Atarhivēts %d vienums</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s un vēl %3$d citas</item>
+        <item quantity="zero">%1$s, %2$s un vēl %3$d citas</item>
+        <item quantity="one">%1$s, %2$s un vēl %3$d cita</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s un vēl %2$d citas</item>
+        <item quantity="zero">%1$s un vēl %2$d citas</item>
+        <item quantity="one">%1$s un vēl %2$d cita</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">Atlasīts: %d</item>
+        <item quantity="zero">Atlasīts: %d</item>
+        <item quantity="one">Atlasīts: %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">Notiek %d vienumu augšupielāde</item>
+        <item quantity="zero">Notiek %d vienumu augšupielāde</item>
+        <item quantity="one">Notiek %d vienuma augšupielāde</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d vienumi nav dublēti, jo jūsu konta krātuve ir pilna</item>
+        <item quantity="zero">%d vienumi nav dublēti, jo jūsu konta krātuve ir pilna</item>
+        <item quantity="one">%d vienums nav dublēts, jo jūsu konta krātuve ir pilna</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">Atlikuši %d vienumi</item>
+        <item quantity="zero">Atlikuši %d vienumi</item>
+        <item quantity="one">Atlicis %d vienums</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">Atlikuši %d vienumi, ko dublēt</item>
+        <item quantity="zero">Atlikuši %d vienumi, ko dublēt</item>
+        <item quantity="one">Atlicis %d vienums, ko dublēt</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">Atlikuši %d vienumi • Augsta kvalitāte</item>
+        <item quantity="zero">Atlikuši %d vienumi • Augsta kvalitāte</item>
+        <item quantity="one">Atlicis %d vienums • Augsta kvalitāte</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">Atlikuši %d vienumi • Sākotnējā kvalitāte</item>
+        <item quantity="zero">Atlikuši %d vienumi • Sākotnējā kvalitāte</item>
+        <item quantity="one">Atlicis %d vienums • Sākotnējā kvalitāte</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Notiek %d vienumu augšupielāde</item>
+        <item quantity="zero">Notiek %d vienumu augšupielāde</item>
+        <item quantity="one">Notiek %d vienuma augšupielāde</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Atlikuši %d vienumi</item>
+        <item quantity="zero">Atlikuši %d vienumi</item>
+        <item quantity="one">Atlicis %d vienums</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Atlikuši %d vienumi, ko dublēt</item>
+        <item quantity="zero">Atlikuši %d vienumi, ko dublēt</item>
+        <item quantity="one">Atlicis %d vienums, ko dublēt</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d fotoattēli nav dublēti</item>
+        <item quantity="zero">%1$d fotoattēli nav dublēti</item>
+        <item quantity="one">%1$d fotoattēls nav dublēts</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Notiek %d vienumu dublēšana</item>
+        <item quantity="zero">Notiek %d vienumu dublēšana</item>
+        <item quantity="one">Notiek %d vienuma dublēšana</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Notiek %d vienumu augšupielāde</item>
+        <item quantity="zero">Notiek %d vienumu augšupielāde</item>
+        <item quantity="one">Notiek %d vienuma augšupielāde</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Notiek %d videoklipu augšupielāde</item>
+        <item quantity="zero">Notiek %d videoklipu augšupielāde</item>
+        <item quantity="one">Notiek %d videoklipa augšupielāde</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d augšupielādējami vienumi</item>
+        <item quantity="zero">%d augšupielādējami vienumi</item>
+        <item quantity="one">%d augšupielādējams vienums</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d augšupielādējami videoklipi</item>
+        <item quantity="zero">%d augšupielādējami videoklipi</item>
+        <item quantity="one">%d augšupielādējams videoklips</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d fotoattēli nav dublēti</item>
+        <item quantity="zero">%d fotoattēli nav dublēti</item>
+        <item quantity="one">%d fotoattēls nav dublēts</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Visi %d fotoattēli</item>
+        <item quantity="zero">Visi %d fotoattēli</item>
+        <item quantity="one">Visi %d fotoattēli</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">%1$d vienumi nav dublēti, jo jūsu konta krātuve ir pilna</item>
+        <item quantity="zero">%1$d vienumi nav dublēti, jo jūsu konta krātuve ir pilna</item>
+        <item quantity="one">%1$d vienums nav dublēts, jo jūsu konta krātuve ir pilna</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">%1$d fotoattēli nav dublēti, jo krātuvē vairs nav vietas</item>
+        <item quantity="zero">%1$d fotoattēli nav dublēti, jo krātuvē vairs nav vietas</item>
+        <item quantity="one">%1$d fotoattēls nav dublēts, jo krātuvē vairs nav vietas</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">Pievienoti %1$d vienumi</item>
+        <item quantity="zero">Pievienoti %1$d vienumi</item>
+        <item quantity="one">Pievienots %1$d vienums</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Atlasiet ne vairāk par %d vienumiem.</item>
+        <item quantity="zero">Atlasiet ne vairāk par %d vienumiem.</item>
+        <item quantity="one">Atlasiet ne vairāk par %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Atlasiet vismaz %d vienumus.</item>
+        <item quantity="zero">Atlasiet vismaz %d vienumus.</item>
+        <item quantity="one">Atlasiet vismaz %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Lūdzu, atlasiet vienumus %d dienu diapazonā.</item>
+        <item quantity="zero">Lūdzu, atlasiet vienumus %d dienu diapazonā.</item>
+        <item quantity="one">Lūdzu, atlasiet vienumus %d dienas diapazonā.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Pirms %d dienām</item>
+        <item quantity="zero">Pirms %d dienām</item>
+        <item quantity="one">Pirms %d dienas</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Pirms %d stundām</item>
+        <item quantity="zero">Pirms %d stundām</item>
+        <item quantity="one">Pirms %d stundas</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d nedēļas</item>
+        <item quantity="zero">%d nedēļas</item>
+        <item quantity="one">%d nedēļa</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Pirms %d nedēļām</item>
+        <item quantity="zero">Pirms %d nedēļām</item>
+        <item quantity="one">Pirms %d nedēļas</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms %d minūtes</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Pirms %d dienām</item>
+        <item quantity="zero">Pirms %d dienām</item>
+        <item quantity="one">Pirms %d dienas</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Noņemt %1$d vienumus no ierīces</item>
+        <item quantity="zero">Noņemt %1$d vienumus no ierīces</item>
+        <item quantity="one">Noņemt %1$d vienumu no ierīces</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Notiek %1$d sākotnējo fotoattēlu vai videoklipu noņemšana</item>
+        <item quantity="zero">Notiek %1$d sākotnējo fotoattēlu vai videoklipu noņemšana</item>
+        <item quantity="one">Notiek %1$d sākotnējā fotoattēla vai videoklipa noņemšana</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d jaunas kartītes</item>
+        <item quantity="zero">%d jaunas kartītes</item>
+        <item quantity="one">%d jauna kartīte</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">Pievienoti %d vienumi</item>
+        <item quantity="zero">Pievienoti %d vienumi</item>
+        <item quantity="one">Pievienots %d vienums</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d atjauninājumi</item>
+        <item quantity="zero">%1$d atjauninājumi</item>
+        <item quantity="one">%1$d atjauninājums</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Skatīja %1$s, %2$s un vēl %3$d personas</item>
+        <item quantity="zero">Skatīja %1$s, %2$s un vēl %3$d personas</item>
+        <item quantity="one">Skatīja %1$s, %2$s un vēl %3$d persona</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d komentāri</item>
+        <item quantity="zero">%1$d komentāri</item>
+        <item quantity="one">%1$d komentārs</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Notiek vienumu saglabāšana bibliotēkā…</item>
+        <item quantity="zero">Notiek vienumu saglabāšana bibliotēkā…</item>
+        <item quantity="one">Notiek vienumu saglabāšana bibliotēkā…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s atzīmēja ar Patīk %2$d fotoattēlus • %3$s</item>
+        <item quantity="zero">%1$s atzīmēja ar Patīk %2$d fotoattēlus • %3$s</item>
+        <item quantity="one">%1$s atzīmēja ar Patīk %2$d fotoattēlu • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s atzīmēja ar Patīk %2$d videoklipus • %3$s</item>
+        <item quantity="zero">%1$s atzīmēja ar Patīk %2$d videoklipus • %3$s</item>
+        <item quantity="one">%1$s atzīmēja ar Patīk %2$d videoklipu • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">atlasiet %d vienumus</item>
+        <item quantity="zero">atlasiet %d vienumus</item>
+        <item quantity="one">atlasiet %d vienumu</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Izdzēst mapi un tajā esošos %d vienumus.</item>
+        <item quantity="zero">Izdzēst mapi un tajā esošos %d vienumus.</item>
+        <item quantity="one">Izdzēst mapi un tajā esošo %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Izdzēst no ierīces (%d)</item>
+        <item quantity="zero">Izdzēst no ierīces (%d)</item>
+        <item quantity="one">Izdzēst no ierīces (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Kopējot %d vienumus, radās problēma.</item>
+        <item quantity="zero">Kopējot %d vienumus, radās problēma.</item>
+        <item quantity="one">Kopējot %d vienumu, radās problēma.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d vienumi ir nokopēti.</item>
+        <item quantity="zero">%d vienumi ir nokopēti.</item>
+        <item quantity="one">%d vienums ir nokopēts.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Pārvietojot %d vienumus, radās problēma.</item>
+        <item quantity="zero">Pārvietojot %d vienumus, radās problēma.</item>
+        <item quantity="one">Pārvietojot %d vienumu, radās problēma.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d vienumi ir pārvietoti.</item>
+        <item quantity="zero">%d vienumi ir pārvietoti.</item>
+        <item quantity="one">%d vienums ir pārvietots.</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d ieteikti fotouzņēmumi</item>
+        <item quantity="zero">%d ieteikti fotouzņēmumi</item>
+        <item quantity="one">%d ieteikts fotouzņēmums</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">Pirms %d gadiem</item>
+        <item quantity="zero">Pirms %d gadiem</item>
+        <item quantity="one">Pirms %d gada</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Pagriezt par %d grādiem pretēji pulksteņrādītāju kustības virzienam</item>
+        <item quantity="zero">Pagriezt par %d grādiem pretēji pulksteņrādītāju kustības virzienam</item>
+        <item quantity="one">Pagriezt par %d grādu pretēji pulksteņrādītāju kustības virzienam</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d personu fotoattēli</item>
+        <item quantity="zero">%d personu fotoattēli</item>
+        <item quantity="one">%d personas fotoattēli</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">%d atlasīto seju fotoattēli</item>
+        <item quantity="zero">%d atlasīto seju fotoattēli</item>
+        <item quantity="one">%d atlasītās sejas fotoattēli</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Atlasīti %d</item>
+        <item quantity="zero">Atlasīti %d</item>
+        <item quantity="one">Atlasīts %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Atlasītas %d sejas</item>
+        <item quantity="zero">Atlasītas %d sejas</item>
+        <item quantity="one">Atlasīta %d seja</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%1$d atlasīto seju fotoattēli, kopš %2$s</item>
+        <item quantity="zero">%1$d atlasīto seju fotoattēli, kopš %2$s</item>
+        <item quantity="one">%1$d atlasītās sejas fotoattēli, kopš %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">%d atlasīto seju fotoattēli</item>
+        <item quantity="zero">%d atlasīto seju fotoattēli</item>
+        <item quantity="one">%d atlasītās sejas fotoattēli</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Noņemti %1$d fotoattēli</item>
+        <item quantity="zero">Noņemti %1$d fotoattēli</item>
+        <item quantity="one">Noņemts %1$d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Izvēlieties tikai %d personas</item>
+        <item quantity="zero">Izvēlieties tikai %d personas</item>
+        <item quantity="one">Izvēlieties tikai %d personu</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d fotoattēli</item>
+        <item quantity="zero">%1$d fotoattēli</item>
+        <item quantity="one">%1$d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d atlasīti</item>
+        <item quantity="zero">%d atlasīti</item>
+        <item quantity="one">%d atlasīts</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Var izdrukāt tikai %d fotoattēlus,</item>
+        <item quantity="zero">Var izdrukāt tikai %d fotoattēlus,</item>
+        <item quantity="one">Var izdrukāt tikai %d fotoattēlu,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">iesakām %d fotoattēlus</item>
+        <item quantity="zero">iesakām %d fotoattēlus</item>
+        <item quantity="one">iesakām %d fotoattēlu</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">Ieteikti %d fotoattēli</item>
+        <item quantity="zero">Ieteikti %d fotoattēli</item>
+        <item quantity="one">Ieteikts %d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d papildu lapas</item>
+        <item quantity="zero">%d papildu lapas</item>
+        <item quantity="one">%d papildu lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d lapas</item>
+        <item quantity="zero">%d lapas</item>
+        <item quantity="one">%d lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Pievienojiet vēl %d fotoattēlus, lai varētu iegādāties</item>
+        <item quantity="zero">Pievienojiet vēl %d fotoattēlus, lai varētu iegādāties</item>
+        <item quantity="one">Pievienojiet vēl %d fotoattēlu, lai varētu iegādāties</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">Pievienotas %d lapas</item>
+        <item quantity="zero">Pievienotas %d lapas</item>
+        <item quantity="one">Pievienota %d lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Pievienoti %d fotoattēli</item>
+        <item quantity="zero">Pievienoti %d fotoattēli</item>
+        <item quantity="one">Pievienots %d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">Noņemtas %d lapas</item>
+        <item quantity="zero">Noņemtas %d lapas</item>
+        <item quantity="one">Noņemta %d lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Noņemti %d fotoattēli</item>
+        <item quantity="zero">Noņemti %d fotoattēli</item>
+        <item quantity="one">Noņemts %d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d papildu lapas</item>
+        <item quantity="zero">%d papildu lapas</item>
+        <item quantity="one">%d papildu lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d lapas</item>
+        <item quantity="zero">%d lapas</item>
+        <item quantity="one">%d lapa</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d fotoattēli ir pievienoti kā %2$s izdrukas</item>
+        <item quantity="zero">%1$d fotoattēli ir pievienoti kā %2$s izdrukas</item>
+        <item quantity="one">%1$d fotoattēls ir pievienots kā %2$s izdrukas</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Vienā pasūtījumā var atlasīt tikai %1$d %2$s izdrukas</item>
+        <item quantity="zero">Vienā pasūtījumā var atlasīt tikai %1$d %2$s izdrukas</item>
+        <item quantity="one">Vienā pasūtījumā var atlasīt tikai %1$d %2$s izdruku</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Lai turpinātu darbu ar melnrakstu, jums ir nepieciešami vismaz %1$d fotoattēli.</item>
+        <item quantity="zero">Lai turpinātu darbu ar melnrakstu, jums ir nepieciešami vismaz %1$d fotoattēli.</item>
+        <item quantity="one">Lai turpinātu darbu ar melnrakstu, jums ir nepieciešams vismaz %1$d fotoattēls.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d izdrukas</item>
+        <item quantity="zero">%1$d izdrukas</item>
+        <item quantity="one">%1$d izdruka</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">Lejupielādēti %1$d no %2$d vienumiem</item>
+        <item quantity="zero">Lejupielādēti %1$d no %2$d vienumiem</item>
+        <item quantity="one">Lejupielādēti %1$d no %2$d vienuma</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Vai atjaunot %d vienumus?</item>
+        <item quantity="zero">Vai atjaunot %d vienumus?</item>
+        <item quantity="one">Vai atjaunot %d vienumu?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">Ierīcē ir atjaunoti %1$d nesenie vienumi.</item>
+        <item quantity="zero">Ierīcē ir atjaunoti %1$d nesenie vienumi.</item>
+        <item quantity="one">Ierīcē ir atjaunots %1$d nesenais vienums.</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">Atjaunoti %1$d fotoattēli un videoklipi</item>
+        <item quantity="zero">Atjaunoti %1$d fotoattēli un videoklipi</item>
+        <item quantity="one">Atjaunots %1$d fotoattēls un videoklips</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d fotoattēli</item>
+        <item quantity="zero">%d fotoattēli</item>
+        <item quantity="one">%d fotoattēls</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d vienumi ir pievienoti albumam.</item>
+        <item quantity="zero">%d vienumi ir pievienoti albumam.</item>
+        <item quantity="one">%d vienums ir pievienots albumam.</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Notiek %d vienumu augšupielāde</item>
+        <item quantity="zero">Notiek %d vienumu augšupielāde</item>
+        <item quantity="one">Notiek %d vienuma augšupielāde</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums</item>
+        <item quantity="zero">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums</item>
+        <item quantity="one">%d vienums tiks augšupielādēts, kad būs izveidots savienojums</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Faktisk. faili</item>
+        <item quantity="zero">Faktisk. faili</item>
+        <item quantity="one">Faktisk. faili</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Faili</item>
+        <item quantity="zero">Faili</item>
+        <item quantity="one">Faili</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Nelieli faili</item>
+        <item quantity="zero">Nelieli faili</item>
+        <item quantity="one">Nelieli faili</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s un vēl %2$d personas</item>
+        <item quantity="zero">%1$s un vēl %2$d personas</item>
+        <item quantity="one">%1$s un vēl %2$d persona</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Vai pievienot %d saistītos fotoattēlus?</item>
+        <item quantity="zero">Vai pievienot %d saistītos fotoattēlus?</item>
+        <item quantity="one">Vai pievienot %d saistīto fotoattēlu?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d fotoattēli ir pievienoti automātiski</item>
+        <item quantity="zero">%1$d fotoattēli ir pievienoti automātiski</item>
+        <item quantity="one">%1$d fotoattēls ir pievienots automātiski</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d jauni fotoattēli</item>
+        <item quantity="zero">%1$d jauni fotoattēli</item>
+        <item quantity="one">%1$d jauns fotoattēls</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s pievienoja %2$d jaunus fotoattēlus</item>
+        <item quantity="zero">%1$s pievienoja %2$d jaunus fotoattēlus</item>
+        <item quantity="one">%1$s pievienoja %2$d jaunu fotoattēlu</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Nevar izdzēst vienumus</item>
+        <item quantity="zero">Nevar izdzēst vienumus</item>
+        <item quantity="one">Nevar izdzēst vienumus</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Nevar izdzēst %d vienumus.</item>
+        <item quantity="zero">Nevar izdzēst %d vienumus.</item>
+        <item quantity="one">Nevar izdzēst %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Nevar neatgriezeniski izdzēst %d vienumus.</item>
+        <item quantity="zero">Nevar neatgriezeniski izdzēst %d vienumus.</item>
+        <item quantity="one">Nevar neatgriezeniski izdzēst %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d izdzēsti no ierīces</item>
+        <item quantity="zero">%d izdzēsti no ierīces</item>
+        <item quantity="one">%d izdzēsts no ierīces</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Notiek vienumu atjaunošana…</item>
+        <item quantity="zero">Notiek vienumu atjaunošana…</item>
+        <item quantity="one">Notiek vienumu atjaunošana…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Nevar atjaunot %d vienumus.</item>
+        <item quantity="zero">Nevar atjaunot %d vienumus.</item>
+        <item quantity="one">Nevar atjaunot %d vienumu.</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Vai neatgriezeniski dzēst vienumus?</item>
+        <item quantity="zero">Vai neatgriezeniski dzēst vienumus?</item>
+        <item quantity="one">Vai neatgriezeniski dzēst vienumus?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Neatgriezeniski izdzēst %d vienumus</item>
+        <item quantity="zero">Neatgriezeniski izdzēst %d vienumus</item>
+        <item quantity="one">Neatgriezeniski izdzēst %d vienumu</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Šīs versijas derīguma termiņš beigsies pēc %d dienām. Lai turpinātu lietot pakalpojumu Google fotoattēli, atjauniniet to tūlīt.</item>
+        <item quantity="zero">Šīs versijas derīguma termiņš beigsies pēc %d dienām. Lai turpinātu lietot pakalpojumu Google fotoattēli, atjauniniet to tūlīt.</item>
+        <item quantity="one">Šīs versijas derīguma termiņš beigsies pēc %d dienas. Lai turpinātu lietot pakalpojumu Google fotoattēli, atjauniniet to tūlīt.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Notiek %d vienumu augšupielāde</item>
+        <item quantity="zero">Notiek %d vienumu augšupielāde</item>
+        <item quantity="one">Notiek %d vienuma augšupielāde</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums</item>
+        <item quantity="zero">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums</item>
+        <item quantity="one">%d vienums tiks augšupielādēts, kad būs izveidots savienojums</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums ar Wi-Fi</item>
+        <item quantity="zero">%d vienumi tiks augšupielādēti, kad būs izveidots savienojums ar Wi-Fi</item>
+        <item quantity="one">%d vienums tiks augšupielādēts, kad būs izveidots savienojums ar Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Notiek augšupielāde… Atlikuši %d faili</item>
+        <item quantity="zero">Notiek augšupielāde… Atlikuši %d faili</item>
+        <item quantity="one">Notiek augšupielāde… Atlicis %d fails</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d faili</item>
+        <item quantity="zero">%d faili</item>
+        <item quantity="one">%d fails</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s fotoattēli</item>
+        <item quantity="zero">%s fotoattēli</item>
+        <item quantity="one">%s fotoattēls</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s vienumi</item>
+        <item quantity="zero">%s vienumi</item>
+        <item quantity="one">%s vienums</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s videoklipi</item>
+        <item quantity="zero">%s videoklipi</item>
+        <item quantity="one">%s videoklips</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Atlasīt fotoattēlus</item>
+        <item quantity="zero">Atlasīt fotoattēlus</item>
+        <item quantity="one">Atlasīt fotoattēlus</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Atlasīt vienumus</item>
+        <item quantity="zero">Atlasīt vienumus</item>
+        <item quantity="one">Atlasīt vienumus</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Atlasīt videoklipus</item>
+        <item quantity="zero">Atlasīt videoklipus</item>
+        <item quantity="one">Atlasīt videoklipus</item>
+    </plurals>
+</resources>

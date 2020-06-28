@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nem sikerült befejezni a beállítást, mert %1$d kötelező alkalmazás telepítése sikertelen volt. További információt közvetlenül a rendszergazdától kérhet.</item>
+        <item quantity="one">Nem sikerült befejezni a beállítást, mert %1$d kötelező alkalmazás telepítése sikertelen volt. További információt közvetlenül a rendszergazdától kérhet.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nem sikerült telepíteni az alkalmazásokat</item>
+        <item quantity="one">Nem sikerült telepíteni az alkalmazást</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%2$d/%1$d alkalmazás telepítve</item>
+        <item quantity="one">%2$d/%1$d alkalmazás telepítve</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Alkalmazások eltávolítása</item>
+        <item quantity="one">Alkalmazás eltávolítása</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> nap van hátra</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> nap van hátra</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> óra van hátra</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> óra van hátra</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%2$d/%1$d alkalmazás telepítve</item>
+        <item quantity="one">%2$d/%1$d alkalmazás telepítve</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d alkalmazás áll rendelkezésre (%2$d telepített, %3$d letiltott)</item>
+        <item quantity="one">%1$d alkalmazás áll rendelkezésre (%2$d telepített, %3$d letiltott)</item>
+    </plurals>
+</resources>

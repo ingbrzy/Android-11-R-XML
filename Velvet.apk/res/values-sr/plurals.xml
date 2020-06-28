@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">пре %d дана</item>
+        <item quantity="one">пре %d дан</item>
+        <item quantity="few">пре %d дана</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">пре %d мин</item>
+        <item quantity="one">пре %d мин</item>
+        <item quantity="few">пре %d мин</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">пре %d год</item>
+        <item quantity="one">пре %d год</item>
+        <item quantity="few">пре %d год</item>
+    </plurals>
+    <plurals name="agenda_card_history_desc">
+        <item quantity="other">%d догађаја</item>
+        <item quantity="one">%d догађај</item>
+        <item quantity="few">%d догађаја</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s имате %1$d целодневних догађаја: %3$s.</item>
+        <item quantity="one">%2$s имате %1$d целодневни догађај: %3$s.</item>
+        <item quantity="few">%2$s имате %1$d целодневна догађаја: %3$s.</item>
+    </plurals>
+    <plurals name="agent_directory_a11y_user_rating">
+        <item quantity="other">Ваша оцена: %d звездица.</item>
+        <item quantity="one">Ваша оцена: %d звездица.</item>
+        <item quantity="few">Ваша оцена: %d звездице.</item>
+    </plurals>
+    <plurals name="album_photo_count_subtitle">
+        <item quantity="other">%1$d слика</item>
+        <item quantity="one">%1$d слика</item>
+        <item quantity="few">%1$d слике</item>
+    </plurals>
+    <plurals name="amb_smartspace_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+        <item quantity="few">%d ч</item>
+    </plurals>
+    <plurals name="amb_smartspace_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+    </plurals>
+    <plurals name="ambient_notification_summary">
+        <item quantity="other">Имате %1$d обавештења</item>
+        <item quantity="one">Имате %1$d обавештење</item>
+        <item quantity="few">Имате %1$d обавештења</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_progress">
+        <item quantity="other">Додела %1$s уређаја собама</item>
+        <item quantity="one">Додела %1$s уређаја собама</item>
+        <item quantity="few">Додела %1$s уређаја собама</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_prompt">
+        <item quantity="other">%1$d уређаја још увек није у соби. Ако додате уређаје у собу, моћи ћете да кажете ствари попут „Укључи светло у дневној соби“.</item>
+        <item quantity="one">%1$d уређај још увек није у соби. Ако додате уређаје у собу, моћи ћете да кажете ствари попут „Укључи светло у дневној соби“.</item>
+        <item quantity="few">%1$d уређаја још увек нису у соби. Ако додате уређаје у собу, моћи ћете да кажете ствари попут „Укључи светло у дневној соби“.</item>
+    </plurals>
+    <plurals name="assistant_settings_home_cloud_services_unlink_dialog_body_has_devices">
+        <item quantity="other">Желите ли стварно да опозовете везу са овим налогом? Тиме ћете опозвати и везу %1$d повезаних уређаја са Google помоћником.</item>
+        <item quantity="one">Желите ли стварно да опозовете везу са овим налогом? Тиме ћете опозвати и везу %1$d повезаног уређаја са Google помоћником.</item>
+        <item quantity="few">Желите ли стварно да опозовете везу са овим налогом? Тиме ћете опозвати и везу %1$d повезана уређаја са Google помоћником.</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d бројева</item>
+        <item quantity="one">%1$d број</item>
+        <item quantity="few">%1$d броја</item>
+    </plurals>
+    <plurals name="collections_detail_items_moved">
+        <item quantity="other">Премештено је %d ставки</item>
+        <item quantity="one">Премештена је %d ставка</item>
+        <item quantity="few">Премештене су %d ставке</item>
+    </plurals>
+    <plurals name="collections_detail_items_removed">
+        <item quantity="other">Уклоњено је %d ставки</item>
+        <item quantity="one">Уклоњена је %d ставка</item>
+        <item quantity="few">Уклоњене су %d ставке</item>
+    </plurals>
+    <plurals name="collections_detail_selected_items">
+        <item quantity="other">Изабрано је %d ставки</item>
+        <item quantity="one">Изабрана је %d ставка</item>
+        <item quantity="few">Изабране су %d ставке</item>
+    </plurals>
+    <plurals name="collections_detail_status">
+        <item quantity="other">%1$s · %2$d ставки</item>
+        <item quantity="one">%1$s · %2$d ставка</item>
+        <item quantity="few">%1$s · %2$d ставке</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_message">
+        <item quantity="other">Желите ли стварно да уклоните %d изабраних ставки?</item>
+        <item quantity="one">Желите ли стварно да уклоните %d изабрану ставку?</item>
+        <item quantity="few">Желите ли стварно да уклоните %d изабране ставке?</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_title">
+        <item quantity="other">Уклоните %d ставки</item>
+        <item quantity="one">Уклоните %d ставку</item>
+        <item quantity="few">Уклоните %d ставке</item>
+    </plurals>
+    <plurals name="collections_list_collections_count">
+        <item quantity="other">%d колекција</item>
+        <item quantity="one">%d колекција</item>
+        <item quantity="few">%d колекције</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">На %d дан</item>
+        <item quantity="few">На %d дана</item>
+    </plurals>
+    <plurals name="daysAgo">
+        <item quantity="other">пре %1$d данa</item>
+        <item quantity="one">пре %1$d дан</item>
+        <item quantity="few">пре %1$d данa</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">пре %1$d дана</item>
+        <item quantity="one">пре %1$d дан</item>
+        <item quantity="few">пре %1$d дана</item>
+    </plurals>
+    <plurals name="days_left_to_remove_downloads">
+        <item quantity="other">После %1$d дана</item>
+        <item quantity="one">После %1$d дан</item>
+        <item quantity="few">После %1$d дана</item>
+    </plurals>
+    <plurals name="device_count">
+        <item quantity="other">%1$d уређаја</item>
+        <item quantity="one">%1$d уређај</item>
+        <item quantity="few">%1$d уређаја</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d дана</item>
+        <item quantity="one">%1$d дан</item>
+        <item quantity="few">%1$d дана</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d дана</item>
+        <item quantity="one">%1$d дан</item>
+        <item quantity="few">%1$d дана</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d сати</item>
+        <item quantity="one">%1$d сат</item>
+        <item quantity="few">%1$d сата</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d сати</item>
+        <item quantity="one">%1$d сат</item>
+        <item quantity="few">%1$d сата</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d мин</item>
+        <item quantity="one">%1$d мин</item>
+        <item quantity="few">%1$d мин</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d месеци</item>
+        <item quantity="one">%1$d месец</item>
+        <item quantity="few">%1$d месеца</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d месеци</item>
+        <item quantity="one">%1$d месец</item>
+        <item quantity="few">%1$d месеца</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d година</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d године</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d година</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d године</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Пошаљи имејл свима (%1$d)</item>
+        <item quantity="one">Пошаљи имејл свима (%1$d)</item>
+        <item quantity="few">Пошаљи имејл свима (%1$d)</item>
+    </plurals>
+    <plurals name="enabled_podcasts_number_label">
+        <item quantity="other">Омогућено за %1$d од %2$d поткаста</item>
+        <item quantity="one">Омогућено за %1$d од %2$d поткаста</item>
+        <item quantity="few">Омогућено за %1$d од %2$d поткаста</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d пута</item>
+        <item quantity="one">, %d пут</item>
+        <item quantity="few">, %d пута</item>
+    </plurals>
+    <plurals name="episode_count">
+        <item quantity="other">%1$d епизода</item>
+        <item quantity="one">%1$d епизода</item>
+        <item quantity="few">%1$d епизоде</item>
+    </plurals>
+    <plurals name="episode_list_title_text">
+        <item quantity="other">%1$d епизода</item>
+        <item quantity="one">%1$d епизода</item>
+        <item quantity="few">%1$d епизоде</item>
+    </plurals>
+    <plurals name="episodes_selected">
+        <item quantity="other">%1$d је изабрано</item>
+        <item quantity="one">%1$d је изабрана</item>
+        <item quantity="few">%1$d су изабране</item>
+    </plurals>
+    <plurals name="fast_forward">
+        <item quantity="other">Премотај %1$d секунди унапред</item>
+        <item quantity="one">Премотај %1$d секунду унапред</item>
+        <item quantity="few">Премотај %1$d секунде унапред</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">Изабрали сте %1$d</item>
+        <item quantity="one">Изабрали сте %1$d</item>
+        <item quantity="few">Изабрали сте %1$d</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">пре %1$d сати</item>
+        <item quantity="one">пре %1$d сат</item>
+        <item quantity="few">пре %1$d сата</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s ч</item>
+        <item quantity="one">%s ч</item>
+        <item quantity="few">%s ч</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">пре %1$d сати</item>
+        <item quantity="one">пре %1$d сат</item>
+        <item quantity="few">пре %1$d сата</item>
+    </plurals>
+    <plurals name="hours_left_to_remove_downloads">
+        <item quantity="other">После %1$d сати</item>
+        <item quantity="one">После %1$d сат</item>
+        <item quantity="few">После %1$d сата</item>
+    </plurals>
+    <plurals name="ipa_number_of_results_shown">
+        <item quantity="other">Showing %d results.</item>
+        <item quantity="one">Showing %d results.</item>
+        <item quantity="few">Showing %d results.</item>
+    </plurals>
+    <plurals name="message_notifications_been_read">
+        <item quantity="other">Поруке су прочитане</item>
+        <item quantity="one">Поруке су прочитане</item>
+        <item quantity="few">Поруке су прочитане</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Пре %1$d минута</item>
+        <item quantity="one">Пре %1$d минут</item>
+        <item quantity="few">Пре %1$d минута</item>
+    </plurals>
+    <plurals name="mins_delay">
+        <item quantity="other">%1$d минута кашњења</item>
+        <item quantity="one">%1$d минут кашњења</item>
+        <item quantity="few">%1$d минута кашњења</item>
+    </plurals>
+    <plurals name="mins_delay_less_than_usual">
+        <item quantity="other">%1$d минута мање него обично</item>
+        <item quantity="one">%1$d минут мање него обично</item>
+        <item quantity="few">%1$d минута мање него обично</item>
+    </plurals>
+    <plurals name="mins_delay_more_than_usual">
+        <item quantity="other">%1$d минута више него обично</item>
+        <item quantity="one">%1$d минут више него обично</item>
+        <item quantity="few">%1$d минута више него обично</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">Још %1$d минута</item>
+        <item quantity="one">Још %1$d минут</item>
+        <item quantity="few">Још %1$d минута</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">пре %1$d мин</item>
+        <item quantity="one">пре %1$d мин</item>
+        <item quantity="few">пре %1$d мин</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s мин</item>
+        <item quantity="one">%s мин</item>
+        <item quantity="few">%s мин</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">На %1$d месеци</item>
+        <item quantity="one">На %1$d месец</item>
+        <item quantity="few">На %1$d месеца</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="nga_productivity_days">
+        <item quantity="other">%s дана</item>
+        <item quantity="one">%s дан</item>
+        <item quantity="few">%s дана</item>
+    </plurals>
+    <plurals name="nga_productivity_disable_alarm_response">
+        <item quantity="other">У реду, искључени су</item>
+        <item quantity="one">У реду, искључени су</item>
+        <item quantity="few">У реду, искључени су</item>
+    </plurals>
+    <plurals name="nga_productivity_hours">
+        <item quantity="other">%s сати</item>
+        <item quantity="one">%s сат</item>
+        <item quantity="few">%s сата</item>
+    </plurals>
+    <plurals name="nga_productivity_minutes">
+        <item quantity="other">%s минута</item>
+        <item quantity="one">%s минута</item>
+        <item quantity="few">%s минута</item>
+    </plurals>
+    <plurals name="nga_productivity_seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунде</item>
+    </plurals>
+    <plurals name="num_more">
+        <item quantity="other">и још %1$d</item>
+        <item quantity="one">и још %1$d</item>
+        <item quantity="few">и још %1$d</item>
+    </plurals>
+    <plurals name="num_results">
+        <item quantity="other">Спремно је %1$d резултата претраге</item>
+        <item quantity="one">Спреман је %1$d резултат претраге</item>
+        <item quantity="few">Спремна су %1$d резултата претраге</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="number_of_suggestions_shown">
+        <item quantity="other">Showing %d suggestions.</item>
+        <item quantity="one">Showing %d suggestions.</item>
+        <item quantity="few">Showing %d suggestions.</item>
+    </plurals>
+    <plurals name="opa_photo_selection_reaches_maximum_error_text">
+        <item quantity="other">Може да се дели највише %1$d слика</item>
+        <item quantity="one">Може да се дели највише %1$d слика</item>
+        <item quantity="few">Могу да се деле највише %1$d слике</item>
+    </plurals>
+    <plurals name="photos_accessibility_selected_description">
+        <item quantity="other">Изабрано је %1$d слика</item>
+        <item quantity="one">Изабрана је %1$d слика</item>
+        <item quantity="few">Изабране су %1$d слике</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Резервација собе за %1$d ноћења</item>
+        <item quantity="one">Резервација собе за %1$d ноћење</item>
+        <item quantity="few">Резервација собе за %1$d ноћења</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">На %1$d сати</item>
+        <item quantity="one">На %1$d сат</item>
+        <item quantity="few">На %1$d сата</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">На %1$s мин</item>
+        <item quantity="one">На %1$s мин</item>
+        <item quantity="few">На %1$s мин</item>
+    </plurals>
+    <plurals name="read_notification_num_of_audio_messages">
+        <item quantity="other">%1$d аудио порука</item>
+        <item quantity="one">%1$d аудио порука</item>
+        <item quantity="few">%1$d аудио поруке</item>
+    </plurals>
+    <plurals name="read_notification_num_of_pictures">
+        <item quantity="other">%1$d слика</item>
+        <item quantity="one">%1$d слика</item>
+        <item quantity="few">%1$d слике</item>
+    </plurals>
+    <plurals name="read_notification_num_of_videos">
+        <item quantity="other">%1$d видео снимака</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видео снимка</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d понављања</item>
+        <item quantity="one">%d понављање</item>
+        <item quantity="few">%d понављања</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">На %d дан</item>
+        <item quantity="few">На %d дана</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">На %d месеци</item>
+        <item quantity="one">На %d месец</item>
+        <item quantity="few">На %d месеца</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">На %d недеља</item>
+        <item quantity="one">На %d недељу</item>
+        <item quantity="few">На %d недеље</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">На %d година</item>
+        <item quantity="one">На %d годину</item>
+        <item quantity="few">На %d године</item>
+    </plurals>
+    <plurals name="rewind">
+        <item quantity="other">Премотај %1$d секунди уназад</item>
+        <item quantity="one">Премотај %1$d секунду уназад</item>
+        <item quantity="few">Премотај %1$d секунде уназад</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">Још %1$d секунди</item>
+        <item quantity="one">Још %1$d секунда</item>
+        <item quantity="few">Још %1$d секунде</item>
+    </plurals>
+    <plurals name="show_count">
+        <item quantity="other">%1$d емисија</item>
+        <item quantity="one">%1$d емисија</item>
+        <item quantity="few">%1$d емисије</item>
+    </plurals>
+    <plurals name="smartspace_chip_display_title">
+        <item quantity="other">%2$s + %1$d</item>
+        <item quantity="one">%2$s + %1$d</item>
+        <item quantity="few">%2$s + %1$d</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d. продужетак</item>
+        <item quantity="one">%1$d. продужетак</item>
+        <item quantity="few">%1$d. продужетак</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d сати</item>
+        <item quantity="one">%1$d сат</item>
+        <item quantity="few">%1$d сата</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунде</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Стижете %1$d мин раније</item>
+        <item quantity="one">Стижете %1$d мин раније</item>
+        <item quantity="few">Стижете %1$d мин раније</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Ходајте %1$d мин до станице %2$s</item>
+        <item quantity="one">Ходајте %1$d мин до станице %2$s</item>
+        <item quantity="few">Ходајте %1$d мин до станице %2$s</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d седишта</item>
+        <item quantity="one">%1$d седиште</item>
+        <item quantity="few">%1$d седишта</item>
+    </plurals>
+    <plurals name="unsubscribed_favorites">
+        <item quantity="other">Опозвали сте пријаву за %1$d поткаста</item>
+        <item quantity="one">Опозвали сте пријаву за %1$d поткаст</item>
+        <item quantity="few">Опозвали сте пријаву за %1$d поткаста</item>
+    </plurals>
+    <plurals name="user_review_histogram_review_num">
+        <item quantity="other">%d особа је дало оцену</item>
+        <item quantity="one">%d особа је дала оцену</item>
+        <item quantity="few">%d особе су дале оцену</item>
+    </plurals>
+    <plurals name="usual_traffic_mins_delay">
+        <item quantity="other">Уобичајени саобраћај: %1$d минута кашњења</item>
+        <item quantity="one">Уобичајени саобраћај: %1$d минут кашњења</item>
+        <item quantity="few">Уобичајени саобраћај: %1$d минута кашњења</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">На %1$d недеља (%2$s)</item>
+        <item quantity="one">На %1$d недељу (%2$s)</item>
+        <item quantity="few">На %1$d недеље (%2$s)</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">На %1$d година</item>
+        <item quantity="one">На %1$d годину</item>
+        <item quantity="few">На %1$d године</item>
+    </plurals>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">전화번호 %1$d개가 이 기기에 추가되었지만 한 번에 하나의 번호만 사용할 수 있습니다.</item>
+        <item quantity="one">전화번호 %1$d개가 이 기기에 추가되었지만 한 번에 하나의 번호만 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">%1$s 및 그 외 %3$d개의 이동통신사에서 &lt;b>전화번호 %2$d개&lt;/b>를 가져오고 있습니다. 다소 시간이 걸릴 수 있습니다.</item>
+        <item quantity="one">%1$s 및 그 외 1개의 이동통신사에서 &lt;b>전화번호 %2$d개&lt;/b>를 가져오고 있습니다. 다소 시간이 걸릴 수 있습니다.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">%1$s에서 &lt;b>전화번호 %2$d개&lt;/b>를 가져오고 있습니다. 다소 시간이 걸릴 수 있습니다.</item>
+        <item quantity="one">%1$s에서 전화번호를 가져오고 있습니다. 다소 시간이 걸릴 수 있습니다.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">전화번호 추가 중…</item>
+        <item quantity="one">전화번호 추가 중…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">네트워크 활성화되지 않음</item>
+        <item quantity="one">%1$s 활성화되지 않음</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>새 전화번호 %d개&lt;/b>를 휴대전화에 추가할 수 있습니다. 전화번호를 확인하려면 현재 전화번호 중 1개를 삭제해야 합니다.</item>
+        <item quantity="one">&lt;b>새 전화번호 %d개&lt;/b>를 휴대전화에 추가할 수 있습니다. 전화번호를 확인하려면 현재 전화번호 중 1개를 삭제해야 합니다.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">전화번호를 사용하려면 먼저 기기에서 기존 전화번호를 삭제하여 공간을 확보해야 합니다. 이 작업은 나중에 설정에서 할 수 있습니다.</item>
+        <item quantity="one">전화번호를 사용하려면 먼저 기기에서 기존 전화번호를 삭제하여 공간을 확보해야 합니다. 이 작업은 나중에 설정에서 할 수 있습니다.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">전화번호 %d개</item>
+        <item quantity="one">전화번호 %d개</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">이동통신사 &lt;b>전화번호 %d개&lt;/b>를 추가할 수 있습니다.</item>
+        <item quantity="one">이동통신사 &lt;b>전화번호 %d개&lt;/b>를 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d개의 다른 전화번호를 추가할 수 있습니다.</item>
+        <item quantity="one">%d개의 다른 전화번호를 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">%1$s 전화번호 및 그 외 %2$d개의 전화번호를 추가할 수 있습니다.</item>
+        <item quantity="one">%1$s 전화번호 및 그 외 %2$d개의 전화번호를 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">%1$s 전화번호를 추가할 수 있습니다.</item>
+        <item quantity="one">%1$s 전화번호를 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">서비스 활성화 중 문제가 발생했습니다. 네트워크 공급자에 문의하세요.</item>
+        <item quantity="one">서비스 활성화 중 문제가 발생했습니다. %1$s에 문의하세요.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">전화번호를 활성화하는 중에 문제가 발생했습니다. %1$s(%2$s번)에 문의하세요.</item>
+        <item quantity="one">전화번호를 활성화하는 중에 문제가 발생했습니다. %1$s(%2$s번)에 문의하세요.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">전화번호를 활성화하는 중에 문제가 발생했습니다. %1$s에 문의하세요.</item>
+        <item quantity="one">전화번호를 활성화하는 중에 문제가 발생했습니다. %1$s에 문의하세요.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">전화번호를 활성화하는 중에 문제가 발생했습니다. 이동통신사에 문의하세요.</item>
+        <item quantity="one">전화번호를 활성화하는 중에 문제가 발생했습니다. 이동통신사에 문의하세요.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">기기에서 전화번호 %d개를 사용할 수 있습니다.</item>
+        <item quantity="one">기기에서 전화번호 %d개를 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_metadata_confirm_subtitle">
+        <item quantity="other">기기에서 전화번호 %d개를 사용할 수 있습니다. 활성화하면 네트워크 제공업체에서 서비스 사용 요금을 청구할 수도 있습니다.</item>
+        <item quantity="one">기기에서 전화번호 %d개를 사용할 수 있습니다. 활성화하면 네트워크 제공업체에서 서비스 사용 요금을 청구할 수도 있습니다.</item>
+    </plurals>
+    <plurals name="q_result_download_metadata_text">
+        <item quantity="other">기기에서 %1$s 전화번호 %2$d개를 사용할 수 있습니다. 활성화하면 %1$s에서 서비스 사용 요금을 청구할 수도 있습니다.</item>
+        <item quantity="one">기기에서 %1$s 전화번호 1개를 사용할 수 있습니다. 활성화하면 %1$s에서 서비스 사용 요금을 청구할 수도 있습니다.</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">기기에서 %1$s 전화번호 %2$d개를 사용할 수 있습니다.</item>
+        <item quantity="one">기기에서 %1$s 전화번호 1개를 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">%1$s 및 그 외 %2$d개의 이동통신사 전화번호를 추가할 수 없습니다.</item>
+        <item quantity="one">%1$s 및 그 외 %2$d개의 이동통신사 전화번호를 추가할 수 없습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">죄송하지만 이동통신사 전화번호를 추가할 수 없습니다.</item>
+        <item quantity="one">죄송하지만 이동통신사 &lt;b>전화번호 1개&lt;/b>를 추가할 수 없습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">%1$s &lt;b>전화번호 %2$d개&lt;/b>를 추가할 수 없습니다.</item>
+        <item quantity="one">%1$s &lt;b>전화번호 %2$d개&lt;/b>를 추가할 수 없습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">%1$s 및 그 외 %2$d개의 이동통신사 전화번호를 추가할 공간이 충분하지 않습니다.</item>
+        <item quantity="one">%1$s 및 그 외 %2$d개의 이동통신사 전화번호를 추가할 공간이 충분하지 않습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">이동통신사 전화번호를 추가할 공간이 충분하지 않습니다.</item>
+        <item quantity="one">&lt;b>전화번호 1개&lt;/b>를 추가할 공간이 충분하지 않습니다.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">%1$s &lt;b>전화번호 %2$d개&lt;/b>를 추가할 공간이 충분하지 않습니다.</item>
+        <item quantity="one">%1$s &lt;b>전화번호 %2$d개&lt;/b>를 추가할 공간이 충분하지 않습니다.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">%2$s, %3$s 및 그 외 %4$d개의 이동통신사 &lt;b>전화번호 %1$d개&lt;/b>를 추가했습니다.</item>
+        <item quantity="one">%2$s 및 %3$s의 &lt;b>전화번호 %1$d개&lt;/b>를 추가했습니다.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">%2$s &lt;b>전화번호 %1$d개&lt;/b>를 추가했습니다.</item>
+        <item quantity="one">%2$s &lt;b>전화번호 %1$d개&lt;/b>를 추가했습니다.</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">전화번호 %1$d개가 추가되었습니다.</item>
+        <item quantity="one">전화번호가 추가되었습니다.</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">%1$s &lt;b>전화번호 %2$d개&lt;/b>를 휴대전화에 추가할 수 있습니다.</item>
+        <item quantity="one">%1$s 전화번호를 휴대전화에 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">전화번호를 활성화하는 중에 문제가 발생했습니다. 나중에 설정에서 다시 시도해 보세요.</item>
+        <item quantity="one">전화번호를 활성화하는 중에 문제가 발생했습니다. 나중에 설정에서 다시 시도해 보세요.</item>
+    </plurals>
+</resources>

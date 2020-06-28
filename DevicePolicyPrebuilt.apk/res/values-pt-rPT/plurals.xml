@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Não é possível concluir a configuração porque a instalação de %1$d aplicações obrigatórias falhou. Contacte o administrador do sistema diretamente.</item>
+        <item quantity="one">Não é possível concluir a configuração porque a instalação de %1$d aplicação obrigatória falhou. Contacte o administrador do sistema diretamente.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Não é possível instalar as aplicações</item>
+        <item quantity="one">Não é possível instalar a aplicação</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d de %2$d aplicações instaladas</item>
+        <item quantity="one">%1$d de %2$d aplicação instalada</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalar aplicações</item>
+        <item quantity="one">Desinstalar aplicação</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Faltam &lt;annotation id="numeric_time_left">^1&lt;/annotation> dias</item>
+        <item quantity="one">Falta &lt;annotation id="numeric_time_left">^1&lt;/annotation> dia</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Faltam &lt;annotation id="numeric_time_left">^1&lt;/annotation> horas</item>
+        <item quantity="one">Falta &lt;annotation id="numeric_time_left">^1&lt;/annotation> hora</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d de %2$d aplicações instaladas</item>
+        <item quantity="one">%1$d de %2$d aplicação instalada</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplicações disponíveis (%2$d instaladas, %3$d desativadas)</item>
+        <item quantity="one">%1$d aplicação disponível (%2$d instalada, %3$d desativada)</item>
+    </plurals>
+</resources>

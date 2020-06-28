@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Приказано је %1$d ставки.</item>
+        <item quantity="one">Приказана је %1$d ставка.</item>
+        <item quantity="few">Приказане су %1$d ставке.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d коментара</item>
+        <item quantity="one">%1$d коментар</item>
+        <item quantity="few">%1$d коментара</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Ставке радњи: %1$d пратећих ставки</item>
+        <item quantity="one">Ставке радњи: %1$d пратећа ставка</item>
+        <item quantity="few">Ставке радњи: %1$d пратеће ставке</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Ставке су трајно избрисане</item>
+        <item quantity="one">Ставке су трајно избрисане</item>
+        <item quantity="few">Ставке су трајно избрисане</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s нису важеће имејл адресе.</item>
+        <item quantity="one">%s нису важеће имејл адресе.</item>
+        <item quantity="few">%s нису важеће имејл адресе.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Ако додате ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="one">Ако додате ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="few">Ако додате ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Ако додате ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="one">Ако додате ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="few">Ако додате ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Желите ли да делите ове датотеке?</item>
+        <item quantity="one">Желите ли да делите ове датотеке?</item>
+        <item quantity="few">Желите ли да делите ове датотеке?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Желите ли да делите ове директоријуме?</item>
+        <item quantity="one">Желите ли да делите ове директоријуме?</item>
+        <item quantity="few">Желите ли да делите ове директоријуме?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Ажурирано је %1$d директоријума. Боја је подешена на %2$s.</item>
+        <item quantity="one">Ажуриран је %1$d директоријум. Боја је подешена на %2$s.</item>
+        <item quantity="few">Ажурирана су %1$d директоријума. Боја је подешена на %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Примените филтере:</item>
+        <item quantity="one">Примените филтере:</item>
+        <item quantity="few">Примените филтере:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Истиче за %1$d дана</item>
+        <item quantity="one">Истиче за %1$d дан</item>
+        <item quantity="few">Истиче за %1$d дана</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Ова резервна копија истиче за %1$d дана ако уређај остане неактиван.</item>
+        <item quantity="one">Ова резервна копија истиче за %1$d дан ако уређај остане неактиван.</item>
+        <item quantity="few">Ова резервна копија истиче за %1$d дана ако уређај остане неактиван.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Резервне копије су избрисане.</item>
+        <item quantity="one">Резервне копије су избрисане.</item>
+        <item quantity="few">Резервне копије су избрисане.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d колона.</item>
+        <item quantity="one">%1$d колона.</item>
+        <item quantity="few">%1$d колоне.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d замрзнутих колона.</item>
+        <item quantity="one">%1$d замрзнута колона.</item>
+        <item quantity="few">%1$d замрзнуте колоне.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d замрзнутих редова.</item>
+        <item quantity="one">%1$d замрзнут ред.</item>
+        <item quantity="few">%1$d замрзнута реда.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d редова.</item>
+        <item quantity="one">%1$d ред.</item>
+        <item quantity="few">%1$d реда.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s за %2$d ставки</item>
+        <item quantity="one">%1$s за %2$d ставку</item>
+        <item quantity="few">%1$s за %2$d ставке</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s одговора</item>
+        <item quantity="one">%1$s одговор</item>
+        <item quantity="few">%1$s одговора</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Преузимање ставки није успело</item>
+        <item quantity="one">Преузимање ставки није успело</item>
+        <item quantity="few">Преузимање ставки није успело</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d ставки ће бити преузето. Погледајте детаље у обавештењу</item>
+        <item quantity="one">%1$d ставка ће бити преузета. Погледајте детаље у обавештењу</item>
+        <item quantity="few">%1$d ставке ће бити преузете. Погледајте детаље у обавештењу</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d ставки ће бити преузето.</item>
+        <item quantity="one">%1$d ставка ће бити преузета.</item>
+        <item quantity="few">%1$d ставке ће бити преузете.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s и још %2$d ставки</item>
+        <item quantity="one">%1$s и још %2$d ставка</item>
+        <item quantity="few">%1$s и још %2$d ставке</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Преузимање %1$s ставки није успело</item>
+        <item quantity="one">Преузимање %1$s ставке није успело</item>
+        <item quantity="few">Преузимање %1$s ставке није успело</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Још %1$d ставки</item>
+        <item quantity="one">Још %1$d ставка</item>
+        <item quantity="few">Још %1$d ставке</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d преузимања од %2$d није успело</item>
+        <item quantity="one">%1$d преузимање од %2$d није успело</item>
+        <item quantity="few">%1$d преузимања од %2$d нису успела</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Грешка при премештању датотека.</item>
+        <item quantity="one">Грешка при премештању датотека.</item>
+        <item quantity="few">Грешка при премештању датотека.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d гостију</item>
+        <item quantity="one">%d гост</item>
+        <item quantity="few">%d госта</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d пречица је додато у „%1$s“</item>
+        <item quantity="one">%2$d пречица је додата у „%1$s“</item>
+        <item quantity="few">%2$d пречице су додате у „%1$s“</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Додавање пречица није успело. Пробајте поново</item>
+        <item quantity="one">Додавање пречица није успело. Пробајте поново</item>
+        <item quantity="few">Додавање пречица није успело. Пробајте поново</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама.</item>
+        <item quantity="one">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама.</item>
+        <item quantity="few">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама. Имате дозволу само за додавање и измене ставки у „%3$s“, па нећете моћи да опозовете ову радњу.</item>
+        <item quantity="one">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама. Имате дозволу само за додавање и измене ставки у „%3$s“, па нећете моћи да опозовете ову радњу.</item>
+        <item quantity="few">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима. Чланови „%2$s“ ће добити приступ овим ставкама. Имате дозволу само за додавање и измене ставки у „%3$s“, па нећете моћи да опозовете ову радњу.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Неке датотеке које премештате у „%1$s“ су покренуле DLP откривања. Ове датотеке можда садрже осетљиве информације.</item>
+        <item quantity="one">Неке датотеке које премештате у „%1$s“ су покренуле DLP откривања. Ове датотеке можда садрже осетљиве информације.</item>
+        <item quantity="few">Неке датотеке које премештате у „%1$s“ су покренуле DLP откривања. Ове датотеке можда садрже осетљиве информације.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+        <item quantity="one">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+        <item quantity="few">Чланови „%1$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Ако преместите ове ставке, делићете их са сваким ко може да види дељени директоријум „%1$s“. Чланови „%2$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+        <item quantity="one">Ако преместите ове ставке, делићете их са сваким ко може да види дељени директоријум „%1$s“. Чланови „%2$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+        <item quantity="few">Ако преместите ове ставке, делићете их са сваким ко може да види дељени директоријум „%1$s“. Чланови „%2$s“ ће изгубити приступ ако не делите ове ставке са њима.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Премештате неке ставке из дељених директоријума, па други неће више моћи да им приступе.</item>
+        <item quantity="one">Премештате неке ставке из дељених директоријума, па други неће више моћи да им приступе.</item>
+        <item quantity="few">Премештате неке ставке из дељених директоријума, па други неће више моћи да им приступе.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Додатна ограничења ће бити уклоњена из ових ставки.</item>
+        <item quantity="one">Додатна ограничења ће бити уклоњена из ових ставки.</item>
+        <item quantity="few">Додатна ограничења ће бити уклоњена из ових ставки.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Ако преместите ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="one">Ако преместите ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="few">Ако преместите ове датотеке, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Ако преместите ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="one">Ако преместите ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+        <item quantity="few">Ако преместите ове директоријуме, делићете их са сваким ко може да приступи дељеном директоријуму %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Желите ли да делите ове датотеке?</item>
+        <item quantity="one">Желите ли да делите ове датотеке?</item>
+        <item quantity="few">Желите ли да делите ове датотеке?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Желите ли да делите ове директоријуме?</item>
+        <item quantity="one">Желите ли да делите ове директоријуме?</item>
+        <item quantity="few">Желите ли да делите ове директоријуме?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Немате дозволу да преместите неке ставке из дељеног диска.</item>
+        <item quantity="one">Немате дозволу да преместите неке ставке из дељеног диска.</item>
+        <item quantity="few">Немате дозволу да преместите неке ставке из дељеног диска.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Немате дозволу да преместите неке ставке из директоријума у ком се налазе.</item>
+        <item quantity="one">Немате дозволу да преместите неке ставке из директоријума у ком се налазе.</item>
+        <item quantity="few">Немате дозволу да преместите неке ставке из директоријума у ком се налазе.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Не можете да преместите ове датотеке зато што је њихов власник ван %1$s.</item>
+        <item quantity="one">Не можете да преместите ове датотеке зато што је њихов власник ван %1$s.</item>
+        <item quantity="few">Не можете да преместите ове датотеке зато што је њихов власник ван %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s „%2$s“ сада има приступ.</item>
+        <item quantity="one">%1$s „%2$s“ сада има приступ.</item>
+        <item quantity="few">%1$s „%2$s“ сада има приступ.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d ставки је премештено у диск. Чланови сада имају приступ.</item>
+        <item quantity="one">%1$d ставка је премештена у диск. Чланови сада имају приступ.</item>
+        <item quantity="few">%1$d ставке су премештене у диск. Чланови сада имају приступ.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d ставки није више у диску. Чланови су изгубили приступ.</item>
+        <item quantity="one">%1$d ставка није више у диску. Чланови су изгубили приступ.</item>
+        <item quantity="few">%1$d ставке нису више у диску. Чланови су изгубили приступ.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d ставки</item>
+        <item quantity="one">%1$d ставка</item>
+        <item quantity="few">%1$d ставке</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d давалаца одобрења</item>
+        <item quantity="one">%1$d давалац одобрења</item>
+        <item quantity="few">%1$d даваоца одобрења</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s ставки радњи</item>
+        <item quantity="one">%1$s ставка радњи</item>
+        <item quantity="few">%1$s ставке радњи</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s помињања без одговора</item>
+        <item quantity="one">%1$s помињање без одговора</item>
+        <item quantity="few">%1$s помињања без одговора</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s предлога</item>
+        <item quantity="one">%1$s предлог</item>
+        <item quantity="few">%1$s предлога</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s обавеза</item>
+        <item quantity="one">%1$s обавеза</item>
+        <item quantity="few">%1$s обавезе</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Ставке су трајно избрисане</item>
+        <item quantity="one">Ставке су трајно избрисане</item>
+        <item quantity="few">Ставке су трајно избрисане</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d датотека од %2$s је сада доступно офлајн.</item>
+        <item quantity="one">%1$d датотека од %2$s је сада доступна офлајн.</item>
+        <item quantity="few">%1$d датотеке од %2$s су сада доступне офлајн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Свих %1$d датотека је сада доступно офлајн.</item>
+        <item quantity="one">%1$d датотека је сада доступна офлајн.</item>
+        <item quantity="few">Све %1$d датотеке су сада доступне офлајн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Омогућавање коришћења датотека офлајн није успело</item>
+        <item quantity="one">Омогућавање коришћења датотека офлајн није успело</item>
+        <item quantity="few">Омогућавање коришћења датотека офлајн није успело</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Омогућава се коришћење %1$d датотека офлајн.</item>
+        <item quantity="one">Омогућава се коришћење %1$d датотеке офлајн.</item>
+        <item quantity="few">Омогућава се коришћење %1$d датотеке офлајн.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d датотека</item>
+        <item quantity="one">%1$d датотека</item>
+        <item quantity="few">%1$d датотеке</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Преузимања су паузирана, чека се мрежа…</item>
+        <item quantity="one">Преузимања су паузирана, чека се мрежа…</item>
+        <item quantity="few">Преузимања су паузирана, чека се мрежа…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d преузимања је паузирано.</item>
+        <item quantity="one">%1$d преузимање је паузирано.</item>
+        <item quantity="few">%1$d преузимања су паузирана.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Преузимања су паузирана, чека се Wi-Fi…</item>
+        <item quantity="one">Преузимања су паузирана, чека се Wi-Fi…</item>
+        <item quantity="few">Преузимања су паузирана, чека се Wi-Fi…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d ставки ће бити премештено у отпад. Тиме ће бити уклоњене и из Google слика.</item>
+        <item quantity="one">%1$d ставка ће бити премештена у отпад. Тиме ће бити уклоњене и из Google слика.</item>
+        <item quantity="few">%1$d ставке ће бити премештене у отпад. Тиме ће бити уклоњене и из Google слика.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d ставки ће бити премештено у отпад.</item>
+        <item quantity="one">%1$d ставка ће бити премештена у отпад.</item>
+        <item quantity="few">%1$d ставке ће бити премештене у отпад.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s пратећих ставки</item>
+        <item quantity="one">%1$s пратећа ставка</item>
+        <item quantity="few">%1$s пратеће ставке</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s пратећих ставки</item>
+        <item quantity="one">%1$s пратећа ставка</item>
+        <item quantity="few">%1$s пратеће ставке</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Одговори</item>
+        <item quantity="one">Одговори</item>
+        <item quantity="few">Одговори</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Оставили су коментаре на %1$d датотека</item>
+        <item quantity="one">Оставили су коментаре на %1$d датотеку</item>
+        <item quantity="few">Оставили су коментаре на %1$d датотеке</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Оставио/ла је коментар на %1$d датотека</item>
+        <item quantity="one">Оставио/ла је коментар на %1$d датотеку</item>
+        <item quantity="few">Оставио/ла је коментар на %1$d датотеке</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Оставили су коментаре на ову датотеку</item>
+        <item quantity="one">Оставили су коментаре на ову датотеку</item>
+        <item quantity="few">Оставили су коментаре на ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Направили су %1$d ставки</item>
+        <item quantity="one">Направили су %1$d ставку</item>
+        <item quantity="few">Направили су %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Направио/ла је %1$d ставки</item>
+        <item quantity="one">Направио/ла је %1$d ставку</item>
+        <item quantity="few">Направио/ла је %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Направио/ла је ову датотеку</item>
+        <item quantity="one">Направио/ла је ову датотеку</item>
+        <item quantity="few">Направио/ла је ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Направио/ла је овај директоријум</item>
+        <item quantity="one">Направио/ла је овај директоријум</item>
+        <item quantity="few">Направио/ла је овај директоријум</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Изменили су %1$d ставки</item>
+        <item quantity="one">Изменили су %1$d ставку</item>
+        <item quantity="few">Изменили су %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Изменио/ла је %1$d ставки</item>
+        <item quantity="one">Изменио/ла је %1$d ставку</item>
+        <item quantity="few">Изменио/ла је %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Унели су измене у ову датотеку</item>
+        <item quantity="one">Унели су измене у ову датотеку</item>
+        <item quantity="few">Унели су измене у ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Трајно је избрисао/ла %1$d ставки</item>
+        <item quantity="one">Трајно је избрисао/ла %1$d ставку</item>
+        <item quantity="few">Трајно је избрисао/ла %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Преместили су %1$d ставки у:</item>
+        <item quantity="one">Преместили су %1$d ставку у:</item>
+        <item quantity="few">Преместили су %1$d ставке у:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Преместио/ла је %1$d ставки у:</item>
+        <item quantity="one">Преместио/ла је %1$d ставку у:</item>
+        <item quantity="few">Преместио/ла је %1$d ставке у:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Преместили су %1$d ставки</item>
+        <item quantity="one">Преместили су %1$d ставку</item>
+        <item quantity="few">Преместили су %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Преместио/ла је %1$d ставки</item>
+        <item quantity="one">Преместио/ла је %1$d ставку</item>
+        <item quantity="few">Преместио/ла је %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Преместили су ову датотеку</item>
+        <item quantity="one">Преместили су ову датотеку</item>
+        <item quantity="few">Преместили су ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Преместили су ову датотеку у:</item>
+        <item quantity="one">Преместили су ову датотеку у:</item>
+        <item quantity="few">Преместили су ову датотеку у:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Преместили су овај директоријум</item>
+        <item quantity="one">Преместили су овај директоријум</item>
+        <item quantity="few">Преместили су овај директоријум</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Преместили су овај директоријум у:</item>
+        <item quantity="one">Преместили су овај директоријум у:</item>
+        <item quantity="few">Преместили су овај директоријум у:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Преименовали су %1$d ставки</item>
+        <item quantity="one">Преименовали су %1$d ставку</item>
+        <item quantity="few">Преименовали су %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Преименовао/ла је %1$d ставки</item>
+        <item quantity="one">Преименовао/ла је %1$d ставку</item>
+        <item quantity="few">Преименовао/ла је %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Преименовали су ову датотеку</item>
+        <item quantity="one">Преименовали су ову датотеку</item>
+        <item quantity="few">Преименовали су ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Преименовали су овај директоријум</item>
+        <item quantity="one">Преименовали су овај директоријум</item>
+        <item quantity="few">Преименовали су овај директоријум</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Деле %1$d ставки</item>
+        <item quantity="one">Деле %1$d ставку</item>
+        <item quantity="few">Деле %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Дели %1$d ставки</item>
+        <item quantity="one">Дели %1$d ставку</item>
+        <item quantity="few">Дели %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Деле ову датотеку</item>
+        <item quantity="one">Деле ову датотеку</item>
+        <item quantity="few">Деле ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Деле овај директоријум</item>
+        <item quantity="one">Деле овај директоријум</item>
+        <item quantity="few">Деле овај директоријум</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Преместили су %1$d ставки у отпад</item>
+        <item quantity="one">Преместили су %1$d ставку у отпад</item>
+        <item quantity="few">Преместили су %1$d ставке у отпад</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Преместио/ла је %1$d ставки у отпад</item>
+        <item quantity="one">Преместио/ла је %1$d ставку у отпад</item>
+        <item quantity="few">Преместио/ла је %1$d ставке у отпад</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Уклонили су ову датотеку</item>
+        <item quantity="one">Уклонили су ову датотеку</item>
+        <item quantity="few">Уклонили су ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Уклонили су овај директоријум</item>
+        <item quantity="one">Уклонили су овај директоријум</item>
+        <item quantity="few">Уклонили су овај директоријум</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Отпремили су %1$d ставки</item>
+        <item quantity="one">Отпремили су %1$d ставку</item>
+        <item quantity="few">Отпремили су %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Отпремио/ла је %1$d ставки</item>
+        <item quantity="one">Отпремио/ла је %1$d ставку</item>
+        <item quantity="few">Отпремио/ла је %1$d ставке</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Отпремили су ову датотеку</item>
+        <item quantity="one">Отпремили су ову датотеку</item>
+        <item quantity="few">Отпремили су ову датотеку</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Отпремили су овај директоријум</item>
+        <item quantity="one">Отпремили су овај директоријум</item>
+        <item quantity="few">Отпремили су овај директоријум</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d датотека ће бити премештено у отпад Диска тима %2$s и заувек избрисано после 30 дана.</item>
+        <item quantity="one">%1$d датотека ће бити премештена у отпад Диска тима %2$s и заувек избрисана после 30 дана.</item>
+        <item quantity="few">%1$d датотеке ће бити премештене у отпад Диска тима %2$s и заувек избрисане после 30 дана.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d директоријума ће бити премештено у отпад Диска тима %2$s и заувек избрисано после 30 дана.</item>
+        <item quantity="one">%1$d директоријум ће бити премештен у отпад Диска тима %2$s и заувек избрисан после 30 дана.</item>
+        <item quantity="few">%1$d директоријума ће бити премештена у отпад Диска тима %2$s и заувек избрисана после 30 дана.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d ставки ће бити премештено у отпад Диска тима %2$s и заувек избрисано после 30 дана.</item>
+        <item quantity="one">%1$d ставка ће бити премештена у отпад Диска тима %2$s и заувек избрисана после 30 дана.</item>
+        <item quantity="few">%1$d ставке ће бити премештене у отпад Диска тима %2$s и заувек избрисане после 30 дана.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Ових %1$d датотека ће бити &lt;b>трајно избрисано за све.&lt;/b> Не можете да опозовете ову радњу.</item>
+        <item quantity="one">Ова %1$d датотека ће бити &lt;b>трајно избрисана за све.&lt;/b> Не можете да опозовете ову радњу.</item>
+        <item quantity="few">Ове %1$d датотеке ће бити &lt;b>трајно избрисане за све.&lt;/b> Не можете да опозовете ову радњу.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Ових %1$d датотека ће бити трајно избрисано. Не можете да опозовете ову радњу.</item>
+        <item quantity="one">Ова %1$d датотека ће бити трајно избрисана. Не можете да опозовете ову радњу.</item>
+        <item quantity="few">Ове %1$d датотеке ће бити трајно избрисане. Не можете да опозовете ову радњу.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d ставки</item>
+        <item quantity="one">%1$d ставка</item>
+        <item quantity="few">%1$d ставке</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Опозван је избор %1$d ставки</item>
+        <item quantity="one">Опозван је избор %1$d ставке</item>
+        <item quantity="few">Опозван је избор %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Датотеке ће бити доступне офлајн</item>
+        <item quantity="one">Датотеке ће бити доступне офлајн</item>
+        <item quantity="few">Датотеке ће бити доступне офлајн</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">Звездица је додата у %1$d ставки</item>
+        <item quantity="one">Звездица је додата у %1$d ставку</item>
+        <item quantity="few">Звездица је додата у %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Датотеке неће више бити доступне офлајн</item>
+        <item quantity="one">Датотеке неће више бити доступне офлајн</item>
+        <item quantity="few">Датотеке неће више бити доступне офлајн</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Звездица је уклоњена из %1$d ставки</item>
+        <item quantity="one">Звездица је уклоњена из %1$d ставке</item>
+        <item quantity="few">Звездица је уклоњена из %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Враћено је %1$d ставки</item>
+        <item quantity="one">Враћена је %1$d ставка</item>
+        <item quantity="few">Враћене су %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Враћено је %1$d ставки</item>
+        <item quantity="one">Враћена је %1$d ставка</item>
+        <item quantity="few">Враћене су %1$d ставке</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d ставки је уклоњено из „%2$s“</item>
+        <item quantity="one">%1$d ставка је уклоњена из „%2$s“</item>
+        <item quantity="few">%1$d ставке су уклоњене из „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d ставки је уклоњено из директоријума</item>
+        <item quantity="one">%1$d ставка је уклоњена из директоријума</item>
+        <item quantity="few">%1$d ставке су уклоњене из директоријума</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d ставки је уклоњено</item>
+        <item quantity="one">%1$d ставка је уклоњена</item>
+        <item quantity="few">%1$d ставке су уклоњене</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d ставки је враћено</item>
+        <item quantity="one">%1$d ставка је враћена</item>
+        <item quantity="few">%1$d ставке су враћене</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d ставки је враћено у отпад</item>
+        <item quantity="one">%1$d ставка је враћена у отпад</item>
+        <item quantity="few">%1$d ставке су враћене у отпад</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d ставки је уклоњено</item>
+        <item quantity="one">%1$d ставка је уклоњена</item>
+        <item quantity="few">%1$d ставке су уклоњене</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d ставки је додато у „%2$s“</item>
+        <item quantity="one">%1$d ставка је додата у „%2$s“</item>
+        <item quantity="few">%1$d ставке су додате у „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d ставки је додато</item>
+        <item quantity="one">%1$d ставка је додата</item>
+        <item quantity="few">%1$d ставке су додате</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d ставки је враћено и додато у „%2$s“</item>
+        <item quantity="one">%1$d ставка је враћена и додата у „%2$s“</item>
+        <item quantity="few">%1$d ставке су враћене и додате у „%2$s“</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d ставки је премештено у „%2$s“.</item>
+        <item quantity="one">%1$d ставка је премештена у „%2$s“.</item>
+        <item quantity="few">%1$d ставке су премештене у „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d ставки је премештено</item>
+        <item quantity="one">%1$d ставка је премештена</item>
+        <item quantity="few">%1$d ставке су премештене</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d ставки је враћено и премештено у „%2$s“.</item>
+        <item quantity="one">%1$d ставка је враћена и премештена у „%2$s“.</item>
+        <item quantity="few">%1$d ставке су враћене и премештене у „%2$s“.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d ставки је враћено.</item>
+        <item quantity="one">%1$d ставка је враћена.</item>
+        <item quantity="few">%1$d ставке су враћене.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d ставки је враћено у „%2$s“.</item>
+        <item quantity="one">%1$d ставка је враћена у „%2$s“.</item>
+        <item quantity="few">%1$d ставке су враћене у „%2$s“.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Пошаљите датотеке помоћу</item>
+        <item quantity="one">Пошаљите датотеке помоћу</item>
+        <item quantity="few">Пошаљите датотеке помоћу</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d особа сада може да приступи</item>
+        <item quantity="one">%1$d особа сада може да приступи</item>
+        <item quantity="few">%1$d особе сада могу да приступе</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s и још %2$d сада могу да приступе</item>
+        <item quantity="one">%1$s и још %2$d сада могу да приступе</item>
+        <item quantity="few">%1$s и још %2$d сада могу да приступе</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d особа сада може да додаје коментаре</item>
+        <item quantity="one">%1$d особа сада може да додаје коментаре</item>
+        <item quantity="few">%1$d особа сада могу да додају коментаре</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s и још %2$d сада могу да додају коментаре</item>
+        <item quantity="one">%1$s и још %2$d сада могу да додају коментаре</item>
+        <item quantity="few">%1$s и још %2$d сада могу да додају коментаре</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d особа сада може да измени</item>
+        <item quantity="one">%1$d особа сада може да измени</item>
+        <item quantity="few">%1$d особе сада могу да измене</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s и још %2$d особа сада могу да измене</item>
+        <item quantity="one">%1$s и још %2$d особа сада могу да измене</item>
+        <item quantity="few">%1$s и још %2$d особе сада могу да измене</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d особа сада може да види</item>
+        <item quantity="one">%1$d особа сада може да види</item>
+        <item quantity="few">%1$d особе сада могу да виде</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s и још %2$d особа сада могу да виде</item>
+        <item quantity="one">%1$s и још %2$d особа сада могу да виде</item>
+        <item quantity="few">%1$s и још %2$d особе сада могу да виде</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Простор диска истиче за %1$d дана</item>
+        <item quantity="one">Простор диска истиче за %1$d дан</item>
+        <item quantity="few">Простор диска истиче за %1$d дана</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d особа је додато у дељени диск</item>
+        <item quantity="one">%1$d особа је додата у дељени диск</item>
+        <item quantity="few">%1$d особе су додате у дељени диск</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s и још %3$d су додати у %1$s</item>
+        <item quantity="one">%2$s и још %3$d су додати у %1$s</item>
+        <item quantity="few">%2$s и још %3$d су додати у %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d чланова</item>
+        <item quantity="one">%d члан</item>
+        <item quantity="few">%d члана</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Настави све</item>
+        <item quantity="one">Настави све</item>
+        <item quantity="few">Настави све</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Отпремање %1$d датотека је отказано.</item>
+        <item quantity="one">Отпремање %1$d датотеке је отказано.</item>
+        <item quantity="few">Отпремање %1$d датотеке је отказано.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Заказивање отпремања %1$d датотека није успело.</item>
+        <item quantity="one">Заказивање отпремања %1$d датотеке није успело.</item>
+        <item quantity="few">Заказивање отпремања %1$d датотеке није успело.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Отпремљено је %1$d датотека.</item>
+        <item quantity="one">Отпремљена је %1$d датотека.</item>
+        <item quantity="few">Отпремљене су %1$d датотеке.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Отпремање %1$d датотека од %2$d није успело.</item>
+        <item quantity="one">Отпремање %1$d датотеке од %2$d није успело.</item>
+        <item quantity="few">Отпремање %1$d датотеке од %2$d није успело.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Отпрема се %1$d датотека.</item>
+        <item quantity="one">Отпрема се %1$d датотека.</item>
+        <item quantity="few">Отпремају се %1$d датотеке.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Отпремања су паузирана, чека се мрежа…</item>
+        <item quantity="one">Отпремања су паузирана, чека се мрежа…</item>
+        <item quantity="few">Отпремања су паузирана, чека се мрежа…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d отпремања је паузирано.</item>
+        <item quantity="one">%1$d отпремање је паузирано.</item>
+        <item quantity="few">%1$d отпремања су паузирана.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Отпремања су паузирана, чека се Wi-Fi…</item>
+        <item quantity="one">Отпремања су паузирана, чека се Wi-Fi…</item>
+        <item quantity="few">Отпремања су паузирана, чека се Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d датотека се припрема за отпремање.</item>
+        <item quantity="one">%1$d датотека се припрема за отпремање.</item>
+        <item quantity="few">%1$d датотеке се припремају за отпремање.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d датотека се отпрема у: %2$s</item>
+        <item quantity="one">%1$d датотека се отпрема у: %2$s</item>
+        <item quantity="few">%1$d датотеке се отпремају у: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Прикажи %1$d датотека</item>
+        <item quantity="one">Прикажи %1$d датотеку</item>
+        <item quantity="few">Прикажи %1$d датотеке</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Погледајте %1$d датотека у %2$s</item>
+        <item quantity="one">Погледајте %1$d датотеку у %2$s</item>
+        <item quantity="few">Погледајте %1$d датотеке у %2$s</item>
+    </plurals>
+</resources>

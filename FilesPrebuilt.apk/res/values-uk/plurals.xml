@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">Скасовано. Видалено %1$d додатка</item>
+        <item quantity="one">Скасовано. Видалено %1$d додаток</item>
+        <item quantity="few">Скасовано. Видалено %1$d додатки</item>
+        <item quantity="many">Скасовано. Видалено %1$d додатків</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">Видалено %1$d додатка</item>
+        <item quantity="one">Видалено %1$d додаток</item>
+        <item quantity="few">Видалено %1$d додатки</item>
+        <item quantity="many">Видалено %1$d додатків</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">Скопійовано %1$d файлу</item>
+        <item quantity="one">Скопійовано %1$d файл</item>
+        <item quantity="few">Скопійовано %1$d файли</item>
+        <item quantity="many">Скопійовано %1$d файлів</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Скопійовано папки (%1$d) і %2$d файлу</item>
+        <item quantity="one">Скопійовано папки (%1$d) і %2$d файл</item>
+        <item quantity="few">Скопійовано папки (%1$d) і %2$d файли</item>
+        <item quantity="many">Скопійовано папки (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Скопійовано %1$d папки</item>
+        <item quantity="one">Скопійовано %1$d папку</item>
+        <item quantity="few">Скопійовано %1$d папки</item>
+        <item quantity="many">Скопійовано %1$d папок</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Скопійовано %1$d папку та %2$d файлу</item>
+        <item quantity="one">Скопійовано %1$d папку та %2$d файл</item>
+        <item quantity="few">Скопійовано %1$d папку та %2$d файли</item>
+        <item quantity="many">Скопійовано %1$d папку та %2$d файлів</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">Видалено %1$d файлу</item>
+        <item quantity="one">Видалено %1$d файл</item>
+        <item quantity="few">Видалено %1$d файли</item>
+        <item quantity="many">Видалено %1$d файлів</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Видалено папки (%1$d) і %2$d файлу</item>
+        <item quantity="one">Видалено папки (%1$d) і %2$d файл</item>
+        <item quantity="few">Видалено папки (%1$d) і %2$d файли</item>
+        <item quantity="many">Видалено папки (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Видалено %1$d папки</item>
+        <item quantity="one">Видалено %1$d папку</item>
+        <item quantity="few">Видалено %1$d папки</item>
+        <item quantity="many">Видалено %1$d папок</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Видалено %1$d папку та %2$d файлу</item>
+        <item quantity="one">Видалено %1$d папку та %2$d файл</item>
+        <item quantity="few">Видалено %1$d папку та %2$d файли</item>
+        <item quantity="many">Видалено %1$d папку та %2$d файлів</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">Переміщено %1$d файлу</item>
+        <item quantity="one">Переміщено %1$d файл</item>
+        <item quantity="few">Переміщено %1$d файли</item>
+        <item quantity="many">Переміщено %1$d файлів</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Переміщено папки (%1$d) і %2$d файлу</item>
+        <item quantity="one">Переміщено папки (%1$d) і %2$d файл</item>
+        <item quantity="few">Переміщено папки (%1$d) і %2$d файли</item>
+        <item quantity="many">Переміщено папки (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Переміщено %1$d папки</item>
+        <item quantity="one">Переміщено %1$d папку</item>
+        <item quantity="few">Переміщено %1$d папки</item>
+        <item quantity="many">Переміщено %1$d папок</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Переміщено %1$d папку та %2$d файлу</item>
+        <item quantity="one">Переміщено %1$d папку та %2$d файл</item>
+        <item quantity="few">Переміщено %1$d папку та %2$d файли</item>
+        <item quantity="many">Переміщено %1$d папку та %2$d файлів</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Також буде остаточно видалено %1$d файлу з папки</item>
+        <item quantity="one">Також буде остаточно видалено %1$d файл із папки</item>
+        <item quantity="few">Також буде остаточно видалено %1$d файли з папки</item>
+        <item quantity="many">Також буде остаточно видалено %1$d файлів із папки</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Видалити %1$d файлу?</item>
+        <item quantity="one">Видалити %1$d файл?</item>
+        <item quantity="few">Видалити %1$d файли?</item>
+        <item quantity="many">Видалити %1$d файлів?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Видалити папки (%1$d) і файли (%2$d)?</item>
+        <item quantity="one">Видалити папки (%1$d) і файли (%2$d)?</item>
+        <item quantity="few">Видалити папки (%1$d) і файли (%2$d)?</item>
+        <item quantity="many">Видалити папки (%1$d) і файли (%2$d)?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Видалити %1$d папки й 1 файл?</item>
+        <item quantity="one">Видалити %1$d папку й 1 файл?</item>
+        <item quantity="few">Видалити %1$d папки й 1 файл?</item>
+        <item quantity="many">Видалити %1$d папок і 1 файл?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Видалити %1$d папки?</item>
+        <item quantity="one">Видалити %1$d папку?</item>
+        <item quantity="few">Видалити %1$d папки?</item>
+        <item quantity="many">Видалити %1$d папок?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Ви видаляєте %1$d файлу</item>
+        <item quantity="one">Ви видаляєте %1$d файл</item>
+        <item quantity="few">Ви видаляєте %1$d файли</item>
+        <item quantity="many">Ви видаляєте %1$d файлів</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Перемістити %1$d файлу?</item>
+        <item quantity="one">Перемістити %1$d файл?</item>
+        <item quantity="few">Перемістити %1$d файли?</item>
+        <item quantity="many">Перемістити %1$d файлів?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Не вдалося скопіювати файли. %1$s</item>
+        <item quantity="one">Не вдалося скопіювати файли. %1$s</item>
+        <item quantity="few">Не вдалося скопіювати файли. %1$s</item>
+        <item quantity="many">Не вдалося скопіювати файли. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Копіюється %1$d файлу</item>
+        <item quantity="one">Копіюється %1$d файл</item>
+        <item quantity="few">Копіюються %1$d файли</item>
+        <item quantity="many">Копіюються %1$d файлів</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Копіювання папок (%1$d) і %2$d файлу</item>
+        <item quantity="one">Копіювання папок (%1$d) і %2$d файлу</item>
+        <item quantity="few">Копіювання папок (%1$d) і %2$d файлів</item>
+        <item quantity="many">Копіювання папок (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Копіювання %1$d папки</item>
+        <item quantity="one">Копіювання %1$d папки</item>
+        <item quantity="few">Копіювання %1$d папок</item>
+        <item quantity="many">Копіювання %1$d папок</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Копіювання %1$d папки та %2$d файлу</item>
+        <item quantity="one">Копіювання %1$d папки та %2$d файлу</item>
+        <item quantity="few">Копіювання %1$d папки та %2$d файлів</item>
+        <item quantity="many">Копіювання %1$d папки та %2$d файлів</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Видалити %1$d копії файлу</item>
+        <item quantity="one">Видалити %1$d копію файлу</item>
+        <item quantity="few">Видалити %1$d копії файлу</item>
+        <item quantity="many">Видалити %1$d копій файлу</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Не вдалося видалити файли. %1$s</item>
+        <item quantity="one">Не вдалося видалити файли. %1$s</item>
+        <item quantity="few">Не вдалося видалити файли. %1$s</item>
+        <item quantity="many">Не вдалося видалити файли. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Видалити %1$d мему</item>
+        <item quantity="one">Видалити %1$d мем</item>
+        <item quantity="few">Видалити %1$d меми</item>
+        <item quantity="many">Видалити %1$d мемів</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Видаляється %1$d файлу</item>
+        <item quantity="one">Видаляється %1$d файл</item>
+        <item quantity="few">Видаляються %1$d файли</item>
+        <item quantity="many">Видаляються %1$d файлів</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Видалення папок (%1$d) і %2$d файлу</item>
+        <item quantity="one">Видалення папок (%1$d) і %2$d файлу</item>
+        <item quantity="few">Видалення папок (%1$d) і %2$d файлів</item>
+        <item quantity="many">Видалення папок (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Видалення %1$d папки</item>
+        <item quantity="one">Видалення %1$d папки</item>
+        <item quantity="few">Видалення %1$d папок</item>
+        <item quantity="many">Видалення %1$d папок</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Видалення %1$d папки та %2$d файлу</item>
+        <item quantity="one">Видалення %1$d папки та %2$d файлу</item>
+        <item quantity="few">Видалення %1$d папки та %2$d файлів</item>
+        <item quantity="many">Видалення %1$d папки та %2$d файлів</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Ці елементи вже містяться в папці \"%s\"</item>
+        <item quantity="one">Ці елементи вже містяться в папці \"%s\"</item>
+        <item quantity="few">Ці елементи вже містяться в папці \"%s\"</item>
+        <item quantity="many">Ці елементи вже містяться в папці \"%s\"</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Не вдалося розпакувати файли. %1$s</item>
+        <item quantity="one">Не вдалося розпакувати файли. %1$s</item>
+        <item quantity="few">Не вдалося розпакувати файли. %1$s</item>
+        <item quantity="many">Не вдалося розпакувати файли. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">Розпаковано %1$d файлу</item>
+        <item quantity="one">Розпаковано %1$d файл</item>
+        <item quantity="few">Розпаковано %1$d файли</item>
+        <item quantity="many">Розпаковано %1$d файлів</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s не може надіслати %2$d файлу користувачу %3$s</item>
+        <item quantity="one">%1$s не може надіслати %2$d файл користувачу %3$s</item>
+        <item quantity="few">%1$s не може надіслати %2$d файли користувачу %3$s</item>
+        <item quantity="many">%1$s не може надіслати %2$d файлів користувачу %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d файлу вже є в папці \"%2$s\". Їх не буде скопійовано</item>
+        <item quantity="one">%1$d файл уже є в папці \"%2$s\". Їх не буде скопійовано</item>
+        <item quantity="few">%1$d файли вже є в папці \"%2$s\". Їх не буде скопійовано</item>
+        <item quantity="many">%1$d файлів уже є в папці \"%2$s\". Їх не буде скопійовано</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d файлу вже є в папці \"%2$s\". Їх не буде переміщено</item>
+        <item quantity="one">%1$d файл уже є в папці \"%2$s\". Їх не буде переміщено</item>
+        <item quantity="few">%1$d файли вже є в папці \"%2$s\". Їх не буде переміщено</item>
+        <item quantity="many">%1$d файлів уже є в папці \"%2$s\". Їх не буде переміщено</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">Не вдалося видалити %1$d з %2$d файлу. Потрібні дозволи для карти SD.</item>
+        <item quantity="one">Не вдалося видалити %1$d із %2$d файлу. Потрібні дозволи для карти SD.</item>
+        <item quantity="few">Не вдалося видалити %1$d з %2$d файлів. Потрібні дозволи для карти SD.</item>
+        <item quantity="many">Не вдалося видалити %1$d з %2$d файлів. Потрібні дозволи для карти SD.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+        <item quantity="few">Вибрано %1$d</item>
+        <item quantity="many">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s файлу</item>
+        <item quantity="one">%1$s файл</item>
+        <item quantity="few">%1$s файли</item>
+        <item quantity="many">%1$s файлів</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d файлу буде скопійовано</item>
+        <item quantity="one">%1$d файл буде скопійовано</item>
+        <item quantity="few">%1$d файли буде скопійовано</item>
+        <item quantity="many">%1$d файлів буде скопійовано</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d файлу буде переміщено</item>
+        <item quantity="one">%1$d файл буде переміщено</item>
+        <item quantity="few">%1$d файли буде переміщено</item>
+        <item quantity="many">%1$d файлів буде переміщено</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d файлу</item>
+        <item quantity="one">%1$s, %2$d файл</item>
+        <item quantity="few">%1$s, %2$d файли</item>
+        <item quantity="many">%1$s, %2$d файлів</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">загалом %1$d файлу</item>
+        <item quantity="one">загалом %1$d файл</item>
+        <item quantity="few">загалом %1$d файли</item>
+        <item quantity="many">загалом %1$d файлів</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s папки</item>
+        <item quantity="one">%1$s папка</item>
+        <item quantity="few">%1$s папки</item>
+        <item quantity="many">%1$s папок</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Google Play Захист виявив %1$s небезпечного додатка</item>
+        <item quantity="one">Google Play Захист виявив %1$s небезпечний додаток</item>
+        <item quantity="few">Google Play Захист виявив %1$s небезпечні додатки</item>
+        <item quantity="many">Google Play Захист виявив %1$s небезпечних додатків</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d години</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d години</item>
+        <item quantity="many">%1$d годин</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Видаліть %1$d медіа-файлу</item>
+        <item quantity="one">Видаліть %1$d медіа-файл</item>
+        <item quantity="few">Видаліть %1$d медіа-файли</item>
+        <item quantity="many">Видаліть %1$d медіа-файлів</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d хвилини</item>
+        <item quantity="one">%1$d хвилина</item>
+        <item quantity="few">%1$d хвилини</item>
+        <item quantity="many">%1$d хвилин</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Не вдалося перемістити файли. %1$s</item>
+        <item quantity="one">Не вдалося перемістити файли. %1$s</item>
+        <item quantity="few">Не вдалося перемістити файли. %1$s</item>
+        <item quantity="many">Не вдалося перемістити файли. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Переноситься %1$d файлу</item>
+        <item quantity="one">Переноситься %1$d файл</item>
+        <item quantity="few">Переносяться %1$d файли</item>
+        <item quantity="many">Переносяться %1$d файлів</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Переміщення папок (%1$d) і %2$d файлу</item>
+        <item quantity="one">Переміщення папок (%1$d) і %2$d файлу</item>
+        <item quantity="few">Переміщення папок (%1$d) і %2$d файлів</item>
+        <item quantity="many">Переміщення папок (%1$d) і %2$d файлів</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Переміщення %1$d папки</item>
+        <item quantity="one">Переміщення %1$d папки</item>
+        <item quantity="few">Переміщення %1$d папок</item>
+        <item quantity="many">Переміщення %1$d папок</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Переміщення %1$d папки та %2$d файлу</item>
+        <item quantity="one">Переміщення %1$d папки та %2$d файлу</item>
+        <item quantity="few">Переміщення %1$d папки та %2$d файлів</item>
+        <item quantity="many">Переміщення %1$d папки та %2$d файлів</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунди</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s надсилає %2$d файлу користувачу %3$s</item>
+        <item quantity="one">%1$s надсилає %2$d файл користувачу %3$s</item>
+        <item quantity="few">%1$s надсилає %2$d файли користувачу %3$s</item>
+        <item quantity="many">%1$s надсилає %2$d файлів користувачу %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s надсилає %2$d файлу користувачу %3$s</item>
+        <item quantity="one">%1$s надсилає %2$d файл користувачу %3$s</item>
+        <item quantity="few">%1$s надсилає %2$d файли користувачу %3$s</item>
+        <item quantity="many">%1$s надсилає %2$d файлів користувачу %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">обміну файлами</item>
+        <item quantity="one">обмін файлами</item>
+        <item quantity="few">обміни файлами</item>
+        <item quantity="many">обмінів файлами</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Припинити копіювання %1$d файлу?</item>
+        <item quantity="one">Припинити копіювання %1$d файлу?</item>
+        <item quantity="few">Припинити копіювання %1$d файлів?</item>
+        <item quantity="many">Припинити копіювання %1$d файлів?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Припинити видалення %1$d файлу?</item>
+        <item quantity="one">Припинити видалення %1$d файлу?</item>
+        <item quantity="few">Припинити видалення %1$d файлів?</item>
+        <item quantity="many">Припинити видалення %1$d файлів?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Припинити переміщення %1$d файлу?</item>
+        <item quantity="one">Припинити переміщення %1$d файлу?</item>
+        <item quantity="few">Припинити переміщення %1$d файлів?</item>
+        <item quantity="many">Припинити переміщення %1$d файлів?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Видалити %1$d старого додатка</item>
+        <item quantity="one">Видалити %1$d старий додаток</item>
+        <item quantity="few">Видалити %1$d старі додатки</item>
+        <item quantity="many">Видалити %1$d старих додатків</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">І ще %1$d файлу</item>
+        <item quantity="one">І ще %1$d файл</item>
+        <item quantity="few">І ще %1$d файли</item>
+        <item quantity="many">І ще %1$d файлів</item>
+    </plurals>
+</resources>

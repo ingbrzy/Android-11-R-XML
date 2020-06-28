@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="textViewAppInfo_List">
+        <item>"Sur l'écran du paramètre de localisation, activez \"Utiliser ma position\".
+"</item>
+        <item>"Sur l'écran de l'application Carrier Location, appuyez sur \"Toujours autoriser\". (Pour fonctionner, l'application nécessite ce niveau d'accès.)
+
+"</item>
+    </string-array>
+    <string-array name="textViewAppInfo_Paragraphs_After_List">
+        <item>"Remarque : Votre opérateur peut accéder à la position de votre appareil au moment où vous composez un numéro d'urgence ou que vous envoyez un SMS à ce type de numéro et pour une période limitée par la suite, et ce, même si vous désactivez le paramètre de localisation et refusez l'autorisation d'accéder à la position de l'appareil pour cette application.
+"</item>
+        <item>&lt;a href="carrier_location_app://learn_more">En savoir plus&lt;/a>"
+"</item>
+    </string-array>
+    <string-array name="textViewAppInfo_Paragraphs_Before_List">
+        <item>"Cette application vous permet d'accorder à votre opérateur l'autorisation d'accéder à la position de votre appareil. L'opérateur peut utiliser cette information à n'importe quelle fin. Pour accorder l'accès à l'opérateur :
+"</item>
+    </string-array>
+</resources>

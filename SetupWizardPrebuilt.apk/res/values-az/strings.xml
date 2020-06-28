@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Yuxarı keçin</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_capital_off">DEAKTİV</string>
+    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">silin</string>
+    <string name="abc_menu_enter_shortcut_label">daxil olun</string>
+    <string name="abc_menu_function_shortcut_label">Funksiya+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Axtarış...</string>
+    <string name="abc_searchview_description_clear">Sorğunu silin</string>
+    <string name="abc_searchview_description_search">Axtarın</string>
+    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdırın</string>
+    <string name="accessibility_no_wifi">Wifi bağlantısı kəsildi.</string>
+    <string name="accessibility_wifi_one_bar">Wifi bir xətdir.</string>
+    <string name="accessibility_wifi_security_type_none">Açıq şəbəkə</string>
+    <string name="accessibility_wifi_security_type_secured">Təhlükəsiz şəbəkə</string>
+    <string name="accessibility_wifi_signal_full">Wifi siqnalı tamdır.</string>
+    <string name="accessibility_wifi_three_bars">Wifi üç xətdir.</string>
+    <string name="accessibility_wifi_two_bars">Wifi iki xətdir.</string>
+    <string name="account_exists_info">"E-məktublar, kontaktlar, təqvim tədbirləri və s. bu {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihaza}} ayarlamağa kömək edir. Artıq Google Play'dən tətbiq, musiqi və oyunlar endirə bilərsiniz.
+
+Ayarlar > Hesablar bölməsinə keçməklə daha sonra hesablar əlavə edə və silə bilərsiniz."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> hazırdır.</string>
+    <string name="account_exists_text_unknown_name">Hesabınız hazırdır.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Hesab əlavə edildi}other{Hesab əlavə edildi}}</string>
+    <string name="activating_carrier_service_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="activating_unknown_carrier_service_title">Aktiv edilir…</string>
+    <string name="activation_failed_message">"Siz:
+"<ul><li>Mobil dataya yenidən qoşulmağa cəhd edə bilərsiniz</li>"
+"<li>Ayarlama üçün başqa şəbəkədən istifadə edə bilərsiniz</li></ul>"
+
+Əgər bu seçimlər işləməsə, həmçinin {DEVICE_TYPE,select, PHONE{telefonu}TABLET{planşeti}other{cihazı}}yenidən başlada və yenidən cəhd edə bilərsiniz."</string>
+    <string name="activation_failed_title">Mobil dataya qoşulmaq mümkün deyil</string>
+    <string name="activation_progress_flow">"Çox uzun çəkdi?
+
+Mobil dataya qoşulmaq biraz vaxt alır. Geri qayıda və bunun əvəzinə başqa şəbəkəyə qoşula bilərsiniz."</string>
+    <string name="activation_title">Mobil xidmət qoşulur…</string>
+    <string name="activation_unprovisioned_sim_message">Aşğıdakıları yenidən başladın: {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihaz,}} sonra yenidən cəhd edin və ya Wi‑Fi şəbəkəsinə qoşularaq ayarlayın. Mobil datanı aktiv etməklə bağlı hələ də probleminiz varsa, operatorla əlaqə saxlayın.</string>
+    <string name="activation_unprovisioned_title">Mobil datanı aktiv etmək mümkün olmadı</string>
+    <string name="android_privacy_policy_title">Əlavə Məxfilik Siyasəti</string>
+    <string name="available_via_carrier">%1$s vasitəsilə əlçatandır</string>
+    <string name="cancel_button_label">Ləğv et</string>
+    <string name="captive_portal_connection_unsuccessful">İnternetə qoşulmaq alınmadı</string>
+    <string name="captive_portal_description_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="captive_portal_ssl_error_text">Bu bağlantı etibarsız və ya yanlış sertifikat istifadə edir. Başqa şəbəkə seçin və yenidən cəhd edin.</string>
+    <string name="captive_portal_title">Qoşulur...</string>
+    <string name="chrome_privacy_title">Chrome Məxfilik Bildirişi</string>
+    <string name="chrome_tos_title">Chrome Xidmət Şərtləri</string>
+    <string name="close_button_label">Bağla</string>
+    <string name="common_google_play_services_enable_button">Aktiv edin</string>
+    <string name="common_google_play_services_enable_text">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv edin</string>
+    <string name="common_google_play_services_install_button">Quraşdırın</string>
+    <string name="common_google_play_services_install_text">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə edin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatanlığı</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="common_google_play_services_update_button">Güncəlləyin</string>
+    <string name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="common_google_play_services_updating_text">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="connect_to_wifi_btn_text">Wi-Fi ayarları</string>
+    <string name="connect_to_wifi_message">"Davam etmək üçün Wi-Fi'ya qoşulun"</string>
+    <string name="connect_to_wifi_title">Tətbiq güncəlləmələri hazırdır</string>
+    <string name="connected_via_app">%1$s ilə qoşulub</string>
+    <string name="connected_via_carrier">%1$s ilə qoşuludur</string>
+    <string name="connected_via_network_scorer_default">Avtomatik olaraq şəbəkə reytinq provayderi ilə qoşuludur</string>
+    <string name="consolidate_captive_portal_description_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="consolidate_captive_portal_title">Güncəlləmə yoxlanılır…</string>
+    <string name="continue_for_a11y">Əlçatımlılıq rejimini aktivləşdirmək üçün səs eşidənə qədər ekrana toxunmağa davam edin.</string>
+    <string name="date_time_current_date">Tarix</string>
+    <string name="date_time_current_time">Vaxt</string>
+    <string name="date_time_message">Lazım gələrsə, tənzimlə.</string>
+    <string name="date_time_setup_title">Vaxt və tarix</string>
+    <string name="date_time_time_zone_full">%1$s ( %2$s )</string>
+    <string name="decision_point_continue_setup">Davam edin</string>
+    <string name="decision_point_google_assistant">Google Assistent</string>
+    <string name="decision_point_illustration_description">Əlavə mərhələlərə Google Assistent, Google Pay, İndi Efirdə, şrift ölçüsü, divar kağızı və s. daxildir</string>
+    <string name="decision_point_leave_setup">Çıxın və xatırlatma əldə edin</string>
+    <string name="decision_point_now_playing">İndi Göstərilir</string>
+    <string name="default_device_name_device">cihaz</string>
+    <string name="default_device_name_phone">telefon</string>
+    <string name="default_device_name_tablet">planşet</string>
+    <string name="deferred_notification_prompt_title">^1 cihazının ayarlanmasını tamamlayın</string>
+    <string name="deferred_setup_button_label">Quraşdırmanı tamamlayın</string>
+    <string name="deferred_setup_wizard_reason_assistant">Assistentlə danışın</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">Google Assistent ilə danışın</string>
+    <string name="deferred_setup_wizard_reason_default">Bir neçə mərhələ daha</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">datanızı kopyalayın</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Ödənişdən istifadə edin</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Ödənişlə ödəniş edin</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 və daha çox</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 və digəri</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Sadəcə bir neçə qısa mərhələ və ^1 işləməyə hazır olacaq</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">divar kağızı ayarlayın</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">divar kağızı ayarlayın</string>
+    <string name="deferred_setup_wizard_title">Cihazın ayarlanmasını tamamlayın</string>
+    <string name="deferred_snooze_dialog_option_never">Heç vaxt</string>
+    <string name="deferred_snooze_dialog_option_today">Bu gün ərzində</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Sabah</string>
+    <string name="deferred_snooze_dialog_title">Mənə xatırladın</string>
+    <string name="deferred_welcome_airplane_mode_message">"Son quraşdırma mərhələlərini tamamlamaq üçün internet bağlantısı tələb olunur.
+
+\"Təyyarə\" rejimi aktiv olduqda, Wi‑Fi, mobil şəbəkə və Bluetooth bağlantısı olmur."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Sonra quraşdırın</string>
+    <string name="deferred_welcome_airplane_mode_title">Təyyarə rejimi deaktiv edilsin?</string>
+    <string name="deferred_welcome_screen_cancel_button">Sonra xatırladın</string>
+    <string name="deferred_welcome_title">^1 quraşdırmasını tamamlayın</string>
+    <string name="deferred_welcome_turn_off_button_label">Deaktiv edin</string>
+    <string name="device_owner_continue">Quraşdırmağa davam edin</string>
+    <string name="device_owner_reset">Sıfırlayın: {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}}</string>
+    <string name="device_owner_warning">{0} {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}} idarə edir, eyni zamanda məlumatınıza daxil ola bilər. {0} cihazının girişini silmək üçün {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}} sıfırlamalısınız.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Telefon,}TABLET{Planşet və}other{Cihaz}} idarə edilə bilər</string>
+    <string name="dialog_back_button_label">Geri</string>
+    <string name="dialog_continue_button_label">Davam edin</string>
+    <string name="early_update_installing_updates_text">Güncəlləmələr quraşdırılır</string>
+    <string name="early_update_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="early_update_timeout_text">Çox vaxt aparır? Geri qayıtmağa və başqa şəbəkəyə qoşulmağa cəhd edin.</string>
+    <string name="early_update_title">Güncəlləşmə yoxlanılır...</string>
+    <string name="emergency_dial">Təcili zəng</string>
+    <string name="enabled_a11y">Əlçatımlılıq rejimi aktivləşdirildi</string>
+    <string name="esim_option_button_summary">eSIM istifadə edərək nömrə əlavə edin</string>
+    <string name="esim_option_button_title">Əvəzinə SIM endirilsin?</string>
+    <string name="esim_warning_title">SIM endirin</string>
+    <string name="esim_warning_txt">%1$s abunəçisisinizsə, SIM kart taxmaq əvəzinə eSIM endirməklə zəng, mətn mesajı və data əldə edəcəksiniz.</string>
+    <string name="esim_warning_txt_default">SIM kartda olan məlumatı endirməklə mobil şəbəkəyə qoşulun. Bu, standart SIM kartları əvəz edir və onlarla eyni dərəcədə təhlükəsizdir.</string>
+    <string name="exit_loading_launcher">Başlatma yüklənir...</string>
+    <string name="factory_reset_button">Silin və Sıfırlayın</string>
+    <string name="factory_reset_confirmation">Bu {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazda}} bütün hesab və datanı silin. Bu əməliyyatı geri qaytara bilməzsiniz!</string>
+    <string name="factory_reset_confirmation_title">Sıfırlansın?</string>
+    <string name="factory_reset_instructions">Diqqət: Sıfırlama {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet və}other{cihazın}} daxili yaddaşındakı bütün hesab və datanı siləcək.</string>
+    <string name="factory_reset_title">Sıfırlayın: {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}}</string>
+    <string name="final_hold_description_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="final_hold_title">Tamamlama toxunuşları əlavə edilir…</string>
+    <string name="final_hold_title_setup_work_account">İş profili ayarlamaq üçün hazırlanır…</string>
+    <string name="gms_account_checkin_title">Hesab məlumatı əldə edilir…</string>
+    <string name="gms_checkin_description_text">Bu, bir neçə dəqiqə çəkə bilər</string>
+    <string name="gms_checkin_description_text_timeout">Çox vaxt aparır? Geri qayıtmağa və başqa şəbəkəyə qoşulmağa cəhd edin.</string>
+    <string name="gms_checkin_title">Güncəlləşmə yoxlanılır...</string>
+    <string name="go_back_button_label">Geri qayıdın</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play İstifadə Qaydaları</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Məxfilik Siyasəti</string>
+    <string name="google_privacy_policy_title">Google Məxfilik Siyasəti</string>
+    <string name="google_provisioning_disclaimer_content">Google Xidmət Şərtləri və Məxfilik Siyasəti tətbiq olunur. Ətraflı məlumat üçün &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> linkinə daxil olun.</string>
+    <string name="google_terms_of_service_title">Google İstifadə Qaydaları</string>
+    <string name="invalid_phone_number">Naməlum telefon nömrəsi</string>
+    <string name="invalid_qr_code_content">IT adminindən düzgün kodu tələb edin</string>
+    <string name="invalid_qr_code_retry">Yenidən cəhd edin</string>
+    <string name="invalid_qr_code_title">Yanlış QR kodu</string>
+    <string name="ios_trademarks_disclaimer">ABŞ və digər ölkələrdə qeydiyyatdan keçmiş iPhone, iPad, iOS, iMessage, iCloud, Safari və iTunes Apple Inc. şirkətinin ticarət nişanlarıdır.</string>
+    <string name="language_picker_section_all">Bütün dillər</string>
+    <string name="language_picker_section_suggested">Təklif edilmiş</string>
+    <string name="migrate_from_ios_description">Bunları edin:</string>
+    <string name="migrate_from_ios_header">Datanızı kopyalayın</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari® tətbiqini açın</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b> linkinə keçin</string>
+    <string name="migrate_from_ios_instructions_3">3. Təlimatları izləyin</string>
+    <string name="network_description_text">Şəbəkə seçin</string>
+    <string name="network_description_text_esim">SIM-i endirmək üçün Wi‑Fi şəbəkəsinə qoşulun</string>
+    <string name="network_see_all_wifi">Bütün Wi-Fi şəbəkələrini görün</string>
+    <string name="network_timeout_description_text">Başqa şəbəkədən istifadə edin. Şəbəkəyə qoşulmadan davam etsəniz, bəzi quraşdırma mərhələsini sonra tamamlaya bilərsiniz.</string>
+    <string name="network_timeout_title">Qoşulmaq mümkün olmadı</string>
+    <string name="network_timeout_try_another_network_button">Başqa şəbəkəni sınayın</string>
+    <string name="network_title">"Wi-F'ya qoşulun"</string>
+    <string name="network_use_cellular">Quraşdırma üçün mobil şəbəkə istifadə edin</string>
+    <string name="network_use_cellular_carrier">"Wi-Fi'a sonra qoşulun"</string>
+    <string name="network_wifi_continue_button">Davam edin</string>
+    <string name="not_set">Ayarlanmayıb</string>
+    <string name="notification_channel_name_deferred">Əlavə quraşdırma</string>
+    <string name="notification_channel_name_initial">Quraşdırma</string>
+    <string name="notification_channel_name_restore">Data bərpası</string>
+    <string name="notification_channel_security_name_warnings">Təhlükəsizlik xəbərdarlıqları</string>
+    <string name="ok_button_label">Ok</string>
+    <string name="ota_agreement_text">Bu program güncəlləməsini qəbul və davam etməklə <annotation link="tos">Google Xidmət Şərtlərinə</annotation> və <annotation link="google_privacy">Məxfiliik Siyasətinə</annotation> razı olursunuz.</string>
+    <string name="ota_info">Sizin {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazınız}} güncəlləməni endirib yenidən işə salınmalıdır.</string>
+    <string name="ota_size">Ölçü: %s</string>
+    <string name="ota_update_title">Yeniləyin: {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}}</string>
+    <string name="predeferred_prepare_setup">Quraşdırma üçün hazırlanır…</string>
+    <string name="predeferred_prepare_setup_details">Tezliklə ^1 cihazını quraşdırmağı bitirəcəksiniz</string>
+    <string name="predeferred_wifi_required_notification_connect_button">"Wi-F'ya qoşulun"</string>
+    <string name="predeferred_wifi_required_notification_content">"Davam etmək üçün Wi-Fi'ya qoşulun"</string>
+    <string name="predeferred_wifi_required_notification_title">Tətbiq güncəlləmələri hazırdır</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">QR kod skan olunur</string>
+    <string name="region_picker_section_all">Bütün bölgələr</string>
+    <string name="restart_setup_wizard_button_label">Ayarlayın: {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet və}other{cihazı}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Bu {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazdan}} istifadə etmək üçün əvvəlcə bu {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazın}} ən son sıfırlandığı vaxt istifadə edilən Google hesabına daxil olmalısınız.
+
+Belə etməmisinizsə, {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazı}} yenidən ayarlamalısınız."</string>
+    <string name="restart_setup_wizard_dialog_title">Giriş edilməyib</string>
+    <string name="restore_failed_message">Yedəkləmə bərpa olunmadı</string>
+    <string name="restore_no_backup_message">Başqa cihazınızda hər hansı əlçatan yedək yoxdur</string>
+    <string name="restore_no_backup_title">Bərpa edə bilməz</string>
+    <string name="restore_stopped_message">Yedəkləmənin bərpasını tamamlamaq olmadı</string>
+    <string name="restore_title">Bərpa edilir...</string>
+    <string name="setup_ongoing_notification_text">^1 ayarlanmasını tamamlamaq üçün toxunun</string>
+    <string name="setup_ongoing_notification_title">^1 ayarlanması davam edir</string>
+    <string name="setup_wizard_title">Android Quraşdırması</string>
+    <string name="sim_locked_text">"Telefonunuz hazırda digər operator ilə kilidlənib. Etibarlı SIM kart istifadə etməlisiniz.
+
+SIM kartı daxil etdikdən sonra, aktivləşmə bir neçə saniyə çəkəcək."</string>
+    <string name="sim_locked_title">SIM kart dəstəklənmir.</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{SIM kartınız varsa, indi onu taxın}other{SIM kartınız varsa, indi onu taxın}}</string>
+    <string name="sim_missing_title">Mobil şəbəkəyə qoşulun</string>
+    <string name="sim_ready_message">%1$s istifadəyə hazır olmalıdır</string>
+    <string name="sim_ready_message_carrier_app">%1$s nömrəsinin aktiv edilməsini tamamlamaq üçün %2$s tətbiqini endirməlisiniz. İndi isə telefonu quraşdırmağı tamamlayaq.</string>
+    <string name="sim_ready_message_invalid_phone_number">Nömrə istifadəyə hazır olmalıdır</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Nömrənin aktiv edilməsini tamamlamaq üçün %1$s tətbiqini endirməlisiniz. İndi isə telefonu quraşdırmağı tamamlayaq.</string>
+    <string name="sim_ready_title">%1$s aktivdir</string>
+    <string name="sim_ready_title_carrier_app">%1$s tətbiqinə sonra qoşulun</string>
+    <string name="sim_setup_ask_every_time">Hər zaman soruş</string>
+    <string name="sim_setup_select_data">Mobil data seçimi</string>
+    <string name="sim_setup_select_data_description">Mobil data istifadəsi üçün nömrə seçin</string>
+    <string name="sim_setup_select_text">SMS seçimi</string>
+    <string name="sim_setup_select_text_description">Gedən mesajlar üçün nömrə seçin. Bütün aktiv nömrələr gələn mesajları qəbul edə bilər</string>
+    <string name="sim_setup_select_voice">Zəng seçimi</string>
+    <string name="sim_setup_select_voice_description">Gedən zənglər üçün nömrə seçin. Bütün aktiv nömrələr gələn zəngləri qəbul edə bilər</string>
+    <string name="sim_setup_title">SIM kartlar quraşdırın</string>
+    <string name="skip_anyway_button_label">İstənilən halda keç</string>
+    <string name="skip_button_label">Keç</string>
+    <string name="skip_toast">Quraşdırma Ustası boş verildi</string>
+    <string name="slots_selection_item_summary_activating">Aktiv edilir…</string>
+    <string name="slots_selection_item_summary_error">Hazırda aktiv etmək mümkün olmadı</string>
+    <string name="slots_selection_title">İstifadə üçün rəqəm seçin</string>
+    <string name="speed_label_fast">Sürətli</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Yavaş</string>
+    <string name="speed_label_very_fast">Çox Sürətli</string>
+    <string name="sud_back_button_label">Geri</string>
+    <string name="sud_more_button_label">Daha çox</string>
+    <string name="sud_next_button_label">Növbəti</string>
+    <string name="suggested_actions_description">İndi bir neçə əlavə məlumat ayarlayın və ya onları daha sonra Ayarlarda tapın</string>
+    <string name="suggested_actions_description_single_item">^1 cihazında ayarlaya biləcəyiniz digər bir əməliyyat. Bunu daha sonra Ayarlarda da tapa bilərsiniz.</string>
+    <string name="suggested_actions_done_label">Hələlik bitdi</string>
+    <string name="suggested_actions_no_thanks_label">Xeyr, təşəkkür</string>
+    <string name="suggested_actions_title">Başqa bir şey?</string>
+    <string name="switch_camera">Kameraya keçid</string>
+    <string name="switch_to_back_camera_button_content_description">Arxa kamera</string>
+    <string name="switch_to_front_camera_button_content_description">Ön kamera</string>
+    <string name="switched_to_back_camera_announcement">Düymə indi ön kameradır</string>
+    <string name="switched_to_front_camera_announcement">Düymə indi arxa kameradır</string>
+    <string name="tap_to_sign_up">Qeydiyyatdan keçmək üçün klikləyin</string>
+    <string name="terminate_toast">"Quraşdırma Ustası tamamlandı
+Cihaz təchiz edilməyib"</string>
+    <string name="try_again_button_label">Bir daha yoxla</string>
+    <string name="url_load_unsuccessful_message">Sizin {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazınız}} mobil data xidmətinə qoşulu deyil. Bu məlumata baxmaq üçün veb brauzerdə {0} ünvanına keçin.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Sizin {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazınız}} Wi‑Fi şəbəkəsinə qoşulu deyil. Bu məlumata indi baxmaq üçün veb brauzerdə {0} ünvanına daxil olun.</string>
+    <string name="user_warning_cannot_switch_message">Sahib istifadəçiyə keçmək alınmadı. Daha sonra yenidən cəhd edin.</string>
+    <string name="user_warning_label_continue">Davam edin</string>
+    <string name="user_warning_label_quit">Ləğv edin</string>
+    <string name="user_warning_quit_dialog_button_keep">İstifadəçini saxlayın</string>
+    <string name="user_warning_quit_dialog_button_remove">İstifadəçini silin</string>
+    <string name="user_warning_quit_dialog_message">İstifadəçi silinsin?</string>
+    <string name="user_warning_title">Yeni istifadəçi ayarlayın</string>
+    <string name="wait_msg">Bir saniyə...</string>
+    <string name="web_dialog_unable_to_view">Bu məlumata indi baxmaq üçün veb brauzerdən ^1 ünvanına daxil olun.</string>
+    <string name="welcome_accessibility_button">Görünüş ayarları</string>
+    <string name="welcome_language_picker_content_description">Dil: %s</string>
+    <string name="welcome_language_picker_dialog_title">Dil seçin</string>
+    <string name="welcome_message">Xoş gördük</string>
+    <string name="welcome_secondary_user_added_text">Bu {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihaza əlavə edilmisiniz}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Mühüm:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet və}other{cihazın}}sahibi tətbiqləri sistemdən silə və ya istifadəçi profilini tamamilə silə bilər</li>"
+
+"<li>Digər istifadəçilər yenilənmiş tətbiq icazələrindən istifadə edə bilər</li>"
+
+"<li>Bu {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet və}other{cihazı}} yalnız etibar etdiyiniz insanlarla paylaşın</li></ul></string>
+    <string name="welcome_start_button_label">Başladın</string>
+    <string name="wifi_add_new_network">Yeni şəbəkə əlavə edin</string>
+    <string name="wifi_and_mobile_skipped_message">"Wi‑Fi və ya mobil şəbəkəyə qoşulmaq {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet}other{cihazınızı}} sürətlə ayarlamağa kömək edir.
+
+Bağlantı olmadan bunları edə bilməzsiniz:
+
+"<ul><li>Google Hesabına daxil olmaq</li>"
+
+"<li>Tətbiqlər və datanı bərpa etmək</li>"
+
+"<li>Proqram güncəlləmələri əldə etmək</li>"
+
+"<li>Vaxt və tarixi avtomatik ayarlamaq</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Wi‑Fi və ya mobil şəbəkəyə qoşulmaq {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet}other{cihazınızı}} sürətlə ayarlamağa kömək edir.
+
+Bağlantı olmadan bunları edə bilməzsiniz:
+
+"<ul><li>Google Hesabına daxil olmaq</li>"
+
+"<li>Tətbiqlər və datanı bərpa etmək</li>"
+
+"<li>SIM-i endirmək</li>"
+
+"<li>Proqram güncəlləmələri əldə etmək</li>"
+
+"<li>Vaxt və tarixi avtomatik ayarlamaq</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Giriş nöqtəsi müvəqqəti olaraq doludur</string>
+    <string name="wifi_check_password_try_again">Parolu yoxlayın və yenidən cəhd edin</string>
+    <string name="wifi_connected_no_internet">Qoşuludur, internet yoxdur</string>
+    <string name="wifi_disabled_by_recommendation_provider">Şəbəkə keyfiyyəti aşağı olduğuna görə qoşulmadı</string>
+    <string name="wifi_disabled_generic">Deaktiv</string>
+    <string name="wifi_disabled_network_failure">IP Konfiqurasiya Uğursuzluğu</string>
+    <string name="wifi_disabled_password_failure">Autentifikasiya problemi</string>
+    <string name="wifi_fail_to_scan">Şəbəkə axtarmaq olmur</string>
+    <string name="wifi_ip_address_not_available">Əlçatmazdır</string>
+    <string name="wifi_ip_address_title">IP ünvanı</string>
+    <string name="wifi_limited_connection">Məhdud bağlantı</string>
+    <string name="wifi_mac_address_not_available">Əlçatmazdır</string>
+    <string name="wifi_mac_address_title">MAC ünvanı</string>
+    <string name="wifi_metered_label">Ödənişli</string>
+    <string name="wifi_no_internet">İnternet girişi yoxdur</string>
+    <string name="wifi_no_internet_no_reconnect">Avtomatik qoşulmayacaq</string>
+    <string name="wifi_not_in_range">Diapazonda deyil</string>
+    <string name="wifi_remembered">Yadda saxlanılan</string>
+    <string name="wifi_scanning">WiFi şəbəkəsi axtarılır...</string>
+    <string name="wifi_set_up_offline_title">Oflayn ayarlansın?</string>
+    <string name="wifi_skip_button_label">Oflayn ayarlayın</string>
+    <string name="wifi_skipped_message">"Sizin {DEVICE_TYPE,select, PHONE{telefon,}TABLET{planşet və}other{cihazınız}} quraşdırma ərzində mobil şəbəkədən istifadə edəcək, buna görə Sizdən ödəniş çıxıla bilər. Xərclərdən yayınmaq üçün Wi‑Fi'a qoşulun."</string>
+    <string name="wifi_skipped_title">Mümkün data xərcləri</string>
+    <string name="wifi_title">"Wi-F'ya qoşulun"</string>
+    <string name="wifi_unmetered_label">Limitsiz</string>
+    <string name="work_profile_setup_description">Bu cihazı iş üçün quraşdırmaq və iş datasını şəxsi datadan ayırmaq</string>
+    <string name="work_profile_setup_next">Növbəti</string>
+    <string name="work_profile_setup_skip">İş hesabı quraşdırmağı keçin</string>
+    <string name="work_profile_setup_title">İş hesabı əlavə edin</string>
+    <string name="work_setup_interrupted">"Bu {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet}other{cihaz}} üçün şübhəli fəaliyyət aşkar etdik. Quraşdırmanı davam etdirsəniz, datanız təhlükə altında ola bilər.
+
+Yenidən başlamaq üçün bu {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet}other{cihazı}} sıfırlayın."</string>
+    <string name="work_setup_interrupted_title">Bu {DEVICE_TYPE,select, PHONE{telefon}TABLET{planşet}other{cihaz}} təhlükəli ola bilər</string>
+</resources>

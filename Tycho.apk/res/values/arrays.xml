@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_theme_titles">
+        <item>@string/app_theme_light</item>
+        <item>@string/app_theme_dark</item>
+        <item>@string/app_theme_system</item>
+    </string-array>
+    <string-array name="change_role_details">
+        <item>Can adjust own settings only</item>
+        <item>"Can see all account activity. Can't adjust payment or member roles."</item>
+    </string-array>
+    <string-array name="change_role_titles">
+        <item>@string/member</item>
+        <item>@string/manager</item>
+    </string-array>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>AD</item>
+        <item>AE</item>
+        <item>AF</item>
+        <item>AG</item>
+        <item>AI</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AO</item>
+        <item>AQ</item>
+        <item>AR</item>
+        <item>AS</item>
+        <item>AT</item>
+        <item>AU</item>
+        <item>AW</item>
+        <item>AX</item>
+        <item>AZ</item>
+        <item>BA</item>
+        <item>BB</item>
+        <item>BD</item>
+        <item>BE</item>
+        <item>BF</item>
+        <item>BG</item>
+        <item>BH</item>
+        <item>BI</item>
+        <item>BJ</item>
+        <item>BL</item>
+        <item>BM</item>
+        <item>BN</item>
+        <item>BO</item>
+        <item>BQ</item>
+        <item>BR</item>
+        <item>BS</item>
+        <item>BT</item>
+        <item>BV</item>
+        <item>BW</item>
+        <item>BY</item>
+        <item>BZ</item>
+        <item>CA</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>CF</item>
+        <item>CG</item>
+        <item>CH</item>
+        <item>CI</item>
+        <item>CK</item>
+        <item>CL</item>
+        <item>CM</item>
+        <item>CN</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CU</item>
+        <item>CV</item>
+        <item>CW</item>
+        <item>CX</item>
+        <item>CY</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DG</item>
+        <item>DJ</item>
+        <item>DK</item>
+        <item>DM</item>
+        <item>DO</item>
+        <item>DZ</item>
+        <item>EA</item>
+        <item>EC</item>
+        <item>EE</item>
+        <item>EG</item>
+        <item>EH</item>
+        <item>ER</item>
+        <item>ES</item>
+        <item>ET</item>
+        <item>FI</item>
+        <item>FJ</item>
+        <item>FK</item>
+        <item>FM</item>
+        <item>FO</item>
+        <item>FR</item>
+        <item>GA</item>
+        <item>GB</item>
+        <item>GD</item>
+        <item>GE</item>
+        <item>GF</item>
+        <item>GG</item>
+        <item>GH</item>
+        <item>GI</item>
+        <item>GL</item>
+        <item>GM</item>
+        <item>GN</item>
+        <item>GP</item>
+        <item>GQ</item>
+        <item>GR</item>
+        <item>GS</item>
+        <item>GT</item>
+        <item>GU</item>
+        <item>GW</item>
+        <item>GY</item>
+        <item>HK</item>
+        <item>HM</item>
+        <item>HN</item>
+        <item>HR</item>
+        <item>HT</item>
+        <item>HU</item>
+        <item>IC</item>
+        <item>ID</item>
+        <item>IE</item>
+        <item>IL</item>
+        <item>IM</item>
+        <item>IN</item>
+        <item>IO</item>
+        <item>IQ</item>
+        <item>IR</item>
+        <item>IS</item>
+        <item>IT</item>
+        <item>JE</item>
+        <item>JM</item>
+        <item>JO</item>
+        <item>JP</item>
+        <item>KE</item>
+        <item>KG</item>
+        <item>KH</item>
+        <item>KI</item>
+        <item>KM</item>
+        <item>KN</item>
+        <item>KP</item>
+        <item>KR</item>
+        <item>KW</item>
+        <item>KY</item>
+        <item>KZ</item>
+        <item>LA</item>
+        <item>LB</item>
+        <item>LC</item>
+        <item>LI</item>
+        <item>LK</item>
+        <item>LR</item>
+        <item>LS</item>
+        <item>LT</item>
+        <item>LU</item>
+        <item>LV</item>
+        <item>LY</item>
+        <item>MA</item>
+        <item>MC</item>
+        <item>MD</item>
+        <item>ME</item>
+        <item>MF</item>
+        <item>MG</item>
+        <item>MH</item>
+        <item>MK</item>
+        <item>ML</item>
+        <item>MM</item>
+        <item>MN</item>
+        <item>MO</item>
+        <item>MP</item>
+        <item>MQ</item>
+        <item>MR</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>MU</item>
+        <item>MV</item>
+        <item>MW</item>
+        <item>MX</item>
+        <item>MY</item>
+        <item>MZ</item>
+        <item>NA</item>
+        <item>NC</item>
+        <item>NE</item>
+        <item>NF</item>
+        <item>NG</item>
+        <item>NI</item>
+        <item>NL</item>
+        <item>NO</item>
+        <item>NP</item>
+        <item>NR</item>
+        <item>NU</item>
+        <item>NZ</item>
+        <item>OM</item>
+        <item>PA</item>
+        <item>PE</item>
+        <item>PF</item>
+        <item>PG</item>
+        <item>PH</item>
+        <item>PK</item>
+        <item>PL</item>
+        <item>PM</item>
+        <item>PN</item>
+        <item>PR</item>
+        <item>PS</item>
+        <item>PT</item>
+        <item>PW</item>
+        <item>PY</item>
+        <item>QA</item>
+        <item>RE</item>
+        <item>RO</item>
+        <item>RS</item>
+        <item>RU</item>
+        <item>RW</item>
+        <item>SA</item>
+        <item>SB</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>SE</item>
+        <item>SG</item>
+        <item>SH</item>
+        <item>SI</item>
+        <item>SJ</item>
+        <item>SK</item>
+        <item>SL</item>
+        <item>SM</item>
+        <item>SN</item>
+        <item>SO</item>
+        <item>SR</item>
+        <item>SS</item>
+        <item>ST</item>
+        <item>SV</item>
+        <item>SX</item>
+        <item>SY</item>
+        <item>SZ</item>
+        <item>TC</item>
+        <item>TD</item>
+        <item>TF</item>
+        <item>TG</item>
+        <item>TH</item>
+        <item>TJ</item>
+        <item>TK</item>
+        <item>TL</item>
+        <item>TM</item>
+        <item>TN</item>
+        <item>TO</item>
+        <item>TR</item>
+        <item>TT</item>
+        <item>TV</item>
+        <item>TW</item>
+        <item>TZ</item>
+        <item>UA</item>
+        <item>UG</item>
+        <item>UM</item>
+        <item>US</item>
+        <item>UY</item>
+        <item>UZ</item>
+        <item>VA</item>
+        <item>VC</item>
+        <item>VE</item>
+        <item>VG</item>
+        <item>VI</item>
+        <item>VN</item>
+        <item>VU</item>
+        <item>WF</item>
+        <item>WS</item>
+        <item>XK</item>
+        <item>YE</item>
+        <item>YT</item>
+        <item>ZA</item>
+        <item>ZM</item>
+        <item>ZW</item>
+    </string-array>
+    <string-array name="data_binge_feedback_options">
+        <item>@string/data_binge_useful</item>
+        <item>@string/data_binge_not_useful</item>
+    </string-array>
+    <string-array name="feedback_audio_issues">
+        <item>@string/feedback_audio_issue_not_applicable</item>
+        <item>@string/feedback_audio_issue_remote_audio</item>
+        <item>@string/feedback_audio_issue_local_audio</item>
+        <item>@string/feedback_audio_issue_echo</item>
+        <item>@string/feedback_audio_issue_unclear</item>
+        <item>@string/feedback_audio_issue_other</item>
+    </string-array>
+    <string-array name="feedback_call_issues">
+        <item>@string/feedback_call_issue_none</item>
+        <item>@string/feedback_call_issue_no_ringing</item>
+        <item>@string/feedback_call_issue_never_connected</item>
+        <item>@string/feedback_call_issue_dropped</item>
+        <item>@string/feedback_call_issue_other</item>
+    </string-array>
+    <array name="google_progressindicator_brand_colors_dark">
+        <item>@color/google_blue300</item>
+        <item>@color/google_red300</item>
+        <item>@color/google_yellow300</item>
+        <item>@color/google_green300</item>
+    </array>
+    <array name="google_progressindicator_brand_colors_light">
+        <item>@color/google_blue500</item>
+        <item>@color/google_red500</item>
+        <item>@color/google_yellow500</item>
+        <item>@color/google_green500</item>
+    </array>
+    <string-array name="international_card_referral_title">
+        <item>Just landed in Andorra</item>
+        <item>Just landed in the United Arab Emirates</item>
+        <item>Just landed in Afghanistan</item>
+        <item>Just landed in Antigua and Barbuda</item>
+        <item>Just landed in Anguilla</item>
+        <item>Just landed in Albania</item>
+        <item>Just landed in Armenia</item>
+        <item>Just landed in Angola</item>
+        <item>Just landed in Antarctica</item>
+        <item>Just landed in Argentina</item>
+        <item>Just landed in American Samoa</item>
+        <item>Just landed in Austria</item>
+        <item>Just landed in Australia</item>
+        <item>Just landed in Aruba</item>
+        <item>Just landed in the Åland Islands</item>
+        <item>Just landed in Azerbaijan</item>
+        <item>Just landed in Bosnia and Herzegovina</item>
+        <item>Just landed in Barbados</item>
+        <item>Just landed in Bangladesh</item>
+        <item>Just landed in Belgium</item>
+        <item>Just landed in Burkina Faso</item>
+        <item>Just landed in Bulgaria</item>
+        <item>Just landed in Bahrain</item>
+        <item>Just landed in Burundi</item>
+        <item>Just landed in Benin</item>
+        <item>Just landed in Saint Barthélemy</item>
+        <item>Just landed in Bermuda</item>
+        <item>Just landed in Brunei</item>
+        <item>Just landed in Bolivia</item>
+        <item>Just landed in the Caribbean Netherlands</item>
+        <item>Just landed in Brazil</item>
+        <item>Just landed in the Bahamas</item>
+        <item>Just landed in Bhutan</item>
+        <item>Just landed in Bouvet Island</item>
+        <item>Just landed in Botswana</item>
+        <item>Just landed in Belarus</item>
+        <item>Just landed in Belize</item>
+        <item>Just landed in Canada</item>
+        <item>Just landed in Cocos Islands</item>
+        <item>Just landed in the Democratic Republic of Congo</item>
+        <item>Just landed in the Central African Republic</item>
+        <item>Just landed in the Republic of the Congo</item>
+        <item>Just landed in Switzerland</item>
+        <item>"Just landed in Côte d'Ivoire"</item>
+        <item>Just landed in the Cook Islands</item>
+        <item>Just landed in Chile</item>
+        <item>Just landed in Cameroon</item>
+        <item>Just landed in China</item>
+        <item>Just landed in Colombia</item>
+        <item>Just landed in Costa Rica</item>
+        <item>Just landed in Cuba</item>
+        <item>Just landed in Cape Verde</item>
+        <item>Just landed in Curaçao</item>
+        <item>Just landed in Christmas Island</item>
+        <item>Just landed in Cyprus</item>
+        <item>Just landed in the Czech Republic</item>
+        <item>Just landed in Germany</item>
+        <item>Just landed in Diego Garcia</item>
+        <item>Just landed in Djibouti</item>
+        <item>Just landed in Denmark</item>
+        <item>Just landed in Dominica</item>
+        <item>Just landed in the Dominican Republic</item>
+        <item>Just landed in Algeria</item>
+        <item>Just landed in Ceuta and Melilla</item>
+        <item>Just landed in Ecuador</item>
+        <item>Just landed in Estonia</item>
+        <item>Just landed in Egypt</item>
+        <item>Just landed in the Western Sahara</item>
+        <item>Just landed in Eritrea</item>
+        <item>Just landed in Spain</item>
+        <item>Just landed in Ethiopia</item>
+        <item>Just landed in Finland</item>
+        <item>Just landed in Fiji</item>
+        <item>Just landed in the Falkland Islands</item>
+        <item>Just landed in Micronesia</item>
+        <item>Just landed in the Faroe Islands</item>
+        <item>Just landed in France</item>
+        <item>Just landed in Gabon</item>
+        <item>Just landed in the United Kingdom</item>
+        <item>Just landed in Grenada</item>
+        <item>Just landed in Georgia</item>
+        <item>Just landed in French Guiana</item>
+        <item>Just landed in Guernsey</item>
+        <item>Just landed in Ghana</item>
+        <item>Just landed in Gibraltar</item>
+        <item>Just landed in Greenland</item>
+        <item>Just landed in Gambia</item>
+        <item>Just landed in Guinea</item>
+        <item>Just landed in Guadeloupe</item>
+        <item>Just landed in Equatorial Guinea</item>
+        <item>Just landed in Greece</item>
+        <item>Just landed in South Georgia and the South Sandwich Islands</item>
+        <item>Just landed in Guatemala</item>
+        <item>Just landed in Guam</item>
+        <item>Just landed in Guinea-Bissau</item>
+        <item>Just landed in Guyana</item>
+        <item>Just landed in Hong Kong</item>
+        <item>Just landed in Heard Island and McDonald Islands</item>
+        <item>Just landed in Honduras</item>
+        <item>Just landed in Croatia</item>
+        <item>Just landed in Haiti</item>
+        <item>Just landed in Hungary</item>
+        <item>Just landed in the Canary Islands</item>
+        <item>Just landed in Indonesia</item>
+        <item>Just landed in Ireland</item>
+        <item>Just landed in Israel</item>
+        <item>Just landed in the Isle of Man</item>
+        <item>Just landed in India</item>
+        <item>Just landed in the British Indian Ocean Territory</item>
+        <item>Just landed in Iraq</item>
+        <item>Just landed in Iran</item>
+        <item>Just landed in Iceland</item>
+        <item>Just landed in Italy</item>
+        <item>Just landed in Jersey</item>
+        <item>Just landed in Jamaica</item>
+        <item>Just landed in Jordan</item>
+        <item>Just landed in Japan</item>
+        <item>Just landed in Kenya</item>
+        <item>Just landed in Kyrgyzstan</item>
+        <item>Just landed in Cambodia</item>
+        <item>Just landed in Kiribati</item>
+        <item>Just landed in the Comoros</item>
+        <item>Just landed in Saint Kitts and Nevis</item>
+        <item>Just landed in North Korea</item>
+        <item>Just landed in South Korea</item>
+        <item>Just landed in Kuwait</item>
+        <item>Just landed in the Cayman Islands</item>
+        <item>Just landed in Kazakhstan</item>
+        <item>Just landed in Laos</item>
+        <item>Just landed in Lebanon</item>
+        <item>Just landed in Saint Lucia</item>
+        <item>Just landed in Liechtenstein</item>
+        <item>Just landed in Sri Lanka</item>
+        <item>Just landed in Liberia</item>
+        <item>Just landed in Lesotho</item>
+        <item>Just landed in Lithuania</item>
+        <item>Just landed in Luxembourg</item>
+        <item>Just landed in Latvia</item>
+        <item>Just landed in Libya</item>
+        <item>Just landed in Morocco</item>
+        <item>Just landed in Monaco</item>
+        <item>Just landed in Moldova</item>
+        <item>Just landed in Montenegro</item>
+        <item>Just landed in Saint Martin</item>
+        <item>Just landed in Madagascar</item>
+        <item>Just landed in the Marshall Islands</item>
+        <item>Just landed in Macedonia</item>
+        <item>Just landed in Mali</item>
+        <item>Just landed in Myanmar</item>
+        <item>Just landed in Mongolia</item>
+        <item>Just landed in Macau</item>
+        <item>Just landed in the Northern Mariana Islands</item>
+        <item>Just landed in Martinique</item>
+        <item>Just landed in Mauritania</item>
+        <item>Just landed in Montserrat</item>
+        <item>Just landed in Malta</item>
+        <item>Just landed in Mauritius</item>
+        <item>Just landed in the Maldives</item>
+        <item>Just landed in Malawi</item>
+        <item>Just landed in Mexico</item>
+        <item>Just landed in Malaysia</item>
+        <item>Just landed in Mozambique</item>
+        <item>Just landed in Namibia</item>
+        <item>Just landed in New Caledonia</item>
+        <item>Just landed in Niger</item>
+        <item>Just landed in Norfolk Island</item>
+        <item>Just landed in Nigeria</item>
+        <item>Just landed in Nicaragua</item>
+        <item>Just landed in the Netherlands</item>
+        <item>Just landed in Norway</item>
+        <item>Just landed in Nepal</item>
+        <item>Just landed in Nauru</item>
+        <item>Just landed in Niue</item>
+        <item>Just landed in New Zealand</item>
+        <item>Just landed in Oman</item>
+        <item>Just landed in Panama</item>
+        <item>Just landed in Peru</item>
+        <item>Just landed in French Polynesia</item>
+        <item>Just landed in Papua New Guinea</item>
+        <item>Just landed in the Philippines</item>
+        <item>Just landed in Pakistan</item>
+        <item>Just landed in Poland</item>
+        <item>Just landed in Saint Pierre and Miquelon</item>
+        <item>Just landed in the Pitcairn Islands</item>
+        <item>Just landed in Puerto Rico</item>
+        <item>Just landed in Palestine</item>
+        <item>Just landed in Portugal</item>
+        <item>Just landed in Palau</item>
+        <item>Just landed in Paraguay</item>
+        <item>Just landed in Qatar</item>
+        <item>Just landed in Réunion</item>
+        <item>Just landed in Romania</item>
+        <item>Just landed in Serbia</item>
+        <item>Just landed in Russia</item>
+        <item>Just landed in Rwanda</item>
+        <item>Just landed in Saudi Arabia</item>
+        <item>Just landed in the Solomon Islands</item>
+        <item>Just landed in the Seychelles</item>
+        <item>Just landed in Sudan</item>
+        <item>Just landed in Sweden</item>
+        <item>Just landed in Singapore</item>
+        <item>Just landed in Saint Helena</item>
+        <item>Just landed in Slovenia</item>
+        <item>Just landed in Svalbard and Jan Mayen</item>
+        <item>Just landed in Slovakia</item>
+        <item>Just landed in Sierra Leone</item>
+        <item>Just landed in San Marino</item>
+        <item>Just landed in Senegal</item>
+        <item>Just landed in Somalia</item>
+        <item>Just landed in Suriname</item>
+        <item>Just landed in South Sudan</item>
+        <item>Just landed in São Tomé and Príncipe</item>
+        <item>Just landed in El Salvador</item>
+        <item>Just landed in Sint Maarten</item>
+        <item>Just landed in Syria</item>
+        <item>Just landed in Swaziland</item>
+        <item>Just landed in the Turks and Caicos Islands</item>
+        <item>Just landed in Chad</item>
+        <item>Just landed in the French Southern and Antarctic Lands</item>
+        <item>Just landed in Togo</item>
+        <item>Just landed in Thailand</item>
+        <item>Just landed in Tajikistan</item>
+        <item>Just landed in Tokelau</item>
+        <item>Just landed in Timor-Leste</item>
+        <item>Just landed in Turkmenistan</item>
+        <item>Just landed in Tunisia</item>
+        <item>Just landed in Tonga</item>
+        <item>Just landed in Turkey</item>
+        <item>Just landed in Trinidad and Tobago</item>
+        <item>Just landed in Tuvalu</item>
+        <item>Just landed in Taiwan</item>
+        <item>Just landed in Tanzania</item>
+        <item>Just landed in Ukraine</item>
+        <item>Just landed in Uganda</item>
+        <item>Just landed in the U.S. Outlying Islands</item>
+        <item>Just landed in the United States</item>
+        <item>Just landed in Uruguay</item>
+        <item>Just landed in Uzbekistan</item>
+        <item>Just landed in Vatican City</item>
+        <item>Just landed in St. Vincent &amp; Grenadines</item>
+        <item>Just landed in Venezuela</item>
+        <item>Just landed in the British Virgin Islands</item>
+        <item>Just landed in the U.S. Virgin Islands</item>
+        <item>Just landed in Vietnam</item>
+        <item>Just landed in Vanuatu</item>
+        <item>Just landed in Wallis and Futuna</item>
+        <item>Just landed in Samoa</item>
+        <item>Just landed in Kosovo</item>
+        <item>Just landed in Yemen</item>
+        <item>Just landed in Mayotte</item>
+        <item>Just landed in South Africa</item>
+        <item>Just landed in Zambia</item>
+        <item>Just landed in Zimbabwe</item>
+    </string-array>
+    <string-array name="roaming_notification_title">
+        <item>Welcome to Andorra</item>
+        <item>Welcome to the United Arab Emirates</item>
+        <item>Welcome to Afghanistan</item>
+        <item>Welcome to Antigua and Barbuda</item>
+        <item>Welcome to Anguilla</item>
+        <item>Welcome to Albania</item>
+        <item>Welcome to Armenia</item>
+        <item>Welcome to Angola</item>
+        <item>Welcome to Antarctica</item>
+        <item>Welcome to Argentina</item>
+        <item>Welcome to American Samoa</item>
+        <item>Welcome to Austria</item>
+        <item>Welcome to Australia</item>
+        <item>Welcome to Aruba</item>
+        <item>Welcome to the Åland Islands</item>
+        <item>Welcome to Azerbaijan</item>
+        <item>Welcome to Bosnia and Herzegovina</item>
+        <item>Welcome to Barbados</item>
+        <item>Welcome to Bangladesh</item>
+        <item>Welcome to Belgium</item>
+        <item>Welcome to Burkina Faso</item>
+        <item>Welcome to Bulgaria</item>
+        <item>Welcome to Bahrain</item>
+        <item>Welcome to Burundi</item>
+        <item>Welcome to Benin</item>
+        <item>Welcome to Saint Barthélemy</item>
+        <item>Welcome to Bermuda</item>
+        <item>Welcome to Brunei</item>
+        <item>Welcome to Bolivia</item>
+        <item>Welcome to the Caribbean Netherlands</item>
+        <item>Welcome to Brazil</item>
+        <item>Welcome to the Bahamas</item>
+        <item>Welcome to Bhutan</item>
+        <item>Welcome to Bouvet Island</item>
+        <item>Welcome to Botswana</item>
+        <item>Welcome to Belarus</item>
+        <item>Welcome to Belize</item>
+        <item>Welcome to Canada</item>
+        <item>Welcome to Cocos Islands</item>
+        <item>Welcome to the Democratic Republic of Congo</item>
+        <item>Welcome to the Central African Republic</item>
+        <item>Welcome to the Republic of the Congo</item>
+        <item>Welcome to Switzerland</item>
+        <item>"Welcome to Côte d'Ivoire"</item>
+        <item>Welcome to the Cook Islands</item>
+        <item>Welcome to Chile</item>
+        <item>Welcome to Cameroon</item>
+        <item>Welcome to China</item>
+        <item>Welcome to Colombia</item>
+        <item>Welcome to Costa Rica</item>
+        <item>Welcome to Cuba</item>
+        <item>Welcome to Cape Verde</item>
+        <item>Welcome to Curaçao</item>
+        <item>Welcome to Christmas Island</item>
+        <item>Welcome to Cyprus</item>
+        <item>Welcome to Czechia</item>
+        <item>Welcome to Germany</item>
+        <item>Welcome to Diego Garcia</item>
+        <item>Welcome to Djibouti</item>
+        <item>Welcome to Denmark</item>
+        <item>Welcome to Dominica</item>
+        <item>Welcome to the Dominican Republic</item>
+        <item>Welcome to Algeria</item>
+        <item>Welcome to Ceuta and Melilla</item>
+        <item>Welcome to Ecuador</item>
+        <item>Welcome to Estonia</item>
+        <item>Welcome to Egypt</item>
+        <item>Welcome to the Western Sahara</item>
+        <item>Welcome to Eritrea</item>
+        <item>Welcome to Spain</item>
+        <item>Welcome to Ethiopia</item>
+        <item>Welcome to Finland</item>
+        <item>Welcome to Fiji</item>
+        <item>Welcome to the Falkland Islands</item>
+        <item>Welcome to Micronesia</item>
+        <item>Welcome to the Faroe Islands</item>
+        <item>Welcome to France</item>
+        <item>Welcome to Gabon</item>
+        <item>Welcome to the United Kingdom</item>
+        <item>Welcome to Grenada</item>
+        <item>Welcome to Georgia</item>
+        <item>Welcome to French Guiana</item>
+        <item>Welcome to Guernsey</item>
+        <item>Welcome to Ghana</item>
+        <item>Welcome to Gibraltar</item>
+        <item>Welcome to Greenland</item>
+        <item>Welcome to Gambia</item>
+        <item>Welcome to Guinea</item>
+        <item>Welcome to Guadeloupe</item>
+        <item>Welcome to Equatorial Guinea</item>
+        <item>Welcome to Greece</item>
+        <item>Welcome to South Georgia and the South Sandwich Islands</item>
+        <item>Welcome to Guatemala</item>
+        <item>Welcome to Guam</item>
+        <item>Welcome to Guinea-Bissau</item>
+        <item>Welcome to Guyana</item>
+        <item>Welcome to Hong Kong</item>
+        <item>Welcome to Heard Island and McDonald Islands</item>
+        <item>Welcome to Honduras</item>
+        <item>Welcome to Croatia</item>
+        <item>Welcome to Haiti</item>
+        <item>Welcome to Hungary</item>
+        <item>Welcome to the Canary Islands</item>
+        <item>Welcome to Indonesia</item>
+        <item>Welcome to Ireland</item>
+        <item>Welcome to Israel</item>
+        <item>Welcome to the Isle of Man</item>
+        <item>Welcome to India</item>
+        <item>Welcome to the British Indian Ocean Territory</item>
+        <item>Welcome to Iraq</item>
+        <item>Welcome to Iran</item>
+        <item>Welcome to Iceland</item>
+        <item>Welcome to Italy</item>
+        <item>Welcome to Jersey</item>
+        <item>Welcome to Jamaica</item>
+        <item>Welcome to Jordan</item>
+        <item>Welcome to Japan</item>
+        <item>Welcome to Kenya</item>
+        <item>Welcome to Kyrgyzstan</item>
+        <item>Welcome to Cambodia</item>
+        <item>Welcome to Kiribati</item>
+        <item>Welcome to the Comoros</item>
+        <item>Welcome to Saint Kitts and Nevis</item>
+        <item>Welcome to North Korea</item>
+        <item>Welcome to South Korea</item>
+        <item>Welcome to Kuwait</item>
+        <item>Welcome to the Cayman Islands</item>
+        <item>Welcome to Kazakhstan</item>
+        <item>Welcome to Laos</item>
+        <item>Welcome to Lebanon</item>
+        <item>Welcome to Saint Lucia</item>
+        <item>Welcome to Liechtenstein</item>
+        <item>Welcome to Sri Lanka</item>
+        <item>Welcome to Liberia</item>
+        <item>Welcome to Lesotho</item>
+        <item>Welcome to Lithuania</item>
+        <item>Welcome to Luxembourg</item>
+        <item>Welcome to Latvia</item>
+        <item>Welcome to Libya</item>
+        <item>Welcome to Morocco</item>
+        <item>Welcome to Monaco</item>
+        <item>Welcome to Moldova</item>
+        <item>Welcome to Montenegro</item>
+        <item>Welcome to Saint Martin</item>
+        <item>Welcome to Madagascar</item>
+        <item>Welcome to the Marshall Islands</item>
+        <item>Welcome to Macedonia</item>
+        <item>Welcome to Mali</item>
+        <item>Welcome to Myanmar</item>
+        <item>Welcome to Mongolia</item>
+        <item>Welcome to Macau</item>
+        <item>Welcome to the Northern Mariana Islands</item>
+        <item>Welcome to Martinique</item>
+        <item>Welcome to Mauritania</item>
+        <item>Welcome to Montserrat</item>
+        <item>Welcome to Malta</item>
+        <item>Welcome to Mauritius</item>
+        <item>Welcome to the Maldives</item>
+        <item>Welcome to Malawi</item>
+        <item>Welcome to Mexico</item>
+        <item>Welcome to Malaysia</item>
+        <item>Welcome to Mozambique</item>
+        <item>Welcome to Namibia</item>
+        <item>Welcome to New Caledonia</item>
+        <item>Welcome to Niger</item>
+        <item>Welcome to Norfolk Island</item>
+        <item>Welcome to Nigeria</item>
+        <item>Welcome to Nicaragua</item>
+        <item>Welcome to the Netherlands</item>
+        <item>Welcome to Norway</item>
+        <item>Welcome to Nepal</item>
+        <item>Welcome to Nauru</item>
+        <item>Welcome to Niue</item>
+        <item>Welcome to New Zealand</item>
+        <item>Welcome to Oman</item>
+        <item>Welcome to Panama</item>
+        <item>Welcome to Peru</item>
+        <item>Welcome to French Polynesia</item>
+        <item>Welcome to Papua New Guinea</item>
+        <item>Welcome to the Philippines</item>
+        <item>Welcome to Pakistan</item>
+        <item>Welcome to Poland</item>
+        <item>Welcome to Saint Pierre and Miquelon</item>
+        <item>Welcome to the Pitcairn Islands</item>
+        <item>Welcome to Puerto Rico</item>
+        <item>Welcome to Palestine</item>
+        <item>Welcome to Portugal</item>
+        <item>Welcome to Palau</item>
+        <item>Welcome to Paraguay</item>
+        <item>Welcome to Qatar</item>
+        <item>Welcome to Réunion</item>
+        <item>Welcome to Romania</item>
+        <item>Welcome to Serbia</item>
+        <item>Welcome to Russia</item>
+        <item>Welcome to Rwanda</item>
+        <item>Welcome to Saudi Arabia</item>
+        <item>Welcome to the Solomon Islands</item>
+        <item>Welcome to the Seychelles</item>
+        <item>Welcome to Sudan</item>
+        <item>Welcome to Sweden</item>
+        <item>Welcome to Singapore</item>
+        <item>Welcome to Saint Helena</item>
+        <item>Welcome to Slovenia</item>
+        <item>Welcome to Svalbard and Jan Mayen</item>
+        <item>Welcome to Slovakia</item>
+        <item>Welcome to Sierra Leone</item>
+        <item>Welcome to San Marino</item>
+        <item>Welcome to Senegal</item>
+        <item>Welcome to Somalia</item>
+        <item>Welcome to Suriname</item>
+        <item>Welcome to South Sudan</item>
+        <item>Welcome to São Tomé and Príncipe</item>
+        <item>Welcome to El Salvador</item>
+        <item>Welcome to Sint Maarten</item>
+        <item>Welcome to Syria</item>
+        <item>Welcome to Swaziland</item>
+        <item>Welcome to the Turks and Caicos Islands</item>
+        <item>Welcome to Chad</item>
+        <item>Welcome to the French Southern and Antarctic Lands</item>
+        <item>Welcome to Togo</item>
+        <item>Welcome to Thailand</item>
+        <item>Welcome to Tajikistan</item>
+        <item>Welcome to Tokelau</item>
+        <item>Welcome to Timor-Leste</item>
+        <item>Welcome to Turkmenistan</item>
+        <item>Welcome to Tunisia</item>
+        <item>Welcome to Tonga</item>
+        <item>Welcome to Turkey</item>
+        <item>Welcome to Trinidad and Tobago</item>
+        <item>Welcome to Tuvalu</item>
+        <item>Welcome to Taiwan</item>
+        <item>Welcome to Tanzania</item>
+        <item>Welcome to Ukraine</item>
+        <item>Welcome to Uganda</item>
+        <item>Welcome to the U.S. Outlying Islands</item>
+        <item>Welcome to the United States</item>
+        <item>Welcome to Uruguay</item>
+        <item>Welcome to Uzbekistan</item>
+        <item>Welcome to Vatican City</item>
+        <item>Welcome to St. Vincent &amp; Grenadines</item>
+        <item>Welcome to Venezuela</item>
+        <item>Welcome to the British Virgin Islands</item>
+        <item>Welcome to the U.S. Virgin Islands</item>
+        <item>Welcome to Vietnam</item>
+        <item>Welcome to Vanuatu</item>
+        <item>Welcome to Wallis and Futuna</item>
+        <item>Welcome to Samoa</item>
+        <item>Welcome to Kosovo</item>
+        <item>Welcome to Yemen</item>
+        <item>Welcome to Mayotte</item>
+        <item>Welcome to South Africa</item>
+        <item>Welcome to Zambia</item>
+        <item>Welcome to Zimbabwe</item>
+    </string-array>
+    <string-array name="roaming_notification_title_no_service">
+        <item>No service in Andorra</item>
+        <item>No service in the United Arab Emirates</item>
+        <item>No service in Afghanistan</item>
+        <item>No service in Antigua and Barbuda</item>
+        <item>No service in Anguilla</item>
+        <item>No service in Albania</item>
+        <item>No service in Armenia</item>
+        <item>No service in Angola</item>
+        <item>No service in Antarctica</item>
+        <item>No service in Argentina</item>
+        <item>No service in American Samoa</item>
+        <item>No service in Austria</item>
+        <item>No service in Australia</item>
+        <item>No service in Aruba</item>
+        <item>No service in the Åland Islands</item>
+        <item>No service in Azerbaijan</item>
+        <item>No service in Bosnia and Herzegovina</item>
+        <item>No service in Barbados</item>
+        <item>No service in Bangladesh</item>
+        <item>No service in Belgium</item>
+        <item>No service in Burkina Faso</item>
+        <item>No service in Bulgaria</item>
+        <item>No service in Bahrain</item>
+        <item>No service in Burundi</item>
+        <item>No service in Benin</item>
+        <item>No service in Saint Barthélemy</item>
+        <item>No service in Bermuda</item>
+        <item>No service in Brunei</item>
+        <item>No service in Bolivia</item>
+        <item>No service in the Caribbean Netherlands</item>
+        <item>No service in Brazil</item>
+        <item>No service in the Bahamas</item>
+        <item>No service in Bhutan</item>
+        <item>No service in Bouvet Island</item>
+        <item>No service in Botswana</item>
+        <item>No service in Belarus</item>
+        <item>No service in Belize</item>
+        <item>No service in Canada</item>
+        <item>No service in Cocos Islands</item>
+        <item>No service in the Democratic Republic of Congo</item>
+        <item>No service in the Central African Republic</item>
+        <item>No service in the Republic of the Congo</item>
+        <item>No service in Switzerland</item>
+        <item>"No service in Côte d'Ivoire"</item>
+        <item>No service in the Cook Islands</item>
+        <item>No service in Chile</item>
+        <item>No service in Cameroon</item>
+        <item>No service in China</item>
+        <item>No service in Colombia</item>
+        <item>No service in Costa Rica</item>
+        <item>No service in Cuba</item>
+        <item>No service in Cape Verde</item>
+        <item>No service in Curaçao</item>
+        <item>No service in Christmas Island</item>
+        <item>No service in Cyprus</item>
+        <item>No service in Czechia</item>
+        <item>No service in Germany</item>
+        <item>No service in Diego Garcia</item>
+        <item>No service in Djibouti</item>
+        <item>No service in Denmark</item>
+        <item>No service in Dominica</item>
+        <item>No service in the Dominican Republic</item>
+        <item>No service in Algeria</item>
+        <item>No service in Ceuta and Melilla</item>
+        <item>No service in Ecuador</item>
+        <item>No service in Estonia</item>
+        <item>No service in Egypt</item>
+        <item>No service in the Western Sahara</item>
+        <item>No service in Eritrea</item>
+        <item>No service in Spain</item>
+        <item>No service in Ethiopia</item>
+        <item>No service in Finland</item>
+        <item>No service in Fiji</item>
+        <item>No service in the Falkland Islands</item>
+        <item>No service in Micronesia</item>
+        <item>No service in the Faroe Islands</item>
+        <item>No service in France</item>
+        <item>No service in Gabon</item>
+        <item>No service in the United Kingdom</item>
+        <item>No service in Grenada</item>
+        <item>No service in Georgia</item>
+        <item>No service in French Guiana</item>
+        <item>No service in Guernsey</item>
+        <item>No service in Ghana</item>
+        <item>No service in Gibraltar</item>
+        <item>No service in Greenland</item>
+        <item>No service in Gambia</item>
+        <item>No service in Guinea</item>
+        <item>No service in Guadeloupe</item>
+        <item>No service in Equatorial Guinea</item>
+        <item>No service in Greece</item>
+        <item>No service in South Georgia and the South Sandwich Islands</item>
+        <item>No service in Guatemala</item>
+        <item>No service in Guam</item>
+        <item>No service in Guinea-Bissau</item>
+        <item>No service in Guyana</item>
+        <item>No service in Hong Kong</item>
+        <item>No service in Heard Island and McDonald Islands</item>
+        <item>No service in Honduras</item>
+        <item>No service in Croatia</item>
+        <item>No service in Haiti</item>
+        <item>No service in Hungary</item>
+        <item>No service in the Canary Islands</item>
+        <item>No service in Indonesia</item>
+        <item>No service in Ireland</item>
+        <item>No service in Israel</item>
+        <item>No service in the Isle of Man</item>
+        <item>No service in India</item>
+        <item>No service in the British Indian Ocean Territory</item>
+        <item>No service in Iraq</item>
+        <item>No service in Iran</item>
+        <item>No service in Iceland</item>
+        <item>No service in Italy</item>
+        <item>No service in Jersey</item>
+        <item>No service in Jamaica</item>
+        <item>No service in Jordan</item>
+        <item>No service in Japan</item>
+        <item>No service in Kenya</item>
+        <item>No service in Kyrgyzstan</item>
+        <item>No service in Cambodia</item>
+        <item>No service in Kiribati</item>
+        <item>No service in the Comoros</item>
+        <item>No service in Saint Kitts and Nevis</item>
+        <item>No service in North Korea</item>
+        <item>No service in South Korea</item>
+        <item>No service in Kuwait</item>
+        <item>No service in the Cayman Islands</item>
+        <item>No service in Kazakhstan</item>
+        <item>No service in Laos</item>
+        <item>No service in Lebanon</item>
+        <item>No service in Saint Lucia</item>
+        <item>No service in Liechtenstein</item>
+        <item>No service in Sri Lanka</item>
+        <item>No service in Liberia</item>
+        <item>No service in Lesotho</item>
+        <item>No service in Lithuania</item>
+        <item>No service in Luxembourg</item>
+        <item>No service in Latvia</item>
+        <item>No service in Libya</item>
+        <item>No service in Morocco</item>
+        <item>No service in Monaco</item>
+        <item>No service in Moldova</item>
+        <item>No service in Montenegro</item>
+        <item>No service in Saint Martin</item>
+        <item>No service in Madagascar</item>
+        <item>No service in the Marshall Islands</item>
+        <item>No service in Macedonia</item>
+        <item>No service in Mali</item>
+        <item>No service in Myanmar</item>
+        <item>No service in Mongolia</item>
+        <item>No service in Macau</item>
+        <item>No service in the Northern Mariana Islands</item>
+        <item>No service in Martinique</item>
+        <item>No service in Mauritania</item>
+        <item>No service in Montserrat</item>
+        <item>No service in Malta</item>
+        <item>No service in Mauritius</item>
+        <item>No service in the Maldives</item>
+        <item>No service in Malawi</item>
+        <item>No service in Mexico</item>
+        <item>No service in Malaysia</item>
+        <item>No service in Mozambique</item>
+        <item>No service in Namibia</item>
+        <item>No service in New Caledonia</item>
+        <item>No service in Niger</item>
+        <item>No service in Norfolk Island</item>
+        <item>No service in Nigeria</item>
+        <item>No service in Nicaragua</item>
+        <item>No service in the Netherlands</item>
+        <item>No service in Norway</item>
+        <item>No service in Nepal</item>
+        <item>No service in Nauru</item>
+        <item>No service in Niue</item>
+        <item>No service in New Zealand</item>
+        <item>No service in Oman</item>
+        <item>No service in Panama</item>
+        <item>No service in Peru</item>
+        <item>No service in French Polynesia</item>
+        <item>No service in Papua New Guinea</item>
+        <item>No service in the Philippines</item>
+        <item>No service in Pakistan</item>
+        <item>No service in Poland</item>
+        <item>No service in Saint Pierre and Miquelon</item>
+        <item>No service in the Pitcairn Islands</item>
+        <item>No service in Puerto Rico</item>
+        <item>No service in Palestine</item>
+        <item>No service in Portugal</item>
+        <item>No service in Palau</item>
+        <item>No service in Paraguay</item>
+        <item>No service in Qatar</item>
+        <item>No service in Réunion</item>
+        <item>No service in Romania</item>
+        <item>No service in Serbia</item>
+        <item>No service in Russia</item>
+        <item>No service in Rwanda</item>
+        <item>No service in Saudi Arabia</item>
+        <item>No service in the Solomon Islands</item>
+        <item>No service in the Seychelles</item>
+        <item>No service in Sudan</item>
+        <item>No service in Sweden</item>
+        <item>No service in Singapore</item>
+        <item>No service in Saint Helena</item>
+        <item>No service in Slovenia</item>
+        <item>No service in Svalbard and Jan Mayen</item>
+        <item>No service in Slovakia</item>
+        <item>No service in Sierra Leone</item>
+        <item>No service in San Marino</item>
+        <item>No service in Senegal</item>
+        <item>No service in Somalia</item>
+        <item>No service in Suriname</item>
+        <item>No service in South Sudan</item>
+        <item>No service in São Tomé and Príncipe</item>
+        <item>No service in El Salvador</item>
+        <item>No service in Sint Maarten</item>
+        <item>No service in Syria</item>
+        <item>No service in Swaziland</item>
+        <item>No service in the Turks and Caicos Islands</item>
+        <item>No service in Chad</item>
+        <item>No service in the French Southern and Antarctic Lands</item>
+        <item>No service in Togo</item>
+        <item>No service in Thailand</item>
+        <item>No service in Tajikistan</item>
+        <item>No service in Tokelau</item>
+        <item>No service in Timor-Leste</item>
+        <item>No service in Turkmenistan</item>
+        <item>No service in Tunisia</item>
+        <item>No service in Tonga</item>
+        <item>No service in Turkey</item>
+        <item>No service in Trinidad and Tobago</item>
+        <item>No service in Tuvalu</item>
+        <item>No service in Taiwan</item>
+        <item>No service in Tanzania</item>
+        <item>No service in Ukraine</item>
+        <item>No service in Uganda</item>
+        <item>No service in the U.S. Outlying Islands</item>
+        <item>No service in the United States</item>
+        <item>No service in Uruguay</item>
+        <item>No service in Uzbekistan</item>
+        <item>No service in Vatican City</item>
+        <item>No service in St. Vincent &amp; Grenadines</item>
+        <item>No service in Venezuela</item>
+        <item>No service in the British Virgin Islands</item>
+        <item>No service in the U.S. Virgin Islands</item>
+        <item>No service in Vietnam</item>
+        <item>No service in Vanuatu</item>
+        <item>No service in Wallis and Futuna</item>
+        <item>No service in Samoa</item>
+        <item>No service in Kosovo</item>
+        <item>No service in Yemen</item>
+        <item>No service in Mayotte</item>
+        <item>No service in South Africa</item>
+        <item>No service in Zambia</item>
+        <item>No service in Zimbabwe</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
+</resources>

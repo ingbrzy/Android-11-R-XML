@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bt_notification_new_messages">
+        <item quantity="other">%s नए मैसेज</item>
+        <item quantity="one">%s नए मैसेज</item>
+    </plurals>
+    <plurals name="cancel_failed">
+        <item quantity="other">शेड्यूल किए गए कुछ मैसेज भेजने से नहीं रोके जा सके</item>
+        <item quantity="one">शेड्यूल किए गए कुछ मैसेज भेजने से नहीं रोके जा सके</item>
+    </plurals>
+    <plurals name="canceled">
+        <item quantity="other">"शेड्यूल किए गए मैसेज अब नहीं भेजे जाएंगे. उन्हें वापस 'ड्राफ़्ट' में भेज दिया गया है"</item>
+        <item quantity="one">"शेड्यूल किए गए मैसेज अब नहीं भेजे जाएंगे. उन्हें वापस 'ड्राफ़्ट' में भेज दिया गया है"</item>
+    </plurals>
+    <plurals name="canceled_scheduled_sends_from_thread_list_confirmation">
+        <item quantity="other">%1$d शेड्यूल किए गए मैसेज को अब नहीं भेजा जाएगा. मैसेज ड्राफ़्ट में आ गए हैं</item>
+        <item quantity="one">%1$d शेड्यूल किए गए मैसेज को अब नहीं भेजा जाएगा. मैसेज ड्राफ़्ट में आ गए हैं</item>
+    </plurals>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s प्राप्तकर्ता</item>
+        <item quantity="one">%s प्राप्तकर्ता</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 प्राप्तकर्ता किसी ऐसी सेवाओं का उपयोग करते हैं जिनपर एन्क्रिप्शन की सुविधा नहीं है. एन्क्रिप्शन के बिना, अन्य लोग वितरण के दौरान आपका संदेश देख सकते हैं. ^2</item>
+        <item quantity="one">^1 प्राप्तकर्ता किसी ऐसी सेवाओं का उपयोग करते हैं जिनपर एन्क्रिप्शन की सुविधा नहीं है. एन्क्रिप्शन के बिना, अन्य लोग वितरण के दौरान आपका संदेश देख सकते हैं. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">जब यह मैसेज भेजा गया था तब ^1 और दूसरे डोमेन पर सुरक्षित करने का तरीका काम नहीं करता था.</item>
+        <item quantity="one">जब यह मैसेज भेजा गया था तब ^1 और दूसरे डोमेन पर सुरक्षित करने का तरीका काम नहीं करता था.</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ये %1$d बातचीत संग्रहित करें?</item>
+        <item quantity="one">%1$d बातचीत संग्रहित करें?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ये %1$d बातचीत मिटाएं?</item>
+        <item quantity="one">%1$d बातचीत मिटाएं?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">इन %1$d बातचीत से ड्राफ़्ट मैसेज मिटाना चाहते हैं?</item>
+        <item quantity="one">इन %1$d बातचीत से ड्राफ़्ट मैसेज मिटाना चाहते हैं?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को संग्रहित कि‍या गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को संग्रहित कि‍या गया</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को हटा दिया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को हटा दिया गया</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">बदले गए लेबल.</item>
+        <item quantity="one">बदले गए लेबल.</item>
+    </plurals>
+    <plurals name="conversation_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को ज़रूरी के तौर पर मार्क किया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को ज़रूरी के तौर पर मार्क किया गया</item>
+    </plurals>
+    <plurals name="conversation_invisible_trashed_messages">
+        <item quantity="other">इस बातचीत से %1$d मैसेज मिटाए गए</item>
+        <item quantity="one">इस बातचीत से %1$d मैसेज मिटाया गया</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">%1$d[=1]&lt;b>&lt;/b> को इनबॉक्स में ले जाया गया</item>
+        <item quantity="one">%1$d[=1]&lt;b>&lt;/b> को इनबॉक्स में ले जाया गया</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को म्यूट किया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को म्यूट किया गया</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> पर ज़रूरी नहीं की छाप लगाई गई</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> पर ज़रूरी नहीं की छाप लगाई गई</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को स्पैम नहीं होने के लिए रिपोर्ट किया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को स्पैम नहीं होने के लिए रिपोर्ट किया गया</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">"&lt;b>%1$d&lt;/b> पर 'पढ़े गए' का निशान लगाया गया"</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b> पर 'पढ़ा गया' का निशान लगाया गया"</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को %2$s तक स्नूज़ किया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को %2$s तक स्नूज़ किया गया</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को स्पैम के रूप में रिपोर्ट किया गया</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को स्पैम के रूप में रिपोर्ट किया गया</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d ने स्पैम के रूप में रिपोर्ट किया और सदस्यता छोड़ी</item>
+        <item quantity="one">%1$d ने स्पैम के रूप में रिपोर्ट किया और सदस्यता छोड़ी</item>
+    </plurals>
+    <plurals name="conversation_starred">
+        <item quantity="other">%1$d बातचीतों को तारांकित किया जा रहा है</item>
+        <item quantity="one">%1$d बातचीत को तारांकित किया जा रहा है</item>
+    </plurals>
+    <plurals name="conversation_unread">
+        <item quantity="other">"&lt;b>%1$d&lt;/b> पर 'नहीं पढ़े गए' का निशान लगाया गया"</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b> पर 'नहीं पढ़ा गया' का निशान लगाया गया"</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> को अनस्नूज़ करें</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> को अनस्नूज़ करें</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d बातचीतों को अतारांकित किया जा रहा है</item>
+        <item quantity="one">%1$d बातचीतों को अतारांकित किया जा रहा है</item>
+    </plurals>
+    <plurals name="conversation_unsubscribed">
+        <item quantity="other">%1$d ने सदस्यता छोड़ दी है</item>
+        <item quantity="one">%1$d ने सदस्यता छोड़ दी है</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">प्रत्येक %d दिनों में</item>
+        <item quantity="one">प्रत्येक %d दिनों में</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">इन संदेशों को स्पैम के रूप में चिह्नित किया जाएगा. क्या आप इन &lt;b>%2$d प्रेषकों&lt;/b> से इस तरह के संदेश पाना बंद करना भी चाहेंगे?%1$s</item>
+        <item quantity="one">इन संदेशों को स्पैम के रूप में चिह्नित किया जाएगा. क्या आप इन &lt;b>%2$d प्रेषकों&lt;/b> से इस तरह के संदेश पाना बंद करना भी चाहेंगे?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ड्राफ़्ट</item>
+        <item quantity="one">ड्राफ़्ट</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s बातचीत हमेशा के लिए मिटा दी जाएंगी</item>
+        <item quantity="one">%1$s बातचीत हमेशा के लिए मिटा दी जाएंगी</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d बार</item>
+        <item quantity="one">; %d बार</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">हो सकता है कि आपके प्राप्तकर्ताओं के पास आपके डिस्क से सम्मिलित की गई फ़ाइलों की ऐक्सेस न हो. आपको Google डिस्क में से फ़ाइलों को शेयर करने की आवश्यकता हो सकती है.</item>
+        <item quantity="one">हो सकता है कि आपके प्राप्तकर्ताओं के पास आपके डिस्क से सम्मिलित की गई फ़ाइलों की ऐक्सेस न हो. आपको Google डिस्क में से फ़ाइलों को शेयर करने की आवश्यकता हो सकती है.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">ध्यान दें: हो सकता है कि कुछ प्राप्तकर्ताओं के पास अब भी इन फ़ाइलों की ऐक्सेस न हो. आपको इन फ़ाइलों को Google डिस्क में से शेयर करने की आवश्यकता हो सकती है.</item>
+        <item quantity="one">ध्यान दें: हो सकता है कि कुछ प्राप्तकर्ताओं के पास अब भी इन फ़ाइलों की ऐक्सेस न हो. आपको इन फ़ाइलों को Google डिस्क में से शेयर करने की आवश्यकता हो सकती है.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"आप इन लोगों से फ़ाइल शेयर कर रहे हैं:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ये लोग उस G Suite संगठन का हिस्सा नहीं हैं जिसकी ये फ़ाइलें हैं."</item>
+        <item quantity="one">"आप इन लोगों से फ़ाइल शेयर कर रहे हैं:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ये लोग उस G Suite संगठन का हिस्सा नहीं हैं जिसकी ये फ़ाइलें हैं."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1पाने वाले ऐसी सेवाओं का इस्तेमाल करते हैं, जिनमें एन्क्रिप्शन करने का तरीका मौजूद नहीं है. एन्क्रिप्शन के बिना, आपका मैसेज डिलीवरी के दौरान पढ़ा जा सकता है. ^2</item>
+        <item quantity="one">^1पाने वाले ऐसी सेवा का इस्तेमाल करते है, जिनमें एन्क्रिप्शन करने का तरीका मौजूद नहीं है. एन्क्रिप्शन के बिना, आपका मैसेज डिलीवरी के दौरान पढ़ा जा सकता है. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">प्रत्येक %1$d माह में</item>
+        <item quantity="one">प्रत्येक %1$d माह में</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d नए मैसेज</item>
+        <item quantity="one">%1$d नए मैसेज</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d नए मैसेज</item>
+        <item quantity="one">%1$d नए मैसेज</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d अटैचमेंट</item>
+        <item quantity="one">%1$d अटैचमेंट</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d मैसेज</item>
+        <item quantity="one">%1$d मैसेज</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">कैलेंडर शेयर नहीं किए गए हैं</item>
+        <item quantity="one">कैलेंडर शेयर नहीं किया गया है</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d नई सूचनाएं</item>
+        <item quantity="one">%1$d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d पुराने संदेशों का विस्तार करें</item>
+        <item quantity="one">%1$d पुराने संदेशों का विस्तार करें</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">%d दिन पहले स्नूज़ किया गया था</item>
+        <item quantity="one">%d दिन पहले स्नूज़ किया गया था</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">%d घंटे पहले स्नूज़ किया गया था</item>
+        <item quantity="one">%d घंटा पहले स्नूज़ किया गया था</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">%d महीने पहले स्नूज़ किया गया था</item>
+        <item quantity="one">%d महीना पहले स्नूज़ किया गया था</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">%d हफ़्ते पहले स्नूज़ किया गया था</item>
+        <item quantity="one">%d हफ़्ता पहले स्नूज़ किया गया था</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">%d साल पहले स्नूज़ किया गया था</item>
+        <item quantity="one">%d साल पहले स्नूज़ किया गया था</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d पुराने संदेशों का विस्तार किया गया</item>
+        <item quantity="one">%1$d पुराने संदेशों का विस्तार किया गया</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">कनेक्ट होने पर पिछले %1$d दिनों के संदेश डाउनलोड हो जाएंगे</item>
+        <item quantity="one">कनेक्ट होने पर पिछले %1$d दिनों के संदेश डाउनलोड हो जाएंगे</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">पिछले %1$d दिन</item>
+        <item quantity="one">पिछले %1$d दिन</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">नियत तारीख - %1$s - %2$d काम</item>
+        <item quantity="one">नियत तारीख - %1$s - %2$d टास्क</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">दिन</item>
+        <item quantity="one">दिन</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">हर %1$d हफ़्ते में %2$s को</item>
+        <item quantity="one">हर %1$d हफ़्ते में %2$s को</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">प्रत्येक %1$d वर्ष में</item>
+        <item quantity="one">प्रत्येक %1$d वर्ष में</item>
+    </plurals>
+</resources>

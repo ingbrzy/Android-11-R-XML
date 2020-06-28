@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_capital_off">사용 중지</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="accessibility_no_wifi">Wi-Fi 연결이 끊어졌습니다.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 신호 막대가 한 개입니다.</string>
+    <string name="accessibility_wifi_security_type_none">개방형 네트워크</string>
+    <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi 신호가 강합니다.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 신호 막대가 세 개입니다.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 신호 막대가 두 개입니다.</string>
+    <string name="account_exists_info">"이메일, 연락처, 캘린더 일정 등이 이 {DEVICE_TYPE,select, PHONE{휴대전화에}TABLET{태블릿에}other{기기에}} 동기화됩니다. 또한 Google Play에서 앱, 음악 및 게임을 다운로드할 수 있습니다.
+
+나중에 설정 > 계정으로 이동하여 계정을 추가 또는 삭제할 수 있습니다."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation>님이 추가되었습니다.</string>
+    <string name="account_exists_text_unknown_name">계정이 준비되었습니다.</string>
+    <string name="account_exists_title">{accounts,plural, =1{추가된 계정}other{추가된 계정}}</string>
+    <string name="activating_carrier_service_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="activating_unknown_carrier_service_title">활성화 중...</string>
+    <string name="activation_failed_message">"다음 방법을 시도해 보세요.
+"<ul><li>모바일 데이터에 다시 연결해 봅니다.</li>"
+"<li>다른 네트워크를 사용하여 설정합니다.</li></ul>"
+
+그래도 문제가 해결되지 않으면 {DEVICE_TYPE,select, PHONE{스마트폰을}TABLET{태블릿을}other{기기를}} 다시 시작한 후 다시 시도해 보세요."</string>
+    <string name="activation_failed_title">모바일 데이터에 연결할 수 없음</string>
+    <string name="activation_progress_flow">"시간이 너무 오래 걸리나요?
+
+모바일 데이터에 연결하는 데 다소 시간이 걸리고 있습니다. 뒤로 돌아가서 다른 네트워크에 대신 연결해 볼 수도 있습니다."</string>
+    <string name="activation_title">모바일 서비스 연결 중...</string>
+    <string name="activation_unprovisioned_sim_message">사용자의 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 다시 시작한 후 다시 시도하거나 Wi‑Fi에 연결하여 설정해 보세요. 모바일 데이터를 활성화하는 데 문제가 계속 발생하는 경우 이동통신사에 문의하세요.</string>
+    <string name="activation_unprovisioned_title">모바일 데이터를 활성화할 수 없음</string>
+    <string name="android_privacy_policy_title">추가 개인정보처리방침</string>
+    <string name="available_via_carrier">%1$s을(를) 통해 사용 가능</string>
+    <string name="cancel_button_label">취소</string>
+    <string name="captive_portal_connection_unsuccessful">인터넷에 연결하지 못했습니다.</string>
+    <string name="captive_portal_description_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="captive_portal_ssl_error_text">이 연결에서 안전하지 않거나 잘못된 인증서를 사용 중입니다. 다른 네트워크를 선택하고 다시 시도해 주세요.</string>
+    <string name="captive_portal_title">연결 중...</string>
+    <string name="chrome_privacy_title">Chrome 개인정보처리방침</string>
+    <string name="chrome_tos_title">Chrome 서비스 약관</string>
+    <string name="close_button_label">닫기</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 서비스 사용 가능 여부</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="connect_to_wifi_btn_text">Wi-Fi 설정</string>
+    <string name="connect_to_wifi_message">계속하려면 Wi-Fi에 연결하세요.</string>
+    <string name="connect_to_wifi_title">앱 업데이트가 준비됨</string>
+    <string name="connected_via_app">%1$s을(를) 통해 연결됨</string>
+    <string name="connected_via_carrier">%1$s을(를) 통해 연결됨</string>
+    <string name="connected_via_network_scorer_default">네트워크 평가 제공업체를 통해 자동으로 연결됨</string>
+    <string name="consolidate_captive_portal_description_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="consolidate_captive_portal_title">업데이트 확인 중…</string>
+    <string name="continue_for_a11y">접근성 모드를 사용하도록 설정하려면 삐 소리가 날 때까지 화면을 길게 터치하세요.</string>
+    <string name="date_time_current_date">날짜</string>
+    <string name="date_time_current_time">시간</string>
+    <string name="date_time_message">필요한 경우 조정합니다.</string>
+    <string name="date_time_setup_title">날짜 및 시간</string>
+    <string name="date_time_time_zone_full">%1$s(%2$s)</string>
+    <string name="decision_point_continue_setup">계속</string>
+    <string name="decision_point_google_assistant">Google 어시스턴트</string>
+    <string name="decision_point_illustration_description">추가 맞춤설정 단계로는 Google 어시스턴트, Google Pay, Now Playing, 글꼴 크기, 배경화면 등이 있습니다.</string>
+    <string name="decision_point_leave_setup">종료 및 알림 받기</string>
+    <string name="decision_point_now_playing">Now Playing</string>
+    <string name="default_device_name_device">기기</string>
+    <string name="default_device_name_phone">휴대전화</string>
+    <string name="default_device_name_tablet">태블릿</string>
+    <string name="deferred_notification_prompt_title">^1 설정 완료하기</string>
+    <string name="deferred_setup_button_label">설정 완료하기</string>
+    <string name="deferred_setup_wizard_reason_assistant">어시스턴트와 대화하기</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">Google 어시스턴트와 대화</string>
+    <string name="deferred_setup_wizard_reason_default">몇 단계밖에 남지 않았습니다.</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">데이터 복사</string>
+    <string name="deferred_setup_wizard_reason_google_pay">Google Pay 사용</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">Google Pay로 빠르게 결제</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 등</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 등</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">몇 가지 간단한 단계만 따르면 ^1 설정이 완료됩니다.</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">배경화면 설정</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">배경화면 설정</string>
+    <string name="deferred_setup_wizard_title">기기 설정 완료하기</string>
+    <string name="deferred_snooze_dialog_option_never">다시 알리지 않음</string>
+    <string name="deferred_snooze_dialog_option_today">오늘 중</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">내일</string>
+    <string name="deferred_snooze_dialog_title">나중에 알림</string>
+    <string name="deferred_welcome_airplane_mode_message">"마지막 설정 단계 몇 가지를 완료하려면 인터넷에 연결해야 합니다.
+
+비행기 모드를 사용 중일 때는 Wi‑Fi, 모바일 네트워크, 블루투스 연결이 해제됩니다."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">나중에 설정</string>
+    <string name="deferred_welcome_airplane_mode_title">비행기 모드를 사용 중지하시겠습니까?</string>
+    <string name="deferred_welcome_screen_cancel_button">나중에 알림</string>
+    <string name="deferred_welcome_title">^1 설정 완료</string>
+    <string name="deferred_welcome_turn_off_button_label">사용 중지</string>
+    <string name="device_owner_continue">설정 계속하기</string>
+    <string name="device_owner_reset">{DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}} 초기화</string>
+    <string name="device_owner_warning">{0}에서 내 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 관리하고 있으며 사용자의 정보에 액세스할 수 있습니다. {0}의 액세스를 원치 않는 경우 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 초기화하세요.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{스마트폰,}TABLET{태블릿,}other{기기가}} 모니터링될 수 있음</string>
+    <string name="dialog_back_button_label">뒤로</string>
+    <string name="dialog_continue_button_label">계속</string>
+    <string name="early_update_installing_updates_text">업데이트 설치 중</string>
+    <string name="early_update_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="early_update_timeout_text">너무 오래 걸린다면 뒤로 이동하여 다른 네트워크에 연결해 보세요.</string>
+    <string name="early_update_title">업데이트 확인 중...</string>
+    <string name="emergency_dial">비상 전화</string>
+    <string name="enabled_a11y">접근성 모드를 사용 설정했습니다.</string>
+    <string name="esim_option_button_summary">eSIM을 사용하여 번호 추가</string>
+    <string name="esim_option_button_title">대신 SIM을 다운로드하시겠습니까?</string>
+    <string name="esim_warning_title">SIM 다운로드</string>
+    <string name="esim_warning_txt">%1$s 가입자인 경우 SIM 카드를 삽입하는 대신 eSIM을 다운로드하여 통화, SMS, 데이터를 이용할 수 있습니다.</string>
+    <string name="esim_warning_txt_default">SIM 카드에 일반적으로 저장되어 있는 정보를 다운로드하여 모바일 네트워크에 연결하세요. 일반 SIM 카드 대신 사용할 수 있으며, SIM 카드만큼 안전합니다.</string>
+    <string name="exit_loading_launcher">런처 로드 중...</string>
+    <string name="factory_reset_button">지우기 및 초기화</string>
+    <string name="factory_reset_confirmation">이 {DEVICE_TYPE,select, PHONE{휴대전화에}TABLET{태블릿에}other{기기에}} 있는 모든 계정과 데이터를 삭제하시겠습니까? 이 작업은 실행취소할 수 없습니다.</string>
+    <string name="factory_reset_confirmation_title">초기화하시겠습니까?</string>
+    <string name="factory_reset_instructions">경고: 초기화하면 이 {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}의 내부 저장소에 있는 계정과 데이터가 모두 삭제됩니다.</string>
+    <string name="factory_reset_title">다음을 초기화: {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}</string>
+    <string name="final_hold_description_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="final_hold_title">마무리하는 중...</string>
+    <string name="final_hold_title_setup_work_account">업무용 휴대전화 설정 준비 중...</string>
+    <string name="gms_account_checkin_title">계정 정보 받아오는 중...</string>
+    <string name="gms_checkin_description_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="gms_checkin_description_text_timeout">너무 오래 걸리는 경우 뒤로 이동하여 다른 네트워크에 연결해 보세요.</string>
+    <string name="gms_checkin_title">업데이트 확인 중...</string>
+    <string name="go_back_button_label">뒤로 이동</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Play 서비스 약관</string>
+    <string name="google_plus_privacy_policy_title">Google Plus 개인정보처리방침</string>
+    <string name="google_privacy_policy_title">Google 개인정보처리방침</string>
+    <string name="google_provisioning_disclaimer_content">Google 서비스 약관 및 개인정보처리방침이 적용됩니다. 자세한 내용은 &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a> 페이지를 참조하세요.</string>
+    <string name="google_terms_of_service_title">Google 이용약관</string>
+    <string name="invalid_phone_number">알 수 없는 전화번호</string>
+    <string name="invalid_qr_code_content">IT 관리자에게 올바른 코드를 요청하세요.</string>
+    <string name="invalid_qr_code_retry">다시 시도</string>
+    <string name="invalid_qr_code_title">잘못된 QR 코드</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, iTunes는 미국과 기타 국가에 등록된 Apple Inc.의 상표입니다.</string>
+    <string name="language_picker_section_all">모든 언어</string>
+    <string name="language_picker_section_suggested">추천</string>
+    <string name="migrate_from_ios_description">다음 단계를 따라주세요.</string>
+    <string name="migrate_from_ios_header">데이터 복사</string>
+    <string name="migrate_from_ios_instructions_1">1. Safari®를 엽니다.</string>
+    <string name="migrate_from_ios_instructions_2">2. <b>android.com/switch</b>로 이동합니다.</string>
+    <string name="migrate_from_ios_instructions_3">3. 표시되는 안내를 따릅니다.</string>
+    <string name="network_description_text">네트워크 선택</string>
+    <string name="network_description_text_esim">SIM을 다운로드하려면 Wi‑Fi에 연결하세요.</string>
+    <string name="network_see_all_wifi">모든 Wi‑Fi 네트워크 표시</string>
+    <string name="network_timeout_description_text">다른 네트워크를 사용하여 다시 시도해 보세요. 인터넷에 연결하지 않고 계속하면 일부 설정 단계를 나중에 완료할 수 있습니다.</string>
+    <string name="network_timeout_title">연결할 수 없음</string>
+    <string name="network_timeout_try_another_network_button">다른 네트워크로 다시 시도</string>
+    <string name="network_title">Wi-Fi에 연결</string>
+    <string name="network_use_cellular">모바일 네트워크를 사용하여 설정</string>
+    <string name="network_use_cellular_carrier">나중에 Wi‑Fi에 연결</string>
+    <string name="network_wifi_continue_button">계속</string>
+    <string name="not_set">설정되지 않음</string>
+    <string name="notification_channel_name_deferred">추가 설정</string>
+    <string name="notification_channel_name_initial">설정</string>
+    <string name="notification_channel_name_restore">데이터 복원</string>
+    <string name="notification_channel_security_name_warnings">보안 경고</string>
+    <string name="ok_button_label">확인</string>
+    <string name="ota_agreement_text">계속하여 이 소프트웨어 업데이트를 받으면 <annotation link="tos">Google 서비스 약관</annotation> 및 <annotation link="google_privacy">개인정보처리방침</annotation>에 동의하게 됩니다.</string>
+    <string name="ota_info">내 {DEVICE_TYPE,select, PHONE{휴대전화에서}TABLET{태블릿에서}other{기기에서}} 업데이트를 다운로드하고 다시 시작해야 합니다.</string>
+    <string name="ota_size">크기: %s</string>
+    <string name="ota_update_title">다음에 관한 업데이트 사용 가능: {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}</string>
+    <string name="predeferred_prepare_setup">설정 준비 중…</string>
+    <string name="predeferred_prepare_setup_details">곧 ^1 설정을 완료할 수 있습니다.</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Wi-Fi에 연결</string>
+    <string name="predeferred_wifi_required_notification_content">계속하려면 Wi-Fi에 연결하세요.</string>
+    <string name="predeferred_wifi_required_notification_title">앱 업데이트 준비 완료</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="qr_code_scan_title">QR 코드 스캐닝</string>
+    <string name="region_picker_section_all">모든 지역</string>
+    <string name="restart_setup_wizard_button_label">다음을 설정: {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}</string>
+    <string name="restart_setup_wizard_dialog_text">"이 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 사용하려면 먼저 이 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 마지막으로 초기화했을 때 사용 중이었던 소유자의 Google 계정에 로그인해야 합니다.
+
+그렇지 않았으므로 {DEVICE_TYPE,select, PHONE{휴대전화를}TABLET{태블릿을}other{기기를}} 다시 설정해야 합니다."</string>
+    <string name="restart_setup_wizard_dialog_title">로그인되지 않음</string>
+    <string name="restore_failed_message">백업을 복원할 수 없습니다.</string>
+    <string name="restore_no_backup_message">다른 기기에 사용 가능한 백업이 없습니다.</string>
+    <string name="restore_no_backup_title">복원할 수 없음</string>
+    <string name="restore_stopped_message">백업 복원을 완료할 수 없습니다.</string>
+    <string name="restore_title">복원 중...</string>
+    <string name="setup_ongoing_notification_text">탭하여 ^1 설정을 완료하세요.</string>
+    <string name="setup_ongoing_notification_title">^1 설정 진행 중</string>
+    <string name="setup_wizard_title">Android 설정</string>
+    <string name="sim_locked_text">"이 휴대전화는 현재 다른 이동통신사에서만 사용할 수 있도록 잠겨 있습니다. 올바른 SIM 카드를 사용해야 합니다.
+
+SIM 카드를 삽입하면 활성화되는 데 몇 초가 걸릴 수도 있습니다."</string>
+    <string name="sim_locked_title">SIM 카드 지원 불가</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{SIM 카드가 있는 경우 지금 삽입하세요.}other{SIM 카드가 있는 경우 지금 삽입하세요.}}</string>
+    <string name="sim_missing_title">모바일 네트워크에 연결</string>
+    <string name="sim_ready_message">%1$s번을 사용할 수 있습니다.</string>
+    <string name="sim_ready_message_carrier_app">%1$s번 활성화를 완료하려면 %2$s 앱을 다운로드해야 합니다. 지금은 우선 휴대전화 설정을 완료하세요.</string>
+    <string name="sim_ready_message_invalid_phone_number">이제 번호를 사용할 수 있습니다.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">전화번호 활성화를 완료하려면 %1$s 앱을 다운로드해야 합니다. 지금은 우선 휴대전화 설정을 완료하세요.</string>
+    <string name="sim_ready_title">%1$s이(가) 활성화됨</string>
+    <string name="sim_ready_title_carrier_app">나중에 %1$s에 연결</string>
+    <string name="sim_setup_ask_every_time">항상 확인</string>
+    <string name="sim_setup_select_data">모바일 데이터 환경설정</string>
+    <string name="sim_setup_select_data_description">모바일 데이터에 사용할 번호를 선택하세요.</string>
+    <string name="sim_setup_select_text">SMS 환경설정</string>
+    <string name="sim_setup_select_text_description">발신 문자 메시지에 사용할 번호를 선택하세요(수신 문자 메시지에는 활성화된 모든 번호 사용 가능).</string>
+    <string name="sim_setup_select_voice">통화 환경설정</string>
+    <string name="sim_setup_select_voice_description">발신 전화에 사용할 번호를 선택하세요(수신 전화에는 활성화된 모든 번호 사용 가능).</string>
+    <string name="sim_setup_title">SIM 카드 설정</string>
+    <string name="skip_anyway_button_label">건너뛰기</string>
+    <string name="skip_button_label">건너뛰기</string>
+    <string name="skip_toast">설치 마법사를 건너뛰었습니다.</string>
+    <string name="slots_selection_item_summary_activating">활성화 중…</string>
+    <string name="slots_selection_item_summary_error">지금은 활성화할 수 없습니다.</string>
+    <string name="slots_selection_title">사용할 번호 선택</string>
+    <string name="speed_label_fast">빠름</string>
+    <string name="speed_label_okay">보통</string>
+    <string name="speed_label_slow">느림</string>
+    <string name="speed_label_very_fast">매우 빠름</string>
+    <string name="sud_back_button_label">뒤로</string>
+    <string name="sud_more_button_label">더보기</string>
+    <string name="sud_next_button_label">다음</string>
+    <string name="suggested_actions_description">지금 몇 가지 항목을 추가로 설정하거나 나중에 설정에서 찾아보세요.</string>
+    <string name="suggested_actions_description_single_item">^1에서 설정할 항목이 하나 더 있습니다. 나중에 설정에서 찾아볼 수도 있습니다.</string>
+    <string name="suggested_actions_done_label">닫음</string>
+    <string name="suggested_actions_no_thanks_label">닫기</string>
+    <string name="suggested_actions_title">기타 설정</string>
+    <string name="switch_camera">카메라 전환</string>
+    <string name="switch_to_back_camera_button_content_description">후면 카메라</string>
+    <string name="switch_to_front_camera_button_content_description">전면 카메라</string>
+    <string name="switched_to_back_camera_announcement">현재 버튼: 전면 카메라</string>
+    <string name="switched_to_front_camera_announcement">현재 버튼: 후면 카메라</string>
+    <string name="tap_to_sign_up">탭하여 가입</string>
+    <string name="terminate_toast">"설치 마법사가 종료되었습니다.
+기기가 준비되지 않았습니다."</string>
+    <string name="try_again_button_label">다시 시도</string>
+    <string name="url_load_unsuccessful_message">내 {DEVICE_TYPE,select, PHONE{휴대전화가}TABLET{태블릿이}other{기기가}} 모바일 데이터 서비스에 연결되어 있지 않습니다. 지금 이 정보를 확인하려면 웹브라우저에서 {0} 페이지로 이동하세요.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">내 {DEVICE_TYPE,select, PHONE{휴대전화가}TABLET{태블릿이}other{기기가}} Wi‑Fi 네트워크에 연결되어 있지 않습니다. 지금 이 정보를 보려면 웹브라우저에서 {0} 페이지를 방문하세요.</string>
+    <string name="user_warning_cannot_switch_message">소유자로 다시 전환하지 못했습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="user_warning_label_continue">계속</string>
+    <string name="user_warning_label_quit">취소</string>
+    <string name="user_warning_quit_dialog_button_keep">사용자 유지</string>
+    <string name="user_warning_quit_dialog_button_remove">사용자 삭제</string>
+    <string name="user_warning_quit_dialog_message">사용자를 삭제하시겠습니까?</string>
+    <string name="user_warning_title">신규 사용자 설정</string>
+    <string name="wait_msg">잠시 기다려 주세요...</string>
+    <string name="web_dialog_unable_to_view">지금 이 정보를 보려면 웹브라우저에서 ^1 페이지를 방문하세요.</string>
+    <string name="welcome_accessibility_button">보기 설정</string>
+    <string name="welcome_language_picker_content_description">언어: %s</string>
+    <string name="welcome_language_picker_dialog_title">언어 선택</string>
+    <string name="welcome_message">안녕하세요</string>
+    <string name="welcome_secondary_user_added_text">내가 다음에 추가됨: {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}</string>
+    <string name="welcome_secondary_user_info_text"><b>중요:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}의 소유자가 내 앱을 제거하거나 사용자 프로필을 완전히 삭제할 수 있습니다.</li>"
+
+"<li>다른 모든 사용자가 업데이트된 앱 권한을 수락할 수 있습니다.</li>"
+
+"<li>이 {DEVICE_TYPE,select, PHONE{휴대전화}TABLET{태블릿}other{기기}}(을)를 신뢰할 수 있는 사용자와만 공유하세요.</li></ul></string>
+    <string name="welcome_start_button_label">시작</string>
+    <string name="wifi_add_new_network">새 네트워크 추가</string>
+    <string name="wifi_and_mobile_skipped_message">"Wi‑Fi 또는 모바일 네트워크에 연결하면 {DEVICE_TYPE,select, PHONE{스마트폰을}TABLET{태블릿을}other{기기를}} 신속하게 설정할 수 있습니다.
+
+인터넷에 연결되어 있지 않으면 다음 작업을 할 수 없습니다.
+
+"<ul><li>Google 계정에 로그인</li>"
+
+"<li>앱 및 데이터 복원</li>"
+
+"<li>소프트웨어 업데이트 다운로드</li>"
+
+"<li>시간 및 날짜 자동 설정</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Wi‑Fi 또는 모바일 네트워크에 연결하면 {DEVICE_TYPE,select, PHONE{스마트폰을}TABLET{태블릿을}other{기기를}} 신속하게 설정할 수 있습니다.
+
+인터넷에 연결되어 있지 않으면 다음 작업을 할 수 없습니다.
+
+"<ul><li>Google 계정에 로그인</li>"
+
+"<li>앱 및 데이터 복원</li>"
+
+"<li>SIM 다운로드</li>"
+
+"<li>소프트웨어 업데이트 다운로드</li>"
+
+"<li>시간 및 날짜 자동 설정</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">액세스 포인트가 일시적으로 가득 참</string>
+    <string name="wifi_check_password_try_again">비밀번호를 확인하고 다시 시도하세요.</string>
+    <string name="wifi_connected_no_internet">연결됨, 인터넷 사용 불가</string>
+    <string name="wifi_disabled_by_recommendation_provider">저품질 네트워크로 인해 연결되지 않음</string>
+    <string name="wifi_disabled_generic">사용 중지됨</string>
+    <string name="wifi_disabled_network_failure">IP 설정 실패</string>
+    <string name="wifi_disabled_password_failure">인증 문제</string>
+    <string name="wifi_fail_to_scan">네트워크를 검색할 수 없습니다.</string>
+    <string name="wifi_ip_address_not_available">확인할 수 없음</string>
+    <string name="wifi_ip_address_title">IP 주소</string>
+    <string name="wifi_limited_connection">제한된 연결</string>
+    <string name="wifi_mac_address_not_available">확인할 수 없음</string>
+    <string name="wifi_mac_address_title">MAC 주소</string>
+    <string name="wifi_metered_label">종량제 네트워크</string>
+    <string name="wifi_no_internet">인터넷에 연결되어 있지 않음</string>
+    <string name="wifi_no_internet_no_reconnect">자동으로 연결되지 않습니다.</string>
+    <string name="wifi_not_in_range">범위 내에 없음</string>
+    <string name="wifi_remembered">저장됨</string>
+    <string name="wifi_scanning">Wi-Fi 네트워크를 찾는 중…</string>
+    <string name="wifi_set_up_offline_title">오프라인으로 설정하시겠습니까?</string>
+    <string name="wifi_skip_button_label">오프라인으로 설정</string>
+    <string name="wifi_skipped_message">설정하는 동안 내 {DEVICE_TYPE,select, PHONE{휴대전화에서}TABLET{태블릿에서}other{기기에서}} 모바일 네트워크를 사용하며 데이터 사용 요금이 청구될 수도 있습니다. 청구되지 않도록 하려면 Wi‑Fi에 연결하세요.</string>
+    <string name="wifi_skipped_title">데이터 요금이 청구될 수 있음</string>
+    <string name="wifi_title">Wi-Fi에 연결</string>
+    <string name="wifi_unmetered_label">무제한 네트워크</string>
+    <string name="work_profile_setup_description">기기를 직장용으로 설정하고 개인 데이터와 직장 데이터를 분리합니다.</string>
+    <string name="work_profile_setup_next">다음</string>
+    <string name="work_profile_setup_skip">직장 설정 건너뛰기</string>
+    <string name="work_profile_setup_title">직장 계정 추가</string>
+    <string name="work_setup_interrupted">"{DEVICE_TYPE,select, PHONE{스마트폰}TABLET{태블릿}other{기기}}에서 비정상적인 활동이 감지되었으며, 설정을 계속하면 데이터 보안에 문제가 발생할 수 있습니다.
+
+다시 시작하려면 {DEVICE_TYPE,select, PHONE{스마트폰}TABLET{태블릿}other{기기}}을(를) 초기화하세요."</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{스마트폰}TABLET{태블릿}other{기기}}의 안전에 문제가 있을 수 있습니다</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">No se ha podido completar la configuración porque no se han podido instalar %1$d aplicaciones necesarias. Ponte en contacto con el administrador del sistema.</item>
+        <item quantity="one">No se ha podido completar la configuración porque no se ha podido instalar %1$d aplicación necesaria. Ponte en contacto con el administrador del sistema.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">No se han podido instalar las aplicaciones</item>
+        <item quantity="one">No se ha podido instalar la aplicación</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Se han instalado %1$d de %2$d aplicaciones</item>
+        <item quantity="one">Se ha instalado %1$d de %2$d aplicaciones</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalar aplicaciones</item>
+        <item quantity="one">Desinstalar aplicación</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Quedan &lt;annotation id="numeric_time_left">^1&lt;/annotation> días</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> día</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Quedan &lt;annotation id="numeric_time_left">^1&lt;/annotation> horas</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> hora</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d de %2$d aplicaciones instaladas</item>
+        <item quantity="one">%1$d de %2$d aplicación instalada</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplicaciones disponibles (instaladas: %2$d, inhabilitadas: %3$d)</item>
+        <item quantity="one">%1$d aplicación disponible (instaladas: %2$d, inhabilitadas: %3$d)</item>
+    </plurals>
+</resources>

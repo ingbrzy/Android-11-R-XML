@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeerimine avaekraanile</string>
+    <string name="abc_action_bar_up_description">Navigeerimine üles</string>
+    <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+    <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+    <string name="abc_capital_off">VÄLJAS</string>
+    <string name="abc_capital_on">SEES</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">kustutamisklahv</string>
+    <string name="abc_menu_enter_shortcut_label">sisestusklahv</string>
+    <string name="abc_menu_function_shortcut_label">Funktsiooniklahv +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Tõstuklahv +</string>
+    <string name="abc_menu_space_shortcut_label">tühik</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menüü +</string>
+    <string name="abc_search_hint">Otsige …</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_query">Otsingupäring</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_shareactionprovider_share_with">Jagamine:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
+    <string name="abc_slice_permission_allow">Lubamine</string>
+    <string name="abc_slice_permission_checkbox">Luba rakendus %1$s, et kuvada lõike mis tahes rakendusest</string>
+    <string name="abc_slice_permission_deny">Keelamine</string>
+    <string name="abc_slice_permission_text_1">- See saab lugeda teavet rakendusest %1$s</string>
+    <string name="abc_slice_permission_text_2">- See saab rakenduses %1$s toiminguid teha</string>
+    <string name="abc_slice_permission_title">Kas lubada rakendusel %1$s näidata rakenduse %2$s lõike?</string>
+    <string name="abc_slices_permission_request">Rakendus %1$s soovib näidata rakenduse %2$s lõike</string>
+    <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="all_topics_header_text">Kõik teemad</string>
+    <string name="allset_description">"Olete valmis alustama oma telefoni kasutamist.
+
+Liigutustega navigeerimise saab välja lülitada, et tagasi või avalehele liikumiseks ja rakenduste vahetamiseks kasutada nuppe.
+"<annotation id="link">Ava menüü Seaded</annotation></string>
+    <string name="allset_hint">Alustamiseks pühkige üles</string>
+    <string name="allset_page_title">Valmis</string>
+    <string name="allset_setting_link">Juurdepääsetavuse navigeerimisseaded</string>
+    <string name="allset_title">Valmis!</string>
+    <string name="app_name">Pixeli nõuanded</string>
+    <string name="article_helpful_feedback_toast">Täname tagasiside eest!. See aitab tulevikus nõuandeid luua.</string>
+    <string name="article_helpful_no">Ei</string>
+    <string name="article_helpful_talkback_selected_no">Valitud on nupp Ei</string>
+    <string name="article_helpful_talkback_selected_yes">Valitud on nupp Jah</string>
+    <string name="article_helpful_talkback_unselected_no">Valimata on nupp Ei</string>
+    <string name="article_helpful_talkback_unselected_yes">Valimata on nupp Jah</string>
+    <string name="article_helpful_text">Kas sellest oli abi?</string>
+    <string name="article_helpful_yes">Jah</string>
+    <string name="asset_is_downloading_content_description">Videot/pilti laaditakse alla</string>
+    <string name="common_google_play_services_enable_button">Luba</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play teenuste saadavalolek</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_wear_update_text">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">"Logi sisse Google'i kontoga"</string>
+    <string name="connectivity_summary_assets_download_slowly">Videote ja kujutiste nägemiseks proovige luua ühendus WiFi-võrguga või vahetage võrku</string>
+    <string name="connectivity_summary_assets_not_downloaded">Videote ja kujutiste kuvamiseks on vajalik Interneti-ühendus</string>
+    <string name="module_1_0010_summary">Lülitage rakenduste vahel, muutke kiirelt seadeid, keskenduge paremini ja tehke muud</string>
+    <string name="module_1_0010_tag_text">Alustage</string>
+    <string name="module_1_0010_title">Mudeli [model_name] kasutamise alustamine</string>
+    <string name="module_1_0101_summary">Leidke rakendusi, navigeerige telefonis ja tehke muudki</string>
+    <string name="module_1_0101_tag_text">Alustage</string>
+    <string name="module_1_0101_title">Alustage Pixeli kasutamist</string>
+    <string name="module_1_1000_summary">"Kas kasutasite varem iPhoneⓇ'i? Leidke rakendusi, navigeerige telefonis ja tehke muudki"</string>
+    <string name="module_1_1000_tag_text">Alustage</string>
+    <string name="module_1_1000_title">Alustage Pixeli kasutamist</string>
+    <string name="module_2_1111_summary">Rääkige oma assistendiga, tuvastage muusikat funktsiooniga Hetkel mängimas ja tehke muudki</string>
+    <string name="module_2_1111_tag_text">"Kasutage Google'it tõhusalt"</string>
+    <string name="module_2_1111_title">"Kasutage Google'it parimal moel"</string>
+    <string name="module_3_1111_summary">Jäädvustage kauneid portreesid, pühkige režiimide vahel ja tehke muudki</string>
+    <string name="module_3_1111_tag_text">Nautige kaamerat</string>
+    <string name="module_3_1111_title">Nautige oma kaamerat ja fotosid</string>
+    <string name="module_4_1111_summary">Saatke pilte, tehke videokõnesid ja jagage fotosid</string>
+    <string name="module_4_1111_tag_text">Sõnum. saatmine ja helistamine</string>
+    <string name="module_4_1111_title">Saatke sõnumeid ja helistage</string>
+    <string name="module_5_1111_summary">Avage kiiresti kaamera, kontrollige märguandeid ja tehke muudki</string>
+    <string name="module_5_1111_tag_text">Kasutage liigutusi</string>
+    <string name="module_5_1111_title">Liigutuste kasutamine kiirete otseteede jaoks</string>
+    <string name="module_6_1111_summary">Jälgige kasutusaega, looge ühenduse katkestamiseks ajakava ja tehke muudki</string>
+    <string name="module_6_1111_tag_text">Hallake heaolu</string>
+    <string name="module_6_1111_title">Hallake digitaalset heaolu</string>
+    <string name="module_7_1111_summary">Vaadake korraga kaht rakendust, korraldage rakendusi kaustade abil ja tehke muudki</string>
+    <string name="module_7_1111_tag_text">Saage eksperdiks</string>
+    <string name="module_7_1111_title">Saage Pixeli eksperdiks</string>
+    <string name="module_8_1111_summary">Tehke märkmeid, makske Pixeliga ja hankige värskeimaid uudiseid</string>
+    <string name="module_8_1111_tag_text">Avastage rakendusi</string>
+    <string name="module_8_1111_title">"Avastage tähtsamaid Google'i rakendusi"</string>
+    <string name="next_btn">Järgmine</string>
+    <string name="next_module_link_back_home_page_text">Järgmine: avastage kõik nõuanded</string>
+    <string name="next_module_link_text">Järgmine: %1$s</string>
+    <string name="next_tip_content_description">Järgmine nõuanne</string>
+    <string name="ob_gesture_app_go_back_media_description">Video uue tagasiliikumise liigutuse kohta</string>
+    <string name="ob_gesture_app_go_back_summary">Viimasele ekraanikuvale naasmiseks pühkige vasakust või paremast servast keskele</string>
+    <string name="ob_gesture_app_go_back_title">Mine tagasi</string>
+    <string name="ob_gesture_app_home_media_description">Video uue avalehele liikumise liigutuse kohta</string>
+    <string name="ob_gesture_app_home_summary">"Pühkige oma ekraanikuva allosast üles.
+See liigutus viib teid alati avakuvale."</string>
+    <string name="ob_gesture_app_home_title">Mine avalehele</string>
+    <string name="ob_gesture_app_overview_media_description">Video uue ülevaate liigutuse kohta</string>
+    <string name="ob_gesture_app_overview_summary">Pühkige ekraanikuva allosast üles ja hoidke</string>
+    <string name="ob_gesture_app_overview_title">Rakenduste vahetamine</string>
+    <string name="onboarding_education_page_title">Navigeerimisliigutuste tutvustus</string>
+    <string name="previous_module_link_text">Eelmine: %1$s</string>
+    <string name="previous_tip_content_description">Eelmine nõuanne</string>
+    <string name="search_menu_title">Otsing</string>
+    <string name="settings_search_main_entry_screen_title">Nõuanded ja tugi > Vaadake Pixeli nõuandeid</string>
+    <string name="settings_search_main_entry_summary">Kasutage oma Pixelit parimal moel. Vaadake videoid ja tehke muud.</string>
+    <string name="smart_space_subtitle_android">Puud. nõuannete nägem.</string>
+    <string name="smart_space_subtitle_ios">Puud. nõuannete nägem.</string>
+    <string name="smart_space_subtitle_others">Puud. nõuannete nägem.</string>
+    <string name="smart_space_subtitle_pixel">Vaadake, mis on uut</string>
+    <string name="smart_space_title">Siin on teie uus Pixel!</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Jäädvustage portreesid, ideaalseid kaadreid ja muud</string>
+    <string name="suggestion_summary_module_communication">Saatke pilte, tehke videokõnesid ja muud</string>
+    <string name="suggestion_summary_module_gestures">Vaadake märguandeid, avage kaamera ja tehke muud</string>
+    <string name="suggestion_summary_module_google_smarts">"Rääkige oma Google'i assistendiga ja tehke muud"</string>
+    <string name="suggestion_title_module_camera">Nautige oma kaamerat ja fotosid</string>
+    <string name="suggestion_title_module_communication">Nõuanded sõnumite saatmiseks ja helistamiseks</string>
+    <string name="suggestion_title_module_gestures">Kasutage otseteede jaoks liigutusi</string>
+    <string name="suggestion_title_module_google_smarts">"Kasutage Google'it parimal moel"</string>
+    <string name="tip_1_1_media_description">Video rakenduste leidmise kohta</string>
+    <string name="tip_1_1_summary">Pühkige ekraani allosast üles, et näha oma hiljutisi rakendusi. Allosas näete ka prognoositud rakenduste rida. Kõikide rakenduste nägemiseks pühkige uuesti üles.</string>
+    <string name="tip_1_1_title">Rakenduste leidmine</string>
+    <string name="tip_1_2_media_description">Video rakenduste korrastamise kohta</string>
+    <string name="tip_1_2_summary">"Rakenduse lisamiseks avaekraanile puudutage ja lohistage rakendust.
+
+Rakenduse eemaldamiseks puudutage pikalt rakendust ja lohistage see ekraanikuva ülaossa."</string>
+    <string name="tip_1_2_title">Lisage rakendusi avakuvale</string>
+    <string name="tip_1_3_link">Avage Play pood</string>
+    <string name="tip_1_3_media_description">Pilt oluliste rakendustega</string>
+    <string name="tip_1_3_summary">"Alustage nende rakenduste kasutamist.
+- Play pood: avastage rakendusi ja laadige neid alla
+- Google Photos: leidke, salvestage ja jagage fotosid
+- Google Keep: jäädvustage märkmeid, loendeid ja muud"</string>
+    <string name="tip_1_3_title">Oluliste rakenduste avastamine</string>
+    <string name="tip_1_4_media_description">Video märguannete kohta</string>
+    <string name="tip_1_4_summary">"Märguannete nägemiseks pühkige ekraanikuva ülaosast alla. Märguande kustutamiseks pühkige vasakule või paremale.
+
+Kui soovite märguande kohta lisateavet näha, puudutage seda pikalt."</string>
+    <string name="tip_1_4_title">Märguannete vaatamine</string>
+    <string name="tip_1_5_media_description">Video seadete muutmise kohta</string>
+    <string name="tip_1_5_summary">"Kiirseadete avamiseks pühkige Pixeli seadme ülaosast alla. Lisaseadete nägemiseks pühkige uuesti alla.
+
+Seade sisse- või väljalülitamiseks puudutage seda. Seade lisavalikute nägemiseks puudutage seda pikalt."</string>
+    <string name="tip_1_5_title">Kiirelt tavaseadete muutmine</string>
+    <string name="tip_1_6_link">Menüü Seaded avamine</string>
+    <string name="tip_1_6_media_description">Video režiimi Mitte segada kohta</string>
+    <string name="tip_1_6_summary">"Kui kasutate oma telefoni, kuid soovite säilitada keskendumise, võite peatada märguannete kuvamise.
+
+Avastage uued juhtelemendid režiimis Mitte segada."</string>
+    <string name="tip_1_6_title">Keskendumine režiimi Mitte segada abil</string>
+    <string name="tip_1_7_media_description">Video toimingute nägemise kohta</string>
+    <string name="tip_1_7_summary">"Saadaolevate toimingute (nt restoranis kohtade reserveerimise) nägemiseks puudutage pikalt teksti.
+
+Seda saab teha igas rakenduses. See toimib isegi siis, kui vahetate rakenduste vahel."</string>
+    <string name="tip_1_7_title">Teksti valimisel toimingute nägemine</string>
+    <string name="tip_1_9_link">Ava tugiteenus</string>
+    <string name="tip_1_9_media_description">Nõuannete ja toe video</string>
+    <string name="tip_1_9_summary">"Lisanõuanded ja -tugi on igal ajal saadaval. Avage lihtsalt jaotis Seaded > Nõuanded ja tugi.
+
+Võite uurida nõuandeid, sirvida abikeskuse artikleid või võtta ühendust Pixeli tiimiga."</string>
+    <string name="tip_1_9_title">Abi ei ole kunagi kaugel</string>
+    <string name="tip_2_1_link">Avamine menüüs Seaded</string>
+    <string name="tip_2_1_link_description">Selle funktsiooni sisselülitamiseks puudutage allolevat nuppu.</string>
+    <string name="tip_2_1_link_description_off">Selle funktsiooni sisselülitamiseks puudutage allolevat nuppu.</string>
+    <string name="tip_2_1_link_off">Sisselülitamine menüüs Seaded</string>
+    <string name="tip_2_1_link_on">Pigistamise seaded</string>
+    <string name="tip_2_1_media_description">Video assistendi funktsiooni Pigistamine kohta</string>
+    <string name="tip_2_1_summary">"Google'i assistendiga mis tahes ajal rääkimiseks (ka siis, kui ekraan on välja lülitatud) pigistage korraks telefoni alumist osa ja vabastage see."</string>
+    <string name="tip_2_1_title">Pigistamine assistendiga rääkimiseks</string>
+    <string name="tip_2_2_link">Rohkem toiminguid</string>
+    <string name="tip_2_2_media_description">Assistendi toimingute video</string>
+    <string name="tip_2_2_summary">"Google'i assistent on kiire ja lihtne viis, kuidas Pixelis vastuseid leida ja toiminguid teha.
+
+Assistendiga rääkimiseks pigistage korraks telefoni alumist osa, vabastage see ja öelge:
+
+- Mis kell on homme mu esimene sündmus?
+- Lisa ostuloendisse hambapasta
+- Läheme koju"</string>
+    <string name="tip_2_2_title">Vaadake, mida assistent teha suudab</string>
+    <string name="tip_2_3_link">Ava Lens</string>
+    <string name="tip_2_3_media_description">Google Lensiga otsimise video</string>
+    <string name="tip_2_3_summary">"Kas mõni armas loom, haruldane taim või muljetavaldav vaatamisväärsus köitis teie tähelepanu? Selle kohta lisateabe saamiseks kasutage rakendust Google Lens.
+
+Avage lihtsalt kaamera, puudutage pikalt pildiotsijat ja seejärel puudutage üksust, mis teid huvitab."</string>
+    <string name="tip_2_3_title">Kasutage nähtava otsimiseks Google Lensi</string>
+    <string name="tip_2_4_link">Google Play avamine</string>
+    <string name="tip_2_4_link_description">Funktsiooni Hetkel mängimas kasutamiseks värskendage teenust Pixel Ambient Services.</string>
+    <string name="tip_2_4_link_description_off">Selle funktsiooni sisselülitamiseks puudutage allolevat nuppu.</string>
+    <string name="tip_2_4_link_off">Lülitage sisse menüüs Seaded</string>
+    <string name="tip_2_4_link_on">Funktsiooni Hetkel mängimas seaded</string>
+    <string name="tip_2_4_media_description">Funktsiooni Hetkel mängimas kirjeldav video</string>
+    <string name="tip_2_4_summary">Funktsioon Hetkel mängimas kuvab olenemata asukohast esitatava loo teabe automaatselt.</string>
+    <string name="tip_2_4_title">Muusika tuvastamine funktsiooniga Hetkel mängimas</string>
+    <string name="tip_2_5_link">Kaamera avamine</string>
+    <string name="tip_2_5_media_description">Video kaamera kohta</string>
+    <string name="tip_2_5_summary">Teie Pixel tuvastab automaatselt telefoninumbreid, aadresse, e-posti aadresse, ribakoode ja QR-koode. Avage lihtsalt kaamera, suunake see objektile ja kaamera teeb kogu töö.</string>
+    <string name="tip_2_5_title">Pange kaamera enda heaks tööle</string>
+    <string name="tip_3_1_link">Kaamera avamine</string>
+    <string name="tip_3_1_media_description">Video kaamerarežiimide kohta</string>
+    <string name="tip_3_1_summary">"Vahel soovite jäädvustada foto, seejärel video ja siis veel midagi veidi teistsugust.
+
+Režiimide vahel vahetamiseks avage kaamera pildiotsija ja pühkige vasakule või paremale. Muude valikute nägemiseks puudutage valikut Rohkem."</string>
+    <string name="tip_3_1_title">Fotode, videote ja muu vahel vahetamine</string>
+    <string name="tip_3_2_link">Kaamera avamine</string>
+    <string name="tip_3_2_media_description">Portreede jäädvustamist kirjeldav video</string>
+    <string name="tip_3_2_summary">"Portreevõtterežiimis hägustab Pixel kauni ja professionaalse tulemuse saavutamiseks tausta. Proovige ja vaadake ise.
+
+Avage lihtsalt rakendus Kaamera, pühkige vasakult paremale ja olete valmis alustama."</string>
+    <string name="tip_3_2_title">Kaunite portreede jäädvustamine</string>
+    <string name="tip_3_3_media_description">Video ekraanipiltide jäädvustamise kohta</string>
+    <string name="tip_3_3_summary">"Vajutage pikalt toitenuppu, seejärel puudutage valikut Ekraanipilt. Ekraanipilt ongi jäädvustatud!
+
+Ekraanipildile joonistamiseks puudutage kuvatavas märguandes valikut Muutmine."</string>
+    <string name="tip_3_3_title">Kiirelt ekraanipiltide jäädvustamine ja muutmine</string>
+    <string name="tip_3_4_link">Kaamera avamine</string>
+    <string name="tip_3_4_media_description">Parima võtte funktsiooniga täiusliku hetke jäädvustamist kirjeldav video</string>
+    <string name="tip_3_4_summary">"Iga kord kui jäädvustate foto, salvestab Pixel lisapildi või kaks, et saaksite ideaalse kaadri.
+
+1. Veenduge, et valik Liikumine [icon_span] oleks sisse lülitatud, seejärel jäädvustage foto
+2. Pühkige fotot vaadates allosast üles
+3. Puudutage alternatiivsete piltide ülevaatamiseks valikut „Selle foto kaadrid”"</string>
+    <string name="tip_3_4_title">Valige täiuslik hetk funktsiooniga Parim võte</string>
+    <string name="tip_3_5_link">Kaamera avamine</string>
+    <string name="tip_3_5_media_description">Rühmaselfi jäädvustamist kirjeldav video</string>
+    <string name="tip_3_5_summary">"Rühmaselfiga on fotol rohkem ruumi sõprade või maastiku jaoks – selfikeppi pole vaja.
+
+1. Lülituge esikülje kaamerale [icon_span]
+2. Topeltpuudutage väljasuumimiseks ekraani või liigutage sõrmi kokku"</string>
+    <string name="tip_3_5_title">Jäädvustage rühmaselfi</string>
+    <string name="tip_4_1_link">Rakenduse Messages avamine</string>
+    <string name="tip_4_1_media_description">Piltide saatmist kirjeldav video</string>
+    <string name="tip_4_1_summary">"1. Avage rakenduses Messages vestlus.
+2. Puudutage sõnumi kirjutamise alast vasakul valikut Koostamine [icon_span].
+3. Valige ideaalne pilt, emotikon või kleebis."</string>
+    <string name="tip_4_1_title">Piltide saatmine</string>
+    <string name="tip_4_2_link">Installige Duo</string>
+    <string name="tip_4_2_link_off">Installige Duo</string>
+    <string name="tip_4_2_link_on">Avage Duo</string>
+    <string name="tip_4_2_media_description">Video Google Duo kohta</string>
+    <string name="tip_4_2_summary">"Mitte miski pole toredam kui näost näkku vestlus lähedaste sõprade ja pereliikmetega. Seetõttu võimaldab Pixel Google Duo abil hõlpsalt videokõnesid pidada.
+
+1. Avage rakendus Google Duo
+2. Otsige oma kontakti
+3. Alustage vaid ühe puudutusega videokõnet või saatke kutse Google Duo allalaadimiseks
+
+iOSⓇ-i telefone ja tahvelarvuteid kasutavad sõbrad saavad samuti Google Duot kasutada."</string>
+    <string name="tip_4_2_title">Videokõnede tegemine Google Duoga</string>
+    <string name="tip_4_3_link">Rakenduse Google Photos avamine</string>
+    <string name="tip_4_3_media_description">Video fotode jagamise kohta</string>
+    <string name="tip_4_3_summary">"1. Avage rakendus Google Photos
+2. Pildi valimiseks puudutage pikalt
+3. Kui soovite, valige mitu pilti
+4. Puudutage valikut Jagamine [icon_span]
+5. Valige inimesed, kellega jagada soovite"</string>
+    <string name="tip_4_3_title">Fotode jagamine</string>
+    <string name="tip_4_4_link">Alustage</string>
+    <string name="tip_4_4_media_description">Video arvutist tekstsõnumite saatmise kohta</string>
+    <string name="tip_4_4_summary">"Rakendusega Android Messages saab arvuti kaudu sõnumeid saata. Alustamiseks avage rakendus Messages ja tehke menüüs valik „Messages veebis”.
+
+Lisaks sõnumitele saab saata kleebiseid ja emotikone ning manustada pilte."</string>
+    <string name="tip_4_4_title">Saatke arvutist tekstsõnumeid</string>
+    <string name="tip_5_1_link">Menüü Seaded avamine</string>
+    <string name="tip_5_1_link_off">Sisselülitamine menüüs Seaded</string>
+    <string name="tip_5_1_link_on">Seadete avamine</string>
+    <string name="tip_5_1_media_description">Video telefoni kontrollimise kohta</string>
+    <string name="tip_5_1_summary">Võite vaadata kella, märguandeid ja muud, topeltpuudutades ekraani.</string>
+    <string name="tip_5_1_title">Topeltpuudutamine telefoni kontrollimiseks</string>
+    <string name="tip_5_2_link">Menüü Seaded avamine</string>
+    <string name="tip_5_2_link_off">Sisselülitamine menüüs Seaded</string>
+    <string name="tip_5_2_link_on">Seadete avamine</string>
+    <string name="tip_5_2_media_description">Video kiirelt kaamera avamise kohta</string>
+    <string name="tip_5_2_summary">Vajutage mis tahes ekraanikuval kaks korda toitenuppu, et vaid silmapilguga kaamera aktiveerida.</string>
+    <string name="tip_5_2_title">Kaamera avamine</string>
+    <string name="tip_5_3_link">Menüü Seaded avamine</string>
+    <string name="tip_5_3_link_off">Sisselülitamine menüüs Seaded</string>
+    <string name="tip_5_3_link_on">Seadete avamine</string>
+    <string name="tip_5_3_media_description">Video portreevõtterežiimile lülitamise kohta</string>
+    <string name="tip_5_3_summary">Kaameras selfirežiimi sisse- ja väljalülitamiseks pöörake telefoni rakenduses olles kaks korda edasi-tagasi.</string>
+    <string name="tip_5_3_title">Kaamera vahetamine</string>
+    <string name="tip_5_4_link">Menüü Seaded avamine</string>
+    <string name="tip_5_4_link_off">Sisselülitamine menüüs Seaded</string>
+    <string name="tip_5_4_link_on">Menüü Seaded avamine</string>
+    <string name="tip_5_4_media_description">Video märguannete nägemiseks sõrmejäljeanduril pühkimise kohta</string>
+    <string name="tip_5_4_summary">"Märguandeid võite vaadata, kui pühite telefoni tagaküljel oleval sõrmejäljeanduril alla.
+Kiirseadete nägemiseks pühkige uuesti."</string>
+    <string name="tip_5_4_title">Sõrmejäljeanduril pühkimine märguannete vaatamiseks</string>
+    <string name="tip_5_5_media_description">Video rakenduste vahel vahetamise kohta</string>
+    <string name="tip_5_5_summary">Kiirelt rakenduste vahel vahetamiseks kerige ekraani allosas vasakult paremale. Rakenduse avamiseks vabastage nupp.</string>
+    <string name="tip_5_5_title">Kiirem viis rakenduste vahel vahetamiseks</string>
+    <string name="tip_6_1_link">Öövalguse seaded</string>
+    <string name="tip_6_1_media_description">Öövalguse video</string>
+    <string name="tip_6_1_summary">"Öövalgus muudab ekraani valgustuse oranžkollaseks. See muudab hämaras valguses ekraani vaatamise või lugemise lihtsamaks, samuti võib see aidata paremini magama jääda.
+
+Öövalguse saab kiirseadetes hõlpsasti sisse ja välja lülitada. Võite ka funktsiooni pikalt puudutada, et luua ajakava."</string>
+    <string name="tip_6_1_title">Uinuge kergemini tänu öövalgusele</string>
+    <string name="tip_6_2_link">Rakenduse Digitaalne heaolu värskendamine</string>
+    <string name="tip_6_2_link_off">Rakenduse Digitaalne heaolu värskendamine</string>
+    <string name="tip_6_2_link_on">Puhkerežiimi seadistamine</string>
+    <string name="tip_6_2_media_description">Puhkerežiimi abil unegraafiku määramist kirjeldav video</string>
+    <string name="tip_6_2_summary">"Seadistage öine ajakava, et katkestada ühendus oma telefoniga.
+
+1. Avage rakendus Digitaalne heaolu [icon_span]
+2. Puudutage valikut Puhkerežiim
+3. Seadistage puhkerežiimi ajakava
+
+Kui uneaeg läheneb, muudab ekraan värvi ja režiim Mitte segada hoiab ära teie und segavad märguanded."</string>
+    <string name="tip_6_2_title">Määrake unegraafik funktsiooniga Puhkerežiim</string>
+    <string name="tip_6_3_link">Proovige vaigistamiseks ümberpööramise funktsiooni</string>
+    <string name="tip_6_3_link_off">Rakenduse Digitaalne heaolu värskendamine</string>
+    <string name="tip_6_3_link_on">Ava seaded</string>
+    <string name="tip_6_3_media_description">Video segavate tegurite kiirelt peatamise kohta</string>
+    <string name="tip_6_3_summary">Vaigistamisfunktsioon võimaldab teil pöörata telefoni esikülg allapoole, et lülitada sisse režiim Mitte segada ning peatada märguanded ja helid.</string>
+    <string name="tip_6_3_title">Peatage segavad tegurid kiiresti</string>
+    <string name="tip_6_4_link">Rakenduse Digitaalne heaolu värskendamine</string>
+    <string name="tip_6_4_link_off">Rakenduse Digitaalne heaolu värskendamine</string>
+    <string name="tip_6_4_link_on">Ava juhtpaneel</string>
+    <string name="tip_6_4_media_description">Digitaalset heaolu kirjeldav video</string>
+    <string name="tip_6_4_summary">Jaotises Seaded näete digitaalse heaolu juhtpaneelil ülevaadet seadme kasutusajast ja saate määrata taimerid rakenduste jaoks, mille kasutamist soovite piirata.</string>
+    <string name="tip_6_4_title">Jälgige seadmete kasutusaega</string>
+    <string name="tip_7_1_media_description">Kaustade abil rakenduste korraldamist kirjeldav video</string>
+    <string name="tip_7_1_summary">"Looge kaustu, et rakendustel hõlpsasti silma peal hoida.
+
+Kausta loomiseks lohistage rakendus teise rakenduse peale. Võite uuele kaustale nime anda.
+
+Saate lohistades rohkem rakendusi kausta lisada või eemaldamiseks rakenduse kaustast välja lohistada."</string>
+    <string name="tip_7_1_title">Korraldage rakendusi kaustade abil</string>
+    <string name="tip_7_2_media_description">Video kahe rakenduse korraga kasutamise kohta</string>
+    <string name="tip_7_2_summary">"Võite korraga kasutada kaht rakendust, kui seadistate oma telefonis jagatud ekraanikuva. Multitegumtöö alaku.
+
+1. Pühkige ekraani allosast üles, et näha oma hiljutisi rakendusi
+2. Puudutage pikalt ekraanikuva ülaosas olevat rakenduseikooni
+3. Puudutage jagatud ekraanikuva
+
+Liigutage vajaduse korral jaoturit üles ja alla. Pühkige see minema, kui olete lõpetanud."</string>
+    <string name="tip_7_2_title">Vaadake korraga kaht rakendust</string>
+    <string name="tip_7_3_link">"Avage Google'i assistent"</string>
+    <string name="tip_7_3_media_description">Video assistendi abil telefoni haldamise kohta</string>
+    <string name="tip_7_3_summary">"Assistent aitab teil kiiremini tegutseda. Assistendiga rääkimiseks pigistage korraks telefoni alumist osa. Seejärel öelge näiteks järgmist.
+
+1. „Tee selfi”
+2. „Jäädvusta ekraanipilt”
+3. „Lülita sisse taskulamp”"</string>
+    <string name="tip_7_3_title">"Kasutage igapäevaste ülesannete puhul abi saamiseks Google'i assistenti"</string>
+    <string name="tip_8_1_link">Installige Google Keep</string>
+    <string name="tip_8_1_link_off">Installige Google Keep</string>
+    <string name="tip_8_1_link_on">Avage Google Keep</string>
+    <string name="tip_8_1_media_description">Video märkmete tegemise kohta</string>
+    <string name="tip_8_1_summary">"Rakendusega Google Keep saate kiiresti oma mõtted salvestada. Lisage märkmeid, loendeid, fotosid ja heli.
+
+Samuti võite määrata meeldetuletused, et teil oleks meeles toimingud lõpule viia. Keep võimaldab ka märkmeid hõlpsasti sõprade ja pereliikmetega jagada."</string>
+    <string name="tip_8_1_title">Talletage Google Keepi abil märkmeid ja tehke muudki</string>
+    <string name="tip_8_2_link">Installige Google News</string>
+    <string name="tip_8_2_link_off">Installige Google News</string>
+    <string name="tip_8_2_link_on">Avage Google News</string>
+    <string name="tip_8_2_media_description">Video Google Newsi kohta</string>
+    <string name="tip_8_2_summary">"Hankige parim ülevaade kuumadest, kohalikest ja globaalsetest uudistest.
+
+Vaadake vaid ühe puudutusega populaarsemaid pealkirju oma lemmikallikatest. Näete ajaskaalal võtmehetki, arvamusi, analüüse ja muud teavet, mis aitab teil uudislugu paremini mõista."</string>
+    <string name="tip_8_2_title">Hoidke end toimuvaga kursis Google Newsi abil</string>
+    <string name="tip_8_3_link">Installige Google Pay</string>
+    <string name="tip_8_3_link_off">Installige Google Pay</string>
+    <string name="tip_8_3_link_on">Avage Google Pay</string>
+    <string name="tip_8_3_media_description">Google Pay video</string>
+    <string name="tip_8_3_summary">"Google Pay pakub kiiret viisi maksta miljonites poodides, kasutades vaid oma Pixeli telefoni. Seda saab teha järgmiselt.
+
+1. Lisage kaart rakenduses Google Pay
+2. Otsige maksmisel viipemakse sümbolit [icon_span]
+3. Avage telefon ja hoidke seda makseterminali lähedal
+4. Oodake, kuni näete märget
+
+Ongi kõik."</string>
+    <string name="tip_8_3_title">Makske Pixeli telefoniga</string>
+    <string name="tips_nav_a11y_media_description">Video uue juurdepääsetavuse liigutuse kasutamise kohta</string>
+    <string name="tips_nav_a11y_summary">"Funktsioonile Vali ja kuula või suurendusele juurdepääsemiseks pühkige kahe sõrmega oma ekraanikuva allosast üles.
+
+Juurdepääsetavusrakenduste vahel vahetamiseks pühkige kahe sõrmega üles ja hoidke neid seal.
+
+Neid liigutusi võite kasutada pärast seadistamise lõpuleviimist."</string>
+    <string name="tips_nav_a11y_title">Uue juurdepääsetavuse liigutuse kasutamine</string>
+    <string name="title_download_completed_dialog">Laadi uued nõuanded uuesti</string>
+    <string name="try_it_text">Proovige</string>
+    <string name="zero_state_primary">Olete kõik läbi lugenud</string>
+    <string name="zero_state_secondary">Uute nõuannete nägemiseks vaadake hiljem uuesti</string>
+</resources>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_slice_permission_allow">อนุญาต</string>
+    <string name="abc_slice_permission_checkbox">อนุญาตให้ %1$s แสดงส่วนต่างๆ จากแอปใดก็ได้</string>
+    <string name="abc_slice_permission_deny">ปฏิเสธ</string>
+    <string name="abc_slice_permission_text_1">- อ่านข้อมูลจาก %1$s ได้</string>
+    <string name="abc_slice_permission_text_2">- ดำเนินการใน %1$s ได้</string>
+    <string name="abc_slice_permission_title">อนุญาตให้ %1$s แสดงส่วนต่างๆ ของ %2$s</string>
+    <string name="abc_slices_permission_request">%1$s ต้องการแสดงส่วนต่างๆ ของ %2$s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="all_topics_header_text">หัวข้อทั้งหมด</string>
+    <string name="allset_description">"คุณพร้อมเริ่มใช้งานโทรศัพท์แล้ว
+
+คุณปิดการนำทางโดยใช้ท่าทางสัมผัส และใช้ปุ่มเพื่อย้อนกลับไปที่หน้าแรก และสลับแอปได้
+"<annotation id="link">ไปที่การตั้งค่า</annotation></string>
+    <string name="allset_hint">เลื่อนขึ้นเพื่อเริ่มต้นใช้งาน</string>
+    <string name="allset_page_title">เรียบร้อย</string>
+    <string name="allset_setting_link">การตั้งค่าการนำทางสำหรับการช่วยเหลือพิเศษ</string>
+    <string name="allset_title">เรียบร้อยแล้ว</string>
+    <string name="app_name">เคล็ดลับ Pixel</string>
+    <string name="article_helpful_feedback_toast">ขอขอบคุณสำหรับความคิดเห็น ซึ่งจะช่วยเราในการแนะนำเคล็ดลับต่างๆ ในอนาคต</string>
+    <string name="article_helpful_no">ไม่</string>
+    <string name="article_helpful_talkback_selected_no">เลือก \"ไม่ใช่\" อยู่</string>
+    <string name="article_helpful_talkback_selected_yes">เลือก \"ใช่\" อยู่</string>
+    <string name="article_helpful_talkback_unselected_no">ยกเลิกการเลือก \"ไม่ใช่\" แล้ว</string>
+    <string name="article_helpful_talkback_unselected_yes">ยกเลิกการเลือก \"ใช่\" แล้ว</string>
+    <string name="article_helpful_text">มีประโยชน์ไหม</string>
+    <string name="article_helpful_yes">ใช่</string>
+    <string name="asset_is_downloading_content_description">กำลังดาวน์โหลดวิดีโอ/รูปภาพ</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="connectivity_summary_assets_download_slowly">หากต้องการดูวิดีโอและรูปภาพ ให้ลองเชื่อมต่อ Wi-Fi หรือสลับเครือข่าย</string>
+    <string name="connectivity_summary_assets_not_downloaded">ต้องใช้การเชื่อมต่ออินเทอร์เน็ตในการแสดงวิดีโอและรูปภาพ</string>
+    <string name="module_1_0010_summary">เปลี่ยนแอป เปลี่ยนแปลงการตั้งค่าอย่างรวดเร็ว โฟกัสดีขึ้น และอื่นๆ</string>
+    <string name="module_1_0010_tag_text">เริ่มต้น</string>
+    <string name="module_1_0010_title">เริ่มต้นใช้งาน [model_name]</string>
+    <string name="module_1_0101_summary">ค้นหาแอป สำรวจโทรศัพท์ และอื่นๆ</string>
+    <string name="module_1_0101_tag_text">เริ่มต้น</string>
+    <string name="module_1_0101_title">เริ่มต้นใช้งาน Pixel</string>
+    <string name="module_1_1000_summary">หากเปลี่ยนจาก iPhoneⓇ ให้ลองค้นหาแอป สำรวจส่วนต่างๆ ในโทรศัพท์ และอื่นๆ</string>
+    <string name="module_1_1000_tag_text">เริ่มต้น</string>
+    <string name="module_1_1000_title">เริ่มต้นใช้งาน Pixel</string>
+    <string name="module_2_1111_summary">คุยกับ Assistant ดูชื่อเพลงด้วย \"กำลังเล่น\" และอื่นๆ</string>
+    <string name="module_2_1111_tag_text">ใช้ Google ให้คุ้มค่าที่สุด</string>
+    <string name="module_2_1111_title">ใช้ประโยชน์สูงสุดจาก Google</string>
+    <string name="module_3_1111_summary">ถ่ายภาพบุคคลสวยๆ เลื่อนใช้โหมดต่างๆ และอื่นๆ</string>
+    <string name="module_3_1111_tag_text">ใช้กล้องอย่างสนุกสนาน</string>
+    <string name="module_3_1111_title">เพลิดเพลินกับกล้องและรูปถ่าย</string>
+    <string name="module_4_1111_summary">ส่งรูปภาพ โทรวิดีโอคอล และแชร์รูปภาพ</string>
+    <string name="module_4_1111_tag_text">ส่งข้อความและโทร</string>
+    <string name="module_4_1111_title">ส่งข้อความและโทร</string>
+    <string name="module_5_1111_summary">เปิดกล้องอย่างรวดเร็ว ดูการแจ้งเตือน และอื่นๆ</string>
+    <string name="module_5_1111_tag_text">ใช้ท่าทางสัมผัส</string>
+    <string name="module_5_1111_title">ใช้ท่าทางสัมผัสเป็นทางลัดที่รวดเร็ว</string>
+    <string name="module_6_1111_summary">ติดตามเวลาอยู่หน้าจอ ตั้งเวลายกเลิกการเชื่อมต่อ และอีกมากมาย</string>
+    <string name="module_6_1111_tag_text">จัดการไลฟ์สไตล์ดิจิทัล</string>
+    <string name="module_6_1111_title">จัดการไลฟ์สไตล์ดิจิทัล</string>
+    <string name="module_7_1111_summary">ดูได้พร้อมกัน 2 แอป จัดระเบียบแอปด้วยโฟลเดอร์ และอีกมากมาย</string>
+    <string name="module_7_1111_tag_text">ร่วมเป็นผู้เชี่ยวชาญ</string>
+    <string name="module_7_1111_title">ร่วมเป็นผู้เชี่ยวชาญของ Pixel</string>
+    <string name="module_8_1111_summary">จดโน้ต ชำระเงินด้วย Pixel และติดตามการรายงานข่าวล่าสุด</string>
+    <string name="module_8_1111_tag_text">สำรวจแอป</string>
+    <string name="module_8_1111_title">สำรวจแอป Google ที่ขาดไม่ได้</string>
+    <string name="next_btn">ถัดไป</string>
+    <string name="next_module_link_back_home_page_text">ถัดไป: สำรวจเคล็ดลับทั้งหมด</string>
+    <string name="next_module_link_text">ถัดไป: %1$s</string>
+    <string name="next_tip_content_description">เคล็ดลับถัดไป</string>
+    <string name="ob_gesture_app_go_back_media_description">วิดีโอเกี่ยวกับท่าทางสัมผัสใหม่เพื่อย้อนกลับ</string>
+    <string name="ob_gesture_app_go_back_summary">หากต้องการกลับไปที่หน้าจอล่าสุด ให้เลื่อนจากขอบด้านซ้ายหรือขวาไปตรงกลาง</string>
+    <string name="ob_gesture_app_go_back_title">กลับ</string>
+    <string name="ob_gesture_app_home_media_description">วิดีโอเกี่ยวกับท่าทางสัมผัสใหม่เพื่อไปที่หน้าแรก</string>
+    <string name="ob_gesture_app_home_summary">"เลื่อนขึ้นจากด้านล่างของหน้าจอ
+ท่าทางสัมผัสนี้จะนำคุณไปที่หน้าจอหลักเสมอ"</string>
+    <string name="ob_gesture_app_home_title">ไปที่หน้าแรก</string>
+    <string name="ob_gesture_app_overview_media_description">วิดีโอเกี่ยวกับท่าทางสัมผัสใหม่เพื่อดูภาพรวม</string>
+    <string name="ob_gesture_app_overview_summary">เลื่อนขึ้นจากด้านล่างของหน้าจอค้างไว้</string>
+    <string name="ob_gesture_app_overview_title">สลับแอป</string>
+    <string name="onboarding_education_page_title">บทแนะนำเรื่องท่าทางสัมผัสการนำทาง</string>
+    <string name="previous_module_link_text">ก่อนหน้า: %1$s</string>
+    <string name="previous_tip_content_description">เคล็ดลับก่อนหน้า</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="settings_search_main_entry_screen_title">เคล็ดลับและการสนับสนุน > สำรวจเคล็ดลับ Pixel</string>
+    <string name="settings_search_main_entry_summary">ใช้ประโยชน์สูงสุดจาก Pixel ดูวิดีโอและอื่นๆ</string>
+    <string name="smart_space_subtitle_android">แตะเพื่อดูเคล็ดลับ</string>
+    <string name="smart_space_subtitle_ios">แตะเพื่อดูเคล็ดลับ</string>
+    <string name="smart_space_subtitle_others">แตะเพื่อดูเคล็ดลับ</string>
+    <string name="smart_space_subtitle_pixel">ดูว่ามีอะไรใหม่</string>
+    <string name="smart_space_title">ต้อนรับสู่ Pixel เครื่องใหม่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">ถ่ายภาพบุคคล ได้ภาพสวยๆ และอื่นๆ</string>
+    <string name="suggestion_summary_module_communication">ส่งรูปภาพ โทรวิดีโอคอล และอื่นๆ</string>
+    <string name="suggestion_summary_module_gestures">ดูการแจ้งเตือน เปิดกล้องถ่ายรูป และอื่นๆ</string>
+    <string name="suggestion_summary_module_google_smarts">คุยกับ Google Assistant และอื่นๆ</string>
+    <string name="suggestion_title_module_camera">เพลิดเพลินกับกล้องและรูปถ่าย</string>
+    <string name="suggestion_title_module_communication">เคล็ดลับสำหรับการส่งข้อความและการโทร</string>
+    <string name="suggestion_title_module_gestures">ใช้ท่าทางสัมผัสเป็นทางลัด</string>
+    <string name="suggestion_title_module_google_smarts">ใช้ประโยชน์สูงสุดจาก Google</string>
+    <string name="tip_1_1_media_description">วิดีโอเกี่ยวกับการหาแอป</string>
+    <string name="tip_1_1_summary">เลื่อนนิ้วขึ้นจากด้านล่างของหน้าจอเพื่อดูแอปล่าสุด คุณจะเห็นแถวของแอปที่เราคาดว่าคุณจะใช้ที่ด้านล่างด้วย เลื่อนนิ้วขึ้นอีกครั้งเพื่อดูแอปทั้งหมด</string>
+    <string name="tip_1_1_title">หาแอป</string>
+    <string name="tip_1_2_media_description">วิดีโอเกี่ยวกับการจัดระเบียบแอป</string>
+    <string name="tip_1_2_summary">"หากต้องการเพิ่มแอปลงในหน้าจอหลัก ให้แตะและลากแอป
+
+หากต้องการนำแอปออก ให้แตะแอปค้างไว้ จากนั้นลากแอปไปที่ด้านบนของหน้าจอ"</string>
+    <string name="tip_1_2_title">เพิ่มแอปลงในหน้าจอหลัก</string>
+    <string name="tip_1_3_link">ไปที่ Play Store</string>
+    <string name="tip_1_3_media_description">รูปภาพเกี่ยวกับแอปหลัก</string>
+    <string name="tip_1_3_summary">"เริ่มต้นใช้งานด้วยแอปเหล่านี้
+- Play Store: สำรวจและดาวน์โหลดแอปต่างๆ
+- Google Photos: ค้นหา บันทึก และแชร์รูปภาพ
+- Google Keep: จดโน้ต รายการ และอื่นๆ"</string>
+    <string name="tip_1_3_title">สำรวจแอปหลัก</string>
+    <string name="tip_1_4_media_description">วิดีโอเกี่ยวกับการแจ้งเตือน</string>
+    <string name="tip_1_4_summary">"เลื่อนนิ้วลงจากด้านบนของหน้าจอเพื่อดูการแจ้งเตือน หากต้องการล้างการแจ้งเตือน ให้ใช้นิ้วเลื่อนการแจ้งเตือนนั้นไปทางซ้ายหรือขวา
+
+แตะการแจ้งเตือนค้างไว้หากต้องการดูข้อมูลเพิ่มเติมเกี่ยวกับการแจ้งเตือนนั้นๆ"</string>
+    <string name="tip_1_4_title">ดูการแจ้งเตือน</string>
+    <string name="tip_1_5_media_description">วิดีโอเกี่ยวกับการเปลี่ยนการตั้งค่า</string>
+    <string name="tip_1_5_summary">"เลื่อนนิ้วลงจากด้านบนของ Pixel เพื่อเปิดการตั้งค่าด่วน เลื่อนนิ้วลงอีกครั้งเพื่อดูการตั้งค่าอื่นๆ
+
+แตะการตั้งค่าที่ต้องการเพื่อเปิดหรือปิด แตะการตั้งค่าค้างไว้เพื่อดูตัวเลือกอื่นๆ สำหรับการตั้งค่านั้น"</string>
+    <string name="tip_1_5_title">เปลี่ยนการตั้งค่าที่ใช้บ่อยอย่างรวดเร็ว</string>
+    <string name="tip_1_6_link">ไปที่การตั้งค่า</string>
+    <string name="tip_1_6_media_description">วิดีโอเกี่ยวกับโหมดห้ามรบกวน</string>
+    <string name="tip_1_6_summary">"หากคุณกำลังใช้โทรศัพท์แต่อยากจดจ่อกับสิ่งที่ทำ คุณก็ระงับการแสดงการแจ้งเตือนได้
+
+สำรวจตัวควบคุมใหม่ๆ ในโหมดห้ามรบกวน"</string>
+    <string name="tip_1_6_title">ทำงานอย่างมีสมาธิด้วยโหมดห้ามรบกวน</string>
+    <string name="tip_1_7_media_description">วิดีโอเกี่ยวกับการดูการดำเนินการ</string>
+    <string name="tip_1_7_summary">"แตะข้อความค้างไว้เพื่อดูการดำเนินการที่ทำได้ เช่น การจองร้านอาหาร
+
+คุณจะทำได้จากทุกแอป แม้จะสลับระหว่างแอปก็ตาม"</string>
+    <string name="tip_1_7_title">ดูการดำเนินการเมื่อเลือกข้อความ</string>
+    <string name="tip_1_9_link">ไปที่การสนับสนุน</string>
+    <string name="tip_1_9_media_description">วิดีโอเกี่ยวกับเคล็ดลับและการสนับสนุน</string>
+    <string name="tip_1_9_summary">"ขอความช่วยเหลือและอ่านเคล็ดลับอื่นๆ ได้ทุกเมื่อ เพียงไปที่การตั้งค่า > เคล็ดลับและการสนับสนุน
+
+จากนั้นจะค้นหาเคล็ดลับ อ่านบทความช่วยเหลือ หรือติดต่อทีม Pixel ก็ได้"</string>
+    <string name="tip_1_9_title">รับความช่วยเหลือเมื่อต้องการ</string>
+    <string name="tip_2_1_link">เปิดในการตั้งค่า</string>
+    <string name="tip_2_1_link_description">แตะปุ่มด้านล่างเพื่อเปิดฟีเจอร์นี้</string>
+    <string name="tip_2_1_link_description_off">แตะปุ่มด้านล่างเพื่อเปิดฟีเจอร์นี้</string>
+    <string name="tip_2_1_link_off">เปิดในการตั้งค่า</string>
+    <string name="tip_2_1_link_on">การตั้งค่าการบีบ</string>
+    <string name="tip_2_1_media_description">วิดีโอเกี่ยวกับการบีบเพื่อเริ่มคุยกับ Assistant</string>
+    <string name="tip_2_1_summary">ทุกครั้งที่ต้องการคุยกับ Google Assistant (แม้หน้าจอจะปิดอยู่ก็ตาม) ให้บีบครึ่งล่างของโทรศัพท์และคลายมืออย่างรวดเร็ว</string>
+    <string name="tip_2_1_title">บีบเพื่อเริ่มคุยกับ Assistant</string>
+    <string name="tip_2_2_link">การดำเนินการเพิ่มเติม</string>
+    <string name="tip_2_2_media_description">วิดีโอเกี่ยวกับการดำเนินการใน Assistant</string>
+    <string name="tip_2_2_summary">"Google Assistant จะช่วยคุณหาคำตอบและทำสิ่งต่างๆ ให้เสร็จได้ง่ายๆ และรวดเร็วใน Pixel
+
+เมื่อต้องการคุยกับ Assistant ให้บีบครึ่งล่างของโทรศัพท์ จากนั้นคลายมืออย่างรวดเร็ว และพูด
+
+- กิจกรรมแรกของพรุ่งนี้เริ่มกี่โมง
+- เพิ่มยาสีฟันลงในรายการช็อปปิ้ง
+- กลับบ้านกัน"</string>
+    <string name="tip_2_2_title">สำรวจว่า Assistant ทำอะไรได้บ้าง</string>
+    <string name="tip_2_3_link">เปิด Lens</string>
+    <string name="tip_2_3_media_description">วิดีโอเกี่ยวกับการค้นหาด้วย Google Lens</string>
+    <string name="tip_2_3_summary">"หากเจอสัตว์น่ารักๆ พืชแปลกๆ ที่ไม่เคยเห็น หรือแลนด์มาร์กสวยโดนใจ ลองใช้ Google Lens เพื่อดูข้อมูลเพิ่มเติมสิ
+
+เพียงเปิดกล้อง แตะช่องมองภาพค้างไว้ จากนั้นแตะสิ่งที่คุณสนใจ"</string>
+    <string name="tip_2_3_title">ค้นหาสิ่งที่คุณเห็นด้วย Google Lens</string>
+    <string name="tip_2_4_link">เปิด Google Play</string>
+    <string name="tip_2_4_link_description">หากต้องการใช้โหมดกำลังเล่นให้อัปเดต Pixel Ambient Services</string>
+    <string name="tip_2_4_link_description_off">แตะปุ่มด้านล่างเพื่อเปิดฟีเจอร์นี้</string>
+    <string name="tip_2_4_link_off">เปิดในการตั้งค่า</string>
+    <string name="tip_2_4_link_on">การตั้งค่า \"กำลังเล่น\"</string>
+    <string name="tip_2_4_media_description">วิดีโอเกี่ยวกับฟีเจอร์ \"กำลังเล่น\"</string>
+    <string name="tip_2_4_summary">\"กำลังเล่น\" จะแสดงข้อมูลเพลงที่เล่นอยู่ให้คุณได้ทุกที่โดยอัตโนมัติ</string>
+    <string name="tip_2_4_title">ดูชื่อเพลงด้วย \"กำลังเล่น\"</string>
+    <string name="tip_2_5_link">เปิดกล้องถ่ายรูป</string>
+    <string name="tip_2_5_media_description">วิดีโอเกี่ยวกับกล้องถ่ายรูป</string>
+    <string name="tip_2_5_summary">Pixel ระบุหมายเลขโทรศัพท์ ที่อยู่ อีเมล บาร์โค้ด และโค้ด QR ได้โดยอัตโนมัติ เพียงเปิดกล้อง เล็งไปที่จุดที่ต้องการ และให้กล้องจัดการที่เหลือเอง</string>
+    <string name="tip_2_5_title">ใช้กล้องถ่ายรูปให้เป็นประโยชน์</string>
+    <string name="tip_3_1_link">เปิดกล้องถ่ายรูป</string>
+    <string name="tip_3_1_media_description">วิดีโอเกี่ยวกับโหมดในกล้องถ่ายรูป</string>
+    <string name="tip_3_1_summary">"บางครั้งคุณก็อยากถ่ายรูป ถ่ายวิดีโอ แล้วก็ไปทำอะไรอย่างอื่นอีก 
+
+หากต้องการสลับระหว่างโหมดต่างๆ ให้เปิดช่องมองภาพของกล้อง และเลื่อนไปทางซ้ายหรือขวา แตะ \"เพิ่มเติม\" เพื่อดูตัวเลือกอื่นๆ"</string>
+    <string name="tip_3_1_title">สลับระหว่างรูปภาพ วิดีโอ และอื่นๆ</string>
+    <string name="tip_3_2_link">เปิดกล้องถ่ายรูป</string>
+    <string name="tip_3_2_media_description">วิดีโอเกี่ยวกับการถ่ายภาพบุคคล</string>
+    <string name="tip_3_2_summary">"ในโหมดภาพบุคคล Pixel จะเบลอพื้นหลังให้คุณได้ภาพที่สวยงามและเป็นมืออาชีพ ลองใช้และดูด้วยตาคุณเองเลย
+
+เพียงเปิดกล้อง เลื่อนนิ้วจากซ้ายไปขวา คุณก็พร้อมถ่ายแล้ว"</string>
+    <string name="tip_3_2_title">ถ่ายภาพบุคคลสวยๆ</string>
+    <string name="tip_3_3_media_description">วิดีโอเกี่ยวกับการถ่ายภาพหน้าจอ</string>
+    <string name="tip_3_3_summary">"กดปุ่มเปิด/ปิดค้างไว้ จากนั้นแตะ \"ภาพหน้าจอ\" โทรศัพท์ก็จะจับภาพหน้าจอให้ทันที
+
+หากต้องการวาดเขียนในภาพหน้าจอ ให้แตะ \"แก้ไข\" ในการแจ้งเตือนที่ปรากฏขึ้น"</string>
+    <string name="tip_3_3_title">ถ่ายและแก้ไขภาพหน้าจออย่างรวดเร็ว</string>
+    <string name="tip_3_4_link">เปิดกล้องถ่ายรูป</string>
+    <string name="tip_3_4_media_description">วิดีโอเกี่ยวกับการเลือกช่วงเวลาที่ดีที่สุดด้วย Top Shot</string>
+    <string name="tip_3_4_summary">"ทุกครั้งที่คุณถ่ายภาพ Pixel จะบันทึกภาพเผื่อไว้ 1-2 ภาพเพื่อให้คุณได้รูปที่สวยสมบูรณ์
+
+1. ตรวจสอบว่า \"ภาพเคลื่อนไหว\" [icon_span] เปิดอยู่ แล้วจึงถ่ายภาพ
+2. เมื่อจะดูรูปภาพ เพียงเลื่อนขึ้นจากด้านล่าง
+3. แตะ \"ภาพช็อตต่างๆ ของรูปนี้\" เพื่อเลือกดูภาพอื่นๆ"</string>
+    <string name="tip_3_4_title">เลือกช่วงเวลาที่ดีที่สุดด้วย Top Shot</string>
+    <string name="tip_3_5_link">เปิดกล้องถ่ายรูป</string>
+    <string name="tip_3_5_media_description">วิดีโอเกี่ยวกับการถ่ายเซลฟีหมู่</string>
+    <string name="tip_3_5_summary">"เซลฟีหมู่เพิ่มพื้นที่ในรูปภาพให้เห็นเพื่อนๆ หรือทัศนียภาพมากขึ้นโดยไม่ต้องใช้ไม้เซลฟี
+
+1. เปลี่ยนไปใช้กล้องหน้า [icon_span]
+2. แตะหน้าจอสองครั้งหรือบีบนิ้วเข้าหากันเพื่อซูมออก"</string>
+    <string name="tip_3_5_title">ถ่ายเซลฟีหมู่</string>
+    <string name="tip_4_1_link">เปิด Messages</string>
+    <string name="tip_4_1_media_description">วิดีโอเกี่ยวกับการส่งรูปภาพ</string>
+    <string name="tip_4_1_summary">"1. เปิดการสนทนาในแอป Messages
+2. แตะเขียน [icon_span] ทางด้านซ้ายของบริเวณที่พิมพ์ข้อความ
+3. เลือกรูปภาพ อีโมจิ หรือสติกเกอร์ตามต้องการ"</string>
+    <string name="tip_4_1_title">ส่งรูปภาพ</string>
+    <string name="tip_4_2_link">ติดตั้ง Duo</string>
+    <string name="tip_4_2_link_off">ติดตั้ง Duo</string>
+    <string name="tip_4_2_link_on">เปิด Duo</string>
+    <string name="tip_4_2_media_description">วิดีโอเกี่ยวกับ Google Duo</string>
+    <string name="tip_4_2_summary">"ไม่มีอะไรดีไปกว่าการได้คุยกับเพื่อนสนิทและครอบครัวแบบเห็นหน้ากัน Pixel จึงทำให้การโทรวิดีโอคอลเป็นเรื่องง่ายด้วย Google Duo
+
+1. เปิดแอป Google Duo
+2. ค้นหารายชื่อติดต่อ
+3. แตะ 1 ครั้งเพื่อโทรวิดีโอคอลหรือเชิญให้คนอื่นดาวน์โหลด Google Duo
+
+เพื่อนที่ใช้โทรศัพท์และแท็บเล็ต iOSⓇ ก็ใช้ Google Duo ได้เหมือนกัน"</string>
+    <string name="tip_4_2_title">โทรวิดีโอคอลด้วย Google Duo</string>
+    <string name="tip_4_3_link">เปิด Google Photos</string>
+    <string name="tip_4_3_media_description">วิดีโอเกี่ยวกับการแชร์รูปถ่าย</string>
+    <string name="tip_4_3_summary">"1. เปิด Google Photos
+2. แตะรูปภาพค้างไว้เพื่อเลือก
+3. เลือกรูปภาพหลายภาพตามต้องการ
+4. แตะแชร์ [icon_span]
+5. เลือกคนที่ต้องการแชร์ด้วย"</string>
+    <string name="tip_4_3_title">แชร์รูปภาพ</string>
+    <string name="tip_4_4_link">เริ่มต้น</string>
+    <string name="tip_4_4_media_description">วิดีโอเกี่ยวกับการส่งข้อความจากคอมพิวเตอร์</string>
+    <string name="tip_4_4_summary">"คุณส่งข้อความจากคอมพิวเตอร์ได้โดยใช้ Android Messages หากต้องการเริ่มต้นใช้งาน ให้ไปที่แอป Messages แล้วเลือก “Messages สำหรับเว็บ” ในเมนู
+
+นอกจากการส่งข้อความแล้ว คุณยังส่งสติกเกอร์ อีโมจิ และแนบรูปภาพได้ด้วย"</string>
+    <string name="tip_4_4_title">ส่งข้อความจากคอมพิวเตอร์</string>
+    <string name="tip_5_1_link">ไปที่การตั้งค่า</string>
+    <string name="tip_5_1_link_off">เปิดในการตั้งค่า</string>
+    <string name="tip_5_1_link_on">ไปที่การตั้งค่า</string>
+    <string name="tip_5_1_media_description">วิดีโอเกี่ยวกับการดูการแจ้งเตือนในโทรศัพท์</string>
+    <string name="tip_5_1_summary">ดูเวลา การแจ้งเตือน และอื่นๆ ได้ด้วยการแตะหน้าจอ 2 ครั้ง</string>
+    <string name="tip_5_1_title">แตะ 2 ครั้งเพื่อดูโทรศัพท์</string>
+    <string name="tip_5_2_link">ไปที่การตั้งค่า</string>
+    <string name="tip_5_2_link_off">เปิดในการตั้งค่า</string>
+    <string name="tip_5_2_link_on">ไปที่การตั้งค่า</string>
+    <string name="tip_5_2_media_description">วิดีโอเกี่ยวกับการข้ามไปที่กล้องถ่ายรูป</string>
+    <string name="tip_5_2_summary">กดปุ่มเปิด/ปิด 2 ครั้งเพื่อใช้กล้องถ่ายรูปได้ทันทีจากหน้าจอใดก็ได้</string>
+    <string name="tip_5_2_title">ข้ามไปที่กล้องถ่ายรูป</string>
+    <string name="tip_5_3_link">ไปที่การตั้งค่า</string>
+    <string name="tip_5_3_link_off">เปิดในการตั้งค่า</string>
+    <string name="tip_5_3_link_on">ไปที่การตั้งค่า</string>
+    <string name="tip_5_3_media_description">วิดีโอเกี่ยวกับการเปลี่ยนเป็นโหมดแนวตั้ง</string>
+    <string name="tip_5_3_summary">หากต้องการเข้าและออกจากโหมดเซลฟีในกล้องถ่ายรูป บิดข้อมือ 2 ครั้งขณะที่อยู่ในแอป</string>
+    <string name="tip_5_3_title">พลิกกล้อง</string>
+    <string name="tip_5_4_link">ไปที่การตั้งค่า</string>
+    <string name="tip_5_4_link_off">เปิดใช้ในการตั้งค่า</string>
+    <string name="tip_5_4_link_on">ไปที่การตั้งค่า</string>
+    <string name="tip_5_4_media_description">วิดีโอเกี่ยวกับการเลื่อนนิ้วผ่านเซ็นเซอร์ลายนิ้วมือเพื่อดูการแจ้งเตือน</string>
+    <string name="tip_5_4_summary">"ดูการแจ้งเตือนได้โดยเลื่อนนิ้วลงผ่านเซ็นเซอร์ลายนิ้วมือที่ด้านหลังโทรศัพท์
+และเลื่อนนิ้วอีกครั้งเพื่อดูการตั้งค่าด่วน"</string>
+    <string name="tip_5_4_title">เลื่อนนิ้วผ่านเซ็นเซอร์ลายนิ้วมือเพื่อดูการแจ้งเตือน</string>
+    <string name="tip_5_5_media_description">วิดีโอเกี่ยวกับการสลับแอป</string>
+    <string name="tip_5_5_summary">หากต้องการสลับระหว่างแอปต่างๆ ให้เลื่อนส่วนล่างของหน้าจอจากซ้ายไปขวา และปล่อยนิ้วเพื่อเปิดแอป</string>
+    <string name="tip_5_5_title">สลับระหว่างแอปได้รวดเร็วขึ้น</string>
+    <string name="tip_6_1_link">การตั้งค่าแสงตอนกลางคืน</string>
+    <string name="tip_6_1_media_description">วิดีโอเกี่ยวกับแสงตอนกลางคืน</string>
+    <string name="tip_6_1_summary">"\"แสงตอนกลางคืน\" จะปรับให้หน้าจอเป็นสีเหลืองนวล ช่วยให้ดูหรืออ่านหน้าจอในแสงสลัวได้สบายตาขึ้น และอาจช่วยให้นอนหลับได้ง่ายขึ้นด้วย
+
+เปิดหรือปิดแสงตอนกลางคืนได้อย่างรวดเร็วที่การตั้งค่าด่วน หรือจะแตะค้างไว้เพื่อตั้งเวลาก็ได้"</string>
+    <string name="tip_6_1_title">นอนหลับได้ง่ายขึ้นด้วยแสงตอนกลางคืน</string>
+    <string name="tip_6_2_link">อัปเดตไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_2_link_off">อัปเดตไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_2_link_on">ตั้งค่าฟีเจอร์พักผ่อน</string>
+    <string name="tip_6_2_media_description">วิดีโอเกี่ยวกับการตั้งเวลาเข้านอนด้วยฟีเจอร์พักผ่อน</string>
+    <string name="tip_6_2_summary">"ตั้งเวลาเลิกใช้โทรศัพท์ในแต่ละคืน
+
+1. เปิด \"ไลฟ์สไตล์ดิจิทัล\" [icon_span]
+2. แตะ \"พักผ่อน\"
+3. ตั้งเวลาการพักผ่อน
+
+เมื่อใกล้ถึงเวลาเข้านอน หน้าจอจะเปลี่ยนสี และโหมดห้ามรบกวนจะป้องกันไม่ให้มีการแจ้งเตือนมารบกวนการนอนหลับของคุณ"</string>
+    <string name="tip_6_2_title">ตั้งเวลาเข้านอนด้วยฟีเจอร์พักผ่อน</string>
+    <string name="tip_6_3_link">ลองใช้ฟีเจอร์พลิกเพื่อปิดเสียง</string>
+    <string name="tip_6_3_link_off">อัปเดตไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_3_link_on">ไปที่การตั้งค่า</string>
+    <string name="tip_6_3_media_description">วิดีโอเกี่ยวกับการหยุดสิ่งรบกวนอย่างรวดเร็ว</string>
+    <string name="tip_6_3_summary">ด้วยฟีเจอร์ \"พลิกเพื่อปิดเสียง\" จะเปิดโหมดห้ามรบกวน หยุดการแจ้งเตือน หรือปิดเสียงต่างๆ ก็ทำได้ง่ายๆ เพียงแค่คว่ำโทรศัพท์</string>
+    <string name="tip_6_3_title">หยุดสิ่งรบกวนอย่างรวดเร็ว</string>
+    <string name="tip_6_4_link">อัปเดตไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_4_link_off">อัปเดตไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_4_link_on">เปิดแดชบอร์ด</string>
+    <string name="tip_6_4_media_description">วิดีโอเกี่ยวกับไลฟ์สไตล์ดิจิทัล</string>
+    <string name="tip_6_4_summary">ดูแดชบอร์ดไลฟ์สไตล์ดิจิทัลในการตั้งค่าสำหรับภาพรวม \"เวลาอยู่หน้าจอ\" และตั้งเวลาสำหรับแอปที่คุณต้องการใช้น้อยลง</string>
+    <string name="tip_6_4_title">ติดตาม \"เวลาอยู่หน้าจอ\"</string>
+    <string name="tip_7_1_media_description">วิดีโอเกี่ยวกับการจัดระเบียบแอปด้วยโฟลเดอร์</string>
+    <string name="tip_7_1_summary">"สร้างโฟลเดอร์เพื่อจัดระเบียบแอปได้ง่ายๆ
+
+หากต้องการสร้างโฟลเดอร์ ให้ลากแอปไปไว้ด้านบนอีกแอปหนึ่ง  คุณตั้งชื่อโฟลเดอร์ใหม่ได้ถ้าต้องการ
+
+คุณจะลากแอปอื่นๆ มาไว้ในโฟลเดอร์ด้วยก็ได้ หรือลากแอปเพื่อนำออกจากโฟลเดอร์"</string>
+    <string name="tip_7_1_title">จัดระเบียบแอปด้วยโฟลเดอร์</string>
+    <string name="tip_7_2_media_description">วิดีโอเกี่ยวกับการใช้แอป 2 แอปพร้อมกัน</string>
+    <string name="tip_7_2_summary">"ใช้งานพร้อมกัน 2 แอปได้ด้วยการตั้งค่าโหมดแบ่งหน้าจอในโทรศัพท์ แค่นี้ก็ทำงานหลายอย่างพร้อมกันได้เลย
+
+1. เลื่อนขึ้นจากด้านล่างของหน้าจอเพื่อดูแอปล่าสุด
+2. แตะไอคอนแอปที่ด้านบนของหน้าจอค้างไว้
+3. แตะ \"แบ่งหน้าจอ\"
+
+เลื่อนเส้นแบ่งขึ้นหรือลงตามที่ต้องการ เลื่อนแอปออกไปเมื่อใช้งานเสร็จแล้ว"</string>
+    <string name="tip_7_2_title">ดูทีเดียว 2 แอป</string>
+    <string name="tip_7_3_link">เปิด Google Assistant</string>
+    <string name="tip_7_3_media_description">วิดีโอเกี่ยวกับการควบคุมโทรศัพท์ด้วย Assistant</string>
+    <string name="tip_7_3_summary">"Assistant ช่วยให้คุณทำงานต่างๆ ได้เร็วขึ้น หากต้องการพูดคุยกับ Assistant ให้บีบส่วนล่างของโทรศัพท์แล้วปล่อยอย่างรวดเร็ว จากนั้นลองพูดว่า
+
+1. \"ถ่ายเซลฟี\"
+2. \"จับภาพหน้าจอ\"
+3. \"เปิดไฟฉาย\""</string>
+    <string name="tip_7_3_title">ใช้ Google Assistant ช่วยทำสิ่งต่างๆ ในแต่ละวัน</string>
+    <string name="tip_8_1_link">ติดตั้ง Google Keep</string>
+    <string name="tip_8_1_link_off">ติดตั้ง Google Keep</string>
+    <string name="tip_8_1_link_on">เปิด Google Keep</string>
+    <string name="tip_8_1_media_description">วิดีโอเกี่ยวกับการจดโน้ต</string>
+    <string name="tip_8_1_summary">"แอป Google Keep ช่วยให้คุณเก็บไอเดียดีๆ ทุกทีที่คิดได้ โดยเพิ่มโน้ต รายการ รูปภาพ และเสียง
+
+คุณยังตั้งการช่วยเตือนให้ทำงานต่างๆ และใช้ Keep เพื่อแชร์โน้ตกับเพื่อนๆ และครอบครัวได้อย่างง่ายดายด้วย"</string>
+    <string name="tip_8_1_title">จดโน้ตและทำสิ่งต่างๆ อีกมากมายด้วย Google Keep</string>
+    <string name="tip_8_2_link">ติดตั้ง Google News</string>
+    <string name="tip_8_2_link_off">ติดตั้ง Google News</string>
+    <string name="tip_8_2_link_on">เปิด Google News</string>
+    <string name="tip_8_2_media_description">วิดีโอเกี่ยวกับ Google News</string>
+    <string name="tip_8_2_summary">"ดูการรายงานข่าวด่วน ข่าวในท้องถิ่น และข่าวสารยอดนิยมทั่วโลก
+
+ดูพาดหัวยอดนิยมจากแหล่งที่มาที่คุณชื่นชอบได้ด้วยการแตะเพียงครั้งเดียว คุณจะเห็นไทม์ไลน์ของช่วงเวลาสำคัญ ความคิดเห็น การวิเคราะห์ และอื่นๆ เพื่อให้คุณเข้าใจเรื่องราวลึกลงไปอีกขั้น"</string>
+    <string name="tip_8_2_title">ติดตามข่าวสารจาก Google News</string>
+    <string name="tip_8_3_link">ติดตั้ง Google Pay</string>
+    <string name="tip_8_3_link_off">ติดตั้ง Google Pay</string>
+    <string name="tip_8_3_link_on">เปิด Google Pay</string>
+    <string name="tip_8_3_media_description">วิดีโอเกี่ยวกับ Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay เป็นวิธีที่รวดเร็วในการชำระเงินด้วยโทรศัพท์ Pixel ที่ร้านค้าหลายล้านแห่ง วิธีการใช้งานมีดังนี้
+
+1. เพิ่มบัตรลงใน Google Pay
+2. มองหาสัญลักษณ์การชำระเงินแบบไม่ต้องสัมผัส [icon_span] ที่จุดชำระเงิน
+3. ปลดล็อกโทรศัพท์แล้วนำไปจ่อใกล้ๆ เครื่องชำระเงิน
+4. รอจนกว่าจะเห็นเครื่องหมายถูก
+
+แค่นี้ก็เรียบร้อย"</string>
+    <string name="tip_8_3_title">ชำระเงินด้วย Pixel</string>
+    <string name="tips_nav_a11y_media_description">วิดีโอสำหรับการใช้ท่าทางสัมผัสการช่วยเหลือพิเศษแบบใหม่</string>
+    <string name="tips_nav_a11y_summary">"หากต้องการเข้าถึง \"เลือกเพื่อให้อ่าน\" หรือการขยาย ให้ใช้ 2 นิ้วเลื่อนขึ้นจากด้านล่างของหน้าจอ
+
+หากต้องการสลับไปมาระหว่างแอปการช่วยเหลือพิเศษ ให้ใช้ 2 นิ้วเลื่อนขึ้นค้างไว้
+
+คุณจะใช้ท่าทางสัมผัสเหล่านี้ได้เมื่อตั้งค่าเสร็จเรียบร้อยแล้ว"</string>
+    <string name="tips_nav_a11y_title">ใช้ท่าทางสัมผัสการช่วยเหลือพิเศษแบบใหม่</string>
+    <string name="title_download_completed_dialog">โหลดเคล็ดลับใหม่ซ้ำ</string>
+    <string name="try_it_text">ลองดู</string>
+    <string name="zero_state_primary">คุณอ่านครบหมดแล้ว</string>
+    <string name="zero_state_secondary">กลับมาดูเคล็ดลับใหม่ๆ ในภายหลัง</string>
+</resources>

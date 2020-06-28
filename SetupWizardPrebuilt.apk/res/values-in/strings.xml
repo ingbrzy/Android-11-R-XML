@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Kembali ke atas</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="accessibility_no_wifi">Wi-Fi tidak terhubung.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi satu baris.</string>
+    <string name="accessibility_wifi_security_type_none">Jaringan terbuka</string>
+    <string name="accessibility_wifi_security_type_secured">Jaringan aman</string>
+    <string name="accessibility_wifi_signal_full">Sinyal Wi-Fi penuh.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi tiga baris.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi dua baris.</string>
+    <string name="account_exists_info">"Email, kontak, acara kalender, dan lainnya akan disinkronkan dengan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}. Anda juga siap untuk mulai mendownload aplikasi, musik, dan game dari Google Play.
+
+Anda dapat menambahkan dan menghapus akun nanti dengan membuka Setelan > Akun."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> sudah siap.</string>
+    <string name="account_exists_text_unknown_name">Akun Anda sudah siap.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Akun ditambahkan}other{Akun ditambahkan}}</string>
+    <string name="activating_carrier_service_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="activating_unknown_carrier_service_title">Mengaktifkan...</string>
+    <string name="activation_failed_message">"Anda dapat:
+"<ul><li>Mencoba menghubungkan ke data seluler lagi</li>"
+"<li>Menggunakan jaringan yang berbeda untuk menyiapkan</li></ul>"
+
+Jika opsi ini tidak berhasil, Anda juga dapat menyalakan ulang {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat }} dan mencoba lagi."</string>
+    <string name="activation_failed_title">Tidak dapat tersambung ke data seluler</string>
+    <string name="activation_progress_flow">"Terlalu lama?
+
+Perlu waktu agak lama untuk menyambungkan ke data seluler. Anda dapat kembali untuk mencoba menyambungkan ke jaringan lain."</string>
+    <string name="activation_title">Menghubungkan layanan seluler…</string>
+    <string name="activation_unprovisioned_sim_message">Nyalakan ulang {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} dan coba lagi, atau sambungkan ke Wi‑Fi untuk menyiapkan. Jika Anda masih mengalami masalah saat mengaktifkan kuota, hubungi operator.</string>
+    <string name="activation_unprovisioned_title">Data seluler tidak dapat diaktifkan</string>
+    <string name="android_privacy_policy_title">Kebijakan Privasi Tambahan</string>
+    <string name="available_via_carrier">Tersedia melalui %1$s</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="captive_portal_connection_unsuccessful">Tidak dapat terhubung ke internet</string>
+    <string name="captive_portal_description_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="captive_portal_ssl_error_text">Sambungan ini menggunakan sertifikat yang tidak aman atau tidak valid. Pilih jaringan lain dan coba lagi.</string>
+    <string name="captive_portal_title">Menghubungkan…</string>
+    <string name="chrome_privacy_title">Notifikasi Privasi Chrome</string>
+    <string name="chrome_tos_title">Persyaratan Layanan Chrome</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="common_google_play_services_enable_button">Aktifkan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_install_button">Instal</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan layanan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="connect_to_wifi_btn_text">Setelan Wi-Fi</string>
+    <string name="connect_to_wifi_message">Sambungkan ke Wi-Fi untuk melanjutkan</string>
+    <string name="connect_to_wifi_title">Update aplikasi sudah siap</string>
+    <string name="connected_via_app">Tersambung melalui %1$s</string>
+    <string name="connected_via_carrier">Tersambung melalui %1$s</string>
+    <string name="connected_via_network_scorer_default">Otomatis tersambung melalui penyedia rating jaringan</string>
+    <string name="consolidate_captive_portal_description_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="consolidate_captive_portal_title">Memeriksa update…</string>
+    <string name="continue_for_a11y">Lanjutkan menyentuh layar sampai Anda mendengar bunyi bip untuk mengaktifkan mode Aksesibilitas.</string>
+    <string name="date_time_current_date">Tanggal</string>
+    <string name="date_time_current_time">Waktu</string>
+    <string name="date_time_message">Sesuaikan jika perlu.</string>
+    <string name="date_time_setup_title">Tanggal &amp; waktu</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Lanjutkan</string>
+    <string name="decision_point_google_assistant">Asisten Google</string>
+    <string name="decision_point_illustration_description">Langkah-langkah tambahan mencakup Asisten Google, Google Pay, Now Playing, ukuran font, wallpaper, dan lainnya</string>
+    <string name="decision_point_leave_setup">Keluar &amp; dapatkan pengingat</string>
+    <string name="decision_point_now_playing">Now Playing</string>
+    <string name="default_device_name_device">perangkat</string>
+    <string name="default_device_name_phone">ponsel</string>
+    <string name="default_device_name_tablet">tablet</string>
+    <string name="deferred_notification_prompt_title">Menyelesaikan penyiapan ^1</string>
+    <string name="deferred_setup_button_label">Selesaikan penyiapan</string>
+    <string name="deferred_setup_wizard_reason_assistant">berbicara dengan Asisten</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">bicara dengan Asisten Google</string>
+    <string name="deferred_setup_wizard_reason_default">Tinggal beberapa langkah lagi</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">salin data Anda</string>
+    <string name="deferred_setup_wizard_reason_google_pay">menggunakan Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">bayar lebih cepat dengan Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1, dan lainnya</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2, dan lainnya</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Tinggal beberapa langkah lagi, ^1 siap untuk digunakan</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">menyetel wallpaper</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">setel wallpaper Anda</string>
+    <string name="deferred_setup_wizard_title">Selesaikan penyiapan perangkat</string>
+    <string name="deferred_snooze_dialog_option_never">Tidak pernah</string>
+    <string name="deferred_snooze_dialog_option_today">Hari ini</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Besok</string>
+    <string name="deferred_snooze_dialog_title">Ingatkan saya</string>
+    <string name="deferred_welcome_airplane_mode_message">"Anda memerlukan koneksi internet untuk menyelesaikan beberapa langkah penyiapan terakhir.
+
+Jika mode pesawat diaktifkan, sambungan Wi‑Fi, jaringan seluler, dan Bluetooth akan diputuskan."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Siapkan nanti</string>
+    <string name="deferred_welcome_airplane_mode_title">Nonaktifkan mode pesawat?</string>
+    <string name="deferred_welcome_screen_cancel_button">Ingatkan nanti</string>
+    <string name="deferred_welcome_title">Selesaikan penyiapan ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Nonaktifkan</string>
+    <string name="device_owner_continue">Lanjutkan penyiapan</string>
+    <string name="device_owner_reset">Setel ulang {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}</string>
+    <string name="device_owner_warning">{0} mengelola {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} Anda dan dapat mengakses informasi. Jika Anda tidak ingin {0} memiliki akses, reset {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{Tablet}other{Perangkat}} dapat dipantau</string>
+    <string name="dialog_back_button_label">Kembali</string>
+    <string name="dialog_continue_button_label">Lanjutkan</string>
+    <string name="early_update_installing_updates_text">Menginstal update</string>
+    <string name="early_update_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="early_update_timeout_text">Terlalu lama? Coba kembali, lalu sambungkan ke jaringan lain.</string>
+    <string name="early_update_title">Memeriksa update...</string>
+    <string name="emergency_dial">Panggilan darurat</string>
+    <string name="enabled_a11y">Mode Aksesibilitas diaktifkan.</string>
+    <string name="esim_option_button_summary">Tambahkan nomor menggunakan eSIM</string>
+    <string name="esim_option_button_title">Download SIM?</string>
+    <string name="esim_warning_title">Download SIM</string>
+    <string name="esim_warning_txt">Jika Anda adalah pelanggan %1$s, Ana akan mendapatkan panggilan, SMS, dan data dengan mendownload eSIM, bukan dengan memasukkan kartu SIM.</string>
+    <string name="esim_warning_txt_default">Sambungkan ke jaringan seluler dengan mendownload info yang biasanya terdapat di kartu SIM. Ini menggantikan kartu SIM standar dan sama amannya.</string>
+    <string name="exit_loading_launcher">Memuat peluncur…</string>
+    <string name="factory_reset_button">Hapus &amp; Reset</string>
+    <string name="factory_reset_confirmation">Hapus semua akun dan data di {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini? Anda tidak dapat mengurungkan tindakan ini!</string>
+    <string name="factory_reset_confirmation_title">Setel ulang?</string>
+    <string name="factory_reset_instructions">Peringatan: Melakukan reset akan menghapus semua akun dan data pada penyimpanan internal {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini.</string>
+    <string name="factory_reset_title">Setel ulang {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}</string>
+    <string name="final_hold_description_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="final_hold_title">Sedikit sentuhan akhir...</string>
+    <string name="final_hold_title_setup_work_account">Menyiapkan ponsel untuk penyiapan kerja…</string>
+    <string name="gms_account_checkin_title">Mendapatkan info akun...</string>
+    <string name="gms_checkin_description_text">Proses ini mungkin perlu beberapa menit</string>
+    <string name="gms_checkin_description_text_timeout">Terlalu lama? Coba mundur, lalu hubungkan ke jaringan lain.</string>
+    <string name="gms_checkin_title">Memeriksa update...</string>
+    <string name="go_back_button_label">Kembali</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Persyaratan Layanan Google Play</string>
+    <string name="google_plus_privacy_policy_title">Kebijakan Privasi Google Plus</string>
+    <string name="google_privacy_policy_title">Kebijakan Privasi Google</string>
+    <string name="google_provisioning_disclaimer_content">Persyaratan Layanan dan Kebijakan Privasi Google berlaku, Untuk detail selengkapnya, buka &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Persyaratan Layanan Google</string>
+    <string name="invalid_phone_number">Nomor telepon tidak dikenal</string>
+    <string name="invalid_qr_code_content">Minta kode yang tepat dari admin IT</string>
+    <string name="invalid_qr_code_retry">Coba lagi</string>
+    <string name="invalid_qr_code_title">Kode QR salah</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, dan iTunes adalah merek dagang Apple Inc., terdaftar di AS dan negara lain.</string>
+    <string name="language_picker_section_all">Semua bahasa</string>
+    <string name="language_picker_section_suggested">Disarankan</string>
+    <string name="migrate_from_ios_description">Ikuti langkah-langkah ini:</string>
+    <string name="migrate_from_ios_header">Salin data Anda</string>
+    <string name="migrate_from_ios_instructions_1">1. Buka Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Kunjungi <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Ikuti petunjuknya</string>
+    <string name="network_description_text">Pilih jaringan</string>
+    <string name="network_description_text_esim">Untuk mendownload SIM, hubungkan ke Wi‑Fi</string>
+    <string name="network_see_all_wifi">Lihat semua jaringan Wi-Fi</string>
+    <string name="network_timeout_description_text">Coba lagi menggunakan jaringan lainnya. Jika melanjutkan tanpa koneksi internet, Anda dapat menyelesaikan beberapa langkah penyiapan nanti.</string>
+    <string name="network_timeout_title">Tidak dapat tersambung</string>
+    <string name="network_timeout_try_another_network_button">Coba jaringan lainnya</string>
+    <string name="network_title">Sambungkan ke Wi-Fi</string>
+    <string name="network_use_cellular">Gunakan jaringan seluler untuk menyiapkan</string>
+    <string name="network_use_cellular_carrier">Sambungkan ke Wi-Fi nanti</string>
+    <string name="network_wifi_continue_button">Lanjutkan</string>
+    <string name="not_set">Belum disetel</string>
+    <string name="notification_channel_name_deferred">Penyiapan tambahan</string>
+    <string name="notification_channel_name_initial">Penyiapan</string>
+    <string name="notification_channel_name_restore">Pemulihan data</string>
+    <string name="notification_channel_security_name_warnings">Peringatan keamanan</string>
+    <string name="ok_button_label">Oke</string>
+    <string name="ota_agreement_text">Dengan melanjutkan dan menerima pembaruan software ini, Anda menyetujui <annotation link="tos">Persyaratan Layanan Google</annotation> dan <annotation link="google_privacy">Kebijakan Privasi</annotation>.</string>
+    <string name="ota_info">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{Tablet}other{Perangkat}} Anda perlu mendownload update dan dinyalakan ulang.</string>
+    <string name="ota_size">Ukuran: %s</string>
+    <string name="ota_update_title">Update {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}</string>
+    <string name="predeferred_prepare_setup">Menyiapkan penyiapan…</string>
+    <string name="predeferred_prepare_setup_details">Anda segera dapat menyelesaikan penyiapan ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Sambungkan ke Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Sambungkan ke Wi-Fi untuk melanjutkan</string>
+    <string name="predeferred_wifi_required_notification_title">Update aplikasi sudah siap</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="qr_code_scan_title">Memindai kode QR</string>
+    <string name="region_picker_section_all">Semua wilayah</string>
+    <string name="restart_setup_wizard_button_label">Siapkan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Untuk menggunakan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini, Anda terlebih dahulu harus login ke Akun Google pemilik yang digunakan di {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini saat terakhir kali direset.
+
+Karena belum melakukannya, Anda harus menyiapkan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} lagi."</string>
+    <string name="restart_setup_wizard_dialog_title">Belum masuk</string>
+    <string name="restore_failed_message">Tidak dapat memulihkan cadangan</string>
+    <string name="restore_no_backup_message">Tidak ada cadangan yang tersedia di perangkat lainnya</string>
+    <string name="restore_no_backup_title">Tidak dapat memulihkan</string>
+    <string name="restore_stopped_message">Tidak dapat menyelesaikan pemulihan cadangan</string>
+    <string name="restore_title">Memulihkan…</string>
+    <string name="setup_ongoing_notification_text">Ketuk untuk menyelesaikan penyiapan ^1</string>
+    <string name="setup_ongoing_notification_title">Penyiapan ^1 sedang berlangsung</string>
+    <string name="setup_wizard_title">Penyiapan Android</string>
+    <string name="sim_locked_text">"Saat ini ponsel terkunci ke operator lain. Harap gunakan kartu SIM yang valid.
+
+Setelah kartu SIM dimasukkan, mungkin perlu waktu beberapa detik untuk diaktifkan."</string>
+    <string name="sim_locked_title">Kartu SIM tidak didukung</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Jika Anda punya kartu SIM, masukkan sekarang}other{Jika Anda punya kartu SIM, masukkan sekarang}}</string>
+    <string name="sim_missing_title">Sambungkan ke jaringan seluler</string>
+    <string name="sim_ready_message">%1$s sudah siap digunakan</string>
+    <string name="sim_ready_message_carrier_app">Untuk menyelesaikan aktivasi %1$s, Anda harus mendownload aplikasi %2$s. Untuk sekarang, selesaikan penyiapan ponsel.</string>
+    <string name="sim_ready_message_invalid_phone_number">Nomor Anda sudah siap untuk digunakan</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Untuk menyelesaikan aktivasi nomor, Anda harus mendownload aplikasi %1$s. Untuk sekarang, selesaikan penyiapan ponsel.</string>
+    <string name="sim_ready_title">%1$s aktif</string>
+    <string name="sim_ready_title_carrier_app">Hubungkan ke %1$s nanti</string>
+    <string name="sim_setup_ask_every_time">Selalu tanya</string>
+    <string name="sim_setup_select_data">Preferensi kuota</string>
+    <string name="sim_setup_select_data_description">Pilih nomor yang akan digunakan untuk kuota</string>
+    <string name="sim_setup_select_text">Preferensi SMS</string>
+    <string name="sim_setup_select_text_description">Pilih nomor untuk SMS keluar (semua nomor aktif dapat menerima SMS masuk)</string>
+    <string name="sim_setup_select_voice">Preferensi panggilan telepon</string>
+    <string name="sim_setup_select_voice_description">Pilih nomor untuk panggilan keluar (semua nomor aktif dapat menerima telepon masuk)</string>
+    <string name="sim_setup_title">Siapkan kartu SIM</string>
+    <string name="skip_anyway_button_label">Lewati saja</string>
+    <string name="skip_button_label">Lewati</string>
+    <string name="skip_toast">Penyiapan Wizard dilewati</string>
+    <string name="slots_selection_item_summary_activating">Mengaktifkan…</string>
+    <string name="slots_selection_item_summary_error">Tidak dapat diaktifkan sekarang</string>
+    <string name="slots_selection_title">Pilih nomor yang akan digunakan</string>
+    <string name="speed_label_fast">Cepat</string>
+    <string name="speed_label_okay">Oke</string>
+    <string name="speed_label_slow">Lambat</string>
+    <string name="speed_label_very_fast">Sangat Cepat</string>
+    <string name="sud_back_button_label">Kembali</string>
+    <string name="sud_more_button_label">Lainnya</string>
+    <string name="sud_next_button_label">Berikutnya</string>
+    <string name="suggested_actions_description">Siapkan beberapa hal lainnya sekarang, atau cari nanti di Setelan</string>
+    <string name="suggested_actions_description_single_item">Berikut satu hal lagi yang perlu disiapkan di ^1. Anda juga dapat mencarinya nanti di Setelan.</string>
+    <string name="suggested_actions_done_label">Sudah selesai</string>
+    <string name="suggested_actions_no_thanks_label">Lain kali</string>
+    <string name="suggested_actions_title">Ada lagi?</string>
+    <string name="switch_camera">Ganti kamera</string>
+    <string name="switch_to_back_camera_button_content_description">Kamera belakang</string>
+    <string name="switch_to_front_camera_button_content_description">Kamera depan</string>
+    <string name="switched_to_back_camera_announcement">Tombol kini berfungsi sebagai kamera depan</string>
+    <string name="switched_to_front_camera_announcement">Tombol kini berfungsi sebagai kamera belakang</string>
+    <string name="tap_to_sign_up">Ketuk untuk mendaftar</string>
+    <string name="terminate_toast">"Penyiapan Wizard dihentikan
+Perangkat tidak ditetapkan"</string>
+    <string name="try_again_button_label">Coba lagi</string>
+    <string name="url_load_unsuccessful_message">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{Tablet}other{Perangkat}} tidak tersambung ke layanan data seluler. Untuk melihat informasi ini sekarang, buka {0} di browser web.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{Tablet}other{Perangkat}} tidak tersambung ke jaringan Wi‑Fi. Untuk melihat informasi ini sekarang, buka {0} dengan browser web.</string>
+    <string name="user_warning_cannot_switch_message">Tidak dapat beralih kembali ke pengguna pemilik. Harap coba lagi nanti.</string>
+    <string name="user_warning_label_continue">Lanjutkan</string>
+    <string name="user_warning_label_quit">Batal</string>
+    <string name="user_warning_quit_dialog_button_keep">Simpan pengguna</string>
+    <string name="user_warning_quit_dialog_button_remove">Hapus pengguna</string>
+    <string name="user_warning_quit_dialog_message">Hapus pengguna?</string>
+    <string name="user_warning_title">Siapkan pengguna baru</string>
+    <string name="wait_msg">Tunggu sebentar...</string>
+    <string name="web_dialog_unable_to_view">Untuk melihat informasi ini sekarang, buka ^1 dengan browser web.</string>
+    <string name="welcome_accessibility_button">Setelan pandangan</string>
+    <string name="welcome_language_picker_content_description">Bahasa: %s</string>
+    <string name="welcome_language_picker_dialog_title">Pilih bahasa Anda</string>
+    <string name="welcome_message">Halo</string>
+    <string name="welcome_secondary_user_added_text">Anda telah ditambahkan ke {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Penting:</b>"
+
+"<ul><li>Pemilik {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} dapat meng-uninstal aplikasi atau menghapus profil Anda seluruhnya</li>"
+
+"<li>Pengguna lain dapat menerima izin aplikasi yang diupdate</li>"
+
+"<li>Bagikan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini hanya kepada orang yang Anda percaya</li></ul></string>
+    <string name="welcome_start_button_label">Mulai</string>
+    <string name="wifi_add_new_network">Tambahkan jaringan baru</string>
+    <string name="wifi_and_mobile_skipped_message">"Dengan terhubung ke Wi‑Fi atau jaringan seluler, Anda dapat dengan cepat menyiapkan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}.
+
+Tanpa koneksi, Anda tidak dapat:
+
+"<ul><li>Login ke Akun Google</li>"
+
+"<li>Memulihkan aplikasi &amp; data</li>"
+
+"<li>Mendapatkan update software</li>"
+
+"<li>Menyiapkan waktu dan tanggal secara otomatis</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Dengan terhubung ke Wi‑Fi atau jaringan seluler, Anda dapat dengan cepat menyiapkan {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}}.
+
+Tanpa koneksi, Anda tidak dapat:
+
+"<ul><li>Login ke Akun Google</li>"
+
+"<li>Memulihkan aplikasi &amp; data</li>"
+
+"<li>Mendownload SIM</li>"
+
+"<li>Mendapatkan update software</li>"
+
+"<li>Menyiapkan waktu dan tanggal secara otomatis</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Titik akses penuh untuk sementara</string>
+    <string name="wifi_check_password_try_again">Periksa sandi dan coba lagi</string>
+    <string name="wifi_connected_no_internet">Tersambung, tidak ada internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">Tidak tersambung karena jaringan berkualitas rendah</string>
+    <string name="wifi_disabled_generic">Nonaktif</string>
+    <string name="wifi_disabled_network_failure">Kegagalan Konfigurasi IP</string>
+    <string name="wifi_disabled_password_failure">Masalah autentikasi</string>
+    <string name="wifi_fail_to_scan">Tidak dapat memindai jaringan</string>
+    <string name="wifi_ip_address_not_available">Tidak tersedia</string>
+    <string name="wifi_ip_address_title">Alamat IP</string>
+    <string name="wifi_limited_connection">Koneksi terbatas</string>
+    <string name="wifi_mac_address_not_available">Tidak tersedia</string>
+    <string name="wifi_mac_address_title">Alamat MAC</string>
+    <string name="wifi_metered_label">Berbayar</string>
+    <string name="wifi_no_internet">Tidak ada akses internet</string>
+    <string name="wifi_no_internet_no_reconnect">Tidak akan tersambung otomatis</string>
+    <string name="wifi_not_in_range">Tidak dalam jangkauan</string>
+    <string name="wifi_remembered">Disimpan</string>
+    <string name="wifi_scanning">Menelusuri jaringan Wi-Fi...</string>
+    <string name="wifi_set_up_offline_title">Siapkan offline?</string>
+    <string name="wifi_skip_button_label">Siapkan offline</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{Tablet}other{Perangkat}} akan menggunakan jaringan seluler selama proses penyiapan, dan Anda dapat dikenai biaya atas penggunaan data ini. Untuk menghindari kemungkinan dikenai biaya, sambungkan ke Wi‑Fi.</string>
+    <string name="wifi_skipped_title">Kemungkinan tagihan data</string>
+    <string name="wifi_title">Sambungkan ke Wi-Fi</string>
+    <string name="wifi_unmetered_label">Tidak berbayar</string>
+    <string name="work_profile_setup_description">Untuk menyiapkan perangkat ini untuk akun kerja dan memisahkan data kerja dari data pribadi</string>
+    <string name="work_profile_setup_next">Berikutnya</string>
+    <string name="work_profile_setup_skip">Lewati penyiapan akun kerja</string>
+    <string name="work_profile_setup_title">Tambahkan akun kerja Anda</string>
+    <string name="work_setup_interrupted">"Kami menemukan beberapa aktivitas yang tidak wajar di {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini, dan mungkin ada risiko untuk data Anda jika Anda melanjutkan penyiapan.
+
+Untuk memulai dari awal, setel ulang {DEVICE_TYPE,select, PHONE{ponsel}TABLET{tablet}other{perangkat}} ini."</string>
+    <string name="work_setup_interrupted_title">{DEVICE_TYPE,select, PHONE{Ponsel}TABLET{tablet}other{perangkat}} ini mungkin tidak aman</string>
+</resources>

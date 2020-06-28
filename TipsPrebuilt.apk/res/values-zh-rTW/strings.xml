@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 鍵</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空格鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_slice_permission_allow">允許</string>
+    <string name="abc_slice_permission_checkbox">允許「%1$s」顯示任何應用程式的區塊</string>
+    <string name="abc_slice_permission_deny">拒絕</string>
+    <string name="abc_slice_permission_text_1">- 它可以讀取「%1$s」的資訊</string>
+    <string name="abc_slice_permission_text_2">- 它可以在「%1$s」內執行操作</string>
+    <string name="abc_slice_permission_title">要允許「%1$s」顯示「%2$s」的區塊嗎？</string>
+    <string name="abc_slices_permission_request">「%1$s」想要顯示「%2$s」的區塊</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="all_topics_header_text">所有主題</string>
+    <string name="allset_description">"你可以開始使用手機了。
+
+你可以關閉手勢瀏覽功能，改用按鈕返回上一頁、前往首頁及切換應用程式。
+"<annotation id="link">前往「設定」</annotation></string>
+    <string name="allset_hint">向上滑動即可開始使用</string>
+    <string name="allset_page_title">設定完成</string>
+    <string name="allset_setting_link">無障礙工具的導覽設定</string>
+    <string name="allset_title">設定完成！</string>
+    <string name="app_name">Pixel 使用提示</string>
+    <string name="article_helpful_feedback_toast">感謝你的意見回饋。你的意見能協助我們日後通知各種提示。</string>
+    <string name="article_helpful_no">否</string>
+    <string name="article_helpful_talkback_selected_no">已選取否</string>
+    <string name="article_helpful_talkback_selected_yes">已選取是</string>
+    <string name="article_helpful_talkback_unselected_no">已取消選取否</string>
+    <string name="article_helpful_talkback_unselected_yes">已取消選取是</string>
+    <string name="article_helpful_text">有幫助嗎？</string>
+    <string name="article_helpful_yes">是</string>
+    <string name="asset_is_downloading_content_description">正在下載影片/圖片</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">您的裝置並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服務可用性</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務發生錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務，請再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="connectivity_summary_assets_download_slowly">瀏覽影片和圖片時，建議你連上 Wi-Fi 網路或切換網路</string>
+    <string name="connectivity_summary_assets_not_downloaded">必須連上網際網路才能顯示影片和圖片</string>
+    <string name="module_1_0010_summary">切換應用程式、快速變更設定、更專注處理事務及執行其他操作</string>
+    <string name="module_1_0010_tag_text">開始使用</string>
+    <string name="module_1_0010_title">開始使用 [model_name]</string>
+    <string name="module_1_0101_summary">搜尋應用程式、熟悉你的手機及執行其他操作</string>
+    <string name="module_1_0101_tag_text">開始使用</string>
+    <string name="module_1_0101_title">開始使用 Pixel</string>
+    <string name="module_1_1000_summary">你原本使用 iPhoneⓇ 嗎？瞭解如何搜尋應用程式、熟悉你的手機等</string>
+    <string name="module_1_1000_tag_text">開始使用</string>
+    <string name="module_1_1000_title">開始使用 Pixel</string>
+    <string name="module_2_1111_summary">與 Google 助理交談、使用「聽聲辨曲」功能辨識音樂，以及執行其他操作</string>
+    <string name="module_2_1111_tag_text">充分運用 Google 各項服務</string>
+    <string name="module_2_1111_title">充分運用 Google 各項服務</string>
+    <string name="module_3_1111_summary">拍攝美麗的肖像照、滑動即可切換不同模式，以及執行其他操作</string>
+    <string name="module_3_1111_tag_text">盡情享受相機功能</string>
+    <string name="module_3_1111_title">盡情享受你的相機和相片功能</string>
+    <string name="module_4_1111_summary">傳送圖片、進行視訊通話及分享相片</string>
+    <string name="module_4_1111_tag_text">傳送文字訊息和通話</string>
+    <string name="module_4_1111_title">傳送文字訊息和通話</string>
+    <string name="module_5_1111_summary">快速開啟相機、查看通知及執行其他操作</string>
+    <string name="module_5_1111_tag_text">使用手勢</string>
+    <string name="module_5_1111_title">使用手勢快速開啟所需功能</string>
+    <string name="module_6_1111_summary">追蹤你的裝置使用時間、指定放下裝置的時段及執行其他操作</string>
+    <string name="module_6_1111_tag_text">管理數位健康</string>
+    <string name="module_6_1111_title">管理你的數位健康</string>
+    <string name="module_7_1111_summary">同時查看兩個應用程式、將應用程式歸類到資料夾中及執行其他操作</string>
+    <string name="module_7_1111_tag_text">成為專家</string>
+    <string name="module_7_1111_title">成為 Pixel 專家</string>
+    <string name="module_8_1111_summary">新增記事、使用 Pixel 付款及取得最新的新聞報導</string>
+    <string name="module_8_1111_tag_text">瀏覽應用程式</string>
+    <string name="module_8_1111_title">探索必備的 Google 應用程式</string>
+    <string name="next_btn">下一個</string>
+    <string name="next_module_link_back_home_page_text">下一步：查看所有提示</string>
+    <string name="next_module_link_text">下一個單元：%1$s</string>
+    <string name="next_tip_content_description">下一個提示</string>
+    <string name="ob_gesture_app_go_back_media_description">影片：返回上一頁的全新手勢</string>
+    <string name="ob_gesture_app_go_back_summary">如要返回上一個畫面，請從左側或右側邊緣向中央滑動</string>
+    <string name="ob_gesture_app_go_back_title">返回</string>
+    <string name="ob_gesture_app_home_media_description">影片：前往主螢幕的全新手勢</string>
+    <string name="ob_gesture_app_home_summary">"從螢幕底部向上滑動，
+即可前往主螢幕。"</string>
+    <string name="ob_gesture_app_home_title">前往主螢幕</string>
+    <string name="ob_gesture_app_overview_media_description">影片：開啟總覽畫面的全新手勢</string>
+    <string name="ob_gesture_app_overview_summary">從螢幕底部向上滑動並按住</string>
+    <string name="ob_gesture_app_overview_title">切換應用程式</string>
+    <string name="onboarding_education_page_title">瀏覽手勢簡介</string>
+    <string name="previous_module_link_text">上一個：%1$s</string>
+    <string name="previous_tip_content_description">上一個提示</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="settings_search_main_entry_screen_title">[提示和支援] > [探索 Pixel 使用提示]</string>
+    <string name="settings_search_main_entry_summary">如要充分發揮 Pixel 的妙用，請觀看影片及參閱其他相關內容。</string>
+    <string name="smart_space_subtitle_android">輕觸即可查看提示</string>
+    <string name="smart_space_subtitle_ios">輕觸即可查看提示</string>
+    <string name="smart_space_subtitle_others">輕觸即可查看提示</string>
+    <string name="smart_space_subtitle_pixel">探索新功能</string>
+    <string name="smart_space_title">歡迎使用全新 Pixel 手機</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">拍攝肖像、捕捉最佳畫面及執行其他操作</string>
+    <string name="suggestion_summary_module_communication">傳送圖片、進行視訊通話及執行其他操作</string>
+    <string name="suggestion_summary_module_gestures">查看通知、開啟相機及執行其他操作</string>
+    <string name="suggestion_summary_module_google_smarts">與 Google 助理交談及執行其他操作</string>
+    <string name="suggestion_title_module_camera">盡情享受你的相機和相片功能</string>
+    <string name="suggestion_title_module_communication">傳送文字訊息和通話的小訣竅</string>
+    <string name="suggestion_title_module_gestures">使用手勢快速開啟所需功能</string>
+    <string name="suggestion_title_module_google_smarts">充分運用 Google 各項服務</string>
+    <string name="tip_1_1_media_description">影片：搜尋應用程式</string>
+    <string name="tip_1_1_summary">從螢幕底部向上滑動即可查看最近使用的應用程式。畫面底部同時會顯示一列系統預測的應用程式。再次向上滑動即可查看所有應用程式。</string>
+    <string name="tip_1_1_title">搜尋應用程式</string>
+    <string name="tip_1_2_media_description">影片：整理應用程式</string>
+    <string name="tip_1_2_summary">"如要將應用程式新增到主螢幕，只要輕觸並拖曳該應用程式即可。
+
+如要移除應用程式，請按住該應用程式，然後拖曳到螢幕頂端。"</string>
+    <string name="tip_1_2_title">將應用程式新增到主螢幕</string>
+    <string name="tip_1_3_link">前往 Play 商店</string>
+    <string name="tip_1_3_media_description">圖片：主要應用程式</string>
+    <string name="tip_1_3_summary">"開始使用這些應用程式：
+- Play 商店：探索及下載應用程式
+- Google 相簿：搜尋、儲存及分享相片
+- Google Keep：記錄各種資訊、清單和其他內容"</string>
+    <string name="tip_1_3_title">探索主要應用程式</string>
+    <string name="tip_1_4_media_description">影片：通知</string>
+    <string name="tip_1_4_summary">"從螢幕頂端向下滑動即可查看通知。如要清除通知，只要向左或向右滑動即可。
+
+如要查看某則通知的相關資訊，請按住該通知。"</string>
+    <string name="tip_1_4_title">查看通知</string>
+    <string name="tip_1_5_media_description">影片：變更設定</string>
+    <string name="tip_1_5_summary">"從 Pixel 頂端向下滑動可開啟快速設定，再次向下滑動即可查看更多設定。
+
+如要開啟或關閉某項設定，只要輕觸該設定即可。如要查看某項設定的其他選項，請按住該設定。"</string>
+    <string name="tip_1_5_title">快速變更常用設定</string>
+    <string name="tip_1_6_link">前往設定</string>
+    <string name="tip_1_6_media_description">影片：「零打擾」模式</string>
+    <string name="tip_1_6_summary">"如果你希望在使用手機時保持專注，可以將通知設定為停止顯示。
+
+探索「零打擾」模式中新的控制選項。"</string>
+    <string name="tip_1_6_title">「零打擾」模式讓你保持專注</string>
+    <string name="tip_1_7_media_description">影片：查看相關操作</string>
+    <string name="tip_1_7_summary">"輕觸並按住文字即可查看可執行的操作，例如向餐廳訂位。
+
+這項操作支援任何應用程式，甚至可以在切換應用程式時執行。"</string>
+    <string name="tip_1_7_title">選取文字時查看相關操作</string>
+    <string name="tip_1_9_link">前往支援頁面</string>
+    <string name="tip_1_9_media_description">影片：提示和支援</string>
+    <string name="tip_1_9_summary">"你可以隨時獲得更多提示和支援。只要依序前往 [設定] > [提示和支援] 即可查看。
+
+你可以探索實用提示、瀏覽說明文章或聯絡 Pixel 小組。"</string>
+    <string name="tip_1_9_title">適時取得協助</string>
+    <string name="tip_2_1_link">在「設定」中開啟</string>
+    <string name="tip_2_1_link_description">如要開啟這項功能，請輕觸下方按鈕。</string>
+    <string name="tip_2_1_link_description_off">如要開啟這項功能，請輕觸下方按鈕。</string>
+    <string name="tip_2_1_link_off">在「設定」中開啟</string>
+    <string name="tip_2_1_link_on">握壓設定</string>
+    <string name="tip_2_1_media_description">影片：透過握壓手勢啟動 Google 助理</string>
+    <string name="tip_2_1_summary">隨時都能與 Google 助理交談，只要快速握壓手機下半部再放開即可，即使螢幕處於關閉狀態也沒問題。</string>
+    <string name="tip_2_1_title">透過握壓手勢啟動 Google 助理</string>
+    <string name="tip_2_2_link">更多動作</string>
+    <string name="tip_2_2_media_description">影片：Google 助理操作</string>
+    <string name="tip_2_2_summary">"Pixel 上的 Google 助理可協助你快速查詢資訊，輕鬆處理工作。
+
+只要快速握壓手機下半部再放開，即可與 Google 助理交談，例如：
+
+- 我明天的第一個活動是什麼？
+- 將牙膏加到我的購物清單
+- 回家去"</string>
+    <string name="tip_2_2_title">探索 Google 助理的功能</string>
+    <string name="tip_2_3_link">開啟智慧鏡頭</string>
+    <string name="tip_2_3_media_description">影片：使用 Google 智慧鏡頭進行搜尋</string>
+    <string name="tip_2_3_summary">"看到有興趣的可愛動物、獨特植物或令人印象深刻的地標嗎？可以使用 Google 智慧鏡頭取得相關詳細資訊。
+
+只要開啟相機，輕觸並按住觀景窗，然後輕觸感興趣的項目即可。"</string>
+    <string name="tip_2_3_title">使用 Google 智慧鏡頭，搜尋你的視界</string>
+    <string name="tip_2_4_link">開啟 Google Play</string>
+    <string name="tip_2_4_link_description">如要使用「聽聲辨曲」功能，請更新 Pixel 環境服務。</string>
+    <string name="tip_2_4_link_description_off">如要開啟這項功能，請輕觸下方按鈕。</string>
+    <string name="tip_2_4_link_off">在「設定」中開啟</string>
+    <string name="tip_2_4_link_on">「聽聲辨曲」設定</string>
+    <string name="tip_2_4_media_description">影片：「聽聲辨曲」功能</string>
+    <string name="tip_2_4_summary">無論位於何處，附近正在播放哪首歌曲，「聽聲辨曲」功能都會自動顯示歌曲資訊。</string>
+    <string name="tip_2_4_title">使用「聽聲辨曲」功能辨識音樂</string>
+    <string name="tip_2_5_link">開啟相機</string>
+    <string name="tip_2_5_media_description">影片：相機</string>
+    <string name="tip_2_5_summary">Pixel 會自動辨識電話號碼、地址、電子郵件地址、條碼和 QR 圖碼。只要開啟相機並對準目標，系統就會開始進行辨識。</string>
+    <string name="tip_2_5_title">善用相機功能</string>
+    <string name="tip_3_1_link">開啟相機</string>
+    <string name="tip_3_1_media_description">影片：相機模式</string>
+    <string name="tip_3_1_summary">"有時你可能想先拍照再錄影，接著再調整一些設定。
+
+如要切換不同模式，只要開啟相機取景器並向左或向右滑動即可。如要查看其他選項，請輕觸 [更多]。"</string>
+    <string name="tip_3_1_title">切換相片、影片等模式</string>
+    <string name="tip_3_2_link">開啟相機</string>
+    <string name="tip_3_2_media_description">影片：拍攝肖像照</string>
+    <string name="tip_3_2_summary">"開啟肖像模式時，Pixel 會將背景模糊處理，藉此呈現美麗又專業的相片。歡迎親自體驗肖像模式。
+
+只要開啟相機並從左向右滑動，即可開啟這個模式。"</string>
+    <string name="tip_3_2_title">拍攝美麗的肖像照</string>
+    <string name="tip_3_3_media_description">影片：擷取螢幕畫面</string>
+    <string name="tip_3_3_summary">"只要按住電源按鈕並輕觸 [擷取螢幕畫面]，即可拍下螢幕畫面。
+
+如要在螢幕擷取畫面上繪圖，請在顯示的通知上輕觸 [編輯]。"</string>
+    <string name="tip_3_3_title">快速擷取及編輯螢幕畫面</string>
+    <string name="tip_3_4_link">開啟相機</string>
+    <string name="tip_3_4_media_description">影片：使用「絕佳鏡頭」功能，挑出最美好的瞬間。</string>
+    <string name="tip_3_4_summary">"每次拍照時，Pixel 都會另外儲存一到兩張相片，讓你能取得最佳畫面。
+
+1. 確認你已開啟動態模式 [icon_span] 後再拍照
+2. 查看相片時，從底部向上滑動
+3. 輕觸 [這張相片中的畫面] 即可查看其他圖片"</string>
+    <string name="tip_3_4_title">使用「絕佳鏡頭」功能，挑出最美好的瞬間。</string>
+    <string name="tip_3_5_link">開啟相機</string>
+    <string name="tip_3_5_media_description">影片：拍攝團體自拍</string>
+    <string name="tip_3_5_summary">"「團體自拍」功能讓你不必使用自拍棒，即可讓更多好友或風景入鏡。
+
+1. 切換至前置鏡頭 [icon_span]
+2. 輕觸兩下螢幕或雙指向內撥動來進行縮放"</string>
+    <string name="tip_3_5_title">拍攝團體自拍</string>
+    <string name="tip_4_1_link">開啟「訊息」</string>
+    <string name="tip_4_1_media_description">影片：傳送圖片</string>
+    <string name="tip_4_1_summary">"1. 在「訊息」應用程式中開啟對話
+2. 輕觸訊息輸入位置左側的「撰寫」圖示 [icon_span]
+3. 選取要傳送的圖片、表情符號或貼圖"</string>
+    <string name="tip_4_1_title">傳送圖片</string>
+    <string name="tip_4_2_link">安裝 Duo</string>
+    <string name="tip_4_2_link_off">安裝 Duo</string>
+    <string name="tip_4_2_link_on">開啟 Duo</string>
+    <string name="tip_4_2_media_description">影片：Google Duo</string>
+    <string name="tip_4_2_summary">"最棒的事莫過於與親朋好友面對面交談，因此 Pixel 搭載了 Google Duo，讓每位使用者都能輕鬆進行視訊通話。
+
+1. 開啟 Google Duo 應用程式
+2. 搜尋聯絡人
+3. 輕觸一下即可發起視訊通話，或是邀請對方下載 Google Duo
+
+使用 iOSⓇ 手機和平板電腦的好友也能使用 Google Duo。"</string>
+    <string name="tip_4_2_title">使用 Google Duo 進行視訊通話</string>
+    <string name="tip_4_3_link">開啟 Google 相簿</string>
+    <string name="tip_4_3_media_description">影片：分享相片</string>
+    <string name="tip_4_3_summary">"1. 開啟 Google 相簿
+2. 輕觸並按住要選取的圖片
+3. 視需要選取多張圖片
+4. 輕觸「分享」圖示 [icon_span]
+5. 選取分享對象"</string>
+    <string name="tip_4_3_title">分享相片</string>
+    <string name="tip_4_4_link">開始使用</string>
+    <string name="tip_4_4_media_description">影片：透過電腦傳送文字訊息</string>
+    <string name="tip_4_4_summary">"你可以使用 Android 訊息透過電腦傳送文字訊息。如要開始使用，請前往訊息應用程式並選取選單中的 [訊息網頁版]。
+
+除了發送文字訊息，你還可以傳送貼圖、表情符號和附加圖片。"</string>
+    <string name="tip_4_4_title">透過電腦傳送文字訊息</string>
+    <string name="tip_5_1_link">前往設定</string>
+    <string name="tip_5_1_link_off">在「設定」中開啟</string>
+    <string name="tip_5_1_link_on">前往「設定」</string>
+    <string name="tip_5_1_media_description">影片：查看手機</string>
+    <string name="tip_5_1_summary">輕觸兩下螢幕即可查看時間、通知和其他資訊。</string>
+    <string name="tip_5_1_title">輕觸兩下手機即可查看</string>
+    <string name="tip_5_2_link">前往設定</string>
+    <string name="tip_5_2_link_off">在「設定」中開啟</string>
+    <string name="tip_5_2_link_on">前往「設定」</string>
+    <string name="tip_5_2_media_description">影片：快速開啟相機</string>
+    <string name="tip_5_2_summary">在任何畫面中按兩下電源按鈕，就能立即切換至相機。</string>
+    <string name="tip_5_2_title">快速開啟相機</string>
+    <string name="tip_5_3_link">前往設定</string>
+    <string name="tip_5_3_link_off">在「設定」中開啟</string>
+    <string name="tip_5_3_link_on">前往「設定」</string>
+    <string name="tip_5_3_media_description">影片：切換至肖像模式</string>
+    <string name="tip_5_3_summary">使用 Google 相機時，只要扭動手機兩次，就能開啟或關閉自拍模式。</string>
+    <string name="tip_5_3_title">切換鏡頭</string>
+    <string name="tip_5_4_link">前往設定</string>
+    <string name="tip_5_4_link_off">在「設定」中開啟</string>
+    <string name="tip_5_4_link_on">前往設定</string>
+    <string name="tip_5_4_media_description">影片：透過滑動指紋的方式查看通知</string>
+    <string name="tip_5_4_summary">"將手指放在手機背面的指紋感應器並向下滑動，即可查看通知。
+再次滑動可查看快速設定。"</string>
+    <string name="tip_5_4_title">透過滑動指紋的方式查看通知</string>
+    <string name="tip_5_5_media_description">影片：切換應用程式</string>
+    <string name="tip_5_5_summary">如要快速切換應用程式，只要在螢幕底部從左向右捲動然後放開，即可開啟應用程式。</string>
+    <string name="tip_5_5_title">更快捷的應用程式切換方式</string>
+    <string name="tip_6_1_link">夜燈設定</string>
+    <string name="tip_6_1_media_description">影片：夜燈功能</string>
+    <string name="tip_6_1_summary">"夜燈功能會將你的螢幕色調改為琥珀色，讓你更輕鬆地在光線昏暗的環境中查看螢幕，也比較容易入睡。
+
+你可以在快速設定中快速開啟或關閉夜燈功能，或只要輕觸並按住即可設定排程。"</string>
+    <string name="tip_6_1_title">夜燈功能讓你更容易入睡</string>
+    <string name="tip_6_2_link">更新數位健康</string>
+    <string name="tip_6_2_link_off">更新數位健康</string>
+    <string name="tip_6_2_link_on">設定放鬆模式</string>
+    <string name="tip_6_2_media_description">影片：使用放鬆模式設定就寢時間表</string>
+    <string name="tip_6_2_summary">"設定夜間排程以便放下手機。
+
+1. 開啟「數位健康」[icon_span]
+2. 輕觸 [放鬆模式]
+3. 設定放鬆模式排程
+
+到了就寢時間，螢幕會變換顏色，且「零打擾」模式可讓你在睡眠期間不受通知打擾。"</string>
+    <string name="tip_6_2_title">使用放鬆模式設定就寢時間表</string>
+    <string name="tip_6_3_link">嘗試「翻轉即可勿擾」手勢</string>
+    <string name="tip_6_3_link_off">更新數位健康</string>
+    <string name="tip_6_3_link_on">前往設定</string>
+    <string name="tip_6_3_media_description">影片：快速停止干擾</string>
+    <string name="tip_6_3_summary">「翻轉即可勿擾」手勢讓你只需將手機正面朝下，即可開啟「零打擾」模式及關閉通知和音效。</string>
+    <string name="tip_6_3_title">快速停止干擾</string>
+    <string name="tip_6_4_link">更新數位健康</string>
+    <string name="tip_6_4_link_off">更新數位健康</string>
+    <string name="tip_6_4_link_on">開啟資訊主頁</string>
+    <string name="tip_6_4_media_description">影片：數位健康</string>
+    <string name="tip_6_4_summary">在「設定」中的數位健康資訊中心查看裝置使用時間的數據匯報，並為想減少使用時間的應用程式設定計時器。</string>
+    <string name="tip_6_4_title">追蹤你的裝置使用時間</string>
+    <string name="tip_7_1_media_description">影片：將應用程式歸類到資料夾中</string>
+    <string name="tip_7_1_summary">"只要建立資料夾即可輕鬆掌握應用程式的所在位置。
+
+如要建立資料夾，請將某個應用程式拖曳到另一個應用程式上。你可以為新資料夾命名。
+
+你可以將更多應用程式拖曳到資料夾內，也可以將應用程式拖曳到資料夾外將其移除。"</string>
+    <string name="tip_7_1_title">將應用程式歸類到資料夾中</string>
+    <string name="tip_7_2_media_description">影片：同時使用 2 個應用程式</string>
+    <string name="tip_7_2_summary">"你可以在手機上設定分割畫面，即可同時使用兩個應用程式。現在就開始享受多工處理的便利！
+
+1. 從螢幕底部向上滑動即可查看最近使用的應用程式
+2. 輕觸並按住畫面頂端的應用程式圖示
+3. 輕觸 [分割畫面]
+
+依需求將分隔線向上或向下移動。使用完成後，將其向外滑動即可關閉。"</string>
+    <string name="tip_7_2_title">同時查看兩個應用程式</string>
+    <string name="tip_7_3_link">開啟 Google 助理</string>
+    <string name="tip_7_3_media_description">影片：使用 Google 助理控制手機</string>
+    <string name="tip_7_3_summary">"Google 助理可協助你快速執行各項操作。如要與 Google 助理交談，只要快速握壓手機下半部，然後試著說：
+
+1.「自拍」
+2.「擷取螢幕畫面」
+3.「開啟手電筒」"</string>
+    <string name="tip_7_3_title">使用 Google 助理處理生活大小事</string>
+    <string name="tip_8_1_link">安裝 Google Keep</string>
+    <string name="tip_8_1_link_off">安裝 Google Keep</string>
+    <string name="tip_8_1_link_on">開啟 Google Keep</string>
+    <string name="tip_8_1_media_description">影片：新增記事</string>
+    <string name="tip_8_1_summary">"Google Keep 應用程式讓你可以快速記錄當下所思所想，及新增記事、清單、相片和音訊。
+
+你也可以設定提醒，以便記得將工作完成。此外，Keep 可讓你輕鬆與親朋好友分享記事。"</string>
+    <string name="tip_8_1_title">使用 Google Keep 新增記事及進行其他操作</string>
+    <string name="tip_8_2_link">安裝 Google 新聞</string>
+    <string name="tip_8_2_link_off">安裝 Google 新聞</string>
+    <string name="tip_8_2_link_on">開啟 Google 新聞</string>
+    <string name="tip_8_2_media_description">影片：Google 新聞</string>
+    <string name="tip_8_2_summary">"取得即時新聞、地方新聞和全球新聞的熱門報導。
+
+只要輕觸一下，即可查看來自你喜愛媒體的頭條新聞。系統會顯示重要時刻的時間軸、意見和分析等內容，協助你深入瞭解報導。"</string>
+    <string name="tip_8_2_title">透過 Google 新聞即時掌握最新消息</string>
+    <string name="tip_8_3_link">安裝 Google Pay</string>
+    <string name="tip_8_3_link_off">安裝 Google Pay</string>
+    <string name="tip_8_3_link_on">開啟 Google Pay</string>
+    <string name="tip_8_3_media_description">影片：Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay 可讓你在數百萬間商店使用 Pixel 手機快速付款，方法如下：
+
+1. 將卡片新增至 Google Pay
+2. 結帳時尋找感應式付款符號 [icon_span]
+3. 將手機解鎖，然後把手機貼近感應式刷卡機
+4. 等待手機螢幕顯示勾號
+
+大功告成！"</string>
+    <string name="tip_8_3_title">透過 Pixel 付款</string>
+    <string name="tips_nav_a11y_media_description">影片：使用全新的無障礙手勢</string>
+    <string name="tips_nav_a11y_summary">"如要使用隨選朗讀或放大功能，請使用雙指從螢幕底部向上滑動。
+
+如要切換使用不同的無障礙工具應用程式，請使用雙指向上滑動並按住。
+
+完成設定後即可使用上述手勢。"</string>
+    <string name="tips_nav_a11y_title">使用全新的無障礙手勢</string>
+    <string name="title_download_completed_dialog">重新載入新提示</string>
+    <string name="try_it_text">立即體驗</string>
+    <string name="zero_state_primary">你已看過所有提示</string>
+    <string name="zero_state_secondary">請稍後再返回查看新的提示</string>
+</resources>

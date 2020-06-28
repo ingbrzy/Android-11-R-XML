@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_slice_permission_allow">Toestaan</string>
+    <string name="abc_slice_permission_checkbox">%1$s toestaan om segmenten van apps weer te geven</string>
+    <string name="abc_slice_permission_deny">Weigeren</string>
+    <string name="abc_slice_permission_text_1">- Deze kan informatie lezen van %1$s</string>
+    <string name="abc_slice_permission_text_2">- Deze kan acties uitvoeren in %1$s</string>
+    <string name="abc_slice_permission_title">%1$s toestaan om segmenten van %2$s weer te geven?</string>
+    <string name="abc_slices_permission_request">%1$s wil segmenten van %2$s weergeven</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="all_topics_header_text">Alle onderwerpen</string>
+    <string name="allset_description">"Je kunt je telefoon gaan gebruiken.
+
+Je kunt navigatie met gebaren uitschakelen en knoppen gebruiken om terug te gaan, naar het startscherm te gaan en tussen apps te schakelen.
+"<annotation id="link">Ga naar Instellingen</annotation></string>
+    <string name="allset_hint">Veeg omhoog om te beginnen</string>
+    <string name="allset_page_title">Klaar</string>
+    <string name="allset_setting_link">Navigatie-instellingen voor toegankelijkheid</string>
+    <string name="allset_title">Klaar</string>
+    <string name="app_name">Pixel-tips</string>
+    <string name="article_helpful_feedback_toast">Bedankt voor de feedback. We houden hiermee rekening bij toekomstige tips.</string>
+    <string name="article_helpful_no">Nee</string>
+    <string name="article_helpful_talkback_selected_no">"'Nee' geselecteerd"</string>
+    <string name="article_helpful_talkback_selected_yes">"'Ja' geselecteerd"</string>
+    <string name="article_helpful_talkback_unselected_no">"'Nee' gedeselecteerd"</string>
+    <string name="article_helpful_talkback_unselected_yes">"'Ja' gedeselecteerd"</string>
+    <string name="article_helpful_text">Nuttig?</string>
+    <string name="article_helpful_yes">Ja</string>
+    <string name="asset_is_downloading_content_description">Video/afbeelding wordt gedownload</string>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="connectivity_summary_assets_download_slowly">"Maak verbinding met wifi of wijzig het netwerk om video's en afbeeldingen te bekijken"</string>
+    <string name="connectivity_summary_assets_not_downloaded">"Je hebt een internetverbinding nodig om video's en afbeeldingen weer te geven"</string>
+    <string name="module_1_0010_summary">Schakelen tussen apps, instellingen snel wijzigen, beter focussen en meer</string>
+    <string name="module_1_0010_tag_text">Aan de slag</string>
+    <string name="module_1_0010_title">Aan de slag met [model_name]</string>
+    <string name="module_1_0101_summary">Apps vinden, vertrouwd raken met je telefoon en meer</string>
+    <string name="module_1_0101_tag_text">Aan de slag</string>
+    <string name="module_1_0101_title">Aan de slag met de Pixel</string>
+    <string name="module_1_1000_summary">Overgestapt van een iPhoneⓇ? Vind apps, raak vertrouwd met je telefoon en meer</string>
+    <string name="module_1_1000_tag_text">Aan de slag</string>
+    <string name="module_1_1000_title">Aan de slag met de Pixel</string>
+    <string name="module_2_1111_summary">Met je Assistent praten, muziek herkennen met Now Playing en meer</string>
+    <string name="module_2_1111_tag_text">Het maximale uit Google halen</string>
+    <string name="module_2_1111_title">Google optimaal gebruiken</string>
+    <string name="module_3_1111_summary">Prachtige portretten maken, tussen modi vegen en meer</string>
+    <string name="module_3_1111_tag_text">Camera gebruiken</string>
+    <string name="module_3_1111_title">"Je camera en foto's gebruiken"</string>
+    <string name="module_4_1111_summary">"Afbeeldingen verzenden, videogesprekken voeren en foto's delen"</string>
+    <string name="module_4_1111_tag_text">Berichten sturen en bellen</string>
+    <string name="module_4_1111_title">Berichten sturen en bellen</string>
+    <string name="module_5_1111_summary">Snel de camera openen, meldingen controleren en meer</string>
+    <string name="module_5_1111_tag_text">Gebaren gebruiken</string>
+    <string name="module_5_1111_title">Gebaren voor snelkoppelingen</string>
+    <string name="module_6_1111_summary">Je schermtijd bijhouden, een schema instellen om afleidingen te voorkomen en meer</string>
+    <string name="module_6_1111_tag_text">Welzijn beheren</string>
+    <string name="module_6_1111_title">Je digitale welzijn beheren</string>
+    <string name="module_7_1111_summary">Twee apps tegelijk weergeven, apps indelen in mappen en meer</string>
+    <string name="module_7_1111_tag_text">Expert worden</string>
+    <string name="module_7_1111_title">Pixel-expert worden</string>
+    <string name="module_8_1111_summary">Notities maken, betalen met de Pixel en het laatste nieuws ontvangen</string>
+    <string name="module_8_1111_tag_text">Apps verkennen</string>
+    <string name="module_8_1111_title">Google-apps ontdekken</string>
+    <string name="next_btn">Volgende</string>
+    <string name="next_module_link_back_home_page_text">Volgende: Alle tips bekijken</string>
+    <string name="next_module_link_text">Volgende: %1$s</string>
+    <string name="next_tip_content_description">Volgende tip</string>
+    <string name="ob_gesture_app_go_back_media_description">Video over het nieuwe gebaar om terug te gaan</string>
+    <string name="ob_gesture_app_go_back_summary">Als je wilt teruggaan naar het laatste scherm, veeg je naar het midden vanaf de linker- of rechterrand</string>
+    <string name="ob_gesture_app_go_back_title">Terug</string>
+    <string name="ob_gesture_app_home_media_description">Video over het nieuwe gebaar om naar het startscherm te gaan</string>
+    <string name="ob_gesture_app_home_summary">"Veeg omhoog vanaf de onderkant van het scherm.
+Met dit gebaar ga je altijd naar het startscherm."</string>
+    <string name="ob_gesture_app_home_title">Naar homepage</string>
+    <string name="ob_gesture_app_overview_media_description">Video over het nieuwe gebaar voor het overzicht</string>
+    <string name="ob_gesture_app_overview_summary">Veeg omhoog vanaf de onderkant van het scherm en houd vast</string>
+    <string name="ob_gesture_app_overview_title">Schakelen tussen apps</string>
+    <string name="onboarding_education_page_title">Inleiding tot navigatiegebaren</string>
+    <string name="previous_module_link_text">Vorige: %1$s</string>
+    <string name="previous_tip_content_description">Vorige tip</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="settings_search_main_entry_screen_title">Tips en ondersteuning > Pixel-tips ontdekken</string>
+    <string name="settings_search_main_entry_summary">"Haal alles uit je Pixel. Bekijk video's en meer."</string>
+    <string name="smart_space_subtitle_android">Tik voor tips</string>
+    <string name="smart_space_subtitle_ios">Tik voor tips</string>
+    <string name="smart_space_subtitle_others">Tik voor tips</string>
+    <string name="smart_space_subtitle_pixel">Nieuwe functies tonen</string>
+    <string name="smart_space_title">Welkom bij je nieuwe Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">"Portretfoto's maken, de perfecte opname maken en meer"</string>
+    <string name="suggestion_summary_module_communication">Afbeeldingen verzenden, videogesprekken voeren en meer</string>
+    <string name="suggestion_summary_module_gestures">Meldingen controleren, de camera openen en meer</string>
+    <string name="suggestion_summary_module_google_smarts">Praten met je Google Assistent en meer</string>
+    <string name="suggestion_title_module_camera">"Je camera en foto's gebruiken"</string>
+    <string name="suggestion_title_module_communication">Tips voor berichten en gesprekken</string>
+    <string name="suggestion_title_module_gestures">Gebaren gebruiken voor snelkoppelingen</string>
+    <string name="suggestion_title_module_google_smarts">Google optimaal gebruiken</string>
+    <string name="tip_1_1_media_description">Video over hoe je apps vindt</string>
+    <string name="tip_1_1_summary">Veeg vanaf de onderkant van je scherm omhoog om recent gebruikte apps te bekijken. Helemaal onderaan zie je ook voorgestelde apps. Veeg opnieuw omhoog om al je apps te bekijken.</string>
+    <string name="tip_1_1_title">Je apps vinden</string>
+    <string name="tip_1_2_media_description">Video over hoe je apps organiseert</string>
+    <string name="tip_1_2_summary">"Als je een app wilt toevoegen aan je startscherm, tik je op de app en versleep je deze naar het startscherm.
+
+Als je een app wilt verwijderen, tik je op de app en houd je deze vast. Sleep de app vervolgens naar de bovenkant van je scherm."</string>
+    <string name="tip_1_2_title">Apps toevoegen aan startscherm</string>
+    <string name="tip_1_3_link">Ga naar de Play Store</string>
+    <string name="tip_1_3_media_description">Afbeelding over belangrijke apps</string>
+    <string name="tip_1_3_summary">"Ga aan de slag met de volgende apps:
+- Play Store: apps downloaden en ontdekken
+- Google Foto's: foto's zoeken, opslaan en delen
+- Google Keep: notities, lijstjes en meer vastleggen"</string>
+    <string name="tip_1_3_title">De belangrijkste apps ontdekken</string>
+    <string name="tip_1_4_media_description">Video over meldingen</string>
+    <string name="tip_1_4_summary">"Veeg vanaf de bovenkant van je scherm omlaag om je meldingen te bekijken. Als je een melding wilt wissen, veeg je deze naar links of naar rechts.
+
+Tik op een melding en houd deze vast voor meer informatie."</string>
+    <string name="tip_1_4_title">Je meldingen bekijken</string>
+    <string name="tip_1_5_media_description">Video over hoe je instellingen wijzigt</string>
+    <string name="tip_1_5_summary">"Veeg vanaf de bovenkant van je Pixel omlaag om 'Snelle instellingen' te openen. Veeg opnieuw omlaag voor meer instellingen.
+
+Tik op een instelling als je deze wilt in- of uitschakelen. Tik op een instelling en houd deze vast om meer opties voor deze instelling te bekijken."</string>
+    <string name="tip_1_5_title">Snel veelgebruikte instellingen wijzigen</string>
+    <string name="tip_1_6_link">Naar Instellingen</string>
+    <string name="tip_1_6_media_description">"Video over 'Niet storen'"</string>
+    <string name="tip_1_6_summary">"Als je je telefoon gebruikt en je aandacht ergens bij wilt houden, kun je uitschakelen dat meldingen worden weergegeven.
+
+Ontdek nieuwe opties in 'Niet storen'."</string>
+    <string name="tip_1_6_title">"Beter focussen met 'Niet storen'"</string>
+    <string name="tip_1_7_media_description">Video over hoe je acties bekijkt</string>
+    <string name="tip_1_7_summary">"Tik op tekst en houd deze vast om beschikbare acties te bekijken, zoals een restaurant reserveren.
+
+Je kunt dit doen vanuit elke app. Dit werkt zelfs wanneer je tussen apps schakelt."</string>
+    <string name="tip_1_7_title">Acties bekijken wanneer je tekst selecteert</string>
+    <string name="tip_1_9_link">Naar ondersteuning</string>
+    <string name="tip_1_9_media_description">"Video over 'Tips en ondersteuning'"</string>
+    <string name="tip_1_9_summary">"Er zijn altijd meer tips en ondersteuning beschikbaar. Ga naar Instellingen > Tips en ondersteuning.
+
+Je kunt tips bekijken, door Help-artikelen browsen of contact opnemen met het Pixel-team."</string>
+    <string name="tip_1_9_title">Hulp wanneer je die nodig hebt</string>
+    <string name="tip_2_1_link">Openen in Instellingen</string>
+    <string name="tip_2_1_link_description">Tik op de knop hieronder om deze functie in te schakelen.</string>
+    <string name="tip_2_1_link_description_off">Tik op de knop hieronder om deze functie in te schakelen.</string>
+    <string name="tip_2_1_link_off">Inschakelen in Instellingen</string>
+    <string name="tip_2_1_link_on">Instellingen voor knijpen</string>
+    <string name="tip_2_1_media_description">"Video over 'Knijpen voor je Assistent'"</string>
+    <string name="tip_2_1_summary">Knijp kort in de onderste helft van je telefoon en laat los om met de Assistent te praten (zelfs wanneer het scherm is uitgeschakeld)</string>
+    <string name="tip_2_1_title">Knijpen voor je Assistent</string>
+    <string name="tip_2_2_link">Meer acties</string>
+    <string name="tip_2_2_media_description">Video over Assistent-acties</string>
+    <string name="tip_2_2_summary">"Je Google Assistent is een snelle en makkelijke manier om antwoorden te vinden en functies te gebruiken op je Pixel.
+
+Knijp kort in de onderste helft van je telefoon, laat los en zeg bijvoorbeeld:
+
+- Wanneer is mijn eerste afspraak morgen?
+- Zet tandpasta op mijn boodschappenlijstje
+- We gaan naar huis"</string>
+    <string name="tip_2_2_title">Ontdekken wat je Assistent kan doen</string>
+    <string name="tip_2_3_link">Lens openen</string>
+    <string name="tip_2_3_media_description">Video over hoe je zoekt met Google Lens</string>
+    <string name="tip_2_3_summary">"Zie je een schattig dier, een unieke plant of een indrukwekkend monument dat je aandacht trekt? Gebruik Google Lens voor meer informatie.
+
+Open je camera. Tik in de zoeker en houd vast. Tik vervolgens op dat wat je interesse heeft gewekt."</string>
+    <string name="tip_2_3_title">Met Google Lens zoeken wat je ziet</string>
+    <string name="tip_2_4_link">Google Play openen</string>
+    <string name="tip_2_4_link_description">Als je Now Playing wilt gebruiken, moet je Pixel Ambient Services updaten.</string>
+    <string name="tip_2_4_link_description_off">Tik op de knop hieronder om deze functie in te schakelen.</string>
+    <string name="tip_2_4_link_off">Inschakelen in Instellingen</string>
+    <string name="tip_2_4_link_on">"Instellingen van 'Now Playing'"</string>
+    <string name="tip_2_4_media_description">"Video over 'Now Playing'"</string>
+    <string name="tip_2_4_summary">Now Playing geeft automatisch informatie weer over een nummer dat wordt afgespeeld, waar je ook bent.</string>
+    <string name="tip_2_4_title">Weet welke muziek wordt afgespeeld met Now Playing</string>
+    <string name="tip_2_5_link">Camera openen</string>
+    <string name="tip_2_5_media_description">Video over de camera</string>
+    <string name="tip_2_5_summary">Je Pixel herkent automatisch telefoonnummers, adressen, e-mailadressen, streepjescodes en QR-codes. Open je camera, richt deze op het object en laat je camera het werk doen.</string>
+    <string name="tip_2_5_title">Je camera aan het werk zetten</string>
+    <string name="tip_3_1_link">Camera openen</string>
+    <string name="tip_3_1_media_description">Video over cameramodi</string>
+    <string name="tip_3_1_summary">"Soms wil je eerst een foto maken, vervolgens een video opnemen en dan nog iets anders.
+
+Open de Camera-zoeker en veeg naar rechts of links om te schakelen tussen de opties. Tik op Meer voor extra opties."</string>
+    <string name="tip_3_1_title">Van foto naar video en meer</string>
+    <string name="tip_3_2_link">Camera openen</string>
+    <string name="tip_3_2_media_description">Video over hoe je portretten maakt</string>
+    <string name="tip_3_2_summary">"In de portretmodus vervaagt Pixel de achtergrond voor een prachtige, professionele uitstraling. Probeer het nu zelf uit.
+
+Open je camera, veeg van links naar rechts en je bent er klaar voor."</string>
+    <string name="tip_3_2_title">Prachtige portretten maken</string>
+    <string name="tip_3_3_media_description">Video over hoe je screenshots maakt</string>
+    <string name="tip_3_3_summary">"Druk op de aan/uit-knop en houd deze ingedrukt. Tik vervolgens op Screenshot. Voilà, je hebt een screenshot gemaakt.
+
+Als je op het screenshot wilt tekenen, tik je op Bewerken in de melding die wordt weergegeven."</string>
+    <string name="tip_3_3_title">Snel screenshots maken en bewerken</string>
+    <string name="tip_3_4_link">Camera openen</string>
+    <string name="tip_3_4_media_description">Video over hoe je het perfecte moment kiest met Topfoto</string>
+    <string name="tip_3_4_summary">"Elke keer dat je een foto maakt, slaat de Pixel één of twee extra afbeeldingen op, zodat je de perfecte opname kunt kiezen.
+
+1. Zorg ervoor dat Beweging [icon_span] is ingeschakeld en maak je foto.
+2. Wanneer je de foto bekijkt, veeg je omhoog vanaf de onderkant.
+3. Tik op 'Foto's in deze video' om alternatieve afbeeldingen te bekijken."</string>
+    <string name="tip_3_4_title">Het perfecte moment kiezen met Topfoto</string>
+    <string name="tip_3_5_link">Camera openen</string>
+    <string name="tip_3_5_media_description">Video over hoe je een groepsselfie maakt</string>
+    <string name="tip_3_5_summary">"Met de functie voor groepsselfies heb je meer ruimte op je foto voor vrienden of de omgeving (je hebt geen selfiestick nodig).
+
+1. Schakel over naar de camera aan de voorzijde [icon_span].
+2. Dubbeltik op het scherm of knijp je vingers samen om uit te zoomen."</string>
+    <string name="tip_3_5_title">Een groepsselfie maken</string>
+    <string name="tip_4_1_link">Berichten openen</string>
+    <string name="tip_4_1_media_description">Video over hoe je afbeeldingen verzendt</string>
+    <string name="tip_4_1_summary">"1. Open een gesprek in de app Berichten.
+2. Tik op Opstellen [icon_span] aan de linkerkant van waar je je bericht typt.
+3. Selecteer de perfecte afbeelding, emoji of sticker."</string>
+    <string name="tip_4_1_title">Afbeeldingen verzenden</string>
+    <string name="tip_4_2_link">Duo installeren</string>
+    <string name="tip_4_2_link_off">Duo installeren</string>
+    <string name="tip_4_2_link_on">Duo openen</string>
+    <string name="tip_4_2_media_description">Video over Google Duo</string>
+    <string name="tip_4_2_summary">"Er gaat niets boven lekker bijkletsen met je beste vrienden en familie. Daarom heeft Pixel videobellen makkelijk gemaakt met Google Duo.
+
+1. Open de Google Duo-app.
+2. Zoek een contact.
+3. Start een videogesprek met één tik of nodig je contact uit om Google Duo te downloaden.
+
+Je vrienden op iOSⓇ-telefoons en -tablets kunnen Google Duo ook gebruiken."</string>
+    <string name="tip_4_2_title">Videobellen met Google Duo</string>
+    <string name="tip_4_3_link">"Google Foto's openen"</string>
+    <string name="tip_4_3_media_description">"Video over hoe je foto's deelt"</string>
+    <string name="tip_4_3_summary">"1. Open Google Foto's
+2. Tik op een afbeelding en houd vast om deze te selecteren
+3. Selecteer desgewenst meerdere afbeeldingen
+4. Tik op Delen [icon_span]
+5. Selecteer mensen waarmee je de afbeelding(en) wilt delen"</string>
+    <string name="tip_4_3_title">"Foto's delen"</string>
+    <string name="tip_4_4_link">Aan de slag</string>
+    <string name="tip_4_4_media_description">"Video over hoe je kunt sms'en vanaf je computer"</string>
+    <string name="tip_4_4_summary">"Je kunt sms'en vanaf je computer met Android Berichten. Als je aan de slag wilt gaan, ga je naar je Berichten-app en selecteer je 'Berichten voor het web' in het menu.
+
+Naast sms'en kun je stickers en emoji's verzenden en afbeeldingen bijvoegen."</string>
+    <string name="tip_4_4_title">"Sms'en vanaf je computer"</string>
+    <string name="tip_5_1_link">Naar Instellingen</string>
+    <string name="tip_5_1_link_off">Dit inschakelen via Instellingen</string>
+    <string name="tip_5_1_link_on">Ga naar Instellingen</string>
+    <string name="tip_5_1_media_description">Video over hoe je je telefoon controleert</string>
+    <string name="tip_5_1_summary">Je kunt de tijd, meldingen en meer controleren door op het scherm te dubbeltikken.</string>
+    <string name="tip_5_1_title">Dubbeltikken om telefoon te checken</string>
+    <string name="tip_5_2_link">Naar Instellingen</string>
+    <string name="tip_5_2_link_off">Dit inschakelen via Instellingen</string>
+    <string name="tip_5_2_link_on">Ga naar Instellingen</string>
+    <string name="tip_5_2_media_description">Video over hoe je naar de camera schakelt</string>
+    <string name="tip_5_2_summary">Druk in elk willekeurig scherm twee keer op de aan/uit-knop om direct naar je camera te gaan.</string>
+    <string name="tip_5_2_title">Naar camera</string>
+    <string name="tip_5_3_link">Naar Instellingen</string>
+    <string name="tip_5_3_link_off">Dit inschakelen via Instellingen</string>
+    <string name="tip_5_3_link_on">Ga naar Instellingen</string>
+    <string name="tip_5_3_media_description">Video over hoe je naar de portretmodus schakelt</string>
+    <string name="tip_5_3_summary">Als je de selfiemodus wilt in- of uitschakelen in je camera, draai je twee keer vanuit je pols terwijl de app is geopend.</string>
+    <string name="tip_5_3_title">"Schakelen tussen camera's"</string>
+    <string name="tip_5_4_link">Naar Instellingen</string>
+    <string name="tip_5_4_link_off">Dit inschakelen via Instellingen</string>
+    <string name="tip_5_4_link_on">Naar Instellingen</string>
+    <string name="tip_5_4_media_description">Video over hoe je over de vingerafdruksensor veegt voor meldingen</string>
+    <string name="tip_5_4_summary">"Je kunt je meldingen controleren door omlaag te vegen over de vingerafdruksensor aan de achterkant van je telefoon.
+Veeg opnieuw om 'Snelle instellingen' te openen."</string>
+    <string name="tip_5_4_title">Over de vingerafdruksensor vegen voor meldingen</string>
+    <string name="tip_5_5_media_description">Video over hoe je tussen apps schakelt</string>
+    <string name="tip_5_5_summary">Als je snel wilt schakelen tussen apps, scroll je van links naar rechts onderaan het scherm. Laat het scherm los om de app te openen.</string>
+    <string name="tip_5_5_title">Snellere manier om te schakelen tussen apps</string>
+    <string name="tip_6_1_link">Instellingen voor Nachtverlichting</string>
+    <string name="tip_6_1_media_description">Video over Nachtverlichting</string>
+    <string name="tip_6_1_summary">"Met Nachtverlichting krijgt je scherm een oranje tint. Zo kun je het scherm beter zien bij weinig licht en val je gemakkelijker in slaap.
+
+Je kunt Nachtverlichting snel in- of uitschakelen in Snelle instellingen. Of tik en houd vast om een schema in te stellen."</string>
+    <string name="tip_6_1_title">Gemakkelijker in slaap vallen met Nachtverlichting</string>
+    <string name="tip_6_2_link">"'Digitaal welzijn' updaten"</string>
+    <string name="tip_6_2_link_off">"'Digitaal welzijn' updaten"</string>
+    <string name="tip_6_2_link_on">"'Bijna bedtijd' instellen"</string>
+    <string name="tip_6_2_media_description">Video over hoe je een schema voor bedtijd instelt met Bijna bedtijd</string>
+    <string name="tip_6_2_summary">"Stel een schema in om 's avonds en 's nachts afleidingen door je telefoon te voorkomen.
+
+1. Open Digitaal welzijn [icon_span].
+2. Tik op 'Bijna bedtijd'.
+3. Stel je schema voor 'Bijna bedtijd' in.
+
+Wanneer het bijna bedtijd is, verandert de kleur van je scherm en zorgt 'Niet storen' ervoor dat je niet wordt gestoord door meldingen terwijl je slaapt."</string>
+    <string name="tip_6_2_title">Een schema voor bedtijd instellen met Bijna bedtijd</string>
+    <string name="tip_6_3_link">Omdraaien voor Sst uitproberen</string>
+    <string name="tip_6_3_link_off">"'Digitaal welzijn' updaten"</string>
+    <string name="tip_6_3_link_on">Naar Instellingen</string>
+    <string name="tip_6_3_media_description">Video over hoe je afleidingen snel kunt stoppen</string>
+    <string name="tip_6_3_summary">Met Omdraaien voor Sst kun je de telefoon met het scherm naar beneden leggen om Niet storen in te schakelen en meldingen en geluiden te stoppen.</string>
+    <string name="tip_6_3_title">Afleidingen snel stoppen</string>
+    <string name="tip_6_4_link">"'Digitaal welzijn' updaten"</string>
+    <string name="tip_6_4_link_off">"'Digitaal welzijn' updaten"</string>
+    <string name="tip_6_4_link_on">Dashboard openen</string>
+    <string name="tip_6_4_media_description">Video over digitaal welzijn</string>
+    <string name="tip_6_4_summary">"Bekijk het dashboard van 'Digitaal welzijn' in 'Instellingen' voor een momentopname van je schermtijd en stel timers in voor apps die je minder wilt gebruiken."</string>
+    <string name="tip_6_4_title">Je schermtijd bijhouden</string>
+    <string name="tip_7_1_media_description">Video over hoe je apps kunt indelen in mappen</string>
+    <string name="tip_7_1_summary">"Maak mappen om overzicht te houden over je apps.
+
+Als je een map wilt maken, sleep je een app bovenop een andere app. Je kunt de nieuwe map een naam geven.
+
+Je kunt meer apps naar de map slepen of een app uit de map slepen om deze te verwijderen."</string>
+    <string name="tip_7_1_title">Apps indelen in mappen</string>
+    <string name="tip_7_2_media_description">Video over hoe je twee apps tegelijk kunt gebruiken</string>
+    <string name="tip_7_2_summary">"Je kunt twee apps tegelijk gebruiken door een gesplitst scherm in te stellen op je telefoon. Zo kun je gemakkelijk multitasken.
+
+1. Veeg omhoog vanaf de onderkant van het scherm om je recente apps te bekijken.
+2. Tik op het app-pictogram bovenaan het scherm en houd dit vast.
+3. Tik op 'Gesplitst scherm'.
+
+Verplaats de scheiding naar wens omhoog en omlaag. Veeg deze weg wanneer je klaar bent."</string>
+    <string name="tip_7_2_title">Twee apps tegelijk weergeven</string>
+    <string name="tip_7_3_link">Google Assistent openen</string>
+    <string name="tip_7_3_media_description">Video over hoe je de telefoon kunt bedienen met de Assistent</string>
+    <string name="tip_7_3_summary">"Met de Assistent kun je sneller acties uitvoeren. Als je met de Assistent wilt praten, knijp je kort in de onderste helft van je telefoon. Zeg vervolgens bijvoorbeeld:
+
+1. 'Maak een selfie'
+2. 'Maak een screenshot'
+3. 'Schakel de zaklamp in'"</string>
+    <string name="tip_7_3_title">Je Assistent gebruiken om je te helpen bij alledaagse taken</string>
+    <string name="tip_8_1_link">Google Keep installeren</string>
+    <string name="tip_8_1_link_off">Google Keep installeren</string>
+    <string name="tip_8_1_link_on">Google Keep openen</string>
+    <string name="tip_8_1_media_description">Video over hoe je notities kunt maken</string>
+    <string name="tip_8_1_summary">"Met de Google Keep-app kun je snel je gedachten vastleggen. Voeg notities, lijsten, foto's en audio toe.
+
+Je kunt ook herinneringen instellen zodat je niet vergeet je taken te voltooien. Via Keep kun je ook gemakkelijk notities delen met vrienden en familie."</string>
+    <string name="tip_8_1_title">Notities maken en meer met Google Keep</string>
+    <string name="tip_8_2_link">Google Nieuws installeren</string>
+    <string name="tip_8_2_link_off">Google Nieuws installeren</string>
+    <string name="tip_8_2_link_on">Google Nieuws openen</string>
+    <string name="tip_8_2_media_description">Video over Google Nieuws</string>
+    <string name="tip_8_2_summary">"Blijf op de hoogte van het laatste nieuws, lokaal en internationaal.
+
+Met één tik zie je de belangrijkste nieuwskoppen van je favoriete bronnen. Je ziet een tijdlijn met de belangrijkste momenten, opinies, analyses en meer zodat je meer inzicht krijgt in het verhaal achter het artikel."</string>
+    <string name="tip_8_2_title">Op de hoogte blijven met Google Nieuws</string>
+    <string name="tip_8_3_link">Google Pay installeren</string>
+    <string name="tip_8_3_link_off">Google Pay installeren</string>
+    <string name="tip_8_3_link_on">Google Pay openen</string>
+    <string name="tip_8_3_media_description">Video over Google Pay</string>
+    <string name="tip_8_3_summary">"Met Google Pay kun je in miljoenen winkels snel betalen met alleen je Pixel-telefoon. Ga als volgt te werk:
+
+1. Voeg een kaart toe aan Google Pay
+2. Zoek het symbool voor contactloos betalen [icon_span] bij de kassa
+3. Ontgrendel je telefoon en houd deze tegen de betaalautomaat
+4. Wacht totdat er een vinkje verschijnt
+
+Dat is alles."</string>
+    <string name="tip_8_3_title">Betalen met je Pixel</string>
+    <string name="tips_nav_a11y_media_description">Video voor gebruik van het nieuwe toegankelijkheidsgebaar</string>
+    <string name="tips_nav_a11y_summary">"Voor toegang tot 'Selecteer om uitgesproken te worden' of vergroting veeg je met twee vingers omhoog vanaf de onderkant van het scherm.
+
+Veeg met twee vingers omhoog en houd vast als je wilt schakelen tussen toegankelijkheidsapps.
+
+Je kunt deze gebaren gebruiken nadat je het instellen hebt voltooid."</string>
+    <string name="tips_nav_a11y_title">Nieuw toegankelijkheidsgebaar gebruiken</string>
+    <string name="title_download_completed_dialog">Nieuwe tips opnieuw laden</string>
+    <string name="try_it_text">Proberen</string>
+    <string name="zero_state_primary">Je hebt alles gelezen</string>
+    <string name="zero_state_secondary">Kom later terug voor nieuwe tips</string>
+</resources>

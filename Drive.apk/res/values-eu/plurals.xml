@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$d elementu daude ikusgai.</item>
+        <item quantity="one">%1$d elementu dago ikusgai.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d iruzkin</item>
+        <item quantity="one">%1$d iruzkin</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Egin beharreko ekintzak: jarraitutako %1$d elementu</item>
+        <item quantity="one">Egin beharreko ekintzak: jarraitutako %1$d elementu</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Behin betiko ezabatu dira elementuak</item>
+        <item quantity="one">Behin betiko ezabatu da elementua</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s helbide elektronikoek ez dute balio.</item>
+        <item quantity="one">%s helbide elektronikoak ez du balio.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Fitxategi hauek gehituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko da</item>
+        <item quantity="one">Fitxategi hau gehituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko da</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Karpeta hauek gehituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko dira</item>
+        <item quantity="one">Karpeta hau gehituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko da</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Fitxategi hauek partekatu nahi dituzu?</item>
+        <item quantity="one">Fitxategi hau partekatu nahi duzu?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Karpeta hauek partekatu nahi dituzu?</item>
+        <item quantity="one">Karpeta hau partekatu nahi duzu?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d karpeta eguneratu dira. %2$s ezarri da.</item>
+        <item quantity="one">%1$d karpeta eguneratu da. %2$s ezarri da.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Aplikatu iragazkiak:</item>
+        <item quantity="one">Aplikatu iragazkia:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d egun barru iraungiko da</item>
+        <item quantity="one">%1$d egun barru iraungiko da</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Gailuak inaktibo jarraitzen badu, %1$d egun barru iraungiko da babeskopia.</item>
+        <item quantity="one">Gailuak inaktibo jarraitzen badu, %1$d egun barru iraungiko da babeskopia.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Ezabatu dira babeskopiak.</item>
+        <item quantity="one">Ezabatu da babeskopia.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d zutabe.</item>
+        <item quantity="one">%1$d zutabe.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">Blokeatutako %1$d zutabe.</item>
+        <item quantity="one">Blokeatutako %1$d zutabe.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">Blokeatutako %1$d errenkada.</item>
+        <item quantity="one">Blokeatutako %1$d errenkada.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d errenkada.</item>
+        <item quantity="one">%1$d errenkada.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s (%2$d elementu)</item>
+        <item quantity="one">%1$s (%2$d elementu)</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s erantzun</item>
+        <item quantity="one">%1$s erantzun</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Ezin izan dira deskargatu elementuak</item>
+        <item quantity="one">Ezin izan da deskargatu elementua</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d elementu deskargatuko dira. Xehetasunak lortzeko, ikusi jakinarazpena.</item>
+        <item quantity="one">%1$d elementu deskargatuko da. Xehetasunak lortzeko, ikusi jakinarazpena.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d elementu deskargatuko dira.</item>
+        <item quantity="one">%1$d elementu deskargatuko da.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s eta beste %2$d elementu</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Ezin izan dira deskargatu %1$s elementu</item>
+        <item quantity="one">Ezin izan da deskargatu %1$s elementu</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Beste %1$d elementu</item>
+        <item quantity="one">Beste %1$d elementu</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Ezin izan dira deskargatu %1$d/%2$d</item>
+        <item quantity="one">Ezin izan da deskargatu %1$d/%2$d</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Errore bat gertatu da fitxategiak mugitzean.</item>
+        <item quantity="one">Errore bat gertatu da fitxategia mugitzean.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gonbidatu</item>
+        <item quantity="one">%d gonbidatu</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d lasterbide gehitu dira \"%1$s\" karpetan</item>
+        <item quantity="one">1 lasterbide gehitu da \"%1$s\" karpetan</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Ezin dira gehitu lasterbideak. Saiatu berriro.</item>
+        <item quantity="one">Ezin da gehitu lasterbidea. Saiatu berriro.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dituzte atzitu elementuak. %2$s taldeko unitateko kideek, ordea, sarbidea lortuko dute.</item>
+        <item quantity="one">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dute atzitu elementua. %2$s taldeko unitateko kideek, ordea, sarbidea lortuko dute.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dituzte atzitu elementuak. %2$s taldeko unitateko kideek, ordea, sarbidea lortuko dute. Elementuak gehitzeko eta editatzeko baimena bakarrik duzu \"%3$s\" taldeko unitatean; beraz, ezin izango duzu desegin ekintza.</item>
+        <item quantity="one">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dute atzitu elementua. %2$s taldeko unitateko kideek, ordea, sarbidea lortuko dute. Elementuak gehitzeko eta editatzeko baimena bakarrik duzu \"%3$s\" taldeko unitatean; beraz, ezin izango duzu desegin ekintza.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Datu-galerak prebenitzeko abisuak sorrarazi ditu \"%1$s\" karpetara eramatera zoazen fitxategi batzuek. Agian kontuzko informazioa dute.</item>
+        <item quantity="one">Datu-galerak prebenitzeko abisuak sorrarazi ditu \"%1$s\" karpetara eramatera zoazen fitxategiak. Agian kontuzko informazioa du.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dituzte atzitu elementuak.</item>
+        <item quantity="one">Haiekin partekatu ezean, \"%1$s\" taldeko unitateko kideek ezin izango dute atzitu elementua.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Elementuak mugitzen badituzu, \"%1$s\" karpeta partekatua ikus dezaketen pertsona guztiekin partekatuko dituzu. Haiekin partekatu ezean, \"%2$s\" taldeko unitateko kideek ezin izango dituzte atzitu elementuak.</item>
+        <item quantity="one">Elementua mugitzen baduzu, \"%1$s\" karpeta partekatua ikus dezaketen pertsona guztiekin partekatuko duzu. Haiekin partekatu ezean, \"%2$s\" taldeko unitateko kideek ezin izango dute atzitu elementua.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Elementu batzuk karpeta partekatuetatik ateratzera zoaz. Elementuak ateratzen badituzu, jendeak ezin izango ditu atzitu.</item>
+        <item quantity="one">Elementu bat karpeta partekatu batetik ateratzera zoaz. Elementua ateratzen baduzu, jendeak ezin izango du atzitu.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Elementu hauen murriztapen gehigarriak kenduko dira.</item>
+        <item quantity="one">Elementu honen murriztapen gehigarriak kenduko dira.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Fitxategi hauek mugituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko dira</item>
+        <item quantity="one">Fitxategia mugituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko da</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Karpeta hauek mugituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko dira</item>
+        <item quantity="one">Karpeta hau mugituz gero, %1$s karpeta partekatua atzi dezaketen guztiekin partekatuko da</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Fitxategi hauek partekatu nahi dituzu?</item>
+        <item quantity="one">Fitxategi hau partekatu nahi duzu?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Karpeta hauek partekatu nahi dituzu?</item>
+        <item quantity="one">Karpeta hau partekatu nahi duzu?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Ez duzu baimenik unitate partekatu honetatik zenbait elementu ateratzeko.</item>
+        <item quantity="one">Ez duzu baimenik unitate partekatu honetatik elementu hau ateratzeko.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Ez duzu baimenik elementu batzuk jatorrizko karpetetatik ateratzeko.</item>
+        <item quantity="one">Ez duzu baimenik elementu hau jatorrizko karpetatik ateratzeko.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Ezin dituzu mugitu fitxategi hauek, haien jabea %1$s domeinutik kanpo dagoelako.</item>
+        <item quantity="one">Ezin duzu mugitu fitxategi hau, haren jabea %1$s domeinutik kanpo dagoelako.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" taldeko unitateak atzi ditzake orain.</item>
+        <item quantity="one">%1$s \"%2$s\" taldeko unitateak atzi dezake orain.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d elementu eraman dira unitate partekatura. Kideek atzi ditzakete orain.</item>
+        <item quantity="one">1 elementu eraman da unitate partekatura. Kideek atzi dezakete orain.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d elementu atera dira unitate partekatutik. Kideek sarbidea galdu dute.</item>
+        <item quantity="one">%1$d elementu atera da unitate partekatutik. Kideek sarbidea galdu dute.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d elementu</item>
+        <item quantity="one">%1$d elementu</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d onartzaile</item>
+        <item quantity="one">1 onartzaile</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">Egin beharreko %1$s ekintza</item>
+        <item quantity="one">Egin beharreko %1$s ekintza</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">Erantzun gabeko %1$s aipamen</item>
+        <item quantity="one">Erantzun gabeko %1$s aipamen</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s iradokizun</item>
+        <item quantity="one">%1$s iradokizun</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s zeregin</item>
+        <item quantity="one">%1$s zeregin</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Behin betiko ezabatu dira elementuak</item>
+        <item quantity="one">Behin betiko ezabatu da elementua</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d/%2$s erabil daitezke konexiorik gabe.</item>
+        <item quantity="one">%1$d/%2$s erabil daiteke konexiorik gabe.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d fitxategiak erabil daitezke konexiorik gabe.</item>
+        <item quantity="one">%1$d fitxategi erabil daiteke konexiorik gabe.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Ezin da ezarri fitxategiak konexiorik gabe erabiltzeko aukera</item>
+        <item quantity="one">Ezin da ezarri fitxategia konexiorik gabe erabiltzeko aukera</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d fitxategi konexiorik gabe erabiltzeko aukera ezartzen.</item>
+        <item quantity="one">%1$d fitxategi konexiorik gabe erabiltzeko aukera ezartzen.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d fitxategi</item>
+        <item quantity="one">%1$d fitxategi</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Pausatu dira deskargak. Sarearen zain…</item>
+        <item quantity="one">Pausatu da deskarga. Sarearen zain…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d fitxategiren deskarga pausatu da.</item>
+        <item quantity="one">%1$d fitxategiren deskarga pausatu da.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Pausatu dira deskargak. Wi-Fi sarearen zain…</item>
+        <item quantity="one">Pausatu da deskarga. Wi-Fi sarearen zain…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">Zaborrontzira eramango dira %1$d elementu. Google Argazkiak zerbitzutik ere kenduko dira.</item>
+        <item quantity="one">Zaborrontzira eramango da elementu bat. Google Argazkiak zerbitzutik ere kenduko da.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d elementu eramango dira zaborrontzira.</item>
+        <item quantity="one">1 elementu eramango da zaborrontzira.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">Jarraitutako %1$s elementu</item>
+        <item quantity="one">Jarraitutako %1$s elementu</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">Jarraitutako %1$s elementu</item>
+        <item quantity="one">Jarraitutako %1$s elementu</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Egin jarraipena</item>
+        <item quantity="one">Egin jarraipena</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">%1$d fitxategi iruzkindu dituzte</item>
+        <item quantity="one">Fitxategi bat iruzkindu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">%1$d fitxategi iruzkindu ditu</item>
+        <item quantity="one">Fitxategi bat iruzkindu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Fitxategi hau iruzkindu dute</item>
+        <item quantity="one">Fitxategi hau iruzkindu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d elementu sortu dituzte</item>
+        <item quantity="one">Elementu bat sortu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d elementu sortu ditu</item>
+        <item quantity="one">Elementu bat sortu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Fitxategi hau sortu dute</item>
+        <item quantity="one">Fitxategi hau sortu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Karpeta hau sortu dute</item>
+        <item quantity="one">Karpeta hau sortu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d elementu editatu dituzte</item>
+        <item quantity="one">Elementu bat editatu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d elementu editatu ditu</item>
+        <item quantity="one">Elementu bat editatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Fitxategi hau editatu dute</item>
+        <item quantity="one">Fitxategi hau editatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Betiko ezabatu ditu %1$d elementu</item>
+        <item quantity="one">Betiko ezabatu du elementu bat</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d elementu eraman dituzte hona:</item>
+        <item quantity="one">Elementu bat eraman dute hona:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d elementu eraman ditu hona:</item>
+        <item quantity="one">Elementu bat eraman du hona:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d elementu mugitu dituzte</item>
+        <item quantity="one">Elementu bat mugitu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d elementu mugitu ditu</item>
+        <item quantity="one">Elementu bat mugitu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Fitxategi hau mugitu dute</item>
+        <item quantity="one">Fitxategi hau mugitu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Hona eraman dute fitxategia:</item>
+        <item quantity="one">Hona eraman du fitxategia:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Karpeta hau mugitu dute</item>
+        <item quantity="one">Karpeta hau mugitu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Hona eraman dute karpeta:</item>
+        <item quantity="one">Hona eraman du karpeta:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">%1$d elementuren izenak aldatu dituzte</item>
+        <item quantity="one">Elementu baten izena aldatu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">%1$d elementuren izenak aldatu ditu</item>
+        <item quantity="one">Elementu baten izena aldatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Fitxategiaren izena aldatu dute</item>
+        <item quantity="one">Fitxategiaren izena aldatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Karpetaren izena aldatu dute</item>
+        <item quantity="one">Karpetaren izena aldatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d elementu partekatu dituzte</item>
+        <item quantity="one">Elementu bat partekatu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d elementu partekatu ditu</item>
+        <item quantity="one">Elementu bat partekatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Fitxategi hau partekatu dute</item>
+        <item quantity="one">Fitxategi hau partekatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Karpeta hau partekatu dute</item>
+        <item quantity="one">Karpeta hau partekatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d elementu eraman dituzte zaborrontzira</item>
+        <item quantity="one">Elementu bat eraman dute zaborrontzira</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d elementu eraman ditu zaborrontzira</item>
+        <item quantity="one">Elementu bat eraman du zaborrontzira</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Fitxategi hau kendu dute</item>
+        <item quantity="one">Fitxategi hau kendu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Karpeta hau kendu dute</item>
+        <item quantity="one">Karpeta hau kendu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d elementu kargatu dituzte</item>
+        <item quantity="one">Elementu bat kargatu dute</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d elementu kargatu ditu</item>
+        <item quantity="one">Elementu bat kargatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Fitxategi hau kargatu dute</item>
+        <item quantity="one">Fitxategi hau kargatu du</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Karpeta hau kargatu dute</item>
+        <item quantity="one">Karpeta hau kargatu du</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%2$s taldeko unitatearen zaborrontzira eramango dira %1$d fitxategi, eta 30 egunen buruan ezabatuko dira betiko.</item>
+        <item quantity="one">%2$s taldeko unitatearen zaborrontzira eramango da fitxategia, eta 30 egunen buruan ezabatuko da betiko</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%2$s taldeko unitatearen zaborrontzira eramango dira %1$d karpeta, eta 30 egunen buruan ezabatuko dira betiko.</item>
+        <item quantity="one">%2$s taldeko unitatearen zaborrontzira eramango da karpeta, eta 30 egunen buruan ezabatuko da betiko</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%2$s taldeko unitatearen zaborrontzira eramango dira %1$d elementu, eta 30 egunen buruan ezabatuko dira betiko.</item>
+        <item quantity="one">%2$s taldeko unitatearen zaborrontzira eramango da elementua, eta 30 egunen buruan ezabatuko da betiko</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">%1$d fitxategi hauek &lt;b>behin betiko ezabatuko dira guztientzat.&lt;/b> Ezin izango duzu desegin ekintza hau.</item>
+        <item quantity="one">Fitxategi hau &lt;b>behin betiko ezabatuko da guztientzat.&lt;/b> Ezin izango duzu desegin ekintza hau.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Betiko ezabatuko dira %1$d fitxategi hauek. Ezin da desegin ekintza.</item>
+        <item quantity="one">Betiko ezabatuko da fitxategi hau. Ezin da desegin ekintza.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d elementu</item>
+        <item quantity="one">%1$d elementu</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d elementu hautatuta</item>
+        <item quantity="one">%1$d elementu hautatuta</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d elementu desautatuta</item>
+        <item quantity="one">%1$d elementu desautatuta</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Fitxategiak konexiorik gabe erabiltzeko aukera ezarriko dira</item>
+        <item quantity="one">Fitxategia konexiorik gabe erabiltzeko aukera ezarriko da</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d elementuri ezarri zaie izarra</item>
+        <item quantity="one">Elementu bati ezarri zaio izarra</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Fitxategiak jada ez dira erabilgarri egongo konexiorik gabe</item>
+        <item quantity="one">Fitxategia jada ez da erabilgarri egongo konexiorik gabe</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d elementuri kendu zaie izarra</item>
+        <item quantity="one">Elementu bati kendu zaio izarra</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d elementu leheneratu dira</item>
+        <item quantity="one">1 elementu leheneratu da</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d elementu leheneratu dira</item>
+        <item quantity="one">Elementu bat leheneratu da</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d elementu kendu dira \"%2$s\" karpetatik</item>
+        <item quantity="one">1 elementu kendu da \"%2$s\" karpetatik</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d elementu kendu dira karpetatik</item>
+        <item quantity="one">1 elementu kendu da karpetatik</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d elementu kendu dira</item>
+        <item quantity="one">1 elementu kendu da</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d elementu eraman dira berriro karpetara</item>
+        <item quantity="one">1 elementu eraman da berriro karpetara</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d elementu eraman dira berriro zaborrontzira</item>
+        <item quantity="one">1 elementu eraman da berriro zaborrontzira</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d elementu kendu dira</item>
+        <item quantity="one">1 elementu kendu da</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d elementu gehitu dira \"%2$s\" karpetan</item>
+        <item quantity="one">1 elementu gehitu da \"%2$s\" karpetan</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d elementu gehitu dira</item>
+        <item quantity="one">1 elementu gehitu da</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d elementu leheneratu eta \"%2$s\" karpetan gehitu dira</item>
+        <item quantity="one">1 elementu leheneratu eta \"%2$s\" karpetan gehitu da</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d elementu eraman dira \"%2$s\" karpetara</item>
+        <item quantity="one">1 elementu eraman da \"%2$s\" karpetara.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d elementu mugitu dira</item>
+        <item quantity="one">1 elementu mugitu da</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d elementu leheneratu eta \"%2$s\" karpetara eraman dira.</item>
+        <item quantity="one">1 elementu leheneratu eta \"%2$s\" karpetara eraman da.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d elementu leheneratu dira.</item>
+        <item quantity="one">1 elementu leheneratu da</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d elementu leheneratu dira \"%2$s\" karpetara.</item>
+        <item quantity="one">1 elementu leheneratu da \"%2$s\" karpetara.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Bidali fitxategiak honekin:</item>
+        <item quantity="one">Bidali fitxategia honekin:</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d pertsonak atzi dezakete</item>
+        <item quantity="one">Pertsona batek atzi dezake</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s eta beste %2$d pertsonak atzi dezakete</item>
+        <item quantity="one">%1$s eta beste pertsona batek atzi dezakete</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d pertsonak gehi ditzakete iruzkinak</item>
+        <item quantity="one">Pertsona batek gehi ditzake iruzkinak</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s eta beste %2$d pertsonak gehi ditzakete iruzkinak</item>
+        <item quantity="one">%1$s eta beste pertsona batek gehi ditzakete iruzkinak</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d pertsonak edita dezakete</item>
+        <item quantity="one">Pertsona batek edita dezake</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s eta beste %2$d pertsonak edita dezakete</item>
+        <item quantity="one">%1$s eta beste pertsona batek edita dezakete</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d pertsonak ikus dezakete</item>
+        <item quantity="one">Pertsona batek ikus dezake</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s eta beste %2$d pertsonak ikus dezakete</item>
+        <item quantity="one">%1$s eta beste pertsona batek ikus dezakete</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Drive biltegia %1$d egun barru iraungiko da</item>
+        <item quantity="one">Drive biltegia %1$d egun barru iraungiko da</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d pertsona gehitu dira unitate partekatuan</item>
+        <item quantity="one">Pertsona bat gehitu da unitate partekatuan</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s eta beste %3$d pertsona gehitu dira %1$s unitatean</item>
+        <item quantity="one">%2$s eta beste pertsona bat gehitu dira %1$s unitatean</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d kide</item>
+        <item quantity="one">1 kide</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Berrekin guztiei</item>
+        <item quantity="one">Berrekin</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Bertan behera utzi da %1$d fitxategi kargatzeko prozesua.</item>
+        <item quantity="one">Bertan behera utzi da %1$d fitxategi kargatzeko prozesua.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Ezin da antolatu %1$d fitxategi kargatzeko prozesua.</item>
+        <item quantity="one">Ezin da antolatu %1$d fitxategi kargatzeko prozesua.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d fitxategi kargatu dira.</item>
+        <item quantity="one">%1$d fitxategi kargatu da.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Ezin dira kargatu %1$d/%2$d fitxategi.</item>
+        <item quantity="one">Ezin da kargatu %1$d/%2$d fitxategi.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d fitxategi kargatzen.</item>
+        <item quantity="one">%1$d fitxategi kargatzen.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Pausatu da kargatzeko prozesua. Sarearen zain…</item>
+        <item quantity="one">Pausatu da kargatzeko prozesua. Sarearen zain…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Pausatu da %1$d fitxategi kargatzeko prozesua.</item>
+        <item quantity="one">Pausatu da %1$d fitxategi kargatzeko prozesua.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Pausatu da kargatzeko prozesua. Wi-Fi sarearen zain…</item>
+        <item quantity="one">Pausatu da kargatzeko prozesua. Wi-Fi sarearen zain…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d fitxategi kargatzeko prozesua prestatzen.</item>
+        <item quantity="one">%1$d fitxategi kargatzeko prozesua prestatzen.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d fitxategi ari dira kargatzen %2$s karpetara</item>
+        <item quantity="one">%1$d fitxategi ari da kargatzen %2$s karpetara</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Ikusi %1$d fitxategi</item>
+        <item quantity="one">Ikusi %1$d fitxategi</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Ikusi %2$s lan-eremuko %1$d fitxategiak</item>
+        <item quantity="one">Ikusi %2$s lan-eremuko %1$d fitxategi</item>
+    </plurals>
+</resources>

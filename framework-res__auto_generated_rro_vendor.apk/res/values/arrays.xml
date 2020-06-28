@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_ambientThresholdsOfPeakRefreshRate">
+        <item>63</item>
+    </integer-array>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <item>10.27811</item>
+        <item>25.5265</item>
+        <item>32.99024</item>
+        <item>37.327873</item>
+        <item>40.233913</item>
+        <item>47.37759</item>
+        <item>52.077396</item>
+        <item>58.950016</item>
+        <item>67.07277</item>
+        <item>77.47953</item>
+        <item>90.164986</item>
+        <item>106.199486</item>
+        <item>126.92089</item>
+        <item>155.27893</item>
+        <item>192.01445</item>
+        <item>238.22545</item>
+        <item>292.197</item>
+        <item>355.96408</item>
+        <item>431.50397</item>
+        <item>546.6433</item>
+    </array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>20</item>
+        <item>33</item>
+        <item>55</item>
+        <item>90</item>
+        <item>148</item>
+        <item>245</item>
+        <item>403</item>
+        <item>665</item>
+        <item>1097</item>
+        <item>1808</item>
+        <item>2981</item>
+        <item>5000</item>
+        <item>10000</item>
+    </integer-array>
+    <integer-array name="config_availableColorModes">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="config_brightnessThresholdsOfPeakRefreshRate">
+        <item>74</item>
+    </integer-array>
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/system/framework/arm64/boot-framework.oat</item>
+        <item>/system/framework/framework.jar</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/services.jar</item>
+        <item>/apex/com.android.art/javalib/core-oj.jar</item>
+        <item>/apex/com.android.art/javalib/core-libart.jar</item>
+        <item>/apex/com.android.media/javalib/updatable-media.jar</item>
+        <item>/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk</item>
+        <item>/system_ext/priv-app/SystemUIGoogle/oat/arm64/SystemUIGoogle.odex</item>
+        <item>/system/lib64/libsurfaceflinger.so</item>
+    </string-array>
+    <integer-array name="config_displayCompositionColorModes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="config_displayCompositionColorSpaces">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>9</item>
+    </integer-array>
+    <integer-array name="config_displayWhiteBalanceAmbientColorTemperatures">
+        <item>5300</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+    </integer-array>
+    <integer-array name="config_displayWhiteBalanceBaseThresholds">
+        <item>6300</item>
+        <item>6400</item>
+        <item>6850</item>
+        <item>7450</item>
+    </integer-array>
+    <array name="config_displayWhiteBalanceDecreaseThresholds">
+        <item>0.007874</item>
+        <item>0.0075472</item>
+        <item>0.006993</item>
+        <item>0.0067114</item>
+    </array>
+    <integer-array name="config_displayWhiteBalanceDisplayColorTemperatures">
+        <item>6300</item>
+        <item>6400</item>
+        <item>6850</item>
+        <item>7450</item>
+    </integer-array>
+    <string-array name="config_displayWhiteBalanceDisplayNominalWhite">
+        <item>0.950000</item>
+        <item>1.000000</item>
+        <item>1.117485</item>
+    </string-array>
+    <array name="config_displayWhiteBalanceHighLightAmbientBiases">
+        <item>0.0</item>
+        <item>1.0</item>
+    </array>
+    <array name="config_displayWhiteBalanceHighLightAmbientBrightnesses">
+        <item>3000.0</item>
+        <item>5000.0</item>
+    </array>
+    <array name="config_displayWhiteBalanceIncreaseThresholds">
+        <item>0.007874</item>
+        <item>0.0075472</item>
+        <item>0.006993</item>
+        <item>0.0067114</item>
+    </array>
+    <array name="config_displayWhiteBalanceLowLightAmbientBiases">
+        <item>0.0</item>
+        <item>1.0</item>
+    </array>
+    <array name="config_displayWhiteBalanceLowLightAmbientBrightnesses">
+        <item>10.0</item>
+        <item>50.0</item>
+    </array>
+    <string-array name="config_jitzygoteBootImagePinnerServiceFiles">
+        <item>/system/framework/framework.jar</item>
+        <item>/system/framework/services.jar</item>
+        <item>/apex/com.android.art/javalib/core-oj.jar</item>
+        <item>/apex/com.android.art/javalib/core-libart.jar</item>
+        <item>/apex/com.android.media/javalib/updatable-media.jar</item>
+        <item>/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk</item>
+        <item>/system/lib64/libsurfaceflinger.so</item>
+    </string-array>
+    <string-array name="config_mobile_tcp_buffers">
+        <item>umts:131072,262144,1452032,4096,16384,399360</item>
+        <item>hspa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hsupa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hsdpa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hspap:131072,262144,2441216,4096,16384,399360</item>
+        <item>edge:16384,32768,131072,4096,16384,65536</item>
+        <item>gprs:4096,8192,24576,4096,8192,24576</item>
+        <item>1xrtt:16384,32768,131070,4096,16384,102400</item>
+        <item>evdo:131072,262144,1048576,4096,16384,524288</item>
+        <item>lte:524288,1048576,8388608,262144,524288,4194304</item>
+    </string-array>
+    <integer-array name="config_screenBrightnessBacklight">
+        <item>1</item>
+        <item>255</item>
+    </integer-array>
+    <array name="config_screenBrightnessNits">
+        <item>2.0</item>
+        <item>450.0</item>
+    </array>
+    <string-array name="config_telephonyEuiccDeviceCapabilities">
+        <item>gsm,11</item>
+        <item>utran,11</item>
+        <item>cdma1x,1</item>
+        <item>hrpd,3</item>
+        <item>ehrpd,12</item>
+        <item>eutran,11</item>
+    </string-array>
+    <string-array name="config_tether_bluetooth_regexs">
+        <item>bt-pan</item>
+    </string-array>
+    <string-array name="config_tether_usb_regexs">
+        <item>usb\\d</item>
+        <item>rndis\\d</item>
+    </string-array>
+    <string-array name="config_tether_wifi_p2p_regexs">
+        <item>p2p-p2p\\d-.*</item>
+    </string-array>
+    <string-array name="config_tether_wifi_regexs">
+        <item>wlan\\d</item>
+    </string-array>
+    <string-array name="networkAttributes">
+        <item>wifi,1,1,1,-1,true</item>
+        <item>mobile,0,0,0,-1,true</item>
+        <item>mobile_mms,2,0,2,60000,true</item>
+        <item>mobile_supl,3,0,2,60000,true</item>
+        <item>mobile_dun,4,0,2,60000,true</item>
+        <item>mobile_hipri,5,0,3,60000,true</item>
+        <item>mobile_fota,10,0,2,60000,true</item>
+        <item>mobile_ims,11,0,2,60000,true</item>
+        <item>mobile_cbs,12,0,2,60000,true</item>
+        <item>mobile_ia,14,0,2,-1,true</item>
+        <item>bluetooth,7,7,2,-1,true</item>
+        <item>ethernet,9,9,9,-1,true</item>
+        <item>mobile_emergency,15,0,2,-1,true</item>
+    </string-array>
+    <string-array name="radioAttributes">
+        <item>1,1</item>
+        <item>0,1</item>
+        <item>7,1</item>
+        <item>9,1</item>
+    </string-array>
+</resources>

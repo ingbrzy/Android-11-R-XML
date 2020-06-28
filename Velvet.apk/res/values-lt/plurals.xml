@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Prieš %d d.</item>
+        <item quantity="one">Prieš %d d.</item>
+        <item quantity="few">Prieš %d d.</item>
+        <item quantity="many">Prieš %d d.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Prieš %d min.</item>
+        <item quantity="one">Prieš %d min.</item>
+        <item quantity="few">Prieš %d min.</item>
+        <item quantity="many">Prieš %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Prieš %d m.</item>
+        <item quantity="one">Prieš %d m.</item>
+        <item quantity="few">Prieš %d m.</item>
+        <item quantity="many">Prieš %d m.</item>
+    </plurals>
+    <plurals name="agenda_card_history_desc">
+        <item quantity="other">%d įvykių</item>
+        <item quantity="one">%d įvykis</item>
+        <item quantity="few">%d įvykiai</item>
+        <item quantity="many">%d įvykio</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s numatytų %1$d visos dienos įvykių: %3$s.</item>
+        <item quantity="one">%2$s numatytas %1$d visos dienos įvykis: %3$s.</item>
+        <item quantity="few">%2$s numatyti %1$d visos dienos įvykiai: %3$s.</item>
+        <item quantity="many">%2$s numatyto %1$d visos dienos įvykio: %3$s.</item>
+    </plurals>
+    <plurals name="agent_directory_a11y_user_rating">
+        <item quantity="other">Jūsų įvertinimas: %d žvaigždučių.</item>
+        <item quantity="one">Jūsų įvertinimas: %d žvaigždutė.</item>
+        <item quantity="few">Jūsų įvertinimas: %d žvaigždutės.</item>
+        <item quantity="many">Jūsų įvertinimas: %d žvaigždutės.</item>
+    </plurals>
+    <plurals name="album_photo_count_subtitle">
+        <item quantity="other">%1$d nuotraukų</item>
+        <item quantity="one">%1$d nuotrauka</item>
+        <item quantity="few">%1$d nuotraukos</item>
+        <item quantity="many">%1$d nuotraukos</item>
+    </plurals>
+    <plurals name="amb_smartspace_hours">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="amb_smartspace_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="ambient_notification_summary">
+        <item quantity="other">Turimi pranešimai: %1$d</item>
+        <item quantity="one">Turimi pranešimai: %1$d</item>
+        <item quantity="few">Turimi pranešimai: %1$d</item>
+        <item quantity="many">Turimi pranešimai: %1$d</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_progress">
+        <item quantity="other">Kambariui priskiriama %1$s įrenginių</item>
+        <item quantity="one">Kambariui priskiriamas %1$s įrenginys</item>
+        <item quantity="few">Kambariui priskiriami %1$s įrenginiai</item>
+        <item quantity="many">Kambariui priskiriama %1$s įrenginio</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_prompt">
+        <item quantity="other">%1$d įrenginių dar nėra kambaryje. Pridėję įrenginių kambaryje galite sakyti, pvz., „Turn on the living room lights“ (įjungti šviesą svetainėje).</item>
+        <item quantity="one">%1$d įrenginio dar nėra kambaryje. Pridėję įrenginių kambaryje galite sakyti, pvz., „Turn on the living room lights“ (įjungti šviesą svetainėje).</item>
+        <item quantity="few">%1$d įrenginių dar nėra kambaryje. Pridėję įrenginių kambaryje galite sakyti, pvz., „Turn on the living room lights“ (įjungti šviesą svetainėje).</item>
+        <item quantity="many">%1$d įrenginio dar nėra kambaryje. Pridėję įrenginių kambaryje galite sakyti, pvz., „Turn on the living room lights“ (įjungti šviesą svetainėje).</item>
+    </plurals>
+    <plurals name="assistant_settings_home_cloud_services_unlink_dialog_body_has_devices">
+        <item quantity="other">Ar tikrai norite atsieti šią paskyrą? Taip pat nuo „Google“ padėjėjo bus atsieta %1$d susietų įrenginių.</item>
+        <item quantity="one">Ar tikrai norite atsieti šią paskyrą? Taip pat nuo „Google“ padėjėjo bus atsietas %1$d susietas įrenginys.</item>
+        <item quantity="few">Ar tikrai norite atsieti šią paskyrą? Taip pat nuo „Google“ padėjėjo bus atsieti %1$d susieti įrenginiai.</item>
+        <item quantity="many">Ar tikrai norite atsieti šią paskyrą? Taip pat nuo „Google“ padėjėjo bus atsieta %1$d susieto įrenginio.</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numerių</item>
+        <item quantity="one">%1$d numeris</item>
+        <item quantity="few">%1$d numeriai</item>
+        <item quantity="many">%1$d numerio</item>
+    </plurals>
+    <plurals name="collections_detail_items_moved">
+        <item quantity="other">Perkelta %d elementų</item>
+        <item quantity="one">Perkeltas %d elementas</item>
+        <item quantity="few">Perkelti %d elementai</item>
+        <item quantity="many">Perkelta %d elemento</item>
+    </plurals>
+    <plurals name="collections_detail_items_removed">
+        <item quantity="other">Pašalinta %d elementų</item>
+        <item quantity="one">Pašalintas %d elementas</item>
+        <item quantity="few">Pašalinti %d elementai</item>
+        <item quantity="many">Pašalinta %d elemento</item>
+    </plurals>
+    <plurals name="collections_detail_selected_items">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas %d elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+    <plurals name="collections_detail_status">
+        <item quantity="other">%1$s · %2$d elementų</item>
+        <item quantity="one">%1$s · %2$d elementas</item>
+        <item quantity="few">%1$s · %2$d elementai</item>
+        <item quantity="many">%1$s · %2$d elemento</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_message">
+        <item quantity="other">Ar tikrai norite pašalinti %d pasirinktų elementų?</item>
+        <item quantity="one">Ar tikrai norite pašalinti %d pasirinktą elementą?</item>
+        <item quantity="few">Ar tikrai norite pašalinti %d pasirinktus elementus?</item>
+        <item quantity="many">Ar tikrai norite pašalinti %d pasirinkto elemento?</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_title">
+        <item quantity="other">%d elementų pašalinimas</item>
+        <item quantity="one">%d elemento pašalinimas</item>
+        <item quantity="few">%d elementų pašalinimas</item>
+        <item quantity="many">%d elemento pašalinimas</item>
+    </plurals>
+    <plurals name="collections_list_collections_count">
+        <item quantity="other">%d kolekcijų</item>
+        <item quantity="one">%d kolekcija</item>
+        <item quantity="few">%d kolekcijos</item>
+        <item quantity="many">%d kolekcijos</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Kas %d dienų</item>
+        <item quantity="one">Kas %d dieną</item>
+        <item quantity="few">Kas %d dienas</item>
+        <item quantity="many">Kas %d dienos</item>
+    </plurals>
+    <plurals name="daysAgo">
+        <item quantity="other">Prieš %1$d d.</item>
+        <item quantity="one">Prieš %1$d d.</item>
+        <item quantity="few">Prieš %1$d d.</item>
+        <item quantity="many">Prieš %1$d d.</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Prieš %1$d dienų</item>
+        <item quantity="one">Prieš %1$d dieną</item>
+        <item quantity="few">Prieš %1$d dienas</item>
+        <item quantity="many">Prieš %1$d dienos</item>
+    </plurals>
+    <plurals name="days_left_to_remove_downloads">
+        <item quantity="other">Po %1$d d.</item>
+        <item quantity="one">Po %1$d d.</item>
+        <item quantity="few">Po %1$d d.</item>
+        <item quantity="many">Po %1$d d.</item>
+    </plurals>
+    <plurals name="device_count">
+        <item quantity="other">%1$d įrenginių</item>
+        <item quantity="one">%1$d įrenginys</item>
+        <item quantity="few">%1$d įrenginiai</item>
+        <item quantity="many">%1$d įrenginio</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dienų</item>
+        <item quantity="one">%1$d diena</item>
+        <item quantity="few">%1$d dienos</item>
+        <item quantity="many">%1$d dienos</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dienų</item>
+        <item quantity="one">%1$d diena</item>
+        <item quantity="few">%1$d dienos</item>
+        <item quantity="many">%1$d dienos</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d valandų</item>
+        <item quantity="one">%1$d valanda</item>
+        <item quantity="few">%1$d valandos</item>
+        <item quantity="many">%1$d valandos</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d val.</item>
+        <item quantity="one">%1$d val.</item>
+        <item quantity="few">%1$d val.</item>
+        <item quantity="many">%1$d val.</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minučių</item>
+        <item quantity="one">%1$d minutė</item>
+        <item quantity="few">%1$d minutės</item>
+        <item quantity="many">%1$d minutės</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d mėnesių</item>
+        <item quantity="one">%1$d mėnuo</item>
+        <item quantity="few">%1$d mėnesiai</item>
+        <item quantity="many">%1$d mėnesio</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d mėnesių</item>
+        <item quantity="one">%1$d mėnuo</item>
+        <item quantity="few">%1$d mėn.</item>
+        <item quantity="many">%1$d mėnesio</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d metų</item>
+        <item quantity="one">%1$d metai</item>
+        <item quantity="few">%1$d metai</item>
+        <item quantity="many">%1$d metų</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d metų</item>
+        <item quantity="one">%1$d metai</item>
+        <item quantity="few">%1$d metai</item>
+        <item quantity="many">%1$d metų</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Siųsti el. laišką visiems (%1$d)</item>
+        <item quantity="one">Siųsti el. laišką visiems (%1$d)</item>
+        <item quantity="few">Siųsti el. laišką visiems (%1$d)</item>
+        <item quantity="many">Siųsti el. laišką visiems (%1$d)</item>
+    </plurals>
+    <plurals name="enabled_podcasts_number_label">
+        <item quantity="other">Įjungta tinklalaidžių: %1$d iš %2$d</item>
+        <item quantity="one">Įjungta tinklalaidžių: %1$d iš %2$d</item>
+        <item quantity="few">Įjungta tinklalaidžių: %1$d iš %2$d</item>
+        <item quantity="many">Įjungta tinklalaidžių: %1$d iš %2$d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d kartų</item>
+        <item quantity="one">; %d kartą</item>
+        <item quantity="few">; %d kartus</item>
+        <item quantity="many">; %d karto</item>
+    </plurals>
+    <plurals name="episode_count">
+        <item quantity="other">Serijos: %1$d</item>
+        <item quantity="one">Serijos: %1$d</item>
+        <item quantity="few">Serijos: %1$d</item>
+        <item quantity="many">Serijos: %1$d</item>
+    </plurals>
+    <plurals name="episode_list_title_text">
+        <item quantity="other">Serijos: %1$d</item>
+        <item quantity="one">Serijos: %1$d</item>
+        <item quantity="few">Serijos: %1$d</item>
+        <item quantity="many">Serijos: %1$d</item>
+    </plurals>
+    <plurals name="episodes_selected">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="fast_forward">
+        <item quantity="other">Greitai prasukti pirmyn %1$d sek.</item>
+        <item quantity="one">Greitai prasukti pirmyn %1$d sek.</item>
+        <item quantity="few">Greitai prasukti pirmyn %1$d sek.</item>
+        <item quantity="many">Greitai prasukti pirmyn %1$d sek.</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">Prieš %1$d val.</item>
+        <item quantity="one">Prieš %1$d val.</item>
+        <item quantity="few">Prieš %1$d val.</item>
+        <item quantity="many">Prieš %1$d val.</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s val.</item>
+        <item quantity="one">%s val.</item>
+        <item quantity="few">%s val.</item>
+        <item quantity="many">%s val.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Prieš %1$d valandų</item>
+        <item quantity="one">Prieš %1$d valandą</item>
+        <item quantity="few">Prieš %1$d valandas</item>
+        <item quantity="many">Prieš %1$d valandos</item>
+    </plurals>
+    <plurals name="hours_left_to_remove_downloads">
+        <item quantity="other">Po %1$d val.</item>
+        <item quantity="one">Po %1$d val.</item>
+        <item quantity="few">Po %1$d val.</item>
+        <item quantity="many">Po %1$d val.</item>
+    </plurals>
+    <plurals name="ipa_number_of_results_shown">
+        <item quantity="other">Showing %d results.</item>
+        <item quantity="one">Showing %d results.</item>
+        <item quantity="few">Showing %d results.</item>
+        <item quantity="many">Showing %d results.</item>
+    </plurals>
+    <plurals name="message_notifications_been_read">
+        <item quantity="other">Pranešimai perskaityti</item>
+        <item quantity="one">Pranešimai perskaityti</item>
+        <item quantity="few">Pranešimai perskaityti</item>
+        <item quantity="many">Pranešimai perskaityti</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">prieš %1$d minučių</item>
+        <item quantity="one">prieš %1$d minutę</item>
+        <item quantity="few">prieš %1$d minutes</item>
+        <item quantity="many">prieš %1$d minutės</item>
+    </plurals>
+    <plurals name="mins_delay">
+        <item quantity="other">%1$d min. vėlavimas</item>
+        <item quantity="one">%1$d min. vėlavimas</item>
+        <item quantity="few">%1$d min. vėlavimas</item>
+        <item quantity="many">%1$d min. vėlavimas</item>
+    </plurals>
+    <plurals name="mins_delay_less_than_usual">
+        <item quantity="other">%1$d min. mažiau nei įprastai</item>
+        <item quantity="one">%1$d min. mažiau nei įprastai</item>
+        <item quantity="few">%1$d min. mažiau nei įprastai</item>
+        <item quantity="many">%1$d min. mažiau nei įprastai</item>
+    </plurals>
+    <plurals name="mins_delay_more_than_usual">
+        <item quantity="other">%1$d min. daugiau nei įprastai</item>
+        <item quantity="one">%1$d min. daugiau nei įprastai</item>
+        <item quantity="few">%1$d min. daugiau nei įprastai</item>
+        <item quantity="many">%1$d min. daugiau nei įprastai</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">liko %1$d minučių</item>
+        <item quantity="one">liko %1$d minutė</item>
+        <item quantity="few">liko %1$d minutės</item>
+        <item quantity="many">liko %1$d minutės</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">Prieš %1$d min.</item>
+        <item quantity="one">Prieš %1$d min.</item>
+        <item quantity="few">Prieš %1$d min.</item>
+        <item quantity="many">Prieš %1$d min.</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+        <item quantity="few">%s min.</item>
+        <item quantity="many">%s min.</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Kas %1$d mėnesių</item>
+        <item quantity="one">Kas %1$d mėnesį</item>
+        <item quantity="few">Kas %1$d mėnesius</item>
+        <item quantity="many">Kas %1$d mėnesio</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="nga_productivity_days">
+        <item quantity="other">%s d.</item>
+        <item quantity="one">%s d.</item>
+        <item quantity="few">%s d.</item>
+        <item quantity="many">%s d.</item>
+    </plurals>
+    <plurals name="nga_productivity_disable_alarm_response">
+        <item quantity="other">Gerai, jie išjungti</item>
+        <item quantity="one">Gerai, jie išjungti</item>
+        <item quantity="few">Gerai, jie išjungti</item>
+        <item quantity="many">Gerai, jie išjungti</item>
+    </plurals>
+    <plurals name="nga_productivity_hours">
+        <item quantity="other">%s val.</item>
+        <item quantity="one">%s val.</item>
+        <item quantity="few">%s val.</item>
+        <item quantity="many">%s val.</item>
+    </plurals>
+    <plurals name="nga_productivity_minutes">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+        <item quantity="few">%s min.</item>
+        <item quantity="many">%s min.</item>
+    </plurals>
+    <plurals name="nga_productivity_seconds">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+        <item quantity="few">%s sek.</item>
+        <item quantity="many">%s sek.</item>
+    </plurals>
+    <plurals name="num_more">
+        <item quantity="other">Dar %1$d</item>
+        <item quantity="one">Dar %1$d</item>
+        <item quantity="few">Dar %1$d</item>
+        <item quantity="many">Dar %1$d</item>
+    </plurals>
+    <plurals name="num_results">
+        <item quantity="other">Paruošta %1$d paieškos rezultatų</item>
+        <item quantity="one">Paruoštas %1$d paieškos rezultatas</item>
+        <item quantity="few">Paruošti %1$d paieškos rezultatai</item>
+        <item quantity="many">Paruošta %1$d paieškos rezultato</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Pasirinkta %1$d elementų</item>
+        <item quantity="one">Pasirinktas %1$d elementas</item>
+        <item quantity="few">Pasirinkti %1$d elementai</item>
+        <item quantity="many">Pasirinkta %1$d elemento</item>
+    </plurals>
+    <plurals name="number_of_suggestions_shown">
+        <item quantity="other">Showing %d suggestions.</item>
+        <item quantity="one">Showing %d suggestions.</item>
+        <item quantity="few">Showing %d suggestions.</item>
+        <item quantity="many">Showing %d suggestions.</item>
+    </plurals>
+    <plurals name="opa_photo_selection_reaches_maximum_error_text">
+        <item quantity="other">Didžiausias galimų bendrinti vaizdų skaičius: %1$d</item>
+        <item quantity="one">Didžiausias galimų bendrinti vaizdų skaičius: %1$d</item>
+        <item quantity="few">Didžiausias galimų bendrinti vaizdų skaičius: %1$d</item>
+        <item quantity="many">Didžiausias galimų bendrinti vaizdų skaičius: %1$d</item>
+    </plurals>
+    <plurals name="photos_accessibility_selected_description">
+        <item quantity="other">Pasirinkta nuotraukų: %1$d</item>
+        <item quantity="one">Pasirinkta nuotraukų: %1$d</item>
+        <item quantity="few">Pasirinkta nuotraukų: %1$d</item>
+        <item quantity="many">Pasirinkta nuotraukų: %1$d</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Kambario rezervavimas %1$d naktų</item>
+        <item quantity="one">Kambario rezervavimas %1$d nakčiai</item>
+        <item quantity="few">Kambario rezervavimas %1$d naktims</item>
+        <item quantity="many">Kambario rezervavimas %1$d nakties</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Kas %1$d valandų</item>
+        <item quantity="one">Kas %1$d valandą</item>
+        <item quantity="few">Kas %1$d valandas</item>
+        <item quantity="many">Kas %1$d valandos</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Kas %1$s min.</item>
+        <item quantity="one">Kas %1$s min.</item>
+        <item quantity="few">Kas %1$s min.</item>
+        <item quantity="many">Kas %1$s min.</item>
+    </plurals>
+    <plurals name="read_notification_num_of_audio_messages">
+        <item quantity="other">%1$d garso praneš.</item>
+        <item quantity="one">%1$d garso praneš.</item>
+        <item quantity="few">%1$d garso praneš.</item>
+        <item quantity="many">%1$d garso praneš.</item>
+    </plurals>
+    <plurals name="read_notification_num_of_pictures">
+        <item quantity="other">%1$d nuotrauk.</item>
+        <item quantity="one">%1$d nuotrauk.</item>
+        <item quantity="few">%1$d nuotrauk.</item>
+        <item quantity="many">%1$d nuotrauk.</item>
+    </plurals>
+    <plurals name="read_notification_num_of_videos">
+        <item quantity="other">%1$d vaizdo įr.</item>
+        <item quantity="one">%1$d vaizdo įr.</item>
+        <item quantity="few">%1$d vaizdo įr.</item>
+        <item quantity="many">%1$d vaizdo įr.</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Vykstant %d įvykių</item>
+        <item quantity="one">Vykstant %d įvykiui</item>
+        <item quantity="few">Vykstant %d įvykiams</item>
+        <item quantity="many">Vykstant%d įvykio</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Kas %d dienų</item>
+        <item quantity="one">Kas %d dieną</item>
+        <item quantity="few">Kas %d dienas</item>
+        <item quantity="many">Kas %d dienos</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Kas %d mėnesių</item>
+        <item quantity="one">Kas %d mėnesį</item>
+        <item quantity="few">Kas %d mėnesius</item>
+        <item quantity="many">Kas %d mėnesio</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Kas %d savaičių</item>
+        <item quantity="one">Kas %d savaitę</item>
+        <item quantity="few">Kas %d savaites</item>
+        <item quantity="many">Kas %d savaitės</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Kas %d metų</item>
+        <item quantity="one">Kas %d metus</item>
+        <item quantity="few">Kas %d metus</item>
+        <item quantity="many">Kas %d metų</item>
+    </plurals>
+    <plurals name="rewind">
+        <item quantity="other">Atsukti %1$d sek.</item>
+        <item quantity="one">Atsukti %1$d sek.</item>
+        <item quantity="few">Atsukti %1$d sek.</item>
+        <item quantity="many">Atsukti %1$d sek.</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">liko %1$d sekundžių</item>
+        <item quantity="one">liko %1$d sekundė</item>
+        <item quantity="few">liko %1$d sekundės</item>
+        <item quantity="many">liko %1$d sekundės</item>
+    </plurals>
+    <plurals name="show_count">
+        <item quantity="other">Laidos: %1$d</item>
+        <item quantity="one">Laidos: %1$d</item>
+        <item quantity="few">Laidos: %1$d</item>
+        <item quantity="many">Laidos: %1$d</item>
+    </plurals>
+    <plurals name="smartspace_chip_display_title">
+        <item quantity="other">%2$s + %1$d</item>
+        <item quantity="one">%2$s + %1$d</item>
+        <item quantity="few">%2$s + %1$d</item>
+        <item quantity="many">%2$s + %1$d</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d PL</item>
+        <item quantity="one">%1$d PL</item>
+        <item quantity="few">%1$d PL</item>
+        <item quantity="many">%1$d PL</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d valandų</item>
+        <item quantity="one">%1$d valanda</item>
+        <item quantity="few">%1$d valandos</item>
+        <item quantity="many">%1$d valandos</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minučių</item>
+        <item quantity="one">%1$d minutė</item>
+        <item quantity="few">%1$d minutės</item>
+        <item quantity="many">%1$d minutės</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekundžių</item>
+        <item quantity="one">%1$d sekundė</item>
+        <item quantity="few">%1$d sekundės</item>
+        <item quantity="many">%1$d sekundės</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Atvyks %1$d minučių anksčiau</item>
+        <item quantity="one">Atvyks %1$d minute anksčiau</item>
+        <item quantity="few">Atvyks %1$d minutėmis anksčiau</item>
+        <item quantity="many">Atvyks %1$d minutės anksčiau</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Eikite %1$d minučių iki %2$s</item>
+        <item quantity="one">Eikite %1$d minutę iki %2$s</item>
+        <item quantity="few">Eikite %1$d minutes iki %2$s</item>
+        <item quantity="many">Eikite %1$d minutės iki %2$s</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d vietų</item>
+        <item quantity="one">%1$d vieta</item>
+        <item quantity="few">%1$d vietos</item>
+        <item quantity="many">%1$d vietos</item>
+    </plurals>
+    <plurals name="unsubscribed_favorites">
+        <item quantity="other">Tinklalaidės, kurių prenumeratas atšaukėte: %1$d</item>
+        <item quantity="one">Tinklalaidės, kurių prenumeratas atšaukėte: %1$d</item>
+        <item quantity="few">Tinklalaidės, kurių prenumeratas atšaukėte: %1$d</item>
+        <item quantity="many">Tinklalaidės, kurių prenumeratas atšaukėte: %1$d</item>
+    </plurals>
+    <plurals name="user_review_histogram_review_num">
+        <item quantity="other">Įvertino %d žmonių</item>
+        <item quantity="one">Įvertino %d žmogus</item>
+        <item quantity="few">Įvertino %d žmonės</item>
+        <item quantity="many">Įvertino %d žmogaus</item>
+    </plurals>
+    <plurals name="usual_traffic_mins_delay">
+        <item quantity="other">Įprastas eismas: %1$d min. vėlavimas</item>
+        <item quantity="one">Įprastas eismas: %1$d min. vėlavimas</item>
+        <item quantity="few">Įprastas eismas: %1$d min. vėlavimas</item>
+        <item quantity="many">Įprastas eismas: %1$d min. vėlavimas</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Kas %1$d savaičių %2$s</item>
+        <item quantity="one">Kas %1$d savaitę %2$s</item>
+        <item quantity="few">Kas %1$d savaites %2$s</item>
+        <item quantity="many">Kas %1$d savaitės %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Kas %1$d metų</item>
+        <item quantity="one">Kas %1$d metus</item>
+        <item quantity="few">Kas %1$d metus</item>
+        <item quantity="many">Kas %1$d metų</item>
+    </plurals>
+</resources>

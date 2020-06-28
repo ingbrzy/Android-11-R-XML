@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">יומיים (%d)</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים (%d)</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע אחד</item>
+        <item quantity="two">שבועים (%d)</item>
+        <item quantity="many">%d שבועות</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">החדר יכול להכיל %1$d משתתפים</item>
+        <item quantity="one">החדר יכול להכיל משתתף אחד</item>
+        <item quantity="two">החדר יכול להכיל %1$d משתתפים</item>
+        <item quantity="many">החדר יכול להכיל %1$d משתתפים</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">חזרה כל %1$d %2$s</item>
+        <item quantity="one">חזרה כל %1$d %2$s</item>
+        <item quantity="two">חזרה כל %1$d %2$s</item>
+        <item quantity="many">חזרה כל %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d ימי הולדת</item>
+        <item quantity="one">יום הולדת</item>
+        <item quantity="two">%d ימי הולדת</item>
+        <item quantity="many">%d ימי הולדת</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d אנשים</item>
+        <item quantity="one">אדם אחד</item>
+        <item quantity="two">%d אנשים</item>
+        <item quantity="many">%d אנשים</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">סיום אחרי %d חזרות</item>
+        <item quantity="one">סיום אחרי חזרה אחת</item>
+        <item quantity="two">סיום אחרי %d חזרות</item>
+        <item quantity="many">סיום אחרי %d חזרות</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">אחרי %d חזרות</item>
+        <item quantity="one">אחרי חזרה אחת (%d)</item>
+        <item quantity="two">אחרי %d חזרות</item>
+        <item quantity="many">אחרי %d חזרות</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">חזרה כל %1$d %2$s</item>
+        <item quantity="one">חזרה כל %1$d %2$s</item>
+        <item quantity="two">חזרה כל %1$d %2$s</item>
+        <item quantity="many">חזרה כל %1$d %2$s</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">פעם ב-%d ימים</item>
+        <item quantity="one">פעם ביום</item>
+        <item quantity="two">פעם ביומיים (%d)</item>
+        <item quantity="many">פעם ב-%d ימים</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">יומיים</item>
+        <item quantity="many">ימים</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">ימים לפני</item>
+        <item quantity="one">יום לפני</item>
+        <item quantity="two">יומיים לפני</item>
+        <item quantity="many">ימים לפני</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">קבצים מצורפים: %1$d קבצים</item>
+        <item quantity="one">קבצים מצורפים: %1$d קובץ</item>
+        <item quantity="two">קבצים מצורפים: %1$d קבצים</item>
+        <item quantity="many">קבצים מצורפים: %1$d קבצים</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d תזכורות סומנו להסרה</item>
+        <item quantity="one">תזכורת אחת (%d) סומנה להסרה</item>
+        <item quantity="two">%d תזכורות סומנו להסרה</item>
+        <item quantity="many">%d תזכורות סומנו להסרה</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+        <item quantity="two">; פעמיים (%d)</item>
+        <item quantity="many">; %d פעמים</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">‏ועוד ‎%d‎</item>
+        <item quantity="one">‏ועוד ‎%d‎</item>
+        <item quantity="two">‏ועוד ‎%d‎</item>
+        <item quantity="many">‏ועוד ‎%d‎</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="groove_n_times_a_month">
+        <item quantity="other">%d מופעים בחודש</item>
+        <item quantity="one">%d מופע בחודש</item>
+        <item quantity="two">%d מופעים בחודש</item>
+        <item quantity="many">%d מופעים בחודש</item>
+    </plurals>
+    <plurals name="groove_n_times_a_week">
+        <item quantity="other">%d פעמים בשבוע</item>
+        <item quantity="one">פעם %d בשבוע</item>
+        <item quantity="two">%d פעמים בשבוע</item>
+        <item quantity="many">%d פעמים בשבוע</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d משתתפים</item>
+        <item quantity="one">משתתף %d</item>
+        <item quantity="two">%d משתתפים</item>
+        <item quantity="many">%d משתתפים</item>
+    </plurals>
+    <plurals name="guests_in_unknown_location_title">
+        <item quantity="other">%1$d משתתפים נמצאים במיקום לא ידוע</item>
+        <item quantity="one">משתתף אחד נמצא במיקום לא ידוע</item>
+        <item quantity="two">%1$d משתתפים נמצאים במיקום לא ידוע</item>
+        <item quantity="many">%1$d משתתפים נמצאים במיקום לא ידוע</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">שעות</item>
+        <item quantity="one">שעה</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">שעות</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">שעות לפני</item>
+        <item quantity="one">שעה לפני</item>
+        <item quantity="two">שעתיים לפני</item>
+        <item quantity="many">שעות לפני</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="one">פעולה זו תוסיף אירוע %d ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="two">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="many">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">"האם לסמן %d תזכורות כ'בוצעו'?"</item>
+        <item quantity="one">"האם לסמן %d תזכורת כ'בוצע'?"</item>
+        <item quantity="two">"האם לסמן %d תזכורות כ'בוצעו'?"</item>
+        <item quantity="many">"האם לסמן %d תזכורות כ'בוצעו'?"</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">דקות</item>
+        <item quantity="many">דקות</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">דקות לפני</item>
+        <item quantity="one">דקה לפני</item>
+        <item quantity="two">דקות לפני</item>
+        <item quantity="many">דקות לפני</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">‏ועוד ‎%d‎</item>
+        <item quantity="one">‏ועוד ‎%d‎</item>
+        <item quantity="two">‏ועוד ‎%d‎</item>
+        <item quantity="many">‏ועוד ‎%d‎</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">חזרה כל %1$d %2$s</item>
+        <item quantity="one">חזרה כל %1$d %2$s</item>
+        <item quantity="two">חזרה כל %1$d %2$s</item>
+        <item quantity="many">חזרה כל %1$d %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">פעם ב-%1$d חודשים</item>
+        <item quantity="one">פעם בחודש</item>
+        <item quantity="two">פעם בחודשיים (%1$d)</item>
+        <item quantity="many">פעם ב-%1$d חודשים</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">ו-%1$d נוספים​</item>
+        <item quantity="one">ו-%1$d נוספים​</item>
+        <item quantity="two">ו-%1$d נוספים​</item>
+        <item quantity="many">ו-%1$d נוספים​</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d חדרים</item>
+        <item quantity="one">חדר אחד (%1$d)</item>
+        <item quantity="two">%1$d חדרים</item>
+        <item quantity="many">%1$d חדרים</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">שנים</item>
+        <item quantity="one">שנה</item>
+        <item quantity="two">שנתיים</item>
+        <item quantity="many">שנים</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">יומיים</item>
+        <item quantity="many">ימים</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">חודשים</item>
+        <item quantity="one">חודש</item>
+        <item quantity="two">חודשיים</item>
+        <item quantity="many">חודשים</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">שבועות</item>
+        <item quantity="one">שבוע</item>
+        <item quantity="two">שבועיים</item>
+        <item quantity="many">שבועות</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d תזכורות:</item>
+        <item quantity="one">תזכורת אחת (%d):</item>
+        <item quantity="two">%d תזכורות:</item>
+        <item quantity="many">%d תזכורות:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d תזכורות סומנו להסרה:</item>
+        <item quantity="one">תזכורת אחת (%d) סומנה להסרה:</item>
+        <item quantity="two">%d תזכורות סומנו להסרה:</item>
+        <item quantity="many">%d תזכורות סומנו להסרה:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">"%d תזכורות סומנו כ'בוצעו'."</item>
+        <item quantity="one">"%d תזכורת סומנה כ'בוצעה'."</item>
+        <item quantity="two">"%d תזכורות סומנו כ'בוצעו'."</item>
+        <item quantity="many">"%d תזכורות סומנו כ'בוצעו'."</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d תזכורות</item>
+        <item quantity="one">תזכורת אחת (%d)</item>
+        <item quantity="two">%d תזכורות</item>
+        <item quantity="many">%d תזכורות</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">‏‎%s‎ כן</item>
+        <item quantity="one">‏‎%s‎ כן</item>
+        <item quantity="two">‏‎%s‎ כן</item>
+        <item quantity="many">‏‎%s‎ כן</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">‏‎%s‎ לא</item>
+        <item quantity="one">‏‎%s‎ לא</item>
+        <item quantity="two">‏‎%s‎ לא</item>
+        <item quantity="many">‏‎%s‎ לא</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">‏‎%s‎ עדיין אין תשובה</item>
+        <item quantity="one">‏‎%s‎ עדיין אין תשובה</item>
+        <item quantity="two">‏‎%s‎ עדיין אין תשובה</item>
+        <item quantity="many">‏‎%s‎ עדיין אין תשובה</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">‏‎%s‎ אולי</item>
+        <item quantity="one">‏‎%s‎ אולי</item>
+        <item quantity="two">‏‎%s‎ אולי</item>
+        <item quantity="many">‏‎%s‎ אולי</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">חדר ישיבות ל-%1$d אנשים</item>
+        <item quantity="one">חדר ישיבות לאדם אחד</item>
+        <item quantity="two">חדר ישיבות ל-%1$d אנשים</item>
+        <item quantity="many">חדר ישיבות ל-%1$d אנשים</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+        <item quantity="two">+%d</item>
+        <item quantity="many">+%d</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="one">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבון %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="two">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="many">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">מושבים %s</item>
+        <item quantity="one">מושב %s</item>
+        <item quantity="two">מושבים %s</item>
+        <item quantity="many">מושבים %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">%d ימים</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">חזרה כל %1$d %2$s</item>
+        <item quantity="one">חזרה כל %1$d %2$s</item>
+        <item quantity="two">חזרה כל %1$d %2$s</item>
+        <item quantity="many">חזרה כל %1$d %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">פעם ב-%1$d שבועות ביום %2$s</item>
+        <item quantity="one">פעם בשבוע ביום %2$s</item>
+        <item quantity="two">פעם בשבועיים (%1$d) ביום %2$s</item>
+        <item quantity="many">פעם ב-%1$d שבועות ביום %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">שבועות</item>
+        <item quantity="one">שבוע</item>
+        <item quantity="two">שבועיים</item>
+        <item quantity="many">שבועות</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">שבועות לפני</item>
+        <item quantity="one">שבוע לפני</item>
+        <item quantity="two">שבועיים לפני</item>
+        <item quantity="many">שבועות לפני</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">פעם ב-%1$d שנים</item>
+        <item quantity="one">פעם בשנה</item>
+        <item quantity="two">פעם בשנתיים (%1$d)</item>
+        <item quantity="many">פעם ב-%1$d שנים</item>
+    </plurals>
+</resources>

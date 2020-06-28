@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d зүйл скан хийсэн</item>
+        <item quantity="one">%1$d зүйл скан хийсэн</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d зүйл сонгосон</item>
+        <item quantity="one">%1$dзүйл сонгосон</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Шинэ цомгийн хэмжээ одоогийн хязгаар болох %1$d зүйлээс том байх байсан.</item>
+        <item quantity="one">Шинэ цомгийн хэмжээ одоогийн хязгаар болох %1$d зүйлээс том байх байсан.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Цомог %1$d зүйлтэй болох байсан.</item>
+        <item quantity="one">Цомог %1$d зүйлтэй болох байсан.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d байршил нэмсэн</item>
+        <item quantity="one">%d байршил нэмсэн</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d байршил</item>
+        <item quantity="one">%d байршил</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d газрын зураг</item>
+        <item quantity="one">%d газрын зураг</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d газрын зураг нэмсэн</item>
+        <item quantity="one">%d газрын зураг нэмсэн</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Энэ цомгоос зүйлсийг устгаж байна...</item>
+        <item quantity="one">Энэ цомгоос нэг зүйл устгаж байна…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d зүйл устгасан</item>
+        <item quantity="one">%d зүйл устгасан</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Энэ цомгоос зурагнууд хасаж байна...</item>
+        <item quantity="one">Энэ цомгоос зураг хасаж байна…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Энэ цомгоос видеонуудыг устгаж байна...</item>
+        <item quantity="one">Энэ цомгоос видеог устгаж байна…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d зүйл</item>
+        <item quantity="one">%1$d зүйл</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d зүйл</item>
+        <item quantity="one">%d зүйл</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Төхөөрөмжөөс устгах (%d)</item>
+        <item quantity="one">Төхөөрөмжөөс устгах (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Төхөөрөмжөөс бүгдийг устгах (%d)</item>
+        <item quantity="one">Төхөөрөмжөөс бүгдийг устгах (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Хогийн сав руу зөөх (%d)</item>
+        <item quantity="one">Хогийн сав руу зөөх (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d зүйлийг архивласан</item>
+        <item quantity="one">%d зүйлийг архивласан</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d зүйлийг архиваас гаргасан</item>
+        <item quantity="one">%d зүйлийг архиваас гаргасан</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s болон бусад %3$d</item>
+        <item quantity="one">%1$s, %2$s болон бусад %3$d</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s болон бусад %2$d</item>
+        <item quantity="one">%1$s болон бусад %2$d</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d сонгосон</item>
+        <item quantity="one">%d сонгосон</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">%d зүйлийг байршуулж байна</item>
+        <item quantity="one">%d зүйлийг байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">Таны бүртгэлийн хадгалах сан дүүрсэн учир %d зүйлийг нөөцлөөгүй</item>
+        <item quantity="one">Таны бүртгэлийн хадгалах сан дүүрсэн учир %d зүйлийг нөөцлөөгүй</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d зүйл үлдсэн</item>
+        <item quantity="one">%d зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d нөөцлөх зүйл үлдсэн</item>
+        <item quantity="one">%d нөөцлөх зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d зүйл үлдсэн • Шахсан</item>
+        <item quantity="one">%d зүйл үлдсэн • Шахсан</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d зүйл үлдсэн • Өндөр чанар</item>
+        <item quantity="one">%d зүйл үлдсэн • Өндөр чанар</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d зүйл үлдсэн • Эх чанар</item>
+        <item quantity="one">%d зүйл үлдсэн • Эх чанар</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d зүйл байршуулж байна</item>
+        <item quantity="one">%d зүйл байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d зүйл үлдсэн</item>
+        <item quantity="one">%d зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d нөөцлөх зүйл үлдсэн</item>
+        <item quantity="one">%d нөөцлөх зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d зургийг нөөцлөөгүй байна</item>
+        <item quantity="one">%1$d зургийг нөөцлөөгүй байна</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">%d зүйлийг нөөцөлж байна</item>
+        <item quantity="one">%d зүйлийг нөөцөлж байна</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d зүйл байршуулж байна</item>
+        <item quantity="one">%d зүйл байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d видеог байршуулж байна</item>
+        <item quantity="one">%d видеог байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">Байршуулах %d зүйл</item>
+        <item quantity="one">Байршуулах %d зүйл</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">Байршуулах %d видео</item>
+        <item quantity="one">Байршуулах %d видео</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d зургийг нөөцлөөгүй</item>
+        <item quantity="one">%d зургийг нөөцлөөгүй</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Бүх %d зураг</item>
+        <item quantity="one">Бүх %d зураг</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">Таны бүртгэлийн хадгалах сан дүүрсэн учир %1$d зүйлийг нөөцлөөгүй</item>
+        <item quantity="one">Таны бүртгэлийн хадгалах сан дүүрсэн учир %1$d зүйлийг нөөцлөөгүй</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">Таны хадгалах сан дүүрсэн учир %1$d зургийг хуулбарлаагүй</item>
+        <item quantity="one">Таны хадгалах сан дүүрсэн учир %1$d зургийг хуулбарлаагүй</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d зүйл нэмсэн</item>
+        <item quantity="one">%1$d зүйл нэмсэн</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Хамгийн ихдээ %d зүйл сонгоно уу.</item>
+        <item quantity="one">Хамгийн ихдээ %d зүйл сонгоно уу.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Хамгийн багадаа %d зүйл сонгоно уу.</item>
+        <item quantity="one">Хамгийн багадаа %d зүйл сонгоно уу.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d өдрийн муж доторх зүйлсийг сонгоно уу.</item>
+        <item quantity="one">%d өдрийн муж доторх зүйлсийг сонгоно уу.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d өдрийн өмнө</item>
+        <item quantity="one">%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dц</item>
+        <item quantity="one">%dц</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d цагийн өмнө</item>
+        <item quantity="one">%d цагийн өмнө</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dд/х</item>
+        <item quantity="one">%dд/х</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d долоо хоногийн өмнө</item>
+        <item quantity="one">%d долоо хоногийн өмнө</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dм</item>
+        <item quantity="one">%dм</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d минутын өмнө</item>
+        <item quantity="one">%d минутын өмнө</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dө</item>
+        <item quantity="one">%dө</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d өдрийн өмнө</item>
+        <item quantity="one">%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$d зүйлийг төхөөрөмжөөс устгах</item>
+        <item quantity="one">%1$d зүйлийг төхөөрөмжөөс устгах</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d эх зураг, видеог устгаж байна</item>
+        <item quantity="one">%1$d эх зураг эсвэл видеог устгаж байна</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d зүйл</item>
+        <item quantity="one">%d зүйл</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d шинэ карт</item>
+        <item quantity="one">1 шинэ карт</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d зүйл нэмсэн</item>
+        <item quantity="one">%d зүйл нэмсэн</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d шинэчлэлт</item>
+        <item quantity="one">%1$d шинэчлэлт</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">%1$s, %2$s болон бусад %3$d хүн харсан</item>
+        <item quantity="one">%1$s, %2$s болон бусад %3$d хүн харсан</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d сэтгэгдэл</item>
+        <item quantity="one">%1$d сэтгэгдэл</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Тухайн зүйлсийг номын санд хадгалж байна…</item>
+        <item quantity="one">Тухайн зүйлийг номын санд хадгалж байна…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s %2$d зураг • таалагдсан %3$s</item>
+        <item quantity="one">%1$s %2$d зураг • таалагдсан %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s %2$d видео • таалагдсан %3$s</item>
+        <item quantity="one">%1$s %2$d видео • таалагдсан %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">%d зүйл сонгох</item>
+        <item quantity="one">%d зүйл сонгох</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Фолдер болон доторх %d зүйлийг устгах</item>
+        <item quantity="one">Фолдер болон доторх %d зүйлийг устгах</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Төхөөрөмжөөс устгах (%d)</item>
+        <item quantity="one">Төхөөрөмжөөс устгах (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d зүйлийг хуулахад асуудал гарсан</item>
+        <item quantity="one">%d зүйлийг хуулахад асуудал гарсан</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d зүйлийг хуулсан</item>
+        <item quantity="one">%d зүйлийг хуулсан</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d зүйлийг зөөхөд асуудал гарсан</item>
+        <item quantity="one">%d зүйлийг зөөхөд асуудал гарсан</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d зүйлийг зөөсөн</item>
+        <item quantity="one">%d зүйлийг зөөсөн</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">Санал болгосон %d агшин</item>
+        <item quantity="one">Санал болгосон %d агшин</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d жилийн өмнө</item>
+        <item quantity="one">%d жилийн өмнө</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Цагийн зүүний эсрэг %d хэм эргүүлэх</item>
+        <item quantity="one">Цагийн зүүний эсрэг %d хэм эргүүлэх</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d хүний зураг</item>
+        <item quantity="one">%d хүний зураг</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">%d сонгосон царайны зураг</item>
+        <item quantity="one">%d сонгосон царайны зураг</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d сонгосон</item>
+        <item quantity="one">%d сонгосон</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d царай сонгосон</item>
+        <item quantity="one">%d царай сонгосон</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%1$d сонгосон царайны зураг, %2$s-с хойш</item>
+        <item quantity="one">%1$d сонгосон царайны зураг, %2$s-с хойш</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">%d сонгосон царайны зураг</item>
+        <item quantity="one">%d сонгосон царайны зураг</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d зураг хассан</item>
+        <item quantity="one">%1$d зураг хассан</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Зөвхөн %d сонгох</item>
+        <item quantity="one">Зөвхөн %d сонгох</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d зураг</item>
+        <item quantity="one">%1$d зураг</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d сонгосон</item>
+        <item quantity="one">%d сонгосон</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Зөвхөн %d зураг хэвлэх боломжтой,</item>
+        <item quantity="one">Зөвхөн %d зураг хэвлэх боломжтой,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d зураг танд санал болгосон</item>
+        <item quantity="one">%d зураг танд санал болгосон</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d зураг санал болгосон</item>
+        <item quantity="one">%d зураг санал болгосон</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d нэмэлт хуудас</item>
+        <item quantity="one">%d нэмэлт хуудас</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d хуудас</item>
+        <item quantity="one">%d хуудас</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Худалдан авах %d нэмэлт зургийг нэмэх</item>
+        <item quantity="one">Худалдан авах %d нэмэлт зургийг нэмэх</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d хуудас нэмсэн</item>
+        <item quantity="one">%d хуудас нэмсэн</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d зураг нэмсэн</item>
+        <item quantity="one">%d зураг нэмсэн</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d хуудсыг устгасан</item>
+        <item quantity="one">%d хуудсыг устгасан</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d зураг хассан</item>
+        <item quantity="one">%d зураг хассан</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d нэмэлт хуудас</item>
+        <item quantity="one">%d нэмэлт хуудас</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d хуудас</item>
+        <item quantity="one">%d хуудас</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d зургийг %2$s хэвлэлээр нэмсэн</item>
+        <item quantity="one">%1$d зургийг %2$s хэвлэлээр нэмсэн</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Та захиалга тутамд зөвхөн %1$d %2$s хэвлэл сонгож болно</item>
+        <item quantity="one">Та захиалга тутамд зөвхөн %1$d %2$s хэвлэл сонгож болно</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Нооргоор үргэлжлүүлэхийн тулд танд хамгийн багадаа %1$d зураг шаардлагатай.</item>
+        <item quantity="one">Нооргоор үргэлжлүүлэхийн тулд танд хамгийн багадаа %1$d зураг шаардлагатай.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d хэвлэл</item>
+        <item quantity="one">%1$d хэвлэл</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%2$d-н %1$d зүйлийг татаж авсан</item>
+        <item quantity="one">%2$d-н %1$d зүйлийг татаж авсан</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">%d зүйлийг сэргээх үү?</item>
+        <item quantity="one">%d зүйлийг сэргээх үү?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">Төхөөрөмжид саяхан %1$d зүйлийг сэргээсэн</item>
+        <item quantity="one">Төхөөрөмжид саяхан 1 зүйлийг сэргээсэн</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d зураг &amp; видеог сэргээсэн</item>
+        <item quantity="one">1 зураг эсвэл видеог сэргээсэн</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%dзураг</item>
+        <item quantity="one">%d зураг</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d зүйл цомогт нэмсэн</item>
+        <item quantity="one">%d зүйл цомогт нэмсэн</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d зүйл байршуулж байна</item>
+        <item quantity="one">%d зүйл байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Холбогдмогц %d зүйлийг байршуулах болно</item>
+        <item quantity="one">Холбогдмогц %d зүйлийг байршуулах болно</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Бодит файл</item>
+        <item quantity="one">Бодит файл</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Файл</item>
+        <item quantity="one">Файл</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Жижиг файл</item>
+        <item quantity="one">Жижиг файл</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s, өөр %2$d хүн</item>
+        <item quantity="one">%1$s, өөр %2$d хүн</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d зүйл</item>
+        <item quantity="one">%d зүйл</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">%d холбогдолтой зураг нэмэх үү?</item>
+        <item quantity="one">%d холбогдолтой зураг нэмэх үү?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d зураг автоматаар нэмсэн</item>
+        <item quantity="one">%1$d зураг автоматаар нэмсэн</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d шинэ зураг</item>
+        <item quantity="one">%1$d шинэ зураг</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s %2$d шинэ зураг нэмсэн</item>
+        <item quantity="one">%1$s %2$d шинэ зураг нэмсэн</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Тухайн зүйлсийг устгах боломжгүй</item>
+        <item quantity="one">Тухайн зүйлийг устгах боломжгүй</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d зүйлийг устгах боломжгүй</item>
+        <item quantity="one">%d зүйлийг устгах боломжгүй</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d зүйлийг бүрмөсөн устгах боломжгүй</item>
+        <item quantity="one">%d зүйлийг бүрмөсөн устгах боломжгүй</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d төхөөрөмжөөс устгасан</item>
+        <item quantity="one">%d төхөөрөмжөөс устгасан</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Тухайн зүйлсийг сэргээж байна…</item>
+        <item quantity="one">Тухайн зүйлийг сэргээж байна…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d зүйлийг сэргээх боломжгүй</item>
+        <item quantity="one">%d зүйлийг сэргээх боломжгүй</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Тэдгээр зүйлийг бүрмөсөн устгах уу?</item>
+        <item quantity="one">Тухайн зүйлийг бүрмөсөн устгах уу?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d зүйлийг бүрмөсөн устгах</item>
+        <item quantity="one">%d зүйлийг бүрмөсөн устгах</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Энэ хувилбарын хугацаа дуусахад %d өдөр үлдсэн. Google Зургийг үргэлжлүүлэн ашиглахын тулд одоо шинэчилнэ үү.</item>
+        <item quantity="one">Энэ хувилбарын хугацаа дуусахад 1 өдөр үлдсэн. Google Зургийг үргэлжлүүлэн ашиглахын тулд одоо шинэчилнэ үү.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d зүйлийг байршуулж байна</item>
+        <item quantity="one">%d зүйлийг байршуулж байна</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">Холбогдсон үед%d зүйлийг байршуулах болно</item>
+        <item quantity="one">Холбогдсон үед %d зүйлийг байршуулах болно</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Wi-Fi-д холбогдсон үед %d зүйлийг байршуулах болно</item>
+        <item quantity="one">Wi-Fi-д холбогдсон үед %d зүйлийг байршуулах болно</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Байршуулж байна…%d үлдсэн</item>
+        <item quantity="one">Байршуулж байна…%d үлдсэн</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d файл</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s зураг</item>
+        <item quantity="one">%s зураг</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s зүйл</item>
+        <item quantity="one">%s зүйл</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s видео</item>
+        <item quantity="one">%s видео</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Зурагнууд сонгоно уу</item>
+        <item quantity="one">Зураг сонгоно уу</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Зүйлс сонгоно уу</item>
+        <item quantity="one">Нэг зүйл сонгоно уу</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Видеонууд сонгоно уу</item>
+        <item quantity="one">Видео сонгоно уу</item>
+    </plurals>
+</resources>

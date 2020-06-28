@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dnem</item>
+        <item quantity="two">pred %d dnevoma</item>
+        <item quantity="few">pred %d dnevi</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d minutami</item>
+        <item quantity="one">pred %d minuto</item>
+        <item quantity="two">pred %d minutama</item>
+        <item quantity="few">pred %d minutami</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d leti</item>
+        <item quantity="one">pred %d letom</item>
+        <item quantity="two">pred %d letoma</item>
+        <item quantity="few">pred %d leti</item>
+    </plurals>
+    <plurals name="agenda_card_history_desc">
+        <item quantity="other">%d dogodkov</item>
+        <item quantity="one">%d dogodek</item>
+        <item quantity="two">%d dogodka</item>
+        <item quantity="few">%d dogodki</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s imate %1$d celodnevnih dogodkov: %3$s.</item>
+        <item quantity="one">%2$s imate %1$d celodnevni dogodek: %3$s.</item>
+        <item quantity="two">%2$s imate %1$d celodnevna dogodka: %3$s.</item>
+        <item quantity="few">%2$s imate %1$d celodnevne dogodke: %3$s.</item>
+    </plurals>
+    <plurals name="agent_directory_a11y_user_rating">
+        <item quantity="other">Vaša ocena: %d zvezdic.</item>
+        <item quantity="one">Vaša ocena: %d zvezdica.</item>
+        <item quantity="two">Vaša ocena: %d zvezdici.</item>
+        <item quantity="few">Vaša ocena: %d zvezdice.</item>
+    </plurals>
+    <plurals name="album_photo_count_subtitle">
+        <item quantity="other">%1$d fotografij</item>
+        <item quantity="one">%1$d fotografija</item>
+        <item quantity="two">%1$d fotografiji</item>
+        <item quantity="few">%1$d fotografije</item>
+    </plurals>
+    <plurals name="amb_smartspace_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+    </plurals>
+    <plurals name="amb_smartspace_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+    </plurals>
+    <plurals name="ambient_notification_summary">
+        <item quantity="other">Imate %1$d obvestil</item>
+        <item quantity="one">Imate %1$d obvestilo</item>
+        <item quantity="two">Imate %1$d obvestili</item>
+        <item quantity="few">Imate %1$d obvestila</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_progress">
+        <item quantity="other">Dodeljevanje %1$s naprav sobam</item>
+        <item quantity="one">Dodeljevanje %1$s naprave sobam</item>
+        <item quantity="two">Dodeljevanje %1$s naprav sobam</item>
+        <item quantity="few">Dodeljevanje %1$s naprav sobam</item>
+    </plurals>
+    <plurals name="assistant_settings_home_assign_rooms_prompt">
+        <item quantity="other">%1$d naprav še ni v sobah. Če v sobo dodate naprave, lahko na primer izgovorite »Turn on the living room lights« (Vklop luči v dnevni sobi).</item>
+        <item quantity="one">%1$d naprave še ni v sobah. Če v sobo dodate naprave, lahko na primer izgovorite »Turn on the living room lights« (Vklop luči v dnevni sobi).</item>
+        <item quantity="two">%1$d naprav še ni v sobah. Če v sobo dodate naprave, lahko na primer izgovorite »Turn on the living room lights« (Vklop luči v dnevni sobi).</item>
+        <item quantity="few">%1$d naprav še ni v sobah. Če v sobo dodate naprave, lahko na primer izgovorite »Turn on the living room lights« (Vklop luči v dnevni sobi).</item>
+    </plurals>
+    <plurals name="assistant_settings_home_cloud_services_unlink_dialog_body_has_devices">
+        <item quantity="other">Ali ste prepričani, da želite prekiniti povezavo s tem računom? S tem bo tudi prekinjena povezava %1$d povezanih naprav s Pomočnikom Google.</item>
+        <item quantity="one">Ali ste prepričani, da želite prekiniti povezavo s tem računom? S tem bo tudi prekinjena povezava %1$d povezane naprave s Pomočnikom Google.</item>
+        <item quantity="two">Ali ste prepričani, da želite prekiniti povezavo s tem računom? S tem bo tudi prekinjena povezava %1$d povezanih naprav s Pomočnikom Google.</item>
+        <item quantity="few">Ali ste prepričani, da želite prekiniti povezavo s tem računom? S tem bo tudi prekinjena povezava %1$d povezanih naprav s Pomočnikom Google.</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d številk</item>
+        <item quantity="one">%1$d številka</item>
+        <item quantity="two">%1$d številki</item>
+        <item quantity="few">%1$d številke</item>
+    </plurals>
+    <plurals name="collections_detail_items_moved">
+        <item quantity="other">%d elementov je bilo premaknjenih</item>
+        <item quantity="one">%d element je bil premaknjen</item>
+        <item quantity="two">%d elementa sta bila premaknjena</item>
+        <item quantity="few">%d elementi so bili premaknjeni</item>
+    </plurals>
+    <plurals name="collections_detail_items_removed">
+        <item quantity="other">%d elementov je bilo odstranjenih</item>
+        <item quantity="one">%d element je bil odstranjen</item>
+        <item quantity="two">%d elementa sta bila odstranjena</item>
+        <item quantity="few">%d elementi so bili odstranjeni</item>
+    </plurals>
+    <plurals name="collections_detail_selected_items">
+        <item quantity="other">Izbrano: %d</item>
+        <item quantity="one">Izbrano: %d</item>
+        <item quantity="two">Izbrano: %d</item>
+        <item quantity="few">Izbrano: %d</item>
+    </plurals>
+    <plurals name="collections_detail_status">
+        <item quantity="other">%1$s · %2$d izdelkov</item>
+        <item quantity="one">%1$s · %2$d izdelek</item>
+        <item quantity="two">%1$s · %2$d izdelka</item>
+        <item quantity="few">%1$s · %2$d izdelki</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_message">
+        <item quantity="other">Ali res želite odstraniti %d izbranih elementov?</item>
+        <item quantity="one">Ali res želite odstraniti %d izbrani element?</item>
+        <item quantity="two">Ali res želite odstraniti %d izbrana elementa?</item>
+        <item quantity="few">Ali res želite odstraniti %d izbrane elemente?</item>
+    </plurals>
+    <plurals name="collections_dialog_remove_items_dialog_title">
+        <item quantity="other">Odstranjevanje %d elementov</item>
+        <item quantity="one">Odstranjevanje %d elementa</item>
+        <item quantity="two">Odstranjevanje %d elementov</item>
+        <item quantity="few">Odstranjevanje %d elementov</item>
+    </plurals>
+    <plurals name="collections_list_collections_count">
+        <item quantity="other">%d zbirk</item>
+        <item quantity="one">%d zbirka</item>
+        <item quantity="two">%d zbirki</item>
+        <item quantity="few">%d zbirke</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Vsak %d. dan</item>
+        <item quantity="one">Vsak %d. dan</item>
+        <item quantity="two">Vsak %d. dan</item>
+        <item quantity="few">Vsak %d. dan</item>
+    </plurals>
+    <plurals name="daysAgo">
+        <item quantity="other">Pred %1$d dnevi</item>
+        <item quantity="one">Pred %1$d dnevom</item>
+        <item quantity="two">Pred %1$d dnevoma</item>
+        <item quantity="few">Pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$d dnevi</item>
+        <item quantity="one">Pred %1$d dnevom</item>
+        <item quantity="two">Pred %1$d dnevoma</item>
+        <item quantity="few">Pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="days_left_to_remove_downloads">
+        <item quantity="other">Po %1$d dneh</item>
+        <item quantity="one">Po %1$d dnevu</item>
+        <item quantity="two">Po %1$d dnevih</item>
+        <item quantity="few">Po %1$d dneh</item>
+    </plurals>
+    <plurals name="device_count">
+        <item quantity="other">%1$d naprav</item>
+        <item quantity="one">%1$d naprava</item>
+        <item quantity="two">%1$d napravi</item>
+        <item quantity="few">%1$d naprave</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dan</item>
+        <item quantity="two">%1$d dneva</item>
+        <item quantity="few">%1$d dni</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dan</item>
+        <item quantity="two">%1$d dneva</item>
+        <item quantity="few">%1$d dni</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+        <item quantity="two">%1$d uri</item>
+        <item quantity="few">%1$d ure</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+        <item quantity="two">%1$d uri</item>
+        <item quantity="few">%1$d ure</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="two">%1$d minuti</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d mesecev</item>
+        <item quantity="one">%1$d mesec</item>
+        <item quantity="two">%1$d meseca</item>
+        <item quantity="few">%1$d meseci</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d mesecev</item>
+        <item quantity="one">%1$d mesec</item>
+        <item quantity="two">%1$d meseca</item>
+        <item quantity="few">%1$d meseci</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d let</item>
+        <item quantity="one">%1$d leto</item>
+        <item quantity="two">%1$d leti</item>
+        <item quantity="few">%1$d leta</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d let</item>
+        <item quantity="one">%1$d leto</item>
+        <item quantity="two">%1$d leti</item>
+        <item quantity="few">%1$d leta</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Pošlji e-poštno sporočilo vsem (%1$d)</item>
+        <item quantity="one">Pošlji e-poštno sporočilo vsem (%1$d)</item>
+        <item quantity="two">Pošlji e-poštno sporočilo vsem (%1$d)</item>
+        <item quantity="few">Pošlji e-poštno sporočilo vsem (%1$d)</item>
+    </plurals>
+    <plurals name="enabled_podcasts_number_label">
+        <item quantity="other">Omogočeno za %1$d podkastov od %2$d</item>
+        <item quantity="one">Omogočeno za %1$d podkast od %2$d</item>
+        <item quantity="two">Omogočeno za %1$d podkasta od %2$d</item>
+        <item quantity="few">Omogočeno za %1$d podkaste od %2$d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">– %d-krat</item>
+        <item quantity="one">– %d-krat</item>
+        <item quantity="two">– %d-krat</item>
+        <item quantity="few">– %d-krat</item>
+    </plurals>
+    <plurals name="episode_count">
+        <item quantity="other">%1$d epizod</item>
+        <item quantity="one">%1$d epizoda</item>
+        <item quantity="two">%1$d epizodi</item>
+        <item quantity="few">%1$d epizode</item>
+    </plurals>
+    <plurals name="episode_list_title_text">
+        <item quantity="other">%1$d epizod</item>
+        <item quantity="one">%1$d epizoda</item>
+        <item quantity="two">%1$d epizodi</item>
+        <item quantity="few">%1$d epizode</item>
+    </plurals>
+    <plurals name="episodes_selected">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbrana</item>
+        <item quantity="two">%1$d izbrani</item>
+        <item quantity="few">%1$d izbrane</item>
+    </plurals>
+    <plurals name="fast_forward">
+        <item quantity="other">Previj naprej za %1$d sekund</item>
+        <item quantity="one">Previj naprej za %1$d sekundo</item>
+        <item quantity="two">Previj naprej za %1$d sekundi</item>
+        <item quantity="few">Previj naprej za %1$d sekunde</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbrana</item>
+        <item quantity="two">%1$d izbrani</item>
+        <item quantity="few">%1$d izbrane</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">Pred %1$d urami</item>
+        <item quantity="one">Pred %1$d uro</item>
+        <item quantity="two">Pred %1$d urama</item>
+        <item quantity="few">Pred %1$d urami</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+        <item quantity="two">%s h</item>
+        <item quantity="few">%s h</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d urami</item>
+        <item quantity="one">Pred %1$d uro</item>
+        <item quantity="two">Pred %1$d urama</item>
+        <item quantity="few">Pred %1$d urami</item>
+    </plurals>
+    <plurals name="hours_left_to_remove_downloads">
+        <item quantity="other">Po %1$d urah</item>
+        <item quantity="one">Po %1$d uri</item>
+        <item quantity="two">Po %1$d urah</item>
+        <item quantity="few">Po %1$d urah</item>
+    </plurals>
+    <plurals name="ipa_number_of_results_shown">
+        <item quantity="other">Showing %d results.</item>
+        <item quantity="one">Showing %d results.</item>
+        <item quantity="two">Showing %d results.</item>
+        <item quantity="few">Showing %d results.</item>
+    </plurals>
+    <plurals name="message_notifications_been_read">
+        <item quantity="other">Sporočila so prebrana</item>
+        <item quantity="one">Sporočila so prebrana</item>
+        <item quantity="two">Sporočila so prebrana</item>
+        <item quantity="few">Sporočila so prebrana</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$d minutami</item>
+        <item quantity="one">Pred %1$d minuto</item>
+        <item quantity="two">Pred %1$d minutama</item>
+        <item quantity="few">Pred %1$d minutami</item>
+    </plurals>
+    <plurals name="mins_delay">
+        <item quantity="other">%1$d min zamude</item>
+        <item quantity="one">%1$d min zamude</item>
+        <item quantity="two">%1$d min zamude</item>
+        <item quantity="few">%1$d min zamude</item>
+    </plurals>
+    <plurals name="mins_delay_less_than_usual">
+        <item quantity="other">%1$d min manj kot običajno</item>
+        <item quantity="one">%1$d min manj kot običajno</item>
+        <item quantity="two">%1$d min manj kot običajno</item>
+        <item quantity="few">%1$d min manj kot običajno</item>
+    </plurals>
+    <plurals name="mins_delay_more_than_usual">
+        <item quantity="other">%1$d min več kot običajno</item>
+        <item quantity="one">%1$d min več kot običajno</item>
+        <item quantity="two">%1$d min več kot običajno</item>
+        <item quantity="few">%1$d min več kot običajno</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">Še %1$d minut</item>
+        <item quantity="one">Še %1$d minuta</item>
+        <item quantity="two">Še %1$d minuti</item>
+        <item quantity="few">Še %1$d minute</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">Pred %1$d min</item>
+        <item quantity="one">Pred %1$d min</item>
+        <item quantity="two">Pred %1$d min</item>
+        <item quantity="few">Pred %1$d min</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="two">%s min</item>
+        <item quantity="few">%s min</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Vsak %1$d. mesec</item>
+        <item quantity="one">Vsak %1$d. mesec</item>
+        <item quantity="two">Vsak %1$d. mesec</item>
+        <item quantity="few">Vsak %1$d. mesec</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="nga_productivity_days">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="two">%s dni</item>
+        <item quantity="few">%s dnevi</item>
+    </plurals>
+    <plurals name="nga_productivity_disable_alarm_response">
+        <item quantity="other">V redu, izklopljeni so</item>
+        <item quantity="one">V redu, izklopljeni so</item>
+        <item quantity="two">V redu, izklopljena sta</item>
+        <item quantity="few">V redu, izklopljeni so</item>
+    </plurals>
+    <plurals name="nga_productivity_hours">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+        <item quantity="two">%s uri</item>
+        <item quantity="few">%s ure</item>
+    </plurals>
+    <plurals name="nga_productivity_minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minuta</item>
+        <item quantity="two">%s minuti</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="nga_productivity_seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="two">%s sekundi</item>
+        <item quantity="few">%s sekunde</item>
+    </plurals>
+    <plurals name="num_more">
+        <item quantity="other">in še %1$d</item>
+        <item quantity="one">in še %1$d</item>
+        <item quantity="two">in še %1$d</item>
+        <item quantity="few">in še %1$d</item>
+    </plurals>
+    <plurals name="num_results">
+        <item quantity="other">Pripravljenih je %1$d rezultatov iskanja</item>
+        <item quantity="one">Pripravljen je %1$d rezultat iskanja</item>
+        <item quantity="two">Pripravljena sta %1$d rezultata iskanja</item>
+        <item quantity="few">Pripravljeni so %1$d rezultati iskanja</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbrano</item>
+        <item quantity="two">%1$d izbrani</item>
+        <item quantity="few">%1$d izbrana</item>
+    </plurals>
+    <plurals name="number_of_suggestions_shown">
+        <item quantity="other">Showing %d suggestions.</item>
+        <item quantity="one">Showing %d suggestions.</item>
+        <item quantity="two">Showing %d suggestions.</item>
+        <item quantity="few">Showing %d suggestions.</item>
+    </plurals>
+    <plurals name="opa_photo_selection_reaches_maximum_error_text">
+        <item quantity="other">Delite lahko največ %1$d slik</item>
+        <item quantity="one">Delite lahko največ %1$d sliko</item>
+        <item quantity="two">Delite lahko največ %1$d sliki</item>
+        <item quantity="few">Delite lahko največ %1$d slike</item>
+    </plurals>
+    <plurals name="photos_accessibility_selected_description">
+        <item quantity="other">Izbranih je %1$d fotografij</item>
+        <item quantity="one">Izbrana je %1$d fotografija</item>
+        <item quantity="two">Izbrani sta %1$d fotografiji</item>
+        <item quantity="few">Izbrane so %1$d fotografije</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Rezervacija sobe za %1$d nočitev</item>
+        <item quantity="one">Rezervacija sobe za %1$d nočitev</item>
+        <item quantity="two">Rezervacija sobe za %1$d nočitvi</item>
+        <item quantity="few">Rezervacija sobe za %1$d nočitve</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Vsakih %1$d ur</item>
+        <item quantity="one">Vsako %1$d uro</item>
+        <item quantity="two">Vsaki %1$d uri</item>
+        <item quantity="few">Vsake %1$d ure</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Vsakih %1$s min</item>
+        <item quantity="one">Vsako %1$s min</item>
+        <item quantity="two">Vsaki %1$s min</item>
+        <item quantity="few">Vsake %1$s min</item>
+    </plurals>
+    <plurals name="read_notification_num_of_audio_messages">
+        <item quantity="other">%1$d zvočnih sporočil</item>
+        <item quantity="one">%1$d zvočno sporočilo</item>
+        <item quantity="two">%1$d zvočni sporočili</item>
+        <item quantity="few">%1$d zvočna sporočila</item>
+    </plurals>
+    <plurals name="read_notification_num_of_pictures">
+        <item quantity="other">%1$d slik</item>
+        <item quantity="one">%1$d slika</item>
+        <item quantity="two">%1$d sliki</item>
+        <item quantity="few">%1$d slike</item>
+    </plurals>
+    <plurals name="read_notification_num_of_videos">
+        <item quantity="other">%1$d videoposnetkov</item>
+        <item quantity="one">%1$d videoposnetek</item>
+        <item quantity="two">%1$d videoposnetka</item>
+        <item quantity="few">%1$d videoposnetki</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Za %d dogodkov</item>
+        <item quantity="one">Za %d dogodek</item>
+        <item quantity="two">Za %d dogodka</item>
+        <item quantity="few">Za %d dogodke</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Vsak %d. dan</item>
+        <item quantity="one">Vsak %d. dan</item>
+        <item quantity="two">Vsak %d. dan</item>
+        <item quantity="few">Vsak %d. dan</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Vsak %d. mesec</item>
+        <item quantity="one">Vsak %d. mesec</item>
+        <item quantity="two">Vsak %d. mesec</item>
+        <item quantity="few">Vsak %d. mesec</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Vsak %d. teden</item>
+        <item quantity="one">Vsak %d. teden</item>
+        <item quantity="two">Vsak %d. teden</item>
+        <item quantity="few">Vsak %d. teden</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Vsako %d. leto</item>
+        <item quantity="one">Vsako %d. leto</item>
+        <item quantity="two">Vsako %d. leto</item>
+        <item quantity="few">Vsako %d. leto</item>
+    </plurals>
+    <plurals name="rewind">
+        <item quantity="other">Previj nazaj za %1$d sekund</item>
+        <item quantity="one">Previj nazaj za %1$d sekundo</item>
+        <item quantity="two">Previj nazaj za %1$d sekundi</item>
+        <item quantity="few">Previj nazaj za %1$d sekunde</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">Še %1$d sekund</item>
+        <item quantity="one">Še %1$d sekunda</item>
+        <item quantity="two">Še %1$d sekundi</item>
+        <item quantity="few">Še %1$d sekunde</item>
+    </plurals>
+    <plurals name="show_count">
+        <item quantity="other">%1$d oddaj</item>
+        <item quantity="one">%1$d oddaja</item>
+        <item quantity="two">%1$d oddaji</item>
+        <item quantity="few">%1$d oddaje</item>
+    </plurals>
+    <plurals name="smartspace_chip_display_title">
+        <item quantity="other">%2$s in %1$d</item>
+        <item quantity="one">%2$s in %1$d</item>
+        <item quantity="two">%2$s in %1$d</item>
+        <item quantity="few">%2$s in %1$d</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d podaljškov</item>
+        <item quantity="one">%1$d podaljšek</item>
+        <item quantity="two">%1$d podaljška</item>
+        <item quantity="few">%1$d podaljški</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+        <item quantity="two">%1$d uri</item>
+        <item quantity="few">%1$d ure</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="two">%1$d minuti</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="two">%1$d sekundi</item>
+        <item quantity="few">%1$d sekunde</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Prihod %1$d min prej</item>
+        <item quantity="one">Prihod %1$d min prej</item>
+        <item quantity="two">Prihod %1$d min prej</item>
+        <item quantity="few">Prihod %1$d min prej</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%1$d min hoje do postaje %2$s</item>
+        <item quantity="one">%1$d min hoje do postaje %2$s</item>
+        <item quantity="two">%1$d min hoje do postaje %2$s</item>
+        <item quantity="few">%1$d min hoje do postaje %2$s</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d sedežev</item>
+        <item quantity="one">%1$d sedež</item>
+        <item quantity="two">%1$d sedeža</item>
+        <item quantity="few">%1$d sedeži</item>
+    </plurals>
+    <plurals name="unsubscribed_favorites">
+        <item quantity="other">Preklicali ste naročnino na %1$d podkastov</item>
+        <item quantity="one">Preklicali ste naročnino na %1$d podkast</item>
+        <item quantity="two">Preklicali ste naročnino na %1$d podkasta</item>
+        <item quantity="few">Preklicali ste naročnino na %1$d podkaste</item>
+    </plurals>
+    <plurals name="user_review_histogram_review_num">
+        <item quantity="other">Ocenilo %d oseb</item>
+        <item quantity="one">Ocenila %d oseba</item>
+        <item quantity="two">Ocenili %d osebi</item>
+        <item quantity="few">Ocenile %d osebe</item>
+    </plurals>
+    <plurals name="usual_traffic_mins_delay">
+        <item quantity="other">Običajen promet: %1$d min zamude</item>
+        <item quantity="one">Običajen promet: %1$d min zamude</item>
+        <item quantity="two">Običajen promet: %1$d min zamude</item>
+        <item quantity="few">Običajen promet: %1$d min zamude</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Vsak %1$d. teden v %2$s</item>
+        <item quantity="one">Vsak %1$d. teden v %2$s</item>
+        <item quantity="two">Vsak %1$d. teden v %2$s</item>
+        <item quantity="few">Vsak %1$d. teden v %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Vsako %1$d. leto</item>
+        <item quantity="one">Vsako %1$d. leto</item>
+        <item quantity="two">Vsako %1$d. leto</item>
+        <item quantity="few">Vsako %1$d. leto</item>
+    </plurals>
+</resources>

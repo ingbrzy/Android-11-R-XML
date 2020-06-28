@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="accelerometer_dialog_message">Do you see the image rotate?</string>
+    <string name="accelerometer_item">Accelerometer</string>
+    <string name="accelerometer_rotate_instruction">Please rotate the device by 90 degrees and confirm if picture rotates.</string>
+    <string name="accelerometer_title">Accelerometer check</string>
+    <string name="active_edge_check_instruction">"1. Press start button getting to the active edge settings.
+2. Try to squeeze the device and see if coming with a quick vibration.
+3. Press back key button for result judgement confirmation."</string>
+    <string name="active_edge_dialog_message">Did you feel a quick vibration when you squeezed the device?</string>
+    <string name="active_edge_dialog_title">Confirm active edge is OK.</string>
+    <string name="active_edge_item">Active Edge</string>
+    <string name="active_edge_title">Active Edge Check</string>
+    <string name="advanced_test">Advanced tests</string>
+    <string name="advanced_test_battery_drain_issue_instruction">"Pre-setting 
+1. Battery level &lt;= 5%
+2. 10°c &lt; Test temperature &lt; 30°c 
+3. airplane on / AOD off"</string>
+    <string name="advanced_test_can_not_charge_instruction">"Pre-setting 
+1. Battery level &lt; 70%
+2. 10°c &lt; Test temperature &lt; 30°c 
+3. airplane on / AOD off"</string>
+    <string name="advanced_test_can_not_full_charge_instruction">"Pre-setting 
+1. Battery level &lt; 70%
+2. 10°c &lt; Test temperature &lt; 30°c 
+3. airplane on / AOD off"</string>
+    <string name="advanced_test_canceled">Canceled</string>
+    <string name="advanced_test_notification_content_text">An advanced test is running.</string>
+    <string name="advanced_test_power_consumption">Power Consumption</string>
+    <string name="advanced_test_power_consumption_instruction">"Pre-setting 
+1. Airplane mode on 
+2. AOD off(settings/display/advance/ambient)/Gesture(Settings/System) 
+3. 10°c &lt; Test temperature &lt; 30°c"</string>
+    <string name="advanced_test_power_consumption_title">Power consumption</string>
+    <string name="advanced_test_preparing">Preparing...</string>
+    <string name="advanced_test_running">Running...</string>
+    <string name="advanced_test_unable_to_start_dialog_title">Unable to start</string>
+    <string name="advanced_test_wired_charging">Wired Charging</string>
+    <string name="advanced_test_wired_charging_title">Wired charging</string>
+    <string name="agree_to_continue">I agree</string>
+    <string name="allow_do_not_disturb_content">To continue, please allow DiagnosticsTool to change Do Not Disturb state</string>
+    <string name="allow_do_not_disturb_title">No permission to modify Do Not Disturb</string>
+    <string name="allow_system_settings_content">"To continue, please allow DiagnosticsTool to modify system settings.
+That backlight can dim off and come back on when checking."</string>
+    <string name="allow_system_settings_title">No permission to modify system settings</string>
+    <string name="app_name">DiagnosticsTool</string>
+    <string name="app_version">App version</string>
+    <string name="app_version_key">app_version_key</string>
+    <string name="asp_mode">ASP</string>
+    <string name="asp_mode_incorrect_device_id">Incorrect IMEI. Check your IMEI and try again.</string>
+    <string name="asp_mode_prompt_device_id">IMEI</string>
+    <string name="asp_wifi_login_instruction">Make sure you have a reliable wifi connection before proceeding.</string>
+    <string name="audio_dialog_message">Can you hear any music?</string>
+    <string name="audio_group">Audio</string>
+    <string name="back_light_description">The backlight will dim off and come back on when the check is started. For best result, make sure that you are not under direct sunlight.</string>
+    <string name="back_light_dialog_message">Do you see the screen light change?</string>
+    <string name="back_light_title">Backlight check</string>
+    <string name="backglass_defect_instruction">Any Backglass Defects?</string>
+    <string name="backglass_defect_item">Backglass Defects</string>
+    <string name="backlight_item">Backlight</string>
+    <string name="barometer_current_pressure">%s hPa</string>
+    <string name="barometer_instruction">Automatic check of barometer sensor</string>
+    <string name="barometer_item">Barometer</string>
+    <string name="barometer_title">Check barometer sensor</string>
+    <string name="battery_drain">Battery drain</string>
+    <string name="battery_health_cold">Cold</string>
+    <string name="battery_health_dead">Dead</string>
+    <string name="battery_health_good">Good</string>
+    <string name="battery_health_instruction">Current battery health status.</string>
+    <string name="battery_health_item">Battery Health</string>
+    <string name="battery_health_over_voltage">Over voltage</string>
+    <string name="battery_health_overheat">Over heat</string>
+    <string name="battery_health_title">Battery Health Check</string>
+    <string name="battery_health_unknown">Unknown</string>
+    <string name="battery_health_unspecified_failure">Unspecified failure</string>
+    <string name="biometric_authentication_cancel">Cancel</string>
+    <string name="bluetooth_description">"Checks if bluetooth scan can detect networks.
+Please ensure there is one bluetooth device."</string>
+    <string name="bluetooth_item">Bluetooth</string>
+    <string name="bluetooth_permission_to_access">Bluetooth</string>
+    <string name="bluetooth_title">Bluetooth check</string>
+    <string name="brightness_maximum_value">255</string>
+    <string name="brightness_minimum_value">0</string>
+    <string name="button_instruction">On your phone, press each button that is listed below to test it.</string>
+    <string name="button_item">Button</string>
+    <string name="button_no_check_script_message">There is no check script, please press back key to skip the check.</string>
+    <string name="button_power_key_confirm_dialog_message">Does the power key work normally?</string>
+    <string name="button_power_key_confirm_dialog_title">Confirm power key is OK.</string>
+    <string name="button_title">Check hardware buttons</string>
+    <string name="button_volume_down">volume down key</string>
+    <string name="button_volume_up">volume up key</string>
+    <string name="camera_comment_check_camera">Check camera</string>
+    <string name="camera_comment_front_camera">Front camera</string>
+    <string name="camera_comment_ir_camera">IR camera</string>
+    <string name="camera_comment_match_result">match ratio:</string>
+    <string name="camera_comment_picture">picture</string>
+    <string name="camera_comment_rear_camera">Rear camera</string>
+    <string name="camera_comment_video">video</string>
+    <string name="camera_defect_instruction">Any Camera Defects?</string>
+    <string name="camera_defect_item">Camera Defects</string>
+    <string name="camera_description">It will take three pictures and a video for check the camera.</string>
+    <string name="camera_error_dialog_title">Camera error</string>
+    <string name="camera_execute_fail_message">Camera checker canceled, please press back key to skip the check.</string>
+    <string name="camera_flash_description">Please observe if camera flash lights on and off as expected.</string>
+    <string name="camera_flash_dialog_message">Are the lights on or off?</string>
+    <string name="camera_flash_dialog_title">Confirm camera flash is OK.</string>
+    <string name="camera_flash_item">Camera Flash</string>
+    <string name="camera_flash_title">Check camera flash</string>
+    <string name="camera_group">Camera</string>
+    <string name="camera_ng">NG</string>
+    <string name="camera_not_support">"This device doesn't support camera2 api."</string>
+    <string name="camera_ok">OK</string>
+    <string name="camera_permission_dialog_title">Camera permission</string>
+    <string name="camera_permission_to_access">Camera</string>
+    <string name="camera_permission_to_turn_on">camera</string>
+    <string name="camera_picture">Picture</string>
+    <string name="camera_video">Video</string>
+    <string name="can_not_charge">Can not charge</string>
+    <string name="can_not_full_charge">Can not full charge</string>
+    <string name="cf_wifi_login_instruction">"Make sure you're near a flat surface and have a good Wi-Fi connection."</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_all_dialog_execute_message">"It will execute all tests.
+After each test is completed, test results will be displayed for 2s before running the next test.
+If you want to skip this check, press the back key before start button."</string>
+    <string name="check_all_dialog_finish_message">All checkers are finished!</string>
+    <string name="check_all_dialog_title">Execute all checkers mode</string>
+    <string name="check_failed_description">"Something went wrong!
+The check is failed"</string>
+    <string name="check_failed_title">Oh, no!</string>
+    <string name="check_group">Check Group</string>
+    <string name="check_now">Check Now</string>
+    <string name="check_passed_description">The check is passed</string>
+    <string name="check_passed_title">Perfect!</string>
+    <string name="check_result_upload_dialog_execute_message">The check result is uploading to server.</string>
+    <string name="check_result_upload_dialog_title">Upload check result</string>
+    <string name="check_warning_description">"The check is not started,
+please try again"</string>
+    <string name="check_warning_title">Wait!</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="confirm_dialog_title">Please confirm the result</string>
+    <string name="confirm_result_dialog_no">No</string>
+    <string name="confirm_result_dialog_yes">Yes</string>
+    <string name="confirm_visaul_defect_result_no">No</string>
+    <string name="confirm_visaul_defect_result_yes">Yes</string>
+    <string name="connectivity_group">Connectivity</string>
+    <string name="continue_with_mobile_data">Continue</string>
+    <string name="copy">Copy</string>
+    <string name="custom_add_comments">Add comments(optional)</string>
+    <string name="custom_beep_sound_reminder">"You'll hear beeps during the test"</string>
+    <string name="custom_comment_sent">Comment sent</string>
+    <string name="custom_flip_bottom_instruction">"When your phone vibrates and chimes, flip it
+face up again"</string>
+    <string name="custom_flip_top_instruction">Place phone face down for 10 seconds</string>
+    <string name="custom_go_settings">Settings</string>
+    <string name="custom_mode">Custom</string>
+    <string name="custom_results_sent">Results sent</string>
+    <string name="custom_results_sent_instruction">[Instructions for next steps will go here, e.g.\"Wait for a support representative to contact you\"]</string>
+    <string name="custom_retry">Retry</string>
+    <string name="custom_run_test">Start test</string>
+    <string name="custom_running_progress_instruction">Place phone face up on a flat surface</string>
+    <string name="custom_running_test">Testing...</string>
+    <string name="custom_send_result_button">Send results</string>
+    <string name="custom_test_again">Test again</string>
+    <string name="custom_test_complete">Test complete</string>
+    <string name="custom_turn_on_permissions">Allow</string>
+    <string name="custom_upload_log_fail">"Couldn't send results"</string>
+    <string name="defects_group">Defects</string>
+    <string name="diagnostic_server_phone_get_verdict_url">phone_get_verdict?key=</string>
+    <string name="diagnostic_server_report_url">diagnostic_testing_report?key=</string>
+    <string name="diagnostic_server_security_url">diagnostic_security?key=</string>
+    <string name="dialog_ok">OK</string>
+    <string name="display_color_check_message">Slide through a series of color images to see if any display abnormally.</string>
+    <string name="display_defect_instruction">Any Display Defects?</string>
+    <string name="display_defect_item">Display Defects</string>
+    <string name="display_description">Please check all full screen images and see if there is any display abnormal.</string>
+    <string name="display_dialog_message">"If no defect observed, click Yes.
+If any defect observed, click No."</string>
+    <string name="display_dialog_title">Please confirm display result</string>
+    <string name="display_item">Display</string>
+    <string name="display_snackbar_title">Do you go through all patterns?</string>
+    <string name="display_text_check_message">Slide through a series of text images to see if any display abnormally.</string>
+    <string name="display_title">Check Display</string>
+    <string name="do_not_disturb_permission_to_access">Do not disturb</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="face_auth_description">Press the start button to start the face auth recognition function check.</string>
+    <string name="face_auth_fail_chipper">Chipper failed to initiate.</string>
+    <string name="face_auth_fail_generate_key">Authentication key generation failed.</string>
+    <string name="face_auth_fail_no_enrolled">There is no face data added. You can press button to add one face data first.</string>
+    <string name="face_auth_fail_no_supported">"Device doesn't support face auth feature."</string>
+    <string name="face_auth_instruct_enrolled_process">Please use the added face data for starting checking.</string>
+    <string name="face_auth_item">Face Auth</string>
+    <string name="face_auth_settings">Open Face unlock Settings</string>
+    <string name="face_auth_title">FaceAuth check</string>
+    <string name="face_up_dialog_title">Place phone face up on a flat surface</string>
+    <string name="fail_to_compute_charge_time_remaining">Fail to compute full charge time remaining</string>
+    <string name="feedback_category">Issue category</string>
+    <string name="feedback_comment_hint">Tell us more about your issue</string>
+    <string name="feedback_reminder_comment">Please help to write down your issue feedback.</string>
+    <string name="feedback_send">Send</string>
+    <string name="feedback_snack_button_text">Retry</string>
+    <string name="feedback_snack_warning_message">"Couldn't send comment"</string>
+    <string name="feedback_title">Add comments</string>
+    <string name="fingerprint_description">Press the start button to start the fingerprint recognition function check.</string>
+    <string name="fingerprint_fail_chipper">Chipper failed to initiate.</string>
+    <string name="fingerprint_fail_generate_key">Authentication key generation failed.</string>
+    <string name="fingerprint_fail_no_enrolled">There are no fingerprint enrolled. You can press button to enroll any one fingerprint first.</string>
+    <string name="fingerprint_fail_no_supported">"Device doesn't support fingerprint feature."</string>
+    <string name="fingerprint_fps_settings">Open fingerprint Settings</string>
+    <string name="fingerprint_instruct_enrolled_process">Please use the enrolled fingerprint touch sensor to start checking.</string>
+    <string name="fingerprint_instruct_enrolled_second">Complete once, please use the enrolled fingerprint to touch sensor for second check.</string>
+    <string name="fingerprint_instruct_un_enrolled_process">Please use un-enrolled fingerprint to touch sensor for start checking.</string>
+    <string name="fingerprint_instruct_un_enrolled_second">Complete once, please use unenrolled fingerprint to touch sensor for second check.</string>
+    <string name="fingerprint_item">Fingerprint</string>
+    <string name="fingerprint_title">Fingerprint check</string>
+    <string name="front_camera_item">Front Camera</string>
+    <string name="front_camera_title">Check Front Camera</string>
+    <string name="ft_mode_incorrect_device_id">Incorrect IMEI/SN. Check your IMEI/SN and try again.</string>
+    <string name="ft_mode_prompt_device_id">IMEI/SN</string>
+    <string name="gps_confirm_dialog_message">"Is your location's address correct?"</string>
+    <string name="gps_confirm_dialog_title">GPS location check</string>
+    <string name="gps_custom_dialog_content">To continue, go to Settings and turn on \"Use location\".</string>
+    <string name="gps_customer_facing_warn_no_signal">No GPS signal. Make sure location service is enabled and set high accuracy mode or move to another outdoor location.</string>
+    <string name="gps_instruction">"Please check GPS and confirm the address is correct.
+Make sure to enable location service and go outdoors to improve your signal strength."</string>
+    <string name="gps_item">GPS</string>
+    <string name="gps_latitude">latitude:</string>
+    <string name="gps_location_service">No location service. Please grant location permission.</string>
+    <string name="gps_longitude">longitude:</string>
+    <string name="gps_status_dialog_content">Temporary GPS failure. Please wait.</string>
+    <string name="gps_title">GPS checker</string>
+    <string name="gps_updating_dialog_content">Acquiring address. Please wait.</string>
+    <string name="gps_warn_dialog_fail_button">Fail</string>
+    <string name="gps_warn_dialog_ignore_button">Ignore</string>
+    <string name="gps_warn_have_satellite">"Have satellite signals but can't get a geographic address.
+Make sure location service is enable and set high accuracy mode or move to another outdoor location.
+Please choose whether to ignore this check or mark it as failed."</string>
+    <string name="gps_warn_no_signal">"No signal.
+Make sure location service is enable and set high accuracy mode or move to another outdoor location.
+Please choose whether to ignore this check or mark it as failed."</string>
+    <string name="group_audio_item">Group Audio</string>
+    <string name="group_camera_item">Group Camera</string>
+    <string name="gyroscope_instruction">Move and tilt your device in a figure 8 pattern for checking.</string>
+    <string name="gyroscope_item">Gyroscope</string>
+    <string name="gyroscope_title">Check gyroscope sensor</string>
+    <string name="headset_description">"Plug in your headset to begin the check.
+Please note the volume will be set to max."</string>
+    <string name="headset_dialog_message">Did you hear sound in both earphones?</string>
+    <string name="headset_item">Headset</string>
+    <string name="headset_play_description">Playing a 5 sec music and audio playing out of your headset.</string>
+    <string name="headset_title">Check headset</string>
+    <string name="helper_text_of_getting_pin_code">Code already sent via SMS.</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="incorrect_password">Incorrect code. Check your code and try again.</string>
+    <string name="incorrect_password_format">Incorrect code. Check your code and try again.</string>
+    <string name="incorrect_phone_number_format">Incorrect phone number. Check your phone number and try again.</string>
+    <string name="instruction_for_do_not_disturb_access_to_turn_on">To continue, go to Settings. Next to Pixel Diagnostics, turn on Do Not Disturb access.</string>
+    <string name="instruction_for_permissions_to_access">To run diagnostics on your phone, Pixel Diagnostics needs access to:</string>
+    <string name="ir_camera_description">It will take a picture for checking the IR camera.</string>
+    <string name="ir_camera_item">IR Camera</string>
+    <string name="ir_camera_title">Check IR Camera</string>
+    <string name="light_sensor_description">Place your hand over your front-facting camera and wave your hand to verify.</string>
+    <string name="light_sensor_item">Light Sensor</string>
+    <string name="light_sensor_title">Checks light sensor</string>
+    <string name="location_permission_to_access">Location</string>
+    <string name="location_permission_to_turn_on">location</string>
+    <string name="log_in">Confirm</string>
+    <string name="login_title">Pixel Diagnostics</string>
+    <string name="mic1">Mic1</string>
+    <string name="mic2">Mic2</string>
+    <string name="mic3">Mic3</string>
+    <string name="mic_confirm_message">Do you hear the recorded sound?</string>
+    <string name="mic_description">"We will play and record a sound, then the recorded sound will be auto played later.
+Please note the volume will be set to max."</string>
+    <string name="mic_title">Microphone check</string>
+    <string name="microphone_confirm_dialog_title">Confirm %s is OK.</string>
+    <string name="microphone_hint_check_mic">Check microphone</string>
+    <string name="microphone_item">Microphone</string>
+    <string name="microphone_permission_to_access">Microphone</string>
+    <string name="microphone_permission_to_turn_on">microphone</string>
+    <string name="microphone_playing_wave_file">playing %s recorded file.</string>
+    <string name="microphone_recording_message">recording via each microphone.</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="nfc_dialog_content">To continue, please enable your NFC on settings and try again.</string>
+    <string name="nfc_dialog_title">No NFC enable</string>
+    <string name="nfc_item">NFC Tag</string>
+    <string name="nfc_not_support">This device does not support NFC.</string>
+    <string name="nfc_tag_detected">NFC tag detected.</string>
+    <string name="nfc_tag_instruction">Place any NFC tag behind the device, and you will get beep sounds with vibration when it is successful.</string>
+    <string name="nfc_tag_title">Check NFC support</string>
+    <string name="not_set">Not set</string>
+    <string name="other_defect_item">Other Defects</string>
+    <string name="others_group">Others</string>
+    <string name="p_sensor_item">P Sensor</string>
+    <string name="param_security_key">&amp;security_key=</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_granted">All required permissions have been granted.</string>
+    <string name="permission_not_granted">Permissions were NOT granted.</string>
+    <string name="permissions_to_turn_on_instruction">To continue, go to Settings. Tap Pixel Diagnostics and allow access for the %s permission.</string>
+    <string name="phone_permission_to_access">Phone calls</string>
+    <string name="phone_permission_to_turn_on">phone</string>
+    <string name="physical_defect_instruction">Any Physical Damage?</string>
+    <string name="physical_defect_item">Physical Damage</string>
+    <string name="picture_capture">Camera no. %1$d, picture %2$d / %3$d</string>
+    <string name="picture_description">To check the camera no. %1$d, picture count: %2$d / %3$d.</string>
+    <string name="picture_permission_request">This ap needs camera permission.</string>
+    <string name="plugged_in_charging">Charging</string>
+    <string name="plugged_in_charging_fast">Charging rapidly</string>
+    <string name="power_consumption_period">Period(Minutes)</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="prompt_country_code">Country code</string>
+    <string name="prompt_id">ID</string>
+    <string name="prompt_password">Enter code</string>
+    <string name="prompt_phone_number">Phone number</string>
+    <string name="proximity_sensor_description">Start the diagnosis and cover the top of your phone for a few seconds.</string>
+    <string name="proximity_sensor_title">Check proximity sensor</string>
+    <string name="qr_code_title">QR Code</string>
+    <string name="quality_code_title">Q codes</string>
+    <string name="rear_camera_item">Rear Camera</string>
+    <string name="rear_camera_title">Check Rear Camera</string>
+    <string name="screen_group">Screen</string>
+    <string name="select_country_code">Select country code</string>
+    <string name="select_station">Please select a station.</string>
+    <string name="sensor_group">Sensor</string>
+    <string name="sim_check_instruction">Please have a sim card inserted and make sure that you have good signal before conducting the check.</string>
+    <string name="sim_check_instruction_factory_mode">Please have a sim card inserted before conducting the check.</string>
+    <string name="sim_item">SIM</string>
+    <string name="sim_title">SIM Check</string>
+    <string name="software_defect_item">Software Defects</string>
+    <string name="speaker_description">"Play a 5 sec music file from speaker.
+Please note the volume will be set to max."</string>
+    <string name="speaker_item">Speaker</string>
+    <string name="speaker_title">Speaker check</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="terms_of_use">"Your diagnostic results, hardware information such as unique identifiers, and comments will be sent to Google and shared with third party service providers. We'll use this information to address technical issues on your phone and improve our products and services, in accordance with our "<a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a>.</string>
+    <string name="time_plot_0_grip">0</string>
+    <string name="time_plot_48_grip">-48</string>
+    <string name="time_plot_96_grip">-96</string>
+    <string name="time_plot_description">dBFS amplitude</string>
+    <string name="top_speaker_description">"Play a 5 sec music file from earpiece.
+Please note the volume will be set to max."</string>
+    <string name="top_speaker_item">Top Speaker</string>
+    <string name="top_speaker_title">Top speaker check</string>
+    <string name="touch_panel_instruction">"Please plug the charger to check.
+Swipe across the entire screen."</string>
+    <string name="touch_panel_item">Touch Panel</string>
+    <string name="touch_panel_plug">Please plug the charger to check again</string>
+    <string name="touch_panel_title">Check touch panel</string>
+    <string name="triage_code_confirm">Confirm</string>
+    <string name="triage_code_title">T codes</string>
+    <string name="upload_results_failed">Sending results failed</string>
+    <string name="upload_results_successful">Sending results successful</string>
+    <string name="use_mobile_data_dialog_content">It is recommended to use a Wi-Fi network since using mobile data connection may incur additional charges.</string>
+    <string name="use_mobile_data_dialog_title">You are using mobile network</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vibration_dialog_message">Do you feel any vibration from the device?</string>
+    <string name="vibrator_description">The vibration motor will vibrate the phone. Then check if there is any vibration from the device.</string>
+    <string name="vibrator_item">Vibration</string>
+    <string name="vibrator_title">Vibrator check</string>
+    <string name="video_description">Check the video recorded by camera no. %1$d.</string>
+    <string name="video_permission_request">This ap needs permission for camera and audio recording.</string>
+    <string name="video_record_start">Record camera no. %1$d</string>
+    <string name="video_record_stop">Stop camera no. %1$d</string>
+    <string name="violate_battery_drain_condition">Current battery capacity must be &lt;= 5%</string>
+    <string name="violate_can_not_charge_condition">Current battery capacity must be &lt; 70%</string>
+    <string name="violate_can_not_full_charge_condition">Current battery capacity must be &lt; 70%</string>
+    <string name="visual_group">Visual</string>
+    <string name="warning_check_to_continue">Check this box to continue.</string>
+    <string name="wifi_custom_dialog_content">"To continue, make sure you're connected to a Wi-Fi network."</string>
+    <string name="wifi_custom_dialog_title">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_description">Check if WiFi scan can detect network and download successfully.</string>
+    <string name="wifi_image_link">https://storage.googleapis.com/diagnostic_service_storage/google_wifi_512dp.png</string>
+    <string name="wifi_item">WiFi</string>
+    <string name="wifi_retry_exceeded">"Retry count exceeded, please note check result won't be sent to server"</string>
+    <string name="wifi_title">WiFi Check</string>
+    <string name="wired_charging_instruction">"Connect the charger. Required in box charger and cable.
+Rotate the charger by 180 degrees and reinsert."</string>
+    <string name="wired_charging_item">Wired Charging</string>
+    <string name="wired_charging_title">Wired Charging Check</string>
+    <string name="wireless_charging_instruction">Place device on the wireless charger.</string>
+    <string name="wireless_charging_item">Wireless Charging</string>
+    <string name="wireless_charging_message">Wireless charging plug = %1$b, charging = %2$b</string>
+    <string name="wireless_charging_title">Wireless Charging Check</string>
+    <string name="wireless_charging_vertically_hint">Charges the phone in portrait</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_90">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_104">false</item>
+    <item type="string" name="APKTOOL_DUMMY_105">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_120">false</item>
+    <item type="string" name="APKTOOL_DUMMY_121">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150">false</item>
+    <item type="string" name="APKTOOL_DUMMY_156">false</item>
+    <item type="string" name="APKTOOL_DUMMY_157">false</item>
+    <item type="string" name="APKTOOL_DUMMY_158">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_160">false</item>
+    <item type="string" name="APKTOOL_DUMMY_161">false</item>
+    <item type="string" name="APKTOOL_DUMMY_162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_164">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_167">false</item>
+    <item type="string" name="APKTOOL_DUMMY_168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_169">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_179">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_190">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e3">false</item>
+</resources>

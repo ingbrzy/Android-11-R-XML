@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">%1$d зүйлийг харуулж байна.</item>
+        <item quantity="one">%1$d зүйлийг харуулж байна.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d сэтгэгдэл</item>
+        <item quantity="one">%1$d сэтгэгдэл</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Үйлдлийн зүйл: дагах зүйл %1$d</item>
+        <item quantity="one">Үйлдлийн зүйл: дагах зүйл %1$d</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Зүйлсийг бүрмөсөн устгасан</item>
+        <item quantity="one">Зүйлийг бүрмөсөн устгасан</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s имэйл хаягууд буруу байна.</item>
+        <item quantity="one">%s имэйл хаяг буруу байна.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Эдгээр файлыг нэмснээр эдгээрийг хуваалцсан фолдерт %1$s хандах эрх бүхий хүн бүртэй хуваалцах болно</item>
+        <item quantity="one">Энэ файлыг нэмснээр үүнийг хуваалцсан фолдерт %1$s хандах эрх бүхий хүн бүртэй хуваалцах болно</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Эдгээр фолдерыг нэмснээр эдгээрийг хуваалцсан фолдерт %1$s хандах эрх бүхий хүн бүртэй хуваалцах болно</item>
+        <item quantity="one">Энэ фолдерыг нэмснээр үүнийг хуваалцсан фолдерт %1$s хандах эрх бүхий хүн бүртэй хуваалцах болно</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Эдгээр файлыг хуваалцах уу?</item>
+        <item quantity="one">Энэ файлыг хуваалцах уу?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Эдгээр фолдерыг хуваалцах уу?</item>
+        <item quantity="one">Энэ фолдерыг хуваалцах уу?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d фолдерыг шинэчилсэн. Өнгийг %2$s-р тохируулсан.</item>
+        <item quantity="one">%1$d фолдерыг шинэчилсэн. Өнгийг %2$s-р тохируулсан.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Шүүлтүүр ашиглах:</item>
+        <item quantity="one">Шүүлтүүр ашиглах:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Хугацаа %1$d хоногийн дараа дуусна</item>
+        <item quantity="one">Хугацаа %1$d хоногийн дараа дуусна</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Хэрэв энэ төхөөрөмж идэвхгүй байгаа бол энэ нөөцлөлтийн хугацаа %1$d өдрийн дараа дуусна.</item>
+        <item quantity="one">Хэрэв энэ төхөөрөмж идэвхгүй байгаа бол энэ нөөцлөлтийн хугацаа %1$d өдрийн дараа дуусна.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Нөөцлөлтийг устгасан.</item>
+        <item quantity="one">Нөөцлөлтийг устгасан.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d багана.</item>
+        <item quantity="one">%1$d багана.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">Царцаасан %1$d багана.</item>
+        <item quantity="one">Царцаасан %1$d багана.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d царцаасан мөр.</item>
+        <item quantity="one">%1$d царцаасан мөр.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d мөр.</item>
+        <item quantity="one">%1$d мөр.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%2$d зүйлийн %1$s</item>
+        <item quantity="one">%2$d зүйлийн %1$s</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s хариу</item>
+        <item quantity="one">%1$s хариу</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Зүйлсийг татаж авж чадсангүй</item>
+        <item quantity="one">Зүйлийг татаж авж чадсангүй</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d зүйлийг татаж авах болно. Дэлгэрэнгүйг мэдэгдлээс харна уу</item>
+        <item quantity="one">%1$d зүйлийг татаж авах болно. Дэлгэрэнгүйг мэдэгдлээс харна уу</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d зүйлийг татаж авна.</item>
+        <item quantity="one">%1$d зүйлийг татаж авна.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s болон бусад %2$d зүйл</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s зүйлийг татаж авч чадсангүй</item>
+        <item quantity="one">%1$s зүйлийг татаж авч чадсангүй</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Бусад %1$d зүйл</item>
+        <item quantity="one">Өөр %1$d зүйл</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%2$d-н %1$d-г татаж чадсангүй</item>
+        <item quantity="one">%2$d-н %1$d-г татаж чадсангүй</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Файлууд зөөхөд алдаа гарлаа.</item>
+        <item quantity="one">Файл зөөхөд алдаа гарлаа.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d зочин</item>
+        <item quantity="one">%d зочин</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d товчлолыг \"%1$s\"-д нэмсэн</item>
+        <item quantity="one">Товчлолыг \"%1$s\"-д нэмсэн</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Товчлолыг нэмэх боломжгүй. Дахин оролдоно уу</item>
+        <item quantity="one">Товчлолыг нэмэх боломжгүй. Дахин оролдоно уу</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Эдгээр зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана. \"%2$s\"-н гишүүд эдгээр зүйлд хандах эрхтэй болно.</item>
+        <item quantity="one">Энэ зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана. \"%2$s\" -н гишүүд үүнд хандах эрхтэй болно.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Эдгээр зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана. \"%2$s\"-н гишүүд эдгээр зүйлд хандах эрхтэй болно. Та зөвхөн \"%3$s\"-д зүйл нэмэх болон засах зөвшөөрөлтэй тул энэ үйлдлийг болих боломжгүй болно.</item>
+        <item quantity="one">Энэ зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана. \"%2$s\" -н гишүүд үүнд хандах эрхтэй болно. Та зөвхөн \"%3$s\"-д зүйл нэмэх болон засах зөвшөөрөлтэй тул энэ үйлдлийг болих боломжгүй болно.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">\"%1$s\"-д зөөсөн зарим файл DLP илрүүлэлтийг өдөөсөн. Эдгээр файл дотор нууц мэдээлэл байж болзошгүй.</item>
+        <item quantity="one">\"%1$s\"-д зөөсөн файл DLP илрүүлэлтийг өдөөсөн. Энэ файл дотор нууц мэдээлэл байж болзошгүй.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Эдгээр зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана.</item>
+        <item quantity="one">Энэ зүйлийг \"%1$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Эдгээр зүйлийг хуваалцсанаар \"%1$s\" хуваалцсан фолдерыг харах боломжтой хүн бүрд эдгээрийг хуваалцана. Эдгээр зүйлийг \"%2$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана.</item>
+        <item quantity="one">Эдгээр зүйлийг хуваалцсанаар \"%1$s\" хуваалцсан фолдерыг харах боломжтой хүн бүрд үүнийг хуваалцана. Энэ зүйлийг \"%2$s\"-н гишүүдтэй хуваалцаагүй тохиолдолд тэд хандах эрхээ алдана.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Та хуваалцсан фолдеруудаас зарим зүйлийг зөөж байгаа тул хүмүүс тэдгээр зүйлд хандах боломжгүй болно.</item>
+        <item quantity="one">Та хуваалцсан фолдеруудоос зүйлийг зөөж байгаа тул хүмүүс энэ зүйлд хандах боломжгүй болно.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Нэмэлт хязгаарлалтыг эдгээр зүйлээс устгана.</item>
+        <item quantity="one">Нэмэлт хязгаарлалтыг энэ зүйлээс устгана.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Эдгээр файлыг зөөснөөр %1$s хуваалцсан фолдерт хандах боломжтой хүн бүрд үүнийг хуваалцана.</item>
+        <item quantity="one">Эдгээр файлыг зөөснөөр %1$s хуваалцсан фолдерт хандах боломжтой хүн бүрд үүнийг хуваалцана.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Эдгээр фолдерыг зөөснөөр %1$s хуваалцсан фолдерт хандах боломжтой хүн бүрд үүнийг хуваалцана.</item>
+        <item quantity="one">Энэ фолдерыг зөөснөөр %1$s хуваалцсан фолдерт хандах боломжтой хүн бүрд үүнийг хуваалцана.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Эдгээр файлыг хуваалцах уу?</item>
+        <item quantity="one">Энэ файлыг хуваалцах уу?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Эдгээр фолдерыг хуваалцах уу?</item>
+        <item quantity="one">Энэ фолдерыг хуваалцах уу?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Танд зарим зүйлийг тэдний дундын драйваас гадуур зөөх зөвшөөрөл алга байна.</item>
+        <item quantity="one">Танд энэ зүйлийг үүний дундын драйваас гадуур зөөх зөвшөөрөл алга байна.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Танд зарим зүйлийг фолдероос нь зөөх зөвшөөрөл байхгүй.</item>
+        <item quantity="one">Танд энэ зүйлийг фолдероос нь зөөх зөвшөөрөл байхгүй.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Файл эзэмшигч %1$s-д байхгүй тул та эдгээр файлыг зөөх боломжгүй.</item>
+        <item quantity="one">Файл эзэмшигч %1$s-д байхгүй тул та энэ файлыг зөөх боломжгүй.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" одоо тэдгээрт хандах боломжтой.</item>
+        <item quantity="one">%1$s \"%2$s\" одоо үүнд хандах боломжтой.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d зүйлийг дундын драйв руу зөөсөн. Гишүүд одоо тэдгээрт хандах боломжтой.</item>
+        <item quantity="one">Дундын драйв руу 1 зүйлийг зөөсөн. Гишүүд одоо үүнд хандах боломжтой.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d зүйлийг дундын драйваас зөөсөн. Гишүүд хандах эрхгүй болсон.</item>
+        <item quantity="one">%1$d зүйлийг дундын драйваас зөөсөн. Гишүүд хандах эрхгүй болсон.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d зүйл</item>
+        <item quantity="one">%1$d зүйл</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d зөвшөөрөгч</item>
+        <item quantity="one">1 зөвшөөрөгч</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s үйлдлийн зүйл</item>
+        <item quantity="one">%1$s үйлдлийн зүйл</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s хариу бичээгүй дурдалт</item>
+        <item quantity="one">%1$s хариу бичээгүй дурдалт</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s санал болголт</item>
+        <item quantity="one">%1$s санал болголт</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s хийх ажил</item>
+        <item quantity="one">%1$s хийх ажил</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Зүйлсийг бүрмөсөн устгасан</item>
+        <item quantity="one">Зүйлийг бүрмөсөн устгасан</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">Одоо %2$s-н %1$d-г офлайн үед ашиглах боломжтой.</item>
+        <item quantity="one">Одоо %2$s-н %1$d-г офлайн үед ашиглах боломжтой.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Одоо бүх %1$d файл офлайн үед ашиглах боломжтой.</item>
+        <item quantity="one">Одоо %1$d файл офлайн үед ашиглах боломжтой.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Файлуудыг офлайн үед ашиглах боломжтой болгох боломжгүй</item>
+        <item quantity="one">Файлыг офлайн үед ашиглах боломжтой болгох боломжгүй</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d файл офлайн үед ашиглах боломжтой болгож байна.</item>
+        <item quantity="one">%1$d файлыг офлайн үед ашиглах боломжтой болгож байна.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d файл</item>
+        <item quantity="one">%1$d файл</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Татаж авахыг түр зогсоож сүлжээг хүлээж байна…</item>
+        <item quantity="one">Татаж авахыг түр зогсоож сүлжээг хүлээж байна…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d татаж авахыг түг зогсоосон.</item>
+        <item quantity="one">%1$d татаж авахыг түр зогсоосон.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Татаж авахыг түр зогсоож, Wi-Fi-г хүлээж байна…</item>
+        <item quantity="one">Татаж авахыг түр зогсоож, Wi-Fi-г хүлээж байна…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d зүйлийг хогийн сав руу зөөнө. Энэ нь мөн Google Зураг аппаас эдгээрийг хасах болно.</item>
+        <item quantity="one">Нэг зүйлийг хогийн сав руу зөөнө. Энэ нь мөн Google Зураг аппаас үүнийг хасах болно.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d зүйлийг Хогийн сав руу зөөнө.</item>
+        <item quantity="one">Нэг зүйлийг хогийн сав руу зөөнө.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">Дагах %1$s зүйл</item>
+        <item quantity="one">Дагах %1$s зүйл</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">Дагах %1$s зүйл</item>
+        <item quantity="one">Дагах %1$s зүйл</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Дагалт</item>
+        <item quantity="one">Дагалт</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">%1$d файлд сэтгэгдэл бичсэн</item>
+        <item quantity="one">1 файлд сэтгэгдэл бичсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">%1$d файлд сэтгэгдэл бичсэн</item>
+        <item quantity="one">1 файлд сэтгэгдэл бичсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Энэ файл дээр сэтгэгдэл бичсэн</item>
+        <item quantity="one">Энэ файл дээр сэтгэгдэл бичсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d зүйлийг үүсгэсэн</item>
+        <item quantity="one">Нэг зүйлийг үүсгэсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d зүйлийг үүсгэсэн</item>
+        <item quantity="one">Нэг зүйлийг үүсгэсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Энэ файлыг үүсгэсэн</item>
+        <item quantity="one">Энэ файлыг үүсгэсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Энэ фолдерыг үүсгэсэн</item>
+        <item quantity="one">Энэ фолдерыг үүсгэсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d зүйлийг зассан</item>
+        <item quantity="one">Нэг зүйлийг зассан</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d зүйлийг зассан</item>
+        <item quantity="one">Нэг зүйлийг зассан</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Энэ файлд засвар хийсэн</item>
+        <item quantity="one">Энэ файлд засвар хийсэн</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$d зүйлийг бүрмөсөн устгасан</item>
+        <item quantity="one">1зүйлийг бүрмөсөн устгасан</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d зүйлийг дараах руу зөөсөн:</item>
+        <item quantity="one">Нэг зүйлийг дараах руу зөөсөн:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d зүйлийг дараах руу зөөсөн:</item>
+        <item quantity="one">Нэг зүйлийг дараах руу зөөсөн:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d зүйлийг зөөсөн</item>
+        <item quantity="one">Нэг зүйлийг зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d зүйлийг зөөсөн</item>
+        <item quantity="one">Нэг зүйлийг зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Энэ файлыг зөөсөн</item>
+        <item quantity="one">Энэ файлыг зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Энэ файлыг дараах руу зөөсөн:</item>
+        <item quantity="one">Энэ файлыг дараах руу зөөсөн:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Энэ фолдерыг зөөсөн</item>
+        <item quantity="one">Энэ фолдерыг зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Энэ фолдерыг дараах руу зөөсөн:</item>
+        <item quantity="one">Энэ фолдерыг дараах руу зөөсөн:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">%1$d зүйлийн нэрийг өөрчилсөн</item>
+        <item quantity="one">Нэг зүйлийн нэрийг өөрчилсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">%1$d зүйлийн нэрийг өөрчилсөн</item>
+        <item quantity="one">Нэг зүйлийн нэрийг өөрчилсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Энэ файлын нэрийг өөрчилсөн</item>
+        <item quantity="one">Энэ файлын нэрийг өөрчилсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Энэ фолдерын нэрийг өөрчилсөн</item>
+        <item quantity="one">Энэ фолдерын нэрийг өөрчилсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d зүйлийг хуваалцсан</item>
+        <item quantity="one">Нэг зүйлийг хуваалцсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d зүйлийг хуваалцсан</item>
+        <item quantity="one">Нэг зүйлийг хуваалцсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Энэ файлыг хуваалцсан</item>
+        <item quantity="one">Энэ файлыг хуваалцсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Энэ фолдерыг хуваалцсан</item>
+        <item quantity="one">Энэ фолдерыг хуваалцсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d зүйлийг хогийн сав руу зөөсөн</item>
+        <item quantity="one">Нэг зүйлийг хогийн сав руу зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d зүйлийг хогийн сав руу зөөсөн</item>
+        <item quantity="one">Нэг зүйлийг хогийн сав руу зөөсөн</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Энэ файлыг устгасан</item>
+        <item quantity="one">Энэ файлыг устгасан</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Энэ фолдерыг устгасан</item>
+        <item quantity="one">Энэ фолдерыг устгасан</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d зүйл байршуулсан</item>
+        <item quantity="one">Нэг зүйл байршуулсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d зүйл байршуулсан</item>
+        <item quantity="one">Нэг зүйл байршуулсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Энэ файлыг байршуулсан</item>
+        <item quantity="one">Энэ файлыг байршуулсан</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Энэ фолдерыг байршуулсан</item>
+        <item quantity="one">Энэ фолдерыг байршуулсан</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d файлыг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+        <item quantity="one">Файлыг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d фолдерыг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+        <item quantity="one">Фолдерыг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d зүйлийг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+        <item quantity="one">Зүйлийг %2$s хогийн сав руу зөөх бөгөөд 30 хоногийн дараа бүрмөсөн устгах болно.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Эдгээр %1$d файлыг &lt;b>хүн бүрийн хувьд бүрмөсөн устгах&lt;/b> болно. Та энэ үйлдлийг буцаах боломжгүй.</item>
+        <item quantity="one">Энэ файлыг &lt;b>хүн бүрийн хувьд бүрмөсөн устгах&lt;/b> болно. Та энэ үйлдлийг буцаах боломжгүй.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Эдгээр %1$d файлыг бүрмөсөн устгах болно. Та энэ үйлдлийг болих боломжгүй.</item>
+        <item quantity="one">Энэ файлыг бүрмөсөн устгах болно. Та энэ үйлдлийг болих боломжгүй.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d зүйл</item>
+        <item quantity="one">%1$d зүйл</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d зүйл сонгосон</item>
+        <item quantity="one">%1$d зүйл сонгосон</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d зүйлийн сонголтыг арилгасан</item>
+        <item quantity="one">%1$d зүйлийн сонголтыг арилгасан</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Файлыг офлайн хэлбэрээр ашиглах боломжтой болно</item>
+        <item quantity="one">Файлыг офлайн хэлбэрээр ашиглах боломжтой болно</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d зүйлийг одоор тэмдэглэсэн</item>
+        <item quantity="one">1 зүйлийг одоор тэмдэглсэн</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Файлыг офлайн хэлбэрээр цаашид ашиглах боломжгүй болсон</item>
+        <item quantity="one">Файлыг офлайн хэлбэрээр цаашид ашиглах боломжгүй болсон</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Одоор тэмдэглээгүй %1$d зүйл</item>
+        <item quantity="one">Одоор тэмдэглээгүй 1 зүйл</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d зүйлийг сэргээсэн</item>
+        <item quantity="one">1 зүйлийг сэргээсэн</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d зүйлийг сэргээсэн</item>
+        <item quantity="one">1 зүйлийг сэргээсэн</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">\"%2$s\"-с %1$d зүйл хассан</item>
+        <item quantity="one">\"%2$s\"-с 1 зүйл хассан</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">Фолдероос %1$d зүйл хассан</item>
+        <item quantity="one">Фолдероос 1 зүйл хассан</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d зүйл хассан</item>
+        <item quantity="one">1 зүйл хассан</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d зүйлийг буцааж зөөсөн</item>
+        <item quantity="one">1 зүйлийг буцааж зөөсөн</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d зүйлийг хогийн сав руу буцааж зөөсөн</item>
+        <item quantity="one">1 зүйлийг хогийн сав руу буцааж зөөсөн</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d зүйлийг хассан</item>
+        <item quantity="one">1 зүйлийг хассан</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">\"%2$s\"-д %1$d зүйл нэмсэн</item>
+        <item quantity="one">\"%2$s\"-д 1 зүйл нэмсэн</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d зүйл нэмсэн</item>
+        <item quantity="one">1 зүйл нэмсэн</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d зүйл сэргээж \"%2$s\"-д зөөсөн</item>
+        <item quantity="one">1 зүйлийг сэргээж \"%2$s\"-д зөөсөн</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">\"%2$s\"-д %1$d зүйл зөөсөн.</item>
+        <item quantity="one">\"%2$s\"-д 1 зүйл зөөсөн.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d зүйл зөөсөн</item>
+        <item quantity="one">1 зүйл зөөсөн</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d зүйлийг сэргээж \"%2$s\"-д зөөсөн.</item>
+        <item quantity="one">1 зүйлийг сэргээж \"%2$s\"-д зөөсөн.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d зүйлийг сэргээсэн.</item>
+        <item quantity="one">1 зүйлийг сэргээсэн</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">\"%2$s\"-д %1$d зүйлийг сэргээсэн.</item>
+        <item quantity="one">\"%2$s\"-д 1 зүйлийг сэргээсэн.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Файл илгээх</item>
+        <item quantity="one">файл илгээх</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d хүн одоо хандах боломжтой</item>
+        <item quantity="one">Нэг хүн одоо хандах боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">Одоо %1$s болон бусад %2$d хандах боломжтой</item>
+        <item quantity="one">Одоо %1$s болон өөр нэг хүн хандах боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">Одоо %1$d хүн сэтгэгдэл нэмэх боломжтой</item>
+        <item quantity="one">Одоо өөр нэг хүн сэтгэгдэл нэмэх боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">Одоо %1$s болон бусад %2$d сэтгэгдэл нэмэх боломжтой</item>
+        <item quantity="one">Одоо %1$s болон өөр нэг хүн сэтгэгдэл нэмэх боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">Одоо %1$d хүн засах боломжтой</item>
+        <item quantity="one">Одоо нэг хүн засах боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">Одоо %1$s болон өөр %2$d хүн засах боломжтой</item>
+        <item quantity="one">Одоо %1$s болон өөр нэг хүн засах боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">Одоо %1$d хүн үзэх боломжтой</item>
+        <item quantity="one">Одоо нэг хүн үзэх боломжтой</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">Одоо %1$s болон өөр %2$d хүн үзэх боломжтой</item>
+        <item quantity="one">Одоо %1$s болон өөр нэг хүн үзэх боломжтой</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Драйвын хадгалах сангийн хугацаа %1$d өдрийн дараа дуусна</item>
+        <item quantity="one">Драйвын хадгалах сангийн хугацаа %1$d өдрийн дараа дуусна</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d хүнийг дундын драйвд нэмсэн</item>
+        <item quantity="one">Нэг хүнийг дундын драйвд нэмсэн</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s болон бусад %3$d-г %1$s-д нэмсэн</item>
+        <item quantity="one">%2$s болон өөр нэг хүнийг %1$s-д нэмсэн</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d гишүүн</item>
+        <item quantity="one">1 гишүүн</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Одоо бүгдийг үргэлжлүүлэх</item>
+        <item quantity="one">Одоо үргэлжлүүлэх</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$d файл байршуулахыг цуцална уу.</item>
+        <item quantity="one">%1$d файл байршуулахыг цуцална уу.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d файл байршуулахаар хуваарилах боломжгүй байна.</item>
+        <item quantity="one">%1$d файл байршуулахаар хуваарилах боломжгүй байна.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d файл байршуулсан.</item>
+        <item quantity="one">%1$d файл байршуулсан.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%2$d файлын %1$d-г байршуулах боломжгүй байна.</item>
+        <item quantity="one">%2$d файлын %1$d-г байршуулах боломжгүй байна.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d файл байршуулж байна.</item>
+        <item quantity="one">%1$d файл байршуулж байна.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Байршуулалтыг түр зогсоож сүлжээг хүлээж байна…</item>
+        <item quantity="one">Байршуулалтыг түр зогсоож сүлжээг хүлээж байна…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d байршуулалтыг түр зогсоосон.</item>
+        <item quantity="one">%1$d байршуулалтыг зогсоосон.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Байршуулалтыг түр зогсоож, Wi-Fi-г хүлээж байна…</item>
+        <item quantity="one">Байршуулалтыг түр зогсоож, Wi-Fi-г хүлээж байна…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d файлыг байршуулахаар бэлдэж байна.</item>
+        <item quantity="one">%1$d файлыг байршуулахаар бэлдэж байна.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Таны %1$d файлыг дараахад байршуулж байна: %2$s</item>
+        <item quantity="one">Таны %1$d файлыг дараахад байршуулж байна: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">%1$d файл үзэх</item>
+        <item quantity="one">%1$d файл үзэх</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%2$s дотор %1$d файл үзэх</item>
+        <item quantity="one">%2$s дотор %1$d файл үзэх</item>
+    </plurals>
+</resources>

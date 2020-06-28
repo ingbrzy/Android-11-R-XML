@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Näytetään %1$d kohdetta.</item>
+        <item quantity="one">Näytetään %1$d kohde.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d kommenttia</item>
+        <item quantity="one">%1$d kommentti</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Toimintokohteet: %1$d seurantakohdetta</item>
+        <item quantity="one">Toimintokohteet: %1$d seurantakohde</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Kohteet poistettiin pysyvästi.</item>
+        <item quantity="one">Kohde poistettiin pysyvästi.</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s eivät ole kelvollisia sähköpostiosoitteita.</item>
+        <item quantity="one">%s ei ole kelvollinen sähköpostiosoite.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Jos lisäät tiedostot, ne jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+        <item quantity="one">Jos lisäät tiedoston, se jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Jos lisäät kansiot, ne jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+        <item quantity="one">Jos lisäät kansion, se jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Jaetaanko nämä tiedostot?</item>
+        <item quantity="one">Jaetaanko tämä tiedosto?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Jaetaanko nämä kansiot?</item>
+        <item quantity="one">Jaetaanko tämä kansio?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d kansiota päivitetty. Väriksi valittiin %2$s.</item>
+        <item quantity="one">%1$d kansio päivitetty. Väriksi valittiin %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Käytä suodattimia:</item>
+        <item quantity="one">Käytä suodatinta:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Vanhenee %1$d päivän kuluttua</item>
+        <item quantity="one">Vanhenee %1$d päivän kuluttua</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Varmuuskopio vanhenee %1$d päivän kuluttua, jos laite pysyy ei-aktiivisena.</item>
+        <item quantity="one">Varmuuskopio vanhenee %1$d päivän kuluttua, jos laite pysyy ei-aktiivisena.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Varmuuskopiot poistettu.</item>
+        <item quantity="one">Varmuuskopio poistettu.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d saraketta.</item>
+        <item quantity="one">%1$d sarake.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d lukittua saraketta.</item>
+        <item quantity="one">%1$d lukittu sarake.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d lukittua riviä.</item>
+        <item quantity="one">%1$d lukittu rivi.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d riviä.</item>
+        <item quantity="one">%1$d rivi.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s %2$d kohteelle</item>
+        <item quantity="one">%1$s %2$d kohteelle</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s vastausta</item>
+        <item quantity="one">%1$s vastaus</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Kohteiden lataaminen epäonnistui.</item>
+        <item quantity="one">Kohteen lataaminen epäonnistui.</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d kohdetta ladataan. Lisätietoja on ilmoituksessa.</item>
+        <item quantity="one">%1$d kohde ladataan. Lisätietoja on ilmoituksessa.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d kohdetta ladataan.</item>
+        <item quantity="one">%1$d kohde ladataan.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s ja %2$d muuta kohdetta</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s kohteen lataaminen epäonnistui.</item>
+        <item quantity="one">%1$s kohteen lataaminen epäonnistui.</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d muuta kohdetta</item>
+        <item quantity="one">%1$d muu kohde</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d/%2$d latauksesta epäonnistui</item>
+        <item quantity="one">%1$d/%2$d latauksesta epäonnistui</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Tiedostojen siirtämisessä tapahtui virhe.</item>
+        <item quantity="one">Tiedoston siirtämisessä tapahtui virhe.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d vierasta</item>
+        <item quantity="one">%d vieras</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d pikakuvaketta lisätty kansioon %1$s</item>
+        <item quantity="one">Pikakuvake lisätty kansioon %1$s</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Pikakuvakkeita ei voi lisätä. Yritä uudelleen</item>
+        <item quantity="one">Pikakuvaketta ei voi lisätä. Yritä uudelleen</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei näitä kohteita jaeta heidän kanssaan. Tiimin Driven %2$s jäsenet saavat käyttöoikeuden näihin kohteisiin.</item>
+        <item quantity="one">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei tätä kohdetta jaeta heidän kanssaan. Tiimin Driven %2$s jäsenet saavat käyttöoikeuden tähän kohteeseen.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei näitä kohteita jaeta heidän kanssaan. Tiimin Driven %2$s jäsenet saavat käyttöoikeuden näihin kohteisiin. Koska sinulla on oikeudet lisätä ja muokata ainoastaan Tiimin Driven %3$s kohteita, et voi kumota tätä toimintoa.</item>
+        <item quantity="one">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei tätä kohdetta jaeta heidän kanssaan. Tiimin Driven %2$s jäsenet saavat käyttöoikeuden tähän kohteeseen. Koska sinulla on oikeudet lisätä ja muokata ainoastaan Tiimin Driven %3$s kohteita, et voi kumota tätä toimintoa.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">Jotkin tiedostot, joiden uudeksi sijainniksi on määritetty %1$s, käynnistivät DLP- havaitsemistoiminnon. Näissä tiedostoissa saattaa olla arkaluonteisia tietoja.</item>
+        <item quantity="one">Tiedosto, jonka uudeksi sijainniksi on määritetty %1$s, on käynnistänyt DLP- havaitsemistoiminnon. Tässä tiedostossa saattaa olla arkaluonteisia tietoja.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei näitä kohteita jaeta heidän kanssaan.</item>
+        <item quantity="one">Tiimin Driven %1$s jäsenet menettävät käyttöoikeutensa, ellei tätä kohdetta jaeta heidän kanssaan.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Kun nämä kohteet siirretään, ne jaetaan kaikille, jotka voivat nähdä jaetun kansion %1$s. Tiimin Driven %2$s jäsenet menettävät käyttöoikeutensa, ellei näitä kohteita jaeta heidän kanssaan.</item>
+        <item quantity="one">Kun tämä kohde siirretään, se jaetaan kaikille, jotka voivat nähdä jaetun kansion %1$s. Tiimin Driven %2$s jäsenet menettävät käyttöoikeutensa, ellei tätä kohdetta jaeta heidän kanssaan.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Olet siirtämässä kohteita pois jaetuista kansioista. Siirron jälkeen muut käyttäjät menettävät näiden kohteiden käyttöoikeudet.</item>
+        <item quantity="one">Olet siirtämässä kohdetta pois jaetusta kansiosta. Siirron jälkeen muut käyttäjät menettävät tämän kohteen käyttöoikeudet.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Lisärajoitukset poistetaan näistä kohteista.</item>
+        <item quantity="one">Lisärajoitukset poistetaan tästä kohteesta.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Jos siirrät tiedostot, ne jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+        <item quantity="one">Jos siirrät tiedoston, se jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Jos siirrät kansiot, ne jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+        <item quantity="one">Jos siirrät kansion, se jaetaan kaikille, joilla on oikeus käyttää jaettua kansiota %1$s.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Jaetaanko nämä tiedostot?</item>
+        <item quantity="one">Jaetaanko tämä tiedosto?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Jaetaanko nämä kansiot?</item>
+        <item quantity="one">Jaetaanko tämä kansio?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Sinulla ei ole oikeutta siirtää joitakin kohteita pois jaetusta Drivesta.</item>
+        <item quantity="one">Sinulla ei ole oikeutta siirtää tätä kohdetta pois jaetusta Drivesta.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Sinulla ei ole oikeutta siirtää joitakin kohteita pois kansioistaan.</item>
+        <item quantity="one">Sinulla ei ole oikeutta siirtää tätä kohdetta pois kansiostaan.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Et voi siirtää näitä tiedostoja, koska niiden omistaja on verkkotunnuksen %1$s ulkopuolella.</item>
+        <item quantity="one">Et voi siirtää tätä tiedostoa, koska sen omistaja on verkkotunnuksen %1$s ulkopuolella.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s %2$s sai käyttöoikeudet.</item>
+        <item quantity="one">%1$s %2$s sai käyttöoikeudet.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d kohdetta siirretty jaettuun Driveen. Niitä voi nyt käyttää.</item>
+        <item quantity="one">1 kohde siirretty jaettuun Driveen. Sitä voi nyt käyttää.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d jaetun Driven kohdetta siirretty. Käyttöoikeus poistettu.</item>
+        <item quantity="one">%1$d kohde siirretty jaetusta Drivesta. Käyttöoikeus poistettu.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d hyväksyjää</item>
+        <item quantity="one">1 hyväksyjä</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s toimintokohdetta</item>
+        <item quantity="one">%1$s toimintokohde</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s mainintaa ilman vastausta</item>
+        <item quantity="one">%1$s maininta ilman vastausta</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s ehdotusta</item>
+        <item quantity="one">%1$s ehdotus</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s tehtävää</item>
+        <item quantity="one">%1$s tehtävä</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Kohteet poistettiin pysyvästi.</item>
+        <item quantity="one">Kohde poistettiin pysyvästi.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d/%2$s on nyt käytettävissä offline-tilassa.</item>
+        <item quantity="one">%1$d/%2$s on nyt käytettävissä offline-tilassa.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d tiedostoa on käytett. offline-tilassa.</item>
+        <item quantity="one">%1$d tiedosto nyt käytössä offline-tilassa.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Tiedostoja ei voi ottaa käyttöön offline-tilassa.</item>
+        <item quantity="one">Tiedostoa ei voi ottaa käyttöön offline-tilassa.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Ladataan %1$d tiedostoa offline-käyttöön.</item>
+        <item quantity="one">Ladataan %1$d tiedosto offline-käyttöön.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d tiedostoa</item>
+        <item quantity="one">%1$d tiedosto</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Lataukset keskeytetty, odotetaan verkkoyhteyttä…</item>
+        <item quantity="one">Lataus keskeytetty, odotetaan verkkoyhteyttä…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d tiedoston lataus keskeytyi.</item>
+        <item quantity="one">%1$d tiedoston lataus keskeytyi.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Lataukset keskeytetty, odotetaan Wi-Fi-yhteyttä…</item>
+        <item quantity="one">Lataus keskeytetty, odotetaan Wi-Fi-yhteyttä…</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d kohdetta siirretään roskakoriin. Toiminto poistaa kohteet myös Google Kuvista.</item>
+        <item quantity="one">Yksi kohde siirretään roskakoriin. Toiminto poistaa kohteen myös Google Kuvista.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d kohdetta siirretään roskakoriin.</item>
+        <item quantity="one">Yksi kohde siirretään roskakoriin.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s seurantakohdetta</item>
+        <item quantity="one">%1$s seurantakohde</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s seurantakohdetta</item>
+        <item quantity="one">%1$s seurantakohde</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Seurannat</item>
+        <item quantity="one">Seuranta</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Kommentoivat %1$d tiedostoa</item>
+        <item quantity="one">Kommentoivat tiedostoa</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Kommentoi %1$d tiedostoa</item>
+        <item quantity="one">Kommentoi tiedostoa</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Kommentoivat tätä tiedostoa</item>
+        <item quantity="one">Kommentoi tätä tiedostoa</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Loivat %1$d kohdetta</item>
+        <item quantity="one">Loivat kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Loi %1$d kohdetta</item>
+        <item quantity="one">Loi kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Loivat tämän tiedoston</item>
+        <item quantity="one">Loi tämän tiedoston</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Loivat tämän kansion</item>
+        <item quantity="one">Loi tämän kansion</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Muokkasivat %1$d kohdetta</item>
+        <item quantity="one">Muokkasivat kohdetta</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Muokkasi %1$d kohdetta</item>
+        <item quantity="one">Muokkasi kohdetta</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Tekivät muutoksia tähän tiedostoon</item>
+        <item quantity="one">Teki muutoksia tähän tiedostoon</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Poisti %1$d kohdetta pysyvästi</item>
+        <item quantity="one">Poisti kohteen pysyvästi</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Siirsivät %1$d kohdetta sijaintiin:</item>
+        <item quantity="one">Siirsivät kohteen sijaintiin:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Siirsi %1$d kohdetta sijaintiin:</item>
+        <item quantity="one">Siirsi kohteen sijaintiin:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Siirsivät %1$d kohdetta</item>
+        <item quantity="one">Siirsivät kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Siirsi %1$d kohdetta</item>
+        <item quantity="one">Siirsi kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Siirsivät tämän tiedoston</item>
+        <item quantity="one">Siirsi tämän tiedoston</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Siirsivät tämän tiedoston sijaintiin:</item>
+        <item quantity="one">Siirsi tämän tiedoston sijaintiin:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Siirsivät tämän kansion</item>
+        <item quantity="one">Siirsi tämän kansion</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Siirsivät tämän kansion sijaintiin:</item>
+        <item quantity="one">Siirsi tämän kansion sijaintiin:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Nimesivät %1$d kohdetta uudelleen</item>
+        <item quantity="one">Nimesivät kohteen uudelleen</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Nimesi %1$d kohdetta uudelleen</item>
+        <item quantity="one">Nimesi kohteen uudelleen</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Nimesivät tämän tiedoston uudelleen</item>
+        <item quantity="one">Nimesi tämän tiedoston uudelleen</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Nimesivät tämän kansion uudelleen</item>
+        <item quantity="one">Nimesi tämän kansion uudelleen</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Jakoivat %1$d kohdetta</item>
+        <item quantity="one">Jakoivat kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Jakoi %1$d kohdetta</item>
+        <item quantity="one">Jakoi kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Jakoivat tämän tiedoston</item>
+        <item quantity="one">Jakoi tämän tiedoston</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Jakoivat tämän kansion</item>
+        <item quantity="one">Jakoi tämän kansion</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Siirsivät %1$d kohdetta roskakoriin</item>
+        <item quantity="one">Siirsivät kohteen roskakoriin</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Siirsi %1$d kohdetta roskakoriin</item>
+        <item quantity="one">Siirsi kohteen roskakoriin</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Poistivat tämän tiedoston</item>
+        <item quantity="one">Poisti tämän tiedoston</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Poistivat tämän kansion</item>
+        <item quantity="one">Poisti tämän kansion</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Latasivat %1$d kohdetta</item>
+        <item quantity="one">Latasivat kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Latasi %1$d kohdetta</item>
+        <item quantity="one">Latasi kohteen</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Latasivat tämän tiedoston</item>
+        <item quantity="one">Latasi tämän tiedoston</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Latasivat tämän kansion</item>
+        <item quantity="one">Latasi tämän kansion</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d tiedostoa siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+        <item quantity="one">Tiedosto siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d kansiota siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+        <item quantity="one">Kansio siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d kohdetta siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+        <item quantity="one">Kohde siirretään Tiimin Driven %2$s roskakoriin ja poistetaan pysyvästi 30 päivän kuluttua.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Nämä %1$d tiedostoa &lt;b>poistetaan pysyvästi kaikilta käyttäjiltä.&lt;/b> Toimintoa ei voi kumota.</item>
+        <item quantity="one">Tiedosto &lt;b>poistetaan pysyvästi kaikilta käyttäjiltä.&lt;/b> Toimintoa ei voi kumota.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Nämä %1$d tiedostoa poistetaan pysyvästi. Tätä toimintoa ei voi kumota.</item>
+        <item quantity="one">Tiedosto poistetaan pysyvästi. Tätä toimintoa ei voi kumota.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d kohdetta valittu</item>
+        <item quantity="one">%1$d kohde valittu</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d kohteen valinta poistettu</item>
+        <item quantity="one">%1$d kohteen valinta poistettu</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Tiedostot ovat käytettävissä offline-tilassa</item>
+        <item quantity="one">Tiedosto on käytettävissä offline-tilassa</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d kohdetta merkitty tähdellä</item>
+        <item quantity="one">1 kohde merkitty tähdellä</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Tiedostot eivät ole enää käytettävissä offline-tilassa</item>
+        <item quantity="one">Tiedosto ei ole enää käytettävissä offline-tilassa</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d kohteen tähtimerkintä poistettu</item>
+        <item quantity="one">1 kohteen tähtimerkintä poistettu</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d kohdetta palautettu</item>
+        <item quantity="one">1 kohde palautettiin.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d kohdetta palautettu</item>
+        <item quantity="one">1 kohde palautettu</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d kohdetta poistettiin kansiosta %2$s.</item>
+        <item quantity="one">1 kohde poistettiin kansiosta %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d kohdetta poistettiin kansiosta.</item>
+        <item quantity="one">1 kohde poistettiin kansiosta.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d kohdetta poistettiin.</item>
+        <item quantity="one">1 kohde poistettiin.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d kohdetta siirrettiin takaisin.</item>
+        <item quantity="one">1 kohde siirrettiin takaisin.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d kohdetta siirrettiin takaisin roskakoriin.</item>
+        <item quantity="one">1 kohde siirrettiin takaisin roskakoriin.</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d kohdetta poistettiin.</item>
+        <item quantity="one">1 kohde poistettiin.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d kohdetta lisättiin kansioon %2$s.</item>
+        <item quantity="one">1 kohde lisättiin kansioon %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d kohdetta lisättiin.</item>
+        <item quantity="one">1 kohde lisättiin.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d kohdetta palautettu ja lisätty kansioon %2$s.</item>
+        <item quantity="one">1 kohde palautettu ja lisätty kansioon %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d kohdetta siirrettiin kansioon %2$s.</item>
+        <item quantity="one">1 kohde siirrettiin kansioon %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d kohdetta siirrettiin.</item>
+        <item quantity="one">1 kohde siirrettiin.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d kohdetta palautettiin ja siirrettiin kansioon %2$s.</item>
+        <item quantity="one">1 kohde palautettiin ja siirrettiin kansioon %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d kohdetta palautettiin.</item>
+        <item quantity="one">1 kohde palautettiin.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d kohdetta palautettiin kansioon %2$s.</item>
+        <item quantity="one">1 kohde palautettiin kansioon %2$s.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Lähetä tiedostot sovelluksella</item>
+        <item quantity="one">Lähetä tiedosto sovelluksella</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d henkilöllä on nyt käyttöoikeudet.</item>
+        <item quantity="one">Yhdellä henkilöllä on nyt käyttöoikeus.</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s ja %2$d muuta saivat käyttöoikeudet.</item>
+        <item quantity="one">%1$s ja yksi muu saivat käyttöoikeudet.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d henkilöä voi nyt lisätä kommentteja.</item>
+        <item quantity="one">Yksi henkilö voi nyt lisätä kommentteja.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s ja %2$d muuta voivat nyt lisätä kommentteja.</item>
+        <item quantity="one">%1$s ja yksi muu voivat nyt lisätä kommentteja.</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d henkilöä voi nyt muokata.</item>
+        <item quantity="one">Yksi henkilö voi nyt muokata.</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s ja %2$d muuta voivat nyt muokata.</item>
+        <item quantity="one">%1$s ja yksi muu voivat nyt muokata.</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d henkilöllä on nyt lukuoikeus.</item>
+        <item quantity="one">Yhdellä henkilöllä on nyt lukuoikeus.</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s ja %2$d muuta saivat lukuoikeuden.</item>
+        <item quantity="one">%1$s ja yksi muu saivat lukuoikeuden.</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Kiintiö voimassa enää %1$d päivää</item>
+        <item quantity="one">Kiintiö voimassa enää %1$d päivän</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d henkilöä lisättiin jaettuun Driveen</item>
+        <item quantity="one">Yksi henkilö lisättiin jaettuun Driveen</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s ja %3$d muuta lisättiin Tiimin Driveen %1$s.</item>
+        <item quantity="one">%2$s ja yksi muu lisättiin Tiimin Driveen %1$s.</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d jäsentä</item>
+        <item quantity="one">1 jäsen</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Jatka kaikkia nyt</item>
+        <item quantity="one">Jatka nyt</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Peruutettiin %1$d tiedoston lataaminen.</item>
+        <item quantity="one">Peruutettiin %1$d tiedoston lataaminen.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d tiedoston latausta ei voi ajoittaa.</item>
+        <item quantity="one">%1$d tiedoston latausta ei voi ajoittaa.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d tiedostoa lähetetty.</item>
+        <item quantity="one">%1$d tiedosto lähetetty.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Lataaminen epäonnistui: %1$d/%2$d tiedostosta.</item>
+        <item quantity="one">Lataaminen epäonnistui: %1$d/%2$d tiedostosta.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Ladataan %1$d tiedostoa.</item>
+        <item quantity="one">Ladataan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Lähetykset keskeytetty, odotetaan verkkoyhteyttä…</item>
+        <item quantity="one">Lähetys keskeytetty, odotetaan verkkoyhteyttä…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d tiedoston lähetys on keskeytetty.</item>
+        <item quantity="one">%1$d tiedoston lähetys on keskeytetty.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Lähetykset keskeytetty, odotetaan Wi-Fi-yhteyttä…</item>
+        <item quantity="one">Lähetys keskeytetty, odotetaan Wi-Fi-yhteyttä…</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Valmistellaan %1$d tiedoston latausta.</item>
+        <item quantity="one">Valmistellaan %1$d tiedoston latausta.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d tiedostoa ladataan kansioon: %2$s</item>
+        <item quantity="one">%1$d tiedosto ladataan kansioon: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Näytä %1$d tiedostoa</item>
+        <item quantity="one">Näytä %1$d tiedosto</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Katso kaikki %1$d tiedostoa työtilassa %2$s</item>
+        <item quantity="one">Katso %1$d tiedosto työtilassa %2$s</item>
+    </plurals>
+</resources>

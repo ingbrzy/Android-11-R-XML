@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_deletion_canceled_title">
+        <item quantity="other">(Atcelta) %1$d lietotnes jau atinstalētas</item>
+        <item quantity="zero">(Atcelta) %1$d lietotnes jau atinstalētas</item>
+        <item quantity="one">(Atcelta) %1$d lietotne jau atinstalēta</item>
+    </plurals>
+    <plurals name="app_deletion_finish_title">
+        <item quantity="other">Atinstalētas %1$d lietotnes</item>
+        <item quantity="zero">Atinstalētas %1$d lietotnes</item>
+        <item quantity="one">Atinstalēta %1$d lietotne</item>
+    </plurals>
+    <plurals name="complete_copy_files_text">
+        <item quantity="other">Tika pārkopēti %1$d faili</item>
+        <item quantity="zero">Tika pārkopēti %1$d faili</item>
+        <item quantity="one">Tika pārkopēts %1$d fails</item>
+    </plurals>
+    <plurals name="complete_copy_folders_and_files_text">
+        <item quantity="other">Ir nokopētas %1$d mapes un %2$d faili</item>
+        <item quantity="zero">Ir nokopētas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Ir nokopēta %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="complete_copy_folders_text">
+        <item quantity="other">Ir nokopētas %1$d mapes</item>
+        <item quantity="zero">Ir nokopētas %1$d mapes</item>
+        <item quantity="one">Ir nokopēta %1$d mape</item>
+    </plurals>
+    <plurals name="complete_copy_one_folder_and_files_text">
+        <item quantity="other">Ir nokopētas %1$d mapes un %2$d faili</item>
+        <item quantity="zero">Ir nokopētas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Ir nokopēta %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="complete_delete_files_text">
+        <item quantity="other">%1$d faili tika izdzēsti</item>
+        <item quantity="zero">%1$d faili tika izdzēsti</item>
+        <item quantity="one">%1$d fails tika izdzēsts</item>
+    </plurals>
+    <plurals name="complete_delete_folders_and_files_text">
+        <item quantity="other">Dzēstas %1$d mapes un %2$d faili</item>
+        <item quantity="zero">Dzēstas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Dzēsta %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="complete_delete_folders_text">
+        <item quantity="other">Ir izdzēstas %1$d mapes</item>
+        <item quantity="zero">Ir izdzēstas %1$d mapes</item>
+        <item quantity="one">Ir izdzēsta %1$d mape</item>
+    </plurals>
+    <plurals name="complete_delete_one_folder_and_files_text">
+        <item quantity="other">Ir dzēstas)%1$d mapes un %2$d faili</item>
+        <item quantity="zero">Ir dzēstas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Ir dzēsta %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="complete_move_files_text">
+        <item quantity="other">Tika pārvietoti %1$d faili</item>
+        <item quantity="zero">Tika pārvietoti %1$d faili</item>
+        <item quantity="one">Tika pārvietots %1$d fails</item>
+    </plurals>
+    <plurals name="complete_move_folders_and_files_text">
+        <item quantity="other">Pārvietotas %1$d mapes un %2$d faili</item>
+        <item quantity="zero">Pārvietotas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Pārvietota %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="complete_move_folders_text">
+        <item quantity="other">Pārvietotas %1$d mapes</item>
+        <item quantity="zero">Pārvietotas %1$d mapes</item>
+        <item quantity="one">Pārvietota %1$d mape</item>
+    </plurals>
+    <plurals name="complete_move_one_folder_and_files_text">
+        <item quantity="other">Ir pārvietotas %1$d mapes un %2$d faili</item>
+        <item quantity="zero">Ir pārvietotas %1$d mapes un %2$d faili</item>
+        <item quantity="one">Ir pārvietota %1$d mape un %2$d fails</item>
+    </plurals>
+    <plurals name="confirm_delete_file_inside_folder_subtitle">
+        <item quantity="other">Šādi arī neatgriezeniski tiks dzēsti %1$d mapē esošie faili</item>
+        <item quantity="zero">Šādi arī neatgriezeniski tiks dzēsti %1$d mapē esošo failu</item>
+        <item quantity="one">Šādi arī neatgriezeniski tiks dzēsts %1$d mapē esošais fails</item>
+    </plurals>
+    <plurals name="confirm_delete_file_title">
+        <item quantity="other">Vai dzēst %1$d failus?</item>
+        <item quantity="zero">Vai dzēst %1$d failus?</item>
+        <item quantity="one">Vai dzēst %1$d failu?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_multiple_files_title">
+        <item quantity="other">Vai dzēst %1$d mapes un %2$d failus?</item>
+        <item quantity="zero">Vai dzēst %1$d mapes un %2$d failus?</item>
+        <item quantity="one">Vai dzēst %1$d mapi un %2$d failu?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_and_one_file_title">
+        <item quantity="other">Vai dzēst %1$d mapes un 1 failu?</item>
+        <item quantity="zero">Vai dzēst %1$d mapes un 1 failu?</item>
+        <item quantity="one">Vai dzēst %1$d mapi un 1 failu?</item>
+    </plurals>
+    <plurals name="confirm_delete_folder_title">
+        <item quantity="other">Vai dzēst %1$d mapes(-i)?</item>
+        <item quantity="zero">Vai dzēst %1$d mapes?</item>
+        <item quantity="one">Vai dzēst %1$d mapi?</item>
+    </plurals>
+    <plurals name="confirm_dialog_junk_files_subtitle">
+        <item quantity="other">Jūs gatavojaties notīrīt %1$d vienumus</item>
+        <item quantity="zero">Jūs gatavojaties notīrīt %1$d vienumus</item>
+        <item quantity="one">Jūs gatavojaties notīrīt %1$d vienumu</item>
+    </plurals>
+    <plurals name="confirm_dialog_move_text">
+        <item quantity="other">Vai pārvietot %1$d failus?</item>
+        <item quantity="zero">Vai pārvietot %1$d failus?</item>
+        <item quantity="one">Vai pārvietot %1$d failu?</item>
+    </plurals>
+    <plurals name="copy_file_fail">
+        <item quantity="other">Nevarēja nokopēt failus. %1$s</item>
+        <item quantity="zero">Nevarēja nokopēt failus. %1$s</item>
+        <item quantity="one">Nevarēja nokopēt failu. %1$s</item>
+    </plurals>
+    <plurals name="copying_files_text">
+        <item quantity="other">Notiek %1$d failu kopēšana</item>
+        <item quantity="zero">Notiek %1$d failu kopēšana</item>
+        <item quantity="one">Notiek %1$d faila kopēšana</item>
+    </plurals>
+    <plurals name="copying_folders_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu kopēšana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu kopēšana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila kopēšana</item>
+    </plurals>
+    <plurals name="copying_folders_text">
+        <item quantity="other">Notiek %1$d mapju kopēšana</item>
+        <item quantity="zero">Notiek %1$d mapju kopēšana</item>
+        <item quantity="one">Notiek %1$d mapes kopēšana</item>
+    </plurals>
+    <plurals name="copying_one_folder_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu kopēšana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu kopēšana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila kopēšana</item>
+    </plurals>
+    <plurals name="delete_duplicate_files_notification_title_num_of_files">
+        <item quantity="other">Dzēsiet %1$d dublētus failus</item>
+        <item quantity="zero">Dzēsiet %1$d dublētus failus</item>
+        <item quantity="one">Dzēsiet %1$d dublētus failus</item>
+    </plurals>
+    <plurals name="delete_file_fail">
+        <item quantity="other">Nevarēja izdzēst failus. %1$s</item>
+        <item quantity="zero">Nevarēja izdzēst failus. %1$s</item>
+        <item quantity="one">Nevarēja izdzēst failu. %1$s</item>
+    </plurals>
+    <plurals name="delete_memes_low_res_notification_title_num_of_files">
+        <item quantity="other">Notīriet %1$d memes</item>
+        <item quantity="zero">Notīriet %1$d memes</item>
+        <item quantity="one">Notīriet %1$d memi</item>
+    </plurals>
+    <plurals name="deleting_files_text">
+        <item quantity="other">Notiek %1$d failu dzēšana</item>
+        <item quantity="zero">Notiek %1$d failu dzēšana</item>
+        <item quantity="one">Notiek %1$d faila dzēšana</item>
+    </plurals>
+    <plurals name="deleting_folders_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu dzēšana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu dzēšana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila dzēšana</item>
+    </plurals>
+    <plurals name="deleting_folders_text">
+        <item quantity="other">Notiek %1$d mapju dzēšana</item>
+        <item quantity="zero">Notiek %1$d mapju dzēšana</item>
+        <item quantity="one">Notiek %1$d mapes dzēšana</item>
+    </plurals>
+    <plurals name="deleting_one_folder_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu dzēšana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu dzēšana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila dzēšana</item>
+    </plurals>
+    <plurals name="error_move_to_same_directory">
+        <item quantity="other">Šie vienumi jau atrodas: %s</item>
+        <item quantity="zero">Šie vienumi jau atrodas: %s</item>
+        <item quantity="one">Šie vienumi jau atrodas: %s</item>
+    </plurals>
+    <plurals name="extract_file_fail">
+        <item quantity="other">Nevarēja izvilkt failus. %1$s</item>
+        <item quantity="zero">Nevarēja izvilkt failus. %1$s</item>
+        <item quantity="one">Nevarēja izvilkt failu. %1$s</item>
+    </plurals>
+    <plurals name="extracted_files_on_cancel">
+        <item quantity="other">Izvilkti %1$d faili</item>
+        <item quantity="zero">Izvilkti %1$d faili</item>
+        <item quantity="one">Izvilkts %1$d fails</item>
+    </plurals>
+    <plurals name="failed_files_label">
+        <item quantity="other">%1$s nesekmīgi centās nosūtīt %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="zero">%1$s nesekmīgi centās nosūtīt %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="one">%1$s nesekmīgi centās nosūtīt %2$d failu šim lietotājam: %3$s</item>
+    </plurals>
+    <plurals name="file_already_present_copy_subtitle">
+        <item quantity="other">%1$d faili jau atrodas vietā %2$s, un tos nevar nokopēt</item>
+        <item quantity="zero">%1$d failu jau atrodas vietā %2$s, un tos nevar nokopēt</item>
+        <item quantity="one">%1$d fails jau atrodas vietā %2$s, un tos nevar nokopēt</item>
+    </plurals>
+    <plurals name="file_already_present_move_subtitle">
+        <item quantity="other">%1$d faili jau atrodas vietā %2$s, un tos nevar pārvietot</item>
+        <item quantity="zero">%1$d failu jau atrodas vietā %2$s, un tos nevar pārvietot</item>
+        <item quantity="one">%1$d fails jau atrodas vietā %2$s, un tos nevar pārvietot</item>
+    </plurals>
+    <plurals name="file_browser_sd_write_permission_required_to_delete">
+        <item quantity="other">Nevarēja izdzēst %1$d failus no %2$d. Nepieciešamas SD kartes atļaujas.</item>
+        <item quantity="zero">Nevarēja izdzēst %1$d failus no %2$d. Nepieciešamas SD kartes atļaujas.</item>
+        <item quantity="one">Nevarēja izdzēst %1$d failu no %2$d. Nepieciešamas SD kartes atļaujas.</item>
+    </plurals>
+    <plurals name="file_browser_selection_mode_title">
+        <item quantity="other">Atlasīti: %1$d</item>
+        <item quantity="zero">Atlasīti: %1$d</item>
+        <item quantity="one">Atlasīti: %1$d</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$s faili</item>
+        <item quantity="zero">%1$s failu</item>
+        <item quantity="one">%1$s fails</item>
+    </plurals>
+    <plurals name="files_copy_subtitle">
+        <item quantity="other">%1$d faili tiks kopēti</item>
+        <item quantity="zero">%1$d failu tiks kopēti</item>
+        <item quantity="one">%1$d fails tiks kopēts</item>
+    </plurals>
+    <plurals name="files_move_subtitle">
+        <item quantity="other">%1$d faili tiks pārvietoti</item>
+        <item quantity="zero">%1$d failu tiks pārvietoti</item>
+        <item quantity="one">%1$d fails tiks pārvietots</item>
+    </plurals>
+    <plurals name="files_number_and_total_sizes">
+        <item quantity="other">%1$s, %2$d faili</item>
+        <item quantity="zero">%1$s, %2$d failu</item>
+        <item quantity="one">%1$s, %2$d fails</item>
+    </plurals>
+    <plurals name="files_total_number">
+        <item quantity="other">Failu kopskaits: %1$d</item>
+        <item quantity="zero">Failu kopskaits: %1$d</item>
+        <item quantity="one">Failu kopskaits: %1$d</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$s mapes</item>
+        <item quantity="zero">%1$s mapju</item>
+        <item quantity="one">%1$s mape</item>
+    </plurals>
+    <plurals name="harmful_apps_found_subtitle">
+        <item quantity="other">Pakalpojums Google Play Protect jūsu ierīcē konstatēja %1$s kaitīgas lietotnes</item>
+        <item quantity="zero">Pakalpojums Google Play Protect jūsu ierīcē konstatēja %1$s kaitīgu lietotņu</item>
+        <item quantity="one">Pakalpojums Google Play Protect jūsu ierīcē konstatēja %1$s kaitīgu lietotni</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d stundas</item>
+        <item quantity="zero">%1$d stundu</item>
+        <item quantity="one">%1$d stunda</item>
+    </plurals>
+    <plurals name="media_notification_title_num_of_files">
+        <item quantity="other">Noņemt %1$d multivides failus</item>
+        <item quantity="zero">Noņemt %1$d multivides failus</item>
+        <item quantity="one">Noņemt %1$d multivides failu</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d minūtes</item>
+        <item quantity="zero">%1$d minūšu</item>
+        <item quantity="one">%1$d minūte</item>
+    </plurals>
+    <plurals name="move_file_fail">
+        <item quantity="other">Nevarēja pārvietot failus. %1$s</item>
+        <item quantity="zero">Nevarēja pārvietot failus. %1$s</item>
+        <item quantity="one">Nevarēja pārvietot failu. %1$s</item>
+    </plurals>
+    <plurals name="moving_files_text">
+        <item quantity="other">Notiek %1$d failu pārvietošana</item>
+        <item quantity="zero">Notiek %1$d failu pārvietošana</item>
+        <item quantity="one">Notiek %1$d faila pārvietošana</item>
+    </plurals>
+    <plurals name="moving_folders_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu pārvietošana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu pārvietošana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila pārvietošana</item>
+    </plurals>
+    <plurals name="moving_folders_text">
+        <item quantity="other">Notiek %1$d mapju pārvietošana</item>
+        <item quantity="zero">Notiek %1$d mapju pārvietošana</item>
+        <item quantity="one">Notiek %1$d mapes pārvietošana</item>
+    </plurals>
+    <plurals name="moving_one_folder_and_files_text">
+        <item quantity="other">Notiek %1$d mapju un %2$d failu pārvietošana</item>
+        <item quantity="zero">Notiek %1$d mapju un %2$d failu pārvietošana</item>
+        <item quantity="one">Notiek %1$d mapes un %2$d faila pārvietošana</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sekundes</item>
+        <item quantity="zero">%1$d sekunžu</item>
+        <item quantity="one">%1$d sekunde</item>
+    </plurals>
+    <plurals name="sending_files_label">
+        <item quantity="other">%1$s sūta %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="zero">%1$s sūta %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="one">%1$s sūta %2$d failu šim lietotājam: %3$s</item>
+    </plurals>
+    <plurals name="sent_files_label">
+        <item quantity="other">%1$s nosūtīja %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="zero">%1$s nosūtīja %2$d failus šim lietotājam: %3$s</item>
+        <item quantity="one">%1$s nosūtīja %2$d failu šim lietotājam: %3$s</item>
+    </plurals>
+    <plurals name="share_recipients">
+        <item quantity="other">kopīgošanas saņēmēji</item>
+        <item quantity="zero">kopīgošanas saņēmēji</item>
+        <item quantity="one">kopīgošanas saņēmējs</item>
+    </plurals>
+    <plurals name="stop_copy_to_sd_message">
+        <item quantity="other">Vai apturēt %1$d failu kopēšanu?</item>
+        <item quantity="zero">Vai apturēt %1$d failu kopēšanu?</item>
+        <item quantity="one">Vai apturēt %1$d faila kopēšanu?</item>
+    </plurals>
+    <plurals name="stop_delete_message">
+        <item quantity="other">Vai apturēt %1$d failu dzēšanu?</item>
+        <item quantity="zero">Vai apturēt %1$d failu dzēšanu?</item>
+        <item quantity="one">Vai apturēt %1$d faila dzēšanu?</item>
+    </plurals>
+    <plurals name="stop_move_to_sd_message">
+        <item quantity="other">Vai apturēt %1$d failu pārvietošanu?</item>
+        <item quantity="zero">Vai apturēt %1$d failu pārvietošanu?</item>
+        <item quantity="one">Vai apturēt %1$d faila pārvietošanu?</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title_num_of_files">
+        <item quantity="other">Atinstalējiet %1$d vecas lietotnes</item>
+        <item quantity="zero">Atinstalējiet %1$d vecas lietotnes</item>
+        <item quantity="one">Atinstalējiet %1$d vecu lietotni</item>
+    </plurals>
+    <plurals name="unzip_browser_more_files">
+        <item quantity="other">un vēl %1$d faili</item>
+        <item quantity="zero">un vēl %1$d failu</item>
+        <item quantity="one">un vēl %1$d fails</item>
+    </plurals>
+</resources>

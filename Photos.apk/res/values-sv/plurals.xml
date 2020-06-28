@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d objekt har skannats</item>
+        <item quantity="one">%1$d objekt har skannats</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d objekt har valts</item>
+        <item quantity="one">%1$d objekt har valts</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Den nya albumstorleken skulle vara större än den nuvarande gränsen på %1$d objekt.</item>
+        <item quantity="one">Den nya albumstorleken skulle vara större än den nuvarande gränsen på %1$d objekt.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumet skulle innehålla %1$d objekt.</item>
+        <item quantity="one">Albumet skulle innehålla %1$d objekt.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d platser har lagts till</item>
+        <item quantity="one">%d plats har lagts till</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d platser</item>
+        <item quantity="one">%d plats</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d kartor</item>
+        <item quantity="one">%d karta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d kartor har lagts till</item>
+        <item quantity="one">%d karta har lagts till</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Tar bort objekt från det här albumet ...</item>
+        <item quantity="one">Tar bort objekt från det här albumet ...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d objekt har tagits bort</item>
+        <item quantity="one">%d objekt har tagits bort</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Tar bort foton från det här albumet ...</item>
+        <item quantity="one">Tar bort foto från det här albumet ...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Tar bort videor från det här albumet ...</item>
+        <item quantity="one">Tar bort video från det här albumet ...</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d objekt</item>
+        <item quantity="one">%1$d objekt</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Radera från enheten (%d)</item>
+        <item quantity="one">Radera från enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Radera alla från enheten (%d)</item>
+        <item quantity="one">Radera alla från enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Flytta till papperskorgen (%d)</item>
+        <item quantity="one">Flytta till papperskorgen (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d arkiverat</item>
+        <item quantity="one">%d objekt har arkiverats</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d har tagits bort från arkivet</item>
+        <item quantity="one">%d objekt har tagits bort från arkivet</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s och %3$d till</item>
+        <item quantity="one">%1$s, %2$s och %3$d till</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$soch %2$d till</item>
+        <item quantity="one">%1$s och %2$d till</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">%d valda</item>
+        <item quantity="one">%d vald</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">%d objekt laddas upp</item>
+        <item quantity="one">%d objekt laddas upp</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">%d foton har inte säkerhetskopierats eftersom kontots lagringsutrymme är fullt</item>
+        <item quantity="one">%d foto har inte säkerhetskopierats eftersom kontots lagringsutrymme är fullt</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d objekt kvar</item>
+        <item quantity="one">%d objekt kvar</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d objekt kvar att säkerhetskopiera</item>
+        <item quantity="one">%d objekt kvar att säkerhetskopiera</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d objekt kvar • Hög kvalitet</item>
+        <item quantity="one">%d objekt kvar • Hög kvalitet</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d objekt kvar • Originalkvalitet</item>
+        <item quantity="one">%d objekt kvar • Originalkvalitet</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Laddar upp %d objekt</item>
+        <item quantity="one">Laddar upp %d objekt</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d objekt kvar</item>
+        <item quantity="one">%d objekt kvar</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d objekt kvar att säkerhetskopiera</item>
+        <item quantity="one">%d objekt kvar att säkerhetskopiera</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d foton har inte säkerhetskopierats</item>
+        <item quantity="one">%1$d foto har inte säkerhetskopierats</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Säkerhetskopierar %d objekt</item>
+        <item quantity="one">Säkerhetskopierar %d objekt</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Laddar upp %d objekt</item>
+        <item quantity="one">Laddar upp %d objekt</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Laddar upp %d videor</item>
+        <item quantity="one">Laddar upp %d video</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d objekt att ladda upp</item>
+        <item quantity="one">%d objekt att ladda upp</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d videor att ladda upp</item>
+        <item quantity="one">%d video att ladda upp</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d foton har inte säkerhetskopierats</item>
+        <item quantity="one">%d foto har inte säkerhetskopierats</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Alla %d foton</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">%1$d foton har inte säkerhetskopierats eftersom kontots lagringsutrymme är fullt</item>
+        <item quantity="one">%1$d foto har inte säkerhetskopierats eftersom kontots lagringsutrymme är fullt</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">%1$d foton har inte säkerhetskopierats eftersom ditt lagringsutrymme är slut</item>
+        <item quantity="one">%1$d foto har inte säkerhetskopierats eftersom ditt lagringsutrymme är slut</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d objekt har lagts till</item>
+        <item quantity="one">%1$d objekt har lagts till</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Välj högst %d objekt.</item>
+        <item quantity="one">Välj högst %d objekt.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Välj minst %d objekt.</item>
+        <item quantity="one">Välj minst %d objekt.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Välj objekt inom intervallet %d dagar.</item>
+        <item quantity="one">Välj objekt inom intervallet %d dag.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d dagar sedan</item>
+        <item quantity="one">%d dag sedan</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d timmar sedan</item>
+        <item quantity="one">%d timme sedan</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d v</item>
+        <item quantity="one">%d v</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d veckor sedan</item>
+        <item quantity="one">%d vecka sedan</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d minuter sedan</item>
+        <item quantity="one">%d minut sedan</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d dagar sedan</item>
+        <item quantity="one">%d dag sedan</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Ta bort %1$d objekt från enheten</item>
+        <item quantity="one">Ta bort %1$d objekt från enheten</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d originalfoton eller originalvideor tas bort</item>
+        <item quantity="one">%1$d originalfoto eller originalvideo tas bort</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d nya kort</item>
+        <item quantity="one">1 nytt kort</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d objekt har lagts till</item>
+        <item quantity="one">%d objekt har lagts till</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d uppdateringar</item>
+        <item quantity="one">%1$d uppdatering</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Har visats av %1$s, %2$s och %3$d till</item>
+        <item quantity="one">Har visats av %1$s, %2$s och %3$d till</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">%1$d kommetar</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Sparar objekt i biblioteket ...</item>
+        <item quantity="one">Sparar objekt i biblioteket ...</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s gillar %2$d foton • %3$s</item>
+        <item quantity="one">%1$s gillar %2$d foto • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s gillar %2$d videor • %3$s</item>
+        <item quantity="one">%1$s gillar %2$d video • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">välj %d objekt</item>
+        <item quantity="one">välj %d objekt</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Ta bort mappen och %d objekt i den</item>
+        <item quantity="one">Ta bort mappen och %d objekt i den</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Radera från enheten (%d)</item>
+        <item quantity="one">Radera från enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Det gick inte att kopiera %d objekt</item>
+        <item quantity="one">Det gick inte att kopiera %d objekt</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d objekt har kopierats</item>
+        <item quantity="one">%d objekt har kopierats</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Det gick inte att flytta %d objekt</item>
+        <item quantity="one">Det gick inte att flytta %d objekt</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d objekt har flyttats</item>
+        <item quantity="one">%d objekt har flyttats</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d rekommenderade bilder</item>
+        <item quantity="one">%d rekommenderad bild</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">%d år sedan</item>
+        <item quantity="one">%d år sedan</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Rotera %d grader motsols</item>
+        <item quantity="one">Rotera %d grader moturs</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Foton på %d personer</item>
+        <item quantity="one">Foton på %d person</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Foton av %d markerade ansikten</item>
+        <item quantity="one">Foton av %d markerat ansikte</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d har markerats</item>
+        <item quantity="one">%d har markerats</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d ansikten har valts</item>
+        <item quantity="one">%d ansikte har valts</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Foton av %1$d markerade ansikten sedan %2$s</item>
+        <item quantity="one">Foton av %1$d markerat ansikte sedan %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Foton av %d markerade ansikten</item>
+        <item quantity="one">Foton av %d markerat ansikte</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d foton har tagits bort</item>
+        <item quantity="one">%1$d foto har tagits bort</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Välj enbart %d personer</item>
+        <item quantity="one">Välj enbart %d person</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d foton</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d har valts</item>
+        <item quantity="one">%d har valts</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Det går bara att skriva ut %d foton,</item>
+        <item quantity="one">Det går bara att skriva ut %d foto,</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">%d foton har föreslagits för dig</item>
+        <item quantity="one">%d foto har föreslagits för dig</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d fotoförslag</item>
+        <item quantity="one">%d fotoförslag</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d extra sidor</item>
+        <item quantity="one">%d extra sida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d sidor</item>
+        <item quantity="one">%d sida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Lägg till %d foton till som ska köpas</item>
+        <item quantity="one">Lägg till %d foto till som ska köpas</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">%d sidor har lagts till</item>
+        <item quantity="one">%d sida har lagts till</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d foton har lagts till</item>
+        <item quantity="one">%d foto har lagts till</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">%d sidor har tagits bort</item>
+        <item quantity="one">%d sida har tagits bort</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d foton har tagits bort</item>
+        <item quantity="one">%d foto har tagits bort</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d extra sidor</item>
+        <item quantity="one">%d extra sida</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d sidor</item>
+        <item quantity="one">%d sida</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">%1$d foton har lagts till som fotoutskrifter på %2$s</item>
+        <item quantity="one">%1$d foto har lagts till som en fotoutskrift på %2$s</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Du kan bara välja %1$d %2$s fotoutskrifter per beställning</item>
+        <item quantity="one">Du kan bara välja %1$d %2$s fotoutskrift per beställning</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Du måste ha minst %1$d foton om du vill fortsätta med utkastet.</item>
+        <item quantity="one">Du måste ha minst %1$d foto om du vill fortsätta med utkastet.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d fotoutskrifter</item>
+        <item quantity="one">%1$d fotoutskrift</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">%1$d av %2$d objekt har laddats ned</item>
+        <item quantity="one">%1$d av %2$d objekt har laddats ned</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Återställ %d objekt?</item>
+        <item quantity="one">Återställ %d objekt?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">%1$d nya objekt har återställts till enheten</item>
+        <item quantity="one">1 nytt objekt har återställts till enheten</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">%1$d foton och videor har återställts</item>
+        <item quantity="one">1 foto eller video har återställts</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d foton</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d objekt tillagda i albumet</item>
+        <item quantity="one">%d objekt tillagt i albumet</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d objekt laddas upp</item>
+        <item quantity="one">%d objekt laddas upp</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d objekt laddas upp vid anslutning</item>
+        <item quantity="one">%d objekt laddas upp vid anslutning</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Faktiska filer</item>
+        <item quantity="one">Faktisk fil</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Filer</item>
+        <item quantity="one">Fil</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Små filer</item>
+        <item quantity="one">Liten fil</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s och %2$d andra</item>
+        <item quantity="one">%1$s och %2$d annan</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Vill du lägga till %d relaterade foton?</item>
+        <item quantity="one">Vill du lägga till %d relaterat foto?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d foton har lagts till automatiskt</item>
+        <item quantity="one">%1$d foto har lagts till automatiskt</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d nya foton</item>
+        <item quantity="one">%1$d nytt foto</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s har lagt till %2$d nya foton</item>
+        <item quantity="one">%1$s har lagt till %2$d nytt foto</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Det går inte att ta bort objekt</item>
+        <item quantity="one">Det går inte att ta bort objektet</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Det går inte att ta bort %d objekt</item>
+        <item quantity="one">Det går inte att ta bort %d objekt</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Det går inte att ta bort %d objekt permanent</item>
+        <item quantity="one">Det går inte att ta bort %d objekt permanent</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d har raderats från enheten</item>
+        <item quantity="one">%d har raderats från enheten</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Återställer objekt ...</item>
+        <item quantity="one">Återställer objekt ...</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Det går inte att återställa %d objekt</item>
+        <item quantity="one">Det går inte att återställa %d objekt</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Radera objekt permanent?</item>
+        <item quantity="one">Radera objekt permanent?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d objekt tas bort permanent</item>
+        <item quantity="one">%d objekt tas bort permanent</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d dagar kvar tills den här versionen löper ut. Uppdatera nu om du vill fortsätta använda Google Foto.</item>
+        <item quantity="one">1 dag kvar tills den här versionen löper ut. Uppdatera nu om du vill fortsätta använda Google Foto.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d objekt laddas upp</item>
+        <item quantity="one">%d objekt laddas upp</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d objekt laddas upp vid anslutning</item>
+        <item quantity="one">%d objekt laddas upp vid anslutning</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d objekt laddas upp när enheten är ansluten till Wi-Fi</item>
+        <item quantity="one">%d objekt laddas upp när enheten är ansluten till Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Filerna laddas upp … %d kvar</item>
+        <item quantity="one">Filen laddas upp … %d kvar</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d filer</item>
+        <item quantity="one">%d fil</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s foton</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s objekt</item>
+        <item quantity="one">%s objekt</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s videor</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Välj foton</item>
+        <item quantity="one">Välj ett foto</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Välj objekt</item>
+        <item quantity="one">Välj ett objekt</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Välj videor</item>
+        <item quantity="one">Välj video</item>
+    </plurals>
+</resources>

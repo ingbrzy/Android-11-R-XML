@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>
+    <string name="accessibility_wifi_security_type_none">Avoin verkko</string>
+    <string name="accessibility_wifi_security_type_secured">Suojattu verkko</string>
+    <string name="accessibility_wifi_signal_full">Vahva Wi-Fi-signaali</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi-signaali – kolme palkkia</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi-signaali – kaksi palkkia</string>
+    <string name="account_exists_info">"Sähköpostisi, yhteystietosi, kalenteritapahtumasi ja muut tietosi synkronoidaan tähän {DEVICE_TYPE,select, PHONE{puhelimeen}TABLET{tablettiin}other{laitteeseen}}. Tämän lisäksi voit nyt ladata sovelluksia, musiikkia ja pelejä Google Playsta.
+
+Voit lisätä ja poistaa tilejä myöhemmin kohdassa Asetukset > Tilit."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> on jo valmiina.</string>
+    <string name="account_exists_text_unknown_name">Tilisi on valmis.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Tili lisätty}other{Tilit lisätty}}</string>
+    <string name="activating_carrier_service_text">Tämä voi kestää muutaman minuutin</string>
+    <string name="activating_unknown_carrier_service_title">Aktivoidaan…</string>
+    <string name="activation_failed_message">"Voit
+"<ul><li>yrittää muodostaa mobiilidatayhteyden uudelleen</li>"
+"<li>tehdä käyttöönoton toisessa verkossa.</li></ul>"
+
+Jos nämä keinot eivät toimi, voit myös käynnistää{DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}} uudelleen ja yrittää sitten."</string>
+    <string name="activation_failed_title">Mobiiliverkkoon yhdistäminen ei onnistu</string>
+    <string name="activation_progress_flow">"Etkö jaksa odottaa?
+
+Mobiiliverkkoon yhdistämisessä kestää jonkin aikaa. Voit palata takaisin ja yrittää yhdistää toiseen verkkoon."</string>
+    <string name="activation_title">Yhdistetään mobiilipalveluun…</string>
+    <string name="activation_unprovisioned_sim_message">Käynnistä {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}} uudelleen ja yritä uudelleen, tai yhdistä Wi‑Fi-verkkoon määritystä varten. Ota yhteys operaattoriin, jos mobiilidatan aktivointi ei vieläkään onnistu.</string>
+    <string name="activation_unprovisioned_title">Mobiilidatan aktivointi epäonnistui</string>
+    <string name="android_privacy_policy_title">Tietosuojakäytännön lisäosa</string>
+    <string name="available_via_carrier">Käytettävissä, verkko: %1$s</string>
+    <string name="cancel_button_label">Peruuta</string>
+    <string name="captive_portal_connection_unsuccessful">Internetyhteyden muodostaminen epäonnistui</string>
+    <string name="captive_portal_description_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="captive_portal_ssl_error_text">Tämä yhteys käyttää suojaamatonta tai virheellistä varmennetta. Valitse toinen verkko ja yritä uudelleen.</string>
+    <string name="captive_portal_title">Yhdistetään…</string>
+    <string name="chrome_privacy_title">Chromen tietosuojailmoitus</string>
+    <string name="chrome_tos_title">Chromen käyttöehdot</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="connect_to_wifi_btn_text">Wi-Fi-asetukset</string>
+    <string name="connect_to_wifi_message">Jatka yhdistämällä Wi-Fi-verkkoon.</string>
+    <string name="connect_to_wifi_title">Sovelluspäivityksiä valmiina</string>
+    <string name="connected_via_app">Yhdistetty (%1$s)</string>
+    <string name="connected_via_carrier">Yhdistetty, verkko: %1$s</string>
+    <string name="connected_via_network_scorer_default">Yhdistetty automaattisesti verkon arviointipalvelun kautta</string>
+    <string name="consolidate_captive_portal_description_text">Tämä voi kestää muutaman minuutin</string>
+    <string name="consolidate_captive_portal_title">Etsitään päivityksiä…</string>
+    <string name="continue_for_a11y">Ota esteettömyystila käyttöön koskettamalla näyttöä, kunnes kuulet äänimerkin.</string>
+    <string name="date_time_current_date">Pvm</string>
+    <string name="date_time_current_time">Aika</string>
+    <string name="date_time_message">Muokkaa tarvittaessa.</string>
+    <string name="date_time_setup_title">Päivämäärä ja aika</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Jatka</string>
+    <string name="decision_point_google_assistant">Google Assistant</string>
+    <string name="decision_point_illustration_description">Lisävaiheita ovat esimerkiksi Google Assistant, Google Pay, musiikintunnistus, fonttikoko ja taustakuva</string>
+    <string name="decision_point_leave_setup">Poistu, niin saat muistutuksen</string>
+    <string name="decision_point_now_playing">Musiikintunnistus</string>
+    <string name="default_device_name_device">laite</string>
+    <string name="default_device_name_phone">puhelin</string>
+    <string name="default_device_name_tablet">tabletti</string>
+    <string name="deferred_notification_prompt_title">Määritä ^1 loppuun</string>
+    <string name="deferred_setup_button_label">Viimeistele asennus</string>
+    <string name="deferred_setup_wizard_reason_assistant">puhu Assistantille</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">puhu Google Assistantille</string>
+    <string name="deferred_setup_wizard_reason_default">Vielä muutama vaihe</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">kopioi tietosi</string>
+    <string name="deferred_setup_wizard_reason_google_pay">käytä Google Payta</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">maksa nopeammin Google Paylla</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 ja suorita muita vaiheita</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 ja suorita muita vaiheita</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Muutaman vaiheen jälkeen ^1 on valmis käyttöön</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">aseta taustakuva</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">aseta taustakuva</string>
+    <string name="deferred_setup_wizard_title">Viimeistele asetukset</string>
+    <string name="deferred_snooze_dialog_option_never">Ei koskaan</string>
+    <string name="deferred_snooze_dialog_option_today">Myöhemmin tänään</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Huomenna</string>
+    <string name="deferred_snooze_dialog_title">Muistuta minua</string>
+    <string name="deferred_welcome_airplane_mode_message">"Tarvitset verkkoyhteyden, jotta voit suorittaa viimeiset asennusvaiheet loppuun.
+
+Kun lentokonetila on päällä, Wi‑Fi-, mobiili- ja Bluetooth-yhteydet on katkaistu."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Aseta myöhemmin</string>
+    <string name="deferred_welcome_airplane_mode_title">Poistetaanko lentokonetila käytöstä?</string>
+    <string name="deferred_welcome_screen_cancel_button">Muistuta myöhemmin</string>
+    <string name="deferred_welcome_title">Määritä ^1 loppuun</string>
+    <string name="deferred_welcome_turn_off_button_label">Poista käytöstä</string>
+    <string name="device_owner_continue">Jatka määritystä</string>
+    <string name="device_owner_reset">Palauta {DEVICE_TYPE,select, PHONE{puhelimen tehdasasetukset}TABLET{tabletin tehdasasetukset}other{laitteen tehdasasetukset}}</string>
+    <string name="device_owner_warning">{0} valvoo {DEVICE_TYPE,select, PHONE{puhelintasi}TABLET{tablettiasi}other{laitettasi}} ja hänellä on pääsy tietoihisi. Jos et halua, että {0} pääsee tietoihisi, palauta {DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}} tehdasasetukset.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{Puhelintasi}TABLET{Tablettiasi}other{Laitettasi}} voidaan valvoa</string>
+    <string name="dialog_back_button_label">Takaisin</string>
+    <string name="dialog_continue_button_label">Jatka</string>
+    <string name="early_update_installing_updates_text">Asennetaan päivityksiä</string>
+    <string name="early_update_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="early_update_timeout_text">Kestääkö toiminto liian kauan? Palaa takaisin ja kokeile muodostaa yhteys toiseen verkkoon.</string>
+    <string name="early_update_title">Tarkistetaan päivityksiä…</string>
+    <string name="emergency_dial">Hätäpuhelu</string>
+    <string name="enabled_a11y">Esteettömyystila käytössä.</string>
+    <string name="esim_option_button_summary">Lisää numero eSIM-kortin avulla</string>
+    <string name="esim_option_button_title">Ladataanko SIM-kortti?</string>
+    <string name="esim_warning_title">Lataa SIM-kortilta</string>
+    <string name="esim_warning_txt">Jos käytössäsi on %1$s, voit soittaa, tekstata ja käyttää dataa lataamalla eSIMin fyysisen kortin asettamisen sijaan.</string>
+    <string name="esim_warning_txt_default">Muodosta yhteys mobiiliverkkoon lataamalla tiedot, jotka löytyvät yleensä SIM-kortilta. Tämä korvaa tavalliset SIM-kortit ja on aivan yhtä turvallinen.</string>
+    <string name="exit_loading_launcher">Ladataan käynnistysohjelmaa…</string>
+    <string name="factory_reset_button">Tyhjennä ja palauta tehdasasetukset</string>
+    <string name="factory_reset_confirmation">Tyhjennetäänkö {DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}}kaikki tilit ja data? Tätä toimintoa ei voi kumota.</string>
+    <string name="factory_reset_confirmation_title">Palautetaanko tehdasasetukset?</string>
+    <string name="factory_reset_instructions">Varoitus: Kun tehdasasetukset palautetaan, {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}} menettää kaikki sisäisen tallennustilan tilit ja datan.</string>
+    <string name="factory_reset_title">Palauta {DEVICE_TYPE,select, PHONE{puhelimen tehdasasetukset}TABLET{tabletin tehdasasetukset}other{laitteen tehdasasetukset}}</string>
+    <string name="final_hold_description_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="final_hold_title">Viimeistellään…</string>
+    <string name="final_hold_title_setup_work_account">Valmistellaan työprofiilin määritystä…</string>
+    <string name="gms_account_checkin_title">Haetaan tilin tietoja…</string>
+    <string name="gms_checkin_description_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="gms_checkin_description_text_timeout">Kestääkö toiminto liian kauan? Palaa takaisin ja kokeile muodostaa yhteys toiseen verkkoon.</string>
+    <string name="gms_checkin_title">Tarkistetaan päivityksiä…</string>
+    <string name="go_back_button_label">Takaisin</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Google Playn käyttöehdot</string>
+    <string name="google_plus_privacy_policy_title">Google Plus -palvelun tietosuojakäytäntö</string>
+    <string name="google_privacy_policy_title">Googlen tietosuojakäytäntö</string>
+    <string name="google_provisioning_disclaimer_content">Googlen käyttöehtoja ja tietosuojakäytäntöä sovelletaan. Lue lisää: &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Googlen käyttöehdot</string>
+    <string name="invalid_phone_number">Tuntematon puhelinnumero</string>
+    <string name="invalid_qr_code_content">Pyydä oikea koodi järjestelmänvalvojaltasi.</string>
+    <string name="invalid_qr_code_retry">Yritä uudelleen</string>
+    <string name="invalid_qr_code_title">Väärä QR-koodi</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ja iTunes ovat Apple Inc:n Yhdysvalloissa ja muissa maissa rekisteröityjä tavaramerkkejä.</string>
+    <string name="language_picker_section_all">Kaikki kielet</string>
+    <string name="language_picker_section_suggested">Ehdotukset</string>
+    <string name="migrate_from_ios_description">Noudata näitä ohjeita:</string>
+    <string name="migrate_from_ios_header">Kopioi tietosi</string>
+    <string name="migrate_from_ios_instructions_1">1. Avaa Safari®.</string>
+    <string name="migrate_from_ios_instructions_2">2. Siirry osoitteeseen <b>android.com/switch</b>.</string>
+    <string name="migrate_from_ios_instructions_3">3. Seuraa ohjeita.</string>
+    <string name="network_description_text">Valitse verkko</string>
+    <string name="network_description_text_esim">Yhdistä Wi‑Fi-verkkoon ladataksesi SIM-kortin</string>
+    <string name="network_see_all_wifi">Näytä kaikki Wi‑Fi-verkot</string>
+    <string name="network_timeout_description_text">Yritä uudelleen toisen verkon kautta. Jos jatkat ilman verkkoyhteyttä, voit viimeistellä jotkut määritykset myöhemmin.</string>
+    <string name="network_timeout_title">Ei yhteyttä</string>
+    <string name="network_timeout_try_another_network_button">Kokeile toista verkkoa</string>
+    <string name="network_title">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="network_use_cellular">Määritä mobiiliverkon avulla</string>
+    <string name="network_use_cellular_carrier">Yhdistä Wi‑Fi-verkkoon myöhemmin</string>
+    <string name="network_wifi_continue_button">Jatka</string>
+    <string name="not_set">Ei asetettu</string>
+    <string name="notification_channel_name_deferred">Lisämääritys</string>
+    <string name="notification_channel_name_initial">Määritys</string>
+    <string name="notification_channel_name_restore">Tietojen palautus</string>
+    <string name="notification_channel_security_name_warnings">Suojausvaroitukset</string>
+    <string name="ok_button_label">OK</string>
+    <string name="ota_agreement_text">Jatkamalla ohjelmistopäivityksen lataamista hyväksyt <annotation link="tos">Googlen käyttöehdot</annotation> ja <annotation link="google_privacy">tietosuojakäytännön</annotation>.</string>
+    <string name="ota_info">{DEVICE_TYPE,select, PHONE{Puhelimesi}TABLET{Tablettisi}other{Laitteesi}} tarvitsee päivitystä ja uudelleenkäynnistystä.</string>
+    <string name="ota_size">Koko: %s</string>
+    <string name="ota_update_title">Päivitä {DEVICE_TYPE,select, PHONE{puhelimesi}TABLET{tablettisi}other{laitteesi}}</string>
+    <string name="predeferred_prepare_setup">Valmistellaan määritystä…</string>
+    <string name="predeferred_prepare_setup_details">^1 voidaan pian määrittää loppuun</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="predeferred_wifi_required_notification_content">Jatka yhdistämällä Wi-Fi-verkkoon.</string>
+    <string name="predeferred_wifi_required_notification_title">Sovelluspäivitykset ovat valmiit</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="qr_code_scan_title">Etsitään QR-koodia</string>
+    <string name="region_picker_section_all">Kaikki alueet</string>
+    <string name="restart_setup_wizard_button_label">Määritä {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Jotta voit käyttää tätä {DEVICE_TYPE,select, PHONE{puhelinta}TABLET{tablettia}other{laitetta}}, sinun täytyy kirjautua omistajan Google-tilille, joka oli käytössä {DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}} viimeisen tehdasasetusten palautuksen yhteydessä.
+
+Koska et ole tehnyt niin, {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}} täytyy määrittää uudelleen."</string>
+    <string name="restart_setup_wizard_dialog_title">Ei kirjautunut</string>
+    <string name="restore_failed_message">Palauttaminen varmuuskopiosta epäonnistui.</string>
+    <string name="restore_no_backup_message">Toisella laitteellasi ei ole käytettävissä olevia varmuuskopioita.</string>
+    <string name="restore_no_backup_title">Palauttaminen epäonnistui</string>
+    <string name="restore_stopped_message">Varmuuskopiosta palauttamisen viimeistely epäonnistui.</string>
+    <string name="restore_title">Palautetaan…</string>
+    <string name="setup_ongoing_notification_text">Napauta ja määritä ^1 loppuun</string>
+    <string name="setup_ongoing_notification_title">^1 määritetään</string>
+    <string name="setup_wizard_title">Android Setup</string>
+    <string name="sim_locked_text">"Tämä puhelin on tällä hetkellä lukittu toiselle operaattorille. Tarvitset kelvollisen SIM-kortin.
+
+SIM-kortin asettamisen jälkeen voi kestää pari sekuntia, ennen kuin se aktivoituu."</string>
+    <string name="sim_locked_title">SIM-korttia ei tueta</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Jos sinulla on SIM-kortti, laita se paikoilleen nyt.}other{Jos sinulla on SIM-kortteja, aseta ne nyt.}}</string>
+    <string name="sim_missing_title">Yhdistä mobiiliverkkoon</string>
+    <string name="sim_ready_message">Numeron %1$s pitäisi olla valmiina käyttöön</string>
+    <string name="sim_ready_message_carrier_app">Lataa %2$s ‑sovellus, jotta %1$s voidaan aktivoida loppuun. Viimeistellään sillä välin puhelimen määritys.</string>
+    <string name="sim_ready_message_invalid_phone_number">Numeron pitäisi olla käyttövalmis</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Lataa %1$s ‑sovellus, jotta numero voidaan aktivoida loppuun. Viimeistellään sillä välin puhelimen määritys.</string>
+    <string name="sim_ready_title">%1$s on aktivoitu</string>
+    <string name="sim_ready_title_carrier_app">Yhdistä %1$s myöhemmin</string>
+    <string name="sim_setup_ask_every_time">Kysy aina</string>
+    <string name="sim_setup_select_data">Mobiilidata-asetus</string>
+    <string name="sim_setup_select_data_description">Valitse numero mobiilidatan käyttöön</string>
+    <string name="sim_setup_select_text">Tekstiviestiasetus</string>
+    <string name="sim_setup_select_text_description">Valitse numero lähteville tekstiviestille (kaikki aktiiviset numerot voivat vastaanottaa saapuvia tekstiviestejä)</string>
+    <string name="sim_setup_select_voice">Puheluasetus</string>
+    <string name="sim_setup_select_voice_description">Valitse numero lähteville puheluille (kaikki aktiiviset numerot voivat vastaanottaa saapuvia puheluita)</string>
+    <string name="sim_setup_title">SIM-korttien määritys</string>
+    <string name="skip_anyway_button_label">Ohita kuitenkin</string>
+    <string name="skip_button_label">Ohita</string>
+    <string name="skip_toast">Ohjattu asetustoiminto ohitetaan</string>
+    <string name="slots_selection_item_summary_activating">Aktivoidaan…</string>
+    <string name="slots_selection_item_summary_error">Aktivointi ei onnistunut juuri nyt</string>
+    <string name="slots_selection_title">Valitse käytettävä numero</string>
+    <string name="speed_label_fast">Nopea</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Hidas</string>
+    <string name="speed_label_very_fast">Hyvin nopea</string>
+    <string name="sud_back_button_label">Takaisin</string>
+    <string name="sud_more_button_label">Lisää</string>
+    <string name="sud_next_button_label">Seuraava</string>
+    <string name="suggested_actions_description">Voit määrittää pari muuta asiaa nyt tai palata niihin myöhemmin asetuksissa.</string>
+    <string name="suggested_actions_description_single_item">^1 sisältää myös tämän määritettävän toiminnon. Voit myös palata siihen myöhemmin asetuksissa.</string>
+    <string name="suggested_actions_done_label">Valmis toistaiseksi</string>
+    <string name="suggested_actions_no_thanks_label">Ei kiitos</string>
+    <string name="suggested_actions_title">Jotain muuta?</string>
+    <string name="switch_camera">Vaihda kameraa</string>
+    <string name="switch_to_back_camera_button_content_description">Takakamera</string>
+    <string name="switch_to_front_camera_button_content_description">Etukamera</string>
+    <string name="switched_to_back_camera_announcement">Painikkeeseen on nyt määritetty etukamera.</string>
+    <string name="switched_to_front_camera_announcement">Painikkeeseen on nyt määritetty takakamera.</string>
+    <string name="tap_to_sign_up">Rekisteröidy napauttamalla</string>
+    <string name="terminate_toast">"Ohjattu asetustoiminto lopetettiin
+Laitteen asetuksia ei määritetty"</string>
+    <string name="try_again_button_label">Yritä uudelleen</string>
+    <string name="url_load_unsuccessful_message">{DEVICE_TYPE,select, PHONE{Puhelimesi}TABLET{Tablettisi}other{Laitteesi}} ei ole yhteydessä mobiilidatapalveluun. Jos haluat lukea nämä tiedot nyt, siirry verkkoselaimella osoitteeseen {0}.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Puhelimesi}TABLET{Tablettisi}other{Laitteesi}} ei ole yhteydessä Wi-Fi-verkkoon. Jos haluat lukea nämä tiedot nyt, siirry verkkoselaimella osoitteeseen {0}.</string>
+    <string name="user_warning_cannot_switch_message">Omistajakäyttäjään palaaminen ei onnistu. Yritä myöhemmin uudelleen.</string>
+    <string name="user_warning_label_continue">Jatka</string>
+    <string name="user_warning_label_quit">Peruuta</string>
+    <string name="user_warning_quit_dialog_button_keep">Säilytä käyttäjä</string>
+    <string name="user_warning_quit_dialog_button_remove">Poista käyttäjä</string>
+    <string name="user_warning_quit_dialog_message">Poistetaanko käyttäjä?</string>
+    <string name="user_warning_title">Määritä uusi käyttäjä</string>
+    <string name="wait_msg">Hetki vain...</string>
+    <string name="web_dialog_unable_to_view">Jos haluat nähdä nämä tiedot nyt, siirry verkkoselaimella osoitteeseen ^1.</string>
+    <string name="welcome_accessibility_button">Näköasetukset</string>
+    <string name="welcome_language_picker_content_description">Kieli: %s</string>
+    <string name="welcome_language_picker_dialog_title">Valitse kieli</string>
+    <string name="welcome_message">Hei</string>
+    <string name="welcome_secondary_user_added_text">Sinut on lisätty tähän {DEVICE_TYPE,select, PHONE{puhelimeen}TABLET{tablettiin}other{laitteeseen}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Tärkeää:</b>"
+
+"<ul><li> {DEVICE_TYPE,select, PHONE{Puhelimen}TABLET{Tabletin}other{Laitteen}} omistaja voi poistaa sovelluksesi ja koko käyttäjäprofiilisi.</li>"
+
+"<li>Kaikki muut käyttäjät voivat hyväksyä päivitettyjä sovellusten käyttöoikeuksia.</li>"
+
+"<li>Jaa tämä {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}} vain luotettavien henkilöiden kanssa.</li></ul></string>
+    <string name="welcome_start_button_label">Aloita</string>
+    <string name="wifi_add_new_network">Lisää uusi verkko</string>
+    <string name="wifi_and_mobile_skipped_message">"Wi-Fi- tai mobiiliverkkoon yhdistäminen auttaa sinua ottamaan {DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}} käyttöön nopeasti.
+
+Ilman yhteyttä et voi
+
+"<ul><li>kirjautua Google-tilillesi</li>"
+
+"<li>palauttaa sovelluksia tai dataa</li>"
+
+"<li>ladata ohjelmistopäivityksiä</li>"
+
+"<li>asettaa päivämäärää ja aikaa automaattisesti.</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Wi-Fi- tai mobiiliverkkoon yhdistäminen auttaa sinua ottamaan {DEVICE_TYPE,select, PHONE{puhelimen}TABLET{tabletin}other{laitteen}} nopeasti käyttöön.
+
+Ilman yhteyttä et voi
+
+"<ul><li>kirjautua Google-tilillesi</li>"
+
+"<li>palauttaa sovelluksia tai dataa</li>"
+
+"<li>ladata SIM-korttia</li>"
+
+"<li>ladata ohjelmistopäivityksiä</li>"
+
+"<li>asettaa päivämäärää ja aikaa automaattisesti.</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Yhteyspiste tilapäisesti täynnä</string>
+    <string name="wifi_check_password_try_again">Tarkista salasana ja yritä uudelleen.</string>
+    <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä</string>
+    <string name="wifi_disabled_by_recommendation_provider">Ei yhteyttä – verkko huonolaatuinen</string>
+    <string name="wifi_disabled_generic">Pois käytöstä</string>
+    <string name="wifi_disabled_network_failure">IP-kokoonpanovirhe</string>
+    <string name="wifi_disabled_password_failure">Todennusvirhe</string>
+    <string name="wifi_fail_to_scan">Verkkoja ei voi etsiä.</string>
+    <string name="wifi_ip_address_not_available">Ei käytettävissä</string>
+    <string name="wifi_ip_address_title">IP-osoite</string>
+    <string name="wifi_limited_connection">Rajallinen yhteys</string>
+    <string name="wifi_mac_address_not_available">Ei käytettävissä</string>
+    <string name="wifi_mac_address_title">MAC-osoite</string>
+    <string name="wifi_metered_label">Maksullinen</string>
+    <string name="wifi_no_internet">Ei internetyhteyttä</string>
+    <string name="wifi_no_internet_no_reconnect">Yhteyttä ei muodosteta automaattisesti</string>
+    <string name="wifi_not_in_range">Ei kantoalueella</string>
+    <string name="wifi_remembered">Tallennettu</string>
+    <string name="wifi_scanning">Haetaan Wi-Fi-verkkoja…</string>
+    <string name="wifi_set_up_offline_title">Otetaanko käyttöön offline-tilassa?</string>
+    <string name="wifi_skip_button_label">Tee offline-tilassa</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Puhelimesi}TABLET{Tablettisi}other{Laitteesi}} käyttää mobiiliverkkoa määrityksen aikana, joten sinua saatetaan laskuttaa datan käytöstä. Vältä maksut muodostamalla yhteys Wi-Fi-verkkoon.</string>
+    <string name="wifi_skipped_title">Sinua voidaan laskuttaa datan käytöstä</string>
+    <string name="wifi_title">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="wifi_unmetered_label">Maksuton</string>
+    <string name="work_profile_setup_description">Määritä laite työkäyttöön ja pidä työdata erillään yksityisdatasta</string>
+    <string name="work_profile_setup_next">Seuraava</string>
+    <string name="work_profile_setup_skip">Ohita työmääritys</string>
+    <string name="work_profile_setup_title">Lisää työtili</string>
+    <string name="work_setup_interrupted">"Havaitsimme epätavallista toimintaa tällä {DEVICE_TYPE,select, PHONE{puhelimella}TABLET{tabletilla}other{laitteella}}, ja datasi voi vaarantua, jos jatkat määritystä.
+
+Jos haluat aloittaa alusta, resetoi {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}}."</string>
+    <string name="work_setup_interrupted_title">Tämä {DEVICE_TYPE,select, PHONE{puhelin}TABLET{tabletti}other{laite}} voi olla vaarantunut</string>
+</resources>

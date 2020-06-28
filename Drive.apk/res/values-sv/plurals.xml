@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">Visar %1$d objekt.</item>
+        <item quantity="one">Visar %1$d objekt.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">%1$d kommentar</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">Åtgärder: %1$d att följa upp</item>
+        <item quantity="one">Åtgärder: %1$d att följa upp</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">Objekten har raderats permanent</item>
+        <item quantity="one">Objektet har raderats permanent</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s är inte giltiga e-postadresser.</item>
+        <item quantity="one">%s är inte en giltig e-postadress.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Om du lägger till de här filerna delas de med alla som har åtkomst till den delade mappen %1$s</item>
+        <item quantity="one">Om du lägger till den här filen delas den med alla som har åtkomst till den delade mappen %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Om du lägger till de här mapparna delas de med alla som har åtkomst till den delade mappen %1$s</item>
+        <item quantity="one">Om du lägger till den här mappen delas den med alla som har åtkomst till den delade mappen %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Vill du dela de här filerna?</item>
+        <item quantity="one">Vill du dela den här filen?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Vill du dela de här mapparna?</item>
+        <item quantity="one">Vill du dela den här mappen?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d mappar har uppdaterats. Färgen är inställd på %2$s.</item>
+        <item quantity="one">%1$d mapp har uppdaterats. Färgen är inställd på %2$s.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">Använd filter:</item>
+        <item quantity="one">Använd filter:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Löper ut om %1$d dagar</item>
+        <item quantity="one">Löper ut om %1$d dag</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">Denna säkerhetskopia löper ut om %1$d dagar om enheten förblir inaktiv.</item>
+        <item quantity="one">Denna säkerhetskopia löper ut om %1$d dag om enheten förblir inaktiv.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Säkerhetskopiorna har raderats.</item>
+        <item quantity="one">Säkerhetskopian har raderats.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%1$d kolumner.</item>
+        <item quantity="one">%1$d kolumn.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%1$d låsta kolumner.</item>
+        <item quantity="one">%1$d låst kolumn.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%1$d låsta rader.</item>
+        <item quantity="one">%1$d låst rad.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%1$d rader.</item>
+        <item quantity="one">%1$d rad.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">%1$s för %2$d objekt</item>
+        <item quantity="one">%1$s för %2$d objekt</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">%1$s svar</item>
+        <item quantity="one">%1$s svar</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Det gick inte att ladda ned objekten</item>
+        <item quantity="one">Det gick inte att ladda ned objektet</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d objekt laddas ned. Mer information finns i aviseringen.</item>
+        <item quantity="one">%1$d objekt laddas ned. Mer information finns i aviseringen.</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">%1$d objekt laddas ned.</item>
+        <item quantity="one">%1$d objekt laddas ned.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s och %2$d objekt till</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Det gick inte att ladda ned %1$s objekt</item>
+        <item quantity="one">Det gick inte att ladda ned %1$s objekt</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d objekt till</item>
+        <item quantity="one">%1$d objekt till</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d av %2$d nedladdningar misslyckades</item>
+        <item quantity="one">%1$d av %2$d nedladdning misslyckades</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">Ett fel uppstod när filerna skulle flyttas.</item>
+        <item quantity="one">Ett fel uppstod när filen skulle flyttas.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">%d gäster</item>
+        <item quantity="one">%d gäst</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">%2$d genvägar har lagts till i ”%1$s”</item>
+        <item quantity="one">En genväg har lagts till i ”%1$s”</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">Det går inte att lägga till genvägar. Försök igen</item>
+        <item quantity="one">Det går inte att lägga till genvägen. Försök igen</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">Medlemmar i %1$s förlorar åtkomst om inte objekten delas med dem. Medlemmar i %2$s får tillgång till de här objekten.</item>
+        <item quantity="one">Medlemmar i %1$s förlorar åtkomst om objektet inte delas med dem. Medlemmar i %2$s får tillgång till det här objektet.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">Medlemmar i %1$s förlorar åtkomst om inte objekten delas med dem. Medlemmar i %2$s får tillgång till de här objekten. Du har bara behörighet att lägga till och redigera artiklar i %3$s. Därför kan du inte ångra den här åtgärden.</item>
+        <item quantity="one">Medlemmar i %1$s förlorar åtkomst om objektet inte delas med dem. Medlemmar i %2$s får tillgång till det här objektet. Du har bara behörighet att lägga till och redigera artiklar i %3$s. Därför kan du inte ångra den här åtgärden.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">En del av filerna som flyttas till %1$s har utlöst DLP-identifieringar. Det kan finnas känslig information i dessa filer.</item>
+        <item quantity="one">Filen som flyttas till %1$s har utlöst DLP-identifieringar. Det kan finnas känslig information i den här filen.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">Medlemmar i %1$s förlorar åtkomst om inte objekten delas med dem.</item>
+        <item quantity="one">Medlemmar i %1$s förlorar åtkomst om objektet inte delas med dem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">Om de här objekten flyttas så delas de med alla som ser den delade mappen %1$s. Medlemmar i %2$s förlorar åtkomst om inte objekten delas med dem.</item>
+        <item quantity="one">Om det här objektet flyttas så delas det med alla som ser den delade mappen %1$s. Medlemmar i %2$s förlorar åtkomst om objektet inte delas med dem.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Du flyttar vissa objekt från delade mappar. Det betyder att andra kommer att förlora tillgång till de här objekten.</item>
+        <item quantity="one">Du flyttar ett objekt från en delad mapp och därför förlorar personer åtkomst till det här objektet.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">Ytterligare begränsningar tas bort från dessa objekt.</item>
+        <item quantity="one">Ytterligare begränsningar tas bort från detta objekt.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Flyttas filerna delas de med alla som har åtkomst till den delade mappen %1$s</item>
+        <item quantity="one">Flyttas den här filen delas den med alla som har åtkomst till den delade mappen %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Flyttas mapparna delas de med alla som har åtkomst till den delade mappen %1$s</item>
+        <item quantity="one">Flyttas den här mappen delas den med alla som har åtkomst till den delade mappen %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Vill du dela de här filerna?</item>
+        <item quantity="one">Vill du dela den här filen?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Vill du dela de här mapparna?</item>
+        <item quantity="one">Vill du dela den här mappen?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">Du har inte behörighet att flytta vissa objekt från den delade enhet där de finns.</item>
+        <item quantity="one">Du har inte behörighet att flytta filer från denna delade enhet.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Du har inte behörighet att flytta vissa objekt från mapparna de ligger i.</item>
+        <item quantity="one">Du har inte behörighet att flytta det här objektet från mappen det ligger i.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">Du kan inte flytta filerna eftersom ägaren inte tillhör %1$s.</item>
+        <item quantity="one">Du kan inte flytta filen eftersom ägaren inte tillhör %1$s.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s %2$s har nu åtkomst till dem.</item>
+        <item quantity="one">%1$s%2$s har nu åtkomst.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">%1$d objekt flyttades till den delade enheten. Medlemmar har åtkomst.</item>
+        <item quantity="one">1 objekt flyttades till den delade enheten. Medlemmar har åtkomst.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">%1$d objekt har flyttats från den delade enheten. Ingen medlemsåtkomst.</item>
+        <item quantity="one">%1$d objekt har flyttats från den delade enheten. Ingen medlemsåtkomst.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">%1$d objekt</item>
+        <item quantity="one">%1$d objekt</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">%1$d godkännare</item>
+        <item quantity="one">1 godkännare</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s åtgärder</item>
+        <item quantity="one">%1$s åtgärd</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s obesvarade omnämnanden</item>
+        <item quantity="one">%1$s obesvarat omnämnande</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s förslag</item>
+        <item quantity="one">%1$s förslag</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s att göra</item>
+        <item quantity="one">%1$s att göra</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">Objekten har raderats permanent</item>
+        <item quantity="one">Objektet har raderats permanent</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d av %2$s finns nu tillgängliga offline.</item>
+        <item quantity="one">%1$d av %2$s finns nu tillgänglig offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Alla %1$d filer finns nu tillgängliga offline.</item>
+        <item quantity="one">%1$d fil är nu tillgänglig offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">Det gick inte att göra filerna tillgängliga offline</item>
+        <item quantity="one">Det gick inte att göra filen tillgänglig offline</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Gör %1$d filer tillgängliga offline.</item>
+        <item quantity="one">Gör %1$d fil tillgänglig offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d filer</item>
+        <item quantity="one">%1$d fil</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">Nedladdningar pausade, väntar på nätverk …</item>
+        <item quantity="one">Nedladdning pausad, väntar på nätverk ...</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d nedladdningar har pausats.</item>
+        <item quantity="one">%1$d nedladdning har pausats.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">Nedladdningar pausade, väntar på Wi-Fi …</item>
+        <item quantity="one">Nedladdning pausad, väntar på Wi-Fi ...</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d objekt flyttas till papperskorgen. Det här tar även bort dem från Google Foto.</item>
+        <item quantity="one">Ett objekt flyttas till papperskorgen. Det här tar även bort det från Google Foto.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">%1$d objekt flyttas till papperskorgen.</item>
+        <item quantity="one">Ett objekt flyttas till papperskorgen.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s uppföljningsobjekt</item>
+        <item quantity="one">%1$s uppföljningsobjekt</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s uppföljningsobjekt</item>
+        <item quantity="one">%1$s uppföljningsobjekt</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">Uppföljning</item>
+        <item quantity="one">Uppföljning</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Kommenterade %1$d filer</item>
+        <item quantity="one">Kommenterade en fil</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Kommenterade %1$d filer</item>
+        <item quantity="one">Kommenterade en fil</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Kommenterade den här filen</item>
+        <item quantity="one">Kommenterade den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Skapade %1$d objekt</item>
+        <item quantity="one">Skapade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Skapade %1$d objekt</item>
+        <item quantity="one">Skapade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Skapade den här filen</item>
+        <item quantity="one">Skapade den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Skapade den här mappen</item>
+        <item quantity="one">Skapade den här mappen</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Redigerade %1$d objekt</item>
+        <item quantity="one">Redigerade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Redigerade %1$d objekt</item>
+        <item quantity="one">Redigerade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Redigerade den här filen</item>
+        <item quantity="one">Redigerade den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Tog bort %1$d objekt permanent</item>
+        <item quantity="one">Tog bort ett objekt permanent</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Flyttade %1$d objekt till:</item>
+        <item quantity="one">Flyttade ett objekt till:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Flyttade %1$d objekt till:</item>
+        <item quantity="one">Flyttade ett objekt till:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Flyttade %1$d objekt</item>
+        <item quantity="one">Flyttade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Flyttade %1$d objekt</item>
+        <item quantity="one">Flyttade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Flyttade den här filen</item>
+        <item quantity="one">Flyttade den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Flyttade den här filen till:</item>
+        <item quantity="one">Flyttade den här filen till:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Flyttade den här mappen</item>
+        <item quantity="one">Flyttade den här mappen</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Flyttade den här mappen till:</item>
+        <item quantity="one">Flyttade den här mappen till:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Bytte namn på %1$d objekt</item>
+        <item quantity="one">Bytte namn på ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Bytte namn på %1$d objekt</item>
+        <item quantity="one">Bytte namn på ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Ändrade namn på den här filen</item>
+        <item quantity="one">Ändrade namn på den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Ändrade namn på den här mappen</item>
+        <item quantity="one">Ändrade namn på den här mappen</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Delade %1$d objekt</item>
+        <item quantity="one">Delade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Delade %1$d objekt</item>
+        <item quantity="one">Delade ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Delade den här filen</item>
+        <item quantity="one">Delade den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Delade den här mappen</item>
+        <item quantity="one">Delade den här mappen</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Flyttade %1$d objekt till papperskorgen</item>
+        <item quantity="one">Flyttade ett objekt till papperskorgen</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Flyttade %1$d objekt till papperskorgen</item>
+        <item quantity="one">Flyttade ett objekt till papperskorgen</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Tog bort den här filen</item>
+        <item quantity="one">Tog bort den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Tog bort den här mappen</item>
+        <item quantity="one">Tog bort den här mappen</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Laddade upp %1$d objekt</item>
+        <item quantity="one">Laddade upp ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Laddade upp %1$d objekt</item>
+        <item quantity="one">Laddade upp ett objekt</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Laddade upp den här filen</item>
+        <item quantity="one">Laddade upp den här filen</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Laddade upp den här mappen</item>
+        <item quantity="one">Laddade upp den här mappen</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d filer flyttas till skräpposten för %2$s och raderas permanent efter 30 dagar.</item>
+        <item quantity="one">Den här filen flyttas till papperskorgen för %2$s och raderas permanent efter 30 dagar</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d mappar flyttas till papperskorgen för %2$s och raderas permanent efter 30 dagar.</item>
+        <item quantity="one">Mappen flyttas till papperskorgen för %2$s och raderas permanent efter 30 dagar</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d objekt flyttas till papperskorgen för %2$s och raderas permanent efter 30 dagar</item>
+        <item quantity="one">Objektet flyttas till papperskorgen för %2$s och raderas permanent efter 30 dagar</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">De här %1$d filerna &lt;b>raderas permanent för alla.&lt;/b> Det går inte att ångra den här åtgärden.</item>
+        <item quantity="one">Filen &lt;b>raderas permanent för alla.&lt;/b> Åtgärden går inte att ångra.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">De här %1$d filerna raderas permanent. Du kan inte ångra den här åtgärden.</item>
+        <item quantity="one">Filen raderas permanent. Du kan inte ångra den här åtgärden.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d objekt</item>
+        <item quantity="one">%1$d objekt</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d objekt markerade</item>
+        <item quantity="one">%1$d objekt markerat</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d objekt avmarkerade</item>
+        <item quantity="one">%1$d objekt avmarkerat</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Filerna görs tillgängliga offline</item>
+        <item quantity="one">Filen görs tillgänglig offline</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d objekt stjärnmärkta</item>
+        <item quantity="one">Ett objekt stjärnmärkt</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Filer kommer inte längre att vara tillgängliga offline</item>
+        <item quantity="one">Filen kommer inte längre att vara tillgänglig offline</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d objekt ej stjärnmärkta</item>
+        <item quantity="one">Ett objekt ej stjärnmärkt</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d objekt har återställts</item>
+        <item quantity="one">1 objekt har återställts</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d objekt har återställts</item>
+        <item quantity="one">1 objekt har återställts</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d objekt har tagits bort från %2$s</item>
+        <item quantity="one">Ett objekt har tagits bort från %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d objekt har tagits bort från mappen</item>
+        <item quantity="one">Ett objekt har tagits bort från mappen</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d objekt har tagits bort</item>
+        <item quantity="one">Ett objekt har tagits bort</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d objekt har flyttats tillbaka</item>
+        <item quantity="one">Ett objekt har flyttats tillbaka</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d objekt har flyttats tillbaka till papperskorgen</item>
+        <item quantity="one">Ett objekt har flyttats tillbaka till papperskorgen</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d objekt har tagits bort</item>
+        <item quantity="one">Ett objekt har tagits bort</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d objekt har lagts till i %2$s</item>
+        <item quantity="one">Ett objekt har lagts till i %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d objekt har lagts till</item>
+        <item quantity="one">Ett objekt har lagts till</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d objekt har återställts och lagts till i %2$s</item>
+        <item quantity="one">Ett objekt har återställts och lagts till i %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d objekt har flyttats till %2$s.</item>
+        <item quantity="one">Ett objekt har flyttats till %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d objekt har flyttats</item>
+        <item quantity="one">Ett objekt har flyttats</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d objekt har återställts och flyttats till %2$s.</item>
+        <item quantity="one">Ett objekt har återställts och flyttats till %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d objekt har återställts</item>
+        <item quantity="one">1 objekt har återställts</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d objekt har återställts till %2$s.</item>
+        <item quantity="one">Ett objekt har återställts till %2$s.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Skicka filer med</item>
+        <item quantity="one">Skicka fil med</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d personer har nu åtkomst</item>
+        <item quantity="one">En person har nu åtkomst</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s och %2$d andra har nu åtkomst</item>
+        <item quantity="one">%1$s och ytterligare en person har nu åtkomst</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d personer kan nu lägga till kommentarer</item>
+        <item quantity="one">En person kan nu lägga till kommentarer</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s och %2$d andra kan nu lägga till kommentarer</item>
+        <item quantity="one">%1$s och en person till kan nu lägga till kommentarer</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d personer kan nu redigera</item>
+        <item quantity="one">En person kan nu redigera</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s och %2$d andra kan nu redigera</item>
+        <item quantity="one">%1$s och ytterligare en person kan nu redigera</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d personer har nu visningsbehörighet</item>
+        <item quantity="one">En person har nu visningsbehörighet</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s och %2$d andra har nu visningsbehörighet</item>
+        <item quantity="one">%1$s och ytterligare en person har nu visningsbehörighet</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Lagringsutrymmet på Drive löper ut om %1$d dagar</item>
+        <item quantity="one">Lagringsutrymmet på Drive löper ut om %1$d dagar</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">%1$d personer har lagts till på den delade enheten</item>
+        <item quantity="one">En person har lagts till på den delade enheten</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s och %3$d andra har lagts till i %1$s</item>
+        <item quantity="one">%2$s och ytterligare en person har lagts till i %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d medlemmar</item>
+        <item quantity="one">1 medlem</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Återuppta alla nu</item>
+        <item quantity="one">Återuppta nu</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Uppladdningen av %1$d filer avbröts.</item>
+        <item quantity="one">Uppladdningen av %1$d fil avbröts.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Det gick inte att schemalägga %1$d filer för uppladdning.</item>
+        <item quantity="one">Det gick inte att schemalägga %1$d fil för uppladdning.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d filer uppladdade.</item>
+        <item quantity="one">%1$d fil uppladdad.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Det går inte att ladda upp %1$d av %2$d filer.</item>
+        <item quantity="one">Det går inte att ladda upp %1$d av %2$d fil.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Laddar upp %1$d filer.</item>
+        <item quantity="one">Laddar upp %1$d fil.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">Uppladdningar pausade, väntar på nätverk ...</item>
+        <item quantity="one">Uppladdning pausad, väntar på nätverk ...</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d uppladdningar pausade.</item>
+        <item quantity="one">%1$d uppladdning pausad.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">Uppladdningar pausade, väntar på Wi-Fi ...</item>
+        <item quantity="one">Uppladdningen har pausats, väntar på Wi-Fi ...</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Förbereder %1$d filer för uppladdning.</item>
+        <item quantity="one">Förbereder %1$d fil för uppladdning.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d filer laddas upp till: %2$s</item>
+        <item quantity="one">%1$d fil laddas upp till: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">Visa %1$d filer</item>
+        <item quantity="one">Visa %1$d fil</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">Visa alla %1$d filer i %2$s</item>
+        <item quantity="one">Visa %1$d fil i %2$s</item>
+    </plurals>
+</resources>

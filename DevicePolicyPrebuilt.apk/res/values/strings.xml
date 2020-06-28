@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="account_already_present">This account already exists on your device</string>
+    <string name="action_tap_to_configure_accessibility_services">"Your IT admin doesn't allow at least one of your device's accessibility services. Once the service is disabled, it can't be used again."</string>
+    <string name="action_tap_to_configure_input_methods">"Your IT admin doesn't allow at least one of your device's keyboards. Once the keyboard is disabled, it can't be used again."</string>
+    <string name="action_tap_to_go_to_app_usage_permission_settings">The Device Policy app needs permission to access your device</string>
+    <string name="action_tap_to_set_password">Choose a password, PIN or pattern</string>
+    <string name="action_tap_to_set_password_device">Choose a password, PIN or pattern for device</string>
+    <string name="action_tap_to_set_password_profile">Choose a password, PIN or pattern for profile</string>
+    <string name="action_touch_to_view_details">Tap to view details</string>
+    <string name="activating_reset_password_token_error">Error activating reset password token</string>
+    <string name="add_account_error">Please add a valid personal account</string>
+    <string name="add_account_failure">Failed to add account</string>
+    <string name="add_account_later">Add personal account later</string>
+    <string name="add_personal_account_description">To separate work data from personal</string>
+    <string name="add_personal_account_item_desc">"This phone isn't private. Your IT admin may be able to see your activity and data."</string>
+    <string name="add_personal_account_item_title">Add a personal account</string>
+    <string name="add_personal_account_title">Add your personal account</string>
+    <string name="add_wifi_manually">Add Network</string>
+    <string name="already_enabled_debug_items">Already enabled debug items</string>
+    <string name="app_crash_desc">Try restarting your device, or contact your IT admin for help</string>
+    <string name="app_crash_title">"App isn't working"</string>
+    <string name="app_install_button">Install</string>
+    <string name="app_install_expanded_desc">Access your work apps at any time</string>
+    <string name="app_install_failed_desc">Failed to install %1$s. %2$s</string>
+    <string name="app_install_failed_single_app_desc">"Set-up can't be completed as %1$s is a required app. Please contact your system administrator directly."</string>
+    <string name="app_install_failure_no_license_remaining">No more license for app exists.</string>
+    <string name="app_install_failure_not_compatible">App is not compatible with this device.</string>
+    <string name="app_install_failure_not_enrolled">Device is not enrolled.</string>
+    <string name="app_install_failure_not_found">App was not found.</string>
+    <string name="app_install_failure_permissions_not_accepted">Pending action from your admin.</string>
+    <string name="app_install_failure_timeout">Timed out waiting for app to install.</string>
+    <string name="app_install_failure_transient_error">Transient error installing app</string>
+    <string name="app_install_failure_unavailable_country">App is unavailable in your country.</string>
+    <string name="app_install_failure_unknown">"Contact your organization's admin."</string>
+    <string name="app_install_title">Install work apps</string>
+    <string name="app_installed_block_warning_do">"If %1$s isn't uninstalled, your apps will be blocked"</string>
+    <string name="app_installed_block_warning_po">"If %1$s isn't uninstalled, your work apps will be blocked"</string>
+    <string name="app_installed_incompliant_title">Uninstall %1$s</string>
+    <string name="app_installed_wipe_warning_do">"If %1$s isn't uninstalled, this phone will be erased"</string>
+    <string name="app_installed_wipe_warning_po">"If %1$s isn't uninstalled, your work profile will be removed"</string>
+    <string name="app_not_updated_block_warning_do">"If %1$s isn't updated, your apps will be blocked"</string>
+    <string name="app_not_updated_block_warning_po">"If %1$s isn't updated, your work apps will be blocked"</string>
+    <string name="app_not_updated_button">Open Play Store</string>
+    <string name="app_not_updated_incompliant_title">Update %1$s</string>
+    <string name="app_not_updated_wipe_warning_do">"If %1$s isn't updated, this phone will be erased"</string>
+    <string name="app_not_updated_wipe_warning_po">"If %1$s isn't updated, your work profile will be removed"</string>
+    <string name="app_usage">App Usage</string>
+    <string name="apps_tutorial_details">Browse the managed Google Play Store for approved work apps</string>
+    <string name="apps_tutorial_title">Find apps for work</string>
+    <string name="await_apps_install_additional_apps">Additional apps (%1$d)</string>
+    <string name="await_apps_install_header_collapse_description">Hide list of additional apps installed</string>
+    <string name="await_apps_install_header_expand_description">Show list of additional apps installed</string>
+    <string name="await_apps_install_icon_done_description">App installed</string>
+    <string name="await_apps_install_icon_error_description">App install failed</string>
+    <string name="await_apps_install_icon_waiting_description">Waiting to install app…</string>
+    <string name="await_apps_install_next">Next</string>
+    <string name="await_apps_install_required_apps">Required apps (%1$d)</string>
+    <string name="await_apps_install_screen_title">Installing work apps…</string>
+    <string name="badged_apps_details">Each work app has a badge and can be moved to your Home screen for easier access</string>
+    <string name="badged_apps_title">Access your work apps</string>
+    <string name="button_feedback">Help &amp; feedback</string>
+    <string name="camera_failed_message">Cannot connect to camera, switching to text input.</string>
+    <string name="camera_failed_title">Camera error</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_setup">Cancel setup</string>
+    <string name="cancel_setup_dialog_text">Cancel setup?</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_enrollment_token_title">Checking code…</string>
+    <string name="choose_wifi_connection">Choose WiFi Network</string>
+    <string name="clear_data">Clear data</string>
+    <string name="clear_reset_password_token">Clear reset password token</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="close">Close</string>
+    <string name="cloud_dpc_app_name">Device Policy</string>
+    <string name="cloud_dpc_app_usage_name">CloudDPC App Usage</string>
+    <string name="cloud_dpc_debug_name">CloudDPC Debug</string>
+    <string name="cloud_dpc_long_app_name">Android Device Policy</string>
+    <string name="collect_status">Collect status</string>
+    <string name="commit_phenotype_flags">Commit Flags</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="confirm_credentials_description">Please confirm credentials to activate remote password reset</string>
+    <string name="confirm_credentials_title">Please confirm credentials</string>
+    <string name="contact_admin_desc">If you have any questions, contact your IT admin</string>
+    <string name="content_description_launch_screen_icon">Launch screen icon</string>
+    <string name="copy">Copy</string>
+    <string name="could_not_create_new_enrollment_token">Enrollment token could not be created.</string>
+    <string name="create_ephemeral_user">Create ephemeral user</string>
+    <string name="create_persistent_user">Create persistent user</string>
+    <string name="cts_profile_match_condition_failed">Your device can not be managed</string>
+    <string name="default_sync_time">Not synced</string>
+    <string name="device_admin_installing_tutorial_details">You can keep using your device during setup</string>
+    <string name="device_admin_installing_tutorial_title">Setting up your device…</string>
+    <string name="device_admin_managed">This device is administered by %s.</string>
+    <string name="device_admin_setup_done">You can now access managed Google Play.</string>
+    <string name="device_admin_setup_failed_content">Tap to unset device admin</string>
+    <string name="device_admin_setup_failed_title">Device admin setup failed. Please try again.</string>
+    <string name="device_admin_setup_in_progress">Updating settings</string>
+    <string name="device_incompliant_device_disabled_title">This device is disabled</string>
+    <string name="device_incompliant_title">Action required</string>
+    <string name="device_information_android_build_number">Android build number</string>
+    <string name="device_information_android_build_time">Android build time</string>
+    <string name="device_information_android_build_type">Android build type</string>
+    <string name="device_information_android_version">Android version</string>
+    <string name="device_information_bootloader_version">Bootloader version</string>
+    <string name="device_information_brand">Brand</string>
+    <string name="device_information_build_user">Build user</string>
+    <string name="device_information_clouddpc_version_code">%s version code</string>
+    <string name="device_information_clouddpc_version_name">%s version name</string>
+    <string name="device_information_device_baseband_version">Device baseband version</string>
+    <string name="device_information_device_kernel_version">Device kernel version</string>
+    <string name="device_information_hardware">Hardware</string>
+    <string name="device_information_manufacturer">Manufacturer</string>
+    <string name="device_information_model">Model</string>
+    <string name="device_information_security_patch_level">Security patch level</string>
+    <string name="device_information_serial_number">Serial number</string>
+    <string name="device_managed">This device is managed by %s.</string>
+    <string name="device_not_supported_message">Your system cannot be managed by this app. Please contact your administrator.</string>
+    <string name="device_owner_reset_device_title">"Can't set up device"</string>
+    <string name="device_quota_exceeded_error_message_device_owner">"Since your organization reached its usage limits, this device can't be set up.
+
+For help with setup, contact your IT admin."</string>
+    <string name="device_quota_exceeded_error_message_profile_owner">"Since your organization reached its usage limits, your work profile can't be set up.
+
+For help with setup, contact your IT admin."</string>
+    <string name="device_unmanaged">This device is not managed.</string>
+    <string name="dialog_header">&lt;font color=#8A8A8A>&lt;xliff:g id=dialog_text example=Installed:>%s&lt;/xliff:g>&lt;/font></string>
+    <string name="dialog_header_apps_disabled">Disabled:</string>
+    <string name="dialog_header_apps_installed">Installed:</string>
+    <string name="dialog_header_onc">Preconfigured Wifi networks</string>
+    <string name="dialog_title_applications">Apps available</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="do_selection_button_text">Use for work only</string>
+    <string name="do_selection_detailed_text"><li>This phone will be managed by your IT admin</li>"
+
+ "<li>"Your data won't be private and can be erased at any time"</li></string>
+    <string name="do_selection_subtitle">Work</string>
+    <string name="done">Done</string>
+    <string name="done_button">Done</string>
+    <string name="done_title_do">Your work phone is ready</string>
+    <string name="done_title_po">Your work profile is ready</string>
+    <string name="dont_have_a_code">"Don't have a code?"</string>
+    <string name="download_qr_dependencies_failed_content">Type the code instead</string>
+    <string name="download_qr_dependencies_failed_title">Can’t download QR scanner</string>
+    <string name="education_subtext_2">"Your IT admin may be able to see your data and activity on this phone, including personal data.
+
+To learn more, contact your IT admin."</string>
+    <string name="education_subtext_3">Only the data in your work profile will be visible to your IT admin, but you may have less access to work apps.</string>
+    <string name="education_title_1">Keep your work apps at your fingertips</string>
+    <string name="education_title_2">"This phone isn't private"</string>
+    <string name="education_title_3">Reset your phone to add a work profile</string>
+    <string name="enabled_debug_items">Enabled debug items</string>
+    <string name="encryption_block_warning_do">"If encryption isn't turned on, your apps will be blocked"</string>
+    <string name="encryption_block_warning_po">"If encryption isn't turned on, your work apps will be blocked"</string>
+    <string name="encryption_incompliant_title">Turn on encryption</string>
+    <string name="encryption_sufficient">Encryption is already set up</string>
+    <string name="encryption_wipe_warning_do">"If encryption isn't turned on, this phone will be erased"</string>
+    <string name="encryption_wipe_warning_po">"If encryption isn't turned on, your work profile will be removed"</string>
+    <string name="end_session_label">End session</string>
+    <string name="ending_user_session">Ending session…</string>
+    <string name="enrollment_token">Code</string>
+    <string name="enrollment_token_invalid">Invalid code</string>
+    <string name="enrollment_token_invalid_characters">Code must be letters only</string>
+    <string name="enrollment_token_invalid_details">The code you have provided isn’t valid. Please try again, or contact your organization’s admin.</string>
+    <string name="enrollment_token_invalid_length_signin_et_supported">Code must be 8 or 20 letters</string>
+    <string name="ensure_working_environment_manual_update">Please update Google Play services.</string>
+    <string name="enter_code">Enter code</string>
+    <string name="enter_password">Enter password to reset device</string>
+    <string name="enterprise_name_placeholder">your organization</string>
+    <string name="enterprise_not_enrolled_error_message">"To finish setup, enable ‘AndroidDevicePolicy’ for your organization.
+
+For more details, visit goo.gl/nphQZ6."</string>
+    <string name="ephemeral_screensaver_welcome">Welcome to %s</string>
+    <string name="ephemeral_setup_in_progress">Starting new session…</string>
+    <string name="ephemeral_user_splash_label">Ephemeral user splash activity</string>
+    <string name="event_account_reauth_required">Account reauth required received.</string>
+    <string name="event_bad_device_management">Bad device management received.</string>
+    <string name="event_checkin_complete">Checkin complete received.</string>
+    <string name="event_compliance_report_failed">Could not report compliance.</string>
+    <string name="event_compliance_report_sent">Compliance reported.</string>
+    <string name="event_connected_network">Connected to network.</string>
+    <string name="event_connecting_network">Connecting to network.</string>
+    <string name="event_details">Details</string>
+    <string name="event_device_booted">Device booted.</string>
+    <string name="event_device_status_report_failed">Could not report device status.</string>
+    <string name="event_device_status_report_sent">Device status reported.</string>
+    <string name="event_escape_hatch_alert_dialog_dismiss">No network dialog dismissed.</string>
+    <string name="event_escape_hatch_alert_dialog_shown">Confirm no network shown.</string>
+    <string name="event_first_party_sync_triggered">Google Apps sync triggered.</string>
+    <string name="event_help_and_feedback_shown">Help and feedback is shown.</string>
+    <string name="event_logs">Event logs</string>
+    <string name="event_non_compliance_report">Non-compliance reported.</string>
+    <string name="event_non_compliance_ui_shown">Non-compliance UI shown.</string>
+    <string name="event_policy_application_failed">Failed to apply policy.</string>
+    <string name="event_policy_pull_failed">Failed to pull policy.</string>
+    <string name="event_policy_pulled">Policy pulled.</string>
+    <string name="event_policy_reapplied">Policy reapplied.</string>
+    <string name="event_received_keyed_app_states">Received keyed app states.</string>
+    <string name="event_removing_temp_network">Removed temporary network.</string>
+    <string name="event_setup_completed">Setup completed.</string>
+    <string name="event_setup_failed">Setup failed.</string>
+    <string name="event_setup_step_complete">Setup step complete.</string>
+    <string name="event_setup_step_started">Setup step started.</string>
+    <string name="event_start_kiosk_app">Starting kiosk app.</string>
+    <string name="event_start_kiosk_app_failed">Failed to start kiosk app.</string>
+    <string name="event_starting_incompliance_flow">Starting non-compliance flow.</string>
+    <string name="event_starting_laser_flow">Starting laser flow.</string>
+    <string name="event_stopping_incompliance_flow">Stopping non-compliance flow.</string>
+    <string name="event_third_party_signin_browser_started">Third party sign-in external browser is started.</string>
+    <string name="event_third_party_signin_browsers">Third party sign-in - browsers detected.</string>
+    <string name="event_third_party_signin_custom_tab_started">Third party sign-in custom tab started.</string>
+    <string name="event_third_party_signin_enrollment_token_received">Third party sign-in enrollment token is received.</string>
+    <string name="event_third_party_signin_flow_started">Third party sign-in flow started.</string>
+    <string name="event_third_party_signin_invalid_token_received">Third party sign-in invalid token is received.</string>
+    <string name="event_third_party_signin_opened_in_browser">Third party sign-in user clicked open in browser.</string>
+    <string name="event_third_party_signin_redirect_received">Third party sign-in redirect is received.</string>
+    <string name="event_third_party_signin_user_clicked_back">Third party sign-in user clicked back from browser.</string>
+    <string name="event_version_log_before_update">Version log before update.</string>
+    <string name="event_wifi_progress_dialog_hidden">Wifi progress dialog hidden</string>
+    <string name="event_wifi_progress_dialog_shown">Wifi progress dialog shown</string>
+    <string name="exit_user">Exit user</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropwdown menu</string>
+    <string name="field_required">%s is required</string>
+    <string name="finish_add_account_session">Finish add account session</string>
+    <string name="first_timestamp">"First timestamp: "</string>
+    <string name="foreground">"Total time in foreground: "</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="generic_block_warning_do">Your apps will be blocked</string>
+    <string name="generic_block_warning_po">Your work apps will be blocked</string>
+    <string name="generic_incompliant_button">Go to settings</string>
+    <string name="generic_incompliant_title">Contact your IT admin</string>
+    <string name="generic_wipe_warning_do">This phone will be erased</string>
+    <string name="generic_wipe_warning_po">Your work profile will be removed</string>
+    <string name="google_logo">Google logo</string>
+    <string name="help_and_feedback_button">Help &amp; feedback</string>
+    <string name="help_no_code_content">"Your code is either a line of text or a QR code. If you don't have a code, contact your IT admin. To get a code for a demo, visit %s."</string>
+    <string name="hfr_dialog_wipe_button_do">Reset</string>
+    <string name="hfr_dialog_wipe_button_po">Remove work profile</string>
+    <string name="hint_locale">Locale</string>
+    <string name="hint_timezone">Timezone</string>
+    <string name="indicator_page_number">Showing page %1$d of %2$d.</string>
+    <string name="input_method_block_warning_do">"If custom keyboards aren't turned off, your apps will be blocked"</string>
+    <string name="input_method_block_warning_po">"If custom keyboards aren't turned off, your work apps will be blocked"</string>
+    <string name="input_method_incompliant_button">Review keyboards</string>
+    <string name="input_method_incompliant_title">Turn off custom keyboards</string>
+    <string name="input_method_wipe_warning_do">"If custom keyboards aren't turned off, this phone will be erased"</string>
+    <string name="input_method_wipe_warning_po">"If custom keyboards aren't turned off, your work profile will be removed"</string>
+    <string name="install_app_title">Installing new app…</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="last_timestamp">"Last timestamp: "</string>
+    <string name="launch_app_default_desc">To finish setup, open the app specified by your IT admin</string>
+    <string name="launch_app_default_title">Open app from your IT admin</string>
+    <string name="launcher_label">Kiosk Launcher</string>
+    <string name="learn_more_admin_demo">Demo for IT admins</string>
+    <string name="learn_more_admin_demo_description">IT admins should use this app with %1$s. To get the code for a demo, use the %2$s.</string>
+    <string name="learn_more_clouddpc_description">%s helps your IT admin keep your work data secure. Your IT admin can use this app to manage security policies and settings on your device.</string>
+    <string name="learn_more_enroll_device">Enroll your device</string>
+    <string name="learn_more_enroll_device_description">"To use this app, enter the code provided by your IT admin. This may be a line of text or a QR code. If you don't have a code, ask your IT admin for help."</string>
+    <string name="learn_more_get_started">Get started</string>
+    <string name="locale_title">Locale</string>
+    <string name="long_test_string">"This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+This is a very long test string.
+
+
+"</string>
+    <string name="managed_device_info">Managed device info</string>
+    <string name="message_profile_setup_failed">To help us understand what went wrong, send feedback before trying again</string>
+    <string name="multi_user_checking_code">Checking code…</string>
+    <string name="multi_user_create_username">Create a username</string>
+    <string name="multi_user_create_username_description">Your username needs to be unique to this device</string>
+    <string name="multi_user_failed_to_create_user">"Couldn't create user"</string>
+    <string name="multi_user_invalid_qr_code">Invalid QR code</string>
+    <string name="multi_user_invalid_qr_code_description">Check that you have the right QR code, then try again</string>
+    <string name="multi_user_logging_in">Logging in…</string>
+    <string name="multi_user_login_header">Start a new session</string>
+    <string name="multi_user_login_label">Start new session</string>
+    <string name="multi_user_login_label_existing_users">Recent users</string>
+    <string name="multi_user_login_username_input_error_exists">This username already exists</string>
+    <string name="multi_user_login_username_input_error_required">A username is required</string>
+    <string name="multi_user_login_username_input_hint">Enter your username</string>
+    <string name="multi_user_may_take_a_while">This may take a minute or two</string>
+    <string name="multi_user_placeholder_new_user">new user</string>
+    <string name="multi_user_scan_or_enter_code">Scan or enter code</string>
+    <string name="multi_user_sign_in_with_google">Sign in with a Google Account</string>
+    <string name="multi_user_start_session">Start session</string>
+    <string name="multi_user_try_again">Try again</string>
+    <string name="network_error_alert_dialog_title">Network error</string>
+    <string name="network_error_dialog_setup_wifi">Set up WiFi</string>
+    <string name="network_error_message">Reconnect to a mobile or WI-FI network</string>
+    <string name="network_error_setup_do">You need a working internet connection to set up your device.</string>
+    <string name="network_error_setup_po">You need a working internet connection to set up your work profile.</string>
+    <string name="network_error_title">No connection</string>
+    <string name="new_enrollment_token_created">New enrollment token has been created.</string>
+    <string name="next">Next</string>
+    <string name="nfc_comment">NFC provisioning</string>
+    <string name="nfc_dialog_submit">Save</string>
+    <string name="no_active_device_admins">No active device admins!</string>
+    <string name="no_connection_dialog_message">"This device can't connect to your IT admin's preferred Wi-Fi network. You can continue without a connection, or try adding a network."</string>
+    <string name="no_connection_dialog_negative_button">Dismiss</string>
+    <string name="no_connection_dialog_positive_button">Add Network</string>
+    <string name="no_connection_dialog_title">No connection</string>
+    <string name="no_network_connection_details">Please check your internet connection and try again.</string>
+    <string name="no_network_connection_title">No network connection</string>
+    <string name="no_preferable_camera_found">No preferable camera found, switching to text input.</string>
+    <string name="non_compliance_reason_admin_type">The admin type does not support this policy</string>
+    <string name="non_compliance_reason_api_level">The current Android API version does not support this policy</string>
+    <string name="non_compliance_reason_app_not_installed">A required app has not been installed</string>
+    <string name="non_compliance_reason_invalid_value">This policy has an invalid value</string>
+    <string name="non_compliance_reason_unsupported">This policy is not supported by this version of DPC</string>
+    <string name="not_set">Not set</string>
+    <string name="notification_channel_compliance_description">Compliance-related notifications</string>
+    <string name="notification_channel_compliance_name">Compliance</string>
+    <string name="notification_channel_setup_description">Setup-related notifications</string>
+    <string name="notification_channel_setup_name">Setup</string>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="open_hfr_dialog">Open HFR dialog</string>
+    <string name="open_primes_dashboard">Open PRIMES dashboard</string>
+    <string name="overflow_policy_pull">Sync policies</string>
+    <string name="password_block_warning_do">"If a new screen lock isn't set, your apps will be blocked"</string>
+    <string name="password_block_warning_po">"If a new screen lock isn't set, your work apps will be blocked"</string>
+    <string name="password_expiring_content">Your password is about to expire, please change it.</string>
+    <string name="password_expiring_title">Your password is expiring soon</string>
+    <string name="password_incompliant_button">Set screen lock</string>
+    <string name="password_incompliant_title">Set a new screen lock</string>
+    <string name="password_required_title">Screen lock required</string>
+    <string name="password_sufficient">Password already set</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="password_unchanged">unchanged</string>
+    <string name="password_wipe_warning_do">"If a new screen lock isn't set, this phone will be erased"</string>
+    <string name="password_wipe_warning_po">"If a new screen lock isn't set, your work profile will be removed"</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pending_policy_title">"Can't finish setup"</string>
+    <string name="phenotype_flags">Phenotype Flags</string>
+    <string name="po_selection_button_text">Use for work &amp; personal</string>
+    <string name="po_selection_detailed_text"><li>Your work data will be kept in a separate profile</li>"
+
+ "<li>Your personal data stays private</li></string>
+    <string name="po_selection_subtitle">Work and Personal</string>
+    <string name="policy_error_device_owner_message">"This device can't be set up and needs to be reset.
+For help with setup, contact your IT admin."</string>
+    <string name="policy_incompliant_block_warning_do_other">Your apps will be blocked in %1$d days</string>
+    <string name="policy_incompliant_block_warning_do_today">Your apps will be blocked today</string>
+    <string name="policy_incompliant_block_warning_do_tomorrow">Your apps will be blocked tomorrow</string>
+    <string name="policy_incompliant_block_warning_po_other">Your work apps will be blocked in %1$d days</string>
+    <string name="policy_incompliant_block_warning_po_today">Your work apps will be blocked today</string>
+    <string name="policy_incompliant_block_warning_po_tomorrow">Your work apps will be blocked tomorrow</string>
+    <string name="policy_incompliant_close">Close</string>
+    <string name="policy_incompliant_contact_your_it_admin">Contact your IT admin</string>
+    <string name="policy_incompliant_error_details">Error info</string>
+    <string name="policy_incompliant_error_info">Show error info</string>
+    <string name="policy_incompliant_multiple_action_block_warning_do">"If these policies aren't updated, your apps will be blocked"</string>
+    <string name="policy_incompliant_multiple_action_block_warning_po">"If these policies aren't updated, your work apps will be blocked"</string>
+    <string name="policy_incompliant_multiple_action_do">"Fix this phone's policies"</string>
+    <string name="policy_incompliant_multiple_action_po">Fix your work policies</string>
+    <string name="policy_incompliant_multiple_action_wipe_warning_do">"If these policies aren't updated, your phone will be erased"</string>
+    <string name="policy_incompliant_multiple_action_wipe_warning_po">"If these policies aren't updated, your work profile will be removed"</string>
+    <string name="policy_incompliant_notification_content">"Your work apps have been removed. Tap to review your organization's policies."</string>
+    <string name="policy_incompliant_notification_title">Policy incompliant</string>
+    <string name="policy_incompliant_tap_to_fix">Tap to fix</string>
+    <string name="policy_incompliant_unblock_apps_do">Unblock your apps</string>
+    <string name="policy_incompliant_unblock_apps_po">Unblock your work apps</string>
+    <string name="policy_incompliant_wipe_warning_do_other">This phone will be erased in %1$d days</string>
+    <string name="policy_incompliant_wipe_warning_do_today">This phone will be erased today</string>
+    <string name="policy_incompliant_wipe_warning_do_tomorrow">This phone will be erased tomorrow</string>
+    <string name="policy_incompliant_wipe_warning_po_other">Your work profile will be removed in %1$d days</string>
+    <string name="policy_incompliant_wipe_warning_po_today">Your work profile will be removed today</string>
+    <string name="policy_incompliant_wipe_warning_po_tomorrow">Your work profile will be removed tomorrow</string>
+    <string name="policy_name">Policy name</string>
+    <string name="policy_not_supported_desc">Contact your IT admin</string>
+    <string name="policy_not_supported_title">"Work policy isn't supported"</string>
+    <string name="policy_pull_dialog_message">Policies are being pulled.</string>
+    <string name="policy_pull_dialog_title">Please wait</string>
+    <string name="policy_pull_title">Syncing policies…</string>
+    <string name="policy_sync_block_warning_do">"If policies aren't synced, your apps will be blocked"</string>
+    <string name="policy_sync_block_warning_po">"If policies aren't synced, your work apps will be blocked."</string>
+    <string name="policy_sync_condition_failed">"Your device hasn't synced in some time"</string>
+    <string name="policy_sync_incompliant_button">Go to Wi-Fi settings</string>
+    <string name="policy_sync_incompliant_title_do">"Sync this phone's policies"</string>
+    <string name="policy_sync_incompliant_title_po">Sync your work policies</string>
+    <string name="policy_sync_wipe_warning_do">"If policies aren't synced, this phone will be erased"</string>
+    <string name="policy_sync_wipe_warning_po">"If policies aren't synced, your work profile will be removed"</string>
+    <string name="policy_version">Policy version</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes_debug_activity_label">PRIMES Events</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_menu_clear_all">Clear all</string>
+    <string name="primes_menu_close">Close</string>
+    <string name="primes_menu_refresh">Refresh</string>
+    <string name="primes_option_all_events">All</string>
+    <string name="primes_version">245977962</string>
+    <string name="profile_managed">This profile is managed by %s.</string>
+    <string name="qr_dependencies_check_title">Downloading QR scanner…</string>
+    <string name="qr_dependencies_in_progress_content">Try again in a few seconds</string>
+    <string name="qr_dependencies_in_progress_title">QR scanner is downloading</string>
+    <string name="qr_enter_code_description">Enter code from your IT admin.</string>
+    <string name="qr_hint_enter_code">Code</string>
+    <string name="qr_scan_activity_title">Please point your device to the screen to capture QR code, or enter the code manually.</string>
+    <string name="qr_scan_code">Scan code</string>
+    <string name="qr_scanner_open">Open</string>
+    <string name="qr_scanner_ready">QR scanner is ready</string>
+    <string name="qr_tutorial_details">Scan or enter the code provided by your IT admin</string>
+    <string name="qr_tutorial_title">Enroll this device</string>
+    <string name="readable_action_encryption_password_required">Turn on secure start-up first, then set up encryption and a PIN, pattern, or password</string>
+    <string name="readable_action_password_required">Add a PIN, pattern, or password, and turn on secure start-up</string>
+    <string name="readable_app_usage_permission_requirements">Turn on app permission</string>
+    <string name="readable_name_accessibility_services">Disable certain accessibility services</string>
+    <string name="readable_name_add_user_disabled">Adding a user is disabled</string>
+    <string name="readable_name_adjust_volume_disabled">Audio is disabled</string>
+    <string name="readable_name_camera_disabled">Camera is disabled</string>
+    <string name="readable_name_cross_profile_copy_paste_disabled">Copying and pasting between work and personal profiles is disabled</string>
+    <string name="readable_name_debugging_features_disabled">Debugging features are disabled</string>
+    <string name="readable_name_encryption_password">Screen lock required for secure encryption</string>
+    <string name="readable_name_encryption_required_title">Turn on encryption</string>
+    <string name="readable_name_encryption_secure_start_up">This device requires secure start-up</string>
+    <string name="readable_name_encryption_unencrypted">Device encryption required</string>
+    <string name="readable_name_encryption_unencrypted_and_no_password">Security setup required</string>
+    <string name="readable_name_factory_reset_disabled">Factory resetting the device is disabled</string>
+    <string name="readable_name_input_methods">Disable certain keyboards</string>
+    <string name="readable_name_keyguard_disabled">Keyguard is disabled</string>
+    <string name="readable_name_modify_accounts_disabled">Adding and removing accounts are disabled</string>
+    <string name="readable_name_mount_physical_media_disabled">Mounting physical media is disabled</string>
+    <string name="readable_name_onc">Open network configuration</string>
+    <string name="readable_name_printing_disabled">Printing is disabled</string>
+    <string name="readable_name_remove_user_disabled">Removing a user is disabled</string>
+    <string name="readable_name_safe_boot_disabled">Safe boot is disabled</string>
+    <string name="readable_name_screen_capture_disabled">Screen capture is disabled</string>
+    <string name="readable_name_status_bar_disabled">Status bar is disabled</string>
+    <string name="reapply_all_policies">Re-apply all policies</string>
+    <string name="refresh_data">Refresh</string>
+    <string name="remote_password_reset_action">Reset device using a remote password</string>
+    <string name="remote_password_reset_title">Remote password reset required</string>
+    <string name="remove_device_owner">Remove device owner</string>
+    <string name="remove_user">Remove user</string>
+    <string name="remove_user_self">Remove user (self)</string>
+    <string name="request_enrollment_token_message">Enrollment token is being requested.</string>
+    <string name="reset_confirmation">Are you sure?</string>
+    <string name="reset_device">Reset device</string>
+    <string name="reset_device_message">Data on this device will be erased</string>
+    <string name="reset_device_title">Reset device?</string>
+    <string name="reset_message">"This will erase all data from your phone's internal storage. This action can not be undone."</string>
+    <string name="reset_password_dialog">Device reset is protected</string>
+    <string name="restore_subtext">Get your work data from an old phone</string>
+    <string name="restore_title">Restore work data</string>
+    <string name="retry">Try again</string>
+    <string name="security_check_failed_title">"This phone can't pass security checks"</string>
+    <string name="security_tutorial_details">Your work profile contains all of your work apps and is kept secure by your organization</string>
+    <string name="security_tutorial_title">Separate your work &amp; personal data</string>
+    <string name="selection_divider_text">or</string>
+    <string name="selector_title">How will you use this phone?</string>
+    <string name="set_button">Set</string>
+    <string name="setup_action_cancel_setup_message">"This device can't be set up and needs to be cancelled.
+For help with setup, contact your IT admin."</string>
+    <string name="setup_applying_policies">"Applying your organization's policies"</string>
+    <string name="setup_downloading_chrome">Downloading Chrome: %1$d%%</string>
+    <string name="setup_downloading_play_service">Downloading Google Play services: %1$d%%</string>
+    <string name="setup_downloading_play_store">Downloading Google Play Store: %1$d%%</string>
+    <string name="setup_getting_info">Getting account info…</string>
+    <string name="setup_installing_chrome">Updating Chrome</string>
+    <string name="setup_installing_play_services">Updating Google Play services</string>
+    <string name="setup_installing_play_store">Updating Google Play Store</string>
+    <string name="setup_preinstalling_apps">Installing apps…</string>
+    <string name="setup_registering_profile">Registering profile…</string>
+    <string name="setup_updating_play_services">Updating device…</string>
+    <string name="setup_updating_play_services_finishing">Finishing updating device</string>
+    <string name="shake_triggered_hfr_message">You can now send feedback or factory reset the device.</string>
+    <string name="shake_triggered_hfr_title">Shake noticed</string>
+    <string name="short_test_string">This is a short test string.</string>
+    <string name="show_password">Show password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="skip">Skip</string>
+    <string name="start_add_account_session">Start add account session</string>
+    <string name="start_button">Start</string>
+    <string name="start_debug_activity">Debug</string>
+    <string name="start_device_setup">Start device setup</string>
+    <string name="start_ephemeral_session">Start ephemeral session</string>
+    <string name="start_multi_app">Start Multi-app Launcher</string>
+    <string name="start_multi_user_login">Start Multi-user login page</string>
+    <string name="start_post_setup">Start PostSetupTutorialActivity</string>
+    <string name="start_profile_setup">Start profile setup</string>
+    <string name="start_settings">Start settings</string>
+    <string name="start_setup_layout_demo">Start SetupLayout demo</string>
+    <string name="starting_new_user_session">Starting session…</string>
+    <string name="status_activity_device_information_text_new">These are the details your admin can view</string>
+    <string name="status_activity_no_network_snackbar">No network connection</string>
+    <string name="status_activity_overflow_all_policies">All policies</string>
+    <string name="status_activity_overflow_debug_mode">Debug</string>
+    <string name="status_activity_overflow_device_details">Device details</string>
+    <string name="status_activity_overflow_device_details_title">Device details</string>
+    <string name="status_activity_overflow_help_and_feedback">Help &amp; feedback</string>
+    <string name="status_activity_overflow_licences">Licences</string>
+    <string name="status_activity_policies">Policies</string>
+    <string name="status_activity_policy_error_snackbar">Error updating policies</string>
+    <string name="status_compliance_rules">Compliance rules</string>
+    <string name="status_ui">Status UI</string>
+    <string name="step_quarantined_mode_delay">This may take a few minutes</string>
+    <string name="stepper_desc">Follow these steps from your IT admin</string>
+    <string name="stepper_title_do">Set up your work phone</string>
+    <string name="stepper_title_po">Set up your work profile</string>
+    <string name="stop_lock_task">Stop lock task</string>
+    <string name="stop_user">Stop user</string>
+    <string name="strictmode_stack_trace_title">Stack Trace</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suppress_location_dialog">Suppress location dialog</string>
+    <string name="suwFontSecondary">google-sans</string>
+    <string name="suwFontSecondaryMedium">google-sans-medium</string>
+    <string name="suw_back_button_label">Back</string>
+    <string name="suw_more_button_label">More</string>
+    <string name="suw_next_button_label">Next</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="switch_content">Switch content</string>
+    <string name="switch_to_primary_user">Switch to primary user</string>
+    <string name="switch_to_text_input_mode">Switch to text input</string>
+    <string name="switch_to_work_profile_option">Switch to work profile</string>
+    <string name="switch_user">Switch user</string>
+    <string name="sync_time">Last synced: %1$s on %2$s</string>
+    <string name="syncing_now">Syncing now…</string>
+    <string name="test_crash_report">Test crash report</string>
+    <string name="test_enrollment_token">Enrollment token</string>
+    <string name="test_nfc_provisioning">Open Nfc provisioning</string>
+    <string name="test_silent_feedback">Test silent feedback</string>
+    <string name="testdrive_app_name">Android Management Experience</string>
+    <string name="testdrive_website_link">&lt;a href=https://enterprise.google.com/android/experience>Android Management Experience console&lt;/a></string>
+    <string name="testdrive_website_link_without_console">&lt;a href=https://enterprise.google.com/android/experience>Android Management Experience&lt;/a></string>
+    <string name="text_et_input_activity_title">Scan or enter code</string>
+    <string name="time_date">%2$s, %1$s</string>
+    <string name="time_span">"Time span: "</string>
+    <string name="timezone_title">Time zone</string>
+    <string name="title_device_admin_setup_failed">"Can't set up admin privileges"</string>
+    <string name="title_profile_setup_failed">"Can't set up work profile"</string>
+    <string name="toast_phenotype">Phenotype Flags updated</string>
+    <string name="trampoline_label">Starting kiosk app…</string>
+    <string name="trampoline_launch_failure">"Can't open app. Try restarting your device."</string>
+    <string name="transient_error_message">Some technical issues are preventing setup right now</string>
+    <string name="transient_error_title">Try setup again later</string>
+    <string name="try_again">Try again</string>
+    <string name="turn_off_work_details">"To pause your work apps and notifications, turn off your work profile in Settings. When you're ready to use your work apps, just turn your work profile back on."</string>
+    <string name="turn_off_work_title">"Turn off your work profile when you're done"</string>
+    <string name="unpin_debug">Unpin (Debug)</string>
+    <string name="update_system_update_policy">Update SystemUpdatePolicy</string>
+    <string name="user_action_multi_incompliant_desc">Tap an item to resolve it</string>
+    <string name="user_cancelled_adding_account_message">To finish setup, sign in to your work account</string>
+    <string name="user_name_hint">Email</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vision_library_not_available_message">QR scanner library not available, switching to text input.</string>
+    <string name="welcome_get_started">Get started</string>
+    <string name="welcome_learn_more">Learn more</string>
+    <string name="welcome_license_info">License information</string>
+    <string name="wifi_activity_shown">Wifi mitigation shown</string>
+    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_saved">Saved</string>
+    <string name="wifi_security">Security</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_show_password">Show password</string>
+    <string name="wifi_ssid">Network name</string>
+    <string name="wifi_ssid_hint">Enter the SSID</string>
+    <string name="work_account_add_failure">Failure in adding account</string>
+    <string name="work_account_add_success">Account successfully added</string>
+    <string name="work_profile_installing_tutorial_details">You can keep using your device during setup</string>
+    <string name="work_profile_installing_tutorial_title">Setting up work profile…</string>
+    <string name="work_profile_setup_failed_content">Tap to try again</string>
+    <string name="work_profile_setup_failed_title">"Work profile isn't set up"</string>
+    <string name="work_profile_setup_in_progress_desc">Tap to continue</string>
+    <string name="work_profile_setup_in_progress_title">Work profile setup in progress</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42">false</item>
+    <item type="string" name="APKTOOL_DUMMY_49">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_51">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64">false</item>
+    <item type="string" name="APKTOOL_DUMMY_65">false</item>
+    <item type="string" name="APKTOOL_DUMMY_66">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67">false</item>
+    <item type="string" name="APKTOOL_DUMMY_68">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_115">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_117">false</item>
+    <item type="string" name="APKTOOL_DUMMY_118">false</item>
+    <item type="string" name="APKTOOL_DUMMY_119">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_138">false</item>
+    <item type="string" name="APKTOOL_DUMMY_139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_145">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150">false</item>
+    <item type="string" name="APKTOOL_DUMMY_151">false</item>
+    <item type="string" name="APKTOOL_DUMMY_152">false</item>
+    <item type="string" name="APKTOOL_DUMMY_153">false</item>
+    <item type="string" name="APKTOOL_DUMMY_177">false</item>
+    <item type="string" name="APKTOOL_DUMMY_187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_215">false</item>
+    <item type="string" name="APKTOOL_DUMMY_226">false</item>
+    <item type="string" name="APKTOOL_DUMMY_228">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_248">false</item>
+    <item type="string" name="APKTOOL_DUMMY_251">false</item>
+    <item type="string" name="APKTOOL_DUMMY_252">false</item>
+    <item type="string" name="APKTOOL_DUMMY_254">false</item>
+    <item type="string" name="APKTOOL_DUMMY_272">false</item>
+    <item type="string" name="APKTOOL_DUMMY_273">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_288">false</item>
+    <item type="string" name="APKTOOL_DUMMY_289">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_291">false</item>
+    <item type="string" name="APKTOOL_DUMMY_295">false</item>
+    <item type="string" name="APKTOOL_DUMMY_296">false</item>
+    <item type="string" name="APKTOOL_DUMMY_298">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a0">false</item>
+</resources>

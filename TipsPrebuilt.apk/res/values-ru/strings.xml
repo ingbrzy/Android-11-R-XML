@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_slice_permission_allow">Да</string>
+    <string name="abc_slice_permission_checkbox">Разрешить приложению \"%1$s\" показывать фрагменты других приложений</string>
+    <string name="abc_slice_permission_deny">Нет</string>
+    <string name="abc_slice_permission_text_1">– Ему станут доступны данные из приложения \"%1$s\".</string>
+    <string name="abc_slice_permission_text_2">– Оно сможет совершать действия в приложении \"%1$s\".</string>
+    <string name="abc_slice_permission_title">Разрешить приложению \"%1$s\" показывать фрагменты приложения \"%2$s\"?</string>
+    <string name="abc_slices_permission_request">Приложение \"%1$s\" запрашивает разрешение на показ фрагментов приложения \"%2$s\".</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="all_topics_header_text">Все темы</string>
+    <string name="allset_description">"Подготовка к пользованию телефоном завершена.
+
+Навигацию с помощью жестов можно отключить. Вместо нее используйте кнопки, чтобы возвращаться назад, открывать главную страницу или переключаться между приложениями.
+"<annotation id="link">Открыть настройки</annotation></string>
+    <string name="allset_hint">Чтобы начать, проведите по экрану вверх.</string>
+    <string name="allset_page_title">Готово</string>
+    <string name="allset_setting_link">Настройки навигации для функции \"Специальные возможности\"</string>
+    <string name="allset_title">Готово!</string>
+    <string name="app_name">Советы Pixel</string>
+    <string name="article_helpful_feedback_toast">Спасибо за отзыв! Мы учтем его при подборе советов в дальнейшем.</string>
+    <string name="article_helpful_no">Нет</string>
+    <string name="article_helpful_talkback_selected_no">Выбран ответ \"Нет\"</string>
+    <string name="article_helpful_talkback_selected_yes">Выбран ответ \"Да\"</string>
+    <string name="article_helpful_talkback_unselected_no">Выбор ответа \"Нет\" отменен</string>
+    <string name="article_helpful_talkback_unselected_yes">Выбор ответа \"Да\" отменен</string>
+    <string name="article_helpful_text">Это полезно?</string>
+    <string name="article_helpful_yes">Да</string>
+    <string name="asset_is_downloading_content_description">Объект скачивается</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="connectivity_summary_assets_download_slowly">Чтобы посмотреть видео или изображения, подключитесь к Wi-Fi либо другой сети.</string>
+    <string name="connectivity_summary_assets_not_downloaded">Чтобы увидеть изображения и видео, подключитесь к Интернету</string>
+    <string name="module_1_0010_summary">Удобное переключение между приложениями, быстрая настройка функций и другие возможности.</string>
+    <string name="module_1_0010_tag_text">Начало работы</string>
+    <string name="module_1_0010_title">Начало работы с [model_name]</string>
+    <string name="module_1_0101_summary">Поиск приложений, знакомство с устройством и не только.</string>
+    <string name="module_1_0101_tag_text">Начало работы</string>
+    <string name="module_1_0101_title">Начало работы с Pixel</string>
+    <string name="module_1_1000_summary">Пользовались ранее устройством iPhoneⓇ? Найдите любимые приложения и знакомые функции.</string>
+    <string name="module_1_1000_tag_text">Начало работы</string>
+    <string name="module_1_1000_title">Начало работы с Pixel</string>
+    <string name="module_2_1111_summary">К вашим услугам ответы от Ассистента, функция \"Что сейчас играет?\" и многое другое</string>
+    <string name="module_2_1111_tag_text">Все возможности Google</string>
+    <string name="module_2_1111_title">Все возможности Google</string>
+    <string name="module_3_1111_summary">Снимайте красивые портреты, а также используйте разные режимы и функции камеры</string>
+    <string name="module_3_1111_tag_text">Фото и видео</string>
+    <string name="module_3_1111_title">Работа с камерой</string>
+    <string name="module_4_1111_summary">Отправляйте изображения, устраивайте видеовстречи и делитесь фотографиями</string>
+    <string name="module_4_1111_tag_text">Сообщения и звонки</string>
+    <string name="module_4_1111_title">Сообщения и звонки</string>
+    <string name="module_5_1111_summary">Проверяйте уведомления, быстро включайте камеру и пользуйтесь другими жестами</string>
+    <string name="module_5_1111_tag_text">Управление жестами</string>
+    <string name="module_5_1111_title">Жесты</string>
+    <string name="module_6_1111_summary">Отслеживайте и ограничивайте время использования устройства и приложений.</string>
+    <string name="module_6_1111_tag_text">Цифровое благополучие</string>
+    <string name="module_6_1111_title">Цифровое благополучие</string>
+    <string name="module_7_1111_summary">Два приложения на одном экране, объединение приложений в папки и другие возможности.</string>
+    <string name="module_7_1111_tag_text">Дополнительные функции Pixel</string>
+    <string name="module_7_1111_title">Станьте экспертом Pixel</string>
+    <string name="module_8_1111_summary">Делайте заметки, оплачивайте покупки с помощью Pixel и будьте в курсе последних новостей.</string>
+    <string name="module_8_1111_tag_text">Возможности приложений Google</string>
+    <string name="module_8_1111_title">Главные приложения Google</string>
+    <string name="next_btn">Следующая страница</string>
+    <string name="next_module_link_back_home_page_text">Далее: все советы</string>
+    <string name="next_module_link_text">Далее: %1$s</string>
+    <string name="next_tip_content_description">Следующий совет</string>
+    <string name="ob_gesture_app_go_back_media_description">Видео о том, как использовать новый жест для перехода на предыдущий экран</string>
+    <string name="ob_gesture_app_go_back_summary">Чтобы вернуться назад, проведите по экрану с левой или правой стороны к центру.</string>
+    <string name="ob_gesture_app_go_back_title">Назад</string>
+    <string name="ob_gesture_app_home_media_description">Видео о том, как использовать новый жест для перехода на главный экран</string>
+    <string name="ob_gesture_app_home_summary">"Проведите вверх.
+Этот жест открывает главный экран."</string>
+    <string name="ob_gesture_app_home_title">На главный экран</string>
+    <string name="ob_gesture_app_overview_media_description">Видео о том, как использовать новый жест для перехода к сведениям о приложении</string>
+    <string name="ob_gesture_app_overview_summary">Проведите по экрану вверх и задержите руку в крайнем положении.</string>
+    <string name="ob_gesture_app_overview_title">Переключение приложений</string>
+    <string name="onboarding_education_page_title">Жесты для навигации</string>
+    <string name="previous_module_link_text">Назад – %1$s</string>
+    <string name="previous_tip_content_description">Предыдущий совет</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="settings_search_main_entry_screen_title">Помощь и советы > Советы Pixel</string>
+    <string name="settings_search_main_entry_summary">Узнайте обо всех возможностях Pixel. Смотрите видео и не только.</string>
+    <string name="smart_space_subtitle_android">Подробнее…</string>
+    <string name="smart_space_subtitle_ios">Подробнее…</string>
+    <string name="smart_space_subtitle_others">Подробнее…</string>
+    <string name="smart_space_subtitle_pixel">Новые возможности</string>
+    <string name="smart_space_title">Представляем новый Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">Съемка портретов и другие советы по фотографированию</string>
+    <string name="suggestion_summary_module_communication">Отправка изображений, видеовстречи и другие возможности</string>
+    <string name="suggestion_summary_module_gestures">Проверка уведомлений, запуск камеры и многое другое</string>
+    <string name="suggestion_summary_module_google_smarts">Советы по работе с Ассистентом и не только</string>
+    <string name="suggestion_title_module_camera">Работа с камерой</string>
+    <string name="suggestion_title_module_communication">Текстовые сообщения и звонки</string>
+    <string name="suggestion_title_module_gestures">Жесты</string>
+    <string name="suggestion_title_module_google_smarts">Расширенные возможности Google</string>
+    <string name="tip_1_1_media_description">Видеоролик о том, как найти нужные приложения</string>
+    <string name="tip_1_1_summary">Проведите по экрану вверх, чтобы увидеть недавно использованные приложения. Также внизу появятся рекомендуемые приложения. Чтобы увидеть все приложения, ещё раз проведите вверх.</string>
+    <string name="tip_1_1_title">Поиск приложений</string>
+    <string name="tip_1_2_media_description">Видеоролик о том, как навести порядок в приложениях</string>
+    <string name="tip_1_2_summary">"Чтобы добавить приложение на главный экран, перетащите его значок в нужную область.
+
+Чтобы удалить приложение, перетащите его значок в верхнюю часть экрана."</string>
+    <string name="tip_1_2_title">Приложения на главном экране</string>
+    <string name="tip_1_3_link">Перейти в Play Маркет</string>
+    <string name="tip_1_3_media_description">Изображение, рассказывающее о ключевых приложениях</string>
+    <string name="tip_1_3_summary">"Начните работу с этих приложений:
+– Play Маркет: находите и скачивайте приложения;
+– Google Фото: находите, сохраняйте и публикуйте фотографии;
+– Google Keep: создавайте заметки и списки."</string>
+    <string name="tip_1_3_title">Ключевые приложения</string>
+    <string name="tip_1_4_media_description">Видеоролик об уведомлениях</string>
+    <string name="tip_1_4_summary">"Проведите по экрану сверху вниз, чтобы посмотреть уведомления. Чтобы удалить уведомление, смахните его влево или вправо.
+
+Чтобы увидеть подробную информацию об уведомлении, нажмите на него и удерживайте."</string>
+    <string name="tip_1_4_title">Просмотр уведомлений</string>
+    <string name="tip_1_5_media_description">Видеоролик об изменении настроек</string>
+    <string name="tip_1_5_summary">"Проведите сверху вниз по экрану устройства Pixel, чтобы открыть Быстрые настройки. Чтобы показать все настройки, проведите вниз ещё раз.
+
+Чтобы включить или выключить функцию, коснитесь ее. Чтобы увидеть дополнительные параметры, нажмите на настройку и удерживайте."</string>
+    <string name="tip_1_5_title">Быстрые настройки</string>
+    <string name="tip_1_6_link">Открыть настройки</string>
+    <string name="tip_1_6_media_description">Видеоролик о режиме \"Не беспокоить\"</string>
+    <string name="tip_1_6_summary">"Чтобы не отвлекаться на уведомления, заблокируйте их на время.
+
+Ознакомьтесь с новыми настройками режима \"Не беспокоить\"."</string>
+    <string name="tip_1_6_title">Режим \"Не беспокоить\"</string>
+    <string name="tip_1_7_media_description">Видеоролик о дополнительных действиях</string>
+    <string name="tip_1_7_summary">"Нажмите и удерживайте текст, чтобы увидеть доступные действия (например, заказ столика в ресторане).
+
+Эта функция доступна в любом приложении, а также при переключении между приложениями."</string>
+    <string name="tip_1_7_title">Дополнительные действия</string>
+    <string name="tip_1_9_link">Поддержка</string>
+    <string name="tip_1_9_media_description">Видео о разделе \"Помощь и советы\"</string>
+    <string name="tip_1_9_summary">"Если вам нужна дополнительная информация, перейдите в настройки и выберите \"Помощь и советы\".
+
+Вы сможете ознакомиться с нашими рекомендациями, найти справочные статьи и связаться со службой поддержки Pixel."</string>
+    <string name="tip_1_9_title">Помощь в нужный момент</string>
+    <string name="tip_2_1_link">Открыть в Настройках</string>
+    <string name="tip_2_1_link_description">Чтобы включить эту функцию, нажмите кнопку ниже.</string>
+    <string name="tip_2_1_link_description_off">Чтобы включить эту функцию, нажмите кнопку ниже.</string>
+    <string name="tip_2_1_link_off">Перейти в Настройки и включить</string>
+    <string name="tip_2_1_link_on">Настройки сжатия</string>
+    <string name="tip_2_1_media_description">Видеоролик о том, как вызвать Ассистента сжатием</string>
+    <string name="tip_2_1_summary">Чтобы быстро запустить Ассистента даже при отключенном экране, сожмите и отпустите нижнюю часть телефона.</string>
+    <string name="tip_2_1_title">Вызов Ассистента сжатием устройства</string>
+    <string name="tip_2_2_link">Другие действия</string>
+    <string name="tip_2_2_media_description">Видео о том, как пользоваться Ассистентом</string>
+    <string name="tip_2_2_summary">"Ассистент Google легко и быстро найдет ответы на ваши вопросы и поможет управлять устройством Pixel.
+
+Чтобы запустить Ассистента, быстро сожмите и отпустите нижнюю часть телефона, а затем произнесите команду или вопрос, например:
+
+– Во сколько будет мое первое мероприятие завтра?
+– Добавь зубную пасту в список покупок.
+– Идем домой."</string>
+    <string name="tip_2_2_title">Возможности Ассистента</string>
+    <string name="tip_2_3_link">Открыть Объектив</string>
+    <string name="tip_2_3_media_description">Видео о том, как выполнять поиск с помощью Google Объектива</string>
+    <string name="tip_2_3_summary">"Увидели милое животное, необычное растение или красивый памятник? Вы можете узнать о нем больше, используя Google Объектив.
+
+Откройте приложение \"Камера\", нажмите на экран и удерживайте, а затем коснитесь объекта, который вас заинтересовал."</string>
+    <string name="tip_2_3_title">Поиск с помощью Google Объектива</string>
+    <string name="tip_2_4_link">Открыть Google Play</string>
+    <string name="tip_2_4_link_description">Чтобы использовать функцию \"Что сейчас играет?\", обновите приложение Pixel Ambient Services.</string>
+    <string name="tip_2_4_link_description_off">Чтобы включить эту функцию, нажмите кнопку ниже.</string>
+    <string name="tip_2_4_link_off">Включить в настройках</string>
+    <string name="tip_2_4_link_on">Настройки функции \"Что сейчас играет?\"</string>
+    <string name="tip_2_4_media_description">Видео о функции \"Что сейчас играет?\"</string>
+    <string name="tip_2_4_summary">Функция \"Что сейчас играет?\" автоматически показывает информацию о песне, которая звучит в данный момент, где бы вы ни находились.</string>
+    <string name="tip_2_4_title">Функция \"Что сейчас играет?\"</string>
+    <string name="tip_2_5_link">Включить камеру</string>
+    <string name="tip_2_5_media_description">Видеоролик о работе с камерой</string>
+    <string name="tip_2_5_summary">Устройство Pixel автоматически распознает номера телефонов, почтовые и электронные адреса, штрихкоды и QR-коды. Просто запустите камеру и направьте ее на нужный объект.</string>
+    <string name="tip_2_5_title">Использование камеры</string>
+    <string name="tip_3_1_link">Включить камеру</string>
+    <string name="tip_3_1_media_description">Видеоролик о режимах камеры</string>
+    <string name="tip_3_1_summary">"Переключаться между режимами съемки стало проще.
+
+Запустите приложение \"Камера\" и проведите по экрану влево или вправо. Нажмите на значок \"Ещё\", чтобы увидеть другие настройки."</string>
+    <string name="tip_3_1_title">Переключение между режимами камеры</string>
+    <string name="tip_3_2_link">Включить камеру</string>
+    <string name="tip_3_2_media_description">Видео о портретной съемке</string>
+    <string name="tip_3_2_summary">"В режиме портретной съемки камера устройства Pixel размывает фон, чтобы фотографии выглядели более красиво и профессионально.
+
+Откройте камеру, проведите слева направо по экрану и фотографируйте."</string>
+    <string name="tip_3_2_title">Красивые портреты</string>
+    <string name="tip_3_3_media_description">Видеоролик о том, как делать скриншоты</string>
+    <string name="tip_3_3_summary">"Нажмите и удерживайте кнопку питания, затем нажмите \"Скриншот\".
+
+Чтобы рисовать на скриншоте, выберите \"Изменить\" в появившемся уведомлении."</string>
+    <string name="tip_3_3_title">Работа со скриншотами</string>
+    <string name="tip_3_4_link">Включить камеру</string>
+    <string name="tip_3_4_media_description">Видео о функции \"Отличный снимок\"</string>
+    <string name="tip_3_4_summary">"Каждый раз, когда вы делаете снимок, на устройстве Pixel сохраняется одно-два дополнительных изображения, чтобы можно было выбрать лучшее из них.
+
+1. Включите функцию \"Движение\" [icon_span] и сделайте фото.
+2. Проведите по снимку снизу вверх.
+3. Чтобы посмотреть дополнительные изображения, нажмите \"Кадры\"."</string>
+    <string name="tip_3_4_title">Неповторимые моменты</string>
+    <string name="tip_3_5_link">Включить камеру</string>
+    <string name="tip_3_5_media_description">Видео о функции \"Групповое селфи\"</string>
+    <string name="tip_3_5_summary">"Благодаря функции \"Групповое селфи\" вам не нужен монопод, чтобы в кадре поместились все друзья или красивый пейзаж.
+
+1. Переключитесь на фронтальную камеру [icon_span].
+2. Коснитесь экрана дважды или сведите пальцы вместе, чтобы уменьшить масштаб."</string>
+    <string name="tip_3_5_title">Все друзья на одном селфи</string>
+    <string name="tip_4_1_link">Открыть Сообщения</string>
+    <string name="tip_4_1_media_description">Видео о том, как отправлять изображения</string>
+    <string name="tip_4_1_summary">"1. Откройте чат в приложении \"Сообщения\".
+2. Нажмите на значок \"Новое сообщение\" [icon_span] слева от поля ввода.
+3. Выберите нужное изображение, эмодзи или стикер."</string>
+    <string name="tip_4_1_title">Отправка изображений</string>
+    <string name="tip_4_2_link">Установить Duo</string>
+    <string name="tip_4_2_link_off">Установить Duo</string>
+    <string name="tip_4_2_link_on">Открыть Duo</string>
+    <string name="tip_4_2_media_description">Видеоролик о Google Duo</string>
+    <string name="tip_4_2_summary">"Общайтесь с друзьями и родными в видеочате, когда захотите.
+
+1. Откройте приложение Google Duo.
+2. Найдите контакт.
+3. Начните видеовстречу одним нажатием или предложите пользователю скачать Google Duo.
+
+Приложение также поддерживается на устройствах iOSⓇ."</string>
+    <string name="tip_4_2_title">Видеовстречи в Google Duo</string>
+    <string name="tip_4_3_link">Открыть Google Фото</string>
+    <string name="tip_4_3_media_description">Видеоролик о публикации фотографий</string>
+    <string name="tip_4_3_summary">"1 Откройте Google Фото.
+2. Нажмите и удерживайте, чтобы выбрать снимок.
+3. Если нужно, выберите ещё несколько фотографий.
+4.Нажмите \"Поделиться\" [icon_span].
+5. Выберите пользователей, с которыми хотите поделиться."</string>
+    <string name="tip_4_3_title">Публикация фотографий</string>
+    <string name="tip_4_4_link">Начать</string>
+    <string name="tip_4_4_media_description">Видео об отправке SMS с компьютера</string>
+    <string name="tip_4_4_summary">"Отправляйте SMS с компьютера, используя приложение \"Android Сообщения\". Для этого откройте его и выберите в меню пункт \"Веб-версия Сообщений\".
+
+Помимо текста вы можете отправлять стикеры, эмодзи и изображения."</string>
+    <string name="tip_4_4_title">SMS прямо с компьютера</string>
+    <string name="tip_5_1_link">Открыть настройки</string>
+    <string name="tip_5_1_link_off">Включить в настройках</string>
+    <string name="tip_5_1_link_on">Открыть настройки</string>
+    <string name="tip_5_1_media_description">Видеоролик о проверке уведомлений</string>
+    <string name="tip_5_1_summary">Чтобы проверить текущее время и уведомления, нажмите на экран дважды.</string>
+    <string name="tip_5_1_title">Проверка двойным нажатием</string>
+    <string name="tip_5_2_link">Открыть настройки</string>
+    <string name="tip_5_2_link_off">Включить в настройках</string>
+    <string name="tip_5_2_link_on">Открыть настройки</string>
+    <string name="tip_5_2_media_description">Видеоролик о быстром доступе к камере</string>
+    <string name="tip_5_2_summary">Чтобы мгновенно переключиться на камеру с любого экрана, дважды нажмите кнопку питания.</string>
+    <string name="tip_5_2_title">Быстрый доступ к камере</string>
+    <string name="tip_5_3_link">Открыть настройки</string>
+    <string name="tip_5_3_link_off">Включить в настройках</string>
+    <string name="tip_5_3_link_on">Открыть настройки</string>
+    <string name="tip_5_3_media_description">Видеоролик о переключении на фронтальную камеру</string>
+    <string name="tip_5_3_summary">Чтобы переключиться между основной и фронтальной камерами, дважды поверните запястье.</string>
+    <string name="tip_5_3_title">Смена камеры</string>
+    <string name="tip_5_4_link">Открыть настройки</string>
+    <string name="tip_5_4_link_off">Включите эту функцию в настройках</string>
+    <string name="tip_5_4_link_on">Открыть настройки</string>
+    <string name="tip_5_4_media_description">Видеоролик об использовании сканера отпечатков пальцев для проверки уведомлений</string>
+    <string name="tip_5_4_summary">"Чтобы увидеть уведомления, проведите вниз по сканеру отпечатков пальцев на задней панели телефона.
+Проведите ещё раз, чтобы открыть быстрые настройки."</string>
+    <string name="tip_5_4_title">Просмотр уведомлений</string>
+    <string name="tip_5_5_media_description">Видеоролик о переключении между приложениями</string>
+    <string name="tip_5_5_summary">Чтобы быстро переключаться между приложениями, проведите слева направо внизу экрана. Отпустите палец, чтобы открыть приложение.</string>
+    <string name="tip_5_5_title">Быстрое переключение между приложениями</string>
+    <string name="tip_6_1_link">Открыть настройки ночного режима</string>
+    <string name="tip_6_1_media_description">Видео о ночном режиме</string>
+    <string name="tip_6_1_summary">"В ночном режиме экран приобретает желтоватый оттенок. Это снижает напряжение глаз при тусклом свете и, как правило, помогает быстрее заснуть.
+
+Включите этот режим в разделе быстрых настроек или установите для него расписание долгим нажатием."</string>
+    <string name="tip_6_1_title">Ночной режим на страже вашего сна</string>
+    <string name="tip_6_2_link">Обновить Цифровое благополучие</string>
+    <string name="tip_6_2_link_off">Обновить Цифровое благополучие</string>
+    <string name="tip_6_2_link_on">Настроить режим \"Отдых\"</string>
+    <string name="tip_6_2_media_description">Видео о том, как настраивать режим \"Отдых\"</string>
+    <string name="tip_6_2_summary">"Возьмите за правило откладывать телефон в сторону перед сном.
+
+1. Откройте приложение \"Цифровое благополучие\" [icon_span].
+2. Нажмите \"Отдых\".
+3. Установите расписание.
+
+Перед сном цвет экрана поменяется, а чтобы вас не тревожили уведомления, будет включен режим \"Не беспокоить\"."</string>
+    <string name="tip_6_2_title">Время отхода ко сну</string>
+    <string name="tip_6_3_link">Включить режим \"Тсс\" при перевороте</string>
+    <string name="tip_6_3_link_off">Обновить Цифровое благополучие</string>
+    <string name="tip_6_3_link_on">Открыть настройки</string>
+    <string name="tip_6_3_media_description">Видео о том, как быстро устранить отвлекающие факторы</string>
+    <string name="tip_6_3_summary">Хотите быстро отключить уведомления и звуковые сигналы? Если запущен режим \"Тсс\" при перевороте, вам достаточно просто положить телефон экраном вниз.</string>
+    <string name="tip_6_3_title">Режим \"Тсс\" при перевороте</string>
+    <string name="tip_6_4_link">Обновить Цифровое благополучие</string>
+    <string name="tip_6_4_link_off">Обновить Цифровое благополучие</string>
+    <string name="tip_6_4_link_on">Открыть панель \"Цифровое благополучие\"</string>
+    <string name="tip_6_4_media_description">Видео о функции \"Цифровое благополучие\"</string>
+    <string name="tip_6_4_summary">Вы можете узнать, сколько времени вы проводите за экраном, и установить таймеры для приложений. Просто перейдите в настройки и откройте панель \"Цифровое благополучие\".</string>
+    <string name="tip_6_4_title">Время использования устройства</string>
+    <string name="tip_7_1_media_description">Видео о том, как добавлять приложения в папки</string>
+    <string name="tip_7_1_summary">"Упорядочивайте приложения, распределяя их по папкам.
+
+Просто перетащите одно приложение на другое и при желании дайте название новой папке.
+
+Затем вы сможете перетаскивать в папку новые приложения, а также удалять их из нее."</string>
+    <string name="tip_7_1_title">Всё по папкам</string>
+    <string name="tip_7_2_media_description">Видео об использовании двух приложений одновременно</string>
+    <string name="tip_7_2_summary">"Благодаря режиму разделения экрана вы можете работать с двумя приложениями одновременно. Да здравствует многозадачность!
+
+1. Проведите вверх по экрану, чтобы увидеть список недавних приложений.
+2. Вверху коснитесь значка приложения и удерживайте его.
+3. Нажмите \"Разделить экран\".
+
+Установите разделитель в нужном положении. Когда закончите, просто смахните его."</string>
+    <string name="tip_7_2_title">Два приложения – один экран</string>
+    <string name="tip_7_3_link">Открыть приложение \"Google Ассистент\"</string>
+    <string name="tip_7_3_media_description">Видео об управлении телефоном с помощью Ассистента</string>
+    <string name="tip_7_3_summary">"С Ассистентом вы сможете справляться с делами быстрее. Чтобы запустить его, резко сожмите и отпустите нижнюю часть телефона, а затем скажите команду, например:
+
+1. \"Сделай селфи\"
+2. \"Сделай скриншот\"
+3. \"Включи фонарик\""</string>
+    <string name="tip_7_3_title">Пользуйтесь Google Ассистентом</string>
+    <string name="tip_8_1_link">Установить Google Keep</string>
+    <string name="tip_8_1_link_off">Установить Google Keep</string>
+    <string name="tip_8_1_link_on">Открыть Google Keep</string>
+    <string name="tip_8_1_media_description">Видео о добавлении заметок</string>
+    <string name="tip_8_1_summary">"Без труда добавляйте заметки, списки, фото и аудио в Google Keep.
+
+Кроме того, вы можете устанавливать напоминания о незавершенных задачах и делиться заметками с родными и друзьями."</string>
+    <string name="tip_8_1_title">Google Keep: заметки и не только</string>
+    <string name="tip_8_2_link">Установить Google Новости</string>
+    <string name="tip_8_2_link_off">Установить Google Новости</string>
+    <string name="tip_8_2_link_on">Открыть Google Новости</string>
+    <string name="tip_8_2_media_description">Видео о Google Новостях</string>
+    <string name="tip_8_2_summary">"Следите за тем, что происходит в стране и мире, используя Google Новости.
+
+Чтобы увидеть, о чем пишут ваши любимые СМИ, достаточно одного нажатия. Погрузитесь в выбранную тему: вам доступны обзоры ключевых моментов, аналитические и авторские статьи и многое другое."</string>
+    <string name="tip_8_2_title">В курсе событий с Google Новостями</string>
+    <string name="tip_8_3_link">Установить Google Pay</string>
+    <string name="tip_8_3_link_off">Установить Google Pay</string>
+    <string name="tip_8_3_link_on">Открыть Google Pay</string>
+    <string name="tip_8_3_media_description">Видео о сервисе Google Pay</string>
+    <string name="tip_8_3_summary">"Google Pay позволяет быстро расплачиваться в миллионах магазинов с помощью телефона Pixel. Для этого:
+
+1. Добавьте данные банковской карты в Google Pay.
+2. Найдите место, где работает бесконтактная оплата (ищите значок [icon_span]).
+3. Разблокируйте телефон и приложите его к терминалу.
+4. Дождитесь появления галочки на экране.
+
+Покупка оплачена!"</string>
+    <string name="tip_8_3_title">Оплата с помощью Pixel</string>
+    <string name="tips_nav_a11y_media_description">Видео о том, как использовать новый жест для доступа к специальным возможностям</string>
+    <string name="tips_nav_a11y_summary">"Чтобы получить доступ к функции увеличения масштаба или озвучивания при нажатии, проведите по экрану снизу вверх двумя пальцами.
+
+Чтобы переключиться между приложениями, предоставляющими специальные возможности, проведите по экрану вверх двумя пальцами и не отпускайте.
+
+Вы сможете использовать эти жесты после завершения настройки."</string>
+    <string name="tips_nav_a11y_title">Используйте новый жест</string>
+    <string name="title_download_completed_dialog">Обновите содержимое</string>
+    <string name="try_it_text">Попробовать</string>
+    <string name="zero_state_primary">Вы всё прочитали</string>
+    <string name="zero_state_secondary">Загляните сюда позже, чтобы получить новые советы.</string>
+</resources>

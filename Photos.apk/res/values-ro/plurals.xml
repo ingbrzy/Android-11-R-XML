@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d de elemente scanate</item>
+        <item quantity="one">%1$d element scanat</item>
+        <item quantity="few">%1$d elemente scanate</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d de elemente selectate</item>
+        <item quantity="one">%1$d element selectat</item>
+        <item quantity="few">%1$d elemente selectate</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Noua dimensiune a albumului ar fi depășit limita actuală de %1$d de elemente.</item>
+        <item quantity="one">Noua dimensiune a albumului ar fi depășit limita actuală de %1$d element.</item>
+        <item quantity="few">Noua dimensiune a albumului ar fi depășit limita actuală de %1$d elemente.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumul ar avea %1$d de elemente.</item>
+        <item quantity="one">Album ar avea %1$d element.</item>
+        <item quantity="few">Albumul ar avea %1$d elemente.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">Au fost adăugate %d de locații</item>
+        <item quantity="one">A fost adăugată %d locație</item>
+        <item quantity="few">Au fost adăugate %d locații</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d de locații</item>
+        <item quantity="one">%d locație</item>
+        <item quantity="few">%d locații</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d de hărți</item>
+        <item quantity="one">%d hartă</item>
+        <item quantity="few">%d hărți</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Au fost adăugate %d de hărți</item>
+        <item quantity="one">A fost adăugată %d hartă</item>
+        <item quantity="few">Au fost adăugate %d hărți</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Se elimină elementele din acest album…</item>
+        <item quantity="one">Se elimină elementul din acest album…</item>
+        <item quantity="few">Se elimină elementele din acest album…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Au fost eliminate %d de elemente</item>
+        <item quantity="one">A fost eliminat %d element</item>
+        <item quantity="few">Au fost eliminate %d elemente</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Se elimină fotografiile din acest album…</item>
+        <item quantity="one">Se elimină fotografia din acest album…</item>
+        <item quantity="few">Se elimină fotografiile din acest album…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Se elimină videoclipurile din acest album…</item>
+        <item quantity="one">Se elimină videoclipul din acest album…</item>
+        <item quantity="few">Se elimină videoclipurile din acest album…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d de elemente</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elemente</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d de elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Șterge de pe dispozitiv (%d)</item>
+        <item quantity="one">Șterge de pe dispozitiv (%d)</item>
+        <item quantity="few">Șterge de pe dispozitiv (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Șterge tot de pe dispozitiv (%d)</item>
+        <item quantity="one">Șterge tot de pe dispozitiv (%d)</item>
+        <item quantity="few">Șterge tot de pe dispozitiv (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Mută în coș (%d)</item>
+        <item quantity="one">Mută în coș (%d)</item>
+        <item quantity="few">Mută în coș (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">Au fost arhivate %d de elemente.</item>
+        <item quantity="one">A fost arhivat %d element.</item>
+        <item quantity="few">Au fost arhivate %d elemente.</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">Au fost dezarhivate %d de elemente.</item>
+        <item quantity="one">A fost dezarhivat %d element.</item>
+        <item quantity="few">Au fost dezarhivate %d elemente.</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_multiple_labelled_people">
+        <item quantity="other">%1$s, %2$s ți încă %3$d de persoane</item>
+        <item quantity="one">%1$s, %2$s și încă %3$d persoană</item>
+        <item quantity="few">%1$s, %2$s ți încă %3$d persoane</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilder_album_title_one_labelled">
+        <item quantity="other">%1$s și încă %2$d de persoane</item>
+        <item quantity="one">%1$s și încă %2$d persoană</item>
+        <item quantity="few">%1$s și încă %2$d persoane</item>
+    </plurals>
+    <plurals name="photos_autoadd_rulebuilderpeople_picker_people_selected_title">
+        <item quantity="other">S-au selectat %d</item>
+        <item quantity="one">S-a selectat %d</item>
+        <item quantity="few">S-au selectat %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_background_uploading_title">
+        <item quantity="other">Se încarcă %d de elemente</item>
+        <item quantity="one">Se încarcă %d element</item>
+        <item quantity="few">Se încarcă %d elemente</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_cloud_storage_full_subtitle_plural">
+        <item quantity="other">Nu s-a făcut backup pentru %d de elemente deoarece spațiul de stocare din cont este plin.</item>
+        <item quantity="one">Nu s-a făcut backup pentru %d element deoarece spațiul de stocare din cont este plin.</item>
+        <item quantity="few">Nu s-a făcut backup pentru %d elemente deoarece spațiul de stocare din cont este plin.</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left">
+        <item quantity="other">%d de elemente rămase</item>
+        <item quantity="one">%d element rămas</item>
+        <item quantity="few">%d elemente rămase</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_to_back_up">
+        <item quantity="other">%d de elemente rămase pentru backup</item>
+        <item quantity="one">%d element rămas pentru backup</item>
+        <item quantity="few">%d elemente rămase pentru backup</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_basic_storage_policy">
+        <item quantity="other">%d items left • Express</item>
+        <item quantity="one">%d item left • Express</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_high_storage_policy">
+        <item quantity="other">%d de elemente rămase • Calitate înaltă</item>
+        <item quantity="one">%d element rămas • Calitate înaltă</item>
+        <item quantity="few">%d elemente rămase • Calitate înaltă</item>
+    </plurals>
+    <plurals name="photos_autobackup_particle_items_left_with_original_storage_policy">
+        <item quantity="other">%d de elemente rămase • Calitate originală</item>
+        <item quantity="one">%d element rămas • Calitate originală</item>
+        <item quantity="few">%d elemente rămase • Calitate originală</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Se încarcă %d de elemente</item>
+        <item quantity="one">Se încarcă %d element</item>
+        <item quantity="few">Se încarcă %d elemente</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d de elemente rămase</item>
+        <item quantity="one">%d element rămas</item>
+        <item quantity="few">%d elemente rămase</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d de elemente rămase pentru backup</item>
+        <item quantity="one">%d element rămas pentru backup</item>
+        <item quantity="few">%d elemente rămase pentru backup</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">Pentru %1$d de fotografii nu s-a făcut backup.</item>
+        <item quantity="one">Pentru %1$d fotografie nu s-a făcut backup.</item>
+        <item quantity="few">Pentru %1$d fotografii nu s-a făcut backup.</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_ongoing_autobackup_status">
+        <item quantity="other">Backup pentru %d de elemente</item>
+        <item quantity="one">Backup pentru %d element</item>
+        <item quantity="few">Backup pentru %d elemente</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Se încarcă %d de elemente</item>
+        <item quantity="one">Se încarcă %d element</item>
+        <item quantity="few">Se încarcă %d elemente</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Se încarcă %d de videoclipuri</item>
+        <item quantity="one">Se încarcă %d videoclip</item>
+        <item quantity="few">Se încarcă %d videoclipuri</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d de elemente de încărcat</item>
+        <item quantity="one">%d element de încărcat</item>
+        <item quantity="few">%d elemente de încărcat</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d de videoclipuri de încărcat</item>
+        <item quantity="one">%d videoclip de încărcat</item>
+        <item quantity="few">%d videoclipuri de încărcat</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">%d de fotografii fără backup</item>
+        <item quantity="one">Nu s-a făcut backup pentru %d fotografie.</item>
+        <item quantity="few">Nu s-a făcut backup pentru %d fotografii.</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Toate cele %d de fotografii</item>
+        <item quantity="one">%d fotografie</item>
+        <item quantity="few">Toate cele %d fotografii</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_notification_backup_stop_items_not_backed_up_message">
+        <item quantity="other">Nu s-a făcut backup pentru %1$d de elemente deoarece spațiul de stocare din cont este plin.</item>
+        <item quantity="one">Nu s-a făcut backup pentru %1$d element deoarece spațiul de stocare din cont este plin.</item>
+        <item quantity="few">Nu s-a făcut backup pentru %1$d elemente deoarece spațiul de stocare din cont este plin.</item>
+    </plurals>
+    <plurals name="photos_cloudstorage_ui_backupstopped_queued_items_message">
+        <item quantity="other">Nu s-a făcut backup pentru %1$d de fotografii deoarece ai apuizat spațiul de stocare.</item>
+        <item quantity="one">Nu s-a făcut backup pentru %1$d fotografie deoarece ai epuizat spațiul de stocare</item>
+        <item quantity="few">Nu s-a făcut backup pentru %1$d fotografii deoarece ai apuizat spațiul de stocare.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d de elemente adăugate</item>
+        <item quantity="one">%1$d element adăugat</item>
+        <item quantity="few">%1$d elemente adăugate</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Selectează cel mult %d de elemente.</item>
+        <item quantity="one">Selectează cel mult %d element.</item>
+        <item quantity="few">Selectează cel mult %d elemente.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Selectează cel puțin %d de elemente.</item>
+        <item quantity="one">Selectează cel puțin %d element.</item>
+        <item quantity="few">Selectează cel puțin %d elemente.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Selectează elementele dintr-un interval de %d de zile.</item>
+        <item quantity="one">Selectează elementele dintr-un interval de %d zi.</item>
+        <item quantity="few">Selectează elementele dintr-un interval de %d zile.</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Acum %d de zile</item>
+        <item quantity="one">Acum %d zi</item>
+        <item quantity="few">Acum %d zile</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="few">%dh</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Acum %d de ore</item>
+        <item quantity="one">Acum %d oră</item>
+        <item quantity="few">Acum %d ore</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dsăp.</item>
+        <item quantity="one">%dsăp.</item>
+        <item quantity="few">%dsăp.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Acum %d de săptămâni</item>
+        <item quantity="one">Acum %d săptămână</item>
+        <item quantity="few">Acum %d săptămâni</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dmin.</item>
+        <item quantity="one">%dmin.</item>
+        <item quantity="few">%dmin.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Acum %d de minute</item>
+        <item quantity="one">Acum %d minut</item>
+        <item quantity="few">Acum %d minute</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dz</item>
+        <item quantity="one">%dz</item>
+        <item quantity="few">%dz</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Acum %d de zile</item>
+        <item quantity="one">Acum %d zi</item>
+        <item quantity="few">Acum %d zile</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Elimină %1$d de elemente de pe dispozitiv</item>
+        <item quantity="one">Elimină %1$d element de pe dispozitiv</item>
+        <item quantity="few">Elimină %1$d elemente de pe dispozitiv</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Se elimină %1$d de fotografii și videoclipuri originale</item>
+        <item quantity="one">Se elimină %1$d fotografie sau videoclip original</item>
+        <item quantity="few">Se elimină %1$d fotografii și videoclipuri originale</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d de elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d de carduri noi</item>
+        <item quantity="one">Un card nou</item>
+        <item quantity="few">%d carduri noi</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">Au fost adăugate %d de elemente.</item>
+        <item quantity="one">A fost adăugat %d element.</item>
+        <item quantity="few">Au fost adăugate %d elemente.</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d de actualizări</item>
+        <item quantity="one">%1$d actualizare</item>
+        <item quantity="few">%1$d actualizări</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_read_receipt_content_description_many">
+        <item quantity="other">Văzut de %1$s, %2$s și încă %3$d de persoane</item>
+        <item quantity="one">Văzut de %1$s, %2$s și încă %3$d persoană</item>
+        <item quantity="few">Văzut de %1$s, %2$s și încă %3$d persoane</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d de comentarii</item>
+        <item quantity="one">%1$d comentariu</item>
+        <item quantity="few">%1$d comentarii</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Se salvează elementele în fototecă…</item>
+        <item quantity="one">Se salvează elementul în fototecă…</item>
+        <item quantity="few">Se salvează elementele în fototecă…</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_photo_and_timestamp">
+        <item quantity="other">%1$s a apreciat %2$d de fotografii • %3$s</item>
+        <item quantity="one">%1$s a apreciat %2$d fotografie • %3$s</item>
+        <item quantity="few">%1$s a apreciat %2$d fotografii • %3$s</item>
+    </plurals>
+    <plurals name="photos_hearts_viewbinder_user_liked_coalesced_video_and_timestamp">
+        <item quantity="other">%1$s a apreciat %2$d de videoclipuri • %3$s</item>
+        <item quantity="one">%1$s a apreciat %2$d videoclip • %3$s</item>
+        <item quantity="few">%1$s a apreciat %2$d videoclipuri • %3$s</item>
+    </plurals>
+    <plurals name="photos_list_date_header_longpress_a11y_label">
+        <item quantity="other">selectezi %d de elemente</item>
+        <item quantity="one">selectezi %d element</item>
+        <item quantity="few">selectezi %d elemente</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Șterge dosarul și %d de elemente din el</item>
+        <item quantity="one">Șterge dosarul și %d element din el</item>
+        <item quantity="few">Șterge dosarul și %d elemente din el</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Șterge de pe dispozitiv (%d)</item>
+        <item quantity="one">Șterge de pe dispozitiv (%d)</item>
+        <item quantity="few">Șterge de pe dispozitiv (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Eroare de copiere a %d de elemente</item>
+        <item quantity="one">Eroare de copiere pentru %d element</item>
+        <item quantity="few">Eroare de copiere a %d elemente</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">Au fost copiate %d de elemente</item>
+        <item quantity="one">A fost copiat %d element</item>
+        <item quantity="few">Au fost copiate %d elemente</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Eroare de mutare a %d de elemente</item>
+        <item quantity="one">Eroare de mutare pentru %d element</item>
+        <item quantity="few">Eroare de mutare a %d elemente</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">Au fost mutate %d de elemente</item>
+        <item quantity="one">A fost mutat %d element</item>
+        <item quantity="few">Au fost mutate %d elemente</item>
+    </plurals>
+    <plurals name="photos_mediadetails_moments_impl_recommendations_text">
+        <item quantity="other">%d de fotografii recomandate</item>
+        <item quantity="one">%d fotografie recomandată</item>
+        <item quantity="few">%d fotografii recomandate</item>
+    </plurals>
+    <plurals name="photos_memories_featurefactories_years_ago">
+        <item quantity="other">Acum %d de ani</item>
+        <item quantity="one">Acum %d an</item>
+        <item quantity="few">Acum %d ani</item>
+    </plurals>
+    <plurals name="photos_microvideo_stillexporter_beta_rotate_announcement">
+        <item quantity="other">Rotește cu %d de grade spre stânga</item>
+        <item quantity="one">Rotește cu %d grade spre stânga</item>
+        <item quantity="few">Rotește cu %d grade spre stânga</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Fotografii cu %d de persoane</item>
+        <item quantity="one">Fotografii cu %d persoană</item>
+        <item quantity="few">Fotografii cu %d persoane</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotografii cu %d de chipuri selectate</item>
+        <item quantity="one">Fotografii cu %d chip selectat</item>
+        <item quantity="few">Fotografii cu %d chipuri selectate</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Ai selectat %d</item>
+        <item quantity="one">Ai selectat %d</item>
+        <item quantity="few">Ai selectat %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d de chipuri selectate</item>
+        <item quantity="one">%d chip selectat</item>
+        <item quantity="few">%d chipuri selectate</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotografii cu %1$d de chipuri selectate, începând din %2$s</item>
+        <item quantity="one">Fotografii cu %1$d chip selectat, începând din %2$s</item>
+        <item quantity="few">Fotografii cu %1$d chipuri selectate, începând din %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotografii cu %d de chipuri selectate</item>
+        <item quantity="one">Fotografii cu %d chip selectat</item>
+        <item quantity="few">Fotografii cu %d chipuri selectate</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Au fost eliminate %1$d de fotografii</item>
+        <item quantity="one">A fost eliminată %1$d fotografie</item>
+        <item quantity="few">Au fost eliminate %1$d fotografii</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Selectează numai %d de persoane</item>
+        <item quantity="one">Selectează numai %d persoană</item>
+        <item quantity="few">Selectează numai %d persoane</item>
+    </plurals>
+    <plurals name="photos_photoframes_albumselection_collection_count">
+        <item quantity="other">%1$d de fotografii</item>
+        <item quantity="one">%1$d fotografie</item>
+        <item quantity="few">%1$d fotografii</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">S-au selectat %d.</item>
+        <item quantity="one">S-a selectat %d.</item>
+        <item quantity="few">S-au selectat %d.</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_one">
+        <item quantity="other">Se pot printa numai %d de fotografii.</item>
+        <item quantity="one">Se poate printa numai %d fotografie.</item>
+        <item quantity="few">Se pot printa numai %d fotografii.</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_message_part_two">
+        <item quantity="other">Ți-au fost sugerate %d de fotografii.</item>
+        <item quantity="one">Ți-a fost sugerată %d fotografie.</item>
+        <item quantity="few">Ți-au fost sugerate %d fotografii.</item>
+    </plurals>
+    <plurals name="photos_printingskus_common_remediation_dialog_title">
+        <item quantity="other">%d de fotografii sugerate</item>
+        <item quantity="one">%d fotografie sugerată</item>
+        <item quantity="few">%d fotografii sugerate</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d de pagini suplimentare</item>
+        <item quantity="one">%d pagină suplimentară</item>
+        <item quantity="few">%d pagini suplimentare</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_confirmation_page_count">
+        <item quantity="other">%d de pagini</item>
+        <item quantity="one">%d pagină</item>
+        <item quantity="few">%d pagini</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Adaugă încă %d de fotografii de cumpărat</item>
+        <item quantity="one">Adaugă încă %d fotografie de cumpărat</item>
+        <item quantity="few">Adaugă încă %d fotografii de cumpărat</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_page_count_toast">
+        <item quantity="other">Au fost adăugate %d de pagini</item>
+        <item quantity="one">A fost adăugată %d pagină</item>
+        <item quantity="few">Au fost adăugate %d pagini</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Au fost adăugate %d de fotografii</item>
+        <item quantity="one">A fost adăugată %d fotografie</item>
+        <item quantity="few">Au fost adăugate %d fotografii</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_page_count_toast">
+        <item quantity="other">Au fost eliminate %d de pagini</item>
+        <item quantity="one">A fost eliminată %d pagină</item>
+        <item quantity="few">Au fost eliminate %d pagini</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Au fost eliminate %d de fotografii.</item>
+        <item quantity="one">A fost eliminată %d fotografie.</item>
+        <item quantity="few">Au fost eliminate %d fotografii.</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_extra_page_count">
+        <item quantity="other">%d de pagini suplimentare</item>
+        <item quantity="one">%d pagină suplimentară</item>
+        <item quantity="few">%d pagini suplimentare</item>
+    </plurals>
+    <plurals name="photos_printingskus_photobook_product_page_count">
+        <item quantity="other">%d de pagini</item>
+        <item quantity="one">%d pagină</item>
+        <item quantity="few">%d pagini</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_added_message_with_size">
+        <item quantity="other">Au fost adăugate %1$d de fotografii ca printuri de %2$s</item>
+        <item quantity="one">A fost adăugată %1$d fotografie ca print de %2$s</item>
+        <item quantity="few">Au fost adăugate %1$d fotografii ca printuri de %2$s</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_max_prints_dialog_message_additional_sizes">
+        <item quantity="other">Poți să selectezi numai %1$d de printuri de %2$s într-o comandă</item>
+        <item quantity="one">Poți să selectezi numai %1$d print de %2$s într-o comandă</item>
+        <item quantity="few">Poți să selectezi numai %1$d printuri de %2$s într-o comandă</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_min_prints_dialog_message">
+        <item quantity="other">Ai nevoie de cel puțin %1$d de fotografii pentru a continua crearea versiunii nefinalizate.</item>
+        <item quantity="one">Ai nevoie de cel puțin %1$d pentru a continua crearea versiunii nefinalizate.</item>
+        <item quantity="few">Ai nevoie de cel puțin %1$d fotografii pentru a continua crearea versiunii nefinalizate.</item>
+    </plurals>
+    <plurals name="photos_printingskus_retailprints_ui_preview_print_quantity">
+        <item quantity="other">%1$d de printuri</item>
+        <item quantity="one">%1$d print</item>
+        <item quantity="few">%1$d printuri</item>
+    </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">S-au descărcat %1$d din %2$d de elemente</item>
+        <item quantity="one">S-a descărcat %1$d din %2$d element</item>
+        <item quantity="few">S-au descărcat %1$d din %2$d elemente</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Restabilești %d de elemente?</item>
+        <item quantity="one">Restabilești %d element?</item>
+        <item quantity="few">Restabilești %d elemente?</item>
+    </plurals>
+    <plurals name="photos_restore_notification_max_photo_count_restored">
+        <item quantity="other">S-au restabilit %1$d de elemente pe dispozitiv</item>
+        <item quantity="one">S-a restabilit recent un element pe dispozitiv</item>
+        <item quantity="few">S-au restabilit %1$d elemente pe dispozitiv</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">S-au restabilit %1$d de fotografii și videoclipuri</item>
+        <item quantity="one">S-a restabilit o fotografie sau un videoclip</item>
+        <item quantity="few">S-au restabilit %1$d fotografii și videoclipuri</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d de fotografii</item>
+        <item quantity="one">%d fotografie</item>
+        <item quantity="few">%d fotografii</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">Au fost adăugate %d de elemente în album</item>
+        <item quantity="one">A fost adăugat %d element în album</item>
+        <item quantity="few">Au fost adăugate %d elemente în album</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Se încarcă %d de elemente</item>
+        <item quantity="one">Se încarcă %d element</item>
+        <item quantity="few">Se încarcă %d elemente</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Se vor încărca %d de elemente când te conectezi.</item>
+        <item quantity="one">Se va încărca %d element când te conectezi.</item>
+        <item quantity="few">Se vor încărca %d elemente când te conectezi.</item>
+    </plurals>
+    <plurals name="photos_share_method_actual_files">
+        <item quantity="other">Fișierele reale</item>
+        <item quantity="one">Fișierul real</item>
+        <item quantity="few">Fișierele reale</item>
+    </plurals>
+    <plurals name="photos_share_method_files">
+        <item quantity="other">Fișiere</item>
+        <item quantity="one">Fișier</item>
+        <item quantity="few">Fișiere</item>
+    </plurals>
+    <plurals name="photos_share_method_small_files">
+        <item quantity="other">Fișiere mici</item>
+        <item quantity="one">Fișier mic</item>
+        <item quantity="few">Fișiere mici</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s și încă %2$d de persoane</item>
+        <item quantity="one">%1$s și încă %2$d persoană</item>
+        <item quantity="few">%1$s și încă %2$d persoane</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d de elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Adaugi %d de fotografii similare?</item>
+        <item quantity="one">Adaugi %d fotografie similară?</item>
+        <item quantity="few">Adaugi %d fotografii similare?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_auto_added_photos">
+        <item quantity="other">%1$d de fotografii adăugate automat</item>
+        <item quantity="one">%1$d fotografie adăugată automat</item>
+        <item quantity="few">%1$d fotografii adăugate automat</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d de fotografii noi</item>
+        <item quantity="one">%1$d fotografie nouă</item>
+        <item quantity="few">%1$d fotografii noi</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s a adăugat %2$d de fotografii noi.</item>
+        <item quantity="one">%1$s a adăugat %2$d fotografie nouă.</item>
+        <item quantity="few">%1$s a adăugat %2$d fotografii noi.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Nu se pot șterge elementele</item>
+        <item quantity="one">Nu se poate șterge elementul</item>
+        <item quantity="few">Nu se pot șterge elementele</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Nu se pot șterge %d de elemente</item>
+        <item quantity="one">Nu se poate șterge %d element</item>
+        <item quantity="few">Nu se pot șterge %d elemente</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Nu se pot șterge definitiv %d de elemente</item>
+        <item quantity="one">Nu se poate șterge definitiv %d element</item>
+        <item quantity="few">Nu se pot șterge definitiv %d elemente</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d au fost șterse de pe dispozitiv.</item>
+        <item quantity="one">%d a fost șters de pe dispozitiv.</item>
+        <item quantity="few">%d au fost șterse de pe dispozitiv.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Se restabilesc elementele…</item>
+        <item quantity="one">Se restabilește elementul…</item>
+        <item quantity="few">Se restabilesc elementele…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Nu se pot restabili %d de elemente</item>
+        <item quantity="one">Nu se poate restabili %d element</item>
+        <item quantity="few">Nu se pot restabili %d elemente</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Ștergi definitiv elementele?</item>
+        <item quantity="one">Ștergi definitiv elementul?</item>
+        <item quantity="few">Ștergi definitiv elementele?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Șterge definitiv %d de elemente</item>
+        <item quantity="one">Șterge definitiv %d element</item>
+        <item quantity="few">Șterge definitiv %d elemente</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Au mai rămas %d de zile până la expirarea acestei versiuni. Actualizează aplicația pentru a putea folosi Google Foto în continuare.</item>
+        <item quantity="one">A mai rămas o zi până la expirarea acestei versiuni. Actualizează aplicația pentru a putea folosi Google Foto în continuare.</item>
+        <item quantity="few">Au mai rămas %d zile până la expirarea acestei versiuni. Actualizează aplicația pentru a putea folosi Google Foto în continuare.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Se încarcă %d de elemente</item>
+        <item quantity="one">Se încarcă %d element</item>
+        <item quantity="few">Se încarcă %d elemente</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">Se vor încărca %d de elemente când te conectezi.</item>
+        <item quantity="one">Se va încărca %d element când te conectezi.</item>
+        <item quantity="few">Se vor încărca %d elemente când te conectezi.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Se vor încărca %d de elemente când te conectezi la Wi-Fi.</item>
+        <item quantity="one">Se va încărca %d element când te conectezi la Wi-Fi.</item>
+        <item quantity="few">Se vor încărca %d elemente când te conectezi la Wi-Fi.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Se încarcă…%d rămase</item>
+        <item quantity="one">Se încarcă…%d rămas</item>
+        <item quantity="few">Se încarcă…%d rămase</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d de fișiere</item>
+        <item quantity="one">%d fișier</item>
+        <item quantity="few">%d fișiere</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s de fotografii</item>
+        <item quantity="one">%s fotografie</item>
+        <item quantity="few">%s fotografii</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s de elemente</item>
+        <item quantity="one">%s element</item>
+        <item quantity="few">%s elemente</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s de videoclipuri</item>
+        <item quantity="one">%s videoclip</item>
+        <item quantity="few">%s videoclipuri</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Selectează fotografii</item>
+        <item quantity="one">Selectează o fotografie</item>
+        <item quantity="few">Selectează fotografii</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Selectează elemente</item>
+        <item quantity="one">Selectează un element</item>
+        <item quantity="few">Selectează elemente</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Selectează videoclipuri</item>
+        <item quantity="one">Selectează un videoclip</item>
+        <item quantity="few">Selectează videoclipuri</item>
+    </plurals>
+</resources>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">მთავარზე ნავიგაცია</string>
+    <string name="abc_action_bar_up_description">ზემოთ ნავიგაცია</string>
+    <string name="abc_action_menu_overflow_description">მეტი ვარიანტები</string>
+    <string name="abc_action_mode_done">დასრულდა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_activitychooserview_choose_application">აპის არჩევა</string>
+    <string name="abc_capital_off">გამორთულია</string>
+    <string name="abc_capital_on">ჩართულია</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">წაშლა</string>
+    <string name="abc_menu_enter_shortcut_label">შეყვანა</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ძიება...</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_query">ძიების მოთხოვნა</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="abc_shareactionprovider_share_with_application">გაუზიარეთ %s-ს</string>
+    <string name="abc_slice_permission_allow">დაშვება</string>
+    <string name="abc_slice_permission_checkbox">%1$s-ისთვის ფრაგმენტების ნებისმიერი აპიდან ჩვენების ნების დართვა</string>
+    <string name="abc_slice_permission_deny">უარყოფა</string>
+    <string name="abc_slice_permission_text_1">- მას შეუძლია ინფორმაციის %1$s-დან წაკითხვა</string>
+    <string name="abc_slice_permission_text_2">- მას შეუძლია ქმედებების %1$s-ში განხორციელება</string>
+    <string name="abc_slice_permission_title">ანიჭებთ ნებართვას %1$s-ს, აჩვენოს %2$s-ის ფრაგმენტები?</string>
+    <string name="abc_slices_permission_request">%1$s-ს სურს, გაჩვენოთ %2$s-ის ფრაგმენტები</string>
+    <string name="abc_toolbar_collapse_description">აკეცვა</string>
+    <string name="all_topics_header_text">ყველა თემა</string>
+    <string name="allset_description">"თქვენი ტელეფონი მზად არის გამოყენებისთვის.
+
+შეგიძლიათ, გამორთოთ ჟესტებით ნავიგაცია და უკან ან მთავარზე გადასასვლელად და აპების გადასართავად გამოიყენოთ ღილაკები.
+"<annotation id="link">პარამეტრებზე გადასვლა</annotation></string>
+    <string name="allset_hint">დასაწყებად გადაფურცლეთ ზემოთ</string>
+    <string name="allset_page_title">მზად არის</string>
+    <string name="allset_setting_link">ნავიგაციის პარამეტრები მარტივი წვდომისთვის</string>
+    <string name="allset_title">მზადაა!</string>
+    <string name="app_name">Pixel-ის რჩევები</string>
+    <string name="article_helpful_feedback_toast">გმადლობთ გამოხმაურებისთვის. ეს დაგვეხმარება შემდგომი მინიშნებების შეტყობინებაში.</string>
+    <string name="article_helpful_no">არა</string>
+    <string name="article_helpful_talkback_selected_no">არჩეულია „არა“</string>
+    <string name="article_helpful_talkback_selected_yes">არჩეულია „დიახ“</string>
+    <string name="article_helpful_talkback_unselected_no">გაუქმებულია ღილაკის „არა“ არჩევა</string>
+    <string name="article_helpful_talkback_unselected_yes">გაუქმებულია ღილაკის „დიახ“ არჩევა</string>
+    <string name="article_helpful_text">სასარგებლოა?</string>
+    <string name="article_helpful_yes">დიახ</string>
+    <string name="asset_is_downloading_content_description">მიმდინარეობს ვიდეოს/სურათის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_enable_button">ჩართვა</string>
+    <string name="common_google_play_services_enable_text">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="common_google_play_services_enable_title">Google Play Services-ის ჩართვა</string>
+    <string name="common_google_play_services_install_button">ინსტალაცია</string>
+    <string name="common_google_play_services_install_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="common_google_play_services_install_title">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services-ის ხელმისაწვდომობა</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_google_play_services_update_text">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_google_play_services_update_title">განაახლეთ Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="common_google_play_services_wear_update_text">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="common_open_on_phone">ტელეფონში გახსნა</string>
+    <string name="common_signin_button_text">შესვლა</string>
+    <string name="common_signin_button_text_long">Google-ით შესვლა</string>
+    <string name="connectivity_summary_assets_download_slowly">ვიდეოებისა და სურათების სანახავად, ცადეთ Wi-Fi-სთან დაკავშირება ან ქსელების გადართვა</string>
+    <string name="connectivity_summary_assets_not_downloaded">ვიდეოებისა და სურათების საჩვენებლად საჭიროა ინტერნეტ-კავშირი</string>
+    <string name="module_1_0010_summary">აპების გადართვა, პარამეტრების სწრაფად შეცვლა, უკეთესი ფოკუსირება და სხვა</string>
+    <string name="module_1_0010_tag_text">დაწყება</string>
+    <string name="module_1_0010_title">[model_name]-თან მუშაობის დაწყება</string>
+    <string name="module_1_0101_summary">იპოვეთ აპები, გაიცანით ტელეფონი და სხვა</string>
+    <string name="module_1_0101_tag_text">დაწყება</string>
+    <string name="module_1_0101_title">Pixel-თან მუშაობის დაწყება</string>
+    <string name="module_1_1000_summary">ადრე iPhoneⓇ-ს იყენებდით? იპოვეთ აპები, გაიცანით ტელეფონი და სხვა</string>
+    <string name="module_1_1000_tag_text">დაწყება</string>
+    <string name="module_1_1000_title">Pixel-თან მუშაობის დაწყება</string>
+    <string name="module_2_1111_summary">ესაუბრეთ ასისტენტს, ამოიცანით მუსიკა „რა უკრავს“-ის მეშვეობით და სხვა</string>
+    <string name="module_2_1111_tag_text">მაქსიმალურად გამოიყენეთ Google</string>
+    <string name="module_2_1111_title">გამოიყენეთ Google-ის ყველა შესაძლებლობა</string>
+    <string name="module_3_1111_summary">გადაიღეთ ლამაზი პორტრეტები, გადართეთ რეჟიმებს შორის და სხვა</string>
+    <string name="module_3_1111_tag_text">დატკბით კამერით</string>
+    <string name="module_3_1111_title">ისარგებლეთ კამერით და ისიამოვნეთ ფოტოებით</string>
+    <string name="module_4_1111_summary">გააგზავნეთ სურათები, განახორციელეთ ვიდეოზარები და გააზიარეთ ფოტოები</string>
+    <string name="module_4_1111_tag_text">SMS-ების გაგზავნა და დარეკვა</string>
+    <string name="module_4_1111_title">SMS-ების გაგზავნა და დარეკვა</string>
+    <string name="module_5_1111_summary">სწრაფად გახსენით კამერა, შეამოწმეთ შეტყობინებები და სხვა</string>
+    <string name="module_5_1111_tag_text">გამოიყენეთ ჟესტები</string>
+    <string name="module_5_1111_title">ისარგებლეთ სწრაფი მალსახმობი ჟესტებით</string>
+    <string name="module_6_1111_summary">გააკონტროლეთ ეკრანთან გატარებული დრო, დააყენეთ კავშირის გაწყვეტის განრიგი და სხვა</string>
+    <string name="module_6_1111_tag_text">მართეთ თქვენი კომფორტი</string>
+    <string name="module_6_1111_title">მართეთ თქვენი ციფრული კომფორტი</string>
+    <string name="module_7_1111_summary">იხილეთ ერთდროულად ორი აპი, მოახდინეთ აპების ორგანიზება საქაღალდეების მეშვეობით და სხვა</string>
+    <string name="module_7_1111_tag_text">გახდით ექსპერტი</string>
+    <string name="module_7_1111_title">გახდით Pixel-ის ექსპერტი</string>
+    <string name="module_8_1111_summary">გააკეთეთ ჩანიშვნები, გადაიხადეთ Pixel-ით და გაეცანით უახლეს ამბებს</string>
+    <string name="module_8_1111_tag_text">დაათვალიერეთ აპები</string>
+    <string name="module_8_1111_title">გაეცანით ძირითად Google აპებს</string>
+    <string name="next_btn">შემდეგი</string>
+    <string name="next_module_link_back_home_page_text">შემდეგი: ყველა მინიშნების გაცნობა</string>
+    <string name="next_module_link_text">შემდეგი: %1$s</string>
+    <string name="next_tip_content_description">შემდეგი მინიშნება</string>
+    <string name="ob_gesture_app_go_back_media_description">ვიდეო უკან დასაბრუნებელი ახალი ჟესტის გამოსაყენებლად</string>
+    <string name="ob_gesture_app_go_back_summary">ბოლო ეკრანზე დასაბრუნებლად, გადაუსვით თითი მარცხენა ან მარჯვენა კიდიდან შუისკენ</string>
+    <string name="ob_gesture_app_go_back_title">უკან დაბრუნება</string>
+    <string name="ob_gesture_app_home_media_description">ვიდეო მთავარზე გადასასვლელი ახალი ჟესტის გამოსაყენებლად</string>
+    <string name="ob_gesture_app_home_summary">"გადაფურცლეთ ეკრანის ქვედა კიდიდან ზემოთ.
+ამ ჟესტს ყოველთვის მთავარ ეკრანზე გადაჰყავხართ."</string>
+    <string name="ob_gesture_app_home_title">მთავარ გვერდზე გადასვლა</string>
+    <string name="ob_gesture_app_overview_media_description">ვიდეო მიმოხილვისთვის ახალი ჟესტის გამოსაყენებლად</string>
+    <string name="ob_gesture_app_overview_summary">გადაფურცლეთ ეკრანის ქვედა კიდიდან ზემოთ და გეჭიროთ</string>
+    <string name="ob_gesture_app_overview_title">აპების გადართვა</string>
+    <string name="onboarding_education_page_title">ნავიგაციის ჟესტების შესავალი</string>
+    <string name="previous_module_link_text">წინა: %1$s</string>
+    <string name="previous_tip_content_description">წინა მინიშნება</string>
+    <string name="search_menu_title">ძიება</string>
+    <string name="settings_search_main_entry_screen_title">მინიშნებები და მხარდაჭერა > Pixel-ის მინიშნებების გაცნობა</string>
+    <string name="settings_search_main_entry_summary">გამოიყენეთ Pixel-ის ყველა შესაძლებლობა. უყურეთ ვიდეოებს და სხვა.</string>
+    <string name="smart_space_subtitle_android">შეეხეთ რჩევებისთვის</string>
+    <string name="smart_space_subtitle_ios">შეეხეთ რჩევებისთვის</string>
+    <string name="smart_space_subtitle_others">შეეხეთ რჩევებისთვის</string>
+    <string name="smart_space_subtitle_pixel">გაეცანით სიახლეებს</string>
+    <string name="smart_space_title">მოგესალმებათ ახალი Pixel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">გადაიღეთ პორტრეტები, დაიჭირეთ იდეალური კადრი და სხვა</string>
+    <string name="suggestion_summary_module_communication">გააგზავნეთ სურათები, განახორციელეთ ვიდეოზარები და სხვა</string>
+    <string name="suggestion_summary_module_gestures">შეამოწმეთ შეტყობინებები, გახსენით კამერა და სხვა</string>
+    <string name="suggestion_summary_module_google_smarts">ესაუბრეთ თქვენს Google ასისტენტს და სხვა</string>
+    <string name="suggestion_title_module_camera">ისარგებლეთ კამერით და ისიამოვნეთ ფოტოებით</string>
+    <string name="suggestion_title_module_communication">დარეკვისა და SMS-ების გაგზავნის რჩევები</string>
+    <string name="suggestion_title_module_gestures">ისარგებლეთ მალსახმობებით ჟესტების მეშვეობით</string>
+    <string name="suggestion_title_module_google_smarts">გამოიყენეთ Google-ის ყველა შესაძლებლობა</string>
+    <string name="tip_1_1_media_description">ვიდეო აპების პოვნის შესახებ</string>
+    <string name="tip_1_1_summary">ბოლოს გამოყენებული აპების სანახავად გადაფურცლეთ ეკრანის ქვედა ნაწილიდან ზემოთ. ქვედა ნაწილში იხილავთ პროგნოზირებულ აპებსაც. ყველა აპის სანახავად გადაფურცლეთ ზემოთ ხელახლა.</string>
+    <string name="tip_1_1_title">თქვენი აპების პოვნა</string>
+    <string name="tip_1_2_media_description">ვიდეო აპების ორგანიზების შესახებ</string>
+    <string name="tip_1_2_summary">"აპის მთავარ ეკრანზე დასამატებლად შეეხეთ და ჩავლებით გადაიტანეთ სასურველი აპი.
+
+აპის ამოსაშლელად ხანგრძლივად შეეხეთ აპს, შემდეგ კი ჩავლებით გადაიტანეთ ეკრანის ზედა ნაწილისკენ."</string>
+    <string name="tip_1_2_title">დაამატეთ აპები მთავარ ეკრანზე</string>
+    <string name="tip_1_3_link">Play Store-ზე გადასვლა</string>
+    <string name="tip_1_3_media_description">ძირითადი აპების სურათი</string>
+    <string name="tip_1_3_summary">"დაიწყეთ ამ აპებით სარგებლობა:
+— Play Store: დაათვალიერეთ აპები და ჩამოტვირთეთ ისინი
+— Google Photos: იპოვეთ, შეინახეთ და გააზიარეთ ფოტოები
+— Google Keep: შეინახეთ შენიშვნები, სიები და სხვა"</string>
+    <string name="tip_1_3_title">ძირითადი აპების გაცნობა</string>
+    <string name="tip_1_4_media_description">ვიდეო შეტყობინებების შესახებ</string>
+    <string name="tip_1_4_summary">"შეტყობინებების სანახავად გადაფურცლეთ ეკრანის ზედა ნაწილიდან ქვემოთ. შეტყობინების გასასუფთავებლად გადაფურცლეთ მასზე მარცხნივ ან მარჯვნივ.
+
+შეტყობინების შესახებ დამატებითი ინფორმაციის სანახავად ხანგრძლივად შეეხეთ მას."</string>
+    <string name="tip_1_4_title">შეტყობინებების ნახვა</string>
+    <string name="tip_1_5_media_description">ვიდეო პარამეტრების შეცვლის შესახებ</string>
+    <string name="tip_1_5_summary">"სწრაფი პარამეტრების გასახსნელად გადაფურცლეთ Pixel-ის ზედა ნაწილიდან ქვემოთ. სხვა პარამეტრების სანახავად ხელახლა გადაფურცლეთ ქვემოთ.
+
+პარამეტრის ჩასართავად ან გამოსართავად შეეხეთ მას. პარამეტრთან დაკავშირებული ვარიანტების სანახავად ხანგრძლივად შეეხეთ მას."</string>
+    <string name="tip_1_5_title">ზოგადი პარამეტრების სწრაფად შეცვლა</string>
+    <string name="tip_1_6_link">პარამეტრებზე გადასვლა</string>
+    <string name="tip_1_6_media_description">ვიდეო „არ შემაწუხოთ“ რეჟიმის შესახებ</string>
+    <string name="tip_1_6_summary">"თუ ტელეფონის გამოყენებისას კონცენტრირების შენარჩუნება გსურთ, შეგიძლიათ შეწყვიტოთ შეტყობინებების გამოჩენა.
+
+გაეცანით მართვის ახალ საშუალებებს „არ შემაწუხოთ“ რეჟიმში."</string>
+    <string name="tip_1_6_title">რეჟიმი „არ შემაწუხოთ“ უკეთ კონცენტრირებისთვის</string>
+    <string name="tip_1_7_media_description">ვიდეო ქმედებების ნახვის შესახებ</string>
+    <string name="tip_1_7_summary">"ხელმისაწვდომი ქმედებების (მაგალითად, რესტორანში მაგიდის დაჯავშნის) სანახავად ხანგრძლივად შეეხეთ ტექსტს.
+
+ამის გაკეთება შეგიძლიათ ნებისმიერი აპიდან, მათ შორის, აპებს შორის გადართვისას."</string>
+    <string name="tip_1_7_title">ქმედებების ნახვა ტექსტის არჩევისას</string>
+    <string name="tip_1_9_link">მხარდაჭერის სექციაზე გადასვლა</string>
+    <string name="tip_1_9_media_description">ვიდეო მინიშნებებისა და მხარდაჭერის შესახებ</string>
+    <string name="tip_1_9_summary">"დამატებითი მინიშნებების გაცნობა და მხარდაჭერის მიღება ნებისმიერ დროს შეგიძლიათ. უბრალოდ, გადადით პარამეტრებზე და აირჩიეთ „მინიშნებები და მხარდაჭერა“.
+
+იქ თქვენ შეძლებთ მინიშნებების გაცნობას, დამხმარე სტატიების დათვალიერებას ან Pixel-ის გუნდთან დაკავშირებას."</string>
+    <string name="tip_1_9_title">მიიღეთ დახმარება, როცა გჭირდებათ</string>
+    <string name="tip_2_1_link">გახსნა პარამეტრებში</string>
+    <string name="tip_2_1_link_description">ამ ფუნქციის ჩასართავად შეეხეთ ქვემოთ მოცემულ ღილაკს.</string>
+    <string name="tip_2_1_link_description_off">ამ ფუნქციის ჩასართავად შეეხეთ ქვემოთ მოცემულ ღილაკს.</string>
+    <string name="tip_2_1_link_off">ჩართვა პარამეტრებში</string>
+    <string name="tip_2_1_link_on">მოჭერის პარამეტრები</string>
+    <string name="tip_2_1_media_description">ვიდეო ასისტენტის გასაშვებად მოჭერის შესახებ</string>
+    <string name="tip_2_1_summary">Google ასისტენტთან ნებისმიერ დროს სასაუბროდ (მაშინაც კი, როცა ეკრანი გამორთულია) სწრაფად მოუჭირეთ ტელეფონის ქვედა ნახევარს, შემდეგ კი აუშვით.</string>
+    <string name="tip_2_1_title">მოჭერა ასისტენტის გასახსნელად</string>
+    <string name="tip_2_2_link">სხვა ქმედებები</string>
+    <string name="tip_2_2_media_description">ვიდეო ასისტენტის ქმედებების შესახებ</string>
+    <string name="tip_2_2_summary">"Google ასისტენტის მეშვეობით სწრაფად და მარტივად იპოვით სასურველ პასუხებს და შეასრულებთ სხვადასხვა დავალებას თქვენს Pixel-ზე.
+
+ასისტენტთან სასაუბროდ სწრაფად მოუჭირეთ ტელეფონის ქვედა ნახევარს, შემდეგ კი აუშვით და თქვით:
+
+— ხვალ პირველი რა მაქვს?
+— დაამატე კბილის პასტა ჩემს საყიდლების სიას
+— წავიდეთ სახლში"</string>
+    <string name="tip_2_2_title">თქვენი ასისტენტის შესაძლებლობების გაცნობა</string>
+    <string name="tip_2_3_link">Lens-ის გახსნა</string>
+    <string name="tip_2_3_media_description">ვიდეო Google Lens-ით ძიების შესახებ</string>
+    <string name="tip_2_3_summary">"საყვარელი ცხოველი, უჩვეულო მცენარე ან შთამბეჭდავი ნაგებობა დაინახეთ? Google Lens დაგეხმარებათ მის შესახებ დამატებითი ინფორმაციის მიღებაში.
+
+უბრალოდ, გახსენით კამერის აპი, ხანგრძლივად შეეხეთ ვიზირს, შემდეგ შეეხეთ თქვენთვის საინტერესო ობიექტს ეკრანზე."</string>
+    <string name="tip_2_3_title">მოიძიეთ ობიექტები თქვენ გარშემო Google Lens-ით</string>
+    <string name="tip_2_4_link">Google Play-ს გახსნა</string>
+    <string name="tip_2_4_link_description">„რა უკრავს“-ის გამოსაყენებლად საჭიროა Pixel-ის ემბიენტური სერვისების განახლება.</string>
+    <string name="tip_2_4_link_description_off">ამ ფუნქციის ჩასართავად შეეხეთ ქვემოთ მოცემულ ღილაკს.</string>
+    <string name="tip_2_4_link_off">ჩართვა პარამეტრებში</string>
+    <string name="tip_2_4_link_on">„რა უკრავს“-ის პარამეტრები</string>
+    <string name="tip_2_4_media_description">ვიდეო „რა უკრავს“-ის შესახებ</string>
+    <string name="tip_2_4_summary">„რა უკრავს“ ავტომატურად გაჩვენებთ ინფორმაციას იმ სიმღერის შესახებ, რომელიც უკრავს თქვენთან ახლოს.</string>
+    <string name="tip_2_4_title">„რა უკრავს“: სიმღერების ამოცნობა</string>
+    <string name="tip_2_5_link">კამერის გახსნა</string>
+    <string name="tip_2_5_media_description">ვიდეო კამერის შესახებ</string>
+    <string name="tip_2_5_summary">თქვენი Pixel ავტომატურად ამოიცნობს ტელეფონის ნომრებს, მისამართებს, ელფოსტას, შტრიხკოდებსა და QR კოდებს. უბრალოდ, გახსენით კამერა, მიუშვირეთ და დანარჩენზე კამერა იზრუნებს.</string>
+    <string name="tip_2_5_title">კამერის ამოქმედება</string>
+    <string name="tip_3_1_link">კამერის გახსნა</string>
+    <string name="tip_3_1_media_description">ვიდეო კამერის რეჟიმების შესახებ</string>
+    <string name="tip_3_1_summary">"ზოგჯერ შეიძლება გსურდეთ ფოტოს გადაღება, შემდეგ ვიდეოს ან თუნდაც სულ სხვა რამის.
+
+რეჟიმებს შორის გადასართველად, უბრალოდ, გახსენით კამერის ვიზირი და გადაფურცლეთ მარცხნივ ან მარჯვნივ. სხვა ვარიანტების სანახავად შეხებით აირჩიეთ „მეტი“."</string>
+    <string name="tip_3_1_title">ფოტო, ვიდეო და სხვა რეჟიმებს შორის გადართვა გადაფურცვლით</string>
+    <string name="tip_3_2_link">კამერის გახსნა</string>
+    <string name="tip_3_2_media_description">ვიდეო პორტრეტების გადაღების შესახებ</string>
+    <string name="tip_3_2_summary">"პორტრეტის რეჟიმში Pixel აბუნდოვნებს ფონს, რომ სურათები ლამაზი და პროფესიული გამოვიდეს. ცადეთ და თავად დარწმუნდით.
+
+უბრალოდ, გახსენით კამერა, გადაფურცლეთ მარცხნიდან მარჯვნივ და სულ ესაა."</string>
+    <string name="tip_3_2_title">ლამაზი პორტრეტების გადაღება</string>
+    <string name="tip_3_3_media_description">ვიდეო ეკრანის ანაბეჭდების გადაღების შესახებ</string>
+    <string name="tip_3_3_summary">"ხანგრძლივად დააჭირეთ ელკვების ღილაკზე, შემდეგ კი შეეხეთ „ეკრანის ანაბეჭდს“. სულ ესაა, თქვენი ეკრანის ანაბეჭდი უკვე გადაღებულია.
+
+ეკრანის ანაბეჭდზე რაიმეს დასახატად გამოჩენილ შეტყობინებაში შეეხეთ „რედაქტირებას“."</string>
+    <string name="tip_3_3_title">ეკრანის ანაბეჭდების სწრაფად გადაღება და რედაქტირება</string>
+    <string name="tip_3_4_link">კამერის გახსნა</string>
+    <string name="tip_3_4_media_description">ვიდეო „საუკეთესო კადრის“ მეშვეობით საუკეთესო მომენტის არჩევის შესახებ</string>
+    <string name="tip_3_4_summary">"ფოტოს ყოველი გადაღებისას Pixel ინახავს ერთ-ორ დამატებით სურათს, რომ საუკეთესო კადრის არჩევა შეძლოთ.
+
+1. დარწმუნდით, რომ „მოძრაობა“ [icon_span] ჩართულია და გადაიღეთ ფოტო
+2. გადაფურცლეთ ფოტოზე ქვემოდან ზემოთ
+3. ფოტოების ალტერნატიული ვარიანტების სანახავად შეეხეთ „კადრებს“"</string>
+    <string name="tip_3_4_title">აირჩიეთ საუკეთესო მომენტი „საუკეთესო კადრის“ მეშვეობით</string>
+    <string name="tip_3_5_link">კამერის გახსნა</string>
+    <string name="tip_3_5_media_description">ვიდეო ჯგუფური სელფის გადაღების შესახებ</string>
+    <string name="tip_3_5_summary">"„ჯგუფური სელფის“ ფუნქციის წყალობით, თქვენ აღარ დაგჭირდებათ სელფის ჯოხი, რომ კადრში დაეტიოს ყველა მეგობარი ან ლამაზი ხედი.
+
+1. გადაერთეთ წინა კამერაზე [icon_span]
+2. მასშტაბის შესამცირებლად ორმაგად შეეხეთ ეკრანს ან შეაერთეთ თითები"</string>
+    <string name="tip_3_5_title">გადაიღეთ ჯგუფური სელფი</string>
+    <string name="tip_4_1_link">Messages-ის გახსნა</string>
+    <string name="tip_4_1_media_description">ვიდეო სურათების გაგზავნის შესახებ</string>
+    <string name="tip_4_1_summary">"1. გახსენით საუბარი Messages აპში
+2. შეტყობინების აკრეფის ველის მარცხნივ შეეხეთ შექმნას [icon_span]
+3. აირჩიეთ სასურველი სურათი, emoji ან სტიკერი"</string>
+    <string name="tip_4_1_title">სურათების გაგზავნა</string>
+    <string name="tip_4_2_link">Duo-ს ინსტალაცია</string>
+    <string name="tip_4_2_link_off">Duo-ს ინსტალაცია</string>
+    <string name="tip_4_2_link_on">Duo-ს გახსნა</string>
+    <string name="tip_4_2_media_description">ვიდეო Google Duo-ს შესახებ</string>
+    <string name="tip_4_2_summary">"ოჯახის წევრებთან და უახლოეს მეგობრებთან პირისპირ საუბარზე უკეთესი არაფერია. სწორედ ამიტომ, Pixel გთავაზობთ ვიდეოზარების მარტივად განხორციელების საშუალებას Google Duo-ს მეშვეობით.
+
+1. გახსენით Google Duo აპი
+2. მოიძიეთ კონტაქტი
+3. დაიწყეთ ვიდეოზარი ერთი შეხებით, ან მოიწვიეთ თქვენი ახლობელი Google Duo-ს ჩამოსატვირთად
+
+Google Duo-ს გამოყენება iOSⓇ ტელეფონებისა და ტაბლეტების მომხმარებლებსაც შეუძლიათ."</string>
+    <string name="tip_4_2_title">ვიდეოზარების განხორციელება Google Duo-ს მეშვეობით</string>
+    <string name="tip_4_3_link">Google Photos-ის გახსნა</string>
+    <string name="tip_4_3_media_description">ვიდეო ფოტოების გაზიარების შესახებ</string>
+    <string name="tip_4_3_summary">"1. გახსენით Google Photos
+2. ხანგრძლივად შეეხეთ სურათის ასარჩევად
+3. სურვილისამებრ, აირჩიეთ რამდენიმე სურათი
+4. შეეხეთ გაზიარებას [icon_span]
+5. აირჩიეთ ადამიანები, ვისთანაც გსურთ გაზიარება"</string>
+    <string name="tip_4_3_title">ფოტოების გაზიარება</string>
+    <string name="tip_4_4_link">დაწყება</string>
+    <string name="tip_4_4_media_description">ვიდეო კომპიუტერიდან ტექსტური შეტყობინებების გაგზავნის შესახებ</string>
+    <string name="tip_4_4_summary">"Android Messages აპის მეშვეობით ტექსტური შეტყობინებების გაგზავნა პირდაპირ კომპიუტერიდან შეგიძლიათ. დასაწყებად გადადით Messages აპზე და მენიუდან აირჩიეთ „Messages ვებისთვის“.
+
+ტექსტის გარდა შეგიძლიათ გააგზავნოთ სტიკერები, emoji-ები და დართული სურათები."</string>
+    <string name="tip_4_4_title">გააგზავნეთ ტექსტური შეტყობინებები კომპიუტერიდან</string>
+    <string name="tip_5_1_link">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_1_link_off">ჩართვა პარამეტრებში</string>
+    <string name="tip_5_1_link_on">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_1_media_description">ვიდეო ტელეფონის შემოწმების შესახებ</string>
+    <string name="tip_5_1_summary">ეკრანზე ორმაგად შეხებით შეგიძლიათ შეამოწმოთ დრო, შეტყობინებები და სხვა ინფორმაცია.</string>
+    <string name="tip_5_1_title">ორმაგად შეხება ტელეფონის შესამოწმებლად</string>
+    <string name="tip_5_2_link">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_2_link_off">ჩართვა პარამეტრებში</string>
+    <string name="tip_5_2_link_on">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_2_media_description">ვიდეო კამერაზე სწრაფად გადასვლის შესახებ</string>
+    <string name="tip_5_2_summary">კამერაზე მომენტალურად გადასართველად ნებისმიერი ეკრანიდან დააჭირეთ ელკვების ღილაკზე ორჯერ.</string>
+    <string name="tip_5_2_title">კამერაზე სწრაფად გადასვლა</string>
+    <string name="tip_5_3_link">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_3_link_off">ჩართვა პარამეტრებში</string>
+    <string name="tip_5_3_link_on">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_3_media_description">ვიდეო პორტრეტის რეჟიმზე გადართვის შესახებ</string>
+    <string name="tip_5_3_summary">Google კამერაში სელფის რეჟიმის ჩასართავად/გამოსართავად აპით სარგებლობისას შეასრულეთ მოწყობილობის ორმაგი მოტრიალება.</string>
+    <string name="tip_5_3_title">კამერის შეტრიალება</string>
+    <string name="tip_5_4_link">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_4_link_off">ამის ჩართვა პარამეტრებში</string>
+    <string name="tip_5_4_link_on">პარამეტრებზე გადასვლა</string>
+    <string name="tip_5_4_media_description">ვიდეო შეტყობინებების შესამოწმებლად თითის ანაბეჭდით გადაფურცვლის შესახებ</string>
+    <string name="tip_5_4_summary">"შეტყობინებების შემოწმება შეგიძლიათ თითის ჩამოსმით თითის ანაბეჭდის სენსორზე, რომელიც მდებარეობს თქვენი ტელეფონის უკანა ნაწილზე.
+სწრაფი პარამეტრების სანახავად ხელახლა ჩამოუსვით თითი."</string>
+    <string name="tip_5_4_title">თითის ანაბეჭდით გადაფურცვლა შეტყობინებების შესამოწმებლად</string>
+    <string name="tip_5_5_media_description">ვიდეო აპებს შორის გადართვის შესახებ</string>
+    <string name="tip_5_5_summary">აპებს შორის სწრაფად გადასართველად ეკრანის ქვედა ნაწილში გადადით მარცხნიდან მარჯვნივ. აპის გასახსნელად აუშვით თითი.</string>
+    <string name="tip_5_5_title">აპებს შორის გადართვის უფრო სწრაფი ხერხი</string>
+    <string name="tip_6_1_link">ღამის განათების პარამეტრები</string>
+    <string name="tip_6_1_media_description">ვიდეო ღამის განათების შესახებ</string>
+    <string name="tip_6_1_summary">"ღამის განათება თქვენს ეკრანს მიანიჭებს ქარვისფერ ელფერს. მკრთალი სინათლე გაგიმარტივებთ ეკრანზე კითხვას ან ყურებას და დაგეხმარებათ უფრო სწრაფად დაძინებაში.
+
+ღამის განათების სწრაფად ჩართვა ან გამორთვა შეგიძლიათ სწრაფი პარამეტრებიდან. სანაცვლოდ, შეგიძლიათ ხანგრძლივად შეეხოთ და დააყენოთ განრიგი."</string>
+    <string name="tip_6_1_title">დაიძინეთ უფრო სწრაფად ღამის განათების მეშვეობით</string>
+    <string name="tip_6_2_link">ციფრული კომფორტის განახლება</string>
+    <string name="tip_6_2_link_off">ციფრული კომფორტის განახლება</string>
+    <string name="tip_6_2_link_on">დასვენების რეჟიმის დაყენება</string>
+    <string name="tip_6_2_media_description">ვიდეო დასვენების რეჟიმის მეშვეობით ძილის დროის განრიგის დაყენების შესახებ</string>
+    <string name="tip_6_2_summary">"დააყენეთ ღამის განრიგი და გაწყვიტეთ კავშირი ტელეფონთან.
+
+1. გახსენით „ციფრული კომფორტი“ [icon_span]
+2. შეეხეთ „დასვენების რეჟიმს“
+3. დააყენეთ დასვენების რეჟიმის განრიგი
+
+ძილის დროის მოახლოებისას ეკრანი შეიცვლის ფერს და ჩაირთვება რეჟიმი „არ შემაწუხოთ“, რომ შეტყობინებებმა ხელი არ შეგიშალოთ."</string>
+    <string name="tip_6_2_title">განსაზღვრეთ ძილის დრო „დასვენების რეჟიმის“ ფუნქციის მეშვეობით</string>
+    <string name="tip_6_3_link">„არ შემაწუხოთ“ რეჟიმისთვის ამობრუნების ცდა</string>
+    <string name="tip_6_3_link_off">ციფრული კომფორტის განახლება</string>
+    <string name="tip_6_3_link_on">პარამეტრებზე გადასვლა</string>
+    <string name="tip_6_3_media_description">ვიდეო ყურადღების გაფანტვის სწრაფად აღკვეთის შესახებ</string>
+    <string name="tip_6_3_summary">ამობრუნება „არ შემაწუხოთ“ რეჟიმისთვის საშუალებას გაძლევთ, ამოაბრუნოთ თქვენი ტელეფონი ეკრანით ქვემოთ, რომ გააქტიუროთ აღნიშნული რეჟიმი, რის შემდეგაც შეტყობინებები და ხმები აღარ შეგაწუხებთ.</string>
+    <string name="tip_6_3_title">სწრაფად აღკვეთეთ ყურადღების გაფანტვა</string>
+    <string name="tip_6_4_link">ციფრული კომფორტის განახლება</string>
+    <string name="tip_6_4_link_off">ციფრული კომფორტის განახლება</string>
+    <string name="tip_6_4_link_on">საინფორმაციო დაფის გახსნა</string>
+    <string name="tip_6_4_media_description">ვიდეო ციფრული კომფორტის შესახებ</string>
+    <string name="tip_6_4_summary">გაეცანით ციფრული კომფორტის საინფორმაციო დაფას პარამეტრებში, სადაც მოცემული იქნება მოკლე ინფორმაცია ეკრანთან გატარებული დროის შესახებ და საიდანაც შეგიძლიათ ტაიმერების დაყენება იმ აპებისთვის, რომლებიც გსურთ, ნაკლებად გამოიყენოთ.</string>
+    <string name="tip_6_4_title">ადევნეთ თვალი ეკრანთან გატარებულ დროს</string>
+    <string name="tip_7_1_media_description">ვიდეო საქაღალდეების მეშვეობით აპების ორგანიზების შესახებ</string>
+    <string name="tip_7_1_summary">"შექმენით საქაღალდეები, რომ მარტივად ადევნოთ თვალი თქვენს აპებს.
+
+საქაღალდის შესაქმნელად ჩავლებით გადაიტანეთ სასურველი აპი სხვა აპის თავზე. ახალ საქაღალდეს შეგიძლიათ დაარქვათ სახელი.
+
+ამის შემდეგ შეგიძლიათ საქაღალდეში სხვა აპების გადატანა ჩავლებით, ან არასასურველი აპის საქაღალდიდან ჩავლებით გამოტანა."</string>
+    <string name="tip_7_1_title">მოაწესრიგეთ აპები საქაღალდეების მეშვეობით</string>
+    <string name="tip_7_2_media_description">ვიდეო ერთდროულად 2 აპის გამოყენების შესახებ</string>
+    <string name="tip_7_2_summary">"ტელეფონზე ეკრანის გაყოფის დაყენების მეშვეობით შეგიძლიათ ერთდროულად ისარგებლოთ ორი აპით და შეასრულოთ რამდენიმე ამოცანა.
+
+1. ბოლოდროინდელი აპების სანახავად გადაფურცლეთ ეკრანზე ქვემოდან ზემოთ
+2. ხანგრძლივად შეეხეთ აპის ხატულას ეკრანის ზედა ნაწილში
+3. შეეხეთ ეკრანის გაყოფას
+
+გადაიტანეთ გამყოფი ზემოთ ან ქვემოთ. დასრულების შემდეგ გააქრეთ გამყოფი თითით გადაფურცვლის მეშვეობით."</string>
+    <string name="tip_7_2_title">ისარგებლეთ ერთდროულად ორი აპით</string>
+    <string name="tip_7_3_link">Google ასისტენტის გახსნა</string>
+    <string name="tip_7_3_media_description">ვიდეო ტელეფონის ასისტენტის მეშვეობით მართვის შესახებ</string>
+    <string name="tip_7_3_summary">"ასისტენტი დაგეხმარებათ ამა თუ იმ ქმედების უფრო სწრაფად შესრულებაში. ასისტენტთან სასაუბროდ სწრაფად მოუჭირეთ ტელეფონის ქვედა ნახევარს. შემდეგ კი თქვით, მაგალითად:
+
+1. „გადაიღე სელფი“
+2. „გადაიღე ეკრანის ანაბეჭდი“
+3. „ჩართე ფანარი“"</string>
+    <string name="tip_7_3_title">შეასრულეთ ყოველდღიური ამოცანები Google ასისტენტის მეშვეობით</string>
+    <string name="tip_8_1_link">Google Keep-ის ინსტალაცია</string>
+    <string name="tip_8_1_link_off">Google Keep-ის ინსტალაცია</string>
+    <string name="tip_8_1_link_on">Google Keep-ის გახსნა</string>
+    <string name="tip_8_1_media_description">ვიდეო ჩანიშვნების გაკეთების შესახებ</string>
+    <string name="tip_8_1_summary">"Google Keep აპის მეშვეობით შეგიძლიათ სწრაფად ჩაიწეროთ თქვენი აზრები. დაამატეთ შენიშვნები, სიები, ფოტოები და აუდიოკონტნეტი.
+
+გარდა ამისა, შეგიძლიათ დააყენოთ შეხსენებები, რომ არ დაგავიწყდეთ საქმის შესრულება. ამასთანვე, Google Keep საშუალებას გაძლევთ, მარტივად გაუზიაროთ თქვენი ჩანიშვნები მეგობრებსა თუ ოჯახის წევრებს."</string>
+    <string name="tip_8_1_title">გააკეთეთ ჩანიშვნები და ისარგებლეთ Google Keep-ის სხვა ფუნქციებით</string>
+    <string name="tip_8_2_link">Google News-ის ინსტალაცია</string>
+    <string name="tip_8_2_link_off">Google News-ის ინსტალაცია</string>
+    <string name="tip_8_2_link_on">Google News-ის გახსნა</string>
+    <string name="tip_8_2_media_description">ვიდეო Google News-ის შესახებ</string>
+    <string name="tip_8_2_summary">"გაეცანით მთავარ, ადგილობრივ და საერთაშორისო ახალ ამბებს.
+
+მხოლოდ ერთი შეხებაა საკმარისი იმისთვის, რომ შეიტყოთ მთავარი სიახლეების შესახებ თქვენი რჩეული წყაროებიდან. თქვენ იხილავთ ძირითადი მომენტების ქრონოლოგიას, მოსაზრებებს, ანალიზს და სხვა ინფორმაციას, რომელიც დაგეხმარებათ ამბის უფრო სიღრმისეულად გაგებაში."</string>
+    <string name="tip_8_2_title">იყავით საქმის კურსში Google News-ის მეშვეობით</string>
+    <string name="tip_8_3_link">Google Pay-ს ინსტალაცია</string>
+    <string name="tip_8_3_link_off">Google Pay-ს ინსტალაცია</string>
+    <string name="tip_8_3_link_on">Google Pay-ს გახსნა</string>
+    <string name="tip_8_3_media_description">ვიდეო Google Pay-ს შესახებ</string>
+    <string name="tip_8_3_summary">"Google Pay-ს მეშვეობით შეგიძლიათ მილიონობით მაღაზიაში ანგარიშსწორება მხოლოდ Pixel ტელეფონის მეშვეობით. ამისთვის:
+
+1. დაამატეთ ბარათი Google Pay-ს
+2. ანგარიშსწორებისას იპოვეთ უკონტაქტო სიმბოლო [icon_span]
+3. განბლოკეთ ტელეფონი და დაიჭირეთ ის ტემინალთან
+4. დაელოდეთ ეკრანზე თოლიას ნიშნის გამოჩენას
+
+სულ ეს არის!"</string>
+    <string name="tip_8_3_title">გადაიხადეთ Pixel-ით</string>
+    <string name="tips_nav_a11y_media_description">ვიდეო მარტივი წვდომის ახალი ჟესტის გამოსაყენებლად</string>
+    <string name="tips_nav_a11y_summary">"წარმოსათქმელად მონიშვნის ან გადიდების ფუნქციებზე წვდომისთვის ორი თითით გადაფურცლეთ ეკრანის ქვედა ნაწილიდან ზემოთ.
+
+მარტივი წვდომის აპებს შორის გადასართველად ორი თითით გადაფურცლეთ ზემოთ და დააყოვნეთ.
+
+ამ ჟესტების გამოყენება შეგიძლიათ დაყენების დასრულების შემდეგ."</string>
+    <string name="tips_nav_a11y_title">მარტივი წვდომის ახალი ჟესტის გამოყენება</string>
+    <string name="title_download_completed_dialog">ახალი მინიშნებების ხელახლა ჩატვირთვა</string>
+    <string name="try_it_text">ცადეთ</string>
+    <string name="zero_state_primary">უკვე ყველაფერი წაიკითხეთ</string>
+    <string name="zero_state_secondary">გაეცანით ახალ მინიშნებებს მოგვიანებით</string>
+</resources>

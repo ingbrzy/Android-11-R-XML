@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="app_has_in_app_purchases">"Compres des de l'aplicació"</string>
+    <string name="app_has_permissions">Permisos: %s</string>
+    <string name="app_has_runtime_permissions">"L'aplicació demanarà permisos"</string>
+    <string name="app_picker_group_default_title">Les teves aplicacions</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">"S'estan cercant les aplicacions disponibles…"</string>
+    <string name="app_picker_loading_toast">Les aplicacions disponibles es carregaran aviat</string>
+    <string name="app_picker_no_apps">"No s'ha seleccionat cap aplicació"</string>
+    <string name="app_picker_no_apps_found">"No s'ha trobat cap aplicació"</string>
+    <string name="apps_permissions_described_v2">"Només les aplicacions iOS® populars i gratuïtes es poden fer correspondre amb les del sistema Android. La majoria de les compres fetes des de les aplicacions no es transferiran. Trobaràs més aplicacions a Play Store un cop hagi finalitzat la configuració.
+
+És possible que algunes aplicacions requereixin el teu permís previ per accedir a certa informació o per utilitzar capacitats determinades del dispositiu. Els permisos s'organitzen en grups. Si decideixes instal·lar aquestes aplicacions, acceptes els permisos inclosos en cada grup. A continuació s'ofereix una descripció de cada grup de permisos.
+
+Pot ser que algunes aplicacions no requereixin el teu permís previ. En aquests casos, pots donar permís a cada aplicació o denegar-lo individualment, abans que l'aplicació comenci a fer servir aquests tipus de dades.
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">Google Calendar</string>
+    <string name="auto_synced_item_google_contacts">Contactes de Google</string>
+    <string name="auto_synced_item_google_photos">Google Fotos</string>
+    <string name="auto_synced_title">Sincronitzats automàticament</string>
+    <string name="backup_d2d_migration_tool_activity_name">Eina de transferència de dades</string>
+    <string name="button_dont_copy">No copiïs</string>
+    <string name="button_dont_restore">No restauris</string>
+    <string name="button_dont_restore_apps">No restauris les apps</string>
+    <string name="cancel_copy_button">Atura la còpia</string>
+    <string name="character_counter_content_description">Caràcters introduïts: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">"S'ha superat el límit de caràcters (%1$d de %2$d)"</string>
+    <string name="clear_text_end_icon_content_description">Esborra el text</string>
+    <string name="close_button_label">Tanca</string>
+    <string name="cloud_restore_app_picker_description_no_apps">La còpia de seguretat no conté cap aplicació</string>
+    <string name="cloud_restore_app_picker_title">Tria les aplicacions que vulguis restaurar</string>
+    <string name="common_cancel">Cancel·la</string>
+    <string name="common_confirm">Confirma</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si Serveis de Google Play no està instal·lat al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu.</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
+    <string name="common_ok">"D'acord"</string>
+    <string name="common_restore">Restaura</string>
+    <string name="common_skip">Omet</string>
+    <string name="common_try_again">Torna a provar</string>
+    <string name="contacts_no_number_device_and_sim">Contactes del dispositiu i de la SIM</string>
+    <string name="contacts_number_device_and_icloud">"%1$d d'iCloud®, %2$d del dispositiu"</string>
+    <string name="content_selector_ui_title">Tria què vols restaurar</string>
+    <string name="continue_button">Continua</string>
+    <string name="continue_setup_description">Pots continuar amb la configuració del teu ^1</string>
+    <string name="copied_contacts_group_label">Copiats des del dispositiu %1$s</string>
+    <string name="copied_contacts_group_label_default">Copiats mitjançant transferència per cable</string>
+    <string name="copied_contacts_group_label_ios">"Copiats des d'iOS"</string>
+    <string name="copy_button">Copia</string>
+    <string name="d2d_app_picker_description_no_apps">No hem trobat cap aplicació</string>
+    <string name="d2d_app_picker_title">Aplicacions</string>
+    <string name="data_copied_fragment_description">Ja pots desconnectar el cable</string>
+    <string name="data_copied_fragment_description_cancel">"Has decidit aturar la còpia, de manera que només s'han copiat algunes dades al telèfon nou."</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"Has decidit aturar la còpia, de manera que no s'ha copiat res al telèfon nou."</string>
+    <string name="data_copied_fragment_description_error">"S'ha produït un error i no hem pogut copiar-ho tot."</string>
+    <string name="data_copied_fragment_description_error_no_data">"S'ha produït un error i no hem pogut copiar les teves dades."</string>
+    <string name="data_copied_fragment_no_data_title">"No s'ha pogut copiar"</string>
+    <string name="data_copied_fragment_some_data_title">"S'han copiat algunes dades"</string>
+    <string name="data_copied_fragment_title">La còpia ha finalitzat</string>
+    <string name="device_not_supported_fragment_new_device">"Has connectat un telèfon nou. Per continuar, torna a connectar l'anterior."</string>
+    <string name="device_not_supported_fragment_new_device_title">Torna a connectar el telèfon anterior</string>
+    <string name="device_not_supported_fragment_no_data_cable">"No es poden transferir dades amb aquest cable. Connecta'n un de diferent i torna-ho a provar."</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prova un altre cable</string>
+    <string name="device_not_supported_fragment_other_ways_btn">"Copia les dades d'una altra manera"</string>
+    <string name="device_not_supported_fragment_retry_description">"Comprova que el telèfon antic estigui desbloquejat i, a continuació, desconnecta el cable i torna'l a connectar"</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">"S'ha produït un error"</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">"Torna a connectar el dispositiu amb un cable que encaixi a l'adaptador que hi ha a la capsa"</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">Aquest cable no funciona</string>
+    <string name="device_not_supported_ios_supervised_description">El teu dispositiu iPhone® està supervisat, així que hauràs de triar una altra manera de copiar les dades</string>
+    <string name="device_picker_empty">No hi ha cap còpia de seguretat enllaçada a %1$s.</string>
+    <string name="device_picker_empty_title">"No s'ha trobat cap còpia de seguretat"</string>
+    <string name="device_picker_item">Còpia de seguretat de: %1$s</string>
+    <string name="device_picker_summary_work_profile">"Restaura les aplicacions per a la feina des d'un telèfon antic"</string>
+    <string name="device_picker_title">Tria la còpia de seguretat que vulguis restaurar</string>
+    <string name="device_picker_title_work_profile">Tria un telèfon</string>
+    <string name="dialog_continue_button_label">Continua</string>
+    <string name="download_file_description">"Copiats des d'un altre dispositiu"</string>
+    <string name="drive_backup_content_callhistory_title">Historial de trucades</string>
+    <string name="drive_backup_content_contacts_title">Contactes</string>
+    <string name="drive_backup_content_devicesettings_title">Configuració del dispositiu</string>
+    <string name="durationDayHour">%1$d dia %2$d h</string>
+    <string name="durationDayHours">%1$d dia %2$d h</string>
+    <string name="durationDays">%1$d dies</string>
+    <string name="durationHoursMinutes">%1$d h %2$d min</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinutes">%1$d minuts</string>
+    <string name="encryption_warning_fragment_description">"El teu dispositiu iPhone® té la funció d'encriptació de la còpia de seguretat activada. Si no l'has activat manualment, és possible que ho hagi fet el departament d'administració de TI.
+
+Només es poden transferir fotos, música i vídeos. Per obtenir-ne més informació, visita "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Encriptació de la còpia de seguretat</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="esim_transferring_fragment_header">"S'està activant %1$s…"</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">Pots decidir transferir les aplicacions, les fotos, els contactes, el Compte de Google i molt més.</string>
+    <string name="flow_choice_description_text_new_esim">Pots decidir transferir les aplicacions, les fotos, els contactes, el Compte de Google, el número de telèfon i molt més.</string>
+    <string name="flow_choice_dont_copy_data_esim">Configura només el número</string>
+    <string name="flow_choice_title">Copia aplicacions i dades</string>
+    <string name="fragment_app_picker_d2d_title">Tria les aplicacions</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"Hem trobat aplicacions que coincideixen per a ^1 de les teves aplicacions ^2 d'iOS®. És possible que no es puguin transferir algunes compres fetes des d'aplicacions.
+
+En instal·lar cada aplicació, n'acceptes els permisos. "<annotation id="apps_permissions_learn_more">Obtén més informació</annotation>.</string>
+    <string name="fragment_connecting_title">"S'està connectant al telèfon antic…"</string>
+    <string name="fragment_indexing_description">Tria les dades que vols copiar a la pantalla següent</string>
+    <string name="fragment_indexing_title">"S'estan cercant dades…"</string>
+    <string name="fragment_indexing_verify_password_title">"S'està verificant la contrasenya…"</string>
+    <string name="fragment_ios_decryption_description">"Per transferir més contingut, com ara missatges SMS i contactes, introdueix la contrasenya de còpia de seguretat d'iTunes®"</string>
+    <string name="fragment_ios_decryption_forgot_password_button">Has oblidat la contrasenya?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">"No podem transferir contingut encriptat sense la teva contrasenya de còpia de seguretat d'iTunes®. El contingut no encriptat es transferirà al teu Pixel."</string>
+    <string name="fragment_ios_decryption_forgot_password_title">No es pot transferir contingut encriptat</string>
+    <string name="fragment_ios_decryption_password_hint">"Escriu contrasenya còpia de seguretat d'iTunes®"</string>
+    <string name="fragment_ios_decryption_skip_button">Omet contingut encriptat</string>
+    <string name="fragment_ios_decryption_skip_password_description">"No es transferiran els teus contactes d'iCloud®, els contactes del dispositiu ni els missatges d'iMessage®"</string>
+    <string name="fragment_ios_decryption_skip_password_title">Vols ometre el contingut encriptat?</string>
+    <string name="fragment_ios_decryption_title">El teu dispositiu iPhone® està encriptat</string>
+    <string name="fragment_ios_decryption_wrong_password_error">La contrasenya no és correcta. Torna-ho a provar.</string>
+    <string name="fragment_ios_device_management_confirm_title">Confirma la supressió de la gestió</string>
+    <string name="fragment_ios_device_management_detected_description">"La teva organització gestiona el dispositiu iPhone®, que té contingut encriptat.
+
+Per transferir els contactes d'iCloud®, els contactes del dispositiu i els missatges d'iMessage®, has de suprimir la gestió del dispositiu a l'iPhone®."</string>
+    <string name="fragment_ios_device_management_detected_title">Hi ha contingut encriptat</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">Mostra els passos</string>
+    <string name="fragment_ios_device_management_not_removed_description">"La gestió del dispositiu encara està instal·lada al dispositiu iPhone®. Per suprimir-la, segueix els passos anteriors.
+
+Si no se suprimeix la gestió del dispositiu, no podem transferir contingut encriptat al telèfon Pixel nou."</string>
+    <string name="fragment_ios_device_management_not_removed_title">No es pot transferir contingut encriptat</string>
+    <string name="fragment_ios_device_management_open_settings_description">Al teu iPhone®, ves a <b>Configuració > General > Gestió de perfils i dispositius</b></string>
+    <string name="fragment_ios_device_management_open_settings_title">Obre les opcions de configuració de gestió</string>
+    <string name="fragment_ios_device_management_passcode_title">Introdueix la contrasenya</string>
+    <string name="fragment_ios_device_management_remove_title">Suprimeix la gestió</string>
+    <string name="fragment_ios_device_management_risk_description">"Quan suprimeixes la gestió del dispositiu, és possible que perdis l'accés als recursos de la feina.
+
+Contacta amb l'administrador de TI si tens cap problema en reinstal·lar la gestió del dispositiu un cop finalitzada la configuració."</string>
+    <string name="fragment_ios_device_management_risk_title">Suprimeix la gestió del dispositiu</string>
+    <string name="fragment_ios_device_management_select_management_title">"Toca l'opció a sota de Gestió de dispositius mòbils"</string>
+    <string name="fragment_ios_device_management_skip_button">Omet el contingut encriptat</string>
+    <string name="fragment_ios_instructions_description">Per continuar, comprova el dispositiu iPhone® i aprova la connexió</string>
+    <string name="fragment_ios_instructions_reconnect_cable">Tens problemes? Prova de desconnectar i tornar a connectar els telèfons.</string>
+    <string name="fragment_ios_recoverable_error_description">Per tornar-ho a provar, desconnecta i torna a connectar els telèfons</string>
+    <string name="fragment_ios_recoverable_error_title">No es pot desencriptar el dispositiu iPhone®</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">"No es transferiran els teus contactes d'iCloud®, els contactes del dispositiu ni els missatges d'iMessage®"</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">Vols ometre el contingut encriptat?</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_description">Un cop hagis configurat el telèfon, podràs transferir un segon número inserint-hi una targeta SIM</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_dismiss">Entesos</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_title">Com es pot transferir un altre número</string>
+    <string name="fragment_restore_choice_title">Tria què vols copiar</string>
+    <string name="fragment_smart_device_ui_finished_title">"S'està obtenint la informació del compte…"</string>
+    <string name="fragment_target_connected_description">"S'està preparant per copiar…"</string>
+    <string name="fragment_target_connected_description_with_permissions">És possible que hagis de concedir permisos al telèfon antic</string>
+    <string name="fragment_target_connected_title">Els telèfons estan connectats</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s, del dia %3$s</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">Tot</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">Totes les fotos</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">Cap</string>
+    <string name="fragment_target_photos_and_videos_picker_description">"Les fotos i els vídeos ocuparan un %d%% de l'espai d'emmagatzematge del telèfon"</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">Inclou vídeos</string>
+    <string name="fragment_target_photos_and_videos_picker_title">Tria fotos i vídeos</string>
+    <string name="fragment_usb_cable_doesnt_fit">No tens cap cable vàlid?</string>
+    <string name="fragment_usb_cant_find_adapter">No tens cap adaptador?</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Si no pots connectar el cable, fes servir l'adaptador Quick Switch inclòs amb el teu ^1.
+
+Connecta el cable a l'adaptador."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">"Connecta-hi l'adaptador i el cable"</string>
+    <string name="fragment_usb_connect_both_phones_description">"Insereix l'adaptador a ^1"</string>
+    <string name="fragment_usb_connect_both_phones_title">Connecta-hi els dos telèfons</string>
+    <string name="fragment_usb_dialog_cancel_description">"Si fas servir un cable, podràs transferir la majoria del contingut, inclosos els SMS.
+
+Si no pots connectar el cable inclòs amb el telèfon, prova d'utilitzar el cable de càrrega o de dades del telèfon antic."</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">"Si fas servir un cable amb el telèfon antic, podràs transferir el contingut més ràpid.
+
+Si no pots connectar el cable inclòs amb el telèfon, prova d'utilitzar el cable de càrrega o de dades del telèfon antic."</string>
+    <string name="fragment_usb_dialog_cancel_title">"Vols transferir les dades d'una altra manera?"</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"Pots restaurar més dades, inclosos vídeos i fotos, si utilitzes el teu telèfon antic.
+
+Per restaurar les dades sense el telèfon antic, inicia la sessió amb el teu nom d'usuari i la teva contrasenya a la pantalla següent."</string>
+    <string name="fragment_usb_dialog_without_old_phone_description_esim">"Pots restaurar més dades i transferir el teu número més fàcilment si fas servir el teu telèfon antic.
+
+Per restaurar les dades sense el telèfon antic, inicia la sessió amb el teu nom d'usuari i la teva contrasenya a la pantalla següent."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">Vols restaurar les dades sense el telèfon antic?</string>
+    <string name="fragment_usb_dont_have_cable">No tens cap cable?</string>
+    <string name="fragment_usb_dont_have_old_phone">No pots fer servir el telèfon antic?</string>
+    <string name="fragment_usb_find_cable_description">Utilitza un cable que es pugui connectar al telèfon antic. Normalment serveix el cable de càrrega.</string>
+    <string name="fragment_usb_find_cable_title">Utilitza el cable del telèfon antic</string>
+    <string name="fragment_usb_initial_description">Necessites el teu dispositiu Android o iPhone® antic. Encén-lo i mantén-lo desbloquejat.</string>
+    <string name="fragment_usb_initial_title">Utilitza el telèfon antic</string>
+    <string name="fragment_usb_missing_data_description">Pots continuar configurant el dispositiu ^1 durant la transferència.</string>
+    <string name="fragment_usb_missing_data_title">Copia les teves dades</string>
+    <string name="fragment_usb_other_ways">"Copia d'una altra manera"</string>
+    <string name="fragment_usb_plug_cable">Insereix el cable al telèfon antic</string>
+    <string name="fragment_waiting_title">Un moment…</string>
+    <string name="fragment_wifi_d2d_unsupported_description">El teu telèfon antic no admet transferències de dades, però podràs transferir-ne contingut després de la configuració.</string>
+    <string name="fragment_wifi_d2d_unsupported_title">No es poden transferir dades sense fil</string>
+    <string name="fragment_wifi_restore_choice_title">Utilitza el teu telèfon antic per transferir dades sense fil</string>
+    <string name="fragment_wifi_restore_choice_use_iphone_button">Estàs fent servir un dispositiu iPhone®?</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Contactes de Google se sincronitzarà</string>
+    <string name="google_one_download_notification_collapsed_body">Instal·la Google One per restaurar la resta de les teves dades</string>
+    <string name="google_one_download_notification_expanded_body">"Instal·la l'aplicació Google One per restaurar la resta de les teves dades. D'aquesta manera, al dispositiu nou veuràs dades com ara les fotos, els vídeos i els missatges."</string>
+    <string name="google_one_download_notification_title">Acaba de recuperar les dades</string>
+    <string name="google_one_product_name">Google One</string>
+    <string name="imessage_dialog_message">"Per continuar rebent SMS d'usuaris d'iPhone®, has de desactivar iMessage® al telèfon antic. Pots continuar utilitzant iMessage® en altres dispositius, com ara en un iPad®.
+
+Quan hagis acabat de configurar el teu dispositiu ^1, ves a "<b>g.co/iMessageHelp</b> i segueix les instruccions.</string>
+    <string name="imessage_dialog_title">"Rep missatges d'usuaris d'iPhone®"</string>
+    <string name="instructions_fragment_title">"Comprova l'altre telèfon"</string>
+    <string name="ios_connected_fragment_description_has_account">"Farem servir el teu compte de Google per transferir aplicacions i esdeveniments del Calendari d'iOS®"</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">"Farem servir el teu Compte de Google per transferir aplicacions, i esdeveniments del Calendari i Notes d'iOS®"</string>
+    <string name="ios_connected_fragment_description_no_account">"A la pantalla següent, pots iniciar la sessió al teu compte de Google o crear-ne un.
+
+Si no afegeixes el teu compte de Google, no es transferiran les aplicacions ni els esdeveniments del Calendari d'iOS®."</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"A la pantalla següent, pots iniciar la sessió al teu Compte de Google o crear-ne un.
+
+Si no afegeixes el teu Compte de Google, no es transferiran les aplicacions, ni els esdeveniments del Calendari i les Notes d'iOS®."</string>
+    <string name="ios_migration_default_calendar_title">Calendari</string>
+    <string name="ios_migration_other_contact_relation">Una altra opció</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"Hi ha vídeos i fotos d'iCloud® que no s'han pogut copiar.
+
+Per poder accedir a aquest contingut des del teu ^1, instal·la l'aplicació Google Fotos a l'iPhone® i activa "<b>Còpia de seguretat i sincronització</b>. Visita <b>g.co/datatransferhelp</b> per obtenir més informació.</string>
+    <string name="key_recovery_instruction_description">Per desencriptar la còpia de seguretat, introdueix el bloqueig de pantalla del teu telèfon antic a la pantalla següent</string>
+    <string name="key_recovery_instruction_title">Confirma el bloqueig de pantalla del teu %s antic</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="lock_screen_entry_title">Confirma el bloqueig de pantalla del teu %s antic</string>
+    <string name="lock_screen_error_other">"S'ha produït un error. Torna-ho a provar més tard."</string>
+    <string name="lock_screen_error_wrong_password">La contrasenya no és correcta</string>
+    <string name="lock_screen_error_wrong_pattern">El patró no és correcte</string>
+    <string name="lock_screen_error_wrong_pin">El PIN no és correcte</string>
+    <string name="lockscreen_access_pattern_area">Àrea del patró</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">"S'ha afegit la cel·la %d"</string>
+    <string name="lockscreen_access_pattern_cleared">"S'ha esborrat el patró"</string>
+    <string name="lockscreen_access_pattern_detected">"S'ha completat el patró"</string>
+    <string name="lockscreen_access_pattern_start">"S'ha iniciat el patró"</string>
+    <string name="manage_storage_button">"Gestiona l'emmagatzematge"</string>
+    <string name="megabyteShort">MB</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">"Canvia a l'any %1$s"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca per canviar a la selecció del dia</string>
+    <string name="mtrl_picker_toggle_to_year_selection">"Toca per canviar a la selecció de l'any"</string>
+    <string name="oem_use_old_device_description">Necessites el teu dispositiu Android, iPhone® o iPad® antic</string>
+    <string name="oem_use_old_device_title">Utilitza el dispositiu antic</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_and_videos_picker_no_items">"No s'ha seleccionat"</string>
+    <string name="progressing_description">Aquest procés pot tardar uns quants minuts</string>
+    <string name="restore_choice_android_device_label">"Una còpia de seguretat d'un telèfon Android"</string>
+    <string name="restore_choice_android_device_label_new">Android</string>
+    <string name="restore_choice_android_device_summary">Utilitza el teu telèfon antic per copiar dades sense fil</string>
+    <string name="restore_choice_data_disclaimer">És possible que algunes de les teves dades no es transfereixin al teu ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Més informació</annotation>.</string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">"Aquesta còpia de seguretat és d'un dispositiu amb una versió d'Android més recent. És possible que algunes dades no es restaurin al telèfon nou."</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">És possible que algunes dades no es transfereixin al teu ^1.</string>
+    <string name="restore_choice_deselect_some_content">Desselecciona part del contingut per continuar</string>
+    <string name="restore_choice_dont_have_old_phone">No pots fer servir el telèfon antic?</string>
+    <string name="restore_choice_google_account_label">Una còpia de seguretat del núvol</string>
+    <string name="restore_choice_google_account_summary">"Inicia la sessió amb el teu nom d'usuari i la teva contrasenya"</string>
+    <string name="restore_choice_ios_device_label">Un dispositiu iPhone®</string>
+    <string name="restore_choice_learn_more_android">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● elements baixats (com ara fitxers PDF)
+
+ ● fotos, vídeos i música emmagatzemats en carpetes ocultes
+
+ ● fotos, vídeos i música rebuts per missatge de text
+
+ ● aplicacions que no són de Google Play Store
+
+ ● dades d'aplicacions (si l'aplicació no fa servir Android Backup)
+
+ ● determinades opcions de configuració del dispositiu
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google
+
+ ● sons de trucada
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, ves a g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● aplicacions i dades d'aplicacions
+
+ ● fotos que no tenen el fitxer original emmagatzemat al telèfon (per exemple, si l'opció Optimitzar emmagatzematge està activada, les fotos originals es desen a iCloud®)
+
+ ● fitxers i documents emmagatzemats a iCloud®
+
+ ● opcions de configuració del dispositiu (com ara les contrasenyes de xarxes Wi-Fi)
+
+ ● música protegida per la gestió de drets digitals (DRM, Digital Rights Management), com ara la música d'iTunes® comprada abans del mes d'abril de 2009 o la música baixada per escoltar-la sense connexió en una aplicació de reproducció de música
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google o a iCloud®
+
+ ● adreces d'interès de Safari®
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, ves a g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">No hi ha prou espai</string>
+    <string name="restore_choice_phone_description">Transfereix les dades del teu telèfon antic</string>
+    <string name="restore_choice_phone_title">Tria el teu telèfon</string>
+    <string name="restore_choice_select_some_content_cloud">Tria el contingut que vols restaurar</string>
+    <string name="restore_choice_select_some_content_d2d">Tria el contingut que vols copiar</string>
+    <string name="restore_choice_sync_disclaimer_android">Els contactes del dispositiu i de la targeta SIM es desaran com a Contactes de Google al compte %1$s</string>
+    <string name="restore_choice_sync_disclaimer_cloud">Els contactes del dispositiu i de la targeta SIM es desaran com a Contactes de Google al compte %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios">"Els contactes i el Calendari d'iOS® es desaran a %1$s."</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">"El Calendari d'iOS® es desarà a %1$s."</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">"El Calendari i les Notes d'iOS® es desaran al compte %1$s."</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">"Els contactes, i el Calendari i les Notes d'iOS® es desaran al compte %1$s."</string>
+    <string name="restore_choice_title">Porta les dades de…</string>
+    <string name="restore_continue_suw_title">"S'està restaurant…"</string>
+    <string name="restore_estimated_time">^1 per acabar la transferència</string>
+    <string name="restore_item_alarms">Alarmes</string>
+    <string name="restore_item_apps">Aplicacions</string>
+    <string name="restore_item_calendar">Calendari</string>
+    <string name="restore_item_calendar_ical_description">"Calendari d'iOS®"</string>
+    <string name="restore_item_call_logs">Historial de trucades</string>
+    <string name="restore_item_contacts">Contactes</string>
+    <string name="restore_item_device_settings_description">Contrasenyes Wi-Fi i més</string>
+    <string name="restore_item_downloads">Baixades</string>
+    <string name="restore_item_email">Correu electrònic</string>
+    <string name="restore_item_email_description">Gmail se sincronitzarà</string>
+    <string name="restore_item_esim">Número de telèfon</string>
+    <string name="restore_item_esim_description">Mou %1$s</string>
+    <string name="restore_item_esim_description_no_activation_info">"Mou el número de l'operador %1$s"</string>
+    <string name="restore_item_message_attachments">Fitxers adjunts dels missatges</string>
+    <string name="restore_item_messages">Missatges</string>
+    <string name="restore_item_mms">Missatges MMS</string>
+    <string name="restore_item_mms_attachments">"Fitxers adjunts d'MMS"</string>
+    <string name="restore_item_music">"Música i altres fitxers d'àudio"</string>
+    <string name="restore_item_note_description">"Notes d'iOS®"</string>
+    <string name="restore_item_notes">Notes</string>
+    <string name="restore_item_photos">Fotos</string>
+    <string name="restore_item_photos_and_videos">Fotos i vídeos</string>
+    <string name="restore_item_settings">Configuració del dispositiu</string>
+    <string name="restore_item_sms">Missatges SMS</string>
+    <string name="restore_item_video">Vídeos</string>
+    <string name="restore_item_wallpaper">Fons de pantalla</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 de ^3</string>
+    <string name="restore_selected_size_text"><annotation id="selected_size">^1</annotation> ^2</string>
+    <string name="retail_mode_warning_dialog_message">Es reproduirà un vídeo de demostració per a botigues fins que no es restableixin les dades de fàbrica del dispositiu. Aquest és un mode per a botigues i no per fer-ne un ús personal.</string>
+    <string name="retail_mode_warning_dialog_title">Reprodueix el vídeo de demostració</string>
+    <string name="small_time_duration">"Menys d'un minut"</string>
+    <string name="stop_copying_dialog_continue_button">Ignora</string>
+    <string name="stop_copying_dialog_message_before_transfer">No es copiaran les teves dades al telèfon nou</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">Pots continuar transferint contingut del teu telèfon antic després de la configuració</string>
+    <string name="stop_copying_dialog_message_during_transfer">No es copiaran algunes dades al telèfon nou</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Atura</string>
+    <string name="stop_copying_dialog_title_before_transfer">No vols copiar les dades?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vols aturar la còpia?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">Les dades no es restauraran al teu telèfon nou</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">Pots continuar restaurant contingut del teu telèfon antic després de la configuració</string>
+    <string name="stop_restoring_dialog_title_before_transfer">Vols cancel·lar la restauració?</string>
+    <string name="sud_back_button_label">Enrere</string>
+    <string name="sud_more_button_label">Més</string>
+    <string name="sud_next_button_label">Següent</string>
+    <string name="target_default_source_device_model">telèfon antic</string>
+    <string name="target_device_not_supported_cant_continue_description">Hauràs de triar una altra manera de copiar les dades</string>
+    <string name="target_device_not_supported_cant_continue_title">"L'altre telèfon no és compatible"</string>
+    <string name="target_device_not_supported_try_restarting_description">"Desconnecta el cable i reinicia el telèfon antic. A continuació, torna a connectar el cable i segueix les instruccions que es mostren al dispositiu ^1.
+
+Si continues veient aquest error, és possible que hagis de copiar les dades d'una altra manera."</string>
+    <string name="target_device_not_supported_try_restarting_title">És possible que el telèfon no sigui compatible</string>
+    <string name="target_fragment_msg_reconnect_cable">Torna a connectar el cable</string>
+    <string name="target_fragment_msg_wifi_disconnected">"Prova d'apropar els telèfons"</string>
+    <string name="target_pixelmigrate_notification_description">Disponible o en curs</string>
+    <string name="target_pixelmigrate_notification_title">Transferència de dades</string>
+    <string name="target_smart_device_timeout_add_account">AFEGEIX UN COMPTE</string>
+    <string name="target_smart_device_timeout_description">"Pots provar d'afegir el compte manualment"</string>
+    <string name="target_smart_device_timeout_dismiss">DESCARTA</string>
+    <string name="target_smart_device_timeout_title">Tens problemes?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Els telèfons estan connectats</string>
+    <string name="toast_reconnect_cable">Torna a connectar el cable</string>
+    <string name="toast_wifi_disconnected">"No es poden connectar els telèfons. La transferència de dades s'ha posat en pausa."</string>
+    <string name="transfer_finished_fragment_description">Això pot tardar un o dos minuts</string>
+    <string name="transfer_finished_fragment_title">Estem fent els últims retocs…</string>
+    <string name="transfer_finished_fragment_work_setup_tile">"S'està preparant per configurar el perfil professional…"</string>
+    <string name="transfer_summary_copied">Dades copiades</string>
+    <string name="transfer_summary_esim_activating">"S'està activant…"</string>
+    <string name="transfer_summary_esim_copied_phone_numer">"S'ha activat el número %1$s"</string>
+    <string name="transfer_summary_esim_not_copied">"No s'ha pogut activar"</string>
+    <string name="transfer_summary_fragment_description">Ja pots desconnectar el cable</string>
+    <string name="transfer_summary_fragment_done_button">Fet</string>
+    <string name="transfer_summary_fragment_title">El telèfon està gairebé a punt</string>
+    <string name="transfer_summary_icloud_photos_and_videos_warning">"Hi ha vídeos i fotos que no s'han copiat. "<annotation id="transfer_summary_learn_more">Més informació</annotation></string>
+    <string name="transfer_summary_not_copied">Dades no copiades</string>
+    <string name="transfer_summary_partial">Elements copiats: %1$s de %2$s</string>
+    <string name="transferring_fragment_calculating_remaining_time">"S'està calculant quant falta…"</string>
+    <string name="transferring_fragment_description_final_hold">Mantén els telèfons connectats i encesos</string>
+    <string name="transferring_fragment_header">"S'està copiant…"</string>
+    <string name="transferring_fragment_remaining_time">Temps restant: %1$s</string>
+    <string name="transferring_fragment_restoring_content">"S'està restaurant el contingut…"</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iMessage, iCloud, Safari i iTunes són marques comercials d'Apple Inc., registrades als Estats Units i en altres països."</string>
+    <string name="unlock_ios_fragment_description">Per continuar, desbloqueja el dispositiu iPhone®. Mantén-lo desbloquejat durant la transferència.</string>
+    <string name="unlock_ios_fragment_title">Desbloqueja el dispositiu iPhone®</string>
+    <string name="vault_almost_locked_dialog_title">Queden %d intents</string>
+    <string name="vault_almost_locked_password_dialog_text">"Has introduït la contrasenya incorrectament %1$d vegades. Si t'equivoques %2$d vegades més, se suprimirà la còpia de seguretat del dispositiu %3$s."</string>
+    <string name="vault_almost_locked_pattern_dialog_text">"Has introduït el patró incorrectament %1$d vegades. Si t'equivoques %2$d vegades més, se suprimirà la còpia de seguretat del dispositiu %3$s."</string>
+    <string name="vault_almost_locked_pin_dialog_text">"Has introduït el PIN incorrectament %1$d vegades. Si t'equivoques %2$d vegades més, se suprimirà la còpia de seguretat del dispositiu %3$s."</string>
+    <string name="vault_locked_dialog_text">"S'ha suprimit la còpia de seguretat perquè has introduït incorrectament el bloqueig de pantalla del dispositiu %s massa vegades."</string>
+    <string name="vault_locked_dialog_title">"S'ha suprimit la còpia de seguretat"</string>
+    <string name="work_profile_setup_description">Per configurar el teu perfil professional, afegeix el compte de la feina a la pantalla següent</string>
+    <string name="work_profile_setup_skip">Omet</string>
+    <string name="work_profile_setup_title">Configura el telèfon per a la feina</string>
+</resources>

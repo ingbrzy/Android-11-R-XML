@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_announcement_list_popup_shown">
+        <item quantity="other">අයිතම %1$dක් පෙන්වමින්.</item>
+        <item quantity="one">අයිතම %1$dක් පෙන්වමින්.</item>
+    </plurals>
+    <plurals name="action_comments_with_count">
+        <item quantity="other">අදහස් %1$d</item>
+        <item quantity="one">අදහස් %1$d</item>
+    </plurals>
+    <plurals name="action_item_content_description">
+        <item quantity="other">ක්‍රියා අයිතම: %1$d පසු විපරම් අයිතම</item>
+        <item quantity="one">ක්‍රියා අයිතම: %1$d පසු විපරම් අයිතම</item>
+    </plurals>
+    <plurals name="action_permanently_deleted">
+        <item quantity="other">අයිතම ස්ථිරවම මකන ලදී</item>
+        <item quantity="one">අයිතම ස්ථිරවම මකන ලදී</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s වලංගු ඊ-තැපැල් ලිපින නොවේ.</item>
+        <item quantity="one">%s වලංගු ඊ-තැපැල් ලිපින නොවේ.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">මෙම ගොනු එක් කිරීම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශ විය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත</item>
+        <item quantity="one">මෙම ගොනු එක් කිරීම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශ විය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">මෙම ෆෝල්ඩරය එක් කිරීම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශ විය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත</item>
+        <item quantity="one">මෙම ෆෝල්ඩර එක් කිරීම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශ විය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">මෙම ගොනු බෙදා ගන්නද?</item>
+        <item quantity="one">මෙම ගොනු බෙදා ගන්නද?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">මෙම ෆෝල්ඩර බෙදා ගන්නද?</item>
+        <item quantity="one">මෙම ෆෝල්ඩර බෙදා ගන්නද?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">ෆෝල්ඩර %1$dක් යාවත්කාලීන කරන ලදී. වර්ණය %2$s ලෙස සකසන ලදී.</item>
+        <item quantity="one">ෆෝල්ඩර %1$dක් යාවත්කාලීන කරන ලදී. වර්ණය %2$s ලෙස සකසන ලදී.</item>
+    </plurals>
+    <plurals name="apply_filters">
+        <item quantity="other">පෙරහන් යොදන්න:</item>
+        <item quantity="one">පෙරහන් යොදන්න:</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">දින %1$dකින් කල් ඉකුත් වේ</item>
+        <item quantity="one">දින %1$dකින් කල් ඉකුත් වේ</item>
+    </plurals>
+    <plurals name="backup_will_expire">
+        <item quantity="other">උපාංගය අක්‍රියව පැවතුණහොත් මෙම උපස්ථය දින %1$dකින් කල් ඉකුත් වේ.</item>
+        <item quantity="one">උපාංගය අක්‍රියව පැවතුණහොත් මෙම උපස්ථය දින %1$dකින් කල් ඉකුත් වේ.</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">උපස්ථ මකන ලදී.</item>
+        <item quantity="one">උපස්ථ මකන ලදී.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">තීරු %1$d.</item>
+        <item quantity="one">තීරු %1$d.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">නිශ්චල කළ තීරු %1$d.</item>
+        <item quantity="one">නිශ්චල කළ තීරු %1$d.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">නිශ්චල කළ පේළි %1$d.</item>
+        <item quantity="one">නිශ්චල කළ පේළි %1$d.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">පේළි %1$d.</item>
+        <item quantity="one">පේළි %1$d.</item>
+    </plurals>
+    <plurals name="detail_preview_folder_file_size_and_file_count">
+        <item quantity="other">අයිතම %2$dක් සඳහා %1$s</item>
+        <item quantity="one">අයිතම %2$dක් සඳහා %1$s</item>
+    </plurals>
+    <plurals name="discussion_card_replies_summary">
+        <item quantity="other">පිළිතුරු %1$s</item>
+        <item quantity="one">පිළිතුරු %1$s</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">අයිතම බාගැනීමට නොහැකි විය</item>
+        <item quantity="one">අයිතම බාගැනීමට නොහැකි විය</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">අයිතම %1$dක් බාගනු ඇත. විස්තර සඳහා දැන්වීම බලන්න</item>
+        <item quantity="one">අයිතම %1$dක් බාගනු ඇත. විස්තර සඳහා දැන්වීම බලන්න</item>
+    </plurals>
+    <plurals name="download_message_success_no_notification">
+        <item quantity="other">අයිතම %1$dක් බාගනු ඇත.</item>
+        <item quantity="one">අයිතම %1$dක් බාගනු ඇත.</item>
+    </plurals>
+    <plurals name="download_notification_complete_title">
+        <item quantity="other">%1$s සහ තවත් අයිතම %2$d</item>
+        <item quantity="one">%1$s සහ තවත් අයිතම %2$d</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">අයිතම %1$sක් බාගැනීමට නොහැකි විය</item>
+        <item quantity="one">අයිතම %1$sක් බාගැනීමට නොහැකි විය</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">තවත් අයිතම %1$d</item>
+        <item quantity="one">තවත් අයිතම %1$d</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">බාගැනීම් %1$dකින් %2$dක් අසාර්ථක විය</item>
+        <item quantity="one">බාගැනීම් %1$dකින් %2$dක් අසාර්ථක විය</item>
+    </plurals>
+    <plurals name="error_moving_file">
+        <item quantity="other">ගොනු ගෙන යාමේ දෝෂයකි.</item>
+        <item quantity="one">ගොනු ගෙන යාමේ දෝෂයකි.</item>
+    </plurals>
+    <plurals name="guestNumber">
+        <item quantity="other">අමුත්තන් %d</item>
+        <item quantity="one">අමුත්තන් %d</item>
+    </plurals>
+    <plurals name="make_shortcut_confirmation">
+        <item quantity="other">\"%1$s\" වෙත කෙටි මං %2$dක් එක් කරන ලදී</item>
+        <item quantity="one">\"%1$s\" වෙත කෙටි මං %2$dක් එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="make_shortcut_failure">
+        <item quantity="other">කෙටි මං එක් කළ නොහැකිය. නැවත උත්සාහ කරන්න</item>
+        <item quantity="one">කෙටි මං එක් කළ නොහැකිය. නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds">
+        <item quantity="other">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත. \"%2$s\" හි සාමාජිකයන්ට මෙම අයිතමවලට ප්‍රවේශය ලැබෙනු ඇත.</item>
+        <item quantity="one">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත. \"%2$s\" හි සාමාජිකයන්ට මෙම අයිතමවලට ප්‍රවේශය ලැබෙනු ඇත.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_between_tds_no_undo">
+        <item quantity="other">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත. \"%2$s\" හි සාමාජිකයන්ට මෙම අයිතමවලට ප්‍රවේශය ලැබෙනු ඇත. ඔබට \"%3$s\" තුළ අයිතම එක් කිරීමට සහ සංස්කරණය කිරීමට පමණක් අවසර ඇත, එම නිසා ඔබට මෙම ක්‍රියාව පසුගමනය කිරීමට නොහැකි වනු ඇත.</item>
+        <item quantity="one">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත. \"%2$s\" හි සාමාජිකයන්ට මෙම අයිතමවලට ප්‍රවේශය ලැබෙනු ඇත. ඔබට \"%3$s\" තුළ අයිතම එක් කිරීමට සහ සංස්කරණය කිරීමට පමණක් අවසර ඇත, එම නිසා ඔබට මෙම ක්‍රියාව පසුගමනය කිරීමට නොහැකි වනු ඇත.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_dlp_detections">
+        <item quantity="other">\" %1$s\" වෙත ගෙන යන සමහර ගොනු DLP අනාවරණ ක්‍රියාරම්භ කර ඇත. මෙම ගොනු තුළ සංවේදී තොරතුරු තිබිය හැකිය.</item>
+        <item quantity="one">\" %1$s\" වෙත ගෙන යන සමහර ගොනු DLP අනාවරණ ක්‍රියාරම්භ කර ඇත. මෙම ගොනු තුළ සංවේදී තොරතුරු තිබිය හැකිය.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_my_drive">
+        <item quantity="other">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත.</item>
+        <item quantity="one">මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%1$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_from_td_to_shared_folder">
+        <item quantity="other">මෙම අයිතම ගෙන යාම බෙදා ගත් \"%1$s\" ෆෝල්ඩරය දැකිය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත. මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%2$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත.</item>
+        <item quantity="one">මෙම අයිතම ගෙන යාම බෙදා ගත් \"%1$s\" ෆෝල්ඩරය දැකිය හැකි සියලු දෙනා සමග ඒවා බෙදා ගනු ඇත. මෙම අයිතම ඔවුන් සමග බෙදා ගන්නේ නම් මිස \"%2$s\" හි සාමාජිකයන්ට ප්‍රවේශය අහිමි වනු ඇත.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">ඔබ සමහර අයිතම බෙදා ගත් ෆෝල්ඩරවලින් පිටතට ගෙන යමින් ඇත, එම නිසා පුද්ගලයන්ට මෙම අයිතමවලට ප්‍රවේශය අහිමි වනු ඇත.</item>
+        <item quantity="one">ඔබ සමහර අයිතම බෙදා ගත් ෆෝල්ඩරවලින් පිටතට ගෙන යමින් ඇත, එම නිසා පුද්ගලයන්ට මෙම අයිතමවලට ප්‍රවේශය අහිමි වනු ඇත.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_restrictions">
+        <item quantity="other">මෙම අයිතමයෙන් අතිරේක සීමා කිරීම් ඉවත් කරනු ලැබේ.</item>
+        <item quantity="one">මෙම අයිතමයෙන් අතිරේක සීමා කිරීම් ඉවත් කරනු ලැබේ.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">මෙම ෆෝල්ඩරය ගෙන යාම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශය ඇති සෑම අයෙක් සමගම එය බෙදා ගනු ඇත</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ගෙන යාම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශය ඇති සෑම අයෙක් සමගම එය බෙදා ගනු ඇත</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">මෙම ෆෝල්ඩරය ගෙන යාම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශය ඇති සෑම අයෙක් සමගම එය බෙදා ගනු ඇත</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ගෙන යාම බෙදා ගත් ෆෝල්ඩරයට %1$s ප්‍රවේශය ඇති සෑම අයෙක් සමගම එය බෙදා ගනු ඇත</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">මෙම ගොනු බෙදා ගන්නද?</item>
+        <item quantity="one">මෙම ගොනු බෙදා ගන්නද?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">මෙම ෆෝල්ඩර බෙදා ගන්නද?</item>
+        <item quantity="one">මෙම ෆෝල්ඩර බෙදා ගන්නද?</item>
+    </plurals>
+    <plurals name="move_error_no_permission_move_children_out_of_td_updated">
+        <item quantity="other">ඔබට බෙදා ගත් Drive වෙතින් පිටතට සමහර අයිතම ගෙන යාමට අවසර නැත.</item>
+        <item quantity="one">ඔබට බෙදා ගත් Drive වෙතින් පිටතට සමහර අයිතම ගෙන යාමට අවසර නැත.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">මෙම ෆෝල්ඩරයෙන් පිටතට මෙම අයිතමය ගෙන යාමට ඔබට අවසර නැත.</item>
+        <item quantity="one">මෙම ෆෝල්ඩරයෙන් පිටතට මෙම අයිතමය ගෙන යාමට ඔබට අවසර නැත.</item>
+    </plurals>
+    <plurals name="move_error_owner_outside_td_domain">
+        <item quantity="other">ගොනු හිමිකරු %1$s වෙතින් බැහැර බැවින් ඔබට මෙම ගොනු ගෙන යාමට නොහැකිය.</item>
+        <item quantity="one">ගොනු හිමිකරු %1$s වෙතින් බැහැර බැවින් ඔබට මෙම ගොනු ගෙන යාමට නොහැකිය.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" හට දැන් ඒවාට පිවිසිය හැකිය.</item>
+        <item quantity="one">%1$s \"%2$s\" හට දැන් ඒවාට පිවිසිය හැකිය.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback_updated">
+        <item quantity="other">අයිතම %1$dක් බෙදා ගත් Drive වෙත ගෙන යන ලදී. සාමාජිකයන්ට දැන් ඒවාට පිවිසිය හැකිය.</item>
+        <item quantity="one">අයිතම %1$dක් බෙදා ගත් Drive වෙත ගෙන යන ලදී. සාමාජිකයන්ට දැන් ඒවාට පිවිසිය හැකිය.</item>
+    </plurals>
+    <plurals name="move_notice_lost_access_team_drives_plural_updated">
+        <item quantity="other">අයිතම %1$dක් බෙදා ගත් Drive වෙතින් ගෙන යන ලදී. සාමාජිකයන්ට ප්‍රවේශය අහිමි වී ඇත.</item>
+        <item quantity="one">අයිතම %1$dක් බෙදා ගත් Drive වෙතින් ගෙන යන ලදී. සාමාජිකයන්ට ප්‍රවේශය අහිමි වී ඇත.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="multiselect_item_count_toolbar_title">
+        <item quantity="other">අයිතම %1$d</item>
+        <item quantity="one">අයිතම %1$d</item>
+    </plurals>
+    <plurals name="number_of_approvers">
+        <item quantity="other">අනුමත කරන්නන් %1$d</item>
+        <item quantity="one">අනුමත කරන්නන් %1$d</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">ක්‍රියා අයිතම %1$s</item>
+        <item quantity="one">ක්‍රියා අයිතම %1$s</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">පිළිතුරු නොදුන් සඳහන් කිරීම් %1$s</item>
+        <item quantity="one">පිළිතුරු නොදුන් සඳහන් කිරීම් %1$s</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">යෝජනා %1$s</item>
+        <item quantity="one">යෝජනා %1$s</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">කළ යුතු දේ %1$s</item>
+        <item quantity="one">කළ යුතු දේ %1$s</item>
+    </plurals>
+    <plurals name="permanently_deleted">
+        <item quantity="other">අයිතම ස්ථිරවම මකන ලදී</item>
+        <item quantity="one">අයිතම ස්ථිරවම මකන ලදී</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%2$sකින් %1$dක් දැන් නොබැඳිව ඇත.</item>
+        <item quantity="one">%2$sකින් %1$dක් දැන් නොබැඳිව ඇත.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">සියලු ගොනු %1$dක් දැන් නොබැඳිව ඇත.</item>
+        <item quantity="one">සියලු ගොනු %1$dක් දැන් නොබැඳිව ඇත.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_failure">
+        <item quantity="other">ගොනුව නොබැඳිව ලබා ගත හැකි බවට පත් කළ නොහැකිය</item>
+        <item quantity="one">ගොනුව නොබැඳිව ලබා ගත හැකි බවට පත් කළ නොහැකිය</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">ගොනු %1$dක් නොබැඳිව ලබා ගත හැකි බවට පත් කරමින්.</item>
+        <item quantity="one">ගොනු %1$dක් නොබැඳිව ලබා ගත හැකි බවට පත් කරමින්.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">ගොනු %1$d</item>
+        <item quantity="one">ගොනු %1$d</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_network_ticker">
+        <item quantity="other">බාගැනීම් විරාම කරන ලදී, ජාලය සඳහා රැඳී සිටිමින්...</item>
+        <item quantity="one">බාගැනීම් විරාම කරන ලදී, ජාලය සඳහා රැඳී සිටිමින්...</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">බාගැනීම් %1$dක් විරාම කරන ලදී.</item>
+        <item quantity="one">බාගැනීම් %1$dක් විරාම කරන ලදී.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_wifi_ticker">
+        <item quantity="other">බාගැනීම් විරාම කරන ලදී, Wi-Fi සඳහා රැඳී සිටිමින්...</item>
+        <item quantity="one">බාගැනීම් විරාම කරන ලදී, Wi-Fi සඳහා රැඳී සිටිමින්...</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">අයිතම %1$dක් කුණු කූඩය වෙත ගෙන යනු ඇත. මෙය ඒවා Google ඡායාරූප වෙතින්ද ඉවත් කරනු ඇත.</item>
+        <item quantity="one">අයිතම %1$dක් කුණු කූඩය වෙත ගෙන යනු ඇත. මෙය ඒවා Google ඡායාරූප වෙතින්ද ඉවත් කරනු ඇත.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple_photosupdate">
+        <item quantity="other">අයිතම %1$dක් කුණු කූඩය වෙත ගෙන යනු ඇත.</item>
+        <item quantity="one">අයිතම %1$dක් කුණු කූඩය වෙත ගෙන යනු ඇත.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">පසු විපරම් අයිතම %1$s</item>
+        <item quantity="one">පසු විපරම් අයිතම %1$s</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">පසු විපරම් අයිතම %1$s</item>
+        <item quantity="one">පසු විපරම් අයිතම %1$s</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_text">
+        <item quantity="other">පසු විපරම</item>
+        <item quantity="one">පසු විපරම</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">ගොනු %1$dක් පිළිබඳව අදහස් දක්වන ලදී</item>
+        <item quantity="one">ගොනු %1$dක් පිළිබඳව අදහස් දක්වන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">ගොනු %1$dක් පිළිබඳව අදහස් දක්වන ලදී</item>
+        <item quantity="one">ගොනු %1$dක් පිළිබඳව අදහස් දක්වන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">මෙම ගොනුව පිළිබඳව අදහස් දක්වන ලදී</item>
+        <item quantity="one">මෙම ගොනුව පිළිබඳව අදහස් දක්වන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">අයිතම %1$dක් සාදන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් සාදන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">අයිතම %1$dක් සාදන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් සාදන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">මෙම ගොනුව සාදන ලදී</item>
+        <item quantity="one">මෙම ගොනුව සාදන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය සාදන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය සාදන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">අයිතම %1$dක් සංස්කරණය කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් සංස්කරණය කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">අයිතම %1$dක් සංස්කරණය කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් සංස්කරණය කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">මෙම ගොනුවට සංස්කරණය කිරීම් සිදු කරන ලදී</item>
+        <item quantity="one">මෙම ගොනුවට සංස්කරණය කිරීම් සිදු කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">අයිතම %1$dක් ස්ථිරවම මකන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ස්ථිරවම මකන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">අයිතම %1$dක් ගෙන යන ලදි:</item>
+        <item quantity="one">අයිතම %1$dක් ගෙන යන ලදි:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">අයිතම %1$dක් ගෙන යන ලදි:</item>
+        <item quantity="one">අයිතම %1$dක් ගෙන යන ලදි:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">අයිතම %1$dක් ගෙන යන ලදි:</item>
+        <item quantity="one">අයිතම %1$dක් ගෙන යන ලදි:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">අයිතම %1$dක් ගෙන යන ලදි:</item>
+        <item quantity="one">අයිතම %1$dක් ගෙන යන ලදි:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">මෙම ෆෝල්ඩරය ගෙන යන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">මෙම ගොනුව ගෙන යන ලදී:</item>
+        <item quantity="one">මෙම ගොනුව ගෙන යන ලදී:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය ගෙන යන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">මෙම ෆෝල්ඩරය ගෙන යන ලදී:</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ගෙන යන ලදී:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">අයිතම %1$dක් නැවත නම් කරන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් නැවත නම් කරන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">අයිතම %1$dක් නැවත නම් කරන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් නැවත නම් කරන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">මෙම ගොනුව යළි නම් කරන ලදී</item>
+        <item quantity="one">මෙම ගොනුව යළි නම් කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය යළි නම් කරන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය යළි නම් කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">අයිතම %1$dක් බෙදා ගන්නා ලදි</item>
+        <item quantity="one">අයිතම %1$dක් බෙදා ගන්නා ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">අයිතම %1$dක් බෙදා ගන්නා ලදි</item>
+        <item quantity="one">අයිතම %1$dක් බෙදා ගන්නා ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">මෙම ගොනුව බෙදා ගන්නා ලදී</item>
+        <item quantity="one">මෙම ගොනුව බෙදා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය බෙදා ගන්නා ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය බෙදා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">අයිතම %1$dක් කුණු කුඩය වෙත ගෙන යන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් කුණු කුඩය වෙත ගෙන යන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">අයිතම %1$dක් කුණු කුඩය වෙත ගෙන යන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් කුණු කුඩය වෙත ගෙන යන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">මෙම ගොනුව ඉවත් කරන ලදී</item>
+        <item quantity="one">මෙම ගොනුව ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය ඉවත් කරන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">අයිතම %1$dක් උඩුගත කරන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් උඩුගත කරන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">අයිතම %1$dක් උඩුගත කරන ලදි</item>
+        <item quantity="one">අයිතම %1$dක් උඩුගත කරන ලදි</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">මෙම ගොනුව උඩුගත කරන ලදී</item>
+        <item quantity="one">මෙම ගොනුව උඩුගත කරන ලදී</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">මෙම ෆෝල්ඩරය උඩුගත කරන ලදී</item>
+        <item quantity="one">මෙම ෆෝල්ඩරය උඩුගත කරන ලදී</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">ගොනු %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+        <item quantity="one">ගොනු %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">ෆෝල්ඩර %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+        <item quantity="one">ෆෝල්ඩර %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">අයිතම %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+        <item quantity="one">අයිතම %1$dක් %2$s කුණු කූඩය වෙත ගෙන යනු ඇති අතර දින 30කට පසුව සදහටම මකනු ඇත.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">මෙම ගොනු %1$d &lt;b>සියලු දෙනා සඳහා ස්ථිරවම මකනු ඇත.&lt;/b> ඔබට මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+        <item quantity="one">මෙම ගොනු %1$d &lt;b>සියලු දෙනා සඳහා ස්ථිරවම මකනු ඇත.&lt;/b> ඔබට මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">මෙම ගොනු %1$d ස්ථිරවම මකනු ඇත. ඔබට මෙම ක්‍රියාව පසුගමනය නොහැකිය.</item>
+        <item quantity="one">මෙම ගොනු %1$d ස්ථිරවම මකනු ඇත. ඔබට මෙම ක්‍රියාව පසුගමනය නොහැකිය.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">අයිතම %1$d</item>
+        <item quantity="one">අයිතම %1$d</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">අයිතම %1$dක් තෝරා ගන්නා ලදී</item>
+        <item quantity="one">අයිතම %1$dක් තෝරා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">අයිතම %1$dක් තේරීම ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් තේරීම ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">ගොනු නොබැඳිව ලබා ගත හැකි බවට පත් කරනු ඇත</item>
+        <item quantity="one">ගොනු නොබැඳිව ලබා ගත හැකි බවට පත් කරනු ඇත</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">අයිතම %1$dක් තරු ලකුණු යොදන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් තරු ලකුණු යොදන ලදී</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">ගොනු තවදුරටත් නොබැඳිව ලබා ගත නොහැකි වනු ඇත</item>
+        <item quantity="one">ගොනු තවදුරටත් නොබැඳිව ලබා ගත නොහැකි වනු ඇත</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">අයිතම %1$dකට තරු ලකුණු යෙදීම ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dකට තරු ලකුණු යෙදීම ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">අයිතම %1$dක් \"%2$s\" වෙතින් වෙතින් ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් \"%2$s\" වෙතින් ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">අයිතම %1$dක් ෆෝල්ඩරය වෙතින් ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ෆෝල්ඩරය වෙතින් ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">අයිතම %1$dක් ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">අයිතම %1$dක් ආපසු ගෙන යන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ආපසු ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">අයිතම %1$dක් කුණු කූඩය වෙත ආපසු ගෙන යන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් කුණු කූඩය වෙත ආපසු ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">අයිතම %1$dක් ඉවත් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ඉවත් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">අයිතම %1$dක් \"%2$s\" වෙත එක් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් \"%2$s\" වෙත එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">අයිතම %1$dක් එක් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">අයිතම %1$dක් ප්‍රතිසාධනය කර \"%2$s\" වෙත එක් කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ප්‍රතිසාධනය කර \"%2$s\" වෙත එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">අයිතම %1$dක් \"%2$s\" වෙත ගෙන යන ලදි.</item>
+        <item quantity="one">අයිතම %1$dක් \"%2$s\" වෙත ගෙන යන ලදි.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">අයිතම %1$dක් ගෙන යන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">අයිතම %1$dක් ප්‍රතිසාධනය කර \"%2$s\" වෙත ගෙන යන ලදී.</item>
+        <item quantity="one">අයිතම %1$dක් ප්‍රතිසාධනය කර \"%2$s\" වෙත ගෙන යන ලදී.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් ප්‍රතිසාධනය කරන ලදී</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">අයිතම %1$dක් \"%2$s\" වෙත ප්‍රතිසාධනය කරන ලදී.</item>
+        <item quantity="one">අයිතම %1$dක් \"%2$s\" වෙත ප්‍රතිසාධනය කරන ලදී.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">සමගින් ගොනු යවන්න</item>
+        <item quantity="one">සමගින් ගොනු යවන්න</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙකුට දැන් පිවිසිය හැකිය</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙකුට දැන් පිවිසිය හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s සහ තවත් %2$d දෙනෙකුට දැන් පිවිසිය හැකිය</item>
+        <item quantity="one">%1$s සහ තවත් %2$d දෙනෙකුට දැන් පිවිසිය හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙකුට දැන් අදහස් එක් කළ හැකිය</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙකුට දැන් අදහස් එක් කළ හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s සහ තවත් %2$d දෙනෙකුට දැන් අදහස් එක් කළ හැකිය</item>
+        <item quantity="one">%1$s සහ තවත් %2$d දෙනෙකුට දැන් අදහස් එක් කළ හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙකුට දැන් සංස්කරණය කළ හැකිය</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙකුට දැන් සංස්කරණය කළ හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s සහ තවත් %2$d දෙනෙකුට දැන් සංස්කරණය කළ හැකිය</item>
+        <item quantity="one">%1$s සහ තවත් %2$d දෙනෙකුට දැන් සංස්කරණය කළ හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙකුට දැන් බැලිය හැකිය</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙකුට දැන් බැලිය හැකිය</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s සහ තවත් %2$d දෙනෙකුට දැන් බැලිය හැකිය</item>
+        <item quantity="one">%1$s සහ තවත් %2$d දෙනෙකුට දැන් බැලිය හැකිය</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Drive ගබඩාව දින %1$dකින් කල් ඉකුත් වේ</item>
+        <item quantity="one">Drive ගබඩාව දින %1$dකින් කල් ඉකුත් වේ</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic_updated">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙක් බෙදා ගත් Drive වෙත එක් කරන ලදී</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙක් බෙදා ගත් Drive වෙත එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s සහ තවත් %3$d දෙනෙක් %1$s වෙත එක් කරන ලදී</item>
+        <item quantity="one">%2$s සහ තවත් %3$d දෙනෙක් %1$s වෙත එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">සාමාජිකයින් %d</item>
+        <item quantity="one">සාමාජිකයින් %d</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">දැන් සියල්ල නැවත අරඹන්න</item>
+        <item quantity="one">දැන් සියල්ල නැවත අරඹන්න</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">ගොනු %1$dක් පූරණය කිරීම අවලංගු කරන ලදී.</item>
+        <item quantity="one">ගොනු %1$dක් පූරණය කිරීම අවලංගු කරන ලදී.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">උඩුගත කිරීම සඳහා ගොනු %1$dක් කාලසටහන්ගත කිරීමට නොහැකිය.</item>
+        <item quantity="one">උඩුගත කිරීම සඳහා ගොනු %1$dක් කාලසටහන්ගත කිරීමට නොහැකිය.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">ගොනු %1$dක් උඩුගත කරන ලදී.</item>
+        <item quantity="one">ගොනු %1$dක් උඩුගත කරන ලදී.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">ගොනු %2$dකින් %1$dක් උඩුගත කිරීමට නොහැකිය.</item>
+        <item quantity="one">ගොනු %2$dකින් %1$dක් උඩුගත කිරීමට නොහැකිය.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">ගොනු %1$dක් උඩුගත කරමින්.</item>
+        <item quantity="one">ගොනු %1$dක් උඩුගත කරමින්.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_network_ticker">
+        <item quantity="other">උඩුගත කිරීම් විරාම කරන ලදී, ජාලය සඳහා රැඳී සිටිමින්...</item>
+        <item quantity="one">උඩුගත කිරීම් විරාම කරන ලදී, ජාලය සඳහා රැඳී සිටිමින්...</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">උඩුගත කිරීම් %1$dක් විරාම කරන ලදී.</item>
+        <item quantity="one">උඩුගත කිරීම් %1$dක් විරාම කරන ලදී.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_wifi_ticker">
+        <item quantity="other">උඩුගත කිරීම් විරාම කරන ලදි, Wi-Fi සඳහා රැඳී සිටිමින්...</item>
+        <item quantity="one">උඩුගත කිරීම් විරාම කරන ලදි, Wi-Fi සඳහා රැඳී සිටිමින්...</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">උඩුගත කිරීමට සඳහා ගොනු %1$dක් සූදානම් කරමින්.</item>
+        <item quantity="one">උඩුගත කිරීමට සඳහා ගොනු %1$dක් සූදානම් කරමින්.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">ඔබේ ගොනු %1$dක් උඩුගත කරමින් පවතී: %2$s</item>
+        <item quantity="one">ඔබේ ගොනු %1$dක් උඩුගත කරමින් පවතී: %2$s</item>
+    </plurals>
+    <plurals name="view_workspace_files">
+        <item quantity="other">ගොනු %1$dක් බලන්න</item>
+        <item quantity="one">ගොනු %1$dක් බලන්න</item>
+    </plurals>
+    <plurals name="view_workspace_files_content_desc">
+        <item quantity="other">%2$s හි සියලු ගොනු %1$d බලන්න</item>
+        <item quantity="one">%2$s හි සියලු ගොනු %1$d බලන්න</item>
+    </plurals>
+</resources>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_filter_slider_value">Seek control %1$dpercent.</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="active_notification_title">Sound Amplifier active</string>
+    <string name="adjust_independently_title">Adjust ears separately</string>
+    <string name="amplifying_sound_around_me">Amplifying sound around you</string>
+    <string name="amplifying_sound_playing_on_my_phone">Amplifying sound on your phone</string>
+    <string name="bluetooth_settings_alert_dialog_negative_button_name">Close</string>
+    <string name="bluetooth_settings_alert_dialog_positive_button_name">Go to settings</string>
+    <string name="bluetooth_settings_alert_dialog_title">Switch to wired headphones</string>
+    <string name="bluetooth_settings_dialog_message">"Sound Amplifier only works with wired headphones.
+
+To switch to wired headphones, go to Bluetooth settings and disconnect those headphones."</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="default_web_client_id">797574865421-enr0iv0cihvimnhv2npmspgfej6jmj1r.apps.googleusercontent.com</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="failed_mic_request_alert_dialog_message">"To use the microphone for Sound Amplifier, close the app that's using it."</string>
+    <string name="failed_mic_request_alert_dialog_negative_button_name">Got it</string>
+    <string name="failed_mic_request_alert_dialog_title">Mic is not available</string>
+    <string name="feedback_text">Send feedback</string>
+    <string name="firebase_database_url">https://soundamplifier-release.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">797574865421</string>
+    <string name="general_notification_channel_name">Drawer Control Panel</string>
+    <string name="gf_anonymous">Anonymous</string>
+    <string name="gf_app_name">Google Feedback</string>
+    <string name="gf_back">Back</string>
+    <string name="gf_choose_an_account">Choose an account</string>
+    <string name="gf_crash_header">Crash Data</string>
+    <string name="gf_error_report_board">Board</string>
+    <string name="gf_error_report_brand">Brand</string>
+    <string name="gf_error_report_build_id">Build id</string>
+    <string name="gf_error_report_build_type">Build type</string>
+    <string name="gf_error_report_codename">Codename</string>
+    <string name="gf_error_report_description">Description</string>
+    <string name="gf_error_report_device">Device</string>
+    <string name="gf_error_report_incremental">Incremental version</string>
+    <string name="gf_error_report_installed_packages">Installed applications</string>
+    <string name="gf_error_report_installer_package_name">Installed by</string>
+    <string name="gf_error_report_model">Model</string>
+    <string name="gf_error_report_package_name">Package name</string>
+    <string name="gf_error_report_package_version">Package version</string>
+    <string name="gf_error_report_package_version_name">Package version name</string>
+    <string name="gf_error_report_process_name">Process name</string>
+    <string name="gf_error_report_product">Product</string>
+    <string name="gf_error_report_release">Release</string>
+    <string name="gf_error_report_running_apps">Running applications</string>
+    <string name="gf_error_report_running_service_details">Details</string>
+    <string name="gf_error_report_sdk_version">SDK version</string>
+    <string name="gf_error_report_system">System</string>
+    <string name="gf_error_report_system_app">System app</string>
+    <string name="gf_error_report_system_log">System log</string>
+    <string name="gf_error_report_time">Time</string>
+    <string name="gf_error_report_user_accounts">Number of Google accounts</string>
+    <string name="gf_exception_class_name">Exception Class Name</string>
+    <string name="gf_feedback">Feedback</string>
+    <string name="gf_include_screenshot">Include screenshot</string>
+    <string name="gf_include_system_data">Include system data</string>
+    <string name="gf_network_data">Network</string>
+    <string name="gf_network_name">Network Name</string>
+    <string name="gf_no">No</string>
+    <string name="gf_no_data">No data</string>
+    <string name="gf_optional_description">Description (optional)</string>
+    <string name="gf_preview">Preview</string>
+    <string name="gf_privacy">Privacy</string>
+    <string name="gf_privacy_policy">Privacy Policy</string>
+    <string name="gf_privacy_text">By selecting [Send] you acknowledge and agree that any information contained in the feedback report will be used by Google in accordance with the Google privacy policies applicable to the application through which you initiated the report. You agree that Google may use any feedback that you provide to improve any Google products or services.</string>
+    <string name="gf_receiver_host">www.google.com</string>
+    <string name="gf_receiver_path">/tools/feedback/android/__submit</string>
+    <string name="gf_receiver_transport_scheme">https</string>
+    <string name="gf_report_being_sent">Thanks, your report is being sent.</string>
+    <string name="gf_report_feedback">Report An Issue</string>
+    <string name="gf_report_queued">Your device seems to be offline. We will retry when you are connected.</string>
+    <string name="gf_report_sent_failure">Sorry, there was an error sending your report.</string>
+    <string name="gf_screenshot_preview">Screenshot Preview</string>
+    <string name="gf_send">Send</string>
+    <string name="gf_should_submit_anonymously">You are submitting feedback anonymously. Your email address may help us debug your reported issue better. Are you sure you want to continue?</string>
+    <string name="gf_should_submit_on_empty_description">You have not entered an issue description. Are you sure you want to send feedback without a description?</string>
+    <string name="gf_stack_trace">Stack Trace</string>
+    <string name="gf_this_will_help">Share system data with Google, to better diagnose the problem.</string>
+    <string name="gf_this_will_help_screenshot">Send screenshot of the last page you were on.</string>
+    <string name="gf_throw_class_name">Throw Class Name</string>
+    <string name="gf_throw_file_name">Throw File Name</string>
+    <string name="gf_throw_line_number">Throw Line Number</string>
+    <string name="gf_throw_method_name">Throw Method Name</string>
+    <string name="gf_user_account">User Account</string>
+    <string name="gf_yes">Yes</string>
+    <string name="google_api_key">AIzaSyAbZGaZyOkF9b7H4X-RbIHwVr9AgpNwVz8</string>
+    <string name="google_app_id">1:797574865421:android:f49a730b8ed427a4</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAbZGaZyOkF9b7H4X-RbIHwVr9AgpNwVz8</string>
+    <string name="google_storage_bucket">soundamplifier-release.appspot.com</string>
+    <string name="heads_up_notification_channel_name">Control Panel</string>
+    <string name="help_and_feedback">Help &amp; feedback</string>
+    <string name="high">High</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="landing_alert_dialog_accessibility_icon">[Icon]</string>
+    <string name="landing_alert_dialog_help_link">"Can't find Accessibility button?"</string>
+    <string name="landing_alert_dialog_message">Tap Accessibility button %s at the bottom of the screen to turn Sound Amplifier on and off</string>
+    <string name="landing_alert_dialog_navigation_button_name">Got it</string>
+    <string name="landing_alert_dialog_title">Sound Amplifier</string>
+    <string name="left_loudness_description">Left Boost Seek Bar</string>
+    <string name="left_loudness_title">L Boost</string>
+    <string name="left_tuning_description">Left Fine tuning Seek Bar</string>
+    <string name="left_tuning_title">L Fine tuning</string>
+    <string name="loudness_description">Boost Seek Bar</string>
+    <string name="loudness_title">Boost</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="microphone_title">Microphone</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="never_ask_permission_alert_dialog_message">To use Sound Amplifier, you need to allow microphone and phone permissions. You can update this in device Settings.</string>
+    <string name="never_ask_permission_alert_dialog_negative_button_name">Dismiss</string>
+    <string name="never_ask_permission_alert_dialog_positive_button_name">Settings</string>
+    <string name="never_ask_permission_alert_dialog_title">Permissions needed</string>
+    <string name="noise">Noise</string>
+    <string name="noise_reduction_intensity">Strength of noise reduction</string>
+    <string name="not_set">Not set</string>
+    <string name="open_source_licenses_title">Open source licenses</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause_action">Pause</string>
+    <string name="paused_notification_lose_focus_message">Another app is using audio</string>
+    <string name="paused_notification_message">Sound won’t be amplified</string>
+    <string name="paused_notification_title">Sound Amplifier paused</string>
+    <string name="phone_device">Device mic</string>
+    <string name="play_action">Play</string>
+    <string name="plug_alert_dialog_3_5mm_headphone">3.5mm headphones</string>
+    <string name="plug_alert_dialog_message">Sound Amplifier only works with wired headphones.</string>
+    <string name="plug_alert_dialog_navigation_button_name">Got it</string>
+    <string name="plug_alert_dialog_title">Plug in wired headphones</string>
+    <string name="plug_alert_dialog_usb_headphone">USB headphones</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="project_id">soundamplifier-release</string>
+    <string name="remove_shortcut_dialog_content">To remove the Sound Amplifier shortcut button, go to Settings > Accessibility > Sound Amplifier. Then, turn off Use service.</string>
+    <string name="remove_shortcut_dialog_title">Remove shortcut button</string>
+    <string name="right_loudness_description">Right Boost Seek Bar</string>
+    <string name="right_loudness_title">R Boost</string>
+    <string name="right_tuning_description">Right Fine tuning Seek Bar</string>
+    <string name="right_tuning_title">R Fine tuning</string>
+    <string name="settings_action">Settings</string>
+    <string name="sound">Sound</string>
+    <string name="sound_amplifier_description">"Sound Amplifier can improve how you hear the sounds around you. It makes weak sounds louder without making powerful sounds too loud.
+
+To use Sound Amplifier, plug in your wired headphones and tap the Accessibility button at the bottom of the screen."</string>
+    <string name="sound_amplifier_service_name">Sound Amplifier</string>
+    <string name="sound_amplifier_summary">Use headphones to improve audio</string>
+    <string name="sound_around_me">Sound around you</string>
+    <string name="sound_playing_on_my_phone">Sound playing on your phone</string>
+    <string name="sound_resource_title">Amplify</string>
+    <string name="source">Source</string>
+    <string name="switch_headset_alert_dialog_message">Sound Amplifier only works with wired headphones.</string>
+    <string name="switch_headset_alert_dialog_negative_button_name">Cancel</string>
+    <string name="switch_headset_alert_dialog_positive_button_name">Switch</string>
+    <string name="switch_headset_alert_dialog_title">Switch to wired headphones?</string>
+    <string name="tuning_description">Fine tuning Seek Bar</string>
+    <string name="tuning_title">Fine tuning</string>
+    <string name="wired_headphones_device">Wired headphones</string>
+    <item type="string" name="APKTOOL_DUMMY_1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_96">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_107">false</item>
+    <item type="string" name="APKTOOL_DUMMY_108">false</item>
+    <item type="string" name="APKTOOL_DUMMY_109">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_111">false</item>
+    <item type="string" name="APKTOOL_DUMMY_112">false</item>
+    <item type="string" name="APKTOOL_DUMMY_113">false</item>
+    <item type="string" name="APKTOOL_DUMMY_114">false</item>
+    <item type="string" name="APKTOOL_DUMMY_115">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_118">false</item>
+    <item type="string" name="APKTOOL_DUMMY_119">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_120">false</item>
+    <item type="string" name="APKTOOL_DUMMY_121">false</item>
+    <item type="string" name="APKTOOL_DUMMY_122">false</item>
+    <item type="string" name="APKTOOL_DUMMY_123">false</item>
+    <item type="string" name="APKTOOL_DUMMY_124">false</item>
+    <item type="string" name="APKTOOL_DUMMY_125">false</item>
+    <item type="string" name="APKTOOL_DUMMY_126">false</item>
+    <item type="string" name="APKTOOL_DUMMY_127">false</item>
+    <item type="string" name="APKTOOL_DUMMY_128">false</item>
+    <item type="string" name="APKTOOL_DUMMY_129">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_136">false</item>
+    <item type="string" name="APKTOOL_DUMMY_137">false</item>
+    <item type="string" name="APKTOOL_DUMMY_138">false</item>
+    <item type="string" name="APKTOOL_DUMMY_139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_157">false</item>
+    <item type="string" name="APKTOOL_DUMMY_159">false</item>
+    <item type="string" name="APKTOOL_DUMMY_162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_169">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_173">false</item>
+    <item type="string" name="APKTOOL_DUMMY_174">false</item>
+    <item type="string" name="APKTOOL_DUMMY_175">false</item>
+    <item type="string" name="APKTOOL_DUMMY_176">false</item>
+    <item type="string" name="APKTOOL_DUMMY_177">false</item>
+    <item type="string" name="APKTOOL_DUMMY_178">false</item>
+    <item type="string" name="APKTOOL_DUMMY_179">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_180">false</item>
+    <item type="string" name="APKTOOL_DUMMY_181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_182">false</item>
+    <item type="string" name="APKTOOL_DUMMY_183">false</item>
+    <item type="string" name="APKTOOL_DUMMY_184">false</item>
+    <item type="string" name="APKTOOL_DUMMY_185">false</item>
+    <item type="string" name="APKTOOL_DUMMY_186">false</item>
+    <item type="string" name="APKTOOL_DUMMY_187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_188">false</item>
+    <item type="string" name="APKTOOL_DUMMY_189">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_190">false</item>
+    <item type="string" name="APKTOOL_DUMMY_191">false</item>
+    <item type="string" name="APKTOOL_DUMMY_192">false</item>
+    <item type="string" name="APKTOOL_DUMMY_193">false</item>
+    <item type="string" name="APKTOOL_DUMMY_194">false</item>
+    <item type="string" name="APKTOOL_DUMMY_195">false</item>
+    <item type="string" name="APKTOOL_DUMMY_196">false</item>
+    <item type="string" name="APKTOOL_DUMMY_197">false</item>
+    <item type="string" name="APKTOOL_DUMMY_198">false</item>
+    <item type="string" name="APKTOOL_DUMMY_199">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e3">false</item>
+</resources>

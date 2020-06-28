@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">تمت إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="zero">تمت إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="one">تمت إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="two">تمت إضافة جهتي اتصال %1$d إلى التصنيف %2$s</item>
+        <item quantity="few">تمت إضافة %1$d جهات اتصال إلى التصنيف %2$s</item>
+        <item quantity="many">تمت إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="zero">إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="one">إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+        <item quantity="two">إضافة جهتي اتصال %1$d إلى التصنيف %2$s</item>
+        <item quantity="few">إضافة %1$d جهات اتصال إلى التصنيف %2$s</item>
+        <item quantity="many">إضافة %1$d جهة اتصال إلى التصنيف %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_apply_all_title">
+        <item quantity="other">هل تريد تحديث %d جهة اتصال؟</item>
+        <item quantity="zero">هل تريد عدم تحديث أي جهات اتصال %d؟</item>
+        <item quantity="one">هل تريد تحديث جهة اتصال واحدة %d؟</item>
+        <item quantity="two">هل تريد تحديث جهتي اتصال %d؟</item>
+        <item quantity="few">هل تريد تحديث %d جهات اتصال؟</item>
+        <item quantity="many">هل تريد تحديث %d جهة اتصال؟</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">تم العثور على تفاصيل جديدة تخص %d شخص اتصلت بهم</item>
+        <item quantity="zero">لم يتم العثور على تفاصيل جديدة لأي شخص %d اتصلت به</item>
+        <item quantity="one">تم العثور على تفاصيل جديدة لشخص واحد %d اتصلت به</item>
+        <item quantity="two">تم العثور على تفاصيل جديدة لشخصين %d اتصلت بهما</item>
+        <item quantity="few">تم العثور على تفاصيل جديدة تخص %d أشخاص اتصلت بهم</item>
+        <item quantity="many">تم العثور على تفاصيل جديدة تخص %d شخصًا اتصلت بهم</item>
+    </plurals>
+    <plurals name="add_missing_names_title">
+        <item quantity="other">إضافة &lt;xliff id="count">%d&lt;/xliff> اسم مفقود</item>
+        <item quantity="zero">إضافة &lt;xliff id="count">%d&lt;/xliff> أسماء مفقودة</item>
+        <item quantity="one">إضافة &lt;xliff id="count">%d&lt;/xliff> اسم مفقود</item>
+        <item quantity="two">إضافة &lt;xliff id="count">%d&lt;/xliff> اسمين مفقودين</item>
+        <item quantity="few">إضافة &lt;xliff id="count">%d&lt;/xliff> أسماء مفقودة</item>
+        <item quantity="many">إضافة &lt;xliff id="count">%d&lt;/xliff> اسمًا مفقودًا</item>
+    </plurals>
+    <plurals name="added_missing_names">
+        <item quantity="other">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> اسم مفقود</item>
+        <item quantity="zero">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> أسماء مفقودة</item>
+        <item quantity="one">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> اسم مفقود</item>
+        <item quantity="two">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> اسمين مفقودين</item>
+        <item quantity="few">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> أسماء مفقودة</item>
+        <item quantity="many">تمت إضافة &lt;xliff id="count">%d&lt;/xliff> اسمًا مفقودًا</item>
+    </plurals>
+    <plurals name="all_accounts_account_count">
+        <item quantity="other">%1$d حساب</item>
+        <item quantity="zero">%1$d حسابات</item>
+        <item quantity="one">حساب واحد</item>
+        <item quantity="two">%1$d حسابان</item>
+        <item quantity="few">%1$d حسابات</item>
+        <item quantity="many">%1$d حسابًا</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d عنوان لا يمكن تلقّي البريد الإلكتروني من خلالهم</item>
+        <item quantity="zero">%d عناوين لا يمكن تلقّي البريد الإلكتروني من خلالها</item>
+        <item quantity="one">%d عنوان لا يمكن تلقّي البريد الإلكتروني من خلاله</item>
+        <item quantity="two">%d عنوانان لا يمكن تلقّي البريد الإلكتروني من خلالهما</item>
+        <item quantity="few">%d عناوين لا يمكن تلقّي البريد الإلكتروني من خلالها</item>
+        <item quantity="many">%d عنوانًا لا يمكن تلقّي البريد الإلكتروني من خلالهم</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">يوجد %d شخص له قائمة طبق الأصل</item>
+        <item quantity="zero">يوجد %d شخص له قائمة طبق الأصل</item>
+        <item quantity="one">يوجد شخص %d له قائمة طبق الأصل</item>
+        <item quantity="two">يوجد شخصان %d لهما قائمتين طبق الأصل</item>
+        <item quantity="few">يوجد %d أشخاص لهم قوائم طبق الأصل</item>
+        <item quantity="many">يوجد %d شخص له قائمة طبق الأصل</item>
+    </plurals>
+    <plurals name="assistant_no_name_summary_card_body">
+        <item quantity="other">هناك &lt;xliff id="count">%d&lt;/xliff> جهة اتصال لا تحتوي على اسم</item>
+        <item quantity="zero">هناك &lt;xliff id="count">%d&lt;/xliff>" جهة اتصال لا تحتوي على اسم "</item>
+        <item quantity="one">هناك جهة اتصال واحدة (&lt;xliff id="count">%d&lt;/xliff>) لا تحتوي على اسم</item>
+        <item quantity="two">هناك جهتي اتصال (&lt;xliff id="count">%d&lt;/xliff>") لا تحتويان على اسم "</item>
+        <item quantity="few">هناك &lt;xliff id="count">%d&lt;/xliff> جهات اتصال لا تحتوي على اسم</item>
+        <item quantity="many">هناك &lt;xliff id="count">%d&lt;/xliff> جهة اتصال لا تحتوي على اسم</item>
+    </plurals>
+    <plurals name="assistant_suggestions_acted_on">
+        <item quantity="other">%d جهة اتصال تم تحديثها</item>
+        <item quantity="zero">%d جهة اتصال تم تحديثها</item>
+        <item quantity="one">%d جهة اتصال تم تحديثها</item>
+        <item quantity="two">%d جهتي اتصال تم تحديثهما</item>
+        <item quantity="few">%d جهات اتصال تم تحديثها</item>
+        <item quantity="many">%d جهة اتصال تم تحديثها</item>
+    </plurals>
+    <plurals name="block_numbers_dialog_title">
+        <item quantity="other">أتريد حظر الأرقام؟</item>
+        <item quantity="zero">أتريد حظر الرقم؟</item>
+        <item quantity="one">أتريد حظر الرقم؟</item>
+        <item quantity="two">أتريد حظر الرقمين؟</item>
+        <item quantity="few">أتريد حظر الأرقام؟</item>
+        <item quantity="many">أتريد حظر الأرقام؟</item>
+    </plurals>
+    <plurals name="cleanup_fragment_title_count">
+        <item quantity="other">حذف %d رسالة بريد إلكتروني غير مهمة</item>
+        <item quantity="zero">حذف %d رسالة بريد إلكتروني غير مهمة</item>
+        <item quantity="one">حذف %d رسالة بريد إلكتروني غير مهمة</item>
+        <item quantity="two">حذف رسالتي %d بريد إلكتروني غير مهمتين</item>
+        <item quantity="few">حذف %d رسائل بريد إلكتروني غير مهمة</item>
+        <item quantity="many">حذف %d رسالة بريد إلكتروني غير مهمة</item>
+    </plurals>
+    <plurals name="cleanup_number_deleted">
+        <item quantity="other">تم حذف %d</item>
+        <item quantity="zero">تم حذف %d</item>
+        <item quantity="one">تم حذف %d</item>
+        <item quantity="two">تم حذف %d</item>
+        <item quantity="few">تم حذف %d</item>
+        <item quantity="many">تم حذف %d</item>
+    </plurals>
+    <plurals name="contact_names_added">
+        <item quantity="other">تمت إضافة %d</item>
+        <item quantity="zero">تمت إضافة %d</item>
+        <item quantity="one">تمت إضافة %d</item>
+        <item quantity="two">تمت إضافة %d</item>
+        <item quantity="few">تمت إضافة %d</item>
+        <item quantity="many">تمت إضافة %d</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">تم حذف %1$d جهة اتصال</item>
+        <item quantity="zero">ليست هناك أي جهة اتصال (%1$d)</item>
+        <item quantity="one">تم في حذف %1$d جهة اتصال</item>
+        <item quantity="two">تم حذف جهتي اتصال %1$d</item>
+        <item quantity="few">تم حذف %1$d جهات اتصال</item>
+        <item quantity="many">تم حذف %1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="contacts_selected_title_fmt">
+        <item quantity="other">تم اختيار %d جهة اتّصال</item>
+        <item quantity="zero">تم اختيار %d جهة اتّصال</item>
+        <item quantity="one">تمّ اختيار جهة اتّصال واحدة (%d)</item>
+        <item quantity="two">تم اختيار (%d) جهتي اتّصال</item>
+        <item quantity="few">تم اختيار %d جهات اتّصال</item>
+        <item quantity="many">تم اختيار %d جهة اتّصال</item>
+    </plurals>
+    <plurals name="delete_undeletable_contacts_failure_toast">
+        <item quantity="other">تعذَّر حذف جهات الاتصال الصالحة للقراءة فقط.</item>
+        <item quantity="zero">تعذَّر حذف جهات الاتصال الصالحة للقراءة فقط.</item>
+        <item quantity="one">تعذَّر حذف جهة الاتصال الصالحة للقراءة فقط.</item>
+        <item quantity="two">تعذَّر حذف جهتَي الاتصال الصالحة للقراءة فقط.</item>
+        <item quantity="few">تعذَّر حذف جهات الاتصال الصالحة للقراءة فقط.</item>
+        <item quantity="many">تعذَّر حذف جهات الاتصال الصالحة للقراءة فقط.</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">‏ستتم إزالة جهات الاتصال هذه من جهات اتصال Google وكل الأجهزة المتزامنة</item>
+        <item quantity="zero">‏ستتم إزالة جهات الاتصال هذه من جهات اتصال Google وكل الأجهزة المتزامنة</item>
+        <item quantity="one">‏ستتم إزالة جهة الاتصال هذه من جهات اتصال Google وكل الأجهزة المتزامنة</item>
+        <item quantity="two">‏ستتم إزالة جهتي الاتصال من جهات اتصال Google وكل الأجهزة المتزامنة.</item>
+        <item quantity="few">‏ستتم إزالة جهات الاتصال هذه من جهات اتصال Google وكل الأجهزة المتزامنة.</item>
+        <item quantity="many">‏ستتم إزالة جهات الاتصال هذه من جهات اتصال Google وكل الأجهزة المتزامنة.</item>
+    </plurals>
+    <plurals name="duplicates_activity_title_count">
+        <item quantity="other">دمج %d نُسخة طبق الأصل</item>
+        <item quantity="zero">دمج %d نُسخ طبق الأصل</item>
+        <item quantity="one">دمج %d نُسخة طبق الأصل</item>
+        <item quantity="two">دمج %d نُسخة طبق الأصل</item>
+        <item quantity="few">دمج %d نُسخ طبق الأصل</item>
+        <item quantity="many">دمج %d نُسخة طبق الأصل</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_success">
+        <item quantity="other">تم دمج %d</item>
+        <item quantity="zero">تم دمج %d</item>
+        <item quantity="one">تم دمج %d</item>
+        <item quantity="two">تم دمج %d</item>
+        <item quantity="few">تم دمج %d</item>
+        <item quantity="many">تم دمج %d</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_title">
+        <item quantity="other">هل تريد دمج %d نُسخة طبق الأصل؟</item>
+        <item quantity="zero">هل تريد دمج %d نُسخة طبق الأصل؟</item>
+        <item quantity="one">هل تريد دمج %d نُسخة طبق الأصل؟</item>
+        <item quantity="two">هل تريد دمج نسختين طبق الأصل %d؟</item>
+        <item quantity="few">هل تريد دمج %d نُسخ طبق الأصل؟</item>
+        <item quantity="many">هل تريد دمج %d نُسخة طبق الأصل؟</item>
+    </plurals>
+    <plurals name="duplicates_cluster_content_description">
+        <item quantity="other">%1$d تكرار لجهة الاتصال %2$s</item>
+        <item quantity="zero">%1$d تكرار لجهة الاتصال %2$s</item>
+        <item quantity="one">%1$d تكرار لجهة الاتصال %2$s</item>
+        <item quantity="two">%1$d تكراران لجهة الاتصال %2$s</item>
+        <item quantity="few">%1$d تكرارات لجهة الاتصال %2$s</item>
+        <item quantity="many">%1$d تكرارًا لجهة الاتصال %2$s</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d جهات اتصال في حساباتك الأخرى</item>
+        <item quantity="zero">%1$d جهات اتصال في حساباتك الأخرى</item>
+        <item quantity="one">جهة اتصال واحدة في حساباتك الأخرى</item>
+        <item quantity="two">%1$dجهتا اتصال في حساباتك الأخرى</item>
+        <item quantity="few">%1$d جهات اتصال في حساباتك الأخرى</item>
+        <item quantity="many">%1$d جهات اتصال في حساباتك الأخرى</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d جهة اتصال</item>
+        <item quantity="zero">%1$d جهة اتصال</item>
+        <item quantity="one">جهة اتصال واحدة</item>
+        <item quantity="two">%1$d جهتا اتصال</item>
+        <item quantity="few">%1$d جهات اتصال</item>
+        <item quantity="many">%1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 جهة اتصال • ^2</item>
+        <item quantity="zero">^1 جهة اتصال • ^2</item>
+        <item quantity="one">^1 جهة اتصال • ^2</item>
+        <item quantity="two">^1 جهتا اتصال • ^2</item>
+        <item quantity="few">^1 جهات اتصال • ^2</item>
+        <item quantity="many">^1 جهة اتصال • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">هل تريد نقل %1$d جهة اتصال إلى %2$s؟</item>
+        <item quantity="zero">هل تريد نقل %1$d جهة اتصال إلى %2$s؟</item>
+        <item quantity="one">هل تريد نقل جهة الاتصال هذه إلى %2$s؟</item>
+        <item quantity="two">هل تريد نقل جهتي الاتصال (%1$d) إلى %2$s؟</item>
+        <item quantity="few">هل تريد نقل %1$d جهات اتصال إلى %2$s؟</item>
+        <item quantity="many">هل تريد نقل %1$d جهة اتصال إلى %2$s؟</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">تم نقل %d جهة اتصال</item>
+        <item quantity="zero">تم نقل %d جهة اتصال</item>
+        <item quantity="one">تم نقل جهة اتصال واحدة (%d )</item>
+        <item quantity="two">تم نقل جهتي اتصال %d</item>
+        <item quantity="few">تم نقل %d جهات اتصال</item>
+        <item quantity="many">تم نقل %d جهة اتصال</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">انتهى نقل %1$d جهة اتصال</item>
+        <item quantity="zero">انتهى نقل %1$d جهة اتصال</item>
+        <item quantity="one">انتهى نقل جهة اتصال</item>
+        <item quantity="two">انتهى نقل جهتي اتصال %1$d</item>
+        <item quantity="few">انتهى نقل %1$d جهات اتصال</item>
+        <item quantity="many">انتهى نقل %1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_notification_title">
+        <item quantity="other">جارٍ نقل %1$d جهة اتصال إلى %2$s</item>
+        <item quantity="zero">جارٍ نقل %1$d جهة اتصال إلى %2$s</item>
+        <item quantity="one">جارٍ نقل جهة الاتصال إلى %2$s</item>
+        <item quantity="two">جارٍ نقل جهتي اتصال %1$d إلى %2$s</item>
+        <item quantity="few">جارٍ نقل %1$d جهات اتصال إلى %2$s</item>
+        <item quantity="many">جارٍ نقل %1$d جهة اتصال إلى %2$s</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">نقل %1$d جهة اتصال</item>
+        <item quantity="zero">نقل %1$d جهة اتصال</item>
+        <item quantity="one">نقل جهة اتصال</item>
+        <item quantity="two">نقل جهتي اتصال %1$d</item>
+        <item quantity="few">نقل %1$d جهات اتصال</item>
+        <item quantity="many">نقل %1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="new_contact_assistant_summary_card_body">
+        <item quantity="other">مراجعة %d اقتراح</item>
+        <item quantity="zero">مراجعة %d اقتراح</item>
+        <item quantity="one">مراجعة اقتراح واحد (%d)</item>
+        <item quantity="two">مراجعة اقتراحين (%d)</item>
+        <item quantity="few">مراجعة %d اقتراحات</item>
+        <item quantity="many">مراجعة %d اقتراح</item>
+    </plurals>
+    <plurals name="new_contacts_assistant_suggestions_acted_on">
+        <item quantity="other">%d جهة اتصال تمت إضافتها</item>
+        <item quantity="zero">%d جهة اتصال تمت إضافتها</item>
+        <item quantity="one">%d جهة اتصال تمت إضافتها</item>
+        <item quantity="two">%d جهتا اتصال تمت إضافتهما</item>
+        <item quantity="few">%d جهات اتصال تمت إضافتها</item>
+        <item quantity="many">%d جهة اتصال تمت إضافتها</item>
+    </plurals>
+    <plurals name="phone_repair_contacts_to_update">
+        <item quantity="other">تؤثر التغييرات على %d بلد</item>
+        <item quantity="zero">تؤثر التغييرات على %d بلد</item>
+        <item quantity="one">تؤثر التغييرات على بلد %d</item>
+        <item quantity="two">تؤثر التغييرات على بلدين %d</item>
+        <item quantity="few">تؤثر التغييرات على %d بلدان</item>
+        <item quantity="many">تؤثر التغييرات على %d بلدًا</item>
+    </plurals>
+    <plurals name="phone_repair_number_updated">
+        <item quantity="other">تم تحديث %d</item>
+        <item quantity="zero">تم تحديث %d</item>
+        <item quantity="one">تم تحديث %d</item>
+        <item quantity="two">تم تحديث %d</item>
+        <item quantity="few">تم تحديث %d</item>
+        <item quantity="many">تم تحديث %d</item>
+    </plurals>
+    <plurals name="phone_repair_qc_card_title">
+        <item quantity="other">تحديث أرقام هاتف</item>
+        <item quantity="zero">عدم تحديث أي جهات اتصال</item>
+        <item quantity="one">تحديث رقم هاتف واحد</item>
+        <item quantity="two">تحديث رقمي هاتف</item>
+        <item quantity="few">تحديث أرقام هاتف</item>
+        <item quantity="many">تحديث أرقام هاتف</item>
+    </plurals>
+    <plurals name="phone_repair_updating_notification">
+        <item quantity="other">سيتم تحديث %d رقم هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+        <item quantity="zero">سيتم تحديث %d رقم هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+        <item quantity="one">سيتم تحديث رقم هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+        <item quantity="two">سيتم تحديث %d رقمي هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+        <item quantity="few">سيتم تحديث %d أرقام هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+        <item quantity="many">سيتم تحديث %d رقم هاتف. قد تستغرق التغييرات بعض الوقت لتظهر.</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">تم نسخ %1$d جهة اتصال احتياطيًا إلى %2$s</item>
+        <item quantity="zero">تم نسخ %1$d جهة اتصال احتياطيًا إلى %2$s</item>
+        <item quantity="one">تم نسخ %1$d جهة اتصال احتياطيًا إلى %2$s</item>
+        <item quantity="two">تم نسخ جهتي اتصال %1$d احتياطيًا إلى %2$s</item>
+        <item quantity="few">تم نسخ %1$d جهات اتصال احتياطيًا إلى %2$s</item>
+        <item quantity="many">تم نسخ %1$d جهة اتصال احتياطيًا إلى %2$s</item>
+    </plurals>
+    <plurals name="restore_notification_title1_fmt">
+        <item quantity="other">استعادة %1$d جهة اتصال تم الاحتفاظ بنسخة احتياطية منها</item>
+        <item quantity="zero">استعادة %1$d جهة اتصال تم الاحتفاظ بنسخة احتياطية منها</item>
+        <item quantity="one">استعادة جهة اتصال واحدة (%1$d) تم الاحتفاظ بنسخة احتياطية منها</item>
+        <item quantity="two">استعادة جهتيّ اتصال (%1$d) تم الاحتفاظ بنسخة احتياطية منهما</item>
+        <item quantity="few">استعادة %1$d جهات اتصال تم الاحتفاظ بنسخة احتياطية منها</item>
+        <item quantity="many">استعادة %1$d جهة اتصال تم الاحتفاظ بنسخة احتياطية منها</item>
+    </plurals>
+    <plurals name="restore_notification_title2_fmt">
+        <item quantity="other">%1$d جهة اتصال جاهزة للاستعادة</item>
+        <item quantity="zero">%1$d جهة اتصال جاهزة للاستعادة</item>
+        <item quantity="one">جهة اتصال واحدة (%1$d) جاهزة للاستعادة</item>
+        <item quantity="two">جهتا اتصال (%1$d) جاهزتان للاستعادة</item>
+        <item quantity="few">%1$d جهات اتصال جاهزة للاستعادة</item>
+        <item quantity="many">%1$d جهة اتصال جاهزة للاستعادة</item>
+    </plurals>
+    <plurals name="restore_notification_title3_fmt">
+        <item quantity="other">استعادة %1$d جهة اتصال مفقودة</item>
+        <item quantity="zero">استعادة %1$d جهة اتصال مفقودة</item>
+        <item quantity="one">استعادة جهة اتصال واحدة (%1$d) مفقودة</item>
+        <item quantity="two">استعادة جهتيّ اتصال (%1$d) مفقودتين</item>
+        <item quantity="few">استعادة %1$d جهات اتصال مفقودة</item>
+        <item quantity="many">استعادة %1$d جهة اتصال مفقودة</item>
+    </plurals>
+    <plurals name="share_location_success_message_with_duration">
+        <item quantity="other">تتم مشاركة موقعك لمدة %1$d دقيقة</item>
+        <item quantity="zero">تتم مشاركة موقعك لمدة %1$d دقيقة</item>
+        <item quantity="one">تتم مشاركة موقعك لمدة دقيقة واحدة</item>
+        <item quantity="two">تتم مشاركة موقعك لمدة دقيقتين %1$d</item>
+        <item quantity="few">تتم مشاركة موقعك لمدة %1$d دقائق</item>
+        <item quantity="many">تتم مشاركة موقعك لمدة %1$d دقيقة</item>
+    </plurals>
+    <plurals name="sheepdog_confirm_cancel_dialog_content">
+        <item quantity="other">قد لا يتم الاحتفاظ بنسخة احتياطية من %d جهة اتصال على هذا الجهاز.</item>
+        <item quantity="zero">قد لا يتم الاحتفاظ بنسخة احتياطية من %d جهة اتصال على هذا الجهاز.</item>
+        <item quantity="one">قد لا يتم الاحتفاظ بنسخة احتياطية من جهة اتصال واحدة (%d) على هذا الجهاز.</item>
+        <item quantity="two">قد لا يتم الاحتفاظ بنسخة احتياطية من جهتَي اتصال (%d) على هذا الجهاز.</item>
+        <item quantity="few">قد لا يتم الاحتفاظ بنسخة احتياطية من %d جهات اتصال على هذا الجهاز.</item>
+        <item quantity="many">قد لا يتم الاحتفاظ بنسخة احتياطية من %d جهة اتصال على هذا الجهاز.</item>
+    </plurals>
+    <plurals name="sheepdog_opt_in_count_info_text">
+        <item quantity="other">‏لا يتم حفظ %d جهة اتصال في الجهاز باعتبارها ضمن \"جهات اتصال Google\"</item>
+        <item quantity="zero">‏لا يتم حفظ %d جهة اتصال في الجهاز باعتبارها ضمن \"جهات اتصال Google\"</item>
+        <item quantity="one">‏لا يتم حفظ جهة اتصال (%d) في الجهاز باعتبارها ضمن \"جهات اتصال Google\"</item>
+        <item quantity="two">‏لا يتم حفظ جهتي اتصال (%d) في الجهاز باعتبارهما ضمن \"جهات اتصال Google\"</item>
+        <item quantity="few">‏لا يتم حفظ %d جهات اتصال في الجهاز باعتبارها ضمن \"جهات اتصال Google\"</item>
+        <item quantity="many">‏لا يتم حفظ %d جهة اتصال في الجهاز باعتبارها ضمن \"جهات اتصال Google\"</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">‏استيراد من شريحة SIM</item>
+        <item quantity="zero">‏استيراد من شريحة SIM</item>
+        <item quantity="one">‏استيراد من شريحة SIM</item>
+        <item quantity="two">‏استيراد من شريحتي SIM</item>
+        <item quantity="few">‏استيراد من شرائح SIM</item>
+        <item quantity="many">‏استيراد من شريحة SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d جهة اتصال</item>
+        <item quantity="zero">%d جهة اتصال</item>
+        <item quantity="one">جهة اتصال واحدة</item>
+        <item quantity="two">%d جهتا اتصال</item>
+        <item quantity="few">%d جهات اتصال</item>
+        <item quantity="many">%d جهة اتصال</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">‏تم استيراد %d جهة اتصال من شريحة SIM</item>
+        <item quantity="zero">‏تم استيراد جهتي اتصال (%d) من شريحة SIM</item>
+        <item quantity="one">‏تم استيراد جهة اتصال واحدة من شريحة SIM</item>
+        <item quantity="two">‏تم استيراد %d جهات اتصال من شريحة SIM</item>
+        <item quantity="few">‏تم استيراد %d جهة اتصال من شريحة SIM</item>
+        <item quantity="many">‏تم استيراد %d جهة اتصال من شريحة SIM</item>
+    </plurals>
+    <plurals name="starred_contacts_activity_title">
+        <item quantity="other">%d جهة اتصال مميّزة بنجمة</item>
+        <item quantity="zero">%d جهة اتصال مميّزة بنجمة</item>
+        <item quantity="one">%d جهة اتصال مميّزة بنجمة</item>
+        <item quantity="two">%d جهتا اتصال مميّزتان بنجمتين</item>
+        <item quantity="few">%d جهات اتصال مميّزة بنجوم</item>
+        <item quantity="many">%d جهة اتصال مميّزة بنجمة</item>
+    </plurals>
+    <plurals name="unblock_numbers_dialog_title">
+        <item quantity="other">أتريد إزالة الحظر عن الأرقام؟</item>
+        <item quantity="zero">أتريد إزالة الحظر عن الرقم؟</item>
+        <item quantity="one">أتريد إزالة الحظر عن الرقم؟</item>
+        <item quantity="two">أتريد إزالة الحظر عن الرقمين؟</item>
+        <item quantity="few">أتريد إزالة الحظر عن الأرقام؟</item>
+        <item quantity="many">أتريد إزالة الحظر عن الأرقام؟</item>
+    </plurals>
+</resources>

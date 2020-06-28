@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_capital_off">DESACTIVAR</string>
+    <string name="abc_capital_on">ACTIVAR</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">borrar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Mayúscula+</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accessibility_no_wifi">La conexión Wi-Fi está desconectada.</string>
+    <string name="accessibility_wifi_one_bar">La señal de Wi-Fi muestra una barra.</string>
+    <string name="accessibility_wifi_security_type_none">Red abierta</string>
+    <string name="accessibility_wifi_security_type_secured">Red segura</string>
+    <string name="accessibility_wifi_signal_full">La señal de Wi-Fi está completa.</string>
+    <string name="accessibility_wifi_three_bars">La señal de Wi-Fi muestra tres barras.</string>
+    <string name="accessibility_wifi_two_bars">La señal de Wi-Fi muestra dos barras.</string>
+    <string name="account_exists_info">"Se sincronizarán tus contactos, correos electrónicos, eventos del calendario y otros datos con {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}}. Ya puedes comenzar a descargar apps, música y juegos de Google Play.
+
+Más tarde, podrás agregar y quitar cuentas en Configuración > Cuentas."</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SudDescription.Medium">^1</annotation> está lista.</string>
+    <string name="account_exists_text_unknown_name">La cuenta está lista.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Cuenta agregada}other{Cuentas agregadas}}</string>
+    <string name="activating_carrier_service_text">Este proceso podría demorar unos minutos</string>
+    <string name="activating_unknown_carrier_service_title">Activando…</string>
+    <string name="activation_failed_message">"Puedes hacer lo siguiente:
+"<ul><li>Volver a conectarte mediante datos móviles</li>"
+"<li>Usar otra red para la configuración</li></ul>"
+
+Si no funcionan estas opciones, reinicia tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} y vuelve a intentarlo."</string>
+    <string name="activation_failed_title">Error al conectar mediante datos móviles</string>
+    <string name="activation_progress_flow">"¿Está tardando demasiado?
+
+La conexión con los datos móviles se está demorando. Vuelve y conéctate a otra red."</string>
+    <string name="activation_title">Conectando con el servicio móvil…</string>
+    <string name="activation_unprovisioned_sim_message">Reinicia tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} y vuelve a intentarlo, o bien conéctate a una red Wi-Fi para completar la configuración. Si todavía tienes problemas para activar los datos móviles, comunícate con tu proveedor.</string>
+    <string name="activation_unprovisioned_title">No se pudieron activar los datos móviles</string>
+    <string name="android_privacy_policy_title">Política de Privacidad adicional</string>
+    <string name="available_via_carrier">Disponible a través de %1$s</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="captive_portal_connection_unsuccessful">No se pudo conectar a Internet</string>
+    <string name="captive_portal_description_text">Este proceso podría demorar unos minutos</string>
+    <string name="captive_portal_ssl_error_text">Esta conexión usa un certificado inseguro o no válido. Elige otra red y vuelve a intentarlo.</string>
+    <string name="captive_portal_title">Conectando…</string>
+    <string name="chrome_privacy_title">Aviso de privacidad de Chrome</string>
+    <string name="chrome_tos_title">Condiciones del Servicio de Chrome</string>
+    <string name="close_button_label">Cerrar</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará a menos que habilites los servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Obtener servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disp. de los Servicios de Google‌‌‌ Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s no se ejecutará a menos que actualices los servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizar servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará sin los servicios de Google Play. La plataforma se está actualizando en este momento.</string>
+    <string name="connect_to_wifi_btn_text">Configuración de Wi-Fi</string>
+    <string name="connect_to_wifi_message">Conéctate a una red Wi-Fi para continuar</string>
+    <string name="connect_to_wifi_title">Las actualizaciones de apps están listas</string>
+    <string name="connected_via_app">Conexión a través de %1$s</string>
+    <string name="connected_via_carrier">Conexión a través de %1$s</string>
+    <string name="connected_via_network_scorer_default">Conectado automáticamente mediante proveedor de calificación de red</string>
+    <string name="consolidate_captive_portal_description_text">Este proceso podría demorar unos minutos</string>
+    <string name="consolidate_captive_portal_title">Buscando actualizaciones…</string>
+    <string name="continue_for_a11y">Continúa tocando la pantalla hasta que escuches un pitido para activar el modo Accesibilidad.</string>
+    <string name="date_time_current_date">Fecha</string>
+    <string name="date_time_current_time">Hora</string>
+    <string name="date_time_message">Ajusta las opciones si es necesario.</string>
+    <string name="date_time_setup_title">Fecha y hora</string>
+    <string name="date_time_time_zone_full">%1$s (%2$s)</string>
+    <string name="decision_point_continue_setup">Continuar</string>
+    <string name="decision_point_google_assistant">Asistente de Google</string>
+    <string name="decision_point_illustration_description">Entre los pasos adicionales, se incluyen Google Pay, el Asistente de Google, Está sonando, el tamaño de fuente, el fondo de pantalla y mucho más</string>
+    <string name="decision_point_leave_setup">Salir y recibir recordatorio</string>
+    <string name="decision_point_now_playing">Está sonando</string>
+    <string name="default_device_name_device">dispositivo</string>
+    <string name="default_device_name_phone">teléfono</string>
+    <string name="default_device_name_tablet">tablet</string>
+    <string name="deferred_notification_prompt_title">Termina de configurar tu ^1</string>
+    <string name="deferred_setup_button_label">Finaliza la configuración</string>
+    <string name="deferred_setup_wizard_reason_assistant">habla con el Asistente</string>
+    <string name="deferred_setup_wizard_reason_assistant_verbose">habla con el Asistente de Google</string>
+    <string name="deferred_setup_wizard_reason_default">Solo unos pasos más</string>
+    <string name="deferred_setup_wizard_reason_fragment_restore">copia tus datos</string>
+    <string name="deferred_setup_wizard_reason_google_pay">usar Google Pay</string>
+    <string name="deferred_setup_wizard_reason_google_pay_verbose">pagar más rápido con Google Pay</string>
+    <string name="deferred_setup_wizard_reason_template_one_reason">^1 y más</string>
+    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 y más</string>
+    <string name="deferred_setup_wizard_reason_verbose_default">Tu ^1 estará listo en unos pocos pasos</string>
+    <string name="deferred_setup_wizard_reason_wallpaper">establece un fondo de pantalla</string>
+    <string name="deferred_setup_wizard_reason_wallpaper_verbose">establecer un fondo de pantalla</string>
+    <string name="deferred_setup_wizard_title">Finalizar la configuración del dispositivo</string>
+    <string name="deferred_snooze_dialog_option_never">Nunca</string>
+    <string name="deferred_snooze_dialog_option_today">Hoy más tarde</string>
+    <string name="deferred_snooze_dialog_option_tomorrow">Mañana</string>
+    <string name="deferred_snooze_dialog_title">Recuérdame</string>
+    <string name="deferred_welcome_airplane_mode_message">"Necesitas una conexión para completar los últimos pasos.
+
+Cuando el modo de avión está activado, se desconectan las redes móviles Wi-Fi y Bluetooth."</string>
+    <string name="deferred_welcome_airplane_mode_snooze_button">Configurar más tarde</string>
+    <string name="deferred_welcome_airplane_mode_title">¿Quieres desactivar el modo de avión?</string>
+    <string name="deferred_welcome_screen_cancel_button">Recordarme más tarde</string>
+    <string name="deferred_welcome_title">Finaliza la configuración de ^1</string>
+    <string name="deferred_welcome_turn_off_button_label">Desactivar</string>
+    <string name="device_owner_continue">Continuar con la configuración</string>
+    <string name="device_owner_reset">Restablecer {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}</string>
+    <string name="device_owner_warning">{0} administra tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} y puede acceder a tu información. Si no quieres que {0} tenga acceso, restablece tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}.</string>
+    <string name="device_owner_warning_title">{DEVICE_TYPE,select, PHONE{El teléfono}TABLET{La tablet}other{El dispositivo}} puede supervisarse</string>
+    <string name="dialog_back_button_label">Atrás</string>
+    <string name="dialog_continue_button_label">Continuar</string>
+    <string name="early_update_installing_updates_text">Instalando actualizaciones</string>
+    <string name="early_update_text">Este proceso podría demorar unos minutos</string>
+    <string name="early_update_timeout_text">¿Está tardando demasiado? Regresa y conéctate a otra red.</string>
+    <string name="early_update_title">Buscando actualizaciones…</string>
+    <string name="emergency_dial">Llamada de emergencia</string>
+    <string name="enabled_a11y">Se activó el modo Accesibilidad.</string>
+    <string name="esim_option_button_summary">Agrega un número con la eSIM</string>
+    <string name="esim_option_button_title">¿Descargar una SIM?</string>
+    <string name="esim_warning_title">Cómo descargar la SIM</string>
+    <string name="esim_warning_txt">Si eres suscriptor de %1$s, descarga una eSIM en lugar de insertar una tarjeta SIM para recibir llamadas, mensajes de texto y datos.</string>
+    <string name="esim_warning_txt_default">Para conectarte a la red móvil, descarga la información que suele incluir una tarjeta SIM. Esta acción reemplaza las tarjetas SIM estándar y es igual de segura.</string>
+    <string name="exit_loading_launcher">Cargando selector…</string>
+    <string name="factory_reset_button">Borrar y restablecer</string>
+    <string name="factory_reset_confirmation">¿Quieres borrar todas las cuentas y los datos {DEVICE_TYPE,select, PHONE{del teléfono}TABLET{de la tablet}other{del dispositivo}}? No podrás deshacer esta acción.</string>
+    <string name="factory_reset_confirmation_title">¿Restablecer configuración de fábrica?</string>
+    <string name="factory_reset_instructions">Advertencia: Se borrarán todas las cuentas y datos del almacenamiento interno de {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}} si restableces la configuración de fábrica.</string>
+    <string name="factory_reset_title">Restablecer {DEVICE_TYPE,select, PHONE{el teléfono}TABLET{la tablet}other{el dispositivo}}</string>
+    <string name="final_hold_description_text">Este proceso podría demorar unos minutos</string>
+    <string name="final_hold_title">Últimos retoques…</string>
+    <string name="final_hold_title_setup_work_account">Preparando para perfil de trabajo…</string>
+    <string name="gms_account_checkin_title">Obteniendo información de la cuenta…</string>
+    <string name="gms_checkin_description_text">Este proceso podría demorar unos minutos</string>
+    <string name="gms_checkin_description_text_timeout">¿Está tardando demasiado? Intenta volver y conectarte a otra red.</string>
+    <string name="gms_checkin_title">Buscando actualizaciones…</string>
+    <string name="go_back_button_label">Atrás</string>
+    <string name="google">Google</string>
+    <string name="google_play_tos_title">Condiciones del Servicio de Google Play</string>
+    <string name="google_plus_privacy_policy_title">Política de Privacidad de Google Plus</string>
+    <string name="google_privacy_policy_title">Política de Privacidad de Google</string>
+    <string name="google_provisioning_disclaimer_content">Se aplican las Condiciones del Servicio y la Política de Privacidad de Google. Para obtener más información, visita &lt;a href=https://www.google.com/policies>www.google.com/policies&lt;/a>.</string>
+    <string name="google_terms_of_service_title">Condiciones de uso de Google</string>
+    <string name="invalid_phone_number">Número de teléfono desconocido</string>
+    <string name="invalid_qr_code_content">Pídele a tu administrador de TI el código correcto</string>
+    <string name="invalid_qr_code_retry">Volver a intentar</string>
+    <string name="invalid_qr_code_title">Código QR incorrecto</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari y iTunes son marcas comerciales de Apple Inc., registradas en EE.UU. y en otros países.</string>
+    <string name="language_picker_section_all">Todos los idiomas</string>
+    <string name="language_picker_section_suggested">Sugeridos</string>
+    <string name="migrate_from_ios_description">Haz lo siguiente:</string>
+    <string name="migrate_from_ios_header">Copia tus datos</string>
+    <string name="migrate_from_ios_instructions_1">1. Abre Safari®</string>
+    <string name="migrate_from_ios_instructions_2">2. Ve a <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Sigue las instrucciones</string>
+    <string name="network_description_text">Selecciona una red</string>
+    <string name="network_description_text_esim">Para descargar la SIM, debes conectarte a una red Wi‑Fi</string>
+    <string name="network_see_all_wifi">Ver todas la redes Wi-Fi</string>
+    <string name="network_timeout_description_text">Vuelve a intentarlo con otra red. Si aún no tienes conexión, puedes terminar algunos pasos de configuración más tarde.</string>
+    <string name="network_timeout_title">No se pudo establecer la conexión</string>
+    <string name="network_timeout_try_another_network_button">Probar con otra red</string>
+    <string name="network_title">Conéctate a Wi-Fi</string>
+    <string name="network_use_cellular">Usar red móvil para realizar la configuración</string>
+    <string name="network_use_cellular_carrier">Conectarse a Wi-Fi más tarde</string>
+    <string name="network_wifi_continue_button">Continuar</string>
+    <string name="not_set">Sin definir</string>
+    <string name="notification_channel_name_deferred">Configuración adicional</string>
+    <string name="notification_channel_name_initial">Configuración</string>
+    <string name="notification_channel_name_restore">Restablecimiento de datos</string>
+    <string name="notification_channel_security_name_warnings">Advertencias de seguridad</string>
+    <string name="ok_button_label">Aceptar</string>
+    <string name="ota_agreement_text">Si continúas y recibes esta actualización de software, aceptarás las <annotation link="tos">Condiciones del Servicio</annotation> y la <annotation link="google_privacy">Política de Privacidad</annotation> de Google.</string>
+    <string name="ota_info">Tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} necesita descargar una actualización y reiniciarse.</string>
+    <string name="ota_size">Tamaño: %s</string>
+    <string name="ota_update_title">Actualiza tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}</string>
+    <string name="predeferred_prepare_setup">Preparando para la configuración…</string>
+    <string name="predeferred_prepare_setup_details">Pronto podrás completar la configuración de tu ^1</string>
+    <string name="predeferred_wifi_required_notification_connect_button">Conéctate a Wi-Fi</string>
+    <string name="predeferred_wifi_required_notification_content">Conéctate a una red Wi-Fi para continuar</string>
+    <string name="predeferred_wifi_required_notification_title">Las actualizaciones de las apps están listas</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="qr_code_scan_title">Buscando un código QR</string>
+    <string name="region_picker_section_all">Todas las regiones</string>
+    <string name="restart_setup_wizard_button_label">Configurar {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}</string>
+    <string name="restart_setup_wizard_dialog_text">"Para usar {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}}, primero debes acceder a la cuenta de Google del propietario que se usó en {DEVICE_TYPE,select, PHONE{el teléfono}TABLET{la tablet}other{el dispositivo}} cuando se restableció por última vez.
+
+Como no lo hiciste, debes volver a configurar {DEVICE_TYPE,select, PHONE{el teléfono}TABLET{la tablet}other{el dispositivo}}."</string>
+    <string name="restart_setup_wizard_dialog_title">No accediste</string>
+    <string name="restore_failed_message">No se puede restaurar la copia de seguridad</string>
+    <string name="restore_no_backup_message">No hay copias de seguridad disponibles en tu otro dispositivo</string>
+    <string name="restore_no_backup_title">No se puede restablecer</string>
+    <string name="restore_stopped_message">No se pudo terminar de restaurar la copia de seguridad</string>
+    <string name="restore_title">Restaurando datos…</string>
+    <string name="setup_ongoing_notification_text">Presiona para finalizar la configuración de ^1</string>
+    <string name="setup_ongoing_notification_title">Configuración de ^1 en progreso</string>
+    <string name="setup_wizard_title">Configuración de Android</string>
+    <string name="sim_locked_text">"Este teléfono está bloqueado para otro operador. Debes utilizar una tarjeta SIM válida.
+
+Una vez que insertes tu tarjeta SIM, demorará algunos segundos en activarse."</string>
+    <string name="sim_locked_title">La tarjeta SIM no es compatible</string>
+    <string name="sim_missing_text">{sim_slots,plural, =1{Si tienes una tarjeta SIM, insértala ahora}other{Si tienes tarjetas SIM, insértalas ahora}}</string>
+    <string name="sim_missing_title">Conéctate a una red móvil</string>
+    <string name="sim_ready_message">%1$s debería estar listo para que puedas usarlo</string>
+    <string name="sim_ready_message_carrier_app">Para finalizar la activación de %1$s, descarga la app de %2$s. Por ahora, terminemos de configurar el teléfono.</string>
+    <string name="sim_ready_message_invalid_phone_number">Tu número debería estar listo para que puedas usarlo</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Para finalizar la activación de tu número, descarga la app de %1$s. Por ahora, terminemos de configurar el teléfono.</string>
+    <string name="sim_ready_title">%1$s está activo</string>
+    <string name="sim_ready_title_carrier_app">Conectarse a %1$s en otro momento</string>
+    <string name="sim_setup_ask_every_time">Preguntar siempre</string>
+    <string name="sim_setup_select_data">Preferencia de datos móviles</string>
+    <string name="sim_setup_select_data_description">Elige un número para usar con los datos móviles</string>
+    <string name="sim_setup_select_text">Preferencia de SMS</string>
+    <string name="sim_setup_select_text_description">Elige un número para los mensajes de texto salientes (todos los números activos podrán recibir mensajes entrantes)</string>
+    <string name="sim_setup_select_voice">Preferencia de llamadas</string>
+    <string name="sim_setup_select_voice_description">Elige un número para las llamadas salientes (todos los números activos podrán recibir llamadas entrantes)</string>
+    <string name="sim_setup_title">Configurar las tarjetas SIM</string>
+    <string name="skip_anyway_button_label">Omitir de todos modos</string>
+    <string name="skip_button_label">Omitir</string>
+    <string name="skip_toast">Asistente de configuración omitido</string>
+    <string name="slots_selection_item_summary_activating">Activando…</string>
+    <string name="slots_selection_item_summary_error">No se puede activar en este momento</string>
+    <string name="slots_selection_title">Selecciona un número para usar</string>
+    <string name="speed_label_fast">Rápida</string>
+    <string name="speed_label_okay">Aceptar</string>
+    <string name="speed_label_slow">Lenta</string>
+    <string name="speed_label_very_fast">Muy rápida</string>
+    <string name="sud_back_button_label">Atrás</string>
+    <string name="sud_more_button_label">Más</string>
+    <string name="sud_next_button_label">Siguiente</string>
+    <string name="suggested_actions_description">Configura algunas opciones más ahora o hazlo en otro momento en Configuración</string>
+    <string name="suggested_actions_description_single_item">Debes configurar esta opción en tu ^1. También puedes hacerlo más tarde en Configuración.</string>
+    <string name="suggested_actions_done_label">Listo por el momento</string>
+    <string name="suggested_actions_no_thanks_label">No, gracias</string>
+    <string name="suggested_actions_title">¿Necesitas algo más?</string>
+    <string name="switch_camera">Cambiar cámara</string>
+    <string name="switch_to_back_camera_button_content_description">Cámara trasera</string>
+    <string name="switch_to_front_camera_button_content_description">Cámara frontal</string>
+    <string name="switched_to_back_camera_announcement">Ahora el botón es la cámara frontal</string>
+    <string name="switched_to_front_camera_announcement">Ahora el botón es la cámara trasera</string>
+    <string name="tap_to_sign_up">Presiona para registrarte</string>
+    <string name="terminate_toast">"Asistente de configuración finalizado
+Dispositivo no proporcionado"</string>
+    <string name="try_again_button_label">Vuelve a intentarlo</string>
+    <string name="url_load_unsuccessful_message">Tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} no tiene conexión a ningún servicio de datos móviles. Para consultar esta información ahora, visita {0} desde un navegador web.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} no tiene conexión a ninguna red Wi-Fi. Para consultar esta información ahora, visita {0} desde un navegador web.</string>
+    <string name="user_warning_cannot_switch_message">No se puede cambiar al usuario propietario. Vuelve a intentarlo más tarde.</string>
+    <string name="user_warning_label_continue">Continuar</string>
+    <string name="user_warning_label_quit">Cancelar</string>
+    <string name="user_warning_quit_dialog_button_keep">Mantener usuario</string>
+    <string name="user_warning_quit_dialog_button_remove">Quitar usuario</string>
+    <string name="user_warning_quit_dialog_message">¿Deseas quitar el usuario?</string>
+    <string name="user_warning_title">Configurar un usuario nuevo</string>
+    <string name="wait_msg">Un momento...</string>
+    <string name="web_dialog_unable_to_view">Para consultar esta información ahora, visita ^1 desde un navegador web.</string>
+    <string name="welcome_accessibility_button">Configuración de visión</string>
+    <string name="welcome_language_picker_content_description">Idioma: %s</string>
+    <string name="welcome_language_picker_dialog_title">Selecciona tu idioma</string>
+    <string name="welcome_message">¡Hola!</string>
+    <string name="welcome_secondary_user_added_text">Te agregaron a {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}}</string>
+    <string name="welcome_secondary_user_info_text"><b>Importante:</b>"
+
+"<ul><li>El propietario de {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}} puede desinstalar tus apps y quitar tu perfil de usuario.</li>"
+
+"<li>Cualquiera puede aceptar permisos de apps actualizados.</li>"
+
+"<li>Solo debes compartir {DEVICE_TYPE,select, PHONE{este teléfono}TABLET{esta tablet}other{este dispositivo}} con personas de confianza.</li></ul></string>
+    <string name="welcome_start_button_label">Comenzar</string>
+    <string name="wifi_add_new_network">Agregar una red nueva</string>
+    <string name="wifi_and_mobile_skipped_message">"Si te conectas a una red Wi-Fi o móvil, podrás configurar rápidamente tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}.
+
+Sin conexión, no podrás hacer lo siguiente:
+
+"<ul><li>Acceder a una Cuenta de google</li>"
+
+"<li>Restaurar apps y datos</li>"
+
+"<li>Obtener actualizaciones de software</li>"
+
+"<li>Configurar automáticamente la fecha y hora</li></ul></string>
+    <string name="wifi_and_mobile_skipped_message_esim">"Si te conectas a una red Wi-Fi o móvil, podrás configurar rápidamente tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}.
+
+Sin conexión, no podrás hacer lo siguiente:
+
+"<ul><li>Acceder a tu Cuenta de Google</li>"
+
+"<li>Restaurar apps y datos</li>"
+
+"<li>Descargar una SIM</li>"
+
+"<li>Obtener actualizaciones de software</li>"
+
+"<li>Configurar automáticamente la fecha y hora</li></ul></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">El punto de acceso está completo temporalmente</string>
+    <string name="wifi_check_password_try_again">Revisa la contraseña y vuelve a intentarlo</string>
+    <string name="wifi_connected_no_internet">Conectado pero sin conexión a Internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">No se estableció conexión debido a la mala calidad de la red</string>
+    <string name="wifi_disabled_generic">Inhabilitada</string>
+    <string name="wifi_disabled_network_failure">Error de configuración IP</string>
+    <string name="wifi_disabled_password_failure">Problema de autenticación</string>
+    <string name="wifi_fail_to_scan">No se pueden buscar las redes.</string>
+    <string name="wifi_ip_address_not_available">No disponible</string>
+    <string name="wifi_ip_address_title">Dirección IP</string>
+    <string name="wifi_limited_connection">Conexión limitada</string>
+    <string name="wifi_mac_address_not_available">No disponible</string>
+    <string name="wifi_mac_address_title">Dirección MAC</string>
+    <string name="wifi_metered_label">Con uso medido</string>
+    <string name="wifi_no_internet">No hay acceso a Internet</string>
+    <string name="wifi_no_internet_no_reconnect">No se conectará automáticamente</string>
+    <string name="wifi_not_in_range">Fuera de alcance</string>
+    <string name="wifi_remembered">Guardada</string>
+    <string name="wifi_scanning">Buscando redes Wi-Fi…</string>
+    <string name="wifi_set_up_offline_title">¿Configurar el dispositivo sin conexión?</string>
+    <string name="wifi_skip_button_label">Config. sin conexión</string>
+    <string name="wifi_skipped_message">Tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} usará la red móvil durante la configuración. Es posible que se apliquen cargos por el uso de datos. Para evitarlos, conéctate a una red Wi-Fi.</string>
+    <string name="wifi_skipped_title">Posibles cargos por el uso de datos</string>
+    <string name="wifi_title">Conéctate a Wi-Fi</string>
+    <string name="wifi_unmetered_label">Sin tarifa plana</string>
+    <string name="work_profile_setup_description">A fin de configurar este dispositivo para el trabajo y separar los datos de trabajo de los personales</string>
+    <string name="work_profile_setup_next">Siguiente</string>
+    <string name="work_profile_setup_skip">Omitir configuración para el trabajo</string>
+    <string name="work_profile_setup_title">Agrega tu cuenta de trabajo</string>
+    <string name="work_setup_interrupted">"Notamos actividad inusual en tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}, y es posible que tus datos no estén seguros si continúas con la configuración.
+
+Para volver a comenzar, restablece tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}}."</string>
+    <string name="work_setup_interrupted_title">Es posible que tu {DEVICE_TYPE,select, PHONE{teléfono}TABLET{tablet}other{dispositivo}} no sea un dispositivo seguro</string>
+</resources>

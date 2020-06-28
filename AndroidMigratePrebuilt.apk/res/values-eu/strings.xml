@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Joan gora</string>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_capital_off">DESAKTIBATU</string>
+    <string name="abc_capital_on">AKTIBATU</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
+    <string name="abc_search_hint">Bilatu…</string>
+    <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
+    <string name="abc_searchview_description_search">Bilatu</string>
+    <string name="abc_searchview_description_submit">Bidali kontsulta</string>
+    <string name="abc_searchview_description_voice">Ahozko bilaketa</string>
+    <string name="abc_toolbar_collapse_description">Tolestu</string>
+    <string name="app_has_in_app_purchases">Aplikazioko erosketak</string>
+    <string name="app_has_permissions">Baimenak: %s</string>
+    <string name="app_has_runtime_permissions">Baimenak eskatuko ditu aplikazioak</string>
+    <string name="app_picker_group_default_title">Zure aplikazioak</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">Erabilgarri dauden aplikazioak bilatzen…</string>
+    <string name="app_picker_loading_toast">Laster kargatuko dira erabilgarri dauden aplikazioak</string>
+    <string name="app_picker_no_apps">Ez da hautatu aplikaziorik</string>
+    <string name="app_picker_no_apps_found">Ez da aurkitu aplikaziorik</string>
+    <string name="apps_permissions_described_v2">"Doako iOS® aplikazio ezagunak soilik bat etorraraz daitezke Android aplikazioekin. Aplikazioetako erosketa gehienak ez dira transferituko. Play Store-n aplikazio gehiago aurkituko dituzu konfigurazioa amaitu ondoren.
+
+Agian aplikazioei aldez aurreko baimena eman beharko diezu gailuko zenbait gaitasun edo datu zehatz atzitzeko. Taldetan daude antolatuta baimen horiek. Aplikazioak instalatzea hautatzen baduzu, talde bakoitzeko baimen guztiak onartuko dituzu. Hemen behean dituzu baimen talde bakoitzaren azalpenak.
+
+Aplikazio batzuek ez dute aldez aurreko baimenik eskatuko; haiek erabiltzen dituzunean, banaka onar edo bazter dezakezu baimen bakoitza, aplikazioak datu horiek erabili aurretik.
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">Google Calendar</string>
+    <string name="auto_synced_item_google_contacts">Google Kontaktuak</string>
+    <string name="auto_synced_item_google_photos">Google Argazkiak</string>
+    <string name="auto_synced_title">Automatikoki sinkronizatuta</string>
+    <string name="backup_d2d_migration_tool_activity_name">Datuak transferitzeko tresna</string>
+    <string name="button_dont_copy">Ez kopiatu</string>
+    <string name="button_dont_restore">Ez leheneratu</string>
+    <string name="button_dont_restore_apps">Ez leheneratu aplikazioak</string>
+    <string name="cancel_copy_button">Utzi kopiatzeari</string>
+    <string name="character_counter_content_description">%1$d/%2$d karaktere idatzi dira</string>
+    <string name="character_counter_overflowed_content_description">Karaktere-muga gainditu da: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Garbitu testua</string>
+    <string name="close_button_label">Itxi</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Ez dago aplikaziorik babeskopian</string>
+    <string name="cloud_restore_app_picker_title">Aukeratu leheneratu beharreko aplikazioak</string>
+    <string name="common_cancel">Utzi</string>
+    <string name="common_confirm">Berretsi</string>
+    <string name="common_google_play_services_enable_button">Gaitu</string>
+    <string name="common_google_play_services_enable_text">%1$s aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="common_google_play_services_enable_title">Gaitu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_install_button">Instalatu</string>
+    <string name="common_google_play_services_install_text">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan.</string>
+    <string name="common_google_play_services_install_title">Lortu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play zerbitzuen erabilgarritasuna</string>
+    <string name="common_google_play_services_notification_ticker">Google Play zerbitzuen errorea</string>
+    <string name="common_google_play_services_unknown_issue">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria.</string>
+    <string name="common_google_play_services_update_button">Eguneratu</string>
+    <string name="common_google_play_services_update_text">%1$s ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="common_google_play_services_update_title">Eguneratu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_updating_text">%1$s ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok.</string>
+    <string name="common_ok">Ados</string>
+    <string name="common_restore">Leheneratu</string>
+    <string name="common_skip">Saltatu</string>
+    <string name="common_try_again">Saiatu berriro</string>
+    <string name="contacts_no_number_device_and_sim">Gailuko eta SIM txarteleko kontaktuak</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud® zerbitzuan, %2$d gailuan</string>
+    <string name="content_selector_ui_title">Aukeratu zer leheneratu nahi duzun</string>
+    <string name="continue_button">Egin aurrera</string>
+    <string name="continue_setup_description">Leheneratu bitartean, ^1 gailua konfiguratzen jarrai dezakezu</string>
+    <string name="copied_contacts_group_label">%1$s gailutik kopiatu da</string>
+    <string name="copied_contacts_group_label_default">Kable bidez transferitu da</string>
+    <string name="copied_contacts_group_label_ios">iOS gailutik kopiatu da</string>
+    <string name="copy_button">Kopiatu</string>
+    <string name="d2d_app_picker_description_no_apps">Ezin izan dugu aurkitu aplikaziorik</string>
+    <string name="d2d_app_picker_title">Aplikazioak</string>
+    <string name="data_copied_fragment_description">Kablea deskonektatu egin dezakezu</string>
+    <string name="data_copied_fragment_description_cancel">Kopiatzeko prozesua eten duzu; beraz, ezin izan dira kopiatu datu guztiak telefono berrian.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Kopiatzeko prozesua eten duzu; beraz, ez da ezer kopiatu telefono berrian.</string>
+    <string name="data_copied_fragment_description_error">Arazoren bat izan da, eta ezin izan ditugu kopiatu datu guztiak.</string>
+    <string name="data_copied_fragment_description_error_no_data">Arazoren bat izan da, eta ezin izan ditugu kopiatu datuak.</string>
+    <string name="data_copied_fragment_no_data_title">Ezin izan dira kopiatu datuak</string>
+    <string name="data_copied_fragment_some_data_title">Datu batzuk kopiatu dira</string>
+    <string name="data_copied_fragment_title">Kopiatu dira datuak</string>
+    <string name="device_not_supported_fragment_new_device">Telefono berri batera konektatu zara. Aurrera egiteko, konektatu aurreko telefonora.</string>
+    <string name="device_not_supported_fragment_new_device_title">Konektatu aurreko telefonoarekin</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kable honek ezin du transferitu daturik. Konektatu telefonoak beste kable batekin eta saiatu berriro.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Probatu beste kable batekin</string>
+    <string name="device_not_supported_fragment_other_ways_btn">Kopiatu beste nolabait</string>
+    <string name="device_not_supported_fragment_retry_description">Ziurtatu aurreko telefonoa desblokeatuta dagoela, eta deskonektatu eta konektatu berriro kablea</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Arazoren bat izan da</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">Erabili kaxako egokitzailearekin bat datorren kable bat</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">Kable honek ez du funtzionatzen</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® gainbegiratu bat daukazunez, beste modu bat aukeratu beharko duzu datuak kopiatzeko</string>
+    <string name="device_picker_empty">Ez dago %1$s kontuarekin lotutako babeskopiarik.</string>
+    <string name="device_picker_empty_title">Ez da aurkitu babeskopiarik</string>
+    <string name="device_picker_item">%1$s gailuaren babeskopia</string>
+    <string name="device_picker_summary_work_profile">Leheneratu lanerako aplikazioak telefono zahar batetik</string>
+    <string name="device_picker_title">Aukeratu leheneratu nahi duzun babeskopia</string>
+    <string name="device_picker_title_work_profile">Aukeratu telefono bat</string>
+    <string name="dialog_continue_button_label">Egin aurrera</string>
+    <string name="download_file_description">Beste gailu batetik kopiatu dira</string>
+    <string name="drive_backup_content_callhistory_title">Deien historia</string>
+    <string name="drive_backup_content_contacts_title">Kontaktuak</string>
+    <string name="drive_backup_content_devicesettings_title">Gailuaren ezarpenak</string>
+    <string name="durationDayHour">%1$d egun eta %2$d ordu</string>
+    <string name="durationDayHours">%1$d egun eta %2$d ordu</string>
+    <string name="durationDays">%1$d egun</string>
+    <string name="durationHoursMinutes">%1$d h eta %2$d min</string>
+    <string name="durationMinute">%1$d minutu</string>
+    <string name="durationMinutes">%1$d minutu</string>
+    <string name="encryption_warning_fragment_description">"Babeskopien enkriptatzea aktibatuta daukazu iPhone® gailuan. Ez baduzu zuk aktibatu, agian IKT saileko administratzaileak aktibatu dizu.
+
+Argazkiak, musika eta bideoak soilik transferi daitezke. Informazio gehiago lortzeko joan "<b>g.co/datatransferhelp</b> helbidera.</string>
+    <string name="encryption_warning_fragment_title">Babeskopien enkriptatzea</string>
+    <string name="error_icon_content_description">Errorea</string>
+    <string name="esim_transferring_fragment_header">%1$s aktibatzen…</string>
+    <string name="exposed_dropdown_menu_content_description">Erakutsi goitibeherako menua</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">Aplikazioak, argazkiak, kontaktuak, Google-ko kontua, eta beste transferi ditzakezu.</string>
+    <string name="flow_choice_description_text_new_esim">Aplikazioak, argazkiak, kontaktuak, Google-ko kontua, telefono-zenbakia eta beste transferi ditzakezu.</string>
+    <string name="flow_choice_dont_copy_data_esim">Konfiguratu zenbakia soilik</string>
+    <string name="flow_choice_title">Kopiatu aplikazioak eta datuak</string>
+    <string name="fragment_app_picker_d2d_title">Aukeratu aplikazioak</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"Zure ^2 iOS® aplikazioetako ^1 aurkitu ditugu. Agian ez dira transferituko aplikazioetako erosketa batzuk.
+
+Aplikazioak instalatuz gero, dagozkion baimenak emango dizkiozu haietako bakoitzari. "<annotation id="apps_permissions_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="fragment_connecting_title">Telefono zaharrera konektatzen…</string>
+    <string name="fragment_indexing_description">Hurrengo pantailan, aukeratu kopiatu nahi duzuna</string>
+    <string name="fragment_indexing_title">Datuak egiaztatzen…</string>
+    <string name="fragment_indexing_verify_password_title">Pasahitza egiaztatzen…</string>
+    <string name="fragment_ios_decryption_description">Eduki gehiago transferitzeko, hala nola SMS mezuak eta kontaktuak, idatzi iTunes® zerbitzuko babeskopien pasahitza</string>
+    <string name="fragment_ios_decryption_forgot_password_button">Pasahitza ahaztu duzu?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">Ezin dugu transferitu eduki enkriptatua iTunes® zerbitzuko babeskopien pasahitza gabe. Enkriptatuta ez dagoena transferituko dugu Pixel gailura.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">Ezin da transferitu eduki enkriptatua</string>
+    <string name="fragment_ios_decryption_password_hint">Idatzi iTunes® zerbitzuko babeskopien pasahitza</string>
+    <string name="fragment_ios_decryption_skip_button">Saltatu eduki enkriptatua</string>
+    <string name="fragment_ios_decryption_skip_password_description">Ez dira transferituko iCloud® zerbitzuko kontaktuak, gailukoak eta iMessage® zerbitzuko mezuak</string>
+    <string name="fragment_ios_decryption_skip_password_title">Enkriptatutako edukia saltatu nahi duzu?</string>
+    <string name="fragment_ios_decryption_title">Enkriptatuta duzu iPhone® gailua</string>
+    <string name="fragment_ios_decryption_wrong_password_error">Pasahitza ez da zuzena. Saiatu berriro.</string>
+    <string name="fragment_ios_device_management_confirm_title">Berretsi gailua kudeatzeko aukera kendu nahi duzula</string>
+    <string name="fragment_ios_device_management_detected_description">"Erakundeak kudeatzen du iPhone® gailua eta edukiaren zati bat enkriptatu egin du.
+
+iCloud® zerbitzuko kontaktuak, gailukoak eta iMessage® zerbitzuko mezuak transferitzeko, gailua kudeatzeko aukera kendu beharko diozu iPhone® gailuari."</string>
+    <string name="fragment_ios_device_management_detected_title">Edukiaren zati bat enkriptatuta dago</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">Erakutsi urratsak</string>
+    <string name="fragment_ios_device_management_not_removed_description">"iPhone® gailuan duzu oraindik gailuen kudeaketa. Hura kentzeko, egin aurreko urratsak.
+
+Gailuen kudeaketa kentzen ez bada, ezingo dugu transferitu enkriptatutako edukia Pixel berrira."</string>
+    <string name="fragment_ios_device_management_not_removed_title">Ezin da transferitu eduki enkriptatua</string>
+    <string name="fragment_ios_device_management_open_settings_description">iPhone® gailuan, sakatu <b>Settings (Ezarpenak) > General (Orokorra) > Profiles &amp; Device Management (Profilak eta gailuaren kudeaketa)</b></string>
+    <string name="fragment_ios_device_management_open_settings_title">Ireki kudeaketa-ezarpenak</string>
+    <string name="fragment_ios_device_management_passcode_title">Idatzi pasakodea</string>
+    <string name="fragment_ios_device_management_remove_title">Kendu gailua kudeatzeko aukera</string>
+    <string name="fragment_ios_device_management_risk_description">"Gailua kudeatzeko aukera kentzen baduzu, laneko baliabideetarako sarbidea gal dezakezu.
+
+Konfiguratu ondoren arazoak badituzu gailua kudeatzeko aukera berriro instalatzeko, jarri IKT administratzaileekin harremanetan."</string>
+    <string name="fragment_ios_device_management_risk_title">Gailua kudeatzeko aukera kentzea</string>
+    <string name="fragment_ios_device_management_select_management_title">Sakatu Gailu mugikorren kudeaketa (MDM) aukera</string>
+    <string name="fragment_ios_device_management_skip_button">Saltatu enkriptatutako edukia</string>
+    <string name="fragment_ios_instructions_description">Aurrera egiteko, zoaz iPhone™ gailura eta onartu konektatzea</string>
+    <string name="fragment_ios_instructions_reconnect_cable">Arazoak dituzu? Deskonektatu telefonoak eta konekta itzazu berriro.</string>
+    <string name="fragment_ios_recoverable_error_description">Berriro saiatzeko, deskonektatu eta konektatu berriro telefonoak</string>
+    <string name="fragment_ios_recoverable_error_title">Ezin da desenkriptatu iPhone® gailua</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">Ez dira transferituko iCloud® zerbitzuko kontaktuak, gailukoak eta iMessage® zerbitzuko mezuak</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">Enkriptatutako edukia saltatu nahi duzu?</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_description">Beste zenbaki bat transferi dezakezu konfigurazioa amaitzen duzunean. Horretarako, SIM txartel bat sartu behar duzu telefonoan.</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_dismiss">Ados</string>
+    <string name="fragment_multiple_numbers_transfer_dialog_title">Beste zenbaki bat transferitzeko argibideak</string>
+    <string name="fragment_restore_choice_title">Aukeratu kopiatu beharreko edukia</string>
+    <string name="fragment_smart_device_ui_finished_title">Kontuari buruzko informazioa lortzen…</string>
+    <string name="fragment_target_connected_description">Kopiatzeko prestatzen…</string>
+    <string name="fragment_target_connected_description_with_permissions">Agian baimen batzuk eman beharko dituzu telefono zaharrean</string>
+    <string name="fragment_target_connected_title">Konektatu dira telefonoak</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s (%3$s edo ondorengoak)</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">Guztiak</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">Argazki guztiak</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">Bat ere ez</string>
+    <string name="fragment_target_photos_and_videos_picker_description">Gehienez, telefonoko memoriaren %% %d hartuko dute telefono eta bideoak</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">Bideoak ere bai</string>
+    <string name="fragment_target_photos_and_videos_picker_title">Aukeratu argazkiak eta bideoak</string>
+    <string name="fragment_usb_cable_doesnt_fit">Ez al du balio kableak?</string>
+    <string name="fragment_usb_cant_find_adapter">Ez daukazu egokigailurik?</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Kableak balio ez badu, bilatu ^1 gailuaren kaxan zetorren Quick Switch Adapter egokigailua.
+
+Sartu kablea egokigailuan."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Konektatu egokigailua eta kablea</string>
+    <string name="fragment_usb_connect_both_phones_description">Sartu egokigailua ^1 honetan</string>
+    <string name="fragment_usb_connect_both_phones_title">Konektatu bi telefonoak</string>
+    <string name="fragment_usb_dialog_cancel_description">"Kablea erabilita, eduki gehiena transferituko duzu, SMS mezuak barne.
+
+Kaxako kableak balio ez badu, saiatu telefono zaharraren datu-kablea edo telefonoa kargatzeko zeneukana erabiltzen."</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">"Telefono zaharra kable bidez konektatzen baduzu, bizkorrago transferituko duzu edukia.
+
+Kaxako kableak balio ez badu, saiatu telefono zaharraren datu-kablea edo telefonoa kargatzeko zeneukana erabiltzen."</string>
+    <string name="fragment_usb_dialog_cancel_title">Beste nolabait kopiatu nahi dituzu datuak?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"Telefono zaharra erabiltzen baduzu, datu gehiago leheneratu ahalko dituzu, argazkiak eta bideoak barne.
+
+Datuak telefono zaharra erabili gabe berrezartzeko, hasi saioa hurrengo pantailan erabiltzaile-izena eta pasahitza erabilita."</string>
+    <string name="fragment_usb_dialog_without_old_phone_description_esim">"Telefono zaharra erabiltzen baduzu, datu gehiago leheneratu ahalko dituzu, eta zenbakia errazago transferitu.
+
+Datuak telefono zaharra erabili gabe berrezartzeko, hasi saioa hurrengo pantailan erabiltzaile-izena eta pasahitza erabilita."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">Telefono zaharra erabili gabe berrezarri nahi dituzu datuak?</string>
+    <string name="fragment_usb_dont_have_cable">Ez daukazu kablerik?</string>
+    <string name="fragment_usb_dont_have_old_phone">Ezin duzu erabili telefono zaharra?</string>
+    <string name="fragment_usb_find_cable_description">Erabili telefono zaharrerako egokia den kable bat. Kargatzeko erabiltzen zenuenak balio izaten du, normalean.</string>
+    <string name="fragment_usb_find_cable_title">Bilatu telefono zaharraren kablea</string>
+    <string name="fragment_usb_initial_description">Android edo iPhone® gailu zaharra behar duzu. Pitz ezazu eta mantendu desblokeatuta.</string>
+    <string name="fragment_usb_initial_title">Erabili telefono zaharra</string>
+    <string name="fragment_usb_missing_data_description">Edukia transferitu bitartean, ^1 konfiguratzen jarrai dezakezu.</string>
+    <string name="fragment_usb_missing_data_title">Kopia ditzagun datuak</string>
+    <string name="fragment_usb_other_ways">Kopiatu beste nolabait</string>
+    <string name="fragment_usb_plug_cable">Sartu kablea gailu zaharrean</string>
+    <string name="fragment_waiting_title">Itxaron unetxo batean…</string>
+    <string name="fragment_wifi_d2d_unsupported_description">Telefono zaharrak ez du onartzen datuak transferitzea. Konfiguratzen amaitu ondoren ere transferi dezakezu telefono zaharreko edukia.</string>
+    <string name="fragment_wifi_d2d_unsupported_title">Ezin dira transferitu haririk gabe</string>
+    <string name="fragment_wifi_restore_choice_title">Erabili telefono zaharra datuak haririk gabe transferitzeko</string>
+    <string name="fragment_wifi_restore_choice_use_iphone_button">iPhone® gailu bat darabilzu?</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Google Kontaktuak sinkronizatuko dira</string>
+    <string name="google_one_download_notification_collapsed_body">Instalatu Google One aplikazioa gainerako datuak leheneratzeko</string>
+    <string name="google_one_download_notification_expanded_body">Instalatu Google One aplikazioa gainerako datuak leheneratzeko. Gailu berrian izango dituzu argazkiak, bideoak, testu-mezuak eta abar.</string>
+    <string name="google_one_download_notification_title">Amaitu datuak leheneratzen</string>
+    <string name="google_one_product_name">Google One</string>
+    <string name="imessage_dialog_message">"iPhone® gailuen erabiltzaileen SMS mezuak jasotzen jarraitzeko, iMessage® zerbitzua desaktibatu beharko duzu telefono zaharrean. Hala ere, beste gailu batzuetan jarrai dezakezu iMessage® erabiltzen, adibidez, iPad® gailuetan.
+
+^1 gailua konfiguratzen amaitzen duzunean, joan "<b>g.co/iMessageHelp</b> helbidera eta jarraitu bertako argibideei.</string>
+    <string name="imessage_dialog_title">Jaso iPhone® gailuak dituztenen mezuak</string>
+    <string name="instructions_fragment_title">Begiratu beste telefonoa</string>
+    <string name="ios_connected_fragment_description_has_account">Google-ko kontua erabiliko dugu aplikazioak eta iOS® Calendar egutegiko gertaerak transferitzeko</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">Aplikazioak, iOS® Calendar egutegiko gertaerak eta iOS® Notes aplikazioko oharrak transferitzeko erabiliko dugu Google-ko kontua</string>
+    <string name="ios_connected_fragment_description_no_account">"Hurrengo pantailan, Google-ko kontuan saioa hasi ahal izango duzu edo kontu berri bat sortu.
+
+Google-ko konturik gehitzen ez baduzu, ez dira transferituko aplikazioak eta iOS® Calendar egutegiko gertaerak."</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"Hurrengo pantailan, Google-ko kontuan saioa hasi ahal izango duzu, edo kontu berri bat sortu.
+
+Google-ko konturik gehitzen ez baduzu, ez dira transferituko aplikazioak, iOS® Calendar egutegiko gertaerak eta iOS® Notes aplikazioko oharrak."</string>
+    <string name="ios_migration_default_calendar_title">Egutegia</string>
+    <string name="ios_migration_other_contact_relation">Beste bat</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"Ezin dira kopiatu iCloud® zerbitzuan dauzkazun argazki eta bideo batzuk.
+
+Argazki eta bideo horiek ^1 gailuan izan nahi badituzu, instalatu Google Argazkiak aplikazioa iPhone® gailuan, eta aktibatu "<b>Babeskopiak eta sinkronizazioa</b>. Informazio gehiago lortzeko, joan <b>g.co/datatransferhelp</b> helbidera.</string>
+    <string name="key_recovery_instruction_description">Babeskopia desenkriptatzeko, zehaztu aurreko telefonoaren pantailaren blokeoa hurrengo pantailan</string>
+    <string name="key_recovery_instruction_title">Berretsi aurreko %s gailuaren pantailaren blokeoa</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_screen_entry_title">Berretsi aurreko %s gailuaren pantailaren blokeoa</string>
+    <string name="lock_screen_error_other">Arazoren bat izan da. Saiatu berriro geroago.</string>
+    <string name="lock_screen_error_wrong_password">Pasahitza ez da zuzena</string>
+    <string name="lock_screen_error_wrong_pattern">Eredua ez da zuzena</string>
+    <string name="lock_screen_error_wrong_pin">PIN kodea ez da zuzena</string>
+    <string name="lockscreen_access_pattern_area">Eredua marrazteko eremua</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">Gehitu da %d puntua</string>
+    <string name="lockscreen_access_pattern_cleared">Garbitu egin da eredua</string>
+    <string name="lockscreen_access_pattern_detected">Osatu da eredua</string>
+    <string name="lockscreen_access_pattern_start">Hasi zara eredua marrazten</string>
+    <string name="manage_storage_button">Kudeatu biltegia</string>
+    <string name="megabyteShort">MB</string>
+    <string name="mtrl_picker_a11y_next_month">Aldatu hurrengo hilabetera</string>
+    <string name="mtrl_picker_a11y_prev_month">Aldatu aurreko hilabetera</string>
+    <string name="mtrl_picker_day_of_week_column_header">Egunen zutabea:%1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Joan %1$s. urtera</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Sakatu eguna hautatzeko modura aldatzeko</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Sakatu urtea hautatzeko modura aldatzeko</string>
+    <string name="oem_use_old_device_description">Android darabilen gailu zaharra edo iPhone® edo iPad® gailu zaharra behar duzu</string>
+    <string name="oem_use_old_device_title">Erabili gailu zaharra</string>
+    <string name="password_toggle_content_description">Erakutsi pasahitza</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_and_videos_picker_no_items">Hautatu gabe</string>
+    <string name="progressing_description">Minutu batzuk behar izan daitezke</string>
+    <string name="restore_choice_android_device_label">Android-eko telefono baten babeskopia bat</string>
+    <string name="restore_choice_android_device_label_new">Android-eko gailu bat</string>
+    <string name="restore_choice_android_device_summary">Erabili telefono zaharra datuak haririk gabe kopiatzeko</string>
+    <string name="restore_choice_data_disclaimer">Baliteke datuetako batzuk ^1 gailura ez transferitzea. <annotation id="restore_choice_data_disclaimer_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">Android bertsio berriago bat darabilen gailu bati dagokio babeskopia hau. Baliteke datu batzuk ez leheneratzea telefono berrian.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">Datu batzuk ez dira transferituko ^1 gailura.</string>
+    <string name="restore_choice_deselect_some_content">Aurrera egiteko, desautatu elementu batzuk</string>
+    <string name="restore_choice_dont_have_old_phone">Ezin duzu erabili telefono zaharra?</string>
+    <string name="restore_choice_google_account_label">Hodeiko babeskopia bat</string>
+    <string name="restore_choice_google_account_summary">Hasi saioa erabiltzaile-izena eta pasahitza erabilita</string>
+    <string name="restore_choice_ios_device_label">iPhone® gailu bat</string>
+    <string name="restore_choice_learn_more_android">"Telefono zaharreko datu batzuk ezin dira kopiatu automatikoki:
+
+ ● Deskargak (adibidez, PDF fitxategiak).
+
+ ● Ezkutuko karpetetan gordetako argazkiak, bideoak eta musika.
+
+ ● Testu-mezuetan jasotako argazkiak, bideoak eta musika.
+
+ ● Google Play Store-koak ez diren aplikazioak.
+
+ ● Aplikazioetako datuak (aplikazioak Android Backup Service erabiltzen ez badu).
+
+ ● Gailuaren ezarpen batzuk.
+
+ ● Google-renak ez diren kontuak (eta haiekin lotutako datuak).
+
+ ● Google ez beste edozein zerbitzurekin sinkronizatutako kontaktuak eta egutegiak.
+
+ ● Dei-tonuak.
+
+ Informazio gehiago lortzeko eta datuok kopiatzeko laguntza eskuratzeko, joan g.co/datatransferhelp helbidera."</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"Telefono zaharreko datu batzuk ezin dira kopiatu automatikoki:
+
+ ● Aplikazioak eta aplikazioetako datuak.
+
+ ● Argazkiak, baldin eta jatorrizko fitxategiak gailuan gordeta ez badituzu (adibidez, memoriaren erabilera optimizatzeko ezarpena aktibatuta badaukazu, jatorrizko argazkiak iCloud® zerbitzuan izango dituzu gordeta).
+
+ ● iCloud® zerbitzuan gordeta dauden fitxategiak eta dokumentuak.
+
+ ● Gailuaren ezarpenak (adibidez, Wi-Fi pasahitzak).
+
+ ● DRM (Digital Rights Management) bidez babestutako musika (adibidez, 2009ko apirila baino lehen iTunes® bidez erositako musika edo musika zuzenean erreproduzitzeko aplikazioen bidez konexiorik gabe zaudenean entzuteko deskargatu duzuna).
+
+ ● Google-renak ez diren kontuak (eta haiei lotutako datuak).
+
+ ● Google edo iCloud® ez beste edozein zerbitzurekin sinkronizatutako kontaktuak eta egutegiak.
+
+ ● Safari® arakatzaileko laster-markak.
+
+ Informazio gehiago lortzeko eta datu horiek kopiatzeko laguntza eskuratzeko, joan g.co/datatransferhelp helbidera."</string>
+    <string name="restore_choice_not_enough_space">Ez dago behar adina tokirik</string>
+    <string name="restore_choice_phone_description">Transferitu telefono zaharreko datuak</string>
+    <string name="restore_choice_phone_title">Aukeratu telefonoa</string>
+    <string name="restore_choice_select_some_content_cloud">Aukeratu leheneratu beharreko edukia</string>
+    <string name="restore_choice_select_some_content_d2d">Aukeratu kopiatu beharreko edukia</string>
+    <string name="restore_choice_sync_disclaimer_android">Gailuko eta SIM txarteleko kontaktuak Google kontaktu gisa gordeko dira %1$s kontuan</string>
+    <string name="restore_choice_sync_disclaimer_cloud">Gailuko eta SIM txarteleko kontaktuak Google kontaktu gisa gordeko dira %1$s kontuan.</string>
+    <string name="restore_choice_sync_disclaimer_ios">%1$s kontuan gordeko dira kontaktuak eta iOS® Calendar.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">%1$s kontuan gordeko da iOS® Calendar.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">iOS® Calendar egutegiko gertaerak eta iOS® Notes aplikazioko oharrak %1$s kontuan gordeko dira.</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">Kontaktuak, iOS® Calendar egutegiko gertaerak eta iOS® Notes aplikazioko oharrak %1$s kontuan gordeko dira.</string>
+    <string name="restore_choice_title">Ekarri datuak hemendik…</string>
+    <string name="restore_continue_suw_title">Leheneratzen…</string>
+    <string name="restore_estimated_time">Transferitzen amaitzeko gelditzen den denbora: ^1</string>
+    <string name="restore_item_alarms">Alarmak</string>
+    <string name="restore_item_apps">Aplikazioak</string>
+    <string name="restore_item_calendar">Egutegia</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar</string>
+    <string name="restore_item_call_logs">Deien historia</string>
+    <string name="restore_item_contacts">Kontaktuak</string>
+    <string name="restore_item_device_settings_description">Wi-Fi pasahitzak eta beste</string>
+    <string name="restore_item_downloads">Deskargak</string>
+    <string name="restore_item_email">Posta elektronikoa</string>
+    <string name="restore_item_email_description">Gmail sinkronizatuko da</string>
+    <string name="restore_item_esim">Telefono-zenbakia</string>
+    <string name="restore_item_esim_description">Mugitu %1$s</string>
+    <string name="restore_item_esim_description_no_activation_info">Mugitu %1$s operadorearen zenbakia</string>
+    <string name="restore_item_message_attachments">Mezuen eranskinak</string>
+    <string name="restore_item_messages">Mezuak</string>
+    <string name="restore_item_mms">MMS mezuak</string>
+    <string name="restore_item_mms_attachments">MMS eranskinak</string>
+    <string name="restore_item_music">Musika eta bestelako audioa</string>
+    <string name="restore_item_note_description">iOS® Notes</string>
+    <string name="restore_item_notes">Oharrak</string>
+    <string name="restore_item_photos">Argazkiak</string>
+    <string name="restore_item_photos_and_videos">Argazkiak eta bideoak</string>
+    <string name="restore_item_settings">Gailuaren ezarpenak</string>
+    <string name="restore_item_sms">SMS mezuak</string>
+    <string name="restore_item_video">Bideoak</string>
+    <string name="restore_item_wallpaper">Horma-papera</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 / ^3</string>
+    <string name="restore_selected_size_text"><annotation id="selected_size">^1</annotation> ^2</string>
+    <string name="retail_mode_warning_dialog_message">Gailuaren jatorrizko datuak berrezartzen diren artean, saltzaileentzako demo moduko bideo bat erreproduzituko du modu honek. Saltzaileentzat da modu hau, eta ez erabilera pertsonalerako.</string>
+    <string name="retail_mode_warning_dialog_title">Erreproduzitu demo moduko bideoa</string>
+    <string name="small_time_duration">Minutu bat baino gutxiago falta da</string>
+    <string name="stop_copying_dialog_continue_button">Baztertu</string>
+    <string name="stop_copying_dialog_message_before_transfer">Ez dira kopiatuko datuak telefono berrian</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">Konfiguratzen amaitu ondoren ere transferi dezakezu telefono zaharreko edukia</string>
+    <string name="stop_copying_dialog_message_during_transfer">Ez dira kopiatuko datu batzuk telefono berrian</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Gelditu</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ez duzu ezer kopiatu nahi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopiatzeari utzi nahi diozu?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">Datuak ez dira leheneratuko telefono berrian</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">Konfiguratzen amaitu ondoren ere lehenera dezakezu telefono zaharreko edukia</string>
+    <string name="stop_restoring_dialog_title_before_transfer">Ez duzu leheneratu nahi?</string>
+    <string name="sud_back_button_label">Atzera</string>
+    <string name="sud_more_button_label">Gehiago</string>
+    <string name="sud_next_button_label">Hurrengoa</string>
+    <string name="target_default_source_device_model">telefono zaharra</string>
+    <string name="target_device_not_supported_cant_continue_description">Beste era batera kopiatu beharko dituzu datuak</string>
+    <string name="target_device_not_supported_cant_continue_title">Beste telefonoa ez da bateragarria</string>
+    <string name="target_device_not_supported_try_restarting_description">"Deskonektatu kablea eta berrabiarazi telefono zaharra. Ondoren, konektatu kablea berriro eta jarraitu ^1 gailuko argibideei.
+
+Errore hau ikusten jarraituko bazenu, edukia beste nolabait kopiatzen saia zintezke."</string>
+    <string name="target_device_not_supported_try_restarting_title">Baliteke telefonoa bateragarria ez izatea</string>
+    <string name="target_fragment_msg_reconnect_cable">Konektatu berriro kablea</string>
+    <string name="target_fragment_msg_wifi_disconnected">Hurbildu telefonoak elkarren artean</string>
+    <string name="target_pixelmigrate_notification_description">Erabilgarri edo abian</string>
+    <string name="target_pixelmigrate_notification_title">Datuen transferentzia</string>
+    <string name="target_smart_device_timeout_add_account">GEHITU KONTUA</string>
+    <string name="target_smart_device_timeout_description">Nahi izanez gero, eskuz gehi dezakezu kontua</string>
+    <string name="target_smart_device_timeout_dismiss">BAZTERTU</string>
+    <string name="target_smart_device_timeout_title">Arazoak dituzu?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Konektatuta daude telefonoak</string>
+    <string name="toast_reconnect_cable">Sartu kablea berriro</string>
+    <string name="toast_wifi_disconnected">Ezin dira konektatu telefonoak. Pausatu egin da datuen transferentzia.</string>
+    <string name="transfer_finished_fragment_description">Minutu pare bat beharko dugu</string>
+    <string name="transfer_finished_fragment_title">Azken ukituak ematen…</string>
+    <string name="transfer_finished_fragment_work_setup_tile">Telefonoa lanerako konfiguratzeko prestatzen…</string>
+    <string name="transfer_summary_copied">Kopiatu dira datuak</string>
+    <string name="transfer_summary_esim_activating">Aktibatzen…</string>
+    <string name="transfer_summary_esim_copied_phone_numer">%1$s aktibatu da</string>
+    <string name="transfer_summary_esim_not_copied">Ezin izan da aktibatu</string>
+    <string name="transfer_summary_fragment_description">Kablea deskonektatu egin dezakezu</string>
+    <string name="transfer_summary_fragment_done_button">Eginda</string>
+    <string name="transfer_summary_fragment_title">Ia prest dago telefonoa</string>
+    <string name="transfer_summary_icloud_photos_and_videos_warning">Ez dira kopiatu argazki eta bideoetako batzuk. <annotation id="transfer_summary_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="transfer_summary_not_copied">Ez dira kopiatu datuak</string>
+    <string name="transfer_summary_partial">%1$s/%2$s kopiatu dira</string>
+    <string name="transferring_fragment_calculating_remaining_time">Falta den denbora kalkulatzen…</string>
+    <string name="transferring_fragment_description_final_hold">Mantendu telefonoak konektatuta eta piztuta</string>
+    <string name="transferring_fragment_header">Kopiatzen…</string>
+    <string name="transferring_fragment_remaining_time">%1$s geratzen dira</string>
+    <string name="transferring_fragment_restoring_content">Edukia leheneratzen…</string>
+    <string name="trust_instructions_trademark_disclaimer">Apple Inc. enpresaren marka komertzialak dira iPhone, iPad, iMessage, iCloud, Safari eta iTunes, eta AEBn nahiz beste herrialde batzuetan daude erregistratuta.</string>
+    <string name="unlock_ios_fragment_description">Aurrera egiteko, desblokeatu iPhone® gailua eta eduki desblokeatuta edukia transferitzen amaitu arte.</string>
+    <string name="unlock_ios_fragment_title">Desblokeatu iPhone® gailua</string>
+    <string name="vault_almost_locked_dialog_title">%d saiakera gelditzen dira</string>
+    <string name="vault_almost_locked_password_dialog_text">%1$d aldiz idatzi duzu oker pasahitza. Beste %2$d aldiz idazten baduzu oker, ezabatu egingo da %3$s gailuaren babeskopia.</string>
+    <string name="vault_almost_locked_pattern_dialog_text">%1$d aldiz marraztu duzu oker eredua. Beste %2$d aldiz marrazten baduzu oker, ezabatu egingo da %3$s gailuaren babeskopia.</string>
+    <string name="vault_almost_locked_pin_dialog_text">%1$d aldiz idatzi duzu oker PIN kodea. Beste %2$d aldiz idazten baduzu oker, ezabatu egingo da %3$s gailuaren babeskopia.</string>
+    <string name="vault_locked_dialog_text">Gehiegitan saiatu zara %s gailuaren pantaila desblokeatzen. Ezabatu egin da babeskopia.</string>
+    <string name="vault_locked_dialog_title">Ezabatu egin da babeskopia</string>
+    <string name="work_profile_setup_description">Laneko profila konfiguratzeko, gehitu laneko kontua hurrengo pantailan</string>
+    <string name="work_profile_setup_skip">Saltatu</string>
+    <string name="work_profile_setup_title">Prestatu telefonoa lanerako</string>
+</resources>

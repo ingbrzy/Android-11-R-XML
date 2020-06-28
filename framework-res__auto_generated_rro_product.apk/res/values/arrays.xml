@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_biometric_sensors">
+        <item>0:8:15</item>
+    </string-array>
+    <string-array name="config_defaultFirstUserRestrictions">
+        <item>no_oem_unlock</item>
+    </string-array>
+    <string-array name="config_highRefreshRateBlacklist">
+        <item>com.google.android.apps.maps</item>
+        <item>com.nianticlabs.pokemongo</item>
+        <item>com.waze</item>
+        <item>com.google.android.documentsui</item>
+    </string-array>
+    <string-array name="config_locationExtraPackageNames">
+        <item>com.google.android.gms.location.history</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <string-array name="config_nightDisplayColorTemperatureCoefficients">
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>-0.000000014365268757</item>
+        <item>0.000255092801250106</item>
+        <item>-0.064156942434907716</item>
+        <item>-0.000000000910931179</item>
+        <item>0.000207598323269139</item>
+        <item>-0.349361641294833436</item>
+    </string-array>
+    <string-array name="config_restrictedImagesServices">
+        <item>face</item>
+    </string-array>
+    <integer-array name="non_removable_euicc_slots">
+        <item>1</item>
+    </integer-array>
+</resources>

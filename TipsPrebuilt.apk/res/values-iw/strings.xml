@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">מקש רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_slice_permission_allow">יש אישור</string>
+    <string name="abc_slice_permission_checkbox">יש לאשר ל-%1$s להראות חלקים מכל אפליציה שהיא</string>
+    <string name="abc_slice_permission_deny">אני לא מרשה</string>
+    <string name="abc_slice_permission_text_1">- תהיה לה אפשרות לקרוא מידע מ-%1$s</string>
+    <string name="abc_slice_permission_text_2">- תהיה לה יכולת לנקוט פעולה בתוך %1$s</string>
+    <string name="abc_slice_permission_title">האם לאפשר ל-%1$s להציג חלקים מ-%2$s?</string>
+    <string name="abc_slices_permission_request">%1$s רוצה להציג חלקים מ-%2$s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="all_topics_header_text">כל הנושאים</string>
+    <string name="allset_description">"הטלפון מוכן לשימוש.
+
+אפשר לכבות את התכונה 'ניווט באמצעות תנועות' ולהשתמש בלחצנים כדי לחזור בחזרה, להגיע למסך הבית ולעבור בין אפליקציות.
+"<annotation id="link">מעבר להגדרות</annotation></string>
+    <string name="allset_hint">יש להחליק כלפי מעלה כדי להתחיל</string>
+    <string name="allset_page_title">הכל מוכן</string>
+    <string name="allset_setting_link">הגדרות ניווט לנגישות</string>
+    <string name="allset_title">הכול מוכן!</string>
+    <string name="app_name">טיפים ל-Pixel</string>
+    <string name="article_helpful_feedback_toast">תודה על המשוב. זה יעזור ליצירת טיפים בעתיד.</string>
+    <string name="article_helpful_no">לא</string>
+    <string name="article_helpful_talkback_selected_no">בחרת באפשרות לא</string>
+    <string name="article_helpful_talkback_selected_yes">בחרת באפשרות כן</string>
+    <string name="article_helpful_talkback_unselected_no">בוטלה הבחירה באפשרות לא</string>
+    <string name="article_helpful_talkback_unselected_yes">בוטלה הבחירה באפשרות כן</string>
+    <string name="article_helpful_text">מועיל?</string>
+    <string name="article_helpful_yes">כן</string>
+    <string name="asset_is_downloading_content_description">מתבצעת הורדה של הסרטון/התמונה</string>
+    <string name="common_google_play_services_enable_button">הפעל</string>
+    <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_button">התקן</string>
+    <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏זמינות של שירותי Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_signin_button_text">כניסה</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="connectivity_summary_assets_download_slowly">כדי לצפות בסרטונים ובתמונות, אפשר לנסות להתחבר לרשת Wi-Fi או לעבור לרשת אחרת</string>
+    <string name="connectivity_summary_assets_not_downloaded">יש צורך בהחיבור לאינטרנט כדי להציג סרטונים ותמונות</string>
+    <string name="module_1_0010_summary">החלפת אפליקציות, שינוי הגדרות במהירות, שיפור הריכוז ואפשרויות נוספות</string>
+    <string name="module_1_0010_tag_text">תחילת העבודה</string>
+    <string name="module_1_0010_title">תחילת העבודה עם [model_name]</string>
+    <string name="module_1_0101_summary">כאן ניתן למצוא אפליקציות, ללמוד להכיר את הטלפון שלך ואפשרויות נוספות</string>
+    <string name="module_1_0101_tag_text">תחילת העבודה</string>
+    <string name="module_1_0101_title">תחילת העבודה עם Pixel</string>
+    <string name="module_1_1000_summary">החלפת מ-iPhoneⓇ? כאן ניתן למצוא אפליקציות, ללמוד להכיר את הטלפון שלך ועוד</string>
+    <string name="module_1_1000_tag_text">תחילת העבודה</string>
+    <string name="module_1_1000_title">תחילת העבודה עם Pixel</string>
+    <string name="module_2_1111_summary">"אפשר לדבר עם ה-Assistant, לזהות מוזיקה בעזרת 'מה שומעים עכשיו?' ועוד"</string>
+    <string name="module_2_1111_tag_text">יותר מ-Google</string>
+    <string name="module_2_1111_title">לקבל את המרב מ-Google</string>
+    <string name="module_3_1111_summary">אפשר לצלם תמונות דיוקן מדהימות, להחליק כדי לעבור בין מצבים ועוד</string>
+    <string name="module_3_1111_tag_text">ליהנות מהמצלמה</string>
+    <string name="module_3_1111_title">ליהנות מהמצלמה ומהתמונות</string>
+    <string name="module_4_1111_summary">אפשר לשלוח תמונות, לבצע שיחות וידאו ולשתף תמונות</string>
+    <string name="module_4_1111_tag_text">הודעות טקסט והתקשרות</string>
+    <string name="module_4_1111_title">הודעות טקסט והתקשרות</string>
+    <string name="module_5_1111_summary">אפשר לפתוח את המצלמה במהירות, לבדוק הודעות ועוד</string>
+    <string name="module_5_1111_tag_text">שימוש בתנועות</string>
+    <string name="module_5_1111_title">שימוש בתנועות לקיצורי דרך מהירים</string>
+    <string name="module_6_1111_summary">מעקב אחר זמן המסך שלך, קביעת לוח זמנים להתנתקות מהמכשיר ועוד</string>
+    <string name="module_6_1111_tag_text">ניהול המנוחה</string>
+    <string name="module_6_1111_title">ניהול המנוחה מהדיגיטל</string>
+    <string name="module_7_1111_summary">הצגת שתי אפליקציות בו-זמנית, ארגון אפליקציות באמצעות תיקיות ועוד</string>
+    <string name="module_7_1111_tag_text">להפוך למומחה</string>
+    <string name="module_7_1111_title">להפוך למומחה ב-Pixel</string>
+    <string name="module_8_1111_summary">רישום הערות, תשלום באמצעות Pixel והתעדכנות בחדשות האחרונות</string>
+    <string name="module_8_1111_tag_text">הכרת אפליקציות</string>
+    <string name="module_8_1111_title">הכרת אפליקציות בסיסיות של Google</string>
+    <string name="next_btn">הבא</string>
+    <string name="next_module_link_back_home_page_text">הבא: גילוי של כל הטיפים</string>
+    <string name="next_module_link_text">הבא: %1$s</string>
+    <string name="next_tip_content_description">הטיפ הבא</string>
+    <string name="ob_gesture_app_go_back_media_description">סרטון על התנועה החדשה לחזרה אחורה</string>
+    <string name="ob_gesture_app_go_back_summary">כדי לחזור למסך הקודם, יש להחליק לכיוון המרכז מהקצה השמאלי או הימני</string>
+    <string name="ob_gesture_app_go_back_title">חזרה</string>
+    <string name="ob_gesture_app_home_media_description">סרטון על התנועה החדשה למעבר לדף הבית</string>
+    <string name="ob_gesture_app_home_summary">"יש להחליק כלפי מעלה מתחתית המסך.
+התנועה הזו תמיד מעבירה אותך למסך הבית."</string>
+    <string name="ob_gesture_app_home_title">מעבר לדף הבית</string>
+    <string name="ob_gesture_app_overview_media_description">סרטון על התנועה החדשה לסקירה כללית</string>
+    <string name="ob_gesture_app_overview_summary">מחליקים כלפי מעלה מתחתית המסך ומחזיקים</string>
+    <string name="ob_gesture_app_overview_title">החלפת אפליקציות</string>
+    <string name="onboarding_education_page_title">מבוא לתנועות ניווט</string>
+    <string name="previous_module_link_text">הקודם: %1$s</string>
+    <string name="previous_tip_content_description">הטיפ הקודם</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="settings_search_main_entry_screen_title">טיפים ותמיכה > עיון בטיפים ל-Pixel</string>
+    <string name="settings_search_main_entry_summary">כך ניתן להפיק את המרב מ-Pixel. צפייה בסרטונים ועוד.</string>
+    <string name="smart_space_subtitle_android">ניתן להקיש ולראות טיפים</string>
+    <string name="smart_space_subtitle_ios">ניתן להקיש ולראות טיפים</string>
+    <string name="smart_space_subtitle_others">ניתן להקיש ולראות טיפים</string>
+    <string name="smart_space_subtitle_pixel">מה חדש</string>
+    <string name="smart_space_title">ברוכים הבאים אל ה-Pixel החדש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggestion_summary_module_camera">אפשר לצלם תמונות דיוקן, להנציח את הרגע המושלם ועוד</string>
+    <string name="suggestion_summary_module_communication">אפשר לשלוח תמונות, לבצע שיחות וידאו ועוד</string>
+    <string name="suggestion_summary_module_gestures">אפשר לבדוק הודעות, לפתוח את המצלמה ועוד</string>
+    <string name="suggestion_summary_module_google_smarts">אפשר לדבר עם Google Assistant ועוד</string>
+    <string name="suggestion_title_module_camera">ליהנות מהמצלמה ומהתמונות</string>
+    <string name="suggestion_title_module_communication">טיפים לשליחת הודעות טקסט ולהתקשרות</string>
+    <string name="suggestion_title_module_gestures">שימוש בתנועות לקיצורי דרך</string>
+    <string name="suggestion_title_module_google_smarts">לקבל את המרב מ-Google</string>
+    <string name="tip_1_1_media_description">סרטון בנושא איתור אפליקציות</string>
+    <string name="tip_1_1_summary">ניתן להחליק כלפי מעלה מתחתית המסך כדי לראות את האפליקציות האחרונות. בחלק התחתון תוצג גם שורת חיזוי של אפליקציות. אפשר להחליק שוב כלפי מעלה כדי לראות את כל האפליקציות.</string>
+    <string name="tip_1_1_title">איך לחפש אפליקציות</string>
+    <string name="tip_1_2_media_description">סרטון בנושא ארגון האפליקציות</string>
+    <string name="tip_1_2_summary">"כדי להוסיף אפליקציה למסך הבית, נוגעים באפליקציה וגוררים אותה.
+
+כדי להסיר אפליקציה, לוחצים עליה לחיצה ארוכה וגוררים אותה בכיוון החלק העליון של המסך."</string>
+    <string name="tip_1_2_title">הוספת אפליקציות למסך הבית</string>
+    <string name="tip_1_3_link">מעבר לחנות Play</string>
+    <string name="tip_1_3_media_description">תמונה בנושא האפליקציות העיקריות</string>
+    <string name="tip_1_3_summary">"אפשר להתחיל עם האפליקציות האלה:
+- חנות Play: חיפוש והורדה של אפליקציות
+- תמונות Google: חיפוש, שמירה ושיתוף של תמונות
+- Google Keep: שמירת הערות, רשימות ועוד"</string>
+    <string name="tip_1_3_title">הכרת האפליקציות העיקריות</string>
+    <string name="tip_1_4_media_description">סרטון בנושא הודעות</string>
+    <string name="tip_1_4_summary">"אפשר להחליק כלפי מטה מהחלק העליון של המסך כדי להציג הודעות. כדי לנקות הודעה, צריך להחליק אותה שמאלה או ימינה.
+
+כדי לראות מידע נוסף על הודעה, יש ללחוץ עליה לחיצה ארוכה."</string>
+    <string name="tip_1_4_title">הצגת ההודעות שלך</string>
+    <string name="tip_1_5_media_description">סרטון בנושא שינוי הגדרות</string>
+    <string name="tip_1_5_summary">"אפשר להחליק כלפי מטה מהחלק העליון של ה-Pixel כדי לפתוח את ההגדרות המהירות. כדי לראות עוד הגדרות, צריך להחליק שוב כלפי מטה.
+
+כדי להפעיל או לכבות הגדרה, צריך להקיש עליה. להצגת אפשרויות נוספות להגדרה, יש ללחוץ עליה לחיצה ארוכה."</string>
+    <string name="tip_1_5_title">שינוי מהיר של הגדרות שימושיות</string>
+    <string name="tip_1_6_link">מעבר להגדרות</string>
+    <string name="tip_1_6_media_description">"סרטון בנושא 'נא לא להפריע'"</string>
+    <string name="tip_1_6_summary">"אם משתמשים בטלפון ורוצים להתרכז במשימה כלשהי, אפשר להפסיק את הצגת ההודעות.
+
+לאפשרויות חדשות במצב 'נא לא להפריע'."</string>
+    <string name="tip_1_6_title">"קל יותר לשמור על ריכוז בעזרת מצב 'נא לא להפריע'"</string>
+    <string name="tip_1_7_media_description">סרטון בנושא הצגת פעולות</string>
+    <string name="tip_1_7_summary">"כשלוחצים על טקסט לחיצה ארוכה אפשר לראות את הפעולות הזמינות, כמו ביצוע הזמנה למסעדה.
+
+זה עובד בכל אפליקציה - וגם כשעוברים בין אפליקציות."</string>
+    <string name="tip_1_7_title">הצגת פעולות בבחירת טקסט</string>
+    <string name="tip_1_9_link">מעבר לתמיכה</string>
+    <string name="tip_1_9_media_description">סרטון בנושא טיפים ותמיכה</string>
+    <string name="tip_1_9_summary">"תמיד אפשר לקבל תמיכה וטיפים נוספים. צריך רק לעבור להגדרות > טיפים ותמיכה.
+
+אפשר לחפש טיפים, לעיין במאמרי עזרה או ליצור קשר עם צוות Pixel."</string>
+    <string name="tip_1_9_title">קבלת עזרה כשצריכים</string>
+    <string name="tip_2_1_link">פתיחה בהגדרות</string>
+    <string name="tip_2_1_link_description">כדי להפעיל את התכונה הזאת יש להקיש על הלחצן שלמטה.</string>
+    <string name="tip_2_1_link_description_off">כדי להפעיל את התכונה הזאת יש להקיש על הלחצן שלמטה.</string>
+    <string name="tip_2_1_link_off">הפעלה בהגדרות</string>
+    <string name="tip_2_1_link_on">הגדרות של לחיצה משני צדי המכשיר</string>
+    <string name="tip_2_1_media_description">סרטון בנושא לחיצה משני צדי המכשיר כדי להגיע ל-Assistant</string>
+    <string name="tip_2_1_summary">כדי לדבר עם Google Assistant בכל מצב (גם כשהמסך כבוי), פשוט לוחצים משני צדי הטלפון בחלק התחתון שלו ולשחרר במהירות</string>
+    <string name="tip_2_1_title">לחיצה משני צדי המכשיר כדי לדבר עם Assistant</string>
+    <string name="tip_2_2_link">עוד פעולות</string>
+    <string name="tip_2_2_media_description">סרטון בנושא פעולות של ה-Assistant</string>
+    <string name="tip_2_2_summary">"Google Assistant - הדרך המהירה והקלה למצוא תשובות ולבצע משימות ב-Pixel.
+
+כדי לדבר עם ה-Assistant, צריך ללחוץ משני צדי הטלפון בחלק התחתון שלו, לשחרר במהירות ולומר:
+
+- When’s my first event tomorrow?
+- Add toothpaste to my shopping list
+- Let’s go home"</string>
+    <string name="tip_2_2_title">חשיפה של הפעולות שאפשר לבצע באמצעות ה-Assistant</string>
+    <string name="tip_2_3_link">פתיחת Lens</string>
+    <string name="tip_2_3_media_description">סרטון בנושא חיפוש באמצעות Google Lens</string>
+    <string name="tip_2_3_summary">"ראית חיה חמודה, פרח מקסים או פסל מרשים שעוררו את סקרנותך? אפשר להשתמש ב-Google Lens לקבלת מידע נוסף.
+
+צריך רק לפתוח את המצלמה, ללחוץ לחיצה ארוכה בתצוגת העינית ואז להקיש על הפריט שמעניין אותך."</string>
+    <string name="tip_2_3_title">Google Lens: חיפוש מידע על דברים מסקרנים שראית</string>
+    <string name="tip_2_4_link">פתיחת Google Play</string>
+    <string name="tip_2_4_link_description">"כדי להשתמש בתכונה 'מה שומעים עכשיו?', יש לעדכן את Pixel Ambient Services."</string>
+    <string name="tip_2_4_link_description_off">כדי להפעיל את התכונה הזאת, יש להקיש על הלחצן שלמטה.</string>
+    <string name="tip_2_4_link_off">הפעלה בהגדרות</string>
+    <string name="tip_2_4_link_on">"הגדרות לתכונה 'מה שומעים עכשיו?'"</string>
+    <string name="tip_2_4_media_description">"סרטון על 'מה שומעים עכשיו?'"</string>
+    <string name="tip_2_4_summary">"התכונה 'מה שומעים עכשיו?' מציגה באופן אוטומטי מידע על שיר שמושמע, בכל מקום."</string>
+    <string name="tip_2_4_title">"זיהוי שירים באמצעות התכונה 'מה שומעים עכשיו?'"</string>
+    <string name="tip_2_5_link">פתיחת המצלמה</string>
+    <string name="tip_2_5_media_description">סרטון בנושא המצלמה</string>
+    <string name="tip_2_5_summary">ה-Pixel מזהה באופן אוטומטי מספרי טלפון, כתובות, אימיילים, ברקודים וקודי QR. צריך פשוט לפתוח את המצלמה, לכוון אותה והיא תבצע את המשימה.</string>
+    <string name="tip_2_5_title">המצלמה עובדת בשבילך</string>
+    <string name="tip_3_1_link">פתיחת המצלמה</string>
+    <string name="tip_3_1_media_description">סרטון בנושא מצבי המצלמה השונים</string>
+    <string name="tip_3_1_summary">"לפעמים רוצים לצלם תמונה, לאחר מכן סרטון ועוד משהו.
+
+כדי לעבור בין מצבים, צריך לפתוח את תצוגת העינית של המצלמה ולהחליק שמאלה או ימינה. כדי לראות עוד אפשרויות, יש להקיש על 'עוד'."</string>
+    <string name="tip_3_1_title">החלקה למעבר בין מצב תמונה, סרטון ועוד</string>
+    <string name="tip_3_2_link">פתיחת המצלמה</string>
+    <string name="tip_3_2_media_description">סרטון על צילום דיוקנאות</string>
+    <string name="tip_3_2_summary">"במצב 'הדגשת דיוקן', Pixel מטשטש את הרקע ומתקבל מראה נהדר ומקצועי. אפשר לנסות ולראות את התוצאה.
+
+צריך פשוט לפתוח את המצלמה, להחליק משמאל לימין והכל מוכן."</string>
+    <string name="tip_3_2_title">צילום של תמונות דיוקן נהדרות</string>
+    <string name="tip_3_3_media_description">סרטון בנושא שמירת צילומי מסך</string>
+    <string name="tip_3_3_summary">"צריך ללחוץ לחיצה ארוכה על לחצן ההפעלה ולאחר מכן להקיש על 'צילום מסך'. כך מתקבל צילום מסך במהירות.
+
+כדי לצייר על צילום המסך, יש להקיש על 'עריכה' בהודעה שמופיעה."</string>
+    <string name="tip_3_3_title">צילום ועריכה של צילומי מסך במהירות</string>
+    <string name="tip_3_4_link">פתיחת המצלמה</string>
+    <string name="tip_3_4_media_description">"סרטון על בחירת הרגע המושלם באמצעות 'התמונה המושלמת'"</string>
+    <string name="tip_3_4_summary">"בכל פעם שמצלמים, נשמרים ב-Pixel עוד פריים אחד או שניים, כדי שתתקבל התמונה המושלמת.
+
+1. מוודאים שסמל התנועה [icon_span] פועל, ומצלמים את התמונה
+2. בזמן שמסתכלים על הצילום, מחליקים כלפי מעלה מתחתית המסך
+3. מקישים על האפשרות 'תמונות' כדי להסתכל על הפריימים השונים"</string>
+    <string name="tip_3_4_title">"בחירת הרגע המושלם באמצעות 'התמונה המושלמת'"</string>
+    <string name="tip_3_5_link">פתיחת המצלמה</string>
+    <string name="tip_3_5_media_description">סרטון בנושא צילום תמונת סלפי קבוצתית</string>
+    <string name="tip_3_5_summary">"האפשרות 'סלפי קבוצתי' מאפשרת יותר מקום בתמונה לחברים או לנוף—אין צורך במוט סלפי.
+
+1. מחליפים למצלמה הקדמית[icon_span‏]
+2. כדי להתרחק, לוחצים פעמיים על המסך או עושים תנועת צביטה עם האצבעות"</string>
+    <string name="tip_3_5_title">צילום תמונת סלפי קבוצתית</string>
+    <string name="tip_4_1_link">לפתיחת ההודעות</string>
+    <string name="tip_4_1_media_description">סרטון בנושא שליחת תמונות</string>
+    <string name="tip_4_1_summary">"1. פותחים שיחה באפליקציית ההודעות
+2. מקישים על סמל הכתיבה [icon_span] מימין לתיבה שבה מקלידים את ההודעה
+3. בוחרים את התמונה, האמוג'י או הסטיקר המושלמים"</string>
+    <string name="tip_4_1_title">שליחת תמונות</string>
+    <string name="tip_4_2_link">להתקנת Duo</string>
+    <string name="tip_4_2_link_off">להתקנת Duo</string>
+    <string name="tip_4_2_link_on">לפתיחת Duo</string>
+    <string name="tip_4_2_media_description">סרטון בנושא Google Duo</string>
+    <string name="tip_4_2_summary">"אין כמו צ'אט פנים אל פנים עם החברים הכי קרובים ובני המשפחה, וב-Pixel אפשר לבצע שיחות וידאו בקלות עם Google Duo.
+
+1. פותחים את האפליקציה Google Duo‏
+2. מחפשים איש קשר
+3. מתחילים שיחת וידאו בעזרת הקשה אחת, או מזמינים את איש הקשר להוריד את Google Duo‏
+
+גם החברים שמשתמשים בטלפונים ובטאבלטים עם iOSⓇ יכולים להשתמש ב-Google Duo."</string>
+    <string name="tip_4_2_title">שיחות וידאו דרך Google Duo</string>
+    <string name="tip_4_3_link">כניסה אל תמונות Google</string>
+    <string name="tip_4_3_media_description">סרטון בנושא שיתוף תמונות</string>
+    <string name="tip_4_3_summary">"1. יש לפתוח את תמונות Google‏
+2. ללחוץ לחיצה ארוכה כדי לבחור בתמונה
+3. אפשר לבחור במספר תמונות כרצונך
+4. צריך להקיש על שיתוף [icon_span]‏
+5. צריך לבחור אנשים לשתף איתם"</string>
+    <string name="tip_4_3_title">שיתוף תמונות</string>
+    <string name="tip_4_4_link">תחילת העבודה</string>
+    <string name="tip_4_4_media_description">סרטון המסביר איך לשלוח הודעות טקסט מהמחשב</string>
+    <string name="tip_4_4_summary">"אפשר לשלוח הודעות טקסט מהמחשב באמצעות האפליקציה Android Messages. כדי להתחיל, נכנסים לאפליקציית Messages ובוחרים באפשרות \"Messages למחשב\" בתפריט.
+
+בנוסף לשליחת הודעות טקסט, אפשר לשלוח סטיקרים ואמוג'י ולצרף תמונות."</string>
+    <string name="tip_4_4_title">שליחת הודעות טקסט מהמחשב</string>
+    <string name="tip_5_1_link">מעבר להגדרות</string>
+    <string name="tip_5_1_link_off">הפעלת התכונה בהגדרות</string>
+    <string name="tip_5_1_link_on">מעבר להגדרות</string>
+    <string name="tip_5_1_media_description">סרטון בנושא בדיקה של הטלפון</string>
+    <string name="tip_5_1_summary">אפשר לבדוק מה השעה, לבדוק הודעות ועוד - פשוט לוחצים פעמיים על המסך.</string>
+    <string name="tip_5_1_title">לחיצה פעמיים לבדיקת הטלפון</string>
+    <string name="tip_5_2_link">מעבר להגדרות</string>
+    <string name="tip_5_2_link_off">הפעלת התכונה בהגדרות</string>
+    <string name="tip_5_2_link_on">מעבר להגדרות</string>
+    <string name="tip_5_2_media_description">סרטון בנושא דילוג מהיר למצלמה</string>
+    <string name="tip_5_2_summary">יש ללחוץ על לחצן ההפעלה פעמיים מכל מסך כדי לעבור מיד למצלמה.</string>
+    <string name="tip_5_2_title">הפעלה מיידית של המצלמה</string>
+    <string name="tip_5_3_link">מעבר להגדרות</string>
+    <string name="tip_5_3_link_off">הפעלת התכונה בהגדרות</string>
+    <string name="tip_5_3_link_on">מעבר להגדרות</string>
+    <string name="tip_5_3_media_description">"סרטון בנושא החלפה למצב 'הדגשת דיוקן'"</string>
+    <string name="tip_5_3_summary">כדי להיכנס למצב סלפי של המצלמה ולצאת ממנו, יש לאחוז במכשיר ולהפוך אותו פעמיים מצד לצד כאשר משתמשים באפליקציה.</string>
+    <string name="tip_5_3_title">מעבר בין מצלמות</string>
+    <string name="tip_5_4_link">מעבר להגדרות</string>
+    <string name="tip_5_4_link_off">הפעלת התכונה בהגדרות</string>
+    <string name="tip_5_4_link_on">מעבר להגדרות</string>
+    <string name="tip_5_4_media_description">סרטון בנושא החלקה של טביעת האצבע לקריאת הודעות</string>
+    <string name="tip_5_4_summary">"ניתן לבדוק את ההתראות על ידי החלקה למטה בחיישן טביעות האצבע בגב הטלפון.
+אפשר להחליק שוב כדי לראות את ההגדרות המהירות."</string>
+    <string name="tip_5_4_title">החלקה של טביעת אצבע לקריאת הודעות</string>
+    <string name="tip_5_5_media_description">סרטון בנושא החלפת אפליקציות</string>
+    <string name="tip_5_5_summary">כדי לעבור במהירות בין אפליקציות, גוללים משמאל לימין בתחתית המסך. כדי לפתוח את האפליקציה, משחררים.</string>
+    <string name="tip_5_5_title">דרך מהירה יותר לעבור בין אפליקציות</string>
+    <string name="tip_6_1_link">הגדרות תאורת לילה</string>
+    <string name="tip_6_1_media_description">סרטון בנושא תאורת לילה</string>
+    <string name="tip_6_1_summary">"תאורת הלילה מעניקה למסך גוון ענבר בשעת לילה. כך קל יותר להביט במסך או לקרוא באור מעומעם, וגם קל יותר להירדם.
+
+אפשר לכבות ולהדליק את תאורת הלילה במהירות ב'הגדרה מהירה', או פשוט ללחוץ לחיצה ארוכה כדי לקבוע לוח זמנים."</string>
+    <string name="tip_6_1_title">קל יותר להירדם עם תאורת לילה</string>
+    <string name="tip_6_2_link">עדכון של שימוש חכם בדיגיטל</string>
+    <string name="tip_6_2_link_off">עדכון של שימוש חכם בדיגיטל</string>
+    <string name="tip_6_2_link_on">הגדרת זמן להירגע</string>
+    <string name="tip_6_2_media_description">"סרטון בנושא הגדרת לוח זמנים לשעת שינה באמצעות 'זמן להירגע'"</string>
+    <string name="tip_6_2_summary">"כדי להתנתק מהטלפון, אפשר להגדיר לוח זמנים לילי.
+
+1. פותחים את האפשרות 'שימוש חכם בדיגיטל' [icon_span‏]
+2. מקישים על 'זמן להירגע'
+3. מגדירים את הזמנים שבהם רוצים להירגע
+
+כשיתקרב הזמן ללכת לישון, המסך ישנה צבע והמצב 'נא לא להפריע' ימנע מהתראות שונות להפריע לך."</string>
+    <string name="tip_6_2_title">"קביעת לוח זמנים לשעת שינה באמצעות 'זמן להירגע'"</string>
+    <string name="tip_6_3_link">היפוך להשתקה</string>
+    <string name="tip_6_3_link_off">עדכון של שימוש חכם בדיגיטל</string>
+    <string name="tip_6_3_link_on">מעבר להגדרות</string>
+    <string name="tip_6_3_media_description">סרטון המסביר איך להפסיק את הסחות הדעת במהירות</string>
+    <string name="tip_6_3_summary">"כשהאפשרות 'היפוך להשתקה' מופעלת, צריך רק להניח את הטלפון עם המסך כלפי מטה: האפשרות 'נא לא להפריע' תופעל וההתראות והצלילים יופסקו."</string>
+    <string name="tip_6_3_title">הפסקה מהירה של הסחות דעת</string>
+    <string name="tip_6_4_link">עדכון של שימוש חכם בדיגיטל</string>
+    <string name="tip_6_4_link_off">עדכון של שימוש חכם בדיגיטל</string>
+    <string name="tip_6_4_link_on">פתיחת מרכז השליטה</string>
+    <string name="tip_6_4_media_description">סרטון בנושא מנוחה מהדיגיטל</string>
+    <string name="tip_6_4_summary">כדאי להציץ בלוח הבקרה לשימוש נכון בדיגיטל, בהגדרות: הוא מציג תמונת מצב של זמן המסך ואפשר להגדיר בו טיימרים לאפליקציות שרוצים להפחית את השימוש בהן.</string>
+    <string name="tip_6_4_title">מעקב אחר זמן המסך</string>
+    <string name="tip_7_1_media_description">סרטון בנושא ארגון אפליקציות באמצעות תיקיות</string>
+    <string name="tip_7_1_summary">"אפשר ליצור תיקיות כדי לארגן את האפליקציות בקלות.
+
+כדי ליצור תיקייה, גוררים אפליקציה אחת ומניחים אותה על אפליקציה אחרת. אפשר לתת שם לתיקייה החדשה.
+
+ניתן לגרור אפליקציות נוספות לתוך התיקייה, או לגרור אפליקציה החוצה כדי להסיר אותה."</string>
+    <string name="tip_7_1_title">ארגון אפליקציות באמצעות תיקיות</string>
+    <string name="tip_7_2_media_description">סרטון המסביר איך להשתמש בשתי אפליקציות בו-זמנית</string>
+    <string name="tip_7_2_summary">"ניתן להשתמש בשתי אפליקציות בו-זמנית על ידי הגדרה של מסך מפוצל בטלפון. מתחילים בריבוי משימות.
+
+1. מחליקים כלפי מעלה מתחתית המסך כדי לראות את האפליקציות האחרונות
+2. לוחצים לחיצה ארוכה על סמל האפליקציה בראש המסך
+3. מקישים על 'מסך מפוצל'
+
+מזיזים את המפצל למעלה ולמטה לפי הצורך. בסיום, מחליקים אותו החוצה."</string>
+    <string name="tip_7_2_title">הצגת שתי אפליקציות בו-זמנית</string>
+    <string name="tip_7_3_link">פתיחת Google Assistant</string>
+    <string name="tip_7_3_media_description">סרטון המסביר איך לשלוט בטלפון באמצעות Assistant</string>
+    <string name="tip_7_3_summary">"אפשר להיעזר ב-Assistant כדי לבצע פעולות במהירות רבה יותר. כדי לדבר ל-Assistant, לוחצים במהירות משני צדי הטלפון בחלקו התחתון. לאחר מכן, אפשר לומר פקודות כמו:
+
+1. \"Take a selfie‏\"
+2. \"Take a screenshot‏\"
+3. \"Turn on flashlight\""</string>
+    <string name="tip_7_3_title">אפשר להיעזר ב-Google Assistant לביצוע משימות יומיומיות</string>
+    <string name="tip_8_1_link">להתקנת Google Keep</string>
+    <string name="tip_8_1_link_off">להתקנת Google Keep</string>
+    <string name="tip_8_1_link_on">פתיחת Google Keep</string>
+    <string name="tip_8_1_media_description">סרטון המסביר איך לרשום הערות</string>
+    <string name="tip_8_1_summary">"עלה במוחך רעיון מדהים ואינך רוצה לשכוח אותו? באפליקציית Google Keep אפשר להוסיף הערות, רשימות, תמונות וקובצי אודיו.
+
+אפשר גם להגדיר תזכורות למשימות שרוצים לסיים. באמצעות Keep אפשר גם לשתף הערות בקלות עם חברים ובני משפחה."</string>
+    <string name="tip_8_1_title">רישום הערות ועוד באמצעות Google Keep</string>
+    <string name="tip_8_2_link">התקנה של חדשות Google</string>
+    <string name="tip_8_2_link_off">התקנה של חדשות Google</string>
+    <string name="tip_8_2_link_on">פתיחה של חדשות Google</string>
+    <string name="tip_8_2_media_description">סרטון על חדשות Google</string>
+    <string name="tip_8_2_summary">"אפשר להתעדכן במבזקים האחרונים, בידיעות מקומיות ובחדשות מהעולם.
+
+בהקשה פשוטה ניתן לראות את הכותרות העדכניות ביותר מהמקורות המועדפים עליך. למשל, יופיעו ציר זמן של אירועים חשובים, דעות, ניתוחים ופריטים נוספים שיעזרו לך להבין את הסיפור לעומקו."</string>
+    <string name="tip_8_2_title">להישאר מעודכנים באמצעות חדשות Google</string>
+    <string name="tip_8_3_link">להתקנת Google Pay</string>
+    <string name="tip_8_3_link_off">להתקנת Google Pay</string>
+    <string name="tip_8_3_link_on">לפתיחת Google Pay</string>
+    <string name="tip_8_3_media_description">סרטון בנושא Google Pay</string>
+    <string name="tip_8_3_summary">"דרך Google Pay, אפשר לשלם במהירות במיליוני חנויות באמצעות טלפון ה-Pixel בלבד. כדי לעשות זאת:
+
+1. מוסיפים כרטיס ל-Google Pay‏
+2. מחפשים את הסמל 'תשלום ללא מגע'[icon_span] בקופה
+3. מבטלים את נעילת הטלפון ומחזיקים אותו ליד מסוף התשלום
+4. מחכים לראות את סימן הווי
+
+וזהו!"</string>
+    <string name="tip_8_3_title">תשלום באמצעות Pixel</string>
+    <string name="tips_nav_a11y_media_description">סרטון על השימוש בתנועת נגישות חדשה</string>
+    <string name="tips_nav_a11y_summary">"כדי לגשת להקראה או להגדלה, יש להחליק למעלה מתחתית המסך עם שתי אצבעות.
+
+כדי לעבור בין אפליקציות נגישות, יש להחליק למעלה עם שתי אצבעות ולהחזיק.
+
+ניתן להשתמש בתנועות אלו לאחר סיום ההגדרה."</string>
+    <string name="tips_nav_a11y_title">שימוש בתנועת נגישות חדשה</string>
+    <string name="title_download_completed_dialog">טעינה מחדש של טיפים חדשים</string>
+    <string name="try_it_text">רוצה לנסות?</string>
+    <string name="zero_state_primary">קראת הכול</string>
+    <string name="zero_state_secondary">כדאי לבדוק שוב מאוחר יותר ולראות אם יש טיפים חדשים</string>
+</resources>
